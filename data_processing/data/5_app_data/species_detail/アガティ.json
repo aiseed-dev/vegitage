@@ -1,0 +1,712 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(Kew, GRIN)および農業生態学の文献から情報を統合。野生の祖先種に関する具体的な情報は限定的。"
+    },
+    "primary_name": "Vegetable Hummingbird",
+    "scientific_name": "Sesbania grandiflora",
+    "plant_type": "木本",
+    "edible_parts": [
+      "花",
+      "葉",
+      "果実"
+    ],
+    "origin_region": "南アジア、東南アジア",
+    "wild_relatives": [
+      "Sesbania sesban",
+      "Sesbania bispinosa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アジア地域の民族植物学的な記録は豊富。先住民コミュニティに特化した名称の記録は、地域名に包含されている場合が多い。"
+    },
+    "international": {
+      "en": [
+        "Vegetable Hummingbird",
+        "Agati",
+        "Hummingbird Tree",
+        "Butterfly Tree",
+        "Scarlet Wisteria"
+      ],
+      "scientific_common": "Sesbania"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "अगस्ति",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "அகத்தி",
+            "script": "Tamil"
+          },
+          {
+            "lang": "bn",
+            "name": "বকফুল",
+            "script": "Bengali"
+          },
+          {
+            "lang": "si",
+            "name": "Katuru Murunga",
+            "script": "Sinhala"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "แค",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "So đũa",
+            "script": "Latin"
+          },
+          {
+            "lang": "id",
+            "name": "Turi",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Turi",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Katurai",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明",
+        "name": "不明",
+        "cultural_significance": "特定の先住民コミュニティに限定された名称の国際的な記録は少ない。地域名は各地域の土着言語に由来し、広範な文化的意義を持つ。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Pea family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Sesbania",
+      "la": "Sesbania"
+    },
+    "species": {
+      "en": "Vegetable Hummingbird",
+      "la": "Sesbania grandiflora"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "form",
+        "name": "Sesbania grandiflora f. coccinea (red-flowered form)"
+      },
+      {
+        "rank": "form",
+        "name": "Sesbania grandiflora f. alba (white-flowered form)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "南アジア、東南アジアの食文化および伝統医学に関する文献は非常に豊富。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "緑肥",
+          "家畜飼料"
+        ],
+        "traditional_uses": "花や若葉はカレー、スープ、サラダに使用される。タイではKaeng Som（酸味のあるスープ）に不可欠。インドネシアでは蒸してピーナッツソース（Pecel）と和える。庭木や寺院の境内にも植えられる。",
+        "seasonal_significance": "雨季の終わりから乾季にかけて開花し、季節の移り変わりを示す食材として重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "アグロフォレストリー"
+        ],
+        "traditional_uses": "アーユルヴェーダ医学で重要な薬草。葉（Agathi Keerai）は鉄分が豊富で、特に南インドで健康増進のために食される。花は神への供物としても使われることがある。",
+        "seasonal_significance": "地域によるが、主にモンスーン後の涼しい季節に利用される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "タイ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Kaeng Som Dok Khae (แคส้มดอกแค)",
+          "Dok Khae Tod (ดอกแคทอด)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "炒め物",
+          "揚げ物"
+        ],
+        "cultural_context": "スープやカレーに独特のほろ苦さと食感を加える重要な食材。家庭料理で頻繁に利用される。"
+      },
+      {
+        "cuisine": "インドネシア料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Pecel Kembang Turi",
+          "Lalab"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "蒸す"
+        ],
+        "cultural_context": "茹でたり蒸したりして、サンバルやピーナッツソースと共に食べるのが一般的。サラダの具材として彩りと栄養を加える。"
+      },
+      {
+        "cuisine": "南インド料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Agathi Keerai Poriyal"
+        ],
+        "preparation_methods": [
+          "炒め煮"
+        ],
+        "cultural_context": "主に葉が利用され、栄養価の高い副菜として、特に産後の女性や貧血気味の人に推奨される伝統的な健康食。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "サンスクリット語の文献や古代の医学書（アーユルヴェーダ）に記述があり、数千年にわたる利用の歴史を持つ。",
+      "trade_routes": "東南アジア島嶼部における海上交易を通じて、インドから東南アジア全域、さらには太平洋諸島へと伝播したと考えられる。",
+      "cultural_exchange": "食文化と伝統医学の重要な要素として、南アジアと東南アジア間の文化交流において役割を果たした。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、長年にわたり家々の庭先で栽培・選抜されてきた、典型的な「庭先作物」。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて温暖で湿潤な気候。明確な乾季がある地域でも生育可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜が降りない地域に限る。冬季に落葉することがある。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱く、生育できない。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "低温と乾燥に耐えられない。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑があれば生育可能。乾燥には比較的強いが、生産性は低下する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため生育できない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年（雨季の初めが最適）",
+        "harvest_season": "植え付け後6-9ヶ月で開花開始、その後断続的に収穫",
+        "growing_period_days": 270
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "水利用可能性",
+        "日照",
+        "土壌肥沃度",
+        "剪定方法"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "主に国内消費のための小規模・自家栽培。"
+        },
+        {
+          "country": "インドネシア",
+          "production_share": null,
+          "characteristics": "家庭菜園やアグロフォレストリーシステムで広く栽培。"
+        },
+        {
+          "country": "タイ",
+          "production_share": null,
+          "characteristics": "国内市場向けに商業的な栽培も行われている。"
+        },
+        {
+          "country": "フィリピン",
+          "production_share": null,
+          "characteristics": "自家消費および地域市場向けに栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "花と葉の基本的な栄養成分に関するデータは存在するが、品種や栽培条件による変動に関する研究は少ない。伝統的薬効に関する記述は多いが、臨床研究は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "73 (花)",
+        "protein_g": "8.4 (葉)",
+        "carbs_g": "11.7 (花)",
+        "fat_g": "0.9 (花)",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA",
+          "amount": "豊富",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "豊富",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "豊富",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "豊富",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗菌作用、抗炎症作用"
+      },
+      {
+        "compound": "タンニン",
+        "concentration": "不明",
+        "health_effect": "収斂作用、抗菌作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "解熱",
+          "頭痛・鼻炎の緩和",
+          "消化促進",
+          "駆虫",
+          "創傷治癒"
+        ],
+        "preparation": "葉の搾り汁、花の煎じ薬、樹皮の粉末"
+      },
+      {
+        "region": "東南アジア",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "咳止め",
+          "解熱",
+          "下剤"
+        ],
+        "preparation": "花の煎じ薬、葉の湿布"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化活性",
+        "抗菌活性",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "肝保護作用",
+        "血糖降下作用"
+      ],
+      "safety_considerations": "種子には軽度の毒性を持つ化合物が含まれる可能性があり、大量摂取は避けるべき。食用とするのは主に花、若葉、若い莢。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アジア各国の料理書や民族植物学の記録に詳細な記述が多数存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東南アジア",
+        "methods": [
+          "煮る（スープ、カレー）",
+          "蒸す",
+          "炒める",
+          "揚げる（フリッター）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "魚介類",
+          "ココナッツミルク",
+          "タマリンド",
+          "唐辛子",
+          "ハーブ類"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "炒め煮（ポリヤル）",
+          "蒸す",
+          "スープ"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "ココナッツ",
+          "マスタードシード",
+          "レンズ豆",
+          "玉ねぎ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "南アジア",
+          "東南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "葉は栄養価を保持するが、香りは失われる。花は通常、生で利用される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな苦味、豆様の風味、わずかな甘み",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "花は柔らかく、わずかにシャキッとした食感。葉は調理すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、制御環境下での定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "22-30°C",
+      "extreme_heat_survival": "40°C以上でも生存可能だが生産性は低下",
+      "cold_tolerance": "5°C以下でダメージ、霜に耐えられない"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "1000mm以上"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "幹が比較的脆いため、強風で折れることがある。",
+      "hail_damage_recovery": "成長が早いため、葉の損傷からの回復は早い。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "陽性反応が期待される（C3植物として）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により害虫（特に穿孔虫）の発生サイクルが変化し、被害が増加する可能性。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "窒素固定菌との共生関係は、土壌温度の上昇により影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯アジア",
+        "2050_projection": "現在の栽培地の北限がわずかに北上する可能性。一部地域では干ばつの深刻化が課題となる。",
+        "2100_projection": "さらなる北上と、極端な気象現象による生産不安定性の増大が予測される。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Sesbania属内の交雑に関する育種研究は存在するが、自然環境下での交雑事例に関する具体的な報告は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "赤花種と白花種の交雑は容易"
+      ],
+      "interspecific_compatibility": [
+        "Sesbania sesbanなどの近縁種との人工交配の報告がある。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジア各地に多様な在来種が存在すると考えられるが、体系的な収集・評価は不十分。",
+      "wild_gene_pool": "同属の野生種が遺伝資源として利用できる可能性がある。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "自家受粉もするため、地域集団では近交弱勢のリスクは低いと考えられる。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "不明",
+        "environmental_pressure": "不明",
+        "adaptive_response": "不明",
+        "time_scale": "不明",
+        "mechanism": "不明"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐塩性や耐水性を持つ近縁種との交雑により、耐性向上の可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "開花時期の調整、樹形の矮小化などの可能性がある。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "Sesbania属内では染色体数が共通する種が多い（2n=12, 24）。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ、塩害、病害虫",
+        "adaptive_traits": "根系の発達、浸透圧調整能力、抵抗性遺伝子",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科の窒素固定樹木としての一般的な特性に関する知見は豊富。本種に特化した定量的な研究は少ないが、アグロフォレストリーでの利用事例から類推可能。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深く伸び、側根が広がる。土壌の硬盤層を破壊し、水や空気の通りを良くする。",
+      "organic_matter_contribution": "落葉が多く、良質な有機物（マルチ）を供給する。",
+      "soil_structure_improvement": "根系が土壌粒子を団粒化させる。",
+      "erosion_control": "樹冠が雨滴の衝撃を和らげ、根が土壌を保持するため、侵食防止に効果的。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。深層の養分を地上部に引き上げる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きく特徴的な花は、鳥類（ハチドリなど）や大型の蜂にとって重要な蜜源となる。",
+      "beneficial_insect_habitat": "天敵昆虫の生息地や避難場所を提供する。",
+      "soil_microorganism_interaction": "窒素固定菌をはじめとする多様な土壌微生物との共生関係を構築する。",
+      "above_ground_biodiversity": "アグロフォレストリーシステムにおいて、多様な生物に生息空間を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が作る隙間が水の浸透を促進する。",
+      "moisture_retention": "落葉マルチが土壌表面の蒸発を防ぐ。",
+      "runoff_reduction": "樹冠と地表の有機物が雨水の流出を抑制する。",
+      "groundwater_recharge": "浸透促進により地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "非常に成長が早く、数年でかなりの量の炭素を地上部バイオマスに固定する。",
+      "below_ground_carbon": "深い根系が土壌深くに炭素を蓄積する。",
+      "soil_carbon_enhancement": "落葉や根の分解を通じて、土壌有機炭素を増加させる。",
+      "carbon_sequestration_rate": "高いと推定されるが、定量データは不足。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "野菜作物（日陰を提供し、窒素を供給）",
+        "香辛料作物（コショウやバニラの支柱）",
+        "根菜類（土壌を柔らかくする）"
+      ],
+      "natural_pest_control": "天敵昆虫を誘引することで、害虫の発生を抑制する可能性がある。",
+      "nutrient_sharing": "窒素固定により、周囲の植物の成長を助ける。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な機能を持つため、農業生態系の安定性を高める。",
+      "stress_tolerance": "窒素供給や土壌改良を通じて、システム全体のストレス耐性を向上させる。",
+      "recovery_capacity": "成長が早いため、剪定や軽微なダメージからの回復が早い。",
+      "adaptability": "多様なアグロフォレストリーシステムに組み込むことが可能。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食品科学や持続可能な農業の分野での関心が高まっているが、商業的な大規模展開はまだ限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパクで微量栄養素が豊富なため、植物性食品としての価値が高い。",
+      "food_security_contribution": "少ない投入で栽培でき、食料と飼料、燃料、土壌改良材を同時に供給できるため、小規模農家の食料安全保障に貢献する。",
+      "local_food_system_integration": "自家栽培や地域市場での流通に適している。",
+      "alternative_protein_potential": "葉は高いタンパク質含有量を持ち、葉タンパク質濃縮物（LPC）の原料としての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エスニック食品市場",
+        "健康志向の消費者向け市場",
+        "機能性食品・サプリメント原料"
+      ],
+      "value_added_products": [
+        "乾燥葉粉末（栄養補助食品）",
+        "花の冷凍・レトルト食品",
+        "植物性プロテイン製品"
+      ],
+      "niche_market_value": "ユニークな食文化と栄養価を持つ「スーパーフード」として、ニッチ市場で高い価値を持つ可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "種としては広く分布しているため危機にはないが、地域固有の遺伝的多様性に関する評価はほとんど行われていない。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "直接的な脅威は少ないが、伝統的な農業景観の消失は遺伝的多様性の喪失につながる。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "各地の在来種の収集・評価と遺伝資源バンクでの保存",
+      "伝統的知識の記録と次世代への継承支援",
+      "アグロフォレストリーシステムでの利用促進"
+    ],
+    "priority_conservation_regions": [
+      "南インド",
+      "インドネシア諸島",
+      "インドシナ半島"
+    ],
+    "ex_situ_conservation_status": "いくつかの国際・国内ジーンバンクで種子が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "伝統的な家庭菜園やアグロフォレストリーシステム内での保全が主体。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家AIとして、収集した情報に基づき総合的な評価を実施。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "東南アジア大陸部",
+      "南インド",
+      "インドネシア"
+    ],
+    "knowledge_gaps": [
+      "気候変動要因（高温、乾燥、CO2）に対する品種レベルでの生理学的応答の定量的データ",
+      "リジェネラティブ農業における炭素隔離能力や土壌改良効果の定量的評価",
+      "地域ごとの遺伝的多様性の体系的な評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主に花の色で区別されるが、厳密な品種分類ではなく、形態的な変異として扱われることが多い。"
+      },
+      "variety_name": "Alba form",
+      "local_name": "Turi Putih (インドネシア語), Dok Khae Khao (タイ語)",
+      "origin_region": "南アジア、東南アジア",
+      "distinctive_characteristics": "純白の大きな花をつける。最も一般的に食用とされる。",
+      "cultural_importance": "多くの地域で標準的な食用種として認識されている。",
+      "climate_adaptation": "標準的な種の特性に準じる。",
+      "conservation_status": "Not Threatened"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主に花の色で区別されるが、厳密な品種分類ではなく、形態的な変異として扱われることが多い。"
+      },
+      "variety_name": "Coccinea form",
+      "local_name": "Turi Merah (インドネシア語), Dok Khae Daeng (タイ語)",
+      "origin_region": "南アジア、東南アジア",
+      "distinctive_characteristics": "鮮やかな赤色またはピンク色の花をつける。白花種よりやや苦味が強いとされることがある。",
+      "cultural_importance": "食用にされることもあるが、観賞用や儀式用としての価値が高い地域もある。",
+      "climate_adaptation": "標準的な種の特性に準じる。",
+      "conservation_status": "Not Threatened"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Agroforestry Centre (ICRAF) database",
+      "PROSEA (Plant Resources of South-East Asia)",
+      "Ethnobotanical journals",
+      "Royal Botanic Gardens, Kew - Plants of the World Online"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "地域的な遺伝的多様性の評価と保全状況"
+    ],
+    "regional_data_coverage": "南アジアと東南アジアは豊富だが、アフリカやラテンアメリカでの導入事例に関するデータは少ない。",
+    "missing_information": [
+      "世界的な生産統計",
+      "国際貿易データ",
+      "品種ごとの詳細な栄養分析"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

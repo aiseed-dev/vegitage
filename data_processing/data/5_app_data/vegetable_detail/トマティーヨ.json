@@ -1,0 +1,629 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業研究機関の情報を統合。栽培化の歴史と現代の利用に関する情報が豊富。"
+    },
+    "primary_name": "Tomatillo",
+    "scientific_name": "Physalis philadelphica",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実"
+    ],
+    "origin_region": "メソアメリカ（現在のメキシコ）",
+    "wild_relatives": [
+      "Physalis angulata",
+      "Physalis cinerascens",
+      "Physalis pruinosa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "言語学的データベースと民族植物学の記録を統合。特にメソアメリカ地域での名称の多様性が豊富。"
+    },
+    "international": {
+      "en": [
+        "Tomatillo",
+        "Mexican husk tomato",
+        "Groundcherry"
+      ],
+      "scientific_common": "Tomatillo"
+    },
+    "regional": [
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Tomatillo",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Tomate verde",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Miltomate",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "हरी टमाटर",
+            "script": "Deva"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ナワ族（アステカ）",
+        "name": "tōmatl",
+        "cultural_significance": "「トマト」の語源。栽培化され、アステカの市場で広く取引されていた基本的な食材。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づき、標準的な分類情報を記載。"
+    },
+    "family": {
+      "en": "Nightshade",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Groundcherry",
+      "la": "Physalis"
+    },
+    "species": {
+      "en": "Tomatillo",
+      "la": "philadelphica"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "メキシコ料理文化とメソアメリカの歴史に関する情報が豊富。他の地域での文化的価値は限定的。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "メソアメリカ（特にメキシコ）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "サルサ・ベルデ（緑のソース）の主原料として不可欠。煮込み料理（例：チレ・ベルデ、ポソレ・ベルデ）の酸味ととろみ付けに使用される。アステカ時代から重要な食材。",
+        "seasonal_significance": "夏の収穫を象徴する食材。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米（アメリカ合衆国）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "メキシコ系移民コミュニティを通じて普及。南西部料理で広く利用される。家庭菜園でも人気の作物。",
+        "seasonal_significance": "夏の終わりを告げる収穫物。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "メキシコ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Salsa Verde",
+          "Chile Verde con Cerdo",
+          "Pozole Verde",
+          "Enchiladas Suizas"
+        ],
+        "preparation_methods": [
+          "生食（Salsa cruda）",
+          "茹でる",
+          "焼く",
+          "炒める"
+        ],
+        "cultural_context": "メキシコ料理の酸味と風味の基盤を形成する基本的な食材。屋台のタコスから家庭料理、高級レストランまで幅広く使用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "トマト（Solanum lycopersicum）よりも先にメソアメリカで栽培化されたと考えられている。",
+      "trade_routes": "アステカ帝国内の交易路を通じて広く流通していた。",
+      "cultural_exchange": "スペインによるアメリカ大陸征服後、ヨーロッパに紹介されたが、トマトほどは普及しなかった。20世紀にメキシコ料理の世界的普及と共に再評価された。",
+      "domestication_history": "野生のPhysalis種から、より大きく、宿存萼（殻）が破れるタイプのものが選抜されてきた。現在もメキシコのミルパ（伝統的混植畑）では半野生的な品種が栽培されている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "乾季のある熱帯高地で栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "最適。長い生育期間と温暖な気候が適している。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な季節に一年草として栽培される。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため、商業栽培は困難。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必要だが、乾燥には比較的強い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（最終霜後）",
+        "harvest_season": "真夏から初秋",
+        "growing_period_days": "75-100"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "早春または秋",
+        "harvest_season": "晩春または冬",
+        "growing_period_days": "70-90"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "受粉（自家不和合性のため他家受粉が必要）",
+        "日照時間",
+        "水やり",
+        "土壌肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "メキシコ",
+          "production_share": null,
+          "characteristics": "世界最大の生産国であり、消費国。多様な在来種が栽培されている。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": null,
+          "characteristics": "カリフォルニア州やテキサス州で商業生産が盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や地域による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "32",
+        "protein_g": "1.0",
+        "carbs_g": "5.8",
+        "fat_g": "0.5",
+        "fiber_g": "1.9"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "11.7 mg",
+          "daily_value_percent": "13%"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "10.1 µg",
+          "daily_value_percent": "8%"
+        },
+        {
+          "nutrient": "ナイアシン (B3)",
+          "amount": "1.9 mg",
+          "daily_value_percent": "12%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "268 mg",
+          "daily_value_percent": "6%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ウィザノライド類 (Withanolides)",
+        "concentration": "不明",
+        "health_effect": "抗炎症、抗がん作用の可能性が研究されている。"
+      },
+      {
+        "compound": "フラボノイド (例: ケルセチン)",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "メキシコ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "解熱",
+          "糖尿病の管理",
+          "扁桃腺炎の治療"
+        ],
+        "preparation": "果実の煎じ汁を飲用する、または湿布として使用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化物質の供給源"
+      ],
+      "ongoing_research": [
+        "ウィザノライド類の抗がん・抗炎症作用",
+        "血糖値調整作用"
+      ],
+      "safety_considerations": "ナス科アレルギーを持つ人は注意が必要。未熟な果実や植物の他の部分は有毒の可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "メキシコ料理における利用法については情報が非常に豊富。他の地域での応用は限定的。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "メキシコ・北米",
+        "methods": [
+          "生で刻む",
+          "茹でる",
+          "ローストする",
+          "グリルする",
+          "炒める"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "唐辛子（ハラペーニョ、セラーノ）",
+          "コリアンダー（シアントロ）",
+          "タマネギ",
+          "ニンニク",
+          "ライム"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "瓶詰め・缶詰",
+        "regions": [
+          "北米"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "加熱により酸味が和らぎ、色が濃くなる。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "6-12ヶ月",
+        "quality_changes": "解凍後に食感が柔らかくなるが、風味は比較的保たれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やかな酸味、柑橘系に似た風味、ほのかな甘み、ハーブのような香り",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "生では固くシャキシャキしている。加熱すると柔らかくなり、ソースにとろみを与えるペクチンを放出する。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "38°C以上では花が落ち、実付きが悪くなる可能性がある。",
+      "cold_tolerance": "0°C（霜に非常に弱い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（茎は比較的しなやかだが、強風で倒れることがある）",
+      "hail_damage_recovery": "中（果実が傷つきやすい）",
+      "rapid_temperature_change": "中程度に対応"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般のC3植物と同様に、光合成が促進される可能性がある）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、オオタバコガやカメムシ類の発生時期や地域が拡大する可能性がある。",
+      "disease_resistance_stability": "多くの在来種は地域の病害に対し比較的強いが、新しい病原体への抵抗性は不明。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "メキシコ中央高原、アメリカ南西部",
+        "2050_projection": "栽培適地が北上し、カナダ南部やアメリカ中西部での栽培がより容易になる可能性がある。一方、現在の主産地では熱ストレスと水不足のリスクが増大する。",
+        "2100_projection": "北上傾向はさらに進むが、極端気象の頻発により安定生産が困難になる地域が増える可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "自家不和合性の性質はよく知られているが、種間交雑に関する体系的なデータは限定的。在来種の遺伝的多様性は高いと評価されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "すべてのP. philadelphica品種間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "P. angulataなど一部の近縁種と交雑の可能性があるが、稔性は低いことが多い。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "メキシコのミルパ環境では、栽培種と半野生種（miltomate）の間で自然交雑が頻繁に起こっている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。メキシコには色、形、大きさ、風味が異なる多様な在来種（クリオーリョ種）が存在する。",
+      "wild_gene_pool": "野生の近縁種との遺伝子流動が、病害虫抵抗性や環境適応性の源となっている。",
+      "adaptive_genetic_variation": "高い。自家不和合性による他家受粉が遺伝的組換えを促進し、多様な環境への適応を可能にしてきた。",
+      "inbreeding_depression_risk": "低い（自家不和合性のため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "メキシコ中央高原",
+        "environmental_pressure": "高地の冷涼な夜間と強い日差し、乾季",
+        "adaptive_response": "小ぶりで風味の濃い果実をつける在来種の分化。",
+        "time_scale": "数百年～数千年",
+        "mechanism": "地域農家による継続的な種子選抜と、周辺の野生種との自然交雑。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる高い可能性がある。",
+      "improved_nutritional_content": "紫色の品種はアントシアニンを多く含み、交雑により機能性成分を強化できる可能性がある。",
+      "novel_characteristics": "風味、果実の大きさ、保存性など、多様な形質を組み合わせる可能性がある。",
+      "hybrid_vigor_potential": "高い。他家受粉性のため、雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "自家不和合性のため、交配には最低2個体が必要。",
+      "chromosome_compatibility": "種内では問題ない。種間では倍数性の違いなどが障壁となりうる。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ、病害虫、地域の土壌条件",
+        "adaptive_traits": "根系の発達、病害抵抗性遺伝子、開花タイミング",
+        "heritability": "不明",
+        "response_to_selection": "在来種の多様性が示すように、選択への応答性は高いと考えられる。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "トマティーヨに特化したリジェネラティブ農業の研究はほとんどない。以下の記述は、植物の一般的特性と栽培慣行からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的広範囲に広がる繊維状の根系を持つ。",
+      "organic_matter_contribution": "収穫後の残渣を土壌に還元することで有機物を供給する。",
+      "soil_structure_improvement": "根が土壌団粒構造の形成を助ける可能性がある。",
+      "erosion_control": "生育期間中は地表を覆い、土壌侵食を軽減する。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチ、マルハナバチ、その他の土着のハチにとって非常に魅力的な蜜源・花粉源である。自家不和合性のため、送粉者の存在が収量に直結する。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "送粉昆虫の多様性を支えることで、周辺生態系に貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌の浸透性を改善する可能性がある。",
+      "moisture_retention": "中程度。マルチングとの組み合わせが効果的。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "一年草のため限定的だが、根の残渣は土壌炭素に貢献する。",
+      "soil_carbon_enhancement": "不耕起栽培やカバークロップとの組み合わせで効果が期待できる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マリーゴールド（線虫忌避）",
+        "バジル（害虫忌避）",
+        "ニンジン",
+        "タマネギ"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "送粉者との強い結びつきにより、生物多様性の高い農業生態系の指標となりうる。",
+      "stress_tolerance": "比較的高い。",
+      "recovery_capacity": "不明",
+      "adaptability": "遺伝的多様性が高いため、適応性は高いと考えられる。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場動向と食文化のトレンドに関する情報が豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーでビタミン、ミネラルが豊富なため、健康的な植物性食生活に貢献する。",
+      "food_security_contribution": "比較的少ない投入で栽培でき、気候変動にもある程度強いため、地域の食料安全保障に貢献する可能性がある。",
+      "local_food_system_integration": "家庭菜園や小規模農家での栽培が容易で、ファーマーズマーケットなどでの販売に適している。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "メキシコ料理の世界的な人気拡大",
+        "ユニークな風味を持つ新しいソースや調味料としての開発"
+      ],
+      "value_added_products": [
+        "瓶詰めサルサ・ベルデ",
+        "冷凍トマティーヨ",
+        "グルメ調味料",
+        "乾燥トマティーヨパウダー"
+      ],
+      "niche_market_value": "紫や黄色の品種は、その珍しい色と風味でニッチ市場での価値が高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "在来種の消失リスクは指摘されているが、定量的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "伝統的なミルパ農法の衰退が、半野生種や在来種の生息地を脅かしている。",
+    "climate_change_vulnerability": "中。主産地での水不足と熱ストレスが懸念される。",
+    "cultural_erosion_risk": "高。伝統農法とそれに付随する食文化が失われることで、多様な在来種が栽培されなくなるリスク。",
+    "conservation_actions_needed": [
+      "在来種の種子バンク（域外保全）の充実",
+      "伝統農法を実践する農家への支援（域内保全）",
+      "在来種の特性評価と利用促進"
+    ],
+    "priority_conservation_regions": [
+      "メキシコ中央部および南部"
+    ],
+    "ex_situ_conservation_status": "主要な国際種子バンクに一部の品種が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "一部の地域コミュニティやNGOによる保全活動が行われているが、限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた多角的な情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "メキシコ（オアハカ州、プエブラ州）",
+      "グアテマラ"
+    ],
+    "knowledge_gaps": [
+      "在来種ごとの栄養価と機能性成分の比較分析",
+      "異なる環境ストレス（干ばつ、高温）に対する生理学的応答の定量的データ",
+      "リジェネラティブ農法における土壌への具体的貢献度"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "商業品種の情報は多いが、在来種に関する体系的な記述は少ない。"
+      },
+      "variety_name": "Toma Verde",
+      "local_name": "Toma Verde",
+      "origin_region": "メキシコ（商業的選抜）",
+      "distinctive_characteristics": "中～大玉で、均一な緑色。商業栽培で最も一般的な標準品種。生産性が高い。",
+      "cultural_importance": "現代の商業生産と国際流通の基盤となっている。",
+      "climate_adaptation": "広い地域に適応するが、在来種ほどの特化した耐性はない可能性がある。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "商業品種の情報は多いが、在来種に関する体系的な記述は少ない。"
+      },
+      "variety_name": "Purple Tomatillo",
+      "local_name": "Tomate Morado",
+      "origin_region": "メキシコ",
+      "distinctive_characteristics": "熟すと果皮が紫色になる。緑色の品種より甘みが強く、酸味が穏やか。アントシアニンを豊富に含む。",
+      "cultural_importance": "伝統的な市場で見られる。その美しい色から、近年シェフや家庭菜園家の間で人気が高まっている。",
+      "climate_adaptation": "不明",
+      "conservation_status": "低リスク"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "在来種は地域ごとに多様で、体系的な情報収集が課題。"
+      },
+      "variety_name": "De Milpa (Milpero)",
+      "local_name": "Miltomate",
+      "origin_region": "メキシコ",
+      "distinctive_characteristics": "果実が非常に小さい（ビー玉サイズ）。風味が非常に濃く、酸味と甘みのバランスが良い。半野生的にトウモロコシ畑（ミルパ）で自生・栽培される。",
+      "cultural_importance": "伝統的な農法と食文化を象徴する品種群。最高の風味を持つとされ、地域で珍重される。",
+      "climate_adaptation": "栽培されている地域の微気候に高度に適応している。",
+      "conservation_status": "脆弱（伝統農法の衰退による）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "USDA FoodData Central",
+      "World Flora Online",
+      "民族植物学論文",
+      "メキシコ生物多様性情報委員会(CONABIO)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "在来種の網羅的な遺伝子情報と機能性"
+    ],
+    "regional_data_coverage": "メソアメリカに関する情報は豊富だが、他の地域は限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "種間交雑の成功率に関する詳細データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

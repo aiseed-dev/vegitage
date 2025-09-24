@@ -1,0 +1,570 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(KEW, GBIF)および園芸学の文献から情報を統合。野生近縁種に関する詳細な遺伝的関係は部分的な情報に留まる。"
+    },
+    "primary_name": "Cucamelon",
+    "scientific_name": "Melothria scabra",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "果実",
+      "根"
+    ],
+    "origin_region": "メキシコ、中央アメリカ",
+    "wild_relatives": [
+      "Melothria pendula",
+      "Melothria guadalupensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "英語圏での通称は広く記録されているが、原産地での先住民言語名は特定が困難。スペイン語名は一般的。"
+    },
+    "international": {
+      "en": [
+        "Mouse Melon",
+        "Mexican Sour Gherkin",
+        "Sandita"
+      ],
+      "scientific_common": "Melothria"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Sandita",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Pepinillo agrio mexicano",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Cucamelon",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明",
+        "name": "不明",
+        "cultural_significance": "先コロンブス期から利用されていたと考えられているが、特定のコミュニティでの伝統名は確認されていない。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界的に認知された植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Melonette",
+      "la": "Melothria"
+    },
+    "species": {
+      "en": "Rough melothria",
+      "la": "scabra"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "原産地での伝統的利用は存在するが、民族植物学的記録は限定的。近年の世界的普及は園芸愛好家やシェフによるもので、歴史的連続性は薄い。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "メキシコ・中央アメリカ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "主に生食、ピクルス、サルサとして利用される。一部地域では伝統医療に利用された可能性があるが、詳細は不明。",
+        "seasonal_significance": "夏の雨季に収穫される季節の恵み。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米・ヨーロッパ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "伝統的利用は存在しない。21世紀に入り、珍しい野菜として家庭菜園やニッチ市場で人気を博している。主にサラダ、カクテルの飾り、ピクルスに利用。",
+        "seasonal_significance": "夏の家庭菜園の作物。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "メキシコ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Salsa cruda",
+          "Ensaladas"
+        ],
+        "preparation_methods": [
+          "生食",
+          "ピクルス"
+        ],
+        "cultural_context": "家庭の庭や市場で手に入る身近な食材。爽やかな酸味が特徴。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "先コロンブス期からメキシコおよび中央アメリカの先住民によって栽培・利用されていたと考えられている。",
+      "trade_routes": "歴史的な大規模交易路での役割は記録されていない。",
+      "cultural_exchange": "近年、インターネットや種子交換を通じて世界中の園芸愛好家に広まり、新たな文化交流の対象となっている。",
+      "domestication_history": "正確な栽培化の歴史は不明だが、野生種が自生する地域で選択・栽培が始まったと推測される。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好むが、水はけの良い土壌が必要。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "最適な生育環境。長い収穫期間が期待できる。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の心配がなくなった春に播種し、夏に収穫する一年草として栽培可能。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "短い夏と厳しい冬のため、栽培は困難。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥には比較的強いが、果実の生産には定期的な水やりが必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": "65-75"
+      },
+      {
+        "climate_zone": "熱帯・亜熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "通年可能",
+        "growing_period_days": "60-70"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水分供給",
+        "受粉活動",
+        "土壌肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "メキシコ",
+          "production_share": null,
+          "characteristics": "主に国内市場向けの小規模生産および自家消費。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": null,
+          "characteristics": "ファーマーズマーケットや高級レストラン向けの小規模な商業生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "詳細な栄養分析データはほとんど存在しない。一般的なウリ科野菜の特性や、断片的な情報に基づく推定が多い。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "不明",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "抗酸化物質（リコピン、β-カロテンなど）",
+        "concentration": "不明",
+        "health_effect": "細胞の酸化ストレス軽減の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "メキシコ・中央アメリカ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "血糖値の調整",
+          "利尿作用"
+        ],
+        "preparation": "生食またはジュース。科学的根拠は確立されていない。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化能",
+        "血糖降下作用の可能性"
+      ],
+      "safety_considerations": "一般的に安全とされるが、過剰摂取に関するデータはない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理ブログ、園芸雑誌、レストランのメニューから利用法が広く確認できる。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "メキシコ・中央アメリカ",
+        "methods": [
+          "生食",
+          "ピクルス",
+          "サルサ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "唐辛子",
+          "コリアンダー",
+          "ライム",
+          "タマネギ"
+        ]
+      },
+      {
+        "region": "北米・ヨーロッパ",
+        "methods": [
+          "生食（サラダ）",
+          "ピクルス",
+          "カクテルの飾り",
+          "炒め物"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ジン",
+          "ウォッカ",
+          "ミント",
+          "フェタチーズ",
+          "オリーブオイル"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ピクルス（酢漬け）",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "シャキシャキした食感が残り、酸味が増す。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "キュウリのような爽やかさに、ライムのような強い酸味が加わった味。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "皮はやや硬いが、中はジューシーでシャキシャキしている。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。将来予測は原産地の気候特性からの類推に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "不明"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（つるは折れやすいが、回復力は高い）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的にウリ科は正の応答を示す可能性）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "一般的なキュウリの病害虫（うどんこ病、べと病）に対して比較的強い耐性を持つため、有利な可能性がある。",
+      "disease_resistance_stability": "高",
+      "beneficial_organism_relationships": "花はミツバチなど多様な花粉媒介者を引き寄せる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯、温帯（夏期）",
+        "2050_projection": "温帯域での栽培可能期間の延長と、栽培可能北限の上昇。",
+        "2100_projection": "現在の亜熱帯地域で熱ストレスを受ける可能性。高緯度地域での適応性が増す。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Melothria属内の交雑親和性に関する学術研究は非常に限定的。商業的な育種プログラムが存在しないため、データが不足している。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "原産地に多様なランドレースが存在する可能性"
+      ],
+      "interspecific_compatibility": [
+        "同属の野生種（Melothria pendulaなど）との交雑可能性は理論的には存在するが、実例は報告されていない。"
+      ],
+      "intergeneric_possibility": [
+        "Cucumis属（キュウリ）やCitrullus属（スイカ）との交雑は不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地であるメキシコ・中央アメリカに未調査の遺伝的多様性が存在すると推定される。",
+      "wild_gene_pool": "近縁野生種が北米から南米にかけて分布しており、適応形質の遺伝子供給源となる可能性がある。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "世界的に流通している種子は遺伝的背景が狭い可能性があり、リスクは中程度。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁野生種との交雑により、さらなる耐乾性や耐病性の向上が期待できる。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "果実のサイズ、酸味の度合い、つるの伸長性などの形質改変の可能性。",
+      "hybrid_vigor_potential": "高"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化したリジェネラティブ農業の研究はない。一般的な特性（つる性、塊根形成）からの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "水分と養分を蓄える塊根を形成する。細根が土壌に広がる。",
+      "organic_matter_contribution": "収穫後のつるや葉が土壌有機物として還元される。",
+      "soil_structure_improvement": "不明",
+      "erosion_control": "つるが地表を覆うことで、雨滴による土壌侵食を軽減する可能性がある（リビングマルチ）。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さな黄色い花がミツバチやハナアブなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "つる性の構造が、他の小動物や昆虫に生息地を提供する可能性がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "不明",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する可能性がある。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "塊根を形成するため、地下部への炭素貯留ポテンシャルがある。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱として利用）",
+        "マメ科植物（窒素供給）"
+      ],
+      "natural_pest_control": "一般的なキュウリの害虫を寄せ付けにくい特性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "少ない投入（水、肥料、農薬）で栽培可能なため、持続可能な農業システムに貢献する。",
+      "stress_tolerance": "耐乾性、耐暑性、耐病性が高い。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンドやメディアでの露出に関する情報は豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ユニークな風味を持つ野菜として、植物性食品の多様性を高める。",
+      "food_security_contribution": "気候変動下でも安定して栽培できる可能性があるため、地域の食料安全保障に貢献しうる。",
+      "local_food_system_integration": "家庭菜園やファーマーズマーケットに適しており、地域の食料システムに容易に統合できる。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "加工品（ピクルス）市場",
+        "カクテル材料としてのレストラン需要",
+        "家庭菜園用種子市場"
+      ],
+      "value_added_products": [
+        "グルメピクルス",
+        "フレーバーウォーター",
+        "サルサ"
+      ],
+      "niche_market_value": "珍しい見た目と風味から、ニッチ市場での価値は非常に高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNなどでの評価はないが、原産地での遺伝的多様性の消失リスクは指摘されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地の中央アメリカにおける森林伐採や農地開発が、野生集団やランドレースの生息地を脅かしている。",
+    "climate_change_vulnerability": "低",
+    "cultural_erosion_risk": "伝統的な食文化が失われることで、地域固有のランドレースが栽培されなくなるリスクがある。",
+    "conservation_actions_needed": [
+      "原産地でのランドレースの調査と収集",
+      "種子銀行での遺伝資源の域外保全",
+      "地域コミュニティによる域内保全の支援"
+    ],
+    "priority_conservation_regions": [
+      "メキシコ南部",
+      "グアテマラ",
+      "ホンジュラス"
+    ],
+    "ex_situ_conservation_status": "世界各地の種子銀行で少数のアクセッションが保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "公的な大規模な取り組みは知られていない。地域農家による自家採種が主な保全手段。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIによる総合評価。"
+    },
+    "cultural_heritage_value": 5,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "メキシコ（オアハカ州、チアパス州）"
+    ],
+    "knowledge_gaps": [
+      "定量的栄養データ",
+      "気候変動要因（CO2、極端気象）への詳細な応答",
+      "原産地における遺伝的多様性の評価",
+      "Melothria属内の交雑親和性"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "商業的な品種分化はほとんどなく、一般的に「Melothria scabra」として流通している。これは原産地のランドレースを代表する概念的な品種。"
+      },
+      "variety_name": "メキシコ原産ランドレース（総称）",
+      "local_name": "Sandita",
+      "origin_region": "メキシコ、中央アメリカ",
+      "distinctive_characteristics": "スイカに似た模様の小さな果実。キュウリとライムを混ぜたような風味。旺盛なつる性で、乾燥と暑さに強い。",
+      "cultural_importance": "地域の伝統的な食材として利用されてきた。",
+      "climate_adaptation": "高い耐暑性と耐乾性を持つ。",
+      "conservation_status": "未評価（一部は遺伝的浸食のリスクあり）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "USDA GRIN Global",
+      "Horticultural Science journals",
+      "Ethnobotanical databases"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "詳細な栄養成分と機能性成分",
+      "先住民コミュニティにおける伝統的知識"
+    ],
+    "regional_data_coverage": "北米・ヨーロッパでの園芸的情報は豊富だが、原産地での民族植物学的・農学的情報は限定的。",
+    "missing_information": [
+      "商業生産統計",
+      "遺伝的多様性の具体的な評価"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

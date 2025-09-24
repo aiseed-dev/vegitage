@@ -1,0 +1,670 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information compiled from major botanical databases (Kew, GRIN) and ethnobotanical research. Data on wild relatives' distribution is well-established but genetic proximity for breeding is less studied."
+    },
+    "primary_name": "Elephant Foot Yam",
+    "scientific_name": "Amorphophallus paeoniifolius",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "茎"
+    ],
+    "origin_region": "熱帯アジア（インド、東南アジア、ニューギニア）",
+    "wild_relatives": [
+      "Amorphophallus konjac",
+      "Amorphophallus titanum",
+      "Other species within the Amorphophallus genus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names collated from ethnolinguistic databases and regional agricultural reports. Spelling variations are common."
+    },
+    "international": {
+      "en": [
+        "Elephant foot yam",
+        "Whitespot giant arum",
+        "Stink lily"
+      ],
+      "scientific_common": "Amorphophallus"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "सूरन (Suran), जिमीकंद (Jimikand)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "ওল (Ol)",
+            "script": "Bengali"
+          },
+          {
+            "lang": "ta",
+            "name": "சேனைக்கிழங்கு (Karunai kizhangu)",
+            "script": "Tamil"
+          },
+          {
+            "lang": "ml",
+            "name": "ചേന (Chena)",
+            "script": "Malayalam"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Suweg, Kembang bangkai",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Pungapung",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "บุก (Buk)",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Khoai nưa",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "fj",
+            "name": "Tevie",
+            "script": "Latin"
+          },
+          {
+            "lang": "tpi",
+            "name": "Taro kongkong",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on the APG IV system of plant classification."
+    },
+    "family": {
+      "en": "Arum family",
+      "la": "Araceae"
+    },
+    "genus": {
+      "en": "Amorphophallus",
+      "la": "Amorphophallus"
+    },
+    "species": {
+      "en": "Peony-leaved amorphophallus",
+      "la": "paeoniifolius"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Amorphophallus paeoniifolius var. hortensis"
+      },
+      {
+        "rank": "variety",
+        "name": "Amorphophallus paeoniifolius var. campanulatus"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is widely available in anthropological and agricultural literature for South and Southeast Asia. Importance in other regions is minimal."
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物",
+          "救荒作物"
+        ],
+        "traditional_uses": "インドではカレー（スラン・カ・サブジ）、ピクルス、フライとして広く消費される。特に祭事の料理に用いられることが多い。アーユルヴェーダでは消化器系の治療薬として重要視される。",
+        "seasonal_significance": "雨季の後に収穫され、乾季の間の重要な食料源となる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "救荒作物"
+        ],
+        "traditional_uses": "インドネシア（特にジャワ島）では、米の代替となる炭水化物源「Suweg」として伝統的に利用。フィリピンでは葉柄も野菜として利用される。適切な下処理（シュウ酸カルシウム除去）の知識が不可欠。",
+        "seasonal_significance": "乾季の間の飢饉を防ぐための重要な作物。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理（特にベンガル、ケーララ）",
+        "role": "common",
+        "traditional_dishes": [
+          "Suran Sabzi (curry)",
+          "Olan (coconut milk stew)",
+          "Yam chips"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "炒め物",
+          "揚げ物",
+          "ピクルス"
+        ],
+        "cultural_context": "豊穣と健康の象徴として、ディワリ祭などの祝祭で食べられることがある。"
+      },
+      {
+        "cuisine": "インドネシア料理（ジャワ）",
+        "role": "staple",
+        "traditional_dishes": [
+          "Boiled Suweg",
+          "Suweg flour porridge"
+        ],
+        "preparation_methods": [
+          "蒸す",
+          "茹でる",
+          "製粉"
+        ],
+        "cultural_context": "かつては主要な炭水化物源であったが、米の普及によりその地位は低下。食料安全保障の観点から再評価されている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "数千年前からアジアの熱帯地域で栽培されていたと推定される。",
+      "trade_routes": "オーストロネシア語族の移動とともに、海上ルートを通じて東南アジア島嶼部やオセアニアに伝播した。",
+      "cultural_exchange": "インド文化圏の拡大と共に、その料理法や薬用利用が東南アジアに影響を与えた可能性がある。",
+      "domestication_history": "野生種から、刺激性（シュウ酸カルシウム）が少なく、塊茎が大きい品種が選択されてきた。栽培化の正確な起源地は特定されていないが、東南アジアが有力。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間降雨量1000-1500mm、平均気温25-35°C。明確な乾季と雨季があるモンスーン気候。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な地域。生育期間が短くなる可能性がある。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱く、塊茎の越冬が困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度を必要とするため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯モンスーン",
+        "planting_season": "雨季の始まり（例：4月〜6月）",
+        "harvest_season": "乾季の始まり（例：11月〜1月）",
+        "growing_period_days": 210
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 80,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "土壌の肥沃度",
+        "種芋のサイズ",
+        "排水性",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "商業生産と自家消費の両方が盛ん。高収量品種の開発が進んでいる。"
+        },
+        {
+          "country": "インドネシア",
+          "production_share": null,
+          "characteristics": "伝統的な小規模農家による生産が中心。食料安全保障作物としての役割が大きい。"
+        },
+        {
+          "country": "フィリピン",
+          "production_share": null,
+          "characteristics": "塊茎と葉柄の両方が利用される。自家消費が主。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、品種や栽培条件による変動に関するデータは限定的。伝統的薬用利用は民族植物学の記録に基づくが、臨床試験は少ない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "118",
+        "protein_g": "1.5",
+        "carbs_g": "27.9",
+        "fat_g": "0.2",
+        "fiber_g": "4.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "816mg",
+          "daily_value_percent": "23"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "17.1mg",
+          "daily_value_percent": "28"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.4mg",
+          "daily_value_percent": "20"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコマンナン",
+        "concentration": "可変",
+        "health_effect": "食物繊維、血糖値上昇抑制、満腹感の促進"
+      },
+      {
+        "compound": "シュウ酸カルシウム",
+        "concentration": "高（生の状態）",
+        "health_effect": "皮膚や粘膜への刺激（えぐみの原因）。加熱や水洗により除去可能。"
+      },
+      {
+        "compound": "フラボノイド、サポニン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "消化促進",
+          "痔の治療",
+          "駆風薬（腹部膨満の緩和）",
+          "気管支炎の緩和"
+        ],
+        "preparation": "塊茎を調理、または特定のハーブと調合して使用。"
+      },
+      {
+        "region": "東南アジア",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "皮膚病の湿布",
+          "解毒"
+        ],
+        "preparation": "生の塊茎をすり潰して外用（注意が必要）。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "血糖降下作用",
+        "抗酸化活性",
+        "抗炎症作用",
+        "肝保護作用"
+      ],
+      "safety_considerations": "生の塊茎はシュウ酸カルシウムの結晶を含み有毒。必ず加熱等の適切な処理が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "料理法に関する情報は、各地域の料理本や文化研究で豊富に文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "煮込み（カレー）",
+          "炒め物",
+          "揚げ物（チップス）",
+          "漬物"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "スパイス（ターメリック、コリアンダー、クミン）",
+          "タマリンド",
+          "ココナッツミルク",
+          "玉ねぎ、ニンニク"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "茹でる",
+          "蒸す",
+          "製粉して利用"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "塩",
+          "削りココナッツ",
+          "砂糖"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（チップス、粉）",
+        "regions": [
+          "南アジア",
+          "東南アジア"
+        ],
+        "shelf_life": "数ヶ月〜1年",
+        "quality_changes": "風味が凝縮される。再水和して利用可能。"
+      },
+      {
+        "method": "漬物（ピクルス）",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "酸味とスパイスの風味が加わり、保存性が向上する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "調理後はマイルドで土の香り。ナッツのような風味を持つ品種もある。ジャガイモやサツマイモに似ているが、より緻密な食感。",
+      "aroma_compounds": [
+        "ジオスミン（土の香り）"
+      ],
+      "texture_characteristics": "品種により、調理後はホクホクしたものから、ねっとりしたものまで多様。繊維質は少ない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生育可能だが、水分供給が必要。",
+      "cold_tolerance": "15°C以下で生育停止。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "1000-1500mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒伏しやすいが、地下の塊茎は保護される。",
+      "hail_damage_recovery": "葉が損傷しても塊茎から再生する可能性がある。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として、収量増の可能性が示唆される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化による新たな病害虫への脆弱性は不明。",
+      "disease_resistance_stability": "伝統的な在来種は地域の病害虫に比較的強い。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯アジア、アフリカの一部",
+        "2050_projection": "現在の亜熱帯地域へ北上・南下する可能性",
+        "2100_projection": "不明",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "人為的な品種改良は行われているが、自然環境下での種間交雑に関する体系的な研究は少ない。Amorphophallus属の多様性から高いポテンシャルが推測される。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の栽培品種・在来種間で交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "Amorphophallus konjacなど近縁種との交雑の可能性があるが、成功率は不明。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は少ない"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "南アジア、東南アジアに形態や特性の異なる多様な在来種が存在する。",
+      "wild_gene_pool": "野生集団がアジアの熱帯林に存在し、耐病性や環境ストレス耐性の遺伝子供給源となりうる。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖が主なため、遺伝的多様性が低い集団ではリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性が向上する可能性がある。",
+      "improved_nutritional_content": "グルコマンナン含有量や微量栄養素の改善が期待される。",
+      "novel_characteristics": "塊茎の形状、色、調理特性の改変が可能。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致、花粉の稔性の問題。",
+      "chromosome_compatibility": "近縁種間では比較的一致している。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾季の長さと厳しさ",
+        "adaptive_traits": "塊茎の休眠能力、深い根系",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的なリジェネラティブ農業の研究は少ないが、植物の特性（深根性、高バイオマス）からポテンシャルは高いと推測される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広く深い根系を持ち、土壌の団粒構造を改善する可能性がある。",
+      "organic_matter_contribution": "生育期に大きな葉を広げ、収穫後には大量の地上部バイオマスが土壌に還元される。",
+      "soil_structure_improvement": "大きな塊茎が成長する過程で土壌を物理的に耕す効果がある。",
+      "erosion_control": "生育期の広い葉が地表を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "カリウムなど、土壌深層からの養分を吸収し、表層に再循環させる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "特異な腐肉臭の仏炎苞が、ハエや甲虫などの特定の送粉者を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の活動が土壌の浸透性を高める可能性がある。",
+      "moisture_retention": "地上部の被覆が土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "高い（大きな塊茎に大量の炭素を貯蔵）",
+      "soil_carbon_enhancement": "高い（有機物還元による）",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ、豆類との間作が伝統的に行われる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物であり、一度定着すると安定した生産が見込める。",
+      "stress_tolerance": "干ばつや一時的な洪水に対する耐性が高い。",
+      "recovery_capacity": "地上部が被害を受けても地下の塊茎から再生する能力が高い。",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食品産業での利用は拡大しているが、ポテンシャルはまだ十分に活用されていない。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリーの炭水化物源として価値がある。",
+      "food_security_contribution": "気候変動下でも安定した生産が期待できる救荒作物としての価値が高い。",
+      "local_food_system_integration": "自家消費や地域市場での流通に適している。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品市場（高繊維、グルテンフリー）",
+        "エスニック食品市場",
+        "機能性食品原料（グルコマンナン）"
+      ],
+      "value_added_products": [
+        "チップス",
+        "フラワー（製粉）",
+        "ピクルス",
+        "レトルトカレー"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の重要性は認識されているが、体系的な保全活動は一部地域に限られる。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生種の自生地である熱帯林の減少が脅威となっている。",
+    "climate_change_vulnerability": "栽培適地の変化による在来種の消失リスク。",
+    "cultural_erosion_risk": "伝統的な栽培・調理知識の喪失。",
+    "conservation_actions_needed": [
+      "在来種の収集・評価・保存（ジーンバンク）",
+      "農家参加型の域内保全（in-situ conservation）プログラムの推進",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "インド（西ガーツ山脈、東部インド）",
+      "インドネシア（ジャワ島、スマトラ島）",
+      "フィリピン"
+    ],
+    "ex_situ_conservation_status": "いくつかの国のジーンバンクで保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的。一部のNGOや研究機関が取り組んでいる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド、インドネシア、フィリピン"
+    ],
+    "knowledge_gaps": [
+      "品種ごとの気候変動応答に関する定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果の測定",
+      "自然交雑と遺伝子流動の実態"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は存在するが、体系的なデータベースは少ない。"
+      },
+      "variety_name": "Gajendra",
+      "local_name": "Gajendra",
+      "origin_region": "インド",
+      "distinctive_characteristics": "高収量、えぐみが少ない、大きな塊茎を形成する。栽培期間が比較的短い。",
+      "cultural_importance": "インドの商業栽培で広く普及している改良品種。",
+      "climate_adaptation": "様々な土壌条件に適応するが、十分な水分を必要とする。",
+      "conservation_status": "広く栽培されているため、絶滅の危機にはない。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens, Plants of the World Online",
+      "USDA GRIN Global",
+      "Ethnobotanical research papers on South and Southeast Asian agriculture",
+      "International research centers on tropical agriculture (e.g., CTCRI)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "水利用効率に関するデータ"
+    ],
+    "regional_data_coverage": "南アジアと東南アジアに集中。アフリカやオセアニアでの情報は限定的。",
+    "missing_information": [
+      "年間総生産量の正確な統計",
+      "国際貿易データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

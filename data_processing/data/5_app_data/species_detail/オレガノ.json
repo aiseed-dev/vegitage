@@ -1,0 +1,664 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、民族植物学の文献、農業研究報告書から情報を統合。野生近縁種の情報も比較的豊富。"
+    },
+    "primary_name": "Oregano",
+    "scientific_name": "Origanum vulgare",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "花"
+    ],
+    "origin_region": "地中海地域、ユーラシア西部",
+    "wild_relatives": [
+      "Origanum onites",
+      "Origanum majorana",
+      "Origanum syriacum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各国の言語データベースと植物名リストから収集。"
+    },
+    "international": {
+      "en": [
+        "Oregano",
+        "Wild Marjoram"
+      ],
+      "scientific_common": "Common Oregano"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Origano",
+            "script": "Latn"
+          },
+          {
+            "lang": "el",
+            "name": "Ρίγανη (Rígani)",
+            "script": "Grek"
+          },
+          {
+            "lang": "es",
+            "name": "Orégano",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Origan",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Dost",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "tr",
+            "name": "Kekik",
+            "script": "Latn"
+          },
+          {
+            "lang": "ar",
+            "name": "زعتر بري (Za'atar barri)",
+            "script": "Arab"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "地中海沿岸の伝統的コミュニティ",
+        "name": "Joy of the mountain (ギリシャ語の語源)",
+        "cultural_significance": "古代ギリシャ・ローマでは幸福と健康の象徴とされ、薬用や儀式に用いられた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Mint family",
+      "la": "Lamiaceae"
+    },
+    "genus": {
+      "en": "Oregano",
+      "la": "Origanum"
+    },
+    "species": {
+      "en": "Common Oregano",
+      "la": "vulgare"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Origanum vulgare ssp. hirtum"
+      },
+      {
+        "rank": "subspecies",
+        "name": "Origanum vulgare ssp. gracile"
+      },
+      {
+        "rank": "subspecies",
+        "name": "Origanum vulgare ssp. viride"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食文化史、民族植物学の文献に基づく。地域ごとの重要性は確立されている。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物",
+          "香辛料"
+        ],
+        "traditional_uses": "イタリア、ギリシャ、トルコ料理に不可欠なハーブ。肉、魚、野菜料理の風味付け、オリーブオイルへの香り付け、伝統的な保存食に利用。薬用茶としても飲用される。",
+        "seasonal_significance": "夏に収穫・乾燥させ、一年を通じて利用する重要な保存食料。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ラテンアメリカ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "香辛料",
+          "薬用"
+        ],
+        "traditional_uses": "ヨーロッパからの導入後、特にメキシコ料理やアルゼンチン料理で広く使われる。ただし、しばしばメキシカンオレガノ（Lippia graveolens）と混同または代替される。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ピッツァ",
+          "パスタソース（トマトベース）",
+          "カプレーゼ"
+        ],
+        "preparation_methods": [
+          "乾燥させて使用",
+          "フレッシュで使用",
+          "オイルに漬け込む"
+        ],
+        "cultural_context": "イタリアの家庭料理の「魂」とも言える香りを代表するハーブの一つ。"
+      },
+      {
+        "cuisine": "ギリシャ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "グリークサラダ（ホリアティキ）",
+          "スブラキ",
+          "レモンとオレガノ風味のローストポテト"
+        ],
+        "preparation_methods": [
+          "乾燥させて使用",
+          "フレッシュで使用"
+        ],
+        "cultural_context": "古代からの伝統を受け継ぎ、シンプルで力強いギリシャ料理の風味を決定づける。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャ人やローマ人によって薬用・食用として広く利用された。ヒポクラテスは消毒薬として言及。",
+      "trade_routes": "中世を通じてアラブ商人によりアジアやヨーロッパに広まった。シルクロードや海の交易路で乾燥ハーブとして取引された。",
+      "cultural_exchange": "第二次世界大戦後、アメリカ兵がイタリアから持ち帰ったことで、ピザと共にアメリカ、そして世界中に普及した。",
+      "domestication_history": "地中海沿岸で野生種から選抜され、数千年にわたり栽培されてきた。明確な栽培化の中心地は特定されていないが、広範な地域で半栽培的に利用されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には弱く、病害が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌であれば、冬の温暖な気候でよく生育する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりが良く、乾燥した気候を好む。耐寒性も比較的高い。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さと冬の寒さに耐えるが、極端な寒冷地では保護が必要。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に非常に強いが、灌漑があれば収量は向上する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "標高の高い寒冷地には適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "初夏から秋",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "乾燥葉で1,000 - 3,000 kg/ha",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌の水はけ",
+        "収穫時期と頻度",
+        "品種（精油含有量）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（データが精油と乾燥ハーブで分散）",
+      "major_producers": [
+        {
+          "country": "トルコ",
+          "production_share": "不明",
+          "characteristics": "世界最大の輸出国。特に高品質なOriganum onites種が有名。"
+        },
+        {
+          "country": "ギリシャ",
+          "production_share": "不明",
+          "characteristics": "香りの強いOriganum vulgare ssp. hirtum種で知られる。"
+        },
+        {
+          "country": "スペイン",
+          "production_share": "不明",
+          "characteristics": "多様な品種が栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による精油成分（機能性成分）の変動が大きい。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "265",
+        "protein_g": "9.0",
+        "carbs_g": "68.9",
+        "fat_g": "4.3",
+        "fiber_g": "42.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "621.7 mcg",
+          "daily_value_percent": "518%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "36.8 mg",
+          "daily_value_percent": "204%"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "5.0 mg",
+          "daily_value_percent": "217%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "1597 mg",
+          "daily_value_percent": "123%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "カルバクロール",
+        "concentration": "精油の40-80%",
+        "health_effect": "強力な抗菌・抗真菌作用"
+      },
+      {
+        "compound": "チモール",
+        "concentration": "精油の最大5%",
+        "health_effect": "防腐・抗菌作用"
+      },
+      {
+        "compound": "ロスマリン酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "地中海地域",
+        "medical_system": "ヨーロッパ伝統医学",
+        "uses": [
+          "呼吸器系の不調（咳、気管支炎）",
+          "消化不良",
+          "外傷の消毒"
+        ],
+        "preparation": "葉を煎じてお茶にする、蒸留して精油を得る、湿布として用いる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗菌作用",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "抗炎症作用",
+        "血糖値調節効果"
+      ],
+      "safety_considerations": "精油の高濃度での摂取や皮膚への塗布は刺激を引き起こす可能性がある。妊娠中の大量摂取は避けるべきとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書や食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "乾燥させて振りかける",
+          "煮込み料理に加える",
+          "マリネに使用",
+          "オリーブオイルに漬け込む"
+        ],
+        "flavor_role": "主味/香辛料",
+        "typical_combinations": [
+          "トマト",
+          "ニンニク",
+          "オリーブオイル",
+          "レモン",
+          "羊肉",
+          "鶏肉"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "乾燥させて振りかける（特にピザやパスタ）"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "トマトソース",
+          "チーズ",
+          "肉料理"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（天日干し、機械乾燥）",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-3年",
+        "quality_changes": "香りが凝縮されるが、揮発性成分は時間と共に減少する。"
+      },
+      {
+        "method": "精油抽出（水蒸気蒸留）",
+        "regions": [
+          "主要生産国"
+        ],
+        "shelf_life": "3-5年",
+        "quality_changes": "特定の機能性成分が高濃度で抽出される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "温かみがあり、わずかに苦味と辛味を伴う、スパイシーで土のような風味",
+      "aroma_compounds": [
+        "カルバクロール",
+        "チモール",
+        "p-シメン",
+        "γ-テルピネン"
+      ],
+      "texture_characteristics": "乾燥葉は硬く、砕けやすい。フレッシュな葉は柔らかい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的な知見は豊富だが、定量的な実験データは限定的。将来予測は栽培地の気候特性からの類推に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "18-28°C",
+      "extreme_heat_survival": "40°C以上でも生存可能",
+      "cold_tolerance": "-15°C程度まで（積雪下）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い。地中海性気候の乾燥した夏に適応している。",
+      "flood_tolerance": "低。根腐れを起こしやすい。",
+      "optimal_rainfall": "400-800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。草本であるため強風で倒れることがあるが、回復力は高い。",
+      "hail_damage_recovery": "中。葉が傷つくが、多年草であるため再生能力がある。",
+      "rapid_temperature_change": "高い適応性を持つ。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。一般的にC3植物はCO2濃度上昇で光合成が促進される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高。強い日差しに適応しており、抗酸化物質が保護に寄与している可能性がある。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "精油成分（カルバクロール等）が天然の忌避剤として機能し、多くの害虫に耐性がある。温暖化による新規害虫への耐性は不明。",
+      "disease_resistance_stability": "過湿条件での真菌性疾患（根腐れ、うどんこ病）には弱い。",
+      "beneficial_organism_relationships": "花はミツバチや他の花粉媒介者を引き寄せる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海沿岸、ヨーロッパ南部、西アジア",
+        "2050_projection": "現在の適地が北上し、中央ヨーロッパや北米北部での適性が向上する可能性。",
+        "2100_projection": "地中海南部では乾燥と熱ストレスが過度になる可能性がある一方、さらに高緯度地域が栽培適地になる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Origanum属内の交雑のしやすさは知られているが、自然環境下での適応に関する長期的な研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Origanum vulgare内の多様な亜種・変種間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "マジョラム（Origanum majorana）と容易に交雑し、自然交雑種も存在する。"
+      ],
+      "intergeneric_possibility": [
+        "低い。"
+      ],
+      "successful_natural_hybrids": [
+        "O. vulgare x O. majorana"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "地域ごとに精油成分や形態が異なる多くの在来種（エコタイプ）が存在し、遺伝的多様性は高い。",
+      "wild_gene_pool": "原産地には広範な野生集団が存在し、遺伝子流動が続いている。",
+      "adaptive_genetic_variation": "土壌、標高、気候に応じて精油の化学組成（ケモタイプ）が変化する適応的変異が確認されている。",
+      "inbreeding_depression_risk": "低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ギリシャの山岳地帯",
+        "environmental_pressure": "強い紫外線、乾燥、貧栄養土壌",
+        "adaptive_response": "精油中のカルバクロール濃度の上昇、葉の毛の密度増加、草丈の矮小化。",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "自然選択による地域エコタイプの分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "異なるエコタイプ間の交雑により、より広範な気候への耐性を持つ品種が生まれる可能性がある。",
+      "improved_nutritional_content": "特定の機能性成分（カルバクロール等）を高濃度に含む系統の作出が可能。",
+      "novel_characteristics": "風味や香りが異なる新しいタイプのオレガノが生まれる可能性がある。",
+      "hybrid_vigor_potential": "高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "属内では低い。",
+      "chromosome_compatibility": "多くのOriganum種で染色体数が同じ（2n=30）であり、適合性が高い。",
+      "fertility_of_hybrids": "多くの場合、稔性は維持される。",
+      "backcrossing_success": "高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥ストレス",
+        "adaptive_traits": "高い精油含有量（蒸散抑制）、クチクラ層の発達",
+        "heritability": "中〜高",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "定性的な利点は広く認識されているが、炭素隔離率などの定量データは限定的。Lamiaceae科の一般的特性からの類推を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、広がる繊維状の根系を持つ。",
+      "organic_matter_contribution": "多年草であるため、毎年の落葉や根の代謝回転により土壌有機物を供給する。",
+      "soil_structure_improvement": "根系が土壌粒子を団粒化し、構造を安定させる。",
+      "erosion_control": "地表面を覆うことで、風食や水食を防ぐグランドカバーとして機能する。",
+      "nutrient_cycling_role": "特筆すべき能力はないが、貧栄養土壌でも生育できる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期にはミツバチ、ハナバチ、蝶など多くの花粉媒介者を引き寄せる重要な蜜源植物。",
+      "beneficial_insect_habitat": "テントウムシや寄生バチなどの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "根圏微生物叢との相互作用があるが、詳細は不明。",
+      "above_ground_biodiversity": "多様な昆虫相を支える。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により雨滴の衝撃を和らげ、土壌への水の浸透を助ける。",
+      "moisture_retention": "土壌の蒸発を抑制するマルチング効果がある。",
+      "runoff_reduction": "地表流を減少させる。",
+      "groundwater_recharge": "限定的だが貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。",
+      "below_ground_carbon": "多年草であるため、根系を通じて炭素を土壌に安定的に蓄積する。",
+      "soil_carbon_enhancement": "有機物の供給を通じて土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明。低いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "キャベツ（コナガを忌避）",
+        "ブロッコリー",
+        "キュウリ"
+      ],
+      "natural_pest_control": "強い香りが多くの害虫（アブラムシ、キャベツガなど）を遠ざける効果があるとされる。",
+      "nutrient_sharing": "特になし",
+      "allelopathic_interactions": "限定的。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草であり、少ない管理で生育するため、生態系の安定に寄与する。",
+      "stress_tolerance": "乾燥や貧栄養などのストレスに強い。",
+      "recovery_capacity": "刈り取り後の再生能力が高い。",
+      "adaptability": "多様な環境に適応する能力が高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場調査レポート、健康食品業界のトレンド分析に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "微量栄養素と抗酸化物質が豊富なハーブとして価値が高い。",
+      "food_security_contribution": "辺境地や乾燥地でも栽培可能であり、小規模農家の収入源となりうる。",
+      "local_food_system_integration": "家庭菜園でも容易に栽培でき、地域の食料自給に貢献する。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・サプリメント市場（オレガノオイルカプセルなど）",
+        "自然派化粧品",
+        "食品保存料としての利用"
+      ],
+      "value_added_products": [
+        "オーガニック認証ハーブ",
+        "原産地呼称（例：ギリシャ産オレガノ）",
+        "高カルバクロール精油"
+      ],
+      "niche_market_value": "特定のケモタイプや希少な亜種は、高品質な精油や料理用ハーブとして高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでは評価されていないが、地域レベルでの遺伝資源の消失リスクが指摘されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地における過放牧や土地開発による野生集団の生息地喪失。",
+    "climate_change_vulnerability": "種としては低いが、特定の山岳地帯に固有のエコタイプは脆弱。",
+    "cultural_erosion_risk": "中。均一な高収量品種への置き換えにより、伝統的な地域品種が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "地域固有の在来種（ランドレース）の収集と評価",
+      "種子バンクでの遺伝資源の長期保存（ex-situ）",
+      "伝統的知識を持つ農家による域内保全（in-situ）の支援"
+    ],
+    "priority_conservation_regions": [
+      "ギリシャの山岳地帯",
+      "トルコのアナトリア高原",
+      "イタリア南部の島嶼部"
+    ],
+    "ex_situ_conservation_status": "いくつかの主要なジーンバンクには収集されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的。一部の地域で保護区設定やアグロツーリズムと連携した保全活動が見られる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全項目を統合した専門的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "東地中海地域（ギリシャ、トルコ）の野生集団と在来種の遺伝的多様性解析"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2濃度上昇、異常気象）に対する生理学的応答の定量的データ",
+      "多様な在来種の栄養価と機能性成分の網羅的比較",
+      "土壌炭素蓄積能力の定量的評価"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸・植物学の文献で広く認知されている亜種。"
+      },
+      "variety_name": "Greek Oregano",
+      "local_name": "Ρίγανη (Rigani)",
+      "origin_region": "ギリシャ、トルコ",
+      "distinctive_characteristics": "学名 Origanum vulgare ssp. hirtum。非常に強いスパイシーな風味と香りを持つ。精油中のカルバクロール含有量が特に高い。白っぽい毛がかった葉が特徴。",
+      "cultural_importance": "伝統的なギリシャ料理に不可欠であり、「本物の」オレガノとして世界的に評価が高い。",
+      "climate_adaptation": "極めて高い耐乾性と耐暑性を持つ。",
+      "conservation_status": "栽培下では安定。野生集団は生息地の脅威に晒されている可能性がある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens - Plants of the World Online",
+      "USDA National Nutrient Database",
+      "Journal of Ethnopharmacology",
+      "Agronomy Journal"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業における炭素隔離や水循環改善効果の定量的データ",
+      "気候変動シナリオに対する多様な亜種・エコタイプの応答の違い"
+    ],
+    "regional_data_coverage": "地中海地域に情報が集中しており、他の地域での文化的利用や栽培に関するデータは限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "先住民コミュニティによる具体的な利用法の詳細な記録"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

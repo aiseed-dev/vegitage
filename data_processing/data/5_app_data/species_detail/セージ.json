@@ -1,0 +1,692 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is aggregated from major botanical databases (Kew, GRIN), ethnobotanical literature, and agricultural extension services. Data on wild relatives is well-documented for the Salvia genus."
+    },
+    "primary_name": "Sage",
+    "scientific_name": "Salvia officinalis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "花"
+    ],
+    "origin_region": "地中海地域、バルカン半島",
+    "wild_relatives": [
+      "Salvia fruticosa",
+      "Salvia lavandulifolia",
+      "Salvia tomentosa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are sourced from multilingual ethnobotanical databases and regional floras. It is crucial to distinguish Salvia officinalis from culturally significant but botanically different 'sages' like Salvia apiana (White Sage) used by North American Indigenous peoples."
+    },
+    "international": {
+      "en": [
+        "Common Sage",
+        "Garden Sage",
+        "Dalmatian Sage"
+      ],
+      "scientific_common": "Salvia"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Salvia",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Sauge officinale",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Echter Salbei",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Salvia",
+            "script": "Latn"
+          },
+          {
+            "lang": "el",
+            "name": "Φασκόμηλο",
+            "script": "Grek"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "مريمية",
+            "script": "Arab"
+          },
+          {
+            "lang": "tr",
+            "name": "Adaçayı",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification follows the APG IV system, based on major taxonomic databases."
+    },
+    "family": {
+      "en": "Mint family",
+      "la": "Lamiaceae"
+    },
+    "genus": {
+      "en": "Sage",
+      "la": "Salvia"
+    },
+    "species": {
+      "en": "Common Sage",
+      "la": "officinalis"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "officinalis"
+      },
+      {
+        "rank": "subsp.",
+        "name": "lavandulifolia"
+      },
+      {
+        "rank": "subsp.",
+        "name": "oxyodon"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Historical and cultural information is well-documented in European and Mediterranean ethnobotany and history. Distinction from New World Salvia species and their ceremonial use is critical for cultural accuracy."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "古代ローマ・ギリシャ時代から薬用（防腐、消化促進）と料理の香味付けに利用。名前の由来はラテン語の'salvere'（救う、健康である）で、長寿と知恵の象徴とされた。",
+        "seasonal_significance": "常緑性のため年間を通じて利用可能だが、特に秋の肉料理との関連が深い。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ（地中海以外）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "中世に修道院を通じてヨーロッパ全土に広まる。イギリス料理の「セージとオニオンのスタッフィング」など、豚肉や家禽類の脂っこさを消すハーブとして定着。民間療法でうがい薬や強壮剤として利用された。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "ヨーロッパ移民によって持ち込まれ、料理やハーブ療法で利用。感謝祭の七面鳥料理に欠かせないハーブとして文化的に定着。ただし、先住民が儀式に用いるホワイトセージ(Salvia apiana)とは明確に区別されるべきである。",
+        "seasonal_significance": "感謝祭（秋）との関連が強い。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Saltimbocca alla Romana",
+          "Burro e salvia (バターとセージのソース)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "ソースにする",
+          "詰物にする"
+        ],
+        "cultural_context": "子牛肉や豚肉、ジビエなどの濃厚な風味を持つ肉の臭み消しと風味付けに不可欠。特に北イタリアで多用される。"
+      },
+      {
+        "cuisine": "イギリス料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Sage and Onion Stuffing",
+          "Lincolnshire Sausages"
+        ],
+        "preparation_methods": [
+          "詰物にする",
+          "ソーセージに練り込む"
+        ],
+        "cultural_context": "ロースト料理、特に豚肉やガチョウとの組み合わせが伝統的。脂の多い食材の風味を引き立て、消化を助けるとされる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト、ギリシャ、ローマで薬用・香料として広く利用。プリニウスの『博物誌』にも記述がある。",
+      "trade_routes": "中世を通じて、修道院の薬草園で栽培され、ヨーロッパ内での知識と植物体の伝播に重要な役割を果たした。",
+      "cultural_exchange": "ヨーロッパから新世界への移民と共に伝播し、各地域の料理に取り入れられた。",
+      "domestication_history": "地中海沿岸の野生種から選抜育種され、数千年かけて栽培化された。正確な起源は不明だが、非常に長い栽培史を持つ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、根腐れしやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌と良好な空気循環が必要。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりの良い、乾燥したアルカリ性の土壌が最適。耐寒性はあるが、厳しい霜は避ける。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さに強いが、冬の厳しい寒さと湿った土壌には注意が必要。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "非常に乾燥に強い。原産地の気候に近い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高地の厳しい寒さには適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "初夏から秋",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "乾燥葉で500 - 2000 kg/ha",
+      "factors_affecting_yield": [
+        "日照量",
+        "土壌の水はけ",
+        "刈り取り頻度",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（推定数万トン）",
+      "major_producers": [
+        {
+          "country": "アルバニア",
+          "production_share": null,
+          "characteristics": "野生および栽培品の主要輸出国。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": null,
+          "characteristics": "大規模な商業栽培と輸出。"
+        },
+        {
+          "country": "スペイン",
+          "production_share": null,
+          "characteristics": "主に国内消費とEU内への輸出。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、機能性成分の含有量は品種、栽培条件、収穫時期で大きく変動する。伝統的利用に関する記録は豊富だが、臨床研究は途上。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "315",
+        "protein_g": "10.6",
+        "carbs_g": "60.7",
+        "fat_g": "12.7",
+        "fiber_g": "40.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "1714.5 µg",
+          "daily_value_percent": 1429
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "28.1 mg",
+          "daily_value_percent": 156
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "1652 mg",
+          "daily_value_percent": 165
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "2.7 mg",
+          "daily_value_percent": 134
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ツジョン",
+        "concentration": "可変（最大25% in essential oil）",
+        "health_effect": "神経毒性の可能性（高濃度）、抗菌作用"
+      },
+      {
+        "compound": "カンファー",
+        "concentration": "可変",
+        "health_effect": "刺激作用、鎮痛作用"
+      },
+      {
+        "compound": "ロスマリン酸",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "カルノシン酸",
+        "concentration": "可変",
+        "health_effect": "強力な抗酸化作用、神経保護作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "西洋ハーブ医学",
+        "uses": [
+          "喉の痛み・扁桃炎（うがい薬）",
+          "消化不良・鼓腸",
+          "過度の発汗（特に更年期）",
+          "記憶力向上"
+        ],
+        "preparation": "浸剤（ティー）、チンキ剤、うがい薬、精油"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用",
+        "抗菌・抗ウイルス作用"
+      ],
+      "ongoing_research": [
+        "認知機能改善（アルツハイマー病）",
+        "血糖値・コレステロール管理",
+        "更年期障害の症状緩和"
+      ],
+      "safety_considerations": "ツジョンを含むため、精油の過剰摂取や長期間の大量使用は避けるべき。妊娠中・授乳中の使用は推奨されない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "炒める",
+          "ロースト",
+          "煮込み",
+          "ソース"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "豚肉",
+          "子牛肉",
+          "豆類（白インゲン豆）",
+          "バター",
+          "パスタ"
+        ]
+      },
+      {
+        "region": "イギリス・北米",
+        "methods": [
+          "詰物（スタッフィング）",
+          "ソーセージへの練り込み",
+          "ロースト"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "七面鳥",
+          "ガチョウ",
+          "豚肉",
+          "玉ねぎ",
+          "りんご"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "風味が凝縮されるが、新鮮な時の複雑な香りの一部は失われる。"
+      },
+      {
+        "method": "オイル漬け",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "オイルにセージの風味が移り、様々な料理に活用できる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "刺激的、わずかに苦味、温かみのある樟脳のような香り、ペッパー様のスパイシーさ",
+      "aroma_compounds": [
+        "ツジョン",
+        "カンファー",
+        "1,8-シネオール",
+        "ボルネオール"
+      ],
+      "texture_characteristics": "生の葉はビロードのような質感、乾燥葉はもろい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的評価は豊富だが、気候変動シナリオ下での定量的な生理学的応答データは限定的。予測は植物の原産地気候と一般的特性に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "18-26°C",
+      "extreme_heat_survival": "40°C以上にも耐えるが成長は停滞する",
+      "cold_tolerance": "-15°C程度まで耐える（品種による）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い。毛状突起（トライコーム）に覆われた葉が水分の蒸散を抑える。",
+      "flood_tolerance": "低。根腐れしやすいため、水はけの悪い土壌や洪水には非常に弱い。",
+      "optimal_rainfall": "400-800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。木質化した茎は比較的強いが、激しい風雨で葉が傷むことがある。",
+      "hail_damage_recovery": "中程度。茎が残れば再生可能。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。C3植物としてCO2濃度上昇による光合成促進の可能性があるが、他の要因（水、栄養）に律速される。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高。原産地の日光が強い環境に適応している。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "精油成分が多くの害虫を忌避するため、比較的強い。しかし、温暖化による新奇害虫への耐性は不明。",
+      "disease_resistance_stability": "高温多湿環境ではうどんこ病などの真菌性疾患のリスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "強健なため、有益生物との関係は安定していると考えられる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海性気候帯、温暖な温帯",
+        "2050_projection": "栽培適地がやや高緯度・高地にシフトする可能性。既存の適地南部では極端な乾燥と熱波がリスクとなる可能性。",
+        "2100_projection": "北方へのシフトがさらに進むと予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Salvia属は種分化が活発で交雑しやすいことで知られており、園芸分野でも多くの交雑種が作られている。自然交雑に関する研究も存在する。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の栽培品種（'Purpurascens', 'Berggarten', 'Icterina'など）が存在し、容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Salvia fruticosa (Greek Sage), Salvia lavandulifolia (Spanish Sage)など、近縁の地中海産Salvia種と交雑しやすい。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "野生ではS. officinalisとS. lavandulifoliaの交雑個体群が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地のバルカン半島には多様な在来種や野生個体群が存在し、遺伝的多様性の宝庫となっている。",
+      "wild_gene_pool": "野生近縁種との遺伝子流動が、地域の環境への適応に寄与してきた可能性がある。",
+      "adaptive_genetic_variation": "精油成分の構成比、葉の形態、耐寒性などに地域的な遺伝変異が見られる。",
+      "inbreeding_depression_risk": "自家不和合性を持つため、他家受粉が主であり、近交弱勢のリスクは比較的低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ダルマチア地方（クロアチア）",
+        "environmental_pressure": "石灰岩質の乾燥した土壌、強い日差し、季節的な乾燥",
+        "adaptive_response": "精油含有量の増加、葉の毛状突起の発達、深い根系",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域生態型（エコタイプ）の分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他の乾燥地帯原産のSalvia種と交雑させることで、耐乾性や耐暑性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "抗酸化物質などの機能性成分の含有量を高める可能性がある。",
+      "novel_characteristics": "新しい香りや風味、観賞価値のある葉色などを持つ品種創出の可能性がある。",
+      "hybrid_vigor_potential": "高い。種間交雑により、より強健で成長の早い個体が得られる可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の遺伝的距離が遠い場合は低い。",
+      "chromosome_compatibility": "近縁種間では比較的高い。",
+      "fertility_of_hybrids": "多くのF1雑種は稔性を持つ。",
+      "backcrossing_success": "比較的容易。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、草食動物による食害",
+        "adaptive_traits": "深い根系、毛状突起のある葉、忌避効果のある精油成分",
+        "heritability": "高い",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "セージを対象としたリジェネラティブ農業の直接的な研究は少ないが、その植物学的特性（多年生、深根性、虫媒花）から高い適性が推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "木質化した深い主根と広がる細根を持ち、土壌構造を安定させる。",
+      "organic_matter_contribution": "落葉や枯れた茎が土壌有機物となる。多年生のため土壌攪乱が少ない。",
+      "soil_structure_improvement": "根が土壌団粒構造の形成を助ける。",
+      "erosion_control": "地表を恒久的に覆うため、風食・水食を効果的に防ぐ。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチ、マルハナバチ、蝶など多様な花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "捕食性カメムシや寄生蜂などの天敵昆虫に隠れ家や蜜を提供する。",
+      "soil_microorganism_interaction": "根圏微生物叢との共生関係を築くが、詳細な研究は少ない。",
+      "above_ground_biodiversity": "多様な昆虫相を支える。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌の孔隙性を高め、水の浸透を促進する。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表流を遅らせ、土壌侵食を軽減する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "木質化した茎に炭素を固定する。",
+      "below_ground_carbon": "多年生で広範な根系を持つため、地下部への炭素貯留能力が高い。",
+      "soil_carbon_enhancement": "根からの分泌物や分解された根が土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明（年生草本よりは高いと推定）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "キャベツ",
+        "ニンジン",
+        "ローズマリー",
+        "ブドウ"
+      ],
+      "natural_pest_control": "強い香りがモンシロチョウやニンジンサビバエなどの害虫を忌避する効果があるとされる。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の成長を抑制する可能性が示唆されているが、実用的な影響は限定的。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、生態系の安定性に寄与する。",
+      "stress_tolerance": "乾燥や貧栄養土壌への耐性が高く、システムのストレス耐性を向上させる。",
+      "recovery_capacity": "刈り取り後の再生能力が高い。",
+      "adaptability": "高い遺伝的多様性により、環境変化への適応性が期待される。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、健康食品、持続可能農業に関する情報は豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "香味野菜として、植物中心の食事に風味と機能性を加える。",
+      "food_security_contribution": "乾燥に強く、限界地でも栽培可能なため、気候変動下の食料生産多様化に貢献しうる。",
+      "local_food_system_integration": "家庭菜園や小規模農園で容易に栽培でき、地域の自給率向上に貢献。",
+      "alternative_protein_potential": "該当しない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・サプリメント（認知機能、更年期）",
+        "自然派化粧品",
+        "食品用の天然保存料"
+      ],
+      "value_added_products": [
+        "エッセンシャルオイル",
+        "ハーブティー",
+        "チンキ剤",
+        "香味オイル・ビネガー"
+      ],
+      "niche_market_value": "オーガニックや特定の産地（ダルマチア産など）を謳った高品質な乾燥セージには高い付加価値がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでは評価されていないが、野生個体群の遺伝的多様性保全の重要性は指摘されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地における土地開発や過放牧が野生個体群の脅威となる可能性がある。",
+    "climate_change_vulnerability": "栽培種としては低いが、特定の生態系に依存する野生個体群は脆弱な可能性がある。",
+    "cultural_erosion_risk": "低",
+    "conservation_actions_needed": [
+      "野生個体群の遺伝的多様性のモニタリング",
+      "バルカン半島における在来系統の系統的収集と保存（ジーンバンク）"
+    ],
+    "priority_conservation_regions": [
+      "バルカン半島（特にダルマチア地方）"
+    ],
+    "ex_situ_conservation_status": "多くの植物園やジーンバンクで種子や栄養繁殖体が保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部地域で保護区が設定されている可能性がある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集された情報に基づく総合的な専門家判断である。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "バルカン半島",
+      "トルコ"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2濃度上昇、異常気象）に対する品種レベルでの生理学的応答の定量的データ",
+      "根圏微生物叢との相互作用の詳細",
+      "リジェネラティブ農業システムにおける炭素隔離能力の定量化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種の情報は広く利用可能。"
+      },
+      "variety_name": "Berggarten",
+      "local_name": "Berggarten",
+      "origin_region": "ドイツ",
+      "distinctive_characteristics": "葉が広く、銀色がかった緑色。花が咲きにくい傾向があり、葉の収穫に集中できる。",
+      "cultural_importance": "料理用として人気が高く、生産性に優れる。",
+      "climate_adaptation": "標準的なS. officinalisと同様に高い耐乾性・耐暑性を持つ。",
+      "conservation_status": "広く栽培されており、リスクは低い。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種の情報は広く利用可能。"
+      },
+      "variety_name": "Purpurascens (Purple Sage)",
+      "local_name": "Purple Sage",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "若葉が紫色を帯び、成長すると緑灰色になる。観賞価値が高い。風味はややマイルド。",
+      "cultural_importance": "料理用および観賞用として人気がある。",
+      "climate_adaptation": "標準種よりやや耐寒性が低いとされることがある。",
+      "conservation_status": "広く栽培されており、リスクは低い。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens 'Plants of the World Online'",
+      "USDA GRIN Global",
+      "European ethnobotanical archives",
+      "Scientific literature on Lamiaceae"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生個体群の遺伝子構造と保全状況"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米の情報は豊富だが、アジアやアフリカでの利用に関するデータは限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "先住民文化における（S. officinalisの）利用事例"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

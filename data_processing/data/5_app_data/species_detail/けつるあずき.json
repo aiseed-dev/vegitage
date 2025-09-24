@@ -1,0 +1,642 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(Kew, GRIN)および農学研究論文から情報を統合。栽培化の歴史に関する考古学的証拠も豊富。"
+    },
+    "primary_name": "Black gram",
+    "scientific_name": "Vigna mungo",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "果実",
+      "葉"
+    ],
+    "origin_region": "南アジア（インド）",
+    "wild_relatives": [
+      "Vigna mungo var. silvestris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "南アジアでの名称は非常に豊富。他の地域では南アジア系移民コミュニティを中心に知られる。"
+    },
+    "international": {
+      "en": [
+        "Black gram",
+        "Urd bean",
+        "Black matpe bean"
+      ],
+      "scientific_common": "Black gram"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "उड़द",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "உளுந்து",
+            "script": "Tamil"
+          },
+          {
+            "lang": "te",
+            "name": "మినుములు",
+            "script": "Telugu"
+          },
+          {
+            "lang": "bn",
+            "name": "মাসকলাই",
+            "script": "Bengali"
+          },
+          {
+            "lang": "ne",
+            "name": "मास",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ケツルアズキ",
+            "script": "Katakana/Kanji"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "my",
+            "name": "မတ်ပဲ",
+            "script": "Burmese"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的に認められた植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Cowpea genus",
+      "la": "Vigna"
+    },
+    "species": {
+      "en": "Black gram",
+      "la": "Vigna mungo"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "silvestris"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "南アジアの食文化、宗教、農業システムにおける重要性は、文献や民族誌で広く記録されている。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "儀式用",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "主要なタンパク質源。南インドではイドゥリやドーサの生地に不可欠。北インドではダル・マカニなどの煮込み料理に使われる。ヒンドゥー教の儀式でお供え物として用いられることもある。",
+        "seasonal_significance": "モンスーン期に栽培される主要な豆類（カリフ作物）であり、収穫は祭りと結びつくことがある。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "南インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "イドゥリ",
+          "ドーサ",
+          "ワダ",
+          "パパド"
+        ],
+        "preparation_methods": [
+          "浸漬",
+          "磨砕",
+          "発酵",
+          "蒸し",
+          "揚げ"
+        ],
+        "cultural_context": "米と組み合わせて発酵させることで、消化しやすく栄養価の高い主食となる。その独特の粘性が生地の形成に不可欠。"
+      },
+      {
+        "cuisine": "北インド料理",
+        "role": "common",
+        "traditional_dishes": [
+          "ダル・マカニ",
+          "パンチメル・ダル"
+        ],
+        "preparation_methods": [
+          "浸漬",
+          "煮込み"
+        ],
+        "cultural_context": "調理すると出るクリーミーな食感が特徴で、豊かで濃厚なダル料理のベースとなる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インドで紀元前1500年頃の遺跡から出土しており、4000年以上の栽培史を持つ。",
+      "trade_routes": "古代より南アジア域内および東南アジアへ交易を通じて伝播した。",
+      "cultural_exchange": "仏教の伝播とともに、菜食文化の一部としてアジア各地へ広がった可能性がある。",
+      "domestication_history": "インド亜大陸で野生種のVigna mungo var. silvestrisから栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿なモンスーン気候。主要な栽培時期。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "夏季の作物として栽培可能。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "低温と霜に非常に弱い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、霜害のリスクが高い。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "高い耐乾性を持ち、半乾燥地域での雨季栽培に適する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため栽培不可。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯/亜熱帯",
+        "planting_season": "モンスーン期（6月-7月）",
+        "harvest_season": "秋（9月-10月）",
+        "growing_period_days": 80
+      }
+    ],
+    "productivity": {
+      "yield_range": "400-1500 kg/ha",
+      "factors_affecting_yield": [
+        "降雨量（干ばつまたは過湿）",
+        "イエローマosaicウイルスなどの病害",
+        "サヤムシガなどの害虫",
+        "土壌肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約550万トン",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": 75,
+          "characteristics": "世界最大の生産国かつ消費国。国内の需要が非常に高い。"
+        },
+        {
+          "country": "ミャンマー",
+          "production_share": 15,
+          "characteristics": "主要な輸出国。主にインドへ輸出される。"
+        },
+        {
+          "country": "パキスタン",
+          "production_share": 5,
+          "characteristics": "国内消費が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、品種や栽培条件による機能性成分の変動に関するデータは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "341",
+        "protein_g": "25",
+        "carbs_g": "59",
+        "fat_g": "1.6",
+        "fiber_g": "18.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸",
+          "amount": "628 µg",
+          "daily_value_percent": "157"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "7.57 mg",
+          "daily_value_percent": "42"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "267 mg",
+          "daily_value_percent": "67"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "983 mg",
+          "daily_value_percent": "21"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール化合物（フラボノイド、フェノール酸）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "消化促進",
+          "神経系の強壮",
+          "リウマチや関節痛の緩和（外用）"
+        ],
+        "preparation": "粉末やペースト状にして内服または外用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高タンパク質・高食物繊維による血糖値コントロール",
+        "豊富な葉酸による細胞成長と代謝のサポート"
+      ],
+      "ongoing_research": [
+        "抗酸化物質の含有量と生活習慣病予防効果の関連性"
+      ],
+      "safety_considerations": "特になし。ただし、他の豆類と同様に、調理が不十分な場合は消化不良を起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "南アジア料理における多様な利用法は、料理書や文化研究で広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "煮込み（ダル）",
+          "磨砕・発酵（イドゥリ、ドーサ）",
+          "磨砕・揚げ（ワダ）",
+          "製粉（パパド）",
+          "発芽"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "ココナッツ",
+          "タマリンド",
+          "スパイス（クミン、コリアンダー、ターメリック）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "適切に保存すれば品質は安定している。"
+      },
+      {
+        "method": "脱皮・分割（ダル化）",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "調理時間が短縮され、消化しやすくなる。"
+      },
+      {
+        "method": "製粉",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "酸化しやすくなるため、長期保存には向かない。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "加熱すると土のような素朴な風味と、クリーミーでマイルドな豆の味がする。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理すると非常に柔らかく、とろみが出る（粘液質）。この性質が南インド料理の生地や北インドのクリーミーなダルに活かされる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述や伝統的知識は豊富だが、極端気象への応答に関する定量的な実験データは少ない。将来予測は広域モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも短期間なら耐えるが、収量は低下する。",
+      "cold_tolerance": "5°C以下で生育停止、霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い。深根性のため、土壌深層の水分を利用できる。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1000mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。倒伏のリスクがある。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物としてポジティブな応答が期待されるが、栄養や水分が制限要因となる可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、サヤムシガなどの害虫の発生時期や分布域が変化する可能性がある。",
+      "disease_resistance_stability": "イエローマosaicウイルスへの抵抗性は主要な育種目標だが、ウイルスの変異や媒介昆虫の動態変化が課題。",
+      "beneficial_organism_relationships": "根粒菌との共生は、ストレス環境下での窒素供給に重要。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "南アジア、東南アジアの熱帯・亜熱帯モンスーン地帯",
+        "2050_projection": "現在の適地で熱ストレスと降雨の不安定性が増大する一方、より高緯度や高地の温暖化地域で栽培可能になる可能性がある。",
+        "2100_projection": "適地の北上と、極端な干ばつや洪水による生産不安定性の増大が予測される。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "育種プログラムにおける交雑データは存在するが、自然環境下での交雑に関する情報は限定的。野生近縁種との遺伝的関係はよく研究されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の在来種および改良品種間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Vigna radiata（リョクトウ）と交雑可能だが、胚珠の敗退や雑種の不稔性がしばしば起こる。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "自然環境下での明確な成功例は報告されていない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地であるインドには、多様な環境に適応した在来種が豊富に存在する。",
+      "wild_gene_pool": "野生祖先種 Vigna mungo var. silvestris は、病害虫抵抗性や非生物的ストレス耐性の貴重な遺伝子源である。",
+      "adaptive_genetic_variation": "在来種には、耐乾性、耐塩性、早生性など、多様な適応的遺伝変異が認められる。",
+      "inbreeding_depression_risk": "自家受粉性植物だが、ある程度の他家受粉も起こる。在来種の遺伝的多様性が維持されればリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インド・デカン高原",
+        "environmental_pressure": "不規則な降雨と高温",
+        "adaptive_response": "早生性、深い根系、気孔閉鎖による水分蒸散抑制",
+        "time_scale": "数千年",
+        "mechanism": "農家による長年の種子選抜と自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "リョクトウとの交雑により、種子の光沢や調理特性を改良する試みがある。",
+      "novel_characteristics": "イエローマosaicウイルス抵抗性をリョクトウから導入する育種が進められている。",
+      "hybrid_vigor_potential": "種内交雑において雑種強勢が認められる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Vigna radiataとの種間交雑では、受精後の胚発生が障壁となる。",
+      "chromosome_compatibility": "Vigna mungoとVigna radiataは共に2n=22で染色体適合性は高いが、構造的な違いが交雑後の不稔性を引き起こす。",
+      "fertility_of_hybrids": "種間雑種はしばしば部分的不稔または完全不稔となる。",
+      "backcrossing_success": "胚培養などの技術を用いて雑種を育成し、戻し交配によって有用遺伝子を導入することが可能。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "早熟性、根系の発達",
+        "heritability": "中程度",
+        "response_to_selection": "在来種に見られる多様性が示すように、選択への応答性は高い。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物としての一般的な特性と、伝統的な混作体系から類推される情報が中心。ケツルアズキに特化した定量的なリジェネラティブ農業研究は少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深く発達し、土壌の硬盤を破砕し、水と空気の通りを良くする。",
+      "organic_matter_contribution": "収穫後の残渣は分解されやすく、土壌有機物を増やす。",
+      "soil_structure_improvement": "根系の活動と有機物供給により、土壌の団粒構造を促進する。",
+      "erosion_control": "生育初期から地面を覆うため、降雨による土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。後作の作物のための窒素源となる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "多様な昆虫の生息地を提供する。",
+      "soil_microorganism_interaction": "根粒菌をはじめとする多様な土壌微生物との共生関係を築く。",
+      "above_ground_biodiversity": "混作体系に組み込むことで、農地の生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加が保水性を高める。",
+      "runoff_reduction": "地表被覆により、雨水の表面流出を減らす。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系により、地下への炭素蓄積が期待できる。",
+      "soil_carbon_enhancement": "窒素固定と有機物供給を通じて、土壌炭素の蓄積を促進する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ソルガム",
+        "トウモロコシ",
+        "パールミレット",
+        "ワタ"
+      ],
+      "natural_pest_control": "混作により、特定の害虫の蔓延を抑制する効果がある。",
+      "nutrient_sharing": "固定した窒素を間作のイネ科作物に供給する。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "混作や輪作に組み込むことで、農業生態系の安定性を高める。",
+      "stress_tolerance": "耐乾性が高いため、気候変動下でのシステム全体のレジリエンス向上に貢献する。",
+      "recovery_capacity": "生育期間が短いため、干ばつの後でも短期間の降雨を利用して生産が可能。",
+      "adaptability": "多様な在来種が存在し、地域の環境に適応させやすい。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物性タンパク質源としての市場価値は高く、食品科学分野での研究も活発。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "植物性食品トレンドにおいて、高品質なタンパク質、食物繊維、ミネラルの供給源として価値が高い。",
+      "food_security_contribution": "乾燥地帯での栽培が可能なため、気候変動下での食料安全保障への貢献が期待される。",
+      "local_food_system_integration": "伝統的に小規模農家によって生産され、地域の食料システムに深く根付いている。",
+      "alternative_protein_potential": "プロテインパウダーや植物性ミルク、肉代替品の原料としての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者に向けたグルテンフリー食品市場",
+        "欧米の南アジア系移民コミュニティ以外への市場拡大"
+      ],
+      "value_added_products": [
+        "インスタントのドーサ・イドゥリミックス",
+        "高タンパク質スナック",
+        "化粧品（伝統的なスキンケア用途から）"
+      ],
+      "niche_market_value": "アーユルヴェーダや自然食品に関心のある層に対するニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の収集と保存は行われているが、在来種の消失リスクに関する体系的な評価は不十分。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生祖先種の自生地が農地拡大や都市化により脅かされている。",
+    "climate_change_vulnerability": "栽培品種は高い適応性を持つが、野生種は特定の生息環境に依存するため脆弱性が高い可能性がある。",
+    "cultural_erosion_risk": "低",
+    "conservation_actions_needed": [
+      "多様な在来種の収集・評価・長期保存（ジーンバンク）",
+      "農家が在来種を栽培し続けることを支援する参加型保全活動（オンファーム保全）",
+      "野生祖先種の自生地の保護区設定"
+    ],
+    "priority_conservation_regions": [
+      "インド（特に西ガーツ山脈、東ガーツ山脈）"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンク（ICRISAT、NBPGRなど）に多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的だが、一部のNGOや研究機関による取り組みがある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロンプトで収集した情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インドの半乾燥地帯",
+      "ミャンマーの生産地帯"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオに対する品種レベルでの収量応答の定量的データ",
+      "在来種が持つ機能性成分のプロファイリング",
+      "リジェネラティブ農業システムにおける炭素固定能力の測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "多数の品種が存在するが、代表的な改良品種を例示。"
+      },
+      "variety_name": "T-9 (Type 9)",
+      "local_name": "T-9",
+      "origin_region": "インド",
+      "distinctive_characteristics": "早生で、広域適応性があり、夏季栽培にも適する。インドで長年にわたり広く栽培されてきた基準品種。",
+      "cultural_importance": "緑の革命以降、インド北部で普及した代表的な改良品種の一つ。",
+      "climate_adaptation": "耐乾性が高く、生育期間が短いため干ばつ回避能力がある。",
+      "conservation_status": "広く栽培されているが、新品種への代替が進んでいる。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "多数の品種が存在するが、代表的な改良品種を例示。"
+      },
+      "variety_name": "Pant U-31",
+      "local_name": "Pant U-31",
+      "origin_region": "インド",
+      "distinctive_characteristics": "イエローマosaicウイルス(YMV)への高い抵抗性を持つ。高収量で、種子は中くらいの大きさ。",
+      "cultural_importance": "YMVが多発する地域での生産安定に貢献した重要な品種。",
+      "climate_adaptation": "生物的ストレス（病害）への耐性が気候変動下での安定生産に寄与する。",
+      "conservation_status": "広く栽培されている改良品種。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN-Global (USDA)",
+      "Plants of the World Online (Kew)",
+      "FAOSTAT",
+      "ICRISAT Genebank",
+      "Journal of Food Composition and Analysis",
+      "Field Crops Research"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの生理学的応答",
+      "野生近縁種の遺伝的多様性の網羅的評価"
+    ],
+    "regional_data_coverage": "南アジアに関するデータは豊富だが、アフリカや東南アジアの栽培地域に関する詳細なデータは限定的。",
+    "missing_information": [
+      "極端気象（洪水、雹など）への具体的な耐性データ",
+      "在来種の網羅的な栄養・機能性成分プロファイル"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

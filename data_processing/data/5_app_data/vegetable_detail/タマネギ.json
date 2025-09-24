@@ -1,0 +1,722 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical, agricultural, and historical sources. The exact wild progenitor is still a subject of academic debate, but the general origin region is well-established."
+    },
+    "primary_name": "Onion",
+    "scientific_name": "Allium cepa",
+    "plant_type": "多年草（栽培上は一年草または二年草）",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "中央アジア（現在のイラン、アフガニスタン、パキスタン周辺）",
+    "wild_relatives": [
+      "Allium vavilovii",
+      "Allium ascalonicum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are widely documented across linguistic databases. Indigenous names for specific landraces are less accessible and represent a knowledge gap."
+    },
+    "international": {
+      "en": [
+        "Onion",
+        "Bulb onion"
+      ],
+      "scientific_common": "Cepa"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Oignon",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Cebolla",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Zwiebel",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Cipolla",
+            "script": "Latn"
+          },
+          {
+            "lang": "ru",
+            "name": "Лук репчатый",
+            "script": "Cyrl"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "بصل",
+            "script": "Arab"
+          },
+          {
+            "lang": "tr",
+            "name": "Soğan",
+            "script": "Latn"
+          },
+          {
+            "lang": "fa",
+            "name": "پیاز",
+            "script": "Arab"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "प्याज़",
+            "script": "Deva"
+          },
+          {
+            "lang": "bn",
+            "name": "পেঁয়াজ",
+            "script": "Beng"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "洋葱",
+            "script": "Hans"
+          },
+          {
+            "lang": "ja",
+            "name": "タマネギ",
+            "script": "Jpan"
+          },
+          {
+            "lang": "ko",
+            "name": "양파",
+            "script": "Hang"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Central Asian Highlands Communities",
+        "name": "不明",
+        "cultural_significance": "原産地における古代の野生種や初期栽培種の名称は特定が困難だが、食料および薬用として利用されていたと考えられる。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification based on APG IV system. Subspecific ranks like cultivar groups are widely recognized."
+    },
+    "family": {
+      "en": "Amaryllis family",
+      "la": "Amaryllidaceae"
+    },
+    "genus": {
+      "en": "Onion",
+      "la": "Allium"
+    },
+    "species": {
+      "en": "Onion",
+      "la": "Allium cepa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "Allium cepa var. cepa (Common Onion Group)"
+      },
+      {
+        "rank": "var.",
+        "name": "Allium cepa var. aggregatum (Shallot Group)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Historical and culinary importance is exceptionally well-documented across nearly all global cultures."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "世界全域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "香辛料",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "ほぼ全ての料理文化において、ソテー、スープ、煮込み料理の風味の基礎（例：フランス料理のミルポワ、イタリア料理のソフリット）として不可欠。生食、漬物、乾燥粉末など利用形態も多様。",
+        "seasonal_significance": "貯蔵性が高いため通年利用されるが、新タマネギは春の味覚として多くの文化で珍重される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Soupe à l'oignon (オニオンスープ)",
+          "Boeuf bourguignon (ブフ・ブルギニョン)",
+          "Mirepoix (香味野菜)"
+        ],
+        "preparation_methods": [
+          "Sautéing (炒める)",
+          "Caramelizing (飴色に炒める)",
+          "Braising (煮込む)"
+        ],
+        "cultural_context": "多くのソースや煮込み料理の風味の土台を築く、西洋料理の根幹をなす食材。"
+      },
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Curry Base",
+          "Biryani",
+          "Pakora (天ぷら)"
+        ],
+        "preparation_methods": [
+          "Frying (揚げる)",
+          "Sautéing (炒める)",
+          "Grinding into paste (ペースト状にする)"
+        ],
+        "cultural_context": "ほとんどのカレーやマサラのベースとして、ニンニクやショウガと共に調理の第一段階で用いられる必須食材。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプトでは神聖なものとされ、ピラミッド建設労働者への給与の一部だった。永遠性を象徴すると考えられ、ミイラと共に埋葬された。旧約聖書にも記述がある。",
+      "trade_routes": "シルクロードやその他の古代交易路を通じて世界中に拡散。ローマ帝国によってヨーロッパ全土に広められた。",
+      "cultural_exchange": "コロンブス交換により新大陸に伝わり、瞬く間に南北アメリカ大陸の食文化にも組み込まれた。",
+      "domestication_history": "約5000年以上前に中央アジアで栽培化が始まったと考えられている。明確な野生原種は特定されていないが、長年の選択栽培により現在の多様な品種が生まれた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "短日性品種（Short-day varieties）が適する。高温多湿は病害リスクを高める。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "短日性および中日性品種（Intermediate-day varieties）が栽培される。乾季と雨季のサイクルを利用した栽培が多い。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "長日性品種（Long-day varieties）が主流。冷涼な気候でじっくり生育させることで、貯蔵性の高い球が育つ。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "長日性品種が適する。冬の寒さを利用して春に急成長させる栽培体系が一般的。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。乾燥は病害を抑える利点もあるが、水管理が収量を左右する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため、商業的な球の生産は困難。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春（苗）または秋（種子）",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": "100-175"
+      },
+      {
+        "climate_zone": "亜熱帯・熱帯",
+        "planting_season": "乾季の始まり",
+        "harvest_season": "雨季の前",
+        "growing_period_days": "90-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 60,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種の日長適性",
+        "灌漑の有無とタイミング",
+        "土壌の肥沃度と排水性",
+        "病害虫（特にべと病、黒腐れ病、ネギアザミウマ）の管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約1億トン以上",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 25,
+          "characteristics": "世界最大の生産国。国内消費が主だが輸出も多い。"
+        },
+        {
+          "country": "インド",
+          "production_share": 20,
+          "characteristics": "世界第2位の生産国。国内需要が非常に高く、価格変動が社会問題になることもある。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、機能性成分（ケルセチン等）の含有量は品種、栽培条件、貯蔵期間で大きく変動する。伝統的利用に関する記録は多いが、科学的検証は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "40",
+        "protein_g": "1.1",
+        "carbs_g": "9.3",
+        "fat_g": "0.1",
+        "fiber_g": "1.7"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "7.4 mg",
+          "daily_value_percent": "9"
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "0.1 mg",
+          "daily_value_percent": "9"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "146 mg",
+          "daily_value_percent": "3"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ケルセチン (Quercetin)",
+        "concentration": "高（特に赤タマネギや外皮に多い）",
+        "health_effect": "強力な抗酸化作用、抗炎症作用、抗アレルギー作用"
+      },
+      {
+        "compound": "含硫化合物 (Organosulfur compounds)",
+        "concentration": "高",
+        "health_effect": "抗血栓作用、抗菌作用、一部のがんリスク低減の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "咳止め、去痰",
+          "利尿作用",
+          "殺菌（湿布として）"
+        ],
+        "preparation": "シロップ（蜂蜜漬け）、生のまま、または加熱したものを湿布として利用。"
+      },
+      {
+        "region": "インド",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "解熱",
+          "消化促進",
+          "性的強壮"
+        ],
+        "preparation": "生食、ジュース、または他のハーブと調合。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "心血管疾患リスクの低減",
+        "抗酸化・抗炎症作用",
+        "血糖値コントロールの補助"
+      ],
+      "ongoing_research": [
+        "特定のがん（特に消化器系）に対する予防効果",
+        "腸内環境改善効果",
+        "骨密度維持への寄与"
+      ],
+      "safety_considerations": "過剰摂取は一部の人に消化不良や胸やけを引き起こすことがある。イヌやネコには有毒。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "調理法と利用法は世界中の料理本や食文化研究で詳細に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界全域",
+        "methods": [
+          "Sautéing (炒める)",
+          "Caramelizing (飴色に炒める)",
+          "Roasting (ロースト)",
+          "Frying (揚げる)",
+          "Grilling (焼く)",
+          "Boiling (茹でる)",
+          "Raw (生食)",
+          "Pickling (漬ける)"
+        ],
+        "flavor_role": "主味/副味/香辛料/薬味",
+        "typical_combinations": [
+          "ニンニク",
+          "トマト",
+          "セロリ",
+          "ニンジン",
+          "ハーブ類",
+          "スパイス類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（Dehydration）",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "風味は凝縮されるが、新鮮な香りは失われる。粉末、フレーク状で利用される。"
+      },
+      {
+        "method": "自然乾燥貯蔵",
+        "regions": [
+          "温帯地域"
+        ],
+        "shelf_life": "数ヶ月から半年",
+        "quality_changes": "適切に乾燥・貯蔵すれば品質は維持されるが、徐々に水分が失われ、発芽や腐敗のリスクがある。"
+      },
+      {
+        "method": "酢漬け（Pickling）",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "食感が変わり、酸味が加わる。辛味が和らぐ。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生では辛味と刺激臭、加熱すると甘味と旨味（グルタミン酸）が増す。",
+      "aroma_compounds": [
+        "チオプロパナールS-オキシド（催涙成分）",
+        "ジプロピルジスルフィドなどの含硫化合物"
+      ],
+      "texture_characteristics": "生ではシャキシャキとした食感。加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "品種ごとの日長性という明確な適応メカニズムがあるが、極端気象に対する定量的データは少ない。将来予測は広域モデルに基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "13-24°C",
+      "extreme_heat_survival": "35°C以上では生育が著しく阻害される。",
+      "cold_tolerance": "-6°C程度まで耐えるが、品種による。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。浅い根系のため、定期的な水分供給が必要。",
+      "flood_tolerance": "低。過湿は根腐れや球の腐敗を引き起こす。",
+      "optimal_rainfall": "650-750 mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部が倒伏しやすく、球が露出するリスクがある。",
+      "hail_damage_recovery": "葉の損傷からの回復力は中程度だが、球に直接的なダメージがあると腐敗しやすい。",
+      "rapid_temperature_change": "急激な高温は休眠打破や抽苔（とう立ち）を誘発することがある。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度の増収効果が報告されているが、他の環境要因に左右される。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンは葉に斑点を生じさせ、光合成能力を低下させる。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりネギアザミウマなどの害虫の発生期間が長期化し、被害が増加する懸念がある。",
+      "disease_resistance_stability": "高温多湿はべと病や白腐病などの病害の発生を助長する。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "世界の温帯、亜熱帯、熱帯高地",
+        "2050_projection": "高緯度地域へ適地が拡大する一方、現在の低緯度産地では熱ストレスと水不足のリスクが増大。",
+        "2100_projection": "水資源が確保できる高緯度地域での重要性が増す。伝統的な産地では耐熱・耐乾性品種への転換が不可欠。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アリウム属内の交雑親和性に関する研究は豊富。育種素材としての遺伝的多様性は非常に高い。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全ての栽培品種群（黄、赤、白、シャロット等）は相互に交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Allium fistulosum (ネギ)",
+        "Allium roylei",
+        "Allium galanthum"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない"
+      ],
+      "successful_natural_hybrids": [
+        "Allium x proliferum (ヤグラネギ) は A. cepa と A. fistulosum の自然交雑種と考えられている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "日長性、形状、色、辛味、貯蔵性など、世界中に極めて多様な在来品種が存在する。",
+      "wild_gene_pool": "中央アジアに分布する野生近縁種は、病害抵抗性やストレス耐性の遺伝子供給源として非常に重要。",
+      "adaptive_genetic_variation": "日長反応性（長日、中日、短日）は、緯度への適応を示す顕著な遺伝的変異である。",
+      "inbreeding_depression_risk": "他家受精性植物であるため、自家受精を繰り返すと近交弱勢が起こりやすい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界各地の異なる緯度帯",
+        "environmental_pressure": "緯度による日長の違い",
+        "adaptive_response": "球の形成を開始するために必要な日長（臨界日長）が異なる品種群の分化。",
+        "time_scale": "数千年",
+        "mechanism": "フロリゲンなど光周性に関わる遺伝子の変異に対する地域的な選択。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、耐病性や耐乾性の向上が期待される。",
+      "improved_nutritional_content": "他のアリウム種から、アリシンや他の機能性成分を導入できる可能性がある。",
+      "novel_characteristics": "葉の利用（葉タマネギ）や、新しい風味や形状の創出が可能。",
+      "hybrid_vigor_potential": "F1ハイブリッド品種の利用により、収量性や均一性が大幅に向上している。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部の種間交雑では胚珠の敗退などが見られるが、胚培養技術で克服可能な場合がある。",
+      "chromosome_compatibility": "多くのアリウム属は染色体基本数が x=8 であり、交雑可能な種が多い。",
+      "fertility_of_hybrids": "種間雑種の稔性は様々だが、多くは部分的な稔性を持つ。",
+      "backcrossing_success": "有用遺伝子を栽培種に取り込むための戻し交配は、育種において広く行われている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫圧",
+        "adaptive_traits": "特定の病害（べと病、さび病など）への抵抗性遺伝子",
+        "heritability": "抵抗性遺伝子は多くが質的形質であり、遺伝率は高い。",
+        "response_to_selection": "抵抗性品種の導入により、地域の生産性が安定する。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "コンパニオンプランツとしての効果は広く知られているが、土壌改良や炭素固定に関する定量的データは限定的。根系が浅いため、その効果は限定的と推測される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "根系は浅く（深さ30-50cm）、繊維状。土壌の緻密層を打破する能力は低い。",
+      "organic_matter_contribution": "収穫後の残渣による有機物供給は限定的。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "被覆率が低いため、単作での侵食防止効果は低い。",
+      "nutrient_cycling_role": "菌根菌との共生が見られるが、養分循環における役割は他の作物に比べて小さい。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花時にはハナバチ類やハエ類など多様な送粉者を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "含硫化合物が土壌微生物相に影響を与える可能性があり、一部の病原菌を抑制する効果（バイオフミゲーション）が研究されている。",
+      "above_ground_biodiversity": "限定的。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "マルチングと組み合わせることで効果を発揮するが、作物自体の効果は小さい。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン（互いの害虫を忌避しあうとされる）",
+        "カモミール（生育を助けるとされる）",
+        "レタス、キャベツ（アブラムシを減らす効果）"
+      ],
+      "natural_pest_control": "強い香りが多くの害虫（ニンジンサビバエ、アブラムシなど）を忌避する効果がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "マメ科植物の生育を阻害することがある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物が混植されたアグロフォレストリーやパーマカルチャーシステムにおいて、害虫管理の一翼を担うことでシステムの安定性に貢献する。",
+      "stress_tolerance": "作物単体でのストレス耐性は高くない。",
+      "recovery_capacity": "低い",
+      "adaptability": "品種の多様性は高いが、個々の品種の適応範囲は限定的。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界的な食料としての重要性と機能性食品としての関心は非常に高い。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ほとんどの植物性料理において風味の基盤となり、不可欠な役割を果たす。",
+      "food_security_contribution": "世界中で栽培される主要野菜の一つであり、特に発展途上国において重要なカロリー源および微量栄養素源。",
+      "local_food_system_integration": "家庭菜園から大規模商業生産までスケールが多様で、地域の食料システムに容易に組み込める。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性成分（ケルセチンなど）を強化した品種開発",
+        "特定の料理に特化した品種（甘タマネギ、辛タマネギなど）のブランディング"
+      ],
+      "value_added_products": [
+        "オニオンパウダー、オニオンフレーク",
+        "フライドオニオン",
+        "オニオンピクルス",
+        "ケルセチン抽出物（サプリメント）"
+      ],
+      "niche_market_value": "特定の地域ブランド（例：米国のヴィダリアオニオン、フランスのロスコフオニオン）は高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商業品種は安定しているが、世界中の在来種の消失リスクは高いと推定される。具体的な保全状況のデータは地域ごとに散在している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "中央アジアの野生近縁種の自生地は、過放牧や開発の脅威にさらされている。",
+    "climate_change_vulnerability": "特定の地域に特化した在来品種は、気候変動による環境変化に対して脆弱である。",
+    "cultural_erosion_risk": "伝統的な食文化や農法が失われることで、それに結びついた在来品種も消失するリスクがある。",
+    "conservation_actions_needed": [
+      "世界中の在来品種の網羅的な収集と特性評価",
+      "ジーンバンクにおける種子や遺伝資源の長期保存（域外保全）",
+      "農家が在来品種を栽培し続けることを支援する参加型保全（域内保全）"
+    ],
+    "priority_conservation_regions": [
+      "中央アジア（遺伝的多様性の中心地）",
+      "地中海沿岸地域",
+      "アンデス地域"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（例：World Vegetable Center, USDA GRIN）には多数の遺伝資源が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "各国の農業研究機関やNGOによって地域レベルで進められているが、世界的な連携は十分ではない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集された情報に基づく総合的な専門的判断である。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中央アジア（野生近縁種と初期栽培化の歴史）",
+      "世界各地の小規模農村（在来品種の多様性と利用法）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に極端気象）に対する多様な在来品種の応答に関する定量的データ",
+      "リジェネラティブ農業システムにおけるタマネギの生態系サービス機能の評価",
+      "世界各地の先住民・地域コミュニティにおける伝統的知識と利用法"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "広く知られた品種群の情報を記載。"
+      },
+      "variety_name": "Yellow Sweet Spanish",
+      "local_name": "Yellow Sweet Spanish",
+      "origin_region": "スペイン、アメリカで改良",
+      "distinctive_characteristics": "大型で甘みが強く、貯蔵性が高い。長日性品種の代表。",
+      "cultural_importance": "北米やヨーロッパで広く栽培される主要な商業品種。",
+      "climate_adaptation": "冷涼な温帯気候に適応。",
+      "conservation_status": "商業的に安定"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "広く知られた品種群の情報を記載。"
+      },
+      "variety_name": "Grano/Granex (Vidalia)",
+      "local_name": "Grano/Granex",
+      "origin_region": "アメリカ（テキサス州）",
+      "distinctive_characteristics": "扁平な形状で、硫黄化合物が少なく非常に甘い。貯蔵性は低い。短日性品種。",
+      "cultural_importance": "米国のヴィダリアオニオンとしてブランド化され、生食用の高級タマネギとして有名。",
+      "climate_adaptation": "温暖な亜熱帯気候（冬が穏やか）に適応。",
+      "conservation_status": "商業的に安定"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "広く知られた品種群の情報を記載。"
+      },
+      "variety_name": "Cipolla Rossa di Tropea",
+      "local_name": "Cipolla Rossa di Tropea",
+      "origin_region": "イタリア（カラブリア州トロペーア）",
+      "distinctive_characteristics": "鮮やかな赤紫色で、甘みが強く、消化しやすいとされる。中日性。",
+      "cultural_importance": "イタリア料理で珍重され、EUの地理的表示保護（PGI）を受けている。",
+      "climate_adaptation": "地中海性気候に適応。",
+      "conservation_status": "地域的に保護されている"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "World Vegetable Center (WorldVeg)",
+      "USDA National Nutrient Database",
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "Ethnobotanical literature reviews"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "在来品種の網羅的な遺伝特性と保全状況"
+    ],
+    "regional_data_coverage": "北米、ヨーロッパ、主要アジア生産国のデータは豊富。アフリカ、南米、中央アジアの在来種に関するデータは限定的。",
+    "missing_information": [
+      "先住民コミュニティにおける伝統的名称と利用法",
+      "野生近縁種の正確な分布と保全状況"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

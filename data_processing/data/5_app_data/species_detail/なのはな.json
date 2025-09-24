@@ -1,0 +1,700 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Brassica rapaは非常に多様な栽培品種群を含むため、本データは花蕾や若葉を食用とする「ナバナ」に類する形態を中心にしつつ、種全体としての特性を統合した。情報は主要な植物学データベース、農業研究機関の報告に基づいている。"
+    },
+    "primary_name": "Field Mustard",
+    "scientific_name": "Brassica rapa",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "花",
+      "根",
+      "種子"
+    ],
+    "origin_region": "中央アジアから地中海沿岸にかけての広範な地域",
+    "wild_relatives": [
+      "Brassica rapa subsp. sylvestris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の主要な栽培地域における名称を網羅。特定の先住民コミュニティ固有の名称に関する記録は限定的。"
+    },
+    "international": {
+      "en": [
+        "Field Mustard",
+        "Turnip Rape",
+        "Bird Rape",
+        "Wild Turnip"
+      ],
+      "scientific_common": "Rapeseed (Brassica napusと混同されることがある)"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ナバナ, ナノハナ",
+            "script": "Japanese"
+          },
+          {
+            "lang": "zh",
+            "name": "油菜 (yóucài)",
+            "script": "Chinese"
+          },
+          {
+            "lang": "ko",
+            "name": "유채 (yuchae)",
+            "script": "Korean"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Cima di rapa, Friarielli",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Rübsen",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Navette",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "सरसों (Sarson)",
+            "script": "Devanagari"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類体系に基づく。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Mustard",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Field Mustard",
+      "la": "Brassica rapa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "B. rapa subsp. rapa (Turnip group)"
+      },
+      {
+        "rank": "subspecies",
+        "name": "B. rapa subsp. pekinensis (Chinese Cabbage group)"
+      },
+      {
+        "rank": "subspecies",
+        "name": "B. rapa subsp. chinensis (Bok Choy group)"
+      },
+      {
+        "rank": "variety",
+        "name": "B. rapa var. perviridis (Komatsuna group)"
+      },
+      {
+        "rank": "variety",
+        "name": "B. rapa var. narinosa (Tatsoi group)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、食文化史の文献に基づき、各地域の文化的重要性を記述。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "季節の象徴",
+          "景観作物",
+          "経済作物"
+        ],
+        "traditional_uses": "日本では春の訪れを告げる野菜としておひたしや和え物に。中国では主に炒め物として日常的に消費される。菜の花畑は観光資源でもある。",
+        "seasonal_significance": "早春の重要な野菜",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ（特にイタリア南部）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "地域料理の核"
+        ],
+        "traditional_uses": "'Cima di Rapa'として、パスタ料理（オレッキエッテなど）に不可欠な食材。地域文化と強く結びついている。",
+        "seasonal_significance": "秋冬野菜",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "主食の付け合わせ"
+        ],
+        "traditional_uses": "種子から採れるマスタードオイルが調理油として広範に利用される。葉は'Sarson da Saag'という煮込み料理として、特にパンジャブ地方で重要。",
+        "seasonal_significance": "冬の重要な野菜および油糧作物",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "菜の花のおひたし",
+          "からし和え",
+          "吸い物"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "蒸す",
+          "炒める"
+        ],
+        "cultural_context": "春の季語であり、季節感を表現する上で重要な食材。ほろ苦さが特徴。"
+      },
+      {
+        "cuisine": "イタリア南部料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Orecchiette con le cime di rapa"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒める"
+        ],
+        "cultural_context": "プーリア州の郷土料理を代表する食材。その独特の苦味が料理に深みを与える。"
+      },
+      {
+        "cuisine": "中華料理",
+        "role": "common",
+        "traditional_dishes": [
+          "清炒油菜"
+        ],
+        "preparation_methods": [
+          "炒める"
+        ],
+        "cultural_context": "日常的な家庭料理で使われる安価で栄養価の高い青菜。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "新石器時代にはヨーロッパで利用されていた証拠がある。アジアでは数千年前から栽培。",
+      "trade_routes": "シルクロードなどを通じてユーラシア大陸に広まったと考えられる。",
+      "cultural_exchange": "各地で独自の品種群（カブ、ハクサイ、ナバナなど）に分化し、世界の食文化の多様化に貢献。",
+      "domestication_history": "複数の地域で独立して、あるいは相互に影響し合いながら栽培化が進んだ複合的な歴史を持つ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や涼しい季節に限定される。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "秋冬作が中心。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な気候を好み、春と秋が栽培の最適期。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏は短期間で栽培可能な品種、または秋作。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑が必須。乾燥と高温に弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "夏季の栽培に適するが、生育期間が短い。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "8月下旬～10月（秋播き）、3月～5月（春播き）",
+        "harvest_season": "11月～4月（秋播き）、5月～7月（春播き）",
+        "growing_period_days": "30-90"
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 30,000 kg/ha（葉菜として）",
+      "factors_affecting_yield": [
+        "品種",
+        "栽培時期",
+        "肥培管理",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（油糧用と野菜用が混在し、統計が不正確）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "野菜用、油糧用ともに世界最大の生産国。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "主に油糧用（マスタードオイル）として広範に栽培。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "野菜（ナバナ、コマツナ等）としての消費が主。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは豊富だが、品種や栽培条件による変動が大きい。伝統的薬用利用は民族植物学の記録に基づくが、科学的検証は途上。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "33",
+        "protein_g": "4.1",
+        "carbs_g": "4.9",
+        "fat_g": "0.4",
+        "fiber_g": "3.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "130mg",
+          "daily_value_percent": "144%"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "257μg",
+          "daily_value_percent": "214%"
+        },
+        {
+          "nutrient": "β-カロテン",
+          "amount": "3200μg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "340μg",
+          "daily_value_percent": "85%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "160mg",
+          "daily_value_percent": "16%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート",
+        "concentration": "品種により変動",
+        "health_effect": "抗がん作用、抗菌作用が研究されている。"
+      },
+      {
+        "compound": "フラボノイド（ケンペロール、ケルセチン）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "伝統中国医学",
+        "uses": [
+          "解毒",
+          "血行促進"
+        ],
+        "preparation": "食用として摂取"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "特定のがん種に対する予防効果",
+        "心血管疾患リスクの低減"
+      ],
+      "safety_considerations": "グルコシノレートの過剰摂取は甲状腺機能に影響を与える可能性が指摘されているが、通常の食事量では問題ない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書や食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる",
+          "炒める",
+          "蒸す",
+          "漬ける"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "出汁",
+          "醤油",
+          "味噌",
+          "ごま",
+          "ニンニク",
+          "唐辛子"
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "茹でる",
+          "ソテー"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "パスタ",
+          "オリーブオイル",
+          "ニンニク",
+          "アンチョビ",
+          "唐辛子"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け・醤油漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数週間～数ヶ月",
+        "quality_changes": "食感が変化し、風味が増す。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほろ苦さ、甘み、わずかな辛味",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "シャキシャキとした茎、柔らかい花蕾と葉"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、品種レベルでの定量的な実験データは少ない。将来予測は広域モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30°C以上で生育不良",
+      "cold_tolerance": "-5°C（品種による）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "中程度",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1000mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "抽苔（とうだち）を誘発しやすい"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "あり（C3植物として一般的）",
+      "ozone_sensitivity": "中",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシ、コナガなどの発生期間が長期化し、被害が増加するリスク。",
+      "disease_resistance_stability": "高温多湿で根こぶ病や軟腐病のリスクが増加。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯全域、亜熱帯の冬季",
+        "2050_projection": "温帯の高緯度地域や高地へ栽培適地がシフト。低緯度地域では冬季栽培への限定が強まる。",
+        "2100_projection": "シフトがさらに進行。耐暑性品種の育種が不可欠となる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Brassica属の交雑和合性に関する研究は豊富。自然交雑と人為的交配の両方の情報を含む。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "カブ、ハクサイ、コマツナ、タアサイなど、B. rapa内の全ての栽培品種群と容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Brassica napus（セイヨウアブラナ）、Brassica juncea（カラシナ）と交雑可能（これらはB. rapaを祖先に持つ複二倍体）。Brassica oleracea（キャベツ類）とは交雑しにくい。"
+      ],
+      "intergeneric_possibility": [
+        "限定的、または自然条件下ではほぼない。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培圃場の周辺で、野生種や他の栽培品種との自然交雑が頻繁に起こる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。世界各地に多様な在来品種が存在する。",
+      "wild_gene_pool": "野生種（B. rapa subsp. sylvestris）との遺伝子流動が確認されており、重要な遺伝子資源となっている。",
+      "adaptive_genetic_variation": "広範な環境に適応した多様な遺伝子型が存在する。",
+      "inbreeding_depression_risk": "自家不和合性の性質を持つ系統が多く、他家受精が主であるためリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ヨーロッパ",
+        "environmental_pressure": "雑草としての生存競争",
+        "adaptive_response": "栽培型から逸出した野生型（weedy form）の出現。早期開花、種子の休眠性などの形質を獲得。",
+        "time_scale": "数十年～数百年",
+        "mechanism": "自然選択、栽培型との遺伝子流動"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種や他地域の在来種との交雑により、耐病性、耐乾性、耐塩性などを向上させる可能性がある。",
+      "improved_nutritional_content": "機能性成分（グルコシノレートなど）の含量が異なる品種間の交雑により、栄養価の高い新品種の育成が可能。",
+      "novel_characteristics": "葉の形、色、花蕾の大きさなど、形態的な新規性を生み出す。",
+      "hybrid_vigor_potential": "非常に高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほとんどない。種間では倍数性の違いなどが障壁となる。",
+      "chromosome_compatibility": "種内（2n=20）では問題ない。",
+      "fertility_of_hybrids": "種内交雑では高い。",
+      "backcrossing_success": "高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫、乾燥、低温",
+        "adaptive_traits": "抵抗性遺伝子、根系の発達、開花時期の調整",
+        "heritability": "形質による",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アブラナ科植物の一般的特性に基づく評価が主。B. rapaに特化したリジェネラティブ農業システムの研究は限られている。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深く伸び、土壌の硬盤を破砕する可能性がある。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物として還元される。緑肥としても利用される。",
+      "soil_structure_improvement": "根の活動により土壌の団粒構造を促進する。",
+      "erosion_control": "被覆作物（カバークロップ）として利用した場合、土壌侵食を抑制する。",
+      "nutrient_cycling_role": "根が土壌深層から養分を吸い上げ、表層に還元する（養分ポンプ）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "豊富な花蜜と花粉を供給し、ミツバチや他の訪花昆虫にとって重要な蜜源となる。",
+      "beneficial_insect_habitat": "テントウムシや寄生蜂などの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "グルコシノレートが土壌微生物叢に影響を与え、特定の土壌病害を抑制する効果（バイオフューミゲーション）が研究されている。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根穴が水の浸透経路となり、土壌の保水能力を向上させる。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "被覆作物として地表面を覆うことで、雨水による表土流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系により、地下部への炭素蓄積に貢献する可能性がある。",
+      "soil_carbon_enhancement": "緑肥としての利用により、土壌有機炭素の増加に寄与する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）、芳香性ハーブ（害虫忌避）"
+      ],
+      "natural_pest_control": "特定の害虫を忌避する効果や、天敵を誘引する効果がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の雑草の生育を抑制するアレロパシー効果が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌病害の連作障害を軽減し、生態系の安定に貢献する。",
+      "stress_tolerance": "不明",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現在の食品市場のトレンドと農業研究の動向を反映。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラル、機能性成分が豊富で、植物中心の食生活において重要な役割を果たす。",
+      "food_security_contribution": "生育が早く、多様な環境で栽培可能なため、地域の食料安全保障に貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットなどで人気が高く、地産地消に適している。",
+      "alternative_protein_potential": "種子から採れる油の搾りかす（菜種粕）はタンパク質が豊富で、飼料や将来的には食品への利用ポテンシャルがある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "伝統野菜や郷土料理への関心の高まり",
+        "機能性食品としてのプロモーション"
+      ],
+      "value_added_products": [
+        "ベビーリーフ",
+        "スプラウト",
+        "漬物",
+        "パスタソース",
+        "食用油"
+      ],
+      "niche_market_value": "「チーマ・ディ・ラーパ」や日本の伝統的な花菜など、特定の品種はレストランや高級スーパーで高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の保全状況に関する国際機関の報告や、地域の農業動向からの推測を含む。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生種の自生地は開発や農地拡大により脅かされている。",
+    "climate_change_vulnerability": "栽培適地の変化により、特定の地域に適応した在来品種が消失するリスク。",
+    "cultural_erosion_risk": "食文化の均質化により、伝統的な品種の栽培・利用が放棄されるリスクが高い。",
+    "conservation_actions_needed": [
+      "在来品種の探索と収集",
+      "ジーンバンクでの種子保存",
+      "農家による自家採種と栽培の奨励（参加型保全）",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸",
+      "東アジア",
+      "南アジアの山岳地帯"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数の系統が保存されているが、網羅性は不完全。",
+    "in_situ_conservation_efforts": "世界各地で地域コミュニティやNGOによる小規模な保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全項目を統合した総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "イタリア南部（プーリア州）",
+      "日本の伝統的花菜栽培地域（京都など）",
+      "中国雲南省の多様性中心地"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に複合ストレス）に対する各在来品種の応答の定量的データ",
+      "土壌微生物叢との相互作用の詳細なメカニズム",
+      "先住民コミュニティによる伝統的利用法の網羅的記録"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "代表的な品種群を例示。"
+      },
+      "variety_name": "Cima di Rapa",
+      "local_name": "Cima di Rapa, Friarielli",
+      "origin_region": "イタリア南部",
+      "distinctive_characteristics": "小さなカブ状の根、豊富な側枝、ブロッコリーに似た小さな花蕾。独特の強い苦味を持つ。",
+      "cultural_importance": "プーリア州の郷土料理に不可欠な食材として、地域のアイデンティティと深く結びついている。",
+      "climate_adaptation": "地中海性気候の冷涼で湿潤な秋冬に適応。",
+      "conservation_status": "地域内で栽培が継続されているが、多くの在来系統が存在し、その保全が課題。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "代表的な品種群を例示。"
+      },
+      "variety_name": "Fushimi Kanzaki Hanana (伏見寒咲花菜)",
+      "local_name": "花菜（ハナナ）",
+      "origin_region": "日本（京都）",
+      "distinctive_characteristics": "耐寒性が強く、冬から早春にかけて花茎（花蕾）を収穫する。苦味が少なく、甘みが強い。",
+      "cultural_importance": "京野菜の一つとして、伝統的な春の味覚を代表する。",
+      "climate_adaptation": "温帯の冬の寒さに適応し、低温下で甘みを増す。",
+      "conservation_status": "伝統野菜として保全活動が行われている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "World Vegetable Center (WorldVeg)",
+      "Royal Botanic Gardens, Kew",
+      "USDA National Nutrient Database",
+      "民族植物学関連学術論文"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界中の在来品種の網羅的な遺伝的・形態的特性データ"
+    ],
+    "regional_data_coverage": "東アジア、ヨーロッパ、南アジアは比較的豊富。アフリカ、南北アメリカに関する情報は少ない。",
+    "missing_information": [
+      "特定の先住民コミュニティによる利用法",
+      "小規模農家レベルでの生産統計"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、国際ポテトセンター(CIP)の情報を統合。野生近縁種の情報も明確。"
+    },
+    "primary_name": "Ulluco",
+    "scientific_name": "Ullucus tuberosus",
+    "plant_type": "多年草 (一年草として栽培)",
+    "edible_parts": [
+      "塊茎",
+      "葉"
+    ],
+    "origin_region": "南米アンデス地域 (ペルー、ボリビア、エクアドル)",
+    "wild_relatives": [
+      "Ullucus tuberosus ssp. aborigineus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学的な記録と地域農業データベースからの情報を統合。"
+    },
+    "international": {
+      "en": [
+        "Ulluco",
+        "Melloco",
+        "Olluco",
+        "Papa Lisa"
+      ],
+      "scientific_common": "Ulluco"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Olluco",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Melloco",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Papa Lisa",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Ruba",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ケチュア語話者",
+        "name": "Ulluku",
+        "cultural_significance": "主要な根菜であり、食文化の基盤。多様な品種が地域ごとに名前を持つ。"
+      },
+      {
+        "community": "アイマラ語話者",
+        "name": "Ulluma",
+        "cultural_significance": "高地での食料安全保障に不可欠な作物。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Basellaceae",
+      "la": "Basellaceae"
+    },
+    "genus": {
+      "en": "Ullucus",
+      "la": "Ullucus"
+    },
+    "species": {
+      "en": "Tuberous",
+      "la": "tuberosus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Ullucus tuberosus ssp. aborigineus"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アンデス地域の民族植物学研究、考古学的証拠、食文化研究に基づく。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南米アンデス地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "ジャガイモと同様に主食として利用されるが、独特の食感と風味を持つ。市場での販売も盛ん。特定の祭りや儀式で供物として使われることがある。",
+        "seasonal_significance": "雨季に栽培され、乾季の始まりに収穫される主要な作物の一つ。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "アンデス料理 (ペルー、ボリビア、エクアドル)",
+        "role": "essential",
+        "traditional_dishes": [
+          "Olluquito con charqui",
+          "Sopa de melloco",
+          "Aji de papalisa"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "スープ",
+          "炒め物",
+          "ピクルス"
+        ],
+        "cultural_context": "家庭料理からレストランまで広く使われる。特にペルーの「Olluquito con charqui」は国民的な料理。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インカ帝国以前から栽培されていた証拠が考古学的遺物から見つかっている。少なくとも5500年前から利用されている。",
+      "trade_routes": "歴史的にはアンデス山脈内の地域間交易で重要な品目であった。",
+      "cultural_exchange": "アンデス文明における農業技術と食文化の伝播において中心的な役割を果たした。",
+      "domestication_history": "アンデス高地で野生種から栽培化された。非常に多くの在来品種が存在し、農民による長年の選抜の歴史を物語っている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温に弱く、塊茎が形成されない。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "高地の冷涼な環境でのみ可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "海洋性気候など夏が冷涼で、生育期間が長い地域に適応可能。日長感受性があるため、秋に塊茎が形成される。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さに耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地である標高2,500mから4,000mの冷涼湿潤な高地気候が最適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "アンデス高地",
+        "planting_season": "雨季の始まり (10月-11月)",
+        "harvest_season": "雨季の終わり (5月-6月)",
+        "growing_period_days": "180-240"
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "標高",
+        "土壌肥沃度",
+        "ウイルス病の発生",
+        "降水量"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ペルー",
+          "production_share": null,
+          "characteristics": "世界最大の生産国であり、最も多様な品種が栽培されている。"
+        },
+        {
+          "country": "ボリビア",
+          "production_share": null,
+          "characteristics": "主要な生産国の一つで、伝統的な食文化に深く根付いている。"
+        },
+        {
+          "country": "エクアドル",
+          "production_share": null,
+          "characteristics": "メロコ(Melloco)として知られ、スープなどの料理で多用される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分のデータは存在するが、品種や栽培条件による変動に関する研究は限定的。機能性成分に関する研究は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "60-80",
+        "protein_g": "1.0-1.7",
+        "carbs_g": "14-18",
+        "fat_g": "0.1",
+        "fiber_g": "0.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "12-23 mg/100g",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ベタレイン",
+        "concentration": "品種による (特に赤・紫・黄色の品種に多い)",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米アンデス地域",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "皮膚病の治療",
+          "丹毒の治療",
+          "消化促進",
+          "切り傷の治療"
+        ],
+        "preparation": "生の塊茎をすりつぶして湿布として使用する、あるいは調理して摂取する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗炎症作用",
+        "抗がん作用の可能性"
+      ],
+      "safety_considerations": "一般的に安全な食材とされるが、シュウ酸を含むため、腎臓結石のリスクがある人は過剰摂取に注意が必要な可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アンデス地域の料理本、食文化研究、民族誌的記録に基づく。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南米アンデス地域",
+        "methods": [
+          "煮込み(Guiso)",
+          "スープ(Sopa)",
+          "炒め物(Salteado)",
+          "蒸し煮"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "乾燥肉(Charqui)",
+          "ジャガイモ",
+          "唐辛子(Aji)",
+          "タマネギ",
+          "ハーブ(Huacatay)"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ピクルス",
+        "regions": [
+          "ペルー",
+          "ボリビア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感がよりシャキシャキし、酸味が加わる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "土の香り、ほんのりとした甘み、わずかにビーツに似た風味",
+      "aroma_compounds": [
+        "ジオスミン"
+      ],
+      "texture_characteristics": "加熱後も崩れにくく、シャキシャキ、あるいはヌルっとした独特の食感"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定性的な知見は多いが、制御環境下での定量的な耐性実験データは極めて少ない。将来予測は、現在の生態的ニッチからの推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-18°C",
+      "extreme_heat_survival": "25°C以上で生育が著しく阻害される。",
+      "cold_tolerance": "軽い霜には耐えるが、-2°C以下で地上部が枯死する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1000 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。草本性のため強風で倒れやすいが、地下塊茎は保護される。",
+      "hail_damage_recovery": "中程度。地上部が損傷しても、塊茎から再生する可能性がある。",
+      "rapid_temperature_change": "低い。安定した冷涼な気候を好む。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高。高地の強い紫外線環境に適応している。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、低地から害虫（例：アンデスイモゾウムシ）が侵入するリスクが増加する。",
+      "disease_resistance_stability": "ウイルス病に感受性が高く、温暖化はウイルスの蔓延を助長する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アンデス高地 (2500-4000m)",
+        "2050_projection": "栽培適地がより高標高へ移動（アップスロープ・マイグレーション）し、低標高側の適地が失われる可能性が高い。",
+        "2100_projection": "多くの現栽培地で栽培が困難または不可能になるリスクがある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Ullucus属は1種のみであり、種間交雑は不可能。種内の遺伝的多様性に関する情報は豊富。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種間での交雑は可能だが、多くは栄養繁殖で維持されるため、自然な交配は限定的。"
+      ],
+      "interspecific_compatibility": [
+        "不可能 (同属別種が存在しない)"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "栽培種と野生亜種(ssp. aborigineus)間の自然交雑の可能性が指摘されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。色、形、大きさ、食感に関して数千の在来品種が存在する。",
+      "wild_gene_pool": "野生亜種(ssp. aborigineus)が重要な遺伝子資源として存在する。",
+      "adaptive_genetic_variation": "アンデスの多様な微気候に適応した地域品種が多数存在し、高い適応的遺伝変異を示唆する。",
+      "inbreeding_depression_risk": "低い。主に栄養繁殖されるが、遺伝的多様性が高いためリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス山脈の各谷",
+        "environmental_pressure": "標高、土壌、降水量、日長などの微気候の違い",
+        "adaptive_response": "特定の微気候に適した塊茎の色、形、生育サイクルを持つ地域品種群の分化",
+        "time_scale": "数千年",
+        "mechanism": "農家による長年の人為選抜と自然選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生亜種との交雑により、病害虫抵抗性や非生物的ストレス耐性が向上する可能性がある。",
+      "improved_nutritional_content": "特定のベタレインや他の栄養素を多く含む品種の育種が可能。",
+      "novel_characteristics": "新しい色や形の塊茎を持つ品種の作出。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "多くの品種で開花が稀であったり、結実率が低いことが育種の障壁となる。",
+      "chromosome_compatibility": "種内では問題ない（2n=24）。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "霜、病害虫、土壌条件",
+        "adaptive_traits": "早熟性、特定の病気への抵抗性、塊茎の休眠性",
+        "heritability": "不明",
+        "response_to_selection": "在来品種の多様性として観察される。"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "「リジェネラティブ農業」という枠組みでの直接的な研究はほぼない。伝統的なアンデス農法からの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い繊維状の根系。",
+      "organic_matter_contribution": "地上部の残渣は土壌有機物を供給する。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "生育期には良好な地表被覆を提供し、特に段々畑での土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "伝統的な輪作体系（キヌア、アマランス、豆類との）の一部として、栄養循環に貢献する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は小さく、受粉昆虫への貢献は限定的。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "品種の多様性そのものが遺伝的生物多様性の保全に貢献している。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により、急な斜面での水の浸透を助ける。",
+      "moisture_retention": "中程度。",
+      "runoff_reduction": "高い。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。",
+      "below_ground_carbon": "中程度。収穫されない塊茎や根が地下炭素となる。",
+      "soil_carbon_enhancement": "輪作体系の中で土壌炭素の維持に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "キヌア",
+        "タギetes minuta (ワカタイ)",
+        "豆類"
+      ],
+      "natural_pest_control": "ワカタイなどのコンパニオンプランツが線虫を抑制する効果が伝統的に知られている。",
+      "nutrient_sharing": "豆類との輪作による窒素供給。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "アンデスの多様な作物を組み合わせた伝統農法において、生態系の安定性を高める重要な要素。",
+      "stress_tolerance": "特定のストレス（冷涼、高UV）には強いが、他のストレス（高温、乾燥）には弱い。",
+      "recovery_capacity": "中程度。",
+      "adaptability": "遺伝的多様性が高いため、品種レベルでの適応性は高い。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場トレンド、食品科学、国際農業研究機関の報告書に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "カラフルな見た目と独特の食感で、植物性食品の多様性を豊かにする。",
+      "food_security_contribution": "アンデス地域の食料安全保障に不可欠。他の冷涼な高地気候帯での食料源としての可能性。",
+      "local_food_system_integration": "地域の食文化と経済を支える核となる作物。",
+      "alternative_protein_potential": "低い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "欧米やアジアの高級レストラン、エスニックフード市場",
+        "健康志向の消費者向けスーパーフード"
+      ],
+      "value_added_products": [
+        "カラフルなポテトチップス様のスナック",
+        "冷凍食品",
+        "ピクルス",
+        "天然着色料の原料"
+      ],
+      "niche_market_value": "高い。その希少性と文化的背景から、高付加価値作物となる可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際ポテトセンター(CIP)や各国の遺伝資源バンク、生物多様性保全に関する報告書に基づく。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "気候変動による栽培適地の縮小と高地化。",
+    "climate_change_vulnerability": "高い。高温への感受性が最大の脅威。",
+    "cultural_erosion_risk": "高。市場経済の浸透と食生活の変化により、伝統的な栽培・利用知識が失われつつある。",
+    "conservation_actions_needed": [
+      "在来品種の生息域内(in-situ)保全活動の支援",
+      "遺伝資源バンクでの生息域外(ex-situ)保全の強化",
+      "気候変動適応品種の育種研究",
+      "文化継承と市場開拓の連携"
+    ],
+    "priority_conservation_regions": [
+      "ペルー、ボリビア、エクアドルのアンデス高地"
+    ],
+    "ex_situ_conservation_status": "国際ポテトセンター(CIP)が世界最大のコレクションを保有・維持している。",
+    "in_situ_conservation_efforts": "ペルーの「ポテトパーク」のような、地域コミュニティが主導する保全活動が実施されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本レポートの総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "ペルー南部",
+      "ボリビア北部",
+      "エクアドル中部"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、CO2濃度）に対する生理学的応答の定量的データ",
+      "品種ごとの栄養価と機能性成分の比較分析",
+      "リジェネラティブ農業システムにおける具体的な貢献度の評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名は非常に多く地域的なため、代表的なタイプを記載。"
+      },
+      "variety_name": "Puka lisa / Chuccha lisa",
+      "local_name": "Puka lisa (ケチュア語で「赤い滑らかな」)",
+      "origin_region": "ペルー、ボリビア",
+      "distinctive_characteristics": "鮮やかな赤色の皮と黄色い果肉。細長く湾曲した形が特徴的。",
+      "cultural_importance": "市場で人気があり、スープや煮込み料理で彩りとして重宝される。",
+      "climate_adaptation": "特定の高地環境に適応している。",
+      "conservation_status": "比較的広く栽培されているが、地域によっては減少傾向。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "International Potato Center (CIP) databases",
+      "FAO reports",
+      "Ethnobotanical studies of the Andes",
+      "Agronomic research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答の実験的検証",
+      "正確な世界生産統計"
+    ],
+    "regional_data_coverage": "南米アンデス地域に集中しており、他の地域でのデータはほぼ皆無。",
+    "missing_information": [
+      "受粉生態学の詳細",
+      "土壌微生物との相互作用"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、園芸学文献からの情報を統合。野生の祖先種に関する情報は限定的。"
+    },
+    "primary_name": "Chinese Artichoke",
+    "scientific_name": "Stachys affinis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根"
+    ],
+    "origin_region": "中国",
+    "wild_relatives": [
+      "不明"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物名データベースおよび料理文献から収集。"
+    },
+    "international": {
+      "en": [
+        "Chinese artichoke",
+        "Japanese artichoke",
+        "knotroot",
+        "crosne"
+      ],
+      "scientific_common": "Stachys"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "チョロギ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "草石蚕",
+            "script": "Hanzi"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "crosne",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Knollen-Ziest",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Mint family",
+      "la": "Lamiaceae"
+    },
+    "genus": {
+      "en": "Betony",
+      "la": "Stachys"
+    },
+    "species": {
+      "en": "Chinese artichoke",
+      "la": "Stachys affinis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジアとフランスの文化的重要性はよく記録されているが、他の地域での認知度は非常に低い。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（特に日本）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "儀式用"
+        ],
+        "traditional_uses": "日本では正月のおせち料理に「長老喜」や「千代呂木」の当て字で長寿を願う縁起物として用いられる。主に梅酢漬けで赤く着色される。",
+        "seasonal_significance": "冬、特に正月の食材として重要。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ（特にフランス）",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "19世紀に日本から伝来し、高級食材として扱われる。バターソテーやクリーム煮などで、その繊細な風味と食感が楽しまれる。",
+        "seasonal_significance": "冬の珍味として扱われる。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（特におせち料理）",
+        "role": "essential",
+        "traditional_dishes": [
+          "チョロギの梅酢漬け"
+        ],
+        "preparation_methods": [
+          "漬ける"
+        ],
+        "cultural_context": "長寿と健康を祈願する縁起物としての役割が強い。おせちの彩りとしても重要。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では古くから薬用や食用にされていたとされる。",
+      "trade_routes": "19世紀後半に中国・日本からヨーロッパへ伝播した。",
+      "cultural_exchange": "東アジアの食材がヨーロッパのガストロノミーに影響を与えた一例。",
+      "domestication_history": "中国で栽培化されたと考えられているが、詳細な歴史は不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に極めて弱く、栽培は不可能。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "夏季の高温により塊茎の形成が阻害されるため、栽培は困難。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な気候を好み、夏が暑すぎない温帯地域が最適。生育適温は15-20℃。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の寒暖差が激しくなければ栽培可能。冬の厳しい凍結には注意が必要。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に弱く、適度な土壌水分が必要なため不向き。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため、塊茎の十分な肥大は期待できない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3月～4月）",
+        "harvest_season": "晩秋から冬（11月～1月）",
+        "growing_period_days": "200-250"
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 15,000 kg/ha",
+      "factors_affecting_yield": [
+        "夏の気温",
+        "土壌の水はけ",
+        "連作障害",
+        "収穫時の手間"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "小規模農家による伝統的な生産が主。正月需要に特化。"
+        },
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "原産地であり、国内消費や薬用として生産されているが、統計データは乏しい。"
+        },
+        {
+          "country": "フランス",
+          "production_share": null,
+          "characteristics": "ニッチな高級食材として少量生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主成分であるスタキオースに関する研究は存在するが、微量栄養素に関する詳細なデータは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "75",
+        "protein_g": "2.6",
+        "carbs_g": "17.4",
+        "fat_g": "0.2",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "不明",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "スタキオース",
+        "concentration": "塊茎乾燥重量の60%以上を占める場合がある",
+        "health_effect": "プレバイオティクス効果（善玉菌であるビフィズス菌の増殖促進）、整腸作用。"
+      },
+      {
+        "compound": "フェニルエタノイド配糖体",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用の可能性が研究されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "滋養強壮",
+          "風邪や咳の緩和"
+        ],
+        "preparation": "乾燥させて粉末にする、あるいはスープで煮込む。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "スタキオースのプレバイオティクス効果と腸内フローラ改善",
+        "含有されるフェノール化合物の抗酸化活性"
+      ],
+      "safety_considerations": "一般的に安全とされるが、過剰摂取は鼓腸の原因となる可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "日本とフランスの料理本や食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "漬ける（梅酢、塩、醤油）",
+          "揚げる（天ぷら）",
+          "煮る"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "梅酢",
+          "シソ"
+        ]
+      },
+      {
+        "region": "フランス",
+        "methods": [
+          "ソテー（バター）",
+          "煮る（クリーム）",
+          "生食（サラダ）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "バター",
+          "クリーム",
+          "ハーブ（パセリ、チャイブ）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "酢漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "シャキシャキとした食感が増し、赤く着色される。保存性が向上する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな甘みとナッツのような風味。加熱するとユリ根やクワイに似る。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "生ではシャキシャキ、加熱するとホクホク、漬けるとカリカリまたはシャキシャキ。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性に関する定性的な記述は多いが、気候変動への応答に関する定量的な実験データは非常に少ない。以下の評価は栽培特性からの推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30℃以上が続くと生育が著しく悪化する",
+      "cold_tolerance": "-5°C程度まで耐えるが、土壌凍結は避けるべき。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間中に適度な降雨が必要（推定600-800mm）。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部が小さいため、風害は受けにくい。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により南方系害虫（ネコブセンチュウなど）の被害が増加する可能性。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯冷涼地域",
+        "2050_projection": "現在の栽培地では夏越しがより困難になり、より高緯度・高標高地域へ適地が移動する可能性。",
+        "2100_projection": "適地のさらなる北上・高地化が予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "主に塊茎による栄養繁殖で増殖するため、遺伝的多様性や交雑に関する研究は極めて限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "不明"
+      ],
+      "interspecific_compatibility": [
+        "不明"
+      ],
+      "intergeneric_possibility": [
+        "低いと推測される"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "低いと推測される。長年の栄養繁殖により遺伝的に均一化している可能性が高い。",
+      "wild_gene_pool": "原産地である中国に存在する可能性はあるが、関係性は不明。",
+      "adaptive_genetic_variation": "低いと推測される。",
+      "inbreeding_depression_risk": "栄養繁殖が主のため、リスクは低い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁野生種との交雑により耐暑性などが向上する可能性はあるが、研究は行われていない。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 2
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種を対象としたリジェネラティブ農業の研究は存在しない。評価はシソ科植物の一般的特性と栽培法からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い根系と塊茎を形成。土壌を固く締め付けることはない。",
+      "organic_matter_contribution": "地上部の残渣が少なく、貢献度は低い。",
+      "soil_structure_improvement": "収穫時に土壌を耕起する効果はあるが、限定的。",
+      "erosion_control": "生育期間中の被覆効果は中程度。",
+      "nutrient_cycling_role": "特筆すべき役割はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "シソ科の植物として、開花期にはミツバチなどの訪花昆虫を誘引する可能性がある。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "限定的"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "限定的",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "塊茎として炭素を蓄積するが、収穫されるため土壌炭素蓄積への貢献は限定的。",
+      "soil_carbon_enhancement": "低い",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "不明"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "単作栽培が主であり、貢献度は低い。",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "低い",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 3
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性成分に関する研究とニッチ市場での動向に基づく評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "プレバイオティクス成分（スタキオース）が豊富で、腸内環境改善に寄与するユニークな根菜。",
+      "food_security_contribution": "生産性が低く、気候適応範囲も狭いため、主要な食料安全保障への貢献は期待できない。",
+      "local_food_system_integration": "伝統的な地域食文化を維持する作物として価値がある。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品・機能性食品市場",
+        "高級レストラン向けの珍しい食材市場",
+        "ガストロツーリズム"
+      ],
+      "value_added_products": [
+        "健康志向の漬物",
+        "スタキオース抽出物",
+        "フリーズドライ製品"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培面積の減少傾向と遺伝的多様性の低さに関する懸念に基づく評価。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "栽培植物のため該当しないが、栽培地の喪失リスクはある。",
+    "climate_change_vulnerability": "高い。特に温暖化による栽培適地の縮小。",
+    "cultural_erosion_risk": "高い。食文化の変化により、特におせち料理での需要が減少するリスク。",
+    "conservation_actions_needed": [
+      "在来系統の収集と遺伝資源としての保存（ジーンバンク）",
+      "伝統的な食文化の継承と普及活動",
+      "耐暑性を持つ系統の探索や育種"
+    ],
+    "priority_conservation_regions": [
+      "日本",
+      "中国"
+    ],
+    "ex_situ_conservation_status": "一部のジーンバンクで保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "伝統的な栽培を続ける農家によるオンファーム保全が中心。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報に基づく総合的評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "日本（在来系統の多様性と文化的位置づけ）",
+      "中国（原産地としての遺伝的多様性と野生近縁種の探索）"
+    ],
+    "knowledge_gaps": [
+      "遺伝的多様性の定量的評価",
+      "気候変動（高温、乾燥）に対する生理学的応答",
+      "近縁野生種との交雑可能性",
+      "リジェネラティブ農業システムへの組み込み可能性"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "チョロギは明確な品種分化がされておらず、主に地域ごとの在来系統として栽培されているため、特定の品種情報は乏しい。"
+      },
+      "variety_name": "在来系統",
+      "local_name": "チョロギ",
+      "origin_region": "日本各地",
+      "distinctive_characteristics": "明確な品種登録はなく、地域や農家ごとに受け継がれてきた系統。形状や大きさに若干の変異が見られる。",
+      "cultural_importance": "各地域の正月料理文化と結びついている。",
+      "climate_adaptation": "各地域の気候に長年かけて適応してきたと考えられるが、耐暑性は基本的に低い。",
+      "conservation_status": "栽培農家の減少により多くの系統が消失の危機にある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "USDA GRIN Global",
+      "各種農学・園芸学論文",
+      "民族植物学関連の文献"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種・系統レベルでの応答",
+      "遺伝的多様性の網羅的な評価"
+    ],
+    "regional_data_coverage": "東アジアとフランスに偏っており、他の地域に関する情報はほぼ皆無。",
+    "missing_information": [
+      "詳細な栄養成分分析",
+      "野生近縁種の情報",
+      "交配親和性に関するデータ"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

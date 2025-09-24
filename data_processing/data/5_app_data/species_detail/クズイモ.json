@@ -1,0 +1,652 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業研究機関の情報を統合。栽培品種に関する情報は地域によってばらつきがある。"
+    },
+    "primary_name": "Jicama",
+    "scientific_name": "Pachyrhizus erosus",
+    "plant_type": "多年草 (多くは一年草として栽培)",
+    "edible_parts": [
+      "根"
+    ],
+    "origin_region": "メキシコ、中央アメリカ",
+    "wild_relatives": [
+      "Pachyrhizus tuberosus",
+      "Pachyrhizus ahipa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の農業・植物学データベース、民族植物学の記録から名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Jicama",
+        "Yam Bean",
+        "Mexican Yam Bean",
+        "Mexican Turnip"
+      ],
+      "scientific_common": "Yam Bean"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Jícama",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Pelenga",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Singkamas",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Củ sắn / Sắn nước",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "มันแกว",
+            "script": "Thai"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "豆薯",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "クズイモ",
+            "script": "Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ナワ族（メキシコ）",
+        "name": "xīcamatl",
+        "cultural_significance": "「水の根」を意味し、そのみずみずしい食感を表現している。古代アステカ時代から重要な食料源であった。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Yam bean",
+      "la": "Pachyrhizus"
+    },
+    "species": {
+      "en": "Jicama",
+      "la": "erosus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "文化人類学、民族植物学の文献に基づく。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ラテンアメリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "軽食",
+          "経済作物"
+        ],
+        "traditional_uses": "メキシコでは、生の塊根をスライスし、ライム果汁、チリパウダー、塩をかけて食べるのが最もポピュラーなストリートフード。サラダ（pico de gallo）にも多用される。",
+        "seasonal_significance": "暑い季節に涼を得るための重要な食材。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "主食の補完",
+          "経済作物"
+        ],
+        "traditional_uses": "フィリピンの生春巻き（ルンピア）の具材として不可欠。ベトナムやタイでは炒め物、スープ、サラダなど幅広く利用される。シャキシャキした食感が重視される。",
+        "seasonal_significance": "年間を通じて利用されるが、特に乾季の水分補給源となる。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "メキシコ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Jícama con chile y limón",
+          "Pico de gallo",
+          "Ensalada de Jícama"
+        ],
+        "preparation_methods": [
+          "生食",
+          "サラダ"
+        ],
+        "cultural_context": "日常的な軽食、祝祭、屋台文化に深く根付いている。リフレッシュ効果と食感が楽しまれる。"
+      },
+      {
+        "cuisine": "フィリピン料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Lumpiang Sariwa (Fresh Spring Roll)"
+        ],
+        "preparation_methods": [
+          "炒め物",
+          "煮込み"
+        ],
+        "cultural_context": "スペイン植民地時代の影響を受けた料理で、中国料理の要素も融合している。具材の一つとして食感のアクセントを加える重要な役割を担う。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "メソアメリカの先古典期（紀元前1500年頃）には既に栽培されていたと考えられている。",
+      "trade_routes": "16世紀、スペインのマニラ・ガレオン貿易によりメキシコからフィリピンへ伝播し、そこからアジア全域へ広がった。",
+      "cultural_exchange": "ラテンアメリカの食材がアジアの食文化に適応・融合した代表例。",
+      "domestication_history": "メキシコおよび中央アメリカで栽培化され、多様な在来種が生まれた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿、年間を通じて温暖な気候。生育期間が長い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない長い夏が必要。乾季と雨季が明瞭な地域に適応。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "無霜期間が150日以上必要。夏の気温が高い地域でのみ栽培可能。塊根の肥大は短日条件で促進される。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、夏の気温が不十分なため商業栽培には不向き。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。乾燥には比較的強いが、塊根の肥大には水分が必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱く、栽培は不可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の初め",
+        "harvest_season": "乾季",
+        "growing_period_days": 150
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "秋（初霜前）",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "40,000 - 90,000 kg/ha",
+      "factors_affecting_yield": [
+        "日長（短日で塊根肥大）",
+        "土壌の水はけ",
+        "生育期間の長さと温度",
+        "花の摘花（栄養を塊根に集中させるため）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "メキシコ",
+          "production_share": "不明",
+          "characteristics": "最大の生産国であり、多様な在来種が存在。国内消費が主だが、米国への輸出も多い。"
+        },
+        {
+          "country": "フィリピン",
+          "production_share": "不明",
+          "characteristics": "アジアにおける主要生産国の一つ。地域の食文化に不可欠な作物。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "南部を中心に広く栽培されており、国内市場で重要な根菜。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価データは豊富だが、機能性成分（特にイヌリン）の含有量は品種や栽培条件による変動が大きい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "38",
+        "protein_g": "0.7",
+        "carbs_g": "8.8",
+        "fat_g": "0.1",
+        "fiber_g": "4.9"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "20.2 mg",
+          "daily_value_percent": "24%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "150 mg",
+          "daily_value_percent": "4%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "イヌリン",
+        "concentration": "高い（食物繊維の主成分）",
+        "health_effect": "プレバイオティクス効果（腸内善玉菌の増殖促進）、血糖値上昇抑制"
+      },
+      {
+        "compound": "ロテノン",
+        "concentration": "種子、葉、茎に高濃度で含有",
+        "health_effect": "強力な殺虫作用、魚毒性。人間には有毒であり、塊根以外の部位は食用不可。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "メキシコ",
+        "medical_system": "民間療法",
+        "uses": [
+          "解熱",
+          "利尿"
+        ],
+        "preparation": "生の塊根をジュースにして飲用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "腸内環境改善（プレバイオティクス効果）",
+        "血糖コントロール支援",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "イヌリンの抽出と機能性食品への応用",
+        "肥満および代謝症候群への影響"
+      ],
+      "safety_considerations": "塊根は安全に食用可能だが、地上部（葉、茎、莢、種子）は有毒なロテノンを含有するため絶対に摂取してはならない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本、食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ラテンアメリカ",
+        "methods": [
+          "生食"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ライム",
+          "チリパウダー",
+          "塩",
+          "フルーツ"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "炒め物",
+          "煮込み",
+          "生食（サラダ、和え物）",
+          "蒸し料理"
+        ],
+        "flavor_role": "副菜（食感とほのかな甘み）",
+        "typical_combinations": [
+          "エビ",
+          "豚肉",
+          "ニンニク",
+          "タケノコ",
+          "ナンプラー"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し（チップス）",
+        "regions": [
+          "東南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "甘みが増し、食感が変化する。"
+      },
+      {
+        "method": "デンプン抽出",
+        "regions": [
+          "不明"
+        ],
+        "shelf_life": "長期",
+        "quality_changes": "粉末状になり、増粘剤や食品原料として利用される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな甘み、ナッツのような風味、土の香り",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "非常にシャキシャキしてみずみずしい（クリスピー、ジューシー）。加熱しても食感が残りやすい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、気候変動シナリオ下での応答に関する定量的な実験データは非常に少ない。評価は植物の生理学的特性からの推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "21 - 29 °C",
+      "extreme_heat_survival": "40°C以上でも生育可能だが、塊根の肥大は阻害される可能性がある。",
+      "cold_tolerance": "0°C 以下では枯死。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "塊根に水分を貯蔵する能力があり、一度定着すれば乾燥に強い。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "900 - 1500 mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物であるため、強風による茎の損傷リスクがある。",
+      "hail_damage_recovery": "葉の損傷からの回復力は中程度。",
+      "rapid_temperature_change": "急激な低温に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成と成長が促進される可能性があるが、具体的な研究は少ない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により害虫の発生パターンが変化する可能性があるが、ロテノン含有により一定の抵抗性を持つ。",
+      "disease_resistance_stability": "高温多湿環境では根腐れ病のリスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "窒素固定菌との共生関係は、土壌の劣化が進む環境で有利に働く可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯、一部の温暖な温帯地域",
+        "2050_projection": "現在の栽培地の北限が、より高緯度へ移動する可能性がある。一部の熱帯地域では過度な高温が収量を低下させるリスク。",
+        "2100_projection": "栽培適地はさらに高緯度へ拡大するが、極端な気象（干ばつ、豪雨）の頻発が安定生産の制約となる可能性。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同属他種との人為的な交雑育種に関する研究は存在するが、自然環境下での交雑に関するデータは限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の在来種が存在し、種内での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Pachyrhizus tuberosus",
+        "Pachyrhizus ahipa との種間交雑が可能であり、育種に利用されている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地であるメソアメリカには、形態や特性の異なる多様な在来種が豊富に存在する。",
+      "wild_gene_pool": "野生の近縁種が存在し、病害虫抵抗性や環境ストレス耐性などの有用な遺伝子供給源となる可能性がある。",
+      "adaptive_genetic_variation": "高い遺伝的多様性は、将来の環境変化への適応ポテンシャルが高いことを示唆する。",
+      "inbreeding_depression_risk": "他家受精性のため、遺伝的多様性が維持されればリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "メキシコ",
+        "environmental_pressure": "乾燥、多様な土壌条件",
+        "adaptive_response": "塊根の形状、水分含有量、生育サイクルの多様化。",
+        "time_scale": "数千年",
+        "mechanism": "地域ごとの農家による選抜と自然選択。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁種との交雑により、耐病性や異なる日長条件への適応性を向上させる可能性がある。",
+      "improved_nutritional_content": "タンパク質含有量の高い近縁種との交雑により、栄養価を改善できる可能性がある。",
+      "novel_characteristics": "塊根の形状、色、味などの新しい特性の導入。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑では、一部に交雑不和合性が見られることがある。",
+      "chromosome_compatibility": "同属内では染色体数（2n=22）が共通しており、交雑は比較的容易。",
+      "fertility_of_hybrids": "種間雑種でも高い稔性を示すことが多い。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥耐性",
+        "adaptive_traits": "深い根系、大きな貯蔵根",
+        "heritability": "中程度",
+        "response_to_selection": "中程度"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "本種に特化したリジェネラティブ農業の研究は少ないが、マメ科植物としての一般的な特性から高い適性が推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "大きな主根と広範囲に広がる側根を持つ。土壌を深く耕す効果がある。",
+      "organic_matter_contribution": "収穫後の地上部バイオマスが多く、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "根系が土壌団粒構造の発達を促進する。",
+      "erosion_control": "生育期間中は広範な葉で地面を覆い、土壌侵食を軽減する。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの多様な訪花昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌やアーバスキュラー菌根菌との共生関係を通じて、土壌微生物叢の多様性を高める。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る土壌孔隙が水の浸透を助ける。",
+      "moisture_retention": "土壌有機物の増加により、土壌の保水性が向上する。",
+      "runoff_reduction": "地上部が地表を覆うことで、雨水の流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "大きな塊根を形成するため、地下部への炭素貯留能力が高い。",
+      "soil_carbon_enhancement": "窒素固定による植物成長促進と有機物供給を通じて、土壌炭素の蓄積に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱として利用）、カボチャ（地面を覆い雑草抑制）との混作（伝統的なミルパ農法）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "窒素固定により、後作や混作作物の生育を助ける。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "土壌肥沃度を自己維持する能力があり、外部投入への依存を減らす。",
+      "stress_tolerance": "乾燥に強く、痩せた土地でも生育可能。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、健康食品関連の研究、食品加工技術に関する情報に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリー、高繊維で、健康的な炭水化物源として価値が高い。",
+      "food_security_contribution": "痩せた土地でも栽培可能で、窒素肥料への依存が少ないため、小規模農家の食料安全保障に貢献する。",
+      "local_food_system_integration": "地域の市場で重要な作物であり、地産地消に適している。",
+      "alternative_protein_potential": "塊根自体のタンパク質は少ないが、近縁種との交雑によりタンパク質含有量を高める育種の可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品市場（低炭水化物、グルテンフリー、プレバイオティクス）",
+        "北米やヨーロッパのエスニック食品市場"
+      ],
+      "value_added_products": [
+        "カット野菜、スナックチップス",
+        "クズイモ粉（グルテンフリーフラワー）",
+        "イヌリン抽出物（機能性食品素材）"
+      ],
+      "niche_market_value": "ケトジェニックダイエットやパレオダイエットの実践者の間で、ジャガイモの代替品として人気が高まっている。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "保全状況に関する国際的な評価は限定的。リスク評価は農業の近代化と遺伝資源に関する一般的な知見に基づく。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地における野生近縁種の生息地は、農地開発や都市化の脅威にさらされている。",
+    "climate_change_vulnerability": "在来種の中には、特定の微気候に適応しているものもあり、気候変動に対して脆弱な可能性がある。",
+    "cultural_erosion_risk": "近代的な単一品種の導入により、伝統的な栽培知識と共に多様な在来種が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "原産地（メソアメリカ）における在来種のインベントリ調査と評価",
+      "ジーンバンクにおける種子および遺伝資源の域外保全",
+      "在来種を栽培する農家を支援する参加型の域内保全プログラム"
+    ],
+    "priority_conservation_regions": [
+      "メキシコ南部",
+      "グアテマラ"
+    ],
+    "ex_situ_conservation_status": "主要な国際ジーンバンク（例：CIAT）には一定数の遺伝資源が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的であり、地域レベルでの取り組みが中心。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロンプトで収集した情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "メキシコ（遺伝的多様性と文化的利用）",
+      "フィリピン（アジアへの適応と食文化の変容）"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオに対する品種レベルでの定量的応答データ",
+      "リジェネラティブ農業システムにおける炭素隔離能力や土壌改良効果の定量的評価",
+      "世界的な生産量と貿易に関する正確な統計データ"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主にメキシコの市場分類に基づき、正式な品種登録名ではない場合が多い。"
+      },
+      "variety_name": "Agua de Jícama (Water Jicama)",
+      "local_name": "Jícama de Agua",
+      "origin_region": "メキシコ",
+      "distinctive_characteristics": "球形または扁球形で、水分が多く非常にジューシー。果肉は透明感がある。生食に最も好まれる。",
+      "cultural_importance": "メキシコのストリートフードやサラダで最も一般的に使用されるタイプ。",
+      "climate_adaptation": "標準的な気候適応性を持つ。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主にメキシコの市場分類に基づき、正式な品種登録名ではない場合が多い。"
+      },
+      "variety_name": "Leche de Jícama (Milk Jicama)",
+      "local_name": "Jícama de Leche",
+      "origin_region": "メキシコ",
+      "distinctive_characteristics": "細長い形状で、水分が少なくデンプン質が多い。果肉は乳白色。加工や調理用途に適している。",
+      "cultural_importance": "地域的な利用が主で、Aguaタイプほどは普及していない。",
+      "climate_adaptation": "不明",
+      "conservation_status": "地域限定"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-24",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Vegetable Center (AVRDC)",
+      "International Center for Tropical Agriculture (CIAT) genebank data",
+      "Kew Royal Botanic Gardens, Plants of the World Online",
+      "Ethnobotanical and agroecological academic journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界的な生産統計"
+    ],
+    "regional_data_coverage": "ラテンアメリカと東南アジアは比較的豊富だが、アフリカや南アジアでの利用に関するデータは少ない。",
+    "missing_information": [
+      "アレルゲン情報",
+      "詳細な香り成分の分析"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

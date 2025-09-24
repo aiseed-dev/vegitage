@@ -1,0 +1,555 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "植物学的な基本情報は、主要な植物データベース（GBIF, Kew）から統合。野生近縁種に関する網羅的なリストは限定的。"
+    },
+    "primary_name": "Two-leaf Vetch",
+    "scientific_name": "Vicia unijuga",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "東アジア",
+    "wild_relatives": [
+      "Vicia amoena",
+      "Vicia cracca"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア地域における名称は広く認識されているが、他地域での名称は存在しない。"
+    },
+    "international": {
+      "en": [
+        "Two-leaf Vetch",
+        "Nanten-hagi"
+      ],
+      "scientific_common": "Vicia unijuga"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ナンテンハギ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ko",
+            "name": "나비나물",
+            "script": "Hangul"
+          },
+          {
+            "lang": "zh",
+            "name": "大叶野豌豆",
+            "script": "Hanzi"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Vetch",
+      "la": "Vicia"
+    },
+    "species": {
+      "en": "Two-leaf Vetch",
+      "la": "Vicia unijuga"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジアでの利用は民族植物学的記録に豊富だが、それ以外の地域での文化的重要性の記録はない。古代からの利用は状況証拠による。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "季節の食材",
+          "薬用"
+        ],
+        "traditional_uses": "日本では春の山菜（サンサイ）として、韓国ではナムル（나물）の材料として古くから利用される。自生しているものを採集する文化が根強い。",
+        "seasonal_significance": "春の訪れを告げる食材として重要視される。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（郷土料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "おひたし",
+          "天ぷら",
+          "和え物"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "揚げる"
+        ],
+        "cultural_context": "春季に山野で採集される代表的な山菜の一つ。季節感を表現する食材として価値が高い。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "common",
+        "traditional_dishes": [
+          "ナビナムル"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "味付けする"
+        ],
+        "cultural_context": "春の食卓に欠かせない常備菜（パンチャン）の一つとして、栄養補給と季節の味を楽しむために利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "明確な考古学的証拠は少ないが、東アジアの採集文化の中で古くから利用されてきたと推定される。",
+      "trade_routes": "国際的な交易品としての役割は記録されていない。",
+      "cultural_exchange": "不明",
+      "domestication_history": "明確な栽培化の歴史はなく、半野生状態での利用や小規模な庭先栽培が主。本格的な作物化はされていない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や冬季に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "自生地であり、栽培に最も適している。半日陰の湿潤な土壌を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "耐寒性があり、大陸性気候にも適応する。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥には弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "亜高山帯まで分布しており、高地での栽培に適性がある。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "春から初夏",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照条件（半日陰が望ましい）",
+        "土壌水分",
+        "刈り取り頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "商業生産は極めて限定的。主に山菜として自家消費や直売所で販売される。"
+        },
+        {
+          "country": "韓国",
+          "production_share": null,
+          "characteristics": "一部で商業栽培が行われているが、小規模。野生採集も一般的。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "詳細な栄養成分の科学的データは非常に限定的。マメ科植物の一般的な特性から類推される部分が多い。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明（マメ科のため比較的高タンパクと推定）",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明（豊富と推定）"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症、免疫調節作用の可能性"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "解熱",
+          "利尿",
+          "滋養強壮"
+        ],
+        "preparation": "全草を乾燥させて煎じる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化活性",
+        "抗炎症作用"
+      ],
+      "safety_considerations": "過剰摂取に関する安全性データは不足。アク抜き（茹でこぼし）が一般的に行われる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジアでの調理法は確立されているが、他の地域での応用例はない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる（Blanching）",
+          "炒める（Stir-frying）",
+          "揚げる（Deep-frying）",
+          "和える（Dressing）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "ごま油",
+          "豆腐"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が変化し、保存性が高まる。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "韓国",
+          "日本"
+        ],
+        "shelf_life": "一年以上",
+        "quality_changes": "風味が凝縮される。水で戻して使用する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな甘みと豆様の風味、軽い苦味",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "シャキシャキとした歯ごたえ"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する定量的な実験データは皆無。自生地の気候とマメ科多年草の一般的特性からの定性的推定に依存。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-15°C以下（休眠期）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "800-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "多年草であり、地下部が残るため地上部が損傷しても回復しやすい。",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "マメ科植物として、CO2濃度上昇により光合成・成長が促進される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "野生種に近いため一定の抵抗性を持つが、温暖化による新規病害虫への脆弱性は不明。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "根粒菌との共生関係は環境変化に影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯林、草地",
+        "2050_projection": "現在の分布域がより高緯度・高標高へシフトする可能性",
+        "2100_projection": "低緯度・低標高地域では生育が困難になる可能性",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Vicia属内の交雑親和性に関する一般的な知見に基づく推定。V. unijugaに特化した自然交雑の研究は非常に少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間での交雑は可能と推定される。"
+      ],
+      "interspecific_compatibility": [
+        "Vicia属の近縁種との交雑可能性は理論的に存在するが、自然界での報告は稀。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培化が進んでいないため、明確な在来品種は存在しないが、地域個体群間に高い遺伝的多様性が保持されていると推定される。",
+      "wild_gene_pool": "栽培されているものと野生集団が遺伝的に連続しており、遺伝子プールは豊富。",
+      "adaptive_genetic_variation": "広範な地理的分布は、多様な環境に適応した遺伝的変異の存在を示唆する。",
+      "inbreeding_depression_risk": "自家不和合性の程度によるが、多くの集団が存在するためリスクは低いと推定。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁の耐乾性・耐暑性種との交雑による耐性向上の可能性。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "高いと推定される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "近縁種との染色体数の違いが障壁となる可能性がある。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候変動（温暖化、乾燥化）",
+        "adaptive_traits": "耐暑性、耐乾性",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ナンテンハギに特化した研究はないが、マメ科多年草としての一般的特性から高い適性が推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く広がる根系を持つと推定され、土壌の団粒構造を促進する。",
+      "organic_matter_contribution": "多年草であり、毎年の落葉や枯死した根が土壌有機物を増加させる。",
+      "soil_structure_improvement": "根による土壌の物理的改善効果が高い。",
+      "erosion_control": "地表を覆い、根が土壌を保持するため、侵食防止効果が高い。",
+      "nutrient_cycling_role": "根粒菌との共生による空中窒素固定能力が最も重要な役割。土壌に窒素を供給する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "蝶形花はハチ類などの花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "多様な昆虫の生息地を提供する。",
+      "soil_microorganism_interaction": "根粒菌をはじめとする多様な土壌微生物との共生関係を構築する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌の孔隙を増やし、水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて、土壌の保水性を高める。",
+      "runoff_reduction": "地被植物として機能し、地表流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年草であり、根系に炭素を長期間貯留する能力が高い。",
+      "soil_carbon_enhancement": "土壌有機物の増加を通じて、土壌炭素貯留に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "果樹",
+        "トウモロコシなどの窒素要求性の高い作物"
+      ],
+      "natural_pest_control": "天敵昆虫の誘引による害虫抑制効果が期待される。",
+      "nutrient_sharing": "窒素固定により、混植した他の植物に窒素を供給する（リビングマルチ）。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "生物多様性を高め、窒素を自給することで、農業生態系の安定性に貢献する。",
+      "stress_tolerance": "多年草であるため、一度定着すると管理が容易で、軽微な環境ストレスに対する耐性がある。",
+      "recovery_capacity": "高い",
+      "adaptability": "中"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "現代的な応用はまだ構想段階であり、商業的な成功事例は少ない。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "マメ科植物として、持続可能なタンパク質源としての可能性がある。",
+      "food_security_contribution": "肥料を必要としない窒素固定能力により、低投入型農業や食料安全保障が脆弱な地域での栽培に適性がある。",
+      "local_food_system_integration": "「山菜」文化を持つ地域では、地域の食料システムに容易に統合できる。",
+      "alternative_protein_potential": "葉や若芽をタンパク質源として利用する研究開発の可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けニッチ市場",
+        "高級レストラン向けの季節食材",
+        "アグロフォレストリーやリジェネラティブ農業システムへの導入"
+      ],
+      "value_added_products": [
+        "乾燥ナムル",
+        "お茶",
+        "健康補助食品"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでの評価はないが、生息地の減少が最大の脅威であることは明らか。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "里山の開発や森林伐採、管理放棄による自生地の減少が最も大きな脅威。",
+    "climate_change_vulnerability": "高山帯や北方の個体群は気候変動に対して脆弱である可能性がある。",
+    "cultural_erosion_risk": "高。山菜採集文化や伝統的知識の継承が途絶えるリスク。",
+    "conservation_actions_needed": [
+      "自生地（里山など）の保全と適切な管理",
+      "伝統的知識の記録と継承",
+      "遺伝的多様性を考慮した種子の収集と域外保全（ジーンバンク）"
+    ],
+    "priority_conservation_regions": [
+      "日本の里山地域",
+      "朝鮮半島"
+    ],
+    "ex_situ_conservation_status": "一部の植物園やジーンバンクで保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的。一部の国立公園や保護区で自生地が保全されているに留まる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "N/A",
+      "confidence_level": "N/A",
+      "source_comment": "本調査に基づく総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 5,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本",
+      "韓国"
+    ],
+    "knowledge_gaps": [
+      "詳細な栄養成分と機能性成分の分析",
+      "気候変動要因（高温、乾燥）に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果（窒素供給量、炭素貯留量）の測定",
+      "地域個体群間の遺伝的多様性の評価"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "正式な品種は存在しない。地域個体群として認識される。"
+      },
+      "variety_name": "地域個体群（例：日本の山間部個体群）",
+      "local_name": "ナンテンハギ",
+      "origin_region": "日本",
+      "distinctive_characteristics": "栽培化されていないため、形態や風味に地域的な変異が見られる。",
+      "cultural_importance": "春の山菜として、地域の食文化と深く結びついている。",
+      "climate_adaptation": "その地域の気候に特化して適応している。",
+      "conservation_status": "未評価（Not Evaluated）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GBIF (Global Biodiversity Information Facility)",
+      "Plants of the World Online (Kew Science)",
+      "民族植物学的研究論文",
+      "農業生態学の一般原則"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種・地域個体群レベルでの応答",
+      "詳細な栄養価・機能性成分データ"
+    ],
+    "regional_data_coverage": "東アジアに偏在",
+    "missing_information": [
+      "世界的な生産・貿易統計",
+      "人為的な育種プログラムに関する情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

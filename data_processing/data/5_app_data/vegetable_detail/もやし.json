@@ -1,0 +1,650 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "「もやし」は特定の植物種ではなく、主にマメ科植物の種子を発芽させた若い芽（スプラウト）の総称であるため、本データは最も一般的に利用されるリョクトウ（Vigna radiata）を主対象として記述する。一部、ダイズ（Glycine max）のもやしについても言及する。"
+    },
+    "primary_name": "Bean Sprouts",
+    "scientific_name": "Vigna radiata (sprouts) / Glycine max (sprouts)",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "茎",
+      "葉",
+      "根"
+    ],
+    "origin_region": "インド亜大陸（リョクトウの原産地として）",
+    "wild_relatives": [
+      "Vigna radiata var. sublobata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア、東南アジアを中心に多様な呼称が存在する。先住民文化における名称は、栽培植物であるため特定が困難。"
+    },
+    "international": {
+      "en": [
+        "Bean Sprouts",
+        "Mung Bean Sprouts",
+        "Soybean Sprouts"
+      ],
+      "scientific_common": "Sprouts"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "もやし (Moyashi)",
+            "script": "Hiragana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "豆芽 (Dòuyá)",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "숙주나물 (Sukjunamul) / 콩나물 (Kongnamul)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Giá đỗ",
+            "script": "Latin"
+          },
+          {
+            "lang": "id",
+            "name": "Tauge / Toge",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ถั่วงอก (Thua-ngok)",
+            "script": "Thai"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "最も一般的なもやしの原料であるリョクトウ（Vigna radiata）の分類を示す。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Vigna",
+      "la": "Vigna"
+    },
+    "species": {
+      "en": "Mung bean",
+      "la": "Vigna radiata"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "特にアジア文化圏において、安価で栄養価の高い食材として食文化に深く根付いている。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "主食の一部",
+          "経済作物"
+        ],
+        "traditional_uses": "炒め物、スープ、和え物（ナムル）、麺類の具材として日常的に消費される。安価で安定供給されるため、庶民の食生活を支える重要な食材。",
+        "seasonal_significance": "季節を問わず生産できるため、冬場の貴重な生鮮野菜として歴史的に重要であった。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "生食の付け合わせ"
+        ],
+        "traditional_uses": "フォー（ベトナム）やガドガド（インドネシア）など、生で食感のアクセントとして、あるいは軽く火を通して利用されることが多い。",
+        "seasonal_significance": "通年で利用可能。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "中華料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "炒麺 (Chow Mein)",
+          "湯麺 (Noodle Soup)",
+          "清炒豆芽 (Stir-fried Bean Sprouts)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "茹でる",
+          "スープ"
+        ],
+        "cultural_context": "シャキシャキとした食感とボリュームを料理に加える、安価で汎用性の高い食材。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "숙주나물무침 (Sukjunamul muchim)",
+          "콩나물국밥 (Kongnamul gukbap)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "和える",
+          "スープ"
+        ],
+        "cultural_context": "リョクトウもやし（숙주나물）と大豆もやし（콩나물）が明確に区別され、後者は特にスープやご飯料理の主役となる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "豆類の発芽利用は古代からアジアで行われていた。特に、野菜が不足する冬期や航海中のビタミンC補給源として重要であった。",
+      "trade_routes": "豆の形で交易され、消費地で発芽させる技術が伝播したと考えられる。",
+      "cultural_exchange": "アジア系移民を通じて世界中の食文化に導入された。",
+      "domestication_history": "豆の栽培化は数千年前に遡るが、「もやし」としての生産技術は、より新しい食文化の革新である。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "屋内での生産のため、外気温に依存しない。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "屋内での生産のため、外気温に依存しない。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "屋内での生産のため、外気温に依存しない。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "屋内での生産のため、外気温に依存しない。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "屋内での生産のため、外気温に依存しない。水資源は必要。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "屋内での生産のため、外気温に依存しない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "全域（屋内生産）",
+        "planting_season": "通年",
+        "harvest_season": "通年",
+        "growing_period_days": "3-7"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（栽培面積あたりの収量は極めて高い）",
+      "factors_affecting_yield": [
+        "温度",
+        "湿度",
+        "光（遮光）",
+        "水の質",
+        "種子の品質"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（統計データが乏しい）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産・消費国。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "工業的な大規模生産が発達。"
+        },
+        {
+          "country": "韓国",
+          "production_share": "不明",
+          "characteristics": "家庭での消費量が多く、料理に不可欠。"
+        },
+        {
+          "country": "アメリカ",
+          "production_share": "不明",
+          "characteristics": "アジア系市場を中心に大規模生産が行われている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は知られているが、原料豆の品種や栽培条件による変動データは限定的。伝統医学での利用は経験に基づくものが多い。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "30",
+        "protein_g": "3",
+        "carbs_g": "6",
+        "fat_g": "0.2",
+        "fiber_g": "1.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "13.2 mg",
+          "daily_value_percent": "22"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "33 µg",
+          "daily_value_percent": "41"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "61 µg",
+          "daily_value_percent": "15"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "GABA (γ-アミノ酪酸)",
+        "concentration": "発芽により増加",
+        "health_effect": "血圧降下作用、精神安定作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "清熱解毒 (体の熱を取り、毒素を排出する)",
+          "利尿"
+        ],
+        "preparation": "スープや料理として摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "発芽による栄養価（特にビタミン類）の向上",
+        "抗酸化物質の含有"
+      ],
+      "ongoing_research": [
+        "GABAなどの機能性成分の生理作用"
+      ],
+      "safety_considerations": "生食の場合、サルモネラ菌や大腸菌O157などの食中毒リスクがあるため、加熱推奨または信頼できる生産元からの購入が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アジア料理を中心に、世界中で多様な調理法が存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒める",
+          "茹でる",
+          "蒸す",
+          "スープに入れる"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "豚肉",
+          "ニラ",
+          "ごま油",
+          "醤油"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "生食",
+          "さっと茹でる"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "米麺（フォー）",
+          "ピーナッツソース",
+          "ライム",
+          "唐辛子"
+        ]
+      },
+      {
+        "region": "欧米",
+        "methods": [
+          "生食（サラダ、サンドイッチ）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "レタス",
+          "トマト",
+          "アボカド"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷蔵",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "3-5日",
+        "quality_changes": "鮮度が落ちやすく、変色や異臭が発生しやすい。"
+      },
+      {
+        "method": "ナムル（茹でて調味）",
+        "regions": [
+          "韓国"
+        ],
+        "shelf_life": "数日（冷蔵）",
+        "quality_changes": "加熱により保存性が若干向上する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "淡白、みずみずしい、わずかな豆の風味、青臭さ",
+      "aroma_compounds": [
+        "ヘキサナール（青臭さの元）"
+      ],
+      "texture_characteristics": "シャキシャキ、クリスプ、歯ごたえが良い"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "「もやし生産」は屋内で行われるため、直接的な気候変動の影響を受けにくい。評価は原料豆の栽培と、生産プロセス自体の強靭性に分けて考える必要がある。以下の評価は、主に屋内で行われる生産プロセスの適応性に関するものである。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-25°C（管理された環境）",
+      "extreme_heat_survival": "無関係（屋内生産）",
+      "cold_tolerance": "無関係（屋内生産）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高（生産プロセス） / 低（原料豆栽培）",
+      "water_use_efficiency": "生産プロセス自体は単位食料あたりの水使用量が比較的少ない。",
+      "flood_tolerance": "無関係（屋内生産）",
+      "optimal_rainfall": "無関係（屋内生産）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "高（インフラが破壊されなければ生産可能）",
+      "hail_damage_recovery": "高（インフラが破壊されなければ生産可能）",
+      "rapid_temperature_change": "高（屋内環境で制御されるため）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（遮光環境で生産されるため）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "高（閉鎖環境のため外部からの侵入を制御可能）",
+      "disease_resistance_stability": "管理された衛生環境に依存する。",
+      "beneficial_organism_relationships": "無関係"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "全世界の都市部およびその近郊",
+        "2050_projection": "変化なし（原料豆の生産地は変化する可能性）",
+        "2100_projection": "変化なし（原料豆の生産地は変化する可能性）",
+        "confidence_level": "高"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "この項目は「もやし」自体ではなく、原料となるリョクトウ（Vigna radiata）に関する評価である。リョクトウはVigna属内に交雑可能な近縁種を持つ。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の栽培品種、ランドレースが存在"
+      ],
+      "interspecific_compatibility": [
+        "Vigna mungo (ケツルアズキ)",
+        "Vigna umbellata (ツルアズキ)"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジア各地に多様な在来種が存在し、耐乾性や耐病性などの有用な遺伝資源となっている。",
+      "wild_gene_pool": "野生祖先種(V. radiata var. sublobata)との交雑が可能で、遺伝的多様性の供給源となる。",
+      "adaptive_genetic_variation": "高い",
+      "inbreeding_depression_risk": "中"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性、耐暑性、耐塩性を持つ野生種や近縁種との交雑により向上可能。",
+      "improved_nutritional_content": "タンパク質や微量栄養素の含有量を向上させる育種が進められている。",
+      "novel_characteristics": "種子の大きさ、発芽率、病害虫抵抗性など。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑では胚珠の敗退などの障壁が存在することがある。",
+      "chromosome_compatibility": "近縁種間では比較的良好。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下する場合がある。",
+      "backcrossing_success": "比較的高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、高温、病害虫",
+        "adaptive_traits": [
+          "深根性",
+          "クチクラ層の発達",
+          "特定の病害への抵抗性遺伝子"
+        ],
+        "heritability": "中〜高",
+        "response_to_selection": "中"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "この評価は原料となるリョクトウ（Vigna radiata）の畑での栽培に関するものであり、もやしの屋内生産自体は対象外。リョクトウはマメ科作物としてリジェネラティブ農業において高いポテンシャルを持つ。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根と側根からなる根系を持つ。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物となる。",
+      "soil_structure_improvement": "根粒菌の働きで土壌を団粒化させる。",
+      "erosion_control": "被覆作物として利用した場合、土壌侵食を抑制する。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "蝶形花はミツバチなどの訪花昆虫を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌との共生関係は土壌微生物叢を豊かにする。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "土壌構造改善により水の浸透を助ける。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "被覆作物として利用した場合、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "根系と根粒を通じて炭素を土壌に供給する。",
+      "soil_carbon_enhancement": "窒素固定により土壌有機物の分解を抑制し、炭素貯留に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシなどのイネ科作物（窒素を供給する）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "窒素を他の植物に供給する。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌の健康を維持し、システムの安定性を高める。",
+      "stress_tolerance": "耐乾性を持つ品種が多い。",
+      "recovery_capacity": "生育期間が短いため、天候不順からの回復が早い。",
+      "adaptability": "多様な環境への適応性が高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "安価で栄養価が高く、持続可能な生産が可能なため、現代の食料システムにおいて重要な役割を担う。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "植物性タンパク質、ビタミン、ミネラルの優れた供給源。",
+      "food_security_contribution": "短期間・省スペース・低コストで生産可能。都市農業や緊急時の食料供給に適している。",
+      "local_food_system_integration": "消費地の近くで生産できるため、フードマイレージを削減し、地域内での食料自給に貢献する。",
+      "alternative_protein_potential": "原料豆は代替タンパク質源として重要であり、もやしはそのフレッシュな形態の一つ。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによるサラダやスムージーへの利用拡大",
+        "家庭用栽培キットの普及"
+      ],
+      "value_added_products": [
+        "カット済みもやし",
+        "機能性成分を強化したもやし",
+        "もやし由来の抽出物を利用したサプリメント"
+      ],
+      "niche_market_value": "有機栽培もやしや、黒豆もやしなどの特殊な品種には高い付加価値がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "保全の対象は「もやし」という製品ではなく、その原料となるリョクトウやダイズの遺伝的多様性（特に在来種）である。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の自生地（南アジア、東南アジア）は開発による脅威に晒されている。",
+    "climate_change_vulnerability": "原料豆の栽培適地は気候変動の影響を受ける。",
+    "cultural_erosion_risk": "低（食文化として定着しているため）",
+    "conservation_actions_needed": [
+      "原料豆の在来種の収集とジーンバンクでの保存",
+      "野生近縁種の生息域内保全"
+    ],
+    "priority_conservation_regions": [
+      "インド",
+      "ミャンマー",
+      "中国"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（World Vegetable Center等）で多数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "一部地域で実施されているが、包括的な取り組みは限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "文化的重要性、気候変動への適応力、食料安全保障への貢献度から、辞典に収録する価値は非常に高い。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "東アジア",
+      "東南アジア"
+    ],
+    "knowledge_gaps": [
+      "原料豆の各品種が持つ気候変動耐性の定量的評価",
+      "もやしの機能性成分に関する網羅的な研究"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "「品種」ではなく、原料豆による「種類」の代表例を示す。"
+      },
+      "variety_name": "リョクトウもやし (Mung Bean Sprouts)",
+      "local_name": "もやし (日本), 豆芽 (中国), 숙주나물 (韓国)",
+      "origin_region": "アジア全域",
+      "distinctive_characteristics": "茎が細く白く、シャキシャキとした食感。豆の部分は小さい。成長が早い。",
+      "cultural_importance": "最も一般的に消費されるもやし。炒め物、スープ、和え物など用途が広い。",
+      "climate_adaptation": "生産プロセスは気候に依存しない。",
+      "conservation_status": "該当なし（栽培植物）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "「品種」ではなく、原料豆による「種類」の代表例を示す。"
+      },
+      "variety_name": "大豆もやし (Soybean Sprouts)",
+      "local_name": "大豆もやし (日本), 黄豆芽 (中国), 콩나물 (韓国)",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "茎が太く、先端に大きな豆（子葉）が付いている。リョクトウもやしよりもしっかりとした歯ごたえと豆の風味がある。",
+      "cultural_importance": "特に韓国料理で重要。スープ（クッパ）やナムルの主役となる。",
+      "climate_adaptation": "生産プロセスは気候に依存しない。",
+      "conservation_status": "該当なし（栽培植物）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "World Vegetable Center (AVRDC) databases",
+      "Ethnobiology and culinary history academic papers"
+    ],
+    "major_knowledge_gaps": [
+      "原料豆の多様な在来種が持つ気候変動耐性に関する定量的データ",
+      "もやし生産の世界的な正確な生産量統計"
+    ],
+    "regional_data_coverage": "東アジアと東南アジアは豊富、その他の地域は限定的。",
+    "missing_information": [
+      "アフリカやラテンアメリカでの伝統的な利用法"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

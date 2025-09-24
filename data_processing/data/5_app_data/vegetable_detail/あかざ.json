@@ -1,0 +1,611 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GRIN）から統合。野生近縁種との詳細な遺伝的関係は研究途上。"
+    },
+    "primary_name": "Magenta Spreen",
+    "scientific_name": "Chenopodium giganteum D. Don",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "種子"
+    ],
+    "origin_region": "ヒマラヤ地域、インド北部",
+    "wild_relatives": [
+      "Chenopodium album",
+      "Chenopodium quinoa",
+      "Chenopodium berlandieri"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "英語名は一般的だが、地域固有の名称に関する体系的な記録は少ない。特に南アジアでの多様な現地名については網羅できていない。"
+    },
+    "international": {
+      "en": [
+        "Magenta Spreen",
+        "Purple Goosefoot",
+        "Tree Spinach"
+      ],
+      "scientific_common": "Giant Lambsquarters"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "बथुआ (Bathua)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ne",
+            "name": "बेथे (Bethe)",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "アカザ (Akaza)",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "紅藜 (Hóng lí)",
+            "script": "Han"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ヒマラヤ地域のコミュニティ",
+        "name": "不明",
+        "cultural_significance": "伝統的な葉野菜および雑穀として利用。名称は地域により多様だが、学術的記録は限定的。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースから情報を取得。"
+    },
+    "family": {
+      "en": "Amaranth family",
+      "la": "Amaranthaceae"
+    },
+    "genus": {
+      "en": "Goosefoot",
+      "la": "Chenopodium"
+    },
+    "species": {
+      "en": "Giant Lambsquarters",
+      "la": "giganteum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "民族植物学的記録は存在するが、定量的・広域的な文化的重要性に関する研究は少ない。特に日本での「あかざ」は近縁種のC. album var. centrorubrumを指すことが多く混同が見られる。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア（ヒマラヤ山麓）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "救荒作物"
+        ],
+        "traditional_uses": "若い葉や茎をスピナッチのように調理して食す（サブジなど）。種子はキノアのように脱穀して雑穀として利用されてきた。",
+        "seasonal_significance": "モンスーン期に急速に成長し、食料が不足しがちな時期の重要な緑黄色野菜となる。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東アジア（日本）",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "歴史的に近縁種（C. album var. centrorubrum）が食用や杖の材料として利用された。本種は主に観賞用や趣味的な栽培に留まる。",
+        "seasonal_significance": "夏に収穫される葉物野菜。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "北インド料理、ネパール料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Saag",
+          "Dal with greens"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "茹でる",
+          "煮込む"
+        ],
+        "cultural_context": "日常的な家庭料理で利用される栄養価の高い葉物野菜。特に農村部で重要。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "数千年にわたり、原産地であるヒマラヤ地域で食料および薬用として利用されてきたと推定される。",
+      "trade_routes": "主要な交易品としての歴史的記録は確認できない。主に地域内で利用されていた。",
+      "cultural_exchange": "近年、グローバルな種子交換ネットワークを通じて世界中の家庭菜園家に広まった。",
+      "domestication_history": "完全な栽培作物というよりは、半野生の状態で管理・利用されてきた歴史が長いと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地または乾季に栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "温暖で適度な降雨がある環境。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけての栽培が最適。霜には弱い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "厳しい冬は越せない一年草。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑があれば栽培可能。乾燥には比較的強い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地であり、高地の冷涼な気候に適応している。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（霜の心配がなくなった後）",
+        "harvest_season": "初夏から秋",
+        "growing_period_days": "60-120"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋または早春",
+        "harvest_season": "冬から初夏",
+        "growing_period_days": "70-150"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照",
+        "水分",
+        "土壌肥沃度",
+        "栽植密度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "主に国内消費のための小規模・非公式な生産。"
+        },
+        {
+          "country": "ネパール",
+          "production_share": null,
+          "characteristics": "自家栽培や地域の市場向けに生産される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "C. giganteumに特化した詳細な栄養分析データは少ない。近縁種であるC. albumやほうれん草のデータを参考に推定される部分が多い。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約43",
+        "protein_g": "4.2",
+        "carbs_g": "7.3",
+        "fat_g": "0.8",
+        "fiber_g": "4.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA",
+          "amount": "高",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "高",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "高",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "高",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ベタレイン（ベタシアニン）",
+        "concentration": "高（特に若い葉）",
+        "health_effect": "強力な抗酸化作用"
+      },
+      {
+        "compound": "シュウ酸",
+        "concentration": "中〜高",
+        "health_effect": "過剰摂取は尿路結石のリスク。加熱により減少。"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "中（特に種子）",
+        "health_effect": "抗炎症作用、界面活性作用。種子は水洗いが必要。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "消化促進",
+          "便秘解消",
+          "血液浄化",
+          "利尿作用"
+        ],
+        "preparation": "葉を茹でた汁を飲む、または料理として摂取する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化能",
+        "抗炎症作用"
+      ],
+      "safety_considerations": "シュウ酸を多く含むため、腎臓に問題がある場合は摂取に注意が必要。生食は避け、加熱調理が推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "伝統的な利用法に関する情報は存在するが、現代的な料理への応用例はまだ少ない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "炒める（サブジ）",
+          "煮込む（ダールに入れる）",
+          "蒸す"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ジャガイモ",
+          "レンズ豆",
+          "ニンニク",
+          "ショウガ",
+          "各種スパイス"
+        ]
+      },
+      {
+        "region": "欧米",
+        "methods": [
+          "サラダ（ベビーリーフ）",
+          "ソテー",
+          "スムージー",
+          "スープ"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "オリーブオイル",
+          "レモン",
+          "チーズ",
+          "ナッツ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "風味とビタミンCは減少するが、ミネラルは保持される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "マイルドで土の香り（ジオスミン）。ほうれん草やビーツの葉に似る。苦味は少ない。",
+      "aroma_compounds": [
+        "ジオスミン"
+      ],
+      "texture_characteristics": "柔らかく、加熱すると滑らかになる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応研究はほぼ存在しない。評価は、近縁種（C. album, C. quinoa）の特性と、雑草としての強健さからの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C以上では生育が著しく阻害される可能性。",
+      "cold_tolerance": "-2°C程度までの軽い霜には耐えるが、継続的な氷点下では枯死。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "背が高くなるため、強風による倒伏のリスクがある。",
+      "hail_damage_recovery": "成長が旺盛なため、軽度の損傷からは回復しやすい。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成効率が向上する可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "原産地が高地であるため、比較的高い可能性がある。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "一般的に強健だが、アブラムシやヨトウムシの被害を受けることがある。温暖化による害虫の北上には注意が必要。",
+      "disease_resistance_stability": "べと病などが発生することがある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯、亜熱帯、高地",
+        "2050_projection": "温帯域では栽培期間が延長する一方、低緯度地域では高温ストレスが増加。高緯度地域へ適地が拡大する可能性。",
+        "2100_projection": "2050年の傾向がさらに顕著になる。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Chenopodium属は種間交雑が起こりやすいことで知られており、本種も高いポテンシャルを持つと推定される。しかし、自然交雑に関する具体的な研究事例は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "品種分化は少ないが、地域集団間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "C. album（シロザ）とは容易に交雑すると考えられる。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い。"
+      ],
+      "successful_natural_hybrids": [
+        "C. albumとの雑種が自然界で形成されている可能性が指摘されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地のヒマラヤ地域には多様な在来系統が存在する可能性があるが、体系的な収集・評価は行われていない。",
+      "wild_gene_pool": "世界中に広がる雑草であるC. albumが巨大な遺伝子プールとして機能する。",
+      "adaptive_genetic_variation": "高いと推定される。",
+      "inbreeding_depression_risk": "自家受粉もするため、隔離された集団ではリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界各地",
+        "environmental_pressure": "多様な気候、土壌条件",
+        "adaptive_response": "近縁種のC. albumが世界的な雑草として多様な環境に適応放散している事例は、本属の適応能力の高さを示す。",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "高い遺伝的多様性、表現型の可塑性、世代交代の速さ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "C. berlandieri（乾燥地に適応）などとの交雑により、耐乾性向上の可能性がある。",
+      "improved_nutritional_content": "種子のサポニン含有量を低下させる（キノアのように）改良の可能性がある。",
+      "novel_characteristics": "葉の色、形、草姿などの多様性を拡大できる。",
+      "hybrid_vigor_potential": "高い可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違いが障壁となる場合がある。",
+      "chromosome_compatibility": "C. albumとは比較的高いと推定される。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、塩害、病害虫",
+        "adaptive_traits": "根系の発達、浸透圧調整能力、二次代謝産物の生産",
+        "heritability": "不明",
+        "response_to_selection": "速いと推定される。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種を対象としたリジェネラティブ農業の研究は存在しない。評価は、植物の一般的特性と近縁種の生態からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "直根性の主根と多数の側根を持つ。土壌の硬盤を破砕する可能性がある。",
+      "organic_matter_contribution": "生育が旺盛でバイオマスが大きく、緑肥として土壌に有機物を供給するポテンシャルが高い。",
+      "soil_structure_improvement": "根による土壌団粒化の促進。",
+      "erosion_control": "生育初期の被覆は遅いが、成長後は地表を覆い土壌侵食を軽減する。",
+      "nutrient_cycling_role": "深層の養分を地表に引き上げるダイナミック・アキュムレーターとしての可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "風媒花であり、訪花昆虫への貢献は限定的。",
+      "beneficial_insect_habitat": "草丈が高く密生するため、テントウムシやクモなどの天敵昆虫の生息場所を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "鳥類が種子を食べることがある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が土壌に亀裂を入れることで、水の浸透を助ける可能性がある。",
+      "moisture_retention": "地上部がマルチのように機能し、土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い。",
+      "below_ground_carbon": "中程度。一年草であるため蓄積は一時的。",
+      "soil_carbon_enhancement": "残渣を鋤き込むことで土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "速い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシやマメ科植物との混植事例がある。"
+      ],
+      "natural_pest_control": "特定の害虫を忌避または誘引する効果については不明。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "アレロパシー作用を持つ可能性が指摘されているが、詳細は不明。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物の一つとして導入することで、システムの安定性を高める可能性がある。",
+      "stress_tolerance": "雑草的な強健さを持ち、管理が少ない環境でも生育可能。",
+      "recovery_capacity": "高い。",
+      "adaptability": "高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "現在の利用は限定的だが、将来的なポテンシャルは高いと評価される。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養価の高い葉物野菜として、植物中心の食生活に貢献できる。",
+      "food_security_contribution": "栽培が容易で、気候変動下でも安定した収穫が期待されるため、地域の食料安全保障に貢献する可能性がある。",
+      "local_food_system_integration": "ファーマーズマーケットやCSA（地域支援型農業）での販売に適している。",
+      "alternative_protein_potential": "種子はキノアの代替となりうるタンパク質源としての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "スーパーフード",
+        "カラフルなサラダ野菜",
+        "エスニック食材"
+      ],
+      "value_added_products": [
+        "ベビーリーフミックス",
+        "野菜パウダー",
+        "健康食品素材"
+      ],
+      "niche_market_value": "ユニークな見た目と栄養価から、ニッチ市場での価値は高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "保全状況に関する公式な評価（IUCNレッドリストなど）はない。評価は一般的な状況からの推定。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "原産地における伝統的な農法の衰退が生息地の縮小につながる。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "原産地での在来系統の調査・収集",
+      "シードバンクでの遺伝資源の保存（域外保全）",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "インド、ネパール、ブータン、中国のヒマラヤ山麓地域"
+    ],
+    "ex_situ_conservation_status": "世界各地のシードバンクに少数のアクセスが保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "公的な保全活動はほとんど行われていない。地域の農家による自家採種が唯一の域内保全。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIの総合的な評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "インド・ウッタラーカンド州",
+      "ネパール中部丘陵地帯"
+    ],
+    "knowledge_gaps": [
+      "地域ごとの遺伝的多様性の評価",
+      "気候ストレス（高温・乾燥）への定量的応答データ",
+      "最適な栽培方法",
+      "栄養成分の品種・栽培条件による変動"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "学術的に確立された品種はほとんどなく、主に'Magenta Spreen'という商品名で流通している系統を代表として記載。"
+      },
+      "variety_name": "Magenta Spreen",
+      "local_name": "Magenta Spreen",
+      "origin_region": "不明（商業的に選抜された系統）",
+      "distinctive_characteristics": "成長点の若い葉が鮮やかなマゼンタ色になる。草丈は2m以上に達する。",
+      "cultural_importance": "世界の園芸愛好家や小規模農家の間で、観賞用兼食用品種として流通している。",
+      "climate_adaptation": "温帯気候に広く適応する。",
+      "conservation_status": "懸念なし（商業的に流通）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Plants of the World Online (Kew)",
+      "GRIN-Global",
+      " ethnobotanical studies",
+      "horticultural databases"
+    ],
+    "major_knowledge_gaps": [
+      "定量的収量データ",
+      "リジェネラティブ農業適性の実証データ",
+      "気候変動に対する品種レベルでの応答",
+      "網羅的な遺伝資源評価"
+    ],
+    "regional_data_coverage": "南アジアに関する情報が比較的多いが、他の地域は限定的。",
+    "missing_information": [
+      "商業生産統計",
+      "詳細な栄養分析",
+      "種間交雑の稔性"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

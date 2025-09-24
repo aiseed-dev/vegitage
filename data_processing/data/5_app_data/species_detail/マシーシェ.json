@@ -1,0 +1,662 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GRIN-Global）および農学研究論文から統合。原産地と伝播経路は歴史的記録に基づき確度が高い。"
+    },
+    "primary_name": "West Indian Gherkin",
+    "scientific_name": "Cucumis anguria",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "葉",
+      "種子"
+    ],
+    "origin_region": "アフリカ南部（ナミビア、ボツワナ、南アフリカ）",
+    "wild_relatives": [
+      "Cucumis anguria var. longipes"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の植物名データベースおよび民族植物学の記録から収集。特にブラジルでの名称「Maxixe」は広く定着している。"
+    },
+    "international": {
+      "en": [
+        "West Indian Gherkin",
+        "Burr Gherkin",
+        "Maroon Cucumber",
+        "Cackrey"
+      ],
+      "scientific_common": "Gherkin"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt-BR",
+            "name": "Maxixe",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "af",
+            "name": "Wilde Agurkie",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Concombre des Antilles",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Pepinillo de las Indias Occidentales",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Westindische Gurke",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ニシインドコキュウリ",
+            "script": "Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アフリカ南部の諸民族",
+        "name": "不明",
+        "cultural_significance": "乾燥地帯における重要な水分および食料源として利用されてきた歴史があるが、具体的な民族固有の名称に関する記録は限定的。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Cucumber",
+      "la": "Cucumis"
+    },
+    "species": {
+      "en": "West Indian gherkin",
+      "la": "Cucumis anguria"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Cucumis anguria var. anguria"
+      },
+      {
+        "rank": "variety",
+        "name": "Cucumis anguria var. longipes"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ブラジルやカリブ地域での文化的価値は広く文書化されているが、原産地アフリカでの現代における伝統的利用に関する詳細な民族誌的記録は少ない。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南米（特にブラジル）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "アフリカから奴隷貿易を通じて伝来。ブラジル北東部の食文化に深く根付き、肉や魚介との煮込み料理「Maxixada」に不可欠な食材。アフロ・ブラジリアン文化の象徴の一つ。",
+        "seasonal_significance": "夏の主要な野菜",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "カリブ海地域",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "主にピクルスとして利用される。家庭菜園で栽培されることが多く、地域の食生活に溶け込んでいる。",
+        "seasonal_significance": "雨季の作物",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "アフリカ南部",
+        "importance_level": 3,
+        "cultural_roles": [
+          "主食",
+          "薬用"
+        ],
+        "traditional_uses": "原産地であり、歴史的には乾燥地帯の重要な水分・食料源。野生種が食料として利用されることもあるが、栽培作物としての重要性は地域により異なる。",
+        "seasonal_significance": "雨季の重要な食料源",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ブラジル料理（特に北東部）",
+        "role": "essential",
+        "traditional_dishes": [
+          "Maxixada",
+          "Frango com maxixe"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "炒め物"
+        ],
+        "cultural_context": "アフリカの食文化がブラジルで融合・発展したディアスポラ料理の代表例。"
+      },
+      {
+        "cuisine": "アメリカ南部料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Pickled gherkins"
+        ],
+        "preparation_methods": [
+          "酢漬け"
+        ],
+        "cultural_context": "家庭での保存食文化、特にヘアルーム（伝統品種）栽培の文脈で重要。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アフリカ南部で数千年前から野生種が利用されていたと推定される。",
+      "trade_routes": "大西洋奴隷貿易のルートを通じて16世紀以降にアフリカから新大陸へ伝播した。",
+      "cultural_exchange": "アフリカの食文化と農耕技術が新大陸の食文化形成に与えた影響を示す重要な証拠植物。",
+      "domestication_history": "アフリカで半栽培化され、新大陸、特にブラジルで地域適応した多様な在来品種が成立した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好む。年間を通じて栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない季節に栽培。夏の主要作物。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の間の栽培に限定される。霜に非常に弱い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "栽培期間が短すぎるため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "高い耐乾性を持つが、結実には一定の水分が必要。灌漑があれば栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年（雨季の始まりが最適）",
+        "harvest_season": "播種後約50-70日から継続的に収穫",
+        "growing_period_days": 60
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": 70
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産データが限定的）",
+      "factors_affecting_yield": [
+        "受粉昆虫の活動",
+        "水ストレス",
+        "土壌肥沃度",
+        "日照時間"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ブラジル",
+          "production_share": "不明",
+          "characteristics": "国内市場向けの生産が主。特に北東部での生産が盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分に関するデータは存在するが、微量栄養素や機能性成分に関する詳細な研究は少ない。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "14",
+        "protein_g": "1.3",
+        "carbs_g": "2.7",
+        "fat_g": "0.1",
+        "fiber_g": "1.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "12.5 mg",
+          "daily_value_percent": 15
+        },
+        {
+          "nutrient": "亜鉛",
+          "amount": "0.8 mg",
+          "daily_value_percent": 7
+        },
+        {
+          "nutrient": "リン",
+          "amount": "38 mg",
+          "daily_value_percent": 3
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ククルビタシン",
+        "concentration": "微量（品種による）",
+        "health_effect": "抗炎症作用の可能性。過剰摂取は毒性を示す。"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アフリカ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "解熱",
+          "下剤",
+          "駆虫"
+        ],
+        "preparation": "果実のジュースや葉の煎じ薬"
+      },
+      {
+        "region": "ブラジル",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "抗炎症",
+          "腎臓の健康維持"
+        ],
+        "preparation": "生食または調理して摂取"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化活性",
+        "抗炎症作用",
+        "抗菌活性"
+      ],
+      "safety_considerations": "ククルビタシンを多く含む野生種や苦味の強い個体は、胃腸障害を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "特にブラジルとカリブ海地域での料理利用法は、料理本や文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南米（ブラジル）",
+        "methods": [
+          "煮込み（Stewing）",
+          "炒め物（Sautéing）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "干し肉（Carne seca）",
+          "エビ",
+          "ココナッツミルク",
+          "パーム油（Dendê oil）"
+        ]
+      },
+      {
+        "region": "北米・カリブ海",
+        "methods": [
+          "酢漬け（Pickling）",
+          "生食（サラダ）",
+          "煮込み（Stewing）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "酢",
+          "ディル",
+          "ニンニク",
+          "唐辛子"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "酢漬け（Pickling）",
+        "regions": [
+          "北米",
+          "カリブ海地域",
+          "ヨーロッパ"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "食感がよりクリスピーになり、酸味が付与される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "若いうちはキュウリに似たさわやかな風味。わずかに酸味がある。熟すと苦味が出ることがある。",
+      "aroma_compounds": [
+        "ノナジエナール（キュウリ様の香り）"
+      ],
+      "texture_characteristics": "生ではシャキシャキとした歯ごたえ。加熱すると柔らかくなるが、煮崩れしにくい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な評価は農学的に確立されているが、気候変動モデルに基づいた定量的な将来予測データは少ない。評価は主にその生態学的特性からの推論に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生存可能",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "キュウリ（C. sativus）より高いと推定される。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（つる性のため風で絡まるが、茎が強靭で回復力がある）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "高温への適応は高いが、急激な低温には弱い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（他のC3植物同様、ポジティブな効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "うどんこ病やいくつかのウイルス病に対して一般的なキュウリよりも耐性があるため、温暖化による病害圧増加にある程度対応可能。",
+      "disease_resistance_stability": "遺伝的多様性が高いため、安定していると考えられる。",
+      "beneficial_organism_relationships": "花はミツバチなど多様なポリネーターを引きつける。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯全域、温帯の夏",
+        "2050_projection": "温帯地域での栽培可能期間が延長し、亜熱帯・乾燥地域の重要性が増す可能性がある。",
+        "2100_projection": "現在の熱帯地域の一部では高温限界を超える可能性がある一方、高緯度地域での栽培可能性が拡大する。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同種内および野生近縁種との交雑親和性は高い。しかし、主要な栽培種であるキュウリやメロンとの種間交雑については、染色体数の違いなどから障壁があり、研究報告も限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "世界中の多様な在来品種間で容易に交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "Cucumis myriocarpus",
+        "Cucumis africanus"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "野生種のCucumis anguria var. longipesとの自然交雑が原産地で発生している。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アフリカの原産地と、伝播先である南米（特にブラジル）に多様な在来品種が存在する。",
+      "wild_gene_pool": "アフリカ南部に分布する野生種が、耐病性や耐乾性などの貴重な遺伝子源となっている。",
+      "adaptive_genetic_variation": "高い",
+      "inbreeding_depression_risk": "低（他家受精性が高いため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ブラジル北東部",
+        "environmental_pressure": "高温、断続的な乾燥、地域の病害虫",
+        "adaptive_response": "地域の気候や土壌に適応した多様な形態・食味の在来品種（Maxixe）が成立。",
+        "time_scale": "約400年",
+        "mechanism": "導入された集団内での選抜と、小規模農家による継続的な種子交換・選抜。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、さらなる耐乾性・耐病性の向上が期待できる。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "果実の形、大きさ、苦味の有無などの形質改良の可能性がある。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "キュウリ（C. sativus、2n=14）やメロン（C. melo、2n=24）とは交雑障壁がある。特にキュウリとは染色体数が異なるため自然交雑はほぼ不可能。",
+      "chromosome_compatibility": "C. anguriaは2n=24。同じ染色体数のCucumis属とは交雑の可能性がある。",
+      "fertility_of_hybrids": "種内交雑では高い稔性を示す。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥",
+        "adaptive_traits": "深い根系、クチクラ層の発達",
+        "heritability": "中〜高",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種を対象としたリジェネラティブ農業に関する直接的な研究は非常に少ない。評価は、その生物学的特性（つる性、耐乾性など）とウリ科植物の一般的な生態的機能からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範囲に広がる比較的深い根系を持つ。",
+      "organic_matter_contribution": "生育旺盛で、収穫後の残渣は良質な有機物となる。",
+      "soil_structure_improvement": "根が土壌の団粒構造を促進する可能性がある。",
+      "erosion_control": "つるが地面を覆うことで、雨滴による土壌侵食や風食を防ぐ（リビングマルチ効果）。",
+      "nutrient_cycling_role": "土壌深層から養分を吸収する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "黄色い花がミツバチ、マルハナバチ、ハナアブなど多様な花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "葉や茎がテントウムシやクモなどの天敵昆虫の隠れ家となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "アグロフォレストリーシステムにおいて、低層の被覆植物として機能する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により雨水の土壌への浸透を促進する。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "葉や茎が雨水の流出速度を遅らせる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。生育速度が速い。",
+      "below_ground_carbon": "不明。根系のバイオマスに関するデータが不足。",
+      "soil_carbon_enhancement": "残渣の分解により土壌有機炭素の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱として利用可能）",
+        "マメ科植物（窒素供給）",
+        "マリーゴールド（線虫忌避）"
+      ],
+      "natural_pest_control": "一部の害虫に対して忌避効果を持つコンパニオンプランツと組み合わせることで効果を発揮。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "その強健さと環境適応性の高さから、多様な作物を組み合わせた農業生態系の安定性を高める。",
+      "stress_tolerance": "高温・乾燥ストレスに強い。",
+      "recovery_capacity": "軽微なダメージからの回復力が高い。",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "気候変動適応作物としてのポテンシャルは広く認識されているが、大規模な商業利用や製品開発はまだ限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "多様な食生活に貢献するユニークな野菜。",
+      "food_security_contribution": "気候変動が進行する熱帯・乾燥地域において、安定した食料供給源となるポテンシャルを持つ。",
+      "local_food_system_integration": "家庭菜園や小規模農家での栽培に適しており、地域の食料自給率向上に貢献する。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エスニック食品市場",
+        "ヘアルーム（伝統品種）野菜市場",
+        "気候変動適応型農業に関心を持つ消費者層"
+      ],
+      "value_added_products": [
+        "高品質なピクルス",
+        "調理済み食品（ブラジル料理など）",
+        "健康志向のジュース"
+      ],
+      "niche_market_value": "高い。そのユニークな歴史、食感、気候レジリエンスが価値となる。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の重要性は認識されているが、体系的な保全活動やリスク評価は地域によって異なり、全体像の把握は不十分。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地アフリカにおける野生近縁種の生息地（サバンナ）の農地化や砂漠化が脅威。",
+    "climate_change_vulnerability": "低い。むしろ気候変動に適応的な作物だが、極端な干ばつや新たな病害虫の発生には脆弱な可能性もある。",
+    "cultural_erosion_risk": "高。特にアフリカの原産地において、伝統的な利用知識が失われつつある。",
+    "conservation_actions_needed": [
+      "アフリカと南米の在来品種の収集と評価",
+      "オンファーム（農家による自家採種）保全の支援",
+      "野生近縁種の生息域内保全",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "アフリカ南部（野生種の多様性中心地）",
+      "ブラジル北東部（栽培品種の二次的多様性中心地）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（米農務省GRIN-Globalなど）に一定数の種子が保存されている。",
+    "in_situ_conservation_efforts": "限定的。主に小規模農家やヘアルーム種子保存ネットワークによって維持されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIによる総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ブラジル北東部",
+      "アフリカ南部（ナミビア、ボツワナ）"
+    ],
+    "knowledge_gaps": [
+      "品種ごとの栄養価および機能性成分の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な生態系サービス（炭素固定量、水循環改善効果など）の測定",
+      "アフリカ原産地における民族植物学的調査"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名は通称であり、学術的に確立されたものではない場合が多い。情報は主に種子交換ネットワークやヘアルーム栽培者の記録に基づく。"
+      },
+      "variety_name": "Maxixe Comum",
+      "local_name": "Maxixe Comum",
+      "origin_region": "ブラジル",
+      "distinctive_characteristics": "薄緑色で、表面のトゲが少ないか柔らかい。調理に適している。",
+      "cultural_importance": "ブラジルで最も一般的に栽培・消費されている品種。",
+      "climate_adaptation": "ブラジルの熱帯・亜熱帯気候に非常によく適応している。",
+      "conservation_status": "安定"
+    },
+    {
+      "variety_name": "Maxixe do Reino",
+      "local_name": "Maxixe do Reino",
+      "origin_region": "ブラジル",
+      "distinctive_characteristics": "果実が大きく、表面が滑らか。キュウリに近い風味を持つ。",
+      "cultural_importance": "特定の地域で好まれる品種。",
+      "climate_adaptation": "高い耐暑性を持つ。",
+      "conservation_status": "希少"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN-Global Taxonomy",
+      "World Flora Online",
+      "PROSEA (Plant Resources of South-East Asia)",
+      "Ethnobotanical and agroecological research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "アフリカ原産地における現代の利用実態と遺伝資源"
+    ],
+    "regional_data_coverage": "南米（特にブラジル）に関するデータは豊富だが、アフリカに関するデータは限定的。",
+    "missing_information": [
+      "世界的な生産統計",
+      "詳細な栄養成分分析"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

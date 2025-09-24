@@ -1,0 +1,618 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "学術論文、植物学データベース、民族植物学の記録から情報を統合。特に東アジアでの利用と北米での侵略的外来種としての二面性に関する情報が豊富。"
+    },
+    "primary_name": "Kudzu",
+    "scientific_name": "Pueraria lobata",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "花",
+      "葉"
+    ],
+    "origin_region": "東アジア（日本、中国、朝鮮半島）",
+    "wild_relatives": [
+      "Pueraria montana",
+      "Pueraria thomsonii",
+      "Pueraria phaseoloides"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物名データベース及び文化記録から収集。"
+    },
+    "international": {
+      "en": [
+        "Kudzu",
+        "Japanese arrowroot"
+      ],
+      "scientific_common": "Pueraria root"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "葛",
+            "script": "漢字"
+          },
+          {
+            "lang": "ja",
+            "name": "クズ",
+            "script": "カタカナ"
+          },
+          {
+            "lang": "zh",
+            "name": "葛",
+            "script": "漢字"
+          },
+          {
+            "lang": "ko",
+            "name": "칡",
+            "script": "ハングル"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "The vine that ate the South",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。Pueraria montana var. lobataとして扱われることも多い。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Pueraria",
+      "la": "Pueraria"
+    },
+    "species": {
+      "en": "Kudzu",
+      "la": "lobata"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Pueraria montana var. lobata"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "文化人類学及び歴史学の文献に基づく。地域による価値観の極端な差異が特徴的。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "繊維原料",
+          "家畜飼料"
+        ],
+        "traditional_uses": "根から採れるデンプン（葛粉）は高級食材や和菓子、漢方薬（葛根）に利用。蔓は葛布として織物に、葉は家畜の飼料に利用されるなど、捨てるところのない有用植物として尊重されてきた。",
+        "seasonal_significance": "冬に掘り出される根が最も価値が高いとされる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 1,
+        "cultural_roles": [
+          "侵略的外来種"
+        ],
+        "traditional_uses": "19世紀末に土壌流出防止と飼料用に導入されたが、旺盛な繁殖力で生態系を破壊する害草と見なされている。一部で foraging（野生採集）やハーブとしての利用が試みられているが主流ではない。",
+        "seasonal_significance": "夏の急速な成長期に脅威が最大化する。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（特に精進料理、懐石料理）",
+        "role": "essential",
+        "traditional_dishes": [
+          "葛切り",
+          "葛餅",
+          "胡麻豆腐",
+          "葛湯"
+        ],
+        "preparation_methods": [
+          "デンプン抽出",
+          "加熱（とろみ付け）",
+          "冷却凝固"
+        ],
+        "cultural_context": "透明感と滑らかな舌触りが珍重され、料理の品格を高める素材として扱われる。特に吉野葛は最高級品とされる。"
+      },
+      {
+        "cuisine": "中華料理・伝統中国医学",
+        "role": "common",
+        "traditional_dishes": [
+          "葛根粉（スープのとろみ付け、健康飲料）",
+          "葛根湯"
+        ],
+        "preparation_methods": [
+          "粉末化",
+          "煎じ"
+        ],
+        "cultural_context": "食材としてよりも、解熱や血行促進などの効能を持つ薬草（生薬）としての側面が強い。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国最古の薬物書『神農本草経』に記載があり、数千年前から薬用・食用に利用されてきた。",
+      "trade_routes": "葛粉や葛根は東アジア内で交易されてきたが、国際的な主要交易品ではなかった。",
+      "cultural_exchange": "1876年のフィラデルフィア万国博覧会で日本から紹介され、北米へ伝播。当初は有益な植物として評価されたが、後に評価が逆転した歴史は文化交流の複雑さを示す。",
+      "domestication_history": "明確な栽培化というよりは、有用な野生種の管理・利用という形で発展してきた。特定のデンプン収量の多い系統が地域ごとに維持されてきた可能性が高い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "湿潤な環境を好むが適応可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "最適。高温多湿な夏に最もよく生育する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冬に地上部は枯れるが、根は越冬し再生する。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さには耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に強いが、一定の降雨は必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高地の低温には適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯・亜熱帯",
+        "planting_season": "春",
+        "harvest_season": "晩秋から冬（根のデンプン蓄積が最大になる時期）",
+        "growing_period_days": "2-3年以上の生育で質の良い根が収穫可能"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業的大規模栽培のデータが乏しい）",
+      "factors_affecting_yield": [
+        "土壌の深さ",
+        "夏季の気温と降水量",
+        "生育年数"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "主に薬用（葛根）としての生産・採集が多い。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "高品質な食用葛粉（本葛）の生産が中心だが、生産量は減少し、輸入原料に依存している。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "葛粉の栄養成分は主に炭水化物。一方、葛根に含まれる機能性成分（イソフラボン）に関する研究は豊富。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "340",
+        "protein_g": "0.2",
+        "carbs_g": "84.7",
+        "fat_g": "0.1",
+        "fiber_g": "0"
+      }
+    },
+    "key_micronutrients": [
+      {
+        "nutrient": "カルシウム",
+        "amount": "13mg/100g",
+        "daily_value_percent": "不明"
+      },
+      {
+        "nutrient": "鉄",
+        "amount": "1.7mg/100g",
+        "daily_value_percent": "不明"
+      }
+    ],
+    "bioactive_compounds": [
+      {
+        "compound": "プエラリン (Puerarin)",
+        "concentration": "根に高濃度",
+        "health_effect": "血流改善、抗酸化作用"
+      },
+      {
+        "compound": "ダイゼイン (Daidzein)",
+        "concentration": "根に高濃度",
+        "health_effect": "植物性エストロゲン様作用"
+      },
+      {
+        "compound": "ゲニステイン (Genistein)",
+        "concentration": "根に高濃度",
+        "health_effect": "植物性エストロゲン様作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "伝統中国医学（TCM）、漢方",
+        "uses": [
+          "発汗解熱",
+          "鎮痙",
+          "血行促進",
+          "二日酔い改善"
+        ],
+        "preparation": "乾燥させた根（葛根）を煎じて服用（葛根湯など）。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "更年期障害の症状緩和",
+        "アルコール依存症患者の飲酒量低減",
+        "メタボリックシンドロームの改善"
+      ],
+      "ongoing_research": [
+        "心血管疾患予防",
+        "骨粗しょう症予防"
+      ],
+      "safety_considerations": "イソフラボンを含むため、ホルモン感受性疾患を持つ者は医師との相談が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアの食文化に関する記録が豊富。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "とろみ付け（吉野仕立て）",
+          "凝固（葛餅、胡麻豆腐）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "出汁",
+          "醤油",
+          "抹茶",
+          "黒蜜",
+          "きな粉"
+        ]
+      },
+      {
+        "region": "中国",
+        "methods": [
+          "飲料",
+          "スープのとろみ付け"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "砂糖",
+          "生姜",
+          "ハーブ類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "デンプン抽出（寒晒し製法）",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数年（乾燥粉末）",
+        "quality_changes": "伝統製法は極めて手間がかかるが、純度の高い滑らかなデンプンが得られる。"
+      },
+      {
+        "method": "乾燥（スライスまたは粉末）",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "数年（薬用）",
+        "quality_changes": "機能性成分を保持するために適切な乾燥が必要。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほぼ無味無臭（精製デンプン）",
+      "aroma_compounds": [],
+      "texture_characteristics": "滑らかで弾力があり、透明感のある仕上がりになる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "侵略的外来種としての生態学的研究から耐性が高いことは示されているが、農業作物としての定量的データは少ない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上でも生育可能",
+      "cold_tolerance": "根は-15°C程度まで耐える"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "深い主根系により地下水を利用できるため、効率が高い。",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "1000-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は損傷しやすいが、根からの再生力が非常に高い。",
+      "hail_damage_recovery": "高い回復力を持つ。",
+      "rapid_temperature_change": "適応性が高い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "高い。CO2濃度上昇により光合成と成長が促進されることが研究で示されている。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "原産地以外では天敵が少なく、病害虫に非常に強い。",
+      "disease_resistance_stability": "高い。",
+      "beneficial_organism_relationships": "根粒菌と共生し窒素を固定する。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジア、米国南東部",
+        "2050_projection": "米国北東部、ヨーロッパ南部などへ適地が拡大する可能性が高い。",
+        "2100_projection": "さらに高緯度地域へと拡大する可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "遺伝的多様性に関する研究は存在するが、自然交雑の事例やポテンシャルに関する具体的な報告は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間で高い遺伝的多様性が存在する。"
+      ],
+      "interspecific_compatibility": [
+        "同属のP. thomsoniiなどとの交雑可能性は理論的には考えられるが、自然界での報告は少ない。"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "東アジアの原産地には多様な遺伝子プールが存在する。",
+      "wild_gene_pool": "野生集団が豊富に存在し、遺伝子供給源となっている。",
+      "adaptive_genetic_variation": "北米に侵入した集団内でも、新たな環境への適応を示す遺伝的変異が見られる。",
+      "inbreeding_depression_risk": "低い"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北米",
+        "environmental_pressure": "新たな気候、土壌、天敵の不在",
+        "adaptive_response": "極めて旺盛な栄養成長、高い繁殖成功率",
+        "time_scale": "約150年",
+        "mechanism": "表現型可塑性および、導入された複数の遺伝子系統の混合による適応。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "既に高い耐性を持つが、交雑によりさらに広範な環境への適応性が向上する可能性がある。",
+      "improved_nutritional_content": "デンプン収量やイソフラボン含有量の異なる系統間の交雑による改善可能性がある。",
+      "novel_characteristics": [
+        "不明"
+      ],
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、高温、草食圧の不在",
+        "adaptive_traits": "深い根系、急速な蔓の伸長、高いCO2利用効率",
+        "heritability": "中〜高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物としての一般的特性と、侵略的生態から推測される部分が多い。管理された農業システムでの定量的データは不足。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "巨大で深い主根と広範なひげ根を持ち、土壌の物理性を改善する。",
+      "organic_matter_contribution": "旺盛な成長により大量のバイオマスを生産し、土壌有機物を増やす。",
+      "soil_structure_improvement": "深く根を張ることで硬盤層を破壊し、団粒構造を促進する。",
+      "erosion_control": "地表を密に覆い、強力な根系で土壌を保持するため、侵食防止効果が非常に高い。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなど多くの昆虫を引きつける。",
+      "beneficial_insect_habitat": "密な葉は多様な昆虫の生息地となる。",
+      "soil_microorganism_interaction": "根粒菌をはじめとする多様な土壌微生物と共生関係を築く。",
+      "above_ground_biodiversity": "管理されない場合、他の植物を覆い尽くし、単一植生化することで生物多様性を著しく低下させる危険がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る土壌孔隙により、水分の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加により保水性を高める。",
+      "runoff_reduction": "地表被覆により雨滴の衝撃を和らげ、表面流出を減らす。",
+      "groundwater_recharge": "浸透改善により地下水涵養に貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "非常に高い。年間を通じて大量のバイオマスを生産する。",
+      "below_ground_carbon": "巨大な根系に大量の炭素を貯留する。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素を増やす効果が高い。",
+      "carbon_sequestration_rate": "トップクラスの速度を持つと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシなどの背の高い作物の支柱となり、同時に窒素を供給するアグロフォレストリー的利用が考えられる。"
+      ],
+      "natural_pest_control": "天敵昆虫の住処となる。",
+      "nutrient_sharing": "窒素固定により周囲の植物の生育を助ける。",
+      "allelopathic_interactions": "他の植物の生育を抑制するアレロパシー効果が報告されており、注意が必要。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "適切に管理すれば、土壌肥沃度を高め、システムの安定性に貢献する。",
+      "stress_tolerance": "旱魃や高温などの環境ストレスに非常に強い。",
+      "recovery_capacity": "刈り取りや踏みつけからの回復力が極めて高い。",
+      "adaptability": "多様な環境への適応性が高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食品科学、薬学、バイオマスエネルギーなど多岐にわたる分野で研究が進んでいる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリーの高品質なデンプン源として価値がある。",
+      "food_security_contribution": "痩せた土地でも生育可能なため、限界地の食料生産に貢献するポテンシャルがある。",
+      "local_food_system_integration": "野生のものを採集・利用することで、地域の食料自給に貢献できる。",
+      "alternative_protein_potential": "葉は高タンパクであり、飼料や将来的には食用タンパク質源としての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによる機能性食品・サプリメント市場",
+        "グルテンフリー食品市場"
+      ],
+      "value_added_products": [
+        "高品質な本葛粉",
+        "葛根由来のイソフラボン抽出物",
+        "バイオエタノール原料",
+        "葛布などの伝統工芸品"
+      ],
+      "niche_market_value": "伝統的な製法で作られた本葛粉は、高級食材として高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種の保全よりは、特定の遺伝資源（在来種）とそれを利用する文化の保全が重要。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "種全体としては低いが、日本国内の良質な葛粉の原料となる在来系統は、自生環境の変化や採取者の高齢化により脅かされている。",
+    "climate_change_vulnerability": "低い。むしろ気候変動に適応し、分布を拡大する可能性が高い。",
+    "cultural_erosion_risk": "高。葛粉の製造や葛布の製織など、伝統的な知識と技術の継承が危機に瀕している。",
+    "conservation_actions_needed": [
+      "伝統的知識の記録と継承支援",
+      "優良な在来系統の遺伝資源としての収集・保存（ジーンバンク）"
+    ],
+    "priority_conservation_regions": [
+      "日本（特に吉野地方など伝統的産地）",
+      "中国の多様な遺伝子プールが存在する地域"
+    ],
+    "ex_situ_conservation_status": "一部のジーンバンクで種子が保存されている。",
+    "in_situ_conservation_efforts": "特定の保護活動は報告されていないが、里山などでの伝統的利用が実質的な域内保全となっている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "多角的な情報に基づき総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "東アジアの在来系統と伝統的利用",
+      "北米における侵略的生態と適応進化"
+    ],
+    "knowledge_gaps": [
+      "管理されたリジェネラティブ農業システムにおける炭素固定能と土壌改良効果の定量的評価",
+      "食用系統と侵略的系統の遺伝的差異の解明"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "植物学的な品種ではなく、産地や品質に基づくブランド・類型としての情報。"
+      },
+      "variety_name": "吉野本葛 (Yoshino Honkuzu)",
+      "local_name": "吉野本葛",
+      "origin_region": "日本（奈良県吉野地方）",
+      "distinctive_characteristics": "伝統的な「吉野晒し」という製法で作られた、極めて純度が高く、滑らかな食感と透明感を持つ最高級の葛粉。",
+      "cultural_importance": "日本の和菓子や高級料理に不可欠な食材として、高い文化的価値を持つ。",
+      "climate_adaptation": "原料となる葛は地域の気候に適応している。",
+      "conservation_status": "伝統製法の継承者が減少し、文化的に危殆化している。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "PubMed",
+      "Google Scholar",
+      "World Flora Online",
+      " ethnobotany journals",
+      "FAO reports"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "自然交雑の実例とポテンシャル"
+    ],
+    "regional_data_coverage": "東アジアと北米に集中しており、他の地域でのデータは限定的。",
+    "missing_information": [
+      "商業生産における正確な収量データ",
+      "アフリカや南米での適応・利用事例"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

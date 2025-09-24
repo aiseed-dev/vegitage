@@ -1,0 +1,612 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農学研究報告、民族植物学の記録を統合。栽培品種に関する情報は豊富だが、野生集団の詳細な遺伝的多様性に関するデータは限定的。"
+    },
+    "primary_name": "Japanese Pepper",
+    "scientific_name": "Zanthoxylum piperitum (L.) DC.",
+    "plant_type": "木本",
+    "edible_parts": [
+      "葉",
+      "花",
+      "果実"
+    ],
+    "origin_region": "東アジア（日本、朝鮮半島、中国）",
+    "wild_relatives": [
+      "Zanthoxylum schinifolium (イヌザンショウ)",
+      "Zanthoxylum armatum (フユザンショウ)",
+      "Zanthoxylum bungeanum (カホクザンショウ)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各国植物名データベース及び料理専門文献を参照。特に中国語圏では近縁種との名称混用が見られるため注記が必要。"
+    },
+    "international": {
+      "en": [
+        "Japanese Pepper",
+        "Japanese Prickly Ash"
+      ],
+      "scientific_common": "Sansho"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "山椒",
+            "script": "漢字"
+          },
+          {
+            "lang": "ko",
+            "name": "초피",
+            "script": "ハングル"
+          },
+          {
+            "lang": "zh",
+            "name": "日本花椒",
+            "script": "繁体字/簡体字"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アイヌ",
+        "name": "チタタㇷ゚キナ",
+        "cultural_significance": "「タタキにする草」を意味し、魚や肉のタタキ料理に香辛料として利用されたことを示す。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Rue family",
+      "la": "Rutaceae"
+    },
+    "genus": {
+      "en": "Prickly Ash",
+      "la": "Zanthoxylum"
+    },
+    "species": {
+      "en": "Japanese Pepper",
+      "la": "piperitum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Z. piperitum var. inerme (Asakura Sansho)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主に日本の歴史文献、食文化研究、民族植物学の記録に基づく。日本以外での文化的価値は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "日本",
+        "importance_level": 5,
+        "cultural_roles": [
+          "香辛料",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "鰻料理の薬味、佃煮、漬物、味噌の香り付け。春の若葉（木の芽）、初夏の実（実山椒）、秋の完熟した果皮（粉山椒）と季節ごとに利用法が変わる。邪気払いの儀式にも用いられた歴史がある。",
+        "seasonal_significance": "春の訪れを告げる食材（木の芽）として、また季節の変わり目の重要な風味として食文化に深く根付いている。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "韓国",
+        "importance_level": 3,
+        "cultural_roles": [
+          "香辛料",
+          "薬用"
+        ],
+        "traditional_uses": "ドジョウのスープ（추어탕, Chueotang）や一部のキムチに独特の風味を加えるために使用される。日本ほど広範ではないが、特定の郷土料理に不可欠な存在。",
+        "seasonal_significance": "限定的",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（和食）",
+        "role": "essential",
+        "traditional_dishes": [
+          "鰻の蒲焼",
+          "ちりめん山椒",
+          "有馬煮",
+          "木の芽和え"
+        ],
+        "preparation_methods": [
+          "粉砕（粉山椒）",
+          "塩漬け",
+          "醤油煮（佃煮）",
+          "生のまま（木の芽）"
+        ],
+        "cultural_context": "日本の食文化における最も重要な香辛料の一つ。その痺れるような辛味と爽やかな香りは、繊細な和食の味を引き締め、魚の生臭みを消す役割を果たす。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本の縄文時代の遺跡から種子が発見されており、利用の歴史は数千年に及ぶ。奈良時代の『古事記』にも記述が見られる。",
+      "trade_routes": "国際的な交易品としての役割はほとんどなく、主に東アジア域内で利用されてきた。",
+      "cultural_exchange": "近縁種である中国の花椒との間で、薬用・香辛料としての知識交換があった可能性が考えられる。",
+      "domestication_history": "古くから自生種の利用と庭先での栽培が行われ、江戸時代には「朝倉山椒」のような優良品種が選抜されるなど、独自の栽培化が進んだ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿環境では生育不良となる。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "日本の南西部の暖地でも栽培可能だが、夏の強光や乾燥には注意が必要。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "半日陰で湿潤かつ水はけの良い土壌を好む。日本の広範囲で栽培されており、最も適した気候帯。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "極端な冬の寒さや夏の乾燥には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱く、栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高冷地での栽培も可能であり、香りが強くなる傾向がある。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（日本）",
+        "planting_season": "3-4月、11-12月",
+        "harvest_season": "若葉: 4-5月、花: 5月、実: 6-7月、完熟果皮: 9-10月",
+        "growing_period_days": null
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "受粉（雌雄異株）",
+        "剪定",
+        "病害虫（アゲハチョウ幼虫）",
+        "日照条件",
+        "土壌水分"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約500トン（推定）",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": 99,
+          "characteristics": "和歌山県、兵庫県、奈良県が主産地。「ぶどう山椒」などの高品質な品種が栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "乾燥粉末の基本的な栄養価データは存在するが、生葉や実、品種による変異のデータは乏しい。機能性成分に関する研究は進んでいるが、伝統的利用の科学的検証は途上。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "376 (粉末)",
+        "protein_g": "10.3 (粉末)",
+        "carbs_g": "66.5 (粉末)",
+        "fat_g": "8.8 (粉末)",
+        "fiber_g": "32.7 (粉末)"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "1500mg/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "760mg/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "15.4mg/100g",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "サンショオール",
+        "concentration": "果皮に多い",
+        "health_effect": "局所麻酔作用（しびれ）、健胃作用、血行促進"
+      },
+      {
+        "compound": "シトロネラール",
+        "concentration": "葉に多い",
+        "health_effect": "鎮静作用、昆虫忌避作用"
+      },
+      {
+        "compound": "ゲラニオール",
+        "concentration": "果皮・葉",
+        "health_effect": "抗菌作用、抗不安作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "漢方、中医学",
+        "uses": [
+          "健胃・整腸",
+          "鎮痛",
+          "駆虫",
+          "体を温める"
+        ],
+        "preparation": "果皮を乾燥・粉末にしたものを生薬（蜀椒、花椒として近縁種と共に扱われる）として煎じ薬や丸薬に配合する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗菌作用",
+        "抗炎症作用",
+        "消化促進作用"
+      ],
+      "ongoing_research": [
+        "脂肪燃焼促進効果",
+        "脳機能改善効果",
+        "抗がん作用"
+      ],
+      "safety_considerations": "過剰摂取は胃腸への刺激が強い可能性がある。妊娠中の使用に関する安全性は確立されていない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "日本の料理書や食文化研究に豊富な記述がある。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "粉末を振りかける",
+          "煮込み料理に加える",
+          "塩漬け・醤油漬けにする",
+          "生の葉を叩いて香りを出す"
+        ],
+        "flavor_role": "香辛料/薬味",
+        "typical_combinations": [
+          "鰻",
+          "鶏肉",
+          "白身魚",
+          "味噌",
+          "筍"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・粉砕",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "香りが時間とともに揮発するため、密閉・冷暗所での保存が望ましい。"
+      },
+      {
+        "method": "佃煮（醤油煮）",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月（冷蔵）",
+        "quality_changes": "しびれは穏やかになり、醤油の風味と調和する。"
+      },
+      {
+        "method": "塩漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "1年以上（冷蔵）",
+        "quality_changes": "フレッシュな香りと強いしびれが長期間保たれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やかな柑橘系の香りと、舌が痺れるような独特の辛味（麻味）。辛味は唐辛子の熱さ（辣味）とは異なる感覚。",
+      "aroma_compounds": [
+        "シトロネラール",
+        "ゲラニオール",
+        "ジペンテン",
+        "フェランドレン"
+      ],
+      "texture_characteristics": "粉末はざらつきがある。実の佃煮はプチプチとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定量的な実験データは非常に少ない。栽培農家の経験則や類似種の特性からの推定が主であり、科学的根拠は限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C以上が続くと葉焼けや生育不良を起こす可能性がある。",
+      "cold_tolerance": "-15°C程度まで耐えるが、品種により異なる。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1000-1500mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（樹木であるため草本よりは強いが、枝折れのリスクあり）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "春先の遅霜に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアゲハチョウの発生回数が増加し、食害リスクが高まる可能性がある。",
+      "disease_resistance_stability": "高温多湿による白絹病などの土壌病害のリスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の温帯・冷温帯地域",
+        "2050_projection": "栽培適地がより北上、または高標高地へシフトする可能性",
+        "2100_projection": "現在の主産地である西日本の平野部では、夏の高温による栽培困難が予測される",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属内での交雑可能性は示唆されているが、自然環境下での交雑事例に関する学術的報告は少ない。育種に関する情報が主。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "ぶどう山椒",
+        "朝倉山椒など、多数の栽培品種間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Zanthoxylum属の近縁種（イヌザンショウ等）と交雑する可能性がある。"
+      ],
+      "intergeneric_possibility": "可能性は極めて低い。",
+      "successful_natural_hybrids": "明確な報告は不明。"
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "日本各地に在来の系統が存在し、香りや辛味、耐寒性に多様性が見られる。",
+      "wild_gene_pool": "日本の山地に自生する野生集団は、栽培品種にはない遺伝子（耐病性など）を保持している可能性がある。",
+      "adaptive_genetic_variation": "地域ごとの気候に適応した遺伝的変異が存在すると考えられる。",
+      "inbreeding_depression_risk": "特定の優良品種への集中が進むとリスクが増加する。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本の各地域",
+        "environmental_pressure": "冬季の低温、降雪量、土壌条件",
+        "adaptive_response": "耐寒性、成長パターン、果実の特性の分化",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "地域的な自然選択と人為選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐病性に優れた近縁種との交雑により、気候変動への耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "特定の機能性成分を増強する可能性がある。",
+      "novel_characteristics": "新しい香りや風味を持つ品種の創出。",
+      "hybrid_vigor_potential": "収量性や成長速度の向上。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "同属内では比較的高いと推測される。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候変動による高温・乾燥",
+        "adaptive_traits": "深根性、クチクラ層の発達",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "山椒を対象としたリジェネラティブ農業に関する直接的な研究はほぼない。多年生木本植物としての一般的特性からの類推が中心。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的深い根系を持ち、土壌の団粒構造を維持し、土壌侵食を防ぐ。",
+      "organic_matter_contribution": "落葉により土壌に有機物を供給し、土壌生物の活動を促進する。",
+      "soil_structure_improvement": "不耕起栽培が可能であり、土壌構造の破壊を防ぐ。",
+      "erosion_control": "特に傾斜地での栽培において高い侵食防止効果が期待できる。",
+      "nutrient_cycling_role": "深い土層から養分を吸い上げ、落葉を通じて表層に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期にはミツバチなどの訪花昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "樹木として、多様な昆虫や鳥類の生息地を提供する。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係を通じて土壌の健全性を高める可能性がある。",
+      "above_ground_biodiversity": "アグロフォレストリー（森林農業）システムへの組み込みに適している。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る土壌孔隙が水の浸透を助ける。",
+      "moisture_retention": "樹冠が地表への直射日光を遮り、土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "地表流を減少させ、水資源の涵養に貢献する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "樹木として幹や枝に炭素を長期的に固定する。",
+      "below_ground_carbon": "根系にも炭素を蓄積する。",
+      "soil_carbon_enhancement": "有機物の供給を通じて土壌炭素貯留量を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "半日陰を好む下草（ミョウガ、フキなど）との混植が可能。"
+      ],
+      "natural_pest_control": "特有の香りが一部の害虫を忌避する効果（アレロパシー）を持つ可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "研究は不十分だが、忌避効果が示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、単年生作物中心のシステムより安定性が高い。",
+      "stress_tolerance": "一度定着すれば、ある程度の環境変動には耐える。",
+      "recovery_capacity": "剪定に対する回復力は高い。",
+      "adaptability": "多様な品種が存在し、適応のポテンシャルがある。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、食品科学、料理業界の動向から分析。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "独特の風味で植物性食品の味の幅を広げる高付加価値な香辛料。",
+      "food_security_contribution": "主食ではないが、中山間地域の農業所得を支え、地域の食料生産システムの多様性に貢献する。",
+      "local_food_system_integration": "日本の伝統的な里山農業システムに組み込まれてきた歴史があり、地域循環型農業に適している。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "欧米の高級レストラン市場",
+        "クラフトジンやビールのボタニカルとしての利用",
+        "機能性食品素材"
+      ],
+      "value_added_products": [
+        "山椒オイル",
+        "フレーバーソルト",
+        "菓子・チョコレート",
+        "化粧品（香り成分）"
+      ],
+      "niche_market_value": "非常に高い。ユニークな風味と希少性から、高級スパイスとして取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "公式な絶滅危惧評価はないが、農業従事者の高齢化や在来品種の消失に関する懸念は存在する。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "自生地である里山の減少が脅威となりうる。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "在来品種の遺伝子資源としての収集・保存（ジーンバンク）",
+      "伝統的知識の記録と継承",
+      "オンファーム（農家による）保全活動の支援"
+    ],
+    "priority_conservation_regions": [
+      "日本の中山間地域、特に多様な在来種が残る地域"
+    ],
+    "ex_situ_conservation_status": "一部の農業試験場や植物園で系統保存が行われている。",
+    "in_situ_conservation_efforts": "限定的であり、個々の農家や地域コミュニティの努力に依存しているのが現状。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた情報を総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本の和歌山県、兵庫県、岐阜県など、栽培と自生の両方が見られる地域"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業における土壌改良効果の定量的評価",
+      "野生集団と栽培品種の遺伝的関係性の詳細な解析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の農学研究機関や自治体の資料に基づく。"
+      },
+      "variety_name": "ぶどう山椒 (Budo Sansho)",
+      "local_name": "ぶどう山椒",
+      "origin_region": "日本・和歌山県",
+      "distinctive_characteristics": "果実が大粒で、葡萄の房のように密集して実る。香りが強く、辛味はまろやか。最高級品とされる。",
+      "cultural_importance": "和歌山県の特産品として地域経済に貢献。高級料亭などで珍重される。",
+      "climate_adaptation": "比較的温暖な気候を好む。",
+      "conservation_status": "経済栽培品種として維持されているが、優良系統の維持が課題。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の農学研究機関や自治体の資料に基づく。"
+      },
+      "variety_name": "朝倉山椒 (Asakura Sansho)",
+      "local_name": "朝倉山椒",
+      "origin_region": "日本・兵庫県",
+      "distinctive_characteristics": "雌木に棘がないため、収穫作業が容易。果実は大きく、香りが良い。豊産性。",
+      "cultural_importance": "日本の家庭栽培で最も人気のある品種の一つ。江戸時代から続く歴史を持つ。",
+      "climate_adaptation": "耐寒性も比較的強い。",
+      "conservation_status": "広く普及している。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "論文データベース(Google Scholar, CiNii)",
+      "植物データベース(KEW, GBIF)",
+      "日本の農林水産省統計データ",
+      "民族植物学関連書籍"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "自然交雑の実態"
+    ],
+    "regional_data_coverage": "日本に関するデータに大きく偏っており、韓国や中国におけるZ. piperitumの状況に関する情報は限定的。",
+    "missing_information": [
+      "収量に関する具体的な数値データ",
+      "各品種の正確な耐寒・耐暑限界温度",
+      "土壌微生物との相互作用"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

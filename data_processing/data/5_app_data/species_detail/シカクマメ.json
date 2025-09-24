@@ -1,0 +1,677 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, USDA-GRIN）および農業研究機関の出版物から統合。野生近縁種に関する詳細な生態学的データは限定的。"
+    },
+    "primary_name": "Winged Bean",
+    "scientific_name": "Psophocarpus tetragonolobus",
+    "plant_type": "多年草（一年草として栽培されることが多い）",
+    "edible_parts": [
+      "果実",
+      "種子",
+      "葉",
+      "花",
+      "根"
+    ],
+    "origin_region": "東南アジアまたはパプアニューギニア",
+    "wild_relatives": [
+      "Psophocarpus scandens",
+      "Psophocarpus palustris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の農業・植物学データベースから名称を収集。特に東南アジア、南アジアでの呼称は豊富に存在する。"
+    },
+    "international": {
+      "en": [
+        "Winged Bean",
+        "Goa Bean",
+        "Asparagus Pea",
+        "Four-angled Bean",
+        "Manila Bean"
+      ],
+      "scientific_common": "Winged Bean"
+    },
+    "regional": [
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Sigarilyas",
+            "script": "Latin"
+          },
+          {
+            "lang": "id",
+            "name": "Kecipir",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Kacang botor",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ถั่วพู (Thua phlu)",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Đậu rồng",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "si",
+            "name": "දඹල (Dambala)",
+            "script": "Sinhala"
+          },
+          {
+            "lang": "ta",
+            "name": "சிறகு அவரை (Sirahu avarai)",
+            "script": "Tamil"
+          },
+          {
+            "lang": "ml",
+            "name": "ചതുരപ്പയർ (Chathura payar)",
+            "script": "Malayalam"
+          }
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "tpi",
+            "name": "Asparagus bin",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "パプアニューギニア高地部族",
+        "name": "不明（多数の地域名が存在）",
+        "cultural_significance": "重要なタンパク質源であり、自給自足農業の基盤。文化的・言語的多様性により統一名称はない。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Psophocarpus",
+      "la": "Psophocarpus"
+    },
+    "species": {
+      "en": "Winged Bean",
+      "la": "tetragonolobus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "民族植物学的研究は豊富だが、定量的な文化的重要性の評価は少ない。特に儀式的利用に関する記録は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "主食（根）"
+        ],
+        "traditional_uses": "家庭菜園での栽培が一般的で、新鮮な莢を日常の炒め物やカレーに利用。栄養価の高さから「貧者の大豆」とも呼ばれ、食料安全保障に貢献。",
+        "seasonal_significance": "雨季に旺盛に生育し、食料が不足しがちな時期の重要な栄養源となる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "特にインド南部やスリランカで、カレーや炒め物の具材として利用される。アーユルヴェーダでは滋養強壮に良いとされる。",
+        "seasonal_significance": "モンスーン期に栽培され、地域の食卓を豊かにする。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "オセアニア（特にパプアニューギニア）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食（根・種子）",
+          "副菜"
+        ],
+        "traditional_uses": "原産地とされ、伝統的な焼畑農業システムに組み込まれている。塊根はヤムイモのように主食として、種子は豆として利用され、タンパク質源として極めて重要。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フィリピン料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Gising-gising",
+          "Sinigang na may Sigarilyas"
+        ],
+        "preparation_methods": [
+          "炒め煮",
+          "スープ"
+        ],
+        "cultural_context": "ココナッツミルクと共に調理されることが多く、日常的な家庭料理の重要な野菜。"
+      },
+      {
+        "cuisine": "タイ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Yum Tua Poo（シカクマメのスパイシーサラダ）"
+        ],
+        "preparation_methods": [
+          "生食",
+          "茹でる"
+        ],
+        "cultural_context": "サラダで生食または軽く茹でて利用されることが特徴。シャキシャキした食感が好まれる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "利用の歴史は古いが、文字記録が少ないため詳細は不明。考古学的証拠は限定的。",
+      "trade_routes": "明確な交易品としての記録は少ないが、人の移動に伴い東南アジア島嶼部やマダガスカルへ伝播したと考えられる。",
+      "cultural_exchange": "東南アジアからアフリカ、ラテンアメリカへと伝播する過程で、各地の食文化に適応し多様な利用法が生まれた。",
+      "domestication_history": "パプアニューギニアまたは東南アジアが原産地と考えられているが、正確な栽培化の歴史は未解明な点が多い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿、年間降水量1500-2500mm、日照時間が短い（短日植物）ことで開花が促進される。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な地域。夏季に栽培可能だが、短日条件を満たす秋に開花・結実が集中する。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、開花に必要な短日条件を満たす前に霜が降りるため、露地栽培は困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度を要求するため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱いため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "播種後2-3ヶ月から莢、4-8ヶ月で塊根",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "莢: 2,000-10,000 kg/ha, 種子: 500-2,000 kg/ha, 塊根: 2,500-12,000 kg/ha",
+      "factors_affecting_yield": [
+        "日長（短日条件）",
+        "支柱の有無",
+        "土壌の肥沃度と排水性",
+        "受粉"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（商業統計データなし）",
+      "major_producers": [
+        {
+          "country": "インドネシア",
+          "production_share": "不明",
+          "characteristics": "主に国内消費向けの小規模農家による生産。"
+        },
+        {
+          "country": "フィリピン",
+          "production_share": "不明",
+          "characteristics": "家庭菜園や地域の市場向けに広く栽培されている。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "特にケララ州などの南部で栽培が盛ん。"
+        },
+        {
+          "country": "ミャンマー",
+          "production_share": "不明",
+          "characteristics": "伝統的な作物として栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分データは存在するが、品種や栽培条件、部位による変動に関する研究は限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "49 (生莢)",
+        "protein_g": "2.9 (生莢), 30-40 (乾燥種子)",
+        "carbs_g": "8.7 (生莢)",
+        "fat_g": "0.2 (生莢), 15-20 (乾燥種子)",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "84mg/100g (生莢)",
+          "daily_value_percent": 8
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.5mg/100g (生莢)",
+          "daily_value_percent": 8
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "850 IU/100g (葉)",
+          "daily_value_percent": 17
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "トコフェロール（ビタミンE）",
+        "concentration": "種子油に豊富",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "葉、莢に含有",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "種子に含有",
+        "health_effect": "抗炎症作用、コレステロール低下作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東南アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "滋養強壮",
+          "皮膚病の治療（葉の湿布）",
+          "めまいや頭痛の緩和"
+        ],
+        "preparation": "葉をすり潰して湿布にする、または食材として摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高タンパク質源",
+        "抗酸化活性"
+      ],
+      "ongoing_research": [
+        "血糖降下作用",
+        "抗炎症作用",
+        "種子油の利用"
+      ],
+      "safety_considerations": "生の乾燥種子にはトリプシン阻害剤などの反栄養素が含まれるため、加熱調理が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の料理書や食文化研究から情報を収集。調理法は地域により多様。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東南アジア",
+        "methods": [
+          "炒める",
+          "茹でる",
+          "煮る（カレー、スープ）",
+          "生食（サラダ）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "唐辛子",
+          "ニンニク",
+          "エビペースト"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "炒める（トーレン、ポリヤル）",
+          "煮る（カレー）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "マスタードシード",
+          "ココナッツ",
+          "ターメリック",
+          "カレーリーフ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全域"
+        ],
+        "shelf_life": "1年以上（種子）",
+        "quality_changes": "種子は硬化し、調理に長時間の浸水と加熱が必要になる。"
+      },
+      {
+        "method": "塩漬け・ピクルス",
+        "regions": [
+          "東南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が変化し、酸味と塩味が加わる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "若い莢はアスパラガスとインゲンを合わせたような、わずかに甘く青々しい風味。",
+      "aroma_compounds": [
+        "ヘキサナール（青葉アルコール）"
+      ],
+      "texture_characteristics": "若い莢はシャキシャキとした歯ごたえが特徴的。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性や窒素固定能力に関する定性的な記述は多いが、気候変動シナリオ下での栽培適応性に関する定量的な実験データは非常に少ない。評価は主にその生態学的特性からの類推に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上でも生育可能だが、結実には影響が出る可能性がある。",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低（根が腐りやすい）",
+      "optimal_rainfall": "1500-2500 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低（つる性植物であり、支柱が倒れると大きな被害を受ける）",
+      "hail_damage_recovery": "中（生育が旺盛なため、葉の損傷からは回復しやすい）",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中〜高（C3植物であり、窒素固定能力を持つため、CO2濃度上昇の恩恵を受けやすいと推定される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明（温暖化により熱帯性の害虫の分布が拡大した場合、新たな脅威にさらされる可能性がある）",
+      "disease_resistance_stability": "在来種は地域の病害にある程度の耐性を持つが、新たな病原菌への抵抗性は不明。",
+      "beneficial_organism_relationships": "根粒菌との共生関係は、土壌条件の変化に影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯の低地",
+        "2050_projection": "現在の亜熱帯地域や、熱帯の高地へと適地が拡大する可能性がある。",
+        "2100_projection": "現在の熱帯中心部では、極端な高温や降雨パターンの変化により栽培が困難になる地域が出現する可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "主に自家受粉性だが、交雑も起こる。野生近縁種との自然交雑に関する体系的な研究は非常に少ない。ポテンシャル評価は遺伝的多様性の存在からの推定。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の在来品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Psophocarpus scandensなど一部の近縁種とは人工授粉で交雑可能だが、自然界での発生頻度は不明。"
+      ],
+      "intergeneric_possibility": [
+        "非常に低いか、不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "記録なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "東南アジア、南アジア、アフリカに多様な在来品種が存在し、莢の色、形、大きさ、日長感受性に変異が見られる。",
+      "wild_gene_pool": "アフリカに分布する野生近縁種は、病害虫抵抗性や環境ストレス耐性の遺伝子供給源として重要だが、利用は進んでいない。",
+      "adaptive_genetic_variation": "地域ごとに異なる日長条件に適応した品種群が存在することが、高い適応的遺伝変異を示唆する。",
+      "inbreeding_depression_risk": "低い（自家受粉性が高いため、ある程度の近交には耐性があると考えられる）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "赤道直下の地域",
+        "environmental_pressure": "年間を通じた短日条件",
+        "adaptive_response": "日長に鈍感な（day-neutral）品種群の分化",
+        "time_scale": "不明",
+        "mechanism": "開花を制御する遺伝子の変異"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "種子油の質やタンパク質含有量を高める可能性がある。",
+      "novel_characteristics": "日長鈍感性、つるなし（矮性）などの栽培上有利な形質の導入。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "Psophocarpus属内では比較的一致している。",
+      "fertility_of_hybrids": "種間交雑では稔性が低下する場合がある。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "日長",
+        "adaptive_traits": "開花時期",
+        "heritability": "高",
+        "response_to_selection": "高い（地域ごとの品種分化に見られる）"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "窒素固定能力などマメ科植物としての一般的な特性はよく知られているが、シカクマメに特化したリジェネラティブ農業システムでの定量的研究は少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く発達する主根と、根粒菌が共生する多数の側根を持つ。",
+      "organic_matter_contribution": "生育旺盛で大量のバイオマスを生産し、収穫後の残渣は土壌有機物として還元される。",
+      "soil_structure_improvement": "根が土壌深くまで侵入し、団粒構造を促進し、水や空気の通りを良くする。",
+      "erosion_control": "旺盛な葉が地面を覆うことで、雨滴による土壌侵食を防ぐ（被覆作物として）。",
+      "nutrient_cycling_role": "空気中の窒素を固定し、土壌を肥沃にする。後作の作物のための窒素源となる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きく鮮やかな花は、ハナバチなどの花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌との共生関係は、土壌微生物群集の多様性を豊かにする。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "土壌構造の改善により、雨水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加により、土壌の保水能力を高める。",
+      "runoff_reduction": "地表被覆により、地表水の流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高（つる性で旺盛に生育するため）",
+      "below_ground_carbon": "中〜高（深い根系と塊根を形成するため）",
+      "soil_carbon_enhancement": "窒素固定による植物成長促進と有機物還元により、土壌炭素の蓄積に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシやソルガム（支柱として利用し、窒素を供給する）",
+        "根菜類（シカクマメが固定した窒素を利用できる）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "窒素を他の植物に供給する。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "土壌肥沃度を高め、化学肥料への依存を減らすことで、生態系の安定に貢献する。",
+      "stress_tolerance": "一度定着すれば、ある程度の環境ストレスには耐える。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ポテンシャルに関する議論は多いが、商業的な大規模利用はまだ限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "植物の全部位が食用になり、特に種子と塊根のタンパク質含有率が高く、「一つの植物からなるスーパーマーケット」と評される。",
+      "food_security_contribution": "小規模農家でも容易に栽培でき、栄養価の高い食料を自給できるため、地域の食料安全保障への貢献が大きい。",
+      "local_food_system_integration": "地域の市場で新鮮な野菜として流通し、地産地消に貢献している。",
+      "alternative_protein_potential": "種子はタンパク質と油分が大豆に匹敵するため、植物性タンパク質源、豆腐様製品、食用油としての利用ポテンシャルが非常に高い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けに、高栄養価野菜としてのプロモーション",
+        "エスニック食品市場での需要拡大"
+      ],
+      "value_added_products": [
+        "種子からのプロテインパウダーや食用油の抽出",
+        "塊根のチップスやフラワー加工",
+        "葉の乾燥粉末"
+      ],
+      "niche_market_value": "珍しい伝統野菜として、高級レストランやオーガニック市場で高い価値を持つ可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "遺伝的多様性の消失リスクに関する懸念は表明されているが、定量的な評価や体系的な保全活動の報告は少ない。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "自生地が不明確なため評価困難だが、栽培地域での単一作物への転換が脅威。",
+    "climate_change_vulnerability": "中（栽培適地の変化や異常気象による影響が懸念される）",
+    "cultural_erosion_risk": "高（食生活の近代化に伴い、伝統的な利用知識が失われつつある）",
+    "conservation_actions_needed": [
+      "多様な在来品種の収集・評価・保存（ジーンバンク）",
+      "参加型育種による地域適応品種の開発",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "パプアニューギニア",
+      "インドネシア",
+      "フィリピン",
+      "ミャンマー"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンク（World Vegetable Centerなど）で一部の遺伝資源が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "小規模農家による自家採種と栽培が、事実上の域内保全となっているが、組織的な活動は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIによる総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "パプアニューギニア（遺伝的多様性の中心地）",
+      "フィリピン（多様な料理文化）",
+      "西アフリカ（導入後の適応進化）"
+    ],
+    "knowledge_gaps": [
+      "野生近縁種の生態と遺伝資源としての価値",
+      "気候変動ストレス（高温、干ばつ、CO2増）に対する品種ごとの生理的応答",
+      "塊根の栄養価と調理特性に関する詳細データ"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "low",
+        "source_comment": "国際的に登録された品種は少なく、ほとんどが地域の在来種（ランドレース）であるため、体系的な情報が乏しい。これは代表的な特性を持つタイプの一例。"
+      },
+      "variety_name": "一般的な短日性高収量タイプ",
+      "local_name": "（地域により多数）",
+      "origin_region": "東南アジア",
+      "distinctive_characteristics": "緑色で長さ15-20cmの莢をつける。短日条件（日照12時間以下）で開花が強く誘導される。つるの伸長が旺盛。",
+      "cultural_importance": "多くの地域で栽培されている最も標準的なタイプ。",
+      "climate_adaptation": "高温多湿な熱帯雨季に適応している。",
+      "conservation_status": "広く栽培されているが、多様な亜種は消失の危機にある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Vegetable Center (AVRDC) publications",
+      "PROSEA (Plant Resources of South-East Asia) database",
+      "FAO EcoCrop database",
+      "Ethnobiology and Agroecology academic journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種との遺伝的関係と交雑ポテンシャル",
+      "商業生産における経済性データ"
+    ],
+    "regional_data_coverage": "東南アジアに関する情報が最も豊富で、アフリカやラテンアメリカでの状況は断片的。",
+    "missing_information": [
+      "年間総生産量の統計データ",
+      "国際貿易データ",
+      "体系的な品種リスト"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

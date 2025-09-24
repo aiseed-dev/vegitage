@@ -1,0 +1,633 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical and agricultural databases (e.g., Kew, GRIN-Global) and ethnobotanical literature. Data on wild relatives is well-established but their genetic interaction potential is less studied."
+    },
+    "primary_name": "Sword Bean",
+    "scientific_name": "Canavalia gladiata",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "果実",
+      "種子"
+    ],
+    "origin_region": "旧世界熱帯（アジアまたはアフリカと推定）",
+    "wild_relatives": [
+      "Canavalia ensiformis",
+      "Canavalia rosea",
+      "Canavalia lineata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical databases and regional floras."
+    },
+    "international": {
+      "en": [
+        "Sword Bean",
+        "Scimitar Bean"
+      ],
+      "scientific_common": "Canavalia"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ナタマメ (Nata-mame)",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "刀豆 (Dāo dòu)",
+            "script": "Hanzi"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "बड़ी सेम (Bari sem)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "வாள் அவரை (Vaal avarai)",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Kacang parang",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Đậu rựa",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification follows the APG IV system as recorded in major taxonomic databases."
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Jack-bean",
+      "la": "Canavalia"
+    },
+    "species": {
+      "en": "Sword Bean",
+      "la": "gladiata"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Cultural roles are well-documented in East and South Asia. Information from Africa and the Americas is more fragmented."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "日本では福神漬の材料として、また健康茶として利用。中国では伝統医学で腎臓の健康やしゃっくりの治療に用いられる。",
+        "seasonal_significance": "夏の作物",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "主食"
+        ],
+        "traditional_uses": "インドやスリランカでは、未熟な莢をカレーや炒め物などの野菜として利用する。",
+        "seasonal_significance": "モンスーン期の作物",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "福神漬 (Fukujinzuke)"
+        ],
+        "preparation_methods": [
+          "漬物",
+          "焙煎 (茶)"
+        ],
+        "cultural_context": "カレーライスの付け合わせとして広く知られる福神漬の主要な構成要素の一つ。また、健康志向の飲料として「なた豆茶」が飲用される。"
+      },
+      {
+        "cuisine": "中華伝統医学 (食餌療法)",
+        "role": "essential",
+        "traditional_dishes": [
+          "刀豆湯 (Dāo dòu tāng)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "スープ"
+        ],
+        "cultural_context": "成熟した種子を薬膳スープに用い、特に腎機能を補い、気の流れを整える目的で利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アジアでは古代から栽培されていた証拠がある。",
+      "trade_routes": "不明",
+      "cultural_exchange": "アジア域内での食文化や伝統医学の伝播と共に広まったと考えられる。",
+      "domestication_history": "旧世界で栽培化されたと考えられているが、正確な起源地や年代は特定されていない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿、年間降水量1000-1500mm"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "長い霜の降りない栽培期間が必要"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の一季作として栽培可能"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "栽培期間が短すぎる"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必要だが、乾燥には比較的強い"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱い"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "通年可能",
+        "growing_period_days": 120
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春 (終霜後)",
+        "harvest_season": "晩夏から初秋",
+        "growing_period_days": 100
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水分供給",
+        "土壌肥沃度",
+        "支柱の有無"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "主に国内消費向けの小規模生産"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "伝統薬および食用のための地域的生産"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "加工食品（漬物、茶）向けの契約栽培が中心"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分は報告されているが、品種や栽培条件による変動は不明。機能性成分に関する研究は存在するが、伝統的利用の科学的検証は途上。毒性に関する注意が必須。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "340 (乾燥種子)",
+        "protein_g": "25",
+        "carbs_g": "60",
+        "fat_g": "1.5",
+        "fiber_g": "10"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "鉄",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "カナバニン (Canavanine)",
+        "concentration": "高",
+        "health_effect": "非タンパク性アミノ酸。抗腫瘍活性が研究されているが、昆虫に対する毒性も示す。"
+      },
+      {
+        "compound": "コンカナバリンA (Concanavalin A)",
+        "concentration": "高",
+        "health_effect": "レクチンの一種。免疫系への作用が研究されているが、生で摂取すると毒性を示す。"
+      },
+      {
+        "compound": "ウレアーゼ",
+        "concentration": "高",
+        "health_effect": "酵素。健康への直接的な効果は限定的だが、診断薬などに利用される。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "腎機能の強化",
+          "腰痛の緩和",
+          "しゃっくりの抑制",
+          "嘔吐の治療"
+        ],
+        "preparation": "乾燥させた種子を煎じる、または粉末にして使用。"
+      },
+      {
+        "region": "日本",
+        "medical_system": "民間療法",
+        "uses": [
+          "蓄膿症の緩和",
+          "歯周病予防",
+          "腎機能サポート"
+        ],
+        "preparation": "焙煎した豆を煮出して茶として飲用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗炎症作用",
+        "抗アレルギー作用",
+        "免疫調節作用",
+        "抗腫瘍作用"
+      ],
+      "safety_considerations": "生の種子や未熟な莢には有毒なレクチン（コンカナバリンA）やカナバニンが含まれるため、加熱（煮沸、焙煎）や長時間の水漬けなどの適切な下処理が絶対に必要である。不適切な調理は消化器系の中毒を引き起こす。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "地域ごとの調理法は料理書や民族植物学の記録で広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "漬物",
+          "焙煎 (茶)",
+          "煮込み (薬膳)"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "砂糖",
+          "生姜",
+          "他の野菜（大根、蓮根）"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "炒め物",
+          "煮込み (カレー)"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "スパイス (ターメリック、クミン)",
+          "ココナッツミルク",
+          "玉ねぎ",
+          "トマト"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け・醤油漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月〜1年",
+        "quality_changes": "食感が向上し、風味が深まる。発酵により一部の成分が変化する。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "保存性が向上するが、再水和と十分な加熱が必要。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "未熟果はインゲン豆に似た風味。成熟した豆は調理後、淡白でわずかに甘みのあるナッツのような風味。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "未熟果はシャキシャキしている。調理した成熟豆はホクホクしている。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "比較的高い（深根性のため）",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "900-1500mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（つる性植物のため支柱が倒れると被害大）",
+      "hail_damage_recovery": "高（生育旺盛なため回復が早い）",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "高いと推定（C3植物のマメ科として）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "含有する毒性物質により多くの害虫に耐性があるため、比較的有利と推定される。",
+      "disease_resistance_stability": "高い",
+      "beneficial_organism_relationships": "根粒菌との共生による窒素固定"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯",
+        "2050_projection": "温帯地域南部への拡大",
+        "2100_projection": "現在の温帯地域の大部分へ拡大",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属他種との交雑親和性に関する研究は限定的。主に人為的な育種プログラムの文脈で議論されており、自然環境下での実例は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の在来種が存在し、種内交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Canavalia ensiformis (タチナタマメ)との交雑が可能。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告例は少ない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジア、アフリカの栽培地域に多様な在来種が存在する。",
+      "wild_gene_pool": "野生近縁種との遺伝子流動の可能性は存在するが、実態は不明。",
+      "adaptive_genetic_variation": "広い栽培地域に適応した多様な遺伝的変異が存在すると考えられる。",
+      "inbreeding_depression_risk": "自家受粉性が高いため、在来集団ではリスクは低い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐塩性(C. rosea)や特定の病害虫耐性を導入できる可能性がある。",
+      "improved_nutritional_content": "毒性成分の低減や特定栄養素の増強の可能性がある。",
+      "novel_characteristics": "莢のサイズ、色、種子の特性などを改変できる可能性がある。",
+      "hybrid_vigor_potential": "種間交雑により雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "C. gladiataとC. ensiformisは染色体数が同じ(2n=22)で適合性が高い。",
+      "fertility_of_hybrids": "種間雑種は稔性を持つことが多い。",
+      "backcrossing_success": "可能と報告されている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、高温",
+        "adaptive_traits": "深根性、気孔制御",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物の一般的特性（窒素固定、深根性）からの類推が主。本種に特化したリジェネラティブ農業システムの研究は少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "強力な主根と広範な側根からなる深根性の根系を持つ。",
+      "organic_matter_contribution": "生育旺盛で大量のバイオマスを生産し、緑肥として土壌に有機物を供給する。",
+      "soil_structure_improvement": "深い根が硬盤層を穿孔し、土壌の物理性を改善する。",
+      "erosion_control": "つる性の被覆が地表を保護し、風雨による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きな花はマルハナバチなどの大型のハチを引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌や菌根菌との共生関係を形成する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造の改善が水の浸透を促進する。",
+      "moisture_retention": "地上部の被覆が土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表被覆により雨水の流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い",
+      "below_ground_carbon": "高い（深根性のため）",
+      "soil_carbon_enhancement": "有機物供給により土壌炭素の蓄積に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシやソルガムの支柱作物として利用可能（スリーシスターズ農法に類似）"
+      ],
+      "natural_pest_control": "含有成分が一部の害虫を忌避する可能性がある。",
+      "nutrient_sharing": "窒素を固定し、混植した他の作物に供給する。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "土壌肥沃度の維持に貢献し、システムの安定性を高める。",
+      "stress_tolerance": "乾燥や貧栄養土壌に対する耐性が高い。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代的な利用法、特に健康食品市場での動向はよく報告されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク質源としての潜在価値を持つ。",
+      "food_security_contribution": "気候変動下での強靭な作物として、特に乾燥地域での食料安全保障に貢献する可能性がある。",
+      "local_food_system_integration": "家庭菜園や小規模農家で容易に栽培でき、地域の自給率向上に貢献する。",
+      "alternative_protein_potential": "毒性成分の低減育種が進めば、主要な代替タンパク質源となる可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康食品市場（なた豆茶、サプリメント）",
+        "機能性食品素材",
+        "グルテンフリー食品素材"
+      ],
+      "value_added_products": [
+        "焙煎茶",
+        "粉末",
+        "ピクルス",
+        "健康サプリメント"
+      ],
+      "niche_market_value": "健康・ウェルネス分野で高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "在来品種の消失リスクに関する体系的な調査は不足している。評価は一般的な農業の動向に基づく推定。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "栽培植物のため直接的な脅威は低いが、在来種の栽培放棄が遺伝的多様性を損なう。",
+    "climate_change_vulnerability": "低い",
+    "cultural_erosion_risk": "高（特に毒抜きなどの伝統的な調理知識の喪失）",
+    "conservation_actions_needed": [
+      "在来種の収集と評価",
+      "種子バンクでの遺伝資源の保存",
+      "伝統的知識の記録と普及"
+    ],
+    "priority_conservation_regions": [
+      "東南アジア",
+      "南アジア",
+      "東アジアの山間地域"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンクに複数のアクセスが保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部の地域コミュニティや研究機関による保全活動が存在する。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本報告書の内容に基づく総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド",
+      "中国雲南省",
+      "インドネシア"
+    ],
+    "knowledge_gaps": [
+      "定量的気候ストレス耐性データ",
+      "毒性成分の品種間差異",
+      "リジェネラティブ農業システムでの定量的効果"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "正式な品種登録は少なく、多くは地域の在来種として識別される。情報は断片的。"
+      },
+      "variety_name": "赤なた豆 (Aka Nata-mame)",
+      "local_name": "赤なた豆",
+      "origin_region": "日本",
+      "distinctive_characteristics": "莢や種子が赤みを帯びる。一般的な白なた豆より特定の機能性成分が多いとされることがある。",
+      "cultural_importance": "健康茶の原料として特に珍重される。",
+      "climate_adaptation": "日本の温帯気候に適応している。",
+      "conservation_status": "商業的に栽培されているが、遺伝資源としての保全状況は不明。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "PROSEA (Plant Resources of South-East Asia)",
+      "World Flora Online",
+      "Ethnobotanical literature",
+      "Agricultural research databases"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "毒性成分の無害化技術の科学的最適化"
+    ],
+    "regional_data_coverage": "アジアの情報は比較的豊富だが、アフリカやラテンアメリカの情報は乏しい。",
+    "missing_information": [
+      "年間生産量や貿易額などの経済統計",
+      "野生近縁種との自然交雑の実態"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,774 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information compiled from major botanical databases (Kew, GRIN) and agricultural research institutions. The precise origin region is still subject to scholarly debate."
+    },
+    "primary_name": "Okra",
+    "scientific_name": "Abelmoschus esculentus",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "葉",
+      "花",
+      "種子"
+    ],
+    "origin_region": "Northeast Africa (Ethiopian Highlands) or South Asia (debated)",
+    "wild_relatives": [
+      "Abelmoschus ficulneus",
+      "Abelmoschus tuberculatus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names gathered from ethnobotanical records and multilingual dictionaries. Script information is provided for non-Latin scripts."
+    },
+    "international": {
+      "en": [
+        "Okra",
+        "Lady's fingers"
+      ],
+      "scientific_common": "Okra"
+    },
+    "regional": [
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Bamia",
+            "script": "Latin"
+          },
+          {
+            "lang": "am",
+            "name": "ባሚያ",
+            "script": "Ge'ez"
+          },
+          {
+            "lang": "yo",
+            "name": "ilá",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "بامية",
+            "script": "Arabic"
+          },
+          {
+            "lang": "tr",
+            "name": "Bamya",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "भिंडी",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "ঢেঁড়শ",
+            "script": "Bengali"
+          },
+          {
+            "lang": "ta",
+            "name": "வெண்டைக்காய்",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Okra",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Đậu bắp",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Bendi",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Quiabo",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Quimbombó",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Yoruba people (West Africa)",
+        "name": "ilá",
+        "cultural_significance": "A key ingredient in traditional stews ('obe ila'), symbolizing nourishment and cultural identity."
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on the APG IV system of plant classification."
+    },
+    "family": {
+      "en": "Mallow family",
+      "la": "Malvaceae"
+    },
+    "genus": {
+      "en": "Abelmoschus",
+      "la": "Abelmoschus"
+    },
+    "species": {
+      "en": "Okra",
+      "la": "A. esculentus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information synthesised from anthropological studies, culinary history, and ethnobotanical research. Its history is deeply intertwined with human migration and trade."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "West Africa",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "Used as a primary thickener for soups and stews. Leaves are also consumed as greens. The mucilage is used for medicinal purposes.",
+        "seasonal_significance": "A staple vegetable during the rainy season, ensuring food security.",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "Americas (especially Southern US, Caribbean, Brazil)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "Central to Creole and Cajun cuisine (Gumbo), soul food, and Afro-Brazilian dishes (Caruru). Its history is directly linked to the transatlantic slave trade and African culinary heritage.",
+        "seasonal_significance": "A symbol of summer gardens and community gatherings.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "South Asia",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "A ubiquitous vegetable in daily meals, prepared in numerous ways (fried, curried, stewed). Used in Ayurvedic medicine.",
+        "seasonal_significance": "Available year-round in many parts, a constant in the diet.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "Middle East and Mediterranean",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "Commonly used in meat and tomato-based stews (Bamia). Often uses smaller pods.",
+        "seasonal_significance": "A popular summer vegetable.",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "Louisiana Creole/Cajun",
+        "role": "essential",
+        "traditional_dishes": [
+          "Gumbo"
+        ],
+        "preparation_methods": [
+          "Stewing",
+          "Frying"
+        ],
+        "cultural_context": "The name 'Gumbo' is derived from a West African word for okra ('ki ngombo'). The vegetable acts as a thickener and represents the African roots of the cuisine."
+      },
+      {
+        "cuisine": "Indian (North and South)",
+        "role": "common",
+        "traditional_dishes": [
+          "Bhindi Masala",
+          "Kurkuri Bhindi",
+          "Sambar"
+        ],
+        "preparation_methods": [
+          "Stir-frying",
+          "Deep-frying",
+          "Stewing"
+        ],
+        "cultural_context": "Valued for its versatility. The 'slimy' texture is often mitigated by pre-frying or using acidic ingredients like tomato or yogurt."
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "Cultivated in ancient Egypt, with records found in the 12th century.",
+      "trade_routes": "Spread from Africa to the Middle East, Asia, and Europe via Moorish trade routes and later globally.",
+      "cultural_exchange": "A primary example of culinary transfer through the transatlantic slave trade, carrying African foodways to the Americas.",
+      "domestication_history": "Believed to be domesticated in the Ethiopian highlands from wild relatives, with secondary centers of diversity in India."
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "High humidity, temperatures between 24-32°C. Year-round cultivation possible."
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "Ideal for spring and summer cultivation. High yields."
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "Summer crop. Requires a long, warm growing season. Sensitive to frost."
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "Growing season is generally too short and cool."
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "Tolerates dry conditions once established due to a deep taproot, but requires irrigation for good yield."
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "Too cold."
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "Tropical",
+        "planting_season": "Year-round",
+        "harvest_season": "Continuous",
+        "growing_period_days": "50-65"
+      },
+      {
+        "climate_zone": "Temperate",
+        "planting_season": "Late Spring",
+        "harvest_season": "Mid-Summer to first frost",
+        "growing_period_days": "60-70"
+      }
+    ],
+    "productivity": {
+      "yield_range": "6,000 - 15,000 kg/ha, highly variable based on climate and cultivation practices.",
+      "factors_affecting_yield": [
+        "Temperature",
+        "Water availability",
+        "Soil fertility",
+        "Pest pressure",
+        "Harvesting frequency"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "Approximately 10 million tonnes (FAO estimate)",
+      "major_producers": [
+        {
+          "country": "India",
+          "production_share": "60",
+          "characteristics": "Largest producer and consumer, huge diversity of landraces and preparation methods."
+        },
+        {
+          "country": "Nigeria",
+          "production_share": "20",
+          "characteristics": "Second largest producer, central to the national diet and culture."
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Standard nutritional data is widely available (e.g., USDA FoodData Central). However, data on variations in bioactive compounds across different landraces is scarce. Traditional medicinal use information is based on ethnobotanical literature."
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "33",
+        "protein_g": "1.9",
+        "carbs_g": "7.5",
+        "fat_g": "0.2",
+        "fiber_g": "3.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Vitamin K",
+          "amount": "31.3 mcg",
+          "daily_value_percent": "26"
+        },
+        {
+          "nutrient": "Vitamin C",
+          "amount": "23 mg",
+          "daily_value_percent": "26"
+        },
+        {
+          "nutrient": "Folate (B9)",
+          "amount": "60 mcg",
+          "daily_value_percent": "15"
+        },
+        {
+          "nutrient": "Magnesium",
+          "amount": "57 mg",
+          "daily_value_percent": "14"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Mucilage (soluble fiber)",
+        "concentration": "High",
+        "health_effect": "Aids digestion, helps manage blood sugar levels, cholesterol-lowering potential."
+      },
+      {
+        "compound": "Quercetin",
+        "concentration": "Variable",
+        "health_effect": "Antioxidant, anti-inflammatory properties."
+      },
+      {
+        "compound": "Myricetin",
+        "concentration": "Variable",
+        "health_effect": "Antioxidant, potential anti-cancer and anti-diabetic effects."
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "South Asia",
+        "medical_system": "Ayurveda",
+        "uses": [
+          "Soothing digestive ailments",
+          "As a diuretic",
+          "Managing blood sugar"
+        ],
+        "preparation": "Decoction of pods or infusion of seeds."
+      },
+      {
+        "region": "Africa",
+        "medical_system": "Traditional African Medicine",
+        "uses": [
+          "Poultice for wounds",
+          "Soothing throat infections",
+          "Easing childbirth"
+        ],
+        "preparation": "Crushed leaves, mucilage extract from pods."
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "Rich source of dietary fiber",
+        "High in antioxidants"
+      ],
+      "ongoing_research": [
+        "Anti-diabetic effects of okra extracts",
+        "Cholesterol-lowering properties of mucilage",
+        "Potential of lectin from okra in cancer research"
+      ],
+      "safety_considerations": "High in fructans, which may cause digestive issues for people with IBS. High in oxalates, which may contribute to kidney stones in susceptible individuals."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Culinary use is well-documented globally in cookbooks, food blogs, and academic papers on food culture."
+    },
+    "global_cooking_methods": [
+      {
+        "region": "Americas/Caribbean",
+        "methods": [
+          "Stewing",
+          "Frying (whole or sliced)",
+          "Pickling"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Tomato",
+          "Onion",
+          "Sausage",
+          "Shrimp",
+          "Cornmeal"
+        ]
+      },
+      {
+        "region": "South Asia",
+        "methods": [
+          "Stir-frying (high heat)",
+          "Deep-frying",
+          "Currying",
+          "Stuffing"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Spices (cumin, turmeric)",
+          "Tomato",
+          "Onion",
+          "Yogurt",
+          "Gram flour"
+        ]
+      },
+      {
+        "region": "Africa/Middle East",
+        "methods": [
+          "Stewing (slow cooking)",
+          "Boiling"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Lamb",
+          "Beef",
+          "Tomato",
+          "Garlic",
+          "Coriander"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Drying",
+        "regions": [
+          "West Africa",
+          "Middle East"
+        ],
+        "shelf_life": "Over 1 year",
+        "quality_changes": "Concentrates flavor, texture becomes chewy when rehydrated. Used to make stews in the dry season."
+      },
+      {
+        "method": "Pickling",
+        "regions": [
+          "Southern US"
+        ],
+        "shelf_life": "1 year",
+        "quality_changes": "Becomes crisp and tangy, mucilage is reduced. Eaten as a condiment."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Mild, grassy, slightly sweet, reminiscent of green beans or eggplant.",
+      "aroma_compounds": [
+        "(E,E)-2,4-decadienal",
+        "hexanal"
+      ],
+      "texture_characteristics": "When cooked quickly: crisp and tender. When slow-cooked: soft and dissolves, releasing mucilage which creates a viscous, thick texture."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "High heat and drought tolerance are widely reported in agricultural literature. However, quantitative data on thresholds and physiological responses is limited and often specific to certain cultivars. Future suitability projections are based on general climate models."
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "24-32°C",
+      "extreme_heat_survival": "Can tolerate short periods above 40°C, but fruit set may be reduced.",
+      "cold_tolerance": "Low, highly sensitive to frost (damaged below 12°C)."
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "Moderate. Its deep taproot allows access to deeper soil moisture, making it resilient to short-term droughts.",
+      "flood_tolerance": "Low. Susceptible to root rot in waterlogged conditions.",
+      "optimal_rainfall": "400-500 mm during growing season."
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "Moderate. Sturdy stems but can be damaged by very high winds.",
+      "hail_damage_recovery": "Good. Can regrow from nodes if not completely destroyed.",
+      "rapid_temperature_change": "Moderate. Sensitive to sudden cold snaps."
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "Positive. As a C3 plant, it is expected to show increased growth and water use efficiency with higher CO2, though data is limited.",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Warmer winters may increase overwintering success of pests like aphids and root-knot nematodes, posing a future challenge.",
+      "disease_resistance_stability": "Yellow vein mosaic virus is a major threat, and resistance stability under climate stress is a key research area.",
+      "beneficial_organism_relationships": "Flowers attract a wide range of pollinators, which may be affected by climate shifts."
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Tropical and subtropical regions",
+        "2050_projection": "Expansion into higher latitudes of temperate zones; increased stress in some current equatorial zones due to extreme heat.",
+        "2100_projection": "Further poleward shift of suitable zones; potential for multi-cropping in newly suitable areas.",
+        "confidence_level": "Medium"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Information on hybridization is primarily from plant breeding literature. Data on natural, spontaneous hybridization events in the wild or in traditional farming systems is less common but documented."
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "High compatibility among diverse A. esculentus landraces and cultivars."
+      ],
+      "interspecific_compatibility": [
+        "Can cross with Abelmoschus caillei (West African okra) and some wild relatives like A. tuberculatus, often requiring embryo rescue techniques."
+      ],
+      "intergeneric_possibility": [
+        "None reported."
+      ],
+      "successful_natural_hybrids": [
+        "Spontaneous hybrids between A. esculentus and A. caillei have been observed where they are co-cultivated in West Africa."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "High, particularly in South Asia and West Africa, with variations in pod shape, size, color, and mucilage content.",
+      "wild_gene_pool": "Wild relatives in India and Africa hold valuable genes for disease resistance and abiotic stress tolerance.",
+      "adaptive_genetic_variation": "Significant variation exists, allowing for selection of locally adapted varieties.",
+      "inbreeding_depression_risk": "Low due to its often cross-pollinated nature, though it is capable of self-pollination."
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "West Africa",
+        "environmental_pressure": "High disease pressure (e.g., viruses) and varied rainy seasons.",
+        "adaptive_response": "Co-cultivation and hybridization with the more robust A. caillei has led to resilient local landraces.",
+        "time_scale": "Centuries",
+        "mechanism": "Natural gene flow and farmer selection."
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "High potential by incorporating genes from wild relatives.",
+      "improved_nutritional_content": "Possible, but not a primary focus of current research.",
+      "novel_characteristics": "Potential for new colors, shapes, and reduced mucilage.",
+      "hybrid_vigor_potential": "High, commonly exploited in commercial F1 hybrid seed production."
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Post-zygotic incompatibility exists with more distant wild relatives.",
+      "chromosome_compatibility": "Variable, A. esculentus has a wide range of reported chromosome numbers (2n=72 to 144), complicating interspecific crosses.",
+      "fertility_of_hybrids": "Often reduced in interspecific crosses.",
+      "backcrossing_success": "Feasible and used to introgress specific traits from wild relatives."
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "Drought",
+        "adaptive_traits": "Deeper root systems, thicker leaf cuticle.",
+        "heritability": "Moderate to High",
+        "response_to_selection": "Observable in landraces from arid regions."
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Direct quantitative research on okra's role in regenerative systems is limited. The following is inferred from its botanical characteristics and general agroecological principles. More research is needed."
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Possesses a strong, deep taproot that can break up compacted soil layers and improve soil structure.",
+      "organic_matter_contribution": "Produces a large amount of biomass which, when returned to the soil, contributes significantly to soil organic matter.",
+      "soil_structure_improvement": "Taproot creates channels for water and air infiltration.",
+      "erosion_control": "Broad leaf canopy can reduce splash erosion from rain.",
+      "nutrient_cycling_role": "Deep root system can bring up nutrients from lower soil profiles."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "Large, nectar-rich flowers are highly attractive to bees and other pollinators.",
+      "beneficial_insect_habitat": "Provides habitat for beneficial insects like ladybugs and predatory wasps.",
+      "soil_microorganism_interaction": "Root exudates likely support a healthy soil microbiome, though specific interactions are not well studied.",
+      "above_ground_biodiversity": "Can be integrated into diverse polyculture systems."
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "Improved by root channels.",
+      "moisture_retention": "Soil shading by canopy reduces evaporation.",
+      "runoff_reduction": "Canopy and improved soil structure help slow water runoff.",
+      "groundwater_recharge": "Potential positive effect due to enhanced infiltration."
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "High. Can accumulate significant carbon in a short growing season.",
+      "below_ground_carbon": "Significant contribution through its extensive taproot system.",
+      "soil_carbon_enhancement": "High potential through decomposition of crop residues and roots.",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Melons (provide ground cover), Basil (may repel pests), Sunflowers (attract pollinators)"
+      ],
+      "natural_pest_control": "Can act as a trap crop for some pests when planted alongside more valuable crops like cotton.",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "Not well documented."
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "In polycultures, it adds diversity and resilience.",
+      "stress_tolerance": "High tolerance to heat and drought contributes to system stability under climate stress.",
+      "recovery_capacity": "Recovers well from non-fatal damage.",
+      "adaptability": "High genetic diversity allows for adaptation."
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Modern applications are widely discussed in food science, nutrition, and agricultural economics literature."
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "A valuable, low-calorie source of fiber and micronutrients in plant-based diets.",
+      "food_security_contribution": "Its climate resilience and high productivity make it a key crop for ensuring food security in hot climates.",
+      "local_food_system_integration": "Easy to grow in home gardens and small farms, supporting local food sovereignty.",
+      "alternative_protein_potential": "Seeds contain a good amount of protein (around 20%) and oil, with potential for development as a food source."
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Growing interest in 'world foods' in Europe and North America",
+        "Development of value-added snack products (e.g., vacuum-fried okra)"
+      ],
+      "value_added_products": [
+        "Okra powder (as a soup thickener)",
+        "Okra seed oil",
+        "Mucilage extracts for industrial and food applications (emulsifier, stabilizer)"
+      ],
+      "niche_market_value": "Heirloom varieties with unique colors (e.g., red okra) and shapes have high value in specialty markets."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Conservation status is based on reports from gene banks and biodiversity organizations. Quantitative data on the rate of genetic erosion is difficult to obtain."
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "Threats to wild relatives in their centers of origin due to deforestation and land use change.",
+    "climate_change_vulnerability": "While the crop itself is resilient, its wild relatives may be more vulnerable to habitat shifts.",
+    "cultural_erosion_risk": "Replacement of diverse local landraces with uniform commercial hybrids leads to a loss of associated traditional knowledge.",
+    "conservation_actions_needed": [
+      "In-situ conservation by supporting farmers who maintain landraces",
+      "Systematic collection and characterization of landraces for ex-situ conservation",
+      "Protection of habitats of wild relatives"
+    ],
+    "priority_conservation_regions": [
+      "West Africa",
+      "Indian Subcontinent"
+    ],
+    "ex_situ_conservation_status": "Well-represented in major international and national gene banks (e.g., World Vegetable Center, USDA GRIN).",
+    "in_situ_conservation_efforts": "Primarily through smallholder farmers and some NGO-led community seed bank initiatives."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "This is a summary evaluation based on the data compiled in this document."
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "West Africa (for A. caillei interactions)",
+      "Ethiopian highlands (for origin studies)",
+      "India (for landrace diversity)"
+    ],
+    "knowledge_gaps": [
+      "Quantitative data on regenerative agriculture benefits",
+      "Physiological responses to combined heat and drought stress across different genotypes",
+      "Nutritional and bioactive compound profiles of diverse landraces"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "Information on specific landraces is often localized and not extensively documented in international databases."
+      },
+      "variety_name": "Clemson Spineless",
+      "local_name": "Clemson Spineless",
+      "origin_region": "USA",
+      "distinctive_characteristics": "Straight, spineless pods. Highly productive. An All-America Selections winner from 1939. Standard commercial variety.",
+      "cultural_importance": "Represents the modern, commercial ideal of okra in North America.",
+      "climate_adaptation": "Well-adapted to subtropical and temperate summers.",
+      "conservation_status": "Not at risk."
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "Information on specific landraces is often localized and not extensively documented in international databases."
+      },
+      "variety_name": "Pusa Sawani",
+      "local_name": "Pusa Sawani",
+      "origin_region": "India",
+      "distinctive_characteristics": "Dark green, slender pods. Developed for resistance to Yellow Vein Mosaic Virus.",
+      "cultural_importance": "A landmark variety that significantly boosted okra production in India by addressing a major disease.",
+      "climate_adaptation": "Well-adapted to the Indian climate.",
+      "conservation_status": "Not at risk."
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "Information on specific landraces is often localized and not extensively documented in international databases."
+      },
+      "variety_name": "Hill Country Red",
+      "local_name": "Hill Country Red",
+      "origin_region": "USA (Texas)",
+      "distinctive_characteristics": "Plump, red-tinged pods that are tender even when large. Highly drought tolerant.",
+      "cultural_importance": "An heirloom variety valued for its flavor and resilience by gardeners and chefs.",
+      "climate_adaptation": "Excellent heat and drought tolerance.",
+      "conservation_status": "Maintained by seed savers and small companies; vulnerable."
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "Kew Gardens Plants of the World Online",
+      "World Vegetable Center",
+      "Ethnobotanical and agricultural science journals"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative data on regenerative agriculture performance",
+      "Climate change response at the cultivar level",
+      "Systematic documentation of African landraces and their specific traits"
+    ],
+    "regional_data_coverage": "Good for South Asia and North America; moderate for Africa and the Middle East; poor for specific indigenous knowledge systems.",
+    "missing_information": [
+      "Comprehensive phytochemical analysis of diverse landraces",
+      "Specific pollinator dependencies by region"
+    ],
+    "update_priority": "High, particularly for climate adaptation and regenerative agriculture data as new research emerges.",
+    "quality_score": 8
+  }
+}

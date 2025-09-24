@@ -1,0 +1,777 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew Gardens, GRIN-Global）および民族植物学的研究から統合。野生の直接の祖先種に関する情報は限定的。"
+    },
+    "primary_name": "Roselle",
+    "scientific_name": "Hibiscus sabdariffa",
+    "plant_type": "一年草/多年草",
+    "edible_parts": [
+      "茎",
+      "葉",
+      "花",
+      "種子"
+    ],
+    "origin_region": "西アフリカ",
+    "wild_relatives": [
+      "Hibiscus cannabinus",
+      "Hibiscus asper"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書、植物データベース、民族植物学的文献から呼称を収集。先住民コミュニティ固有の名称の網羅性は限定的。"
+    },
+    "international": {
+      "en": [
+        "Roselle",
+        "Sorrel",
+        "Jamaica sorrel",
+        "Red sorrel"
+      ],
+      "scientific_common": "Sabdariffa"
+    },
+    "regional": [
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "wo",
+            "name": "Bissap",
+            "script": "Latn"
+          },
+          {
+            "lang": "ar",
+            "name": "كركديه",
+            "script": "Arab"
+          },
+          {
+            "lang": "ha",
+            "name": "Yakuwa",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Flor de Jamaica",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Saril",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "กระเจี๊ยบ",
+            "script": "Thai"
+          },
+          {
+            "lang": "ms",
+            "name": "Asam belanda",
+            "script": "Latn"
+          },
+          {
+            "lang": "my",
+            "name": "ချဉ်ပေါင်",
+            "script": "Mymr"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "Patsan",
+            "script": "Deva"
+          },
+          {
+            "lang": "bn",
+            "name": "Chukar",
+            "script": "Beng"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "洛神花",
+            "script": "Hans"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ヨルバ族（ナイジェリア）",
+        "name": "Ìsápá",
+        "cultural_significance": "スープやソースの材料として伝統的に利用される。薬用価値も認識されている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。品種階級の情報は栽培文脈に依存する。"
+    },
+    "family": {
+      "en": "Mallow family",
+      "la": "Malvaceae"
+    },
+    "genus": {
+      "en": "Hibiscus",
+      "la": "Hibiscus"
+    },
+    "species": {
+      "en": "Roselle",
+      "la": "sabdariffa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "sabdariffa"
+      },
+      {
+        "rank": "var.",
+        "name": "altissima"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の食文化、歴史、民族植物学の研究で広く記録されている。特にアフリカ、ラテンアメリカ、カリブ海地域での文化的重要性が高い。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "西アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物",
+          "飲料"
+        ],
+        "traditional_uses": "Bissapジュースとして広く飲まれる。葉は酸味のある野菜としてスープ（Sauce Feuille）に使われる。",
+        "seasonal_significance": "乾季の重要な水分・ビタミン補給源。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "カリブ海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "経済作物",
+          "飲料"
+        ],
+        "traditional_uses": "クリスマスシーズンに欠かせない伝統的な飲み物「Sorrel drink」の主原料。",
+        "seasonal_significance": "クリスマスの象徴。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ラテンアメリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "飲料"
+        ],
+        "traditional_uses": "「Agua de Jamaica」として日常的に飲まれる冷たいハーブティー。タコスの具材（guisado de jamaica）としても利用される。",
+        "seasonal_significance": "年間を通じて消費されるが、特に暑い時期に人気。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "飲料"
+        ],
+        "traditional_uses": "ミャンマーでは葉が「チンバウン・ジョー」（酸っぱい葉の炒め物）として国民食的に食べられる。タイでは飲料やジャムに利用。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "セネガル料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Bissap"
+        ],
+        "preparation_methods": [
+          "注入",
+          "甘味料添加"
+        ],
+        "cultural_context": "歓迎の飲み物、日常的な清涼飲料として国民的に愛されている。"
+      },
+      {
+        "cuisine": "メキシコ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Agua de Jamaica",
+          "Tacos de Jamaica"
+        ],
+        "preparation_methods": [
+          "注入",
+          "煮込み",
+          "炒め"
+        ],
+        "cultural_context": "Aguas frescas（フレッシュウォーター）の一種として食文化に深く根付いている。出がらしの萼を肉の代替として利用する現代的な動きもある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アフリカでは古代から利用されていた可能性が高い。",
+      "trade_routes": "大西洋奴隷貿易を通じてアフリカから新大陸へ伝播した。アジアへはアラブ商人やヨーロッパの植民地化を通じて広まった。",
+      "cultural_exchange": "アフリカの食文化が世界に広まる過程で重要な役割を果たした。各地域で現地の嗜好に合わせて独自の利用法が発展した。",
+      "domestication_history": "西アフリカで栽培化されたと考えられているが、正確な時期と場所は不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿、日照時間が豊富。短日条件で開花が促進される。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない地域で栽培可能。夏に播種し、秋に収穫する。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "一年草として栽培可能だが、収穫前に霜害のリスクがある。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑があれば栽培可能。高い耐乾性を持つ。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "雨季の終わりから乾季の始まり",
+        "growing_period_days": 120
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "春",
+        "harvest_season": "秋",
+        "growing_period_days": 150
+      }
+    ],
+    "productivity": {
+      "yield_range": "乾燥萼で500 - 1500 kg/ha",
+      "factors_affecting_yield": [
+        "日長",
+        "土壌肥沃度",
+        "水分供給",
+        "栽植密度",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "スーダン",
+          "production_share": "不明",
+          "characteristics": "高品質な「Karkade」の主要生産国。天日干しが主流。"
+        },
+        {
+          "country": "メキシコ",
+          "production_share": "不明",
+          "characteristics": "国内消費が主。ゲレロ州やオアハカ州が主産地。"
+        },
+        {
+          "country": "タイ",
+          "production_share": "不明",
+          "characteristics": "輸出向け加工品（茶、菓子）の生産が盛ん。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "大規模生産が行われ、国際市場への主要供給国の一つ。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "乾燥萼の主要栄養素と機能性成分に関する研究は豊富。しかし、葉や種子、また品種や栽培条件による変動に関するデータは限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "37",
+        "protein_g": "0.96",
+        "carbs_g": "7.41",
+        "fat_g": "0.64",
+        "fiber_g": "0.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "12 mg",
+          "daily_value_percent": "14"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "215 mg",
+          "daily_value_percent": "17"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.48 mg",
+          "daily_value_percent": "8"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "51 mg",
+          "daily_value_percent": "12"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントシアニン（デルフィニジン-3-サンブビオシド、シアニジン-3-サンブビオシド）",
+        "concentration": "高",
+        "health_effect": "強力な抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "プロトカテク酸",
+        "concentration": "中",
+        "health_effect": "抗酸化作用、抗腫瘍作用の可能性"
+      },
+      {
+        "compound": "ハイビスカス酸",
+        "concentration": "高",
+        "health_effect": "緩下作用、代謝促進作用の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アフリカ",
+        "medical_system": "伝統医学",
+        "uses": [
+          "高血圧",
+          "利尿",
+          "解熱",
+          "肝臓保護"
+        ],
+        "preparation": "萼の煎じ汁"
+      },
+      {
+        "region": "インド",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "消化不良",
+          "泌尿器系疾患",
+          "皮膚病"
+        ],
+        "preparation": "葉や花のペースト、煎じ汁"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血圧降下作用",
+        "コレステロール低下作用",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "体重管理効果",
+        "肝保護作用"
+      ],
+      "safety_considerations": "過剰摂取は低血圧や下痢を引き起こす可能性がある。妊娠中・授乳中の安全性については十分なデータがない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理文化で多様な利用法が記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界全域",
+        "methods": [
+          "注入（冷・温）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "砂糖",
+          "蜂蜜",
+          "ミント",
+          "ジンジャー",
+          "シナモン"
+        ]
+      },
+      {
+        "region": "東南アジア、西アフリカ",
+        "methods": [
+          "炒め",
+          "煮込み（スープ、カレー）"
+        ],
+        "flavor_role": "酸味付け",
+        "typical_combinations": [
+          "魚",
+          "鶏肉",
+          "ピーナッツ",
+          "唐辛子"
+        ]
+      },
+      {
+        "region": "ヨーロッパ、北米",
+        "methods": [
+          "ジャム化",
+          "ゼリー化",
+          "ソース化"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "砂糖",
+          "ペクチン",
+          "柑橘類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "色や香りが時間とともに劣化するが、酸味は長期間保持される。"
+      },
+      {
+        "method": "シロップ化",
+        "regions": [
+          "カリブ海地域",
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数ヶ月（冷蔵）",
+        "quality_changes": "風味と色が濃縮される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い酸味、クランベリーやルバーブに似たフルーティーな風味",
+      "aroma_compounds": [
+        "フルフラール",
+        "ヘキサナール"
+      ],
+      "texture_characteristics": "萼は生のままだとシャキシャキしている。調理すると柔らかくなり、粘性が出る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、特定の閾値や生理学的メカニズムに関する定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生育可能だが、生産性は低下する。",
+      "cold_tolerance": "0°C（霜に非常に弱い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "中程度（深い主根により深層の水分を利用可能）",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "年間500-1000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（茎が折れやすい）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として、光合成促進の可能性はあるが研究データなし）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（アントシアニンによる保護効果が示唆される）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、線虫やコナジラミの発生が増加する可能性がある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯地域",
+        "2050_projection": "現在の栽培地域に加え、温帯地域の南部へ拡大の可能性。",
+        "2100_projection": "熱帯低地の栽培適性が高温ストレスで低下し、より高緯度・高標高地域へシフトする可能性。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同属の近縁種（特にFurcaria節）との交雑和合性に関する育種研究は存在するが、自然環境下での交雑頻度や適応進化に関するデータは乏しい。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "var. sabdariffa (萼用)",
+        "var. altissima (繊維用)"
+      ],
+      "interspecific_compatibility": [
+        "Hibiscus cannabinus",
+        "Hibiscus asper"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アフリカ、アジア、ラテンアメリカに多様な在来品種が存在する。",
+      "wild_gene_pool": "アフリカに分布する野生近縁種が重要な遺伝資源となる。",
+      "adaptive_genetic_variation": "日長感受性、萼の色や大きさ、耐病性などに地域的な変異が見られる。",
+      "inbreeding_depression_risk": "低"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界中の熱帯・亜熱帯",
+        "environmental_pressure": "多様な日長条件",
+        "adaptive_response": "各地域の緯度に応じた開花時期の分化",
+        "time_scale": "数百年",
+        "mechanism": "日長感受性遺伝子の自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁種との交雑により、耐病性や耐塩性の向上が期待できる。",
+      "improved_nutritional_content": "アントシアニン含量やビタミンC含量の向上が可能。",
+      "novel_characteristics": "萼の色（黄色、緑色）、形状、繊維の質の改良。",
+      "hybrid_vigor_potential": "高"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種によっては不和合性が見られる。",
+      "chromosome_compatibility": "近縁種とは比較的良好（2n=72）。",
+      "fertility_of_hybrids": "多くは稔性を持つ。",
+      "backcrossing_success": "比較的容易。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い主根、クチクラ層の発達",
+        "heritability": "中〜高",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈でローゼルを対象とした直接的な研究は非常に少ない。以下の評価は、植物の一般的特性や伝統的混植システムからの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "強力な主根が土壌の硬盤を破砕する。",
+      "organic_matter_contribution": "収穫後の残渣が豊富で、土壌有機物を供給する。",
+      "soil_structure_improvement": "根の活動が土壌団粒構造を促進する。",
+      "erosion_control": "生育初期の被覆度は低いが、成長すると広い葉が雨滴による侵食を軽減する。",
+      "nutrient_cycling_role": "深層から養分を吸い上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きく鮮やかな花がハチや蝶などの花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "主根のチャンネルが水の浸透を助ける。",
+      "moisture_retention": "地上部の被覆による土壌水分の蒸発抑制。",
+      "runoff_reduction": "中程度",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度（1ヘクタールあたり数トン）",
+      "below_ground_carbon": "主根が深いため、地下部への炭素蓄積ポテンシャルがある。",
+      "soil_carbon_enhancement": "残渣分解による土壌炭素の増加。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ソルガム",
+        "ミレット",
+        "ササゲ"
+      ],
+      "natural_pest_control": "一部の害虫に対する忌避効果が報告されているが、科学的証拠は不十分。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "混植システムに組み込むことで、多様性を高め安定性に寄与する。",
+      "stress_tolerance": "高い（干ばつ、高温）",
+      "recovery_capacity": "中",
+      "adaptability": "高"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食品産業、健康食品市場、学術研究において、現代的価値と応用に関する情報が豊富に存在する。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "天然のビタミン、ミネラル、抗酸化物質の供給源として価値が高い。",
+      "food_security_contribution": "乾燥地帯での栽培が可能なため、気候変動下での小規模農家の収入源および栄養源として貢献する。",
+      "local_food_system_integration": "加工（乾燥、シロップ化）が容易で、地域内での付加価値創出に適している。",
+      "alternative_protein_potential": "種子はタンパク質と油分が豊富で、食用や搾油の可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性飲料市場",
+        "自然食品着色料市場",
+        "ハーブティー市場",
+        "サプリメント市場"
+      ],
+      "value_added_products": [
+        "ティーバッグ",
+        "濃縮エキス",
+        "パウダー",
+        "ジャム・ゼリー",
+        "化粧品原料"
+      ],
+      "niche_market_value": "オーガニック、フェアトレード認証製品として高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の重要性は認識されているが、各地域の在来品種の消失リスクに関する具体的な評価は不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の生息地は、アフリカのサバンナ地帯で農地拡大の脅威にさらされている。",
+    "climate_change_vulnerability": "低（作物自体）/ 高（野生近縁種）",
+    "cultural_erosion_risk": "中（萼以外の部位の利用法に関する伝統知識が失われつつある）",
+    "conservation_actions_needed": [
+      "世界中の在来品種の収集と特性評価",
+      "ジーンバンクでの種子保存（域外保全）",
+      "伝統的知識の記録と継承支援",
+      "オンファーム保全（農家による種子保存の奨励）"
+    ],
+    "priority_conservation_regions": [
+      "西アフリカ（遺伝的多様性の中心地）",
+      "東南アジア（葉を利用する食文化圏）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（World Vegetable Center, USDA-GRIN等）で多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部の地域でNGOや地域コミュニティによる活動が見られる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本項目の評価は、収集された全データに基づく総合的な専門家判断である。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "西アフリカ",
+      "メキシコ南部",
+      "ミャンマー"
+    ],
+    "knowledge_gaps": [
+      "リジェネラティブ農業システムにおける定量的効果",
+      "気候変動（CO2濃度、異常気象）に対する品種レベルでの生理学的応答",
+      "葉や種子の栄養価および機能性の詳細な分析"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名は商業名や地域呼称が多く、学術的に確立された品種体系は発展途上。"
+      },
+      "variety_name": "Thai Red",
+      "local_name": "Krachiap Daeng",
+      "origin_region": "タイ",
+      "distinctive_characteristics": "非常に大きく、肉厚で深紅色の萼。酸味が強く、飲料や加工に適している。",
+      "cultural_importance": "タイの飲料産業で広く利用されている。",
+      "climate_adaptation": "高温多湿な気候に適応。",
+      "conservation_status": "商業的に広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名は商業名や地域呼称が多く、学術的に確立された品種体系は発展途上。"
+      },
+      "variety_name": "Vimto (Sudanese)",
+      "local_name": "Karkade",
+      "origin_region": "スーダン",
+      "distinctive_characteristics": "暗赤色で、強い香りと深い風味を持つ。国際的に高品質と評価されている。",
+      "cultural_importance": "スーダンの国民的飲料の原料であり、主要な輸出品。",
+      "climate_adaptation": "高温乾燥気候に非常に強い。",
+      "conservation_status": "地域経済の重要作物"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens - Plants of the World Online",
+      "USDA GRIN-Global",
+      "World Vegetable Center",
+      "Journal of Ethnopharmacology",
+      "Food Chemistry"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種の遺伝子プールの詳細な評価"
+    ],
+    "regional_data_coverage": "アフリカ、ラテンアメリカ、東南アジアは比較的豊富。他の地域は限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "先住民コミュニティにおける儀式的利用の詳細"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

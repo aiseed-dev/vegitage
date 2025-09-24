@@ -1,0 +1,675 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業統計、歴史的文献からの情報を統合。野生近縁種の情報は専門的なデータベースに豊富に存在する。"
+    },
+    "primary_name": "Tomato",
+    "scientific_name": "Solanum lycopersicum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実"
+    ],
+    "origin_region": "南米アンデス山脈西部",
+    "wild_relatives": [
+      "Solanum pimpinellifolium",
+      "Solanum cheesmaniae",
+      "Solanum galapagense",
+      "Solanum habrochaites",
+      "Solanum pennellii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の言語辞書、植物名データベースから収集。"
+    },
+    "international": {
+      "en": [
+        "Tomato"
+      ],
+      "scientific_common": "Tomato"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Pomodoro",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Tomate",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Tomate",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Tomate",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "トマト",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "番茄 / 西红柿",
+            "script": "Hans"
+          },
+          {
+            "lang": "ko",
+            "name": "토마토",
+            "script": "Kore"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "टमाटर (ṭamāṭar)",
+            "script": "Deva"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ナワ族（メソアメリカ）",
+        "name": "tomatl",
+        "cultural_significance": "「膨らむ果実」を意味し、栽培化と初期の食文化の中心であった。多くのトマト属の植物を指す言葉。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "統合分類学情報システム（ITIS）およびAPG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Nightshade",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Nightshade",
+      "la": "Solanum"
+    },
+    "species": {
+      "en": "Tomato",
+      "la": "S. lycopersicum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "Solanum lycopersicum var. cerasiforme"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食文化史、人類学、農業史の文献に基づき評価。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "イタリア料理（パスタソース、ピザ）、スペイン料理（ガスパチョ）に不可欠な食材。生食、加熱調理、保存食として広く利用。",
+        "seasonal_significance": "夏の収穫とそれに続くソースや乾燥トマトの加工は、多くの家庭で年中行事となっている。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ラテンアメリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "メキシコ料理におけるサルサの基本食材。原産地アンデス地域では多様な在来種が利用される。栽培化の中心地としての歴史的重要性を持つ。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Spaghetti al pomodoro",
+          "Pizza Margherita",
+          "Pappa al pomodoro"
+        ],
+        "preparation_methods": [
+          "煮込み（ソース）",
+          "生のまま（サラダ）",
+          "オーブン焼き",
+          "天日干し"
+        ],
+        "cultural_context": "19世紀にイタリア料理の象徴となり、国民的アイデンティティの一部を形成。特に南イタリアの食文化の核。"
+      },
+      {
+        "cuisine": "メキシコ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Salsa Roja",
+          "Huevos Rancheros"
+        ],
+        "preparation_methods": [
+          "生のまま刻む",
+          "焼く",
+          "煮る"
+        ],
+        "cultural_context": "アステカ時代から利用されており、メソアメリカの食文化の基盤。多くの料理で風味と水分のベースとなる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前500年頃にはメソアメリカで栽培化されていた証拠がある。",
+      "trade_routes": "16世紀のコロンブス交換によりヨーロッパへ伝播。その後、オスマン帝国などを経てアジア、アフリカへ広がる。",
+      "cultural_exchange": "ヨーロッパに伝わった当初は毒があると信じられ観賞用だったが、イタリアとスペインで食用として受容され、世界的な食材へと変貌した。",
+      "domestication_history": "アンデス山脈の野生種（S. pimpinellifoliumに類似）が起源で、メソアメリカで栽培化され、多様な品種が生まれたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿への耐性を持つ品種が利用される。乾季の栽培が一般的。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "広範な品種が栽培可能。温暖な気候で長期の栽培が可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最も一般的な栽培地域。霜の危険がない温暖な季節に栽培される。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "短い夏と厳しい冬のため、施設栽培を除き大規模栽培は困難。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。乾燥は病害を減らす利点もあるが、水ストレス管理が重要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（終霜後）",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": "60-100"
+      },
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "乾季の初め",
+        "harvest_season": "乾季の中盤から終わり",
+        "growing_period_days": "70-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 150,000 kg/ha（露地栽培から施設栽培まで幅がある）",
+      "factors_affecting_yield": [
+        "品種",
+        "日照時間",
+        "水分供給",
+        "土壌肥沃度",
+        "病害虫管理",
+        "受粉"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約1億8,682万トン（2020年 FAOSTAT）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "35%",
+          "characteristics": "生食用および加工用の大規模生産"
+        },
+        {
+          "country": "インド",
+          "production_share": "11%",
+          "characteristics": "国内消費が中心"
+        },
+        {
+          "country": "トルコ",
+          "production_share": "7%",
+          "characteristics": "加工用トマト（ペースト）の主要輸出国"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な食品成分データベース（USDAなど）に基づく。機能性成分に関する研究論文も多数存在する。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "18",
+        "protein_g": "0.9",
+        "carbs_g": "3.9",
+        "fat_g": "0.2",
+        "fiber_g": "1.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "14 mg",
+          "daily_value_percent": "23%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "237 mg",
+          "daily_value_percent": "7%"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "7.9 µg",
+          "daily_value_percent": "10%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "リコピン",
+        "concentration": "品種や熟度により変動（例: 2573 µg/100g）",
+        "health_effect": "強力な抗酸化作用、心血管疾患リスクの低減、特定のがん予防の可能性。"
+      },
+      {
+        "compound": "β-カロテン",
+        "concentration": "449 µg/100g",
+        "health_effect": "体内でビタミンAに変換、視覚機能の維持、抗酸化作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "心血管疾患リスク低減"
+      ],
+      "ongoing_research": [
+        "がん予防効果（特に前立腺がん）",
+        "皮膚の健康維持（紫外線防御）",
+        "抗炎症作用"
+      ],
+      "safety_considerations": "ナス科アレルギーを持つ人は注意。未熟な果実や葉に含まれるトマチンは過剰摂取で毒性を示す可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の料理書、食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界全域",
+        "methods": [
+          "生食（サラダ）",
+          "煮込み（ソース、スープ）",
+          "炒め物",
+          "グリル",
+          "ロースト"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "バジル",
+          "ニンニク",
+          "オリーブオイル",
+          "タマネギ",
+          "チーズ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "缶詰（ホール、ダイス、ピューレ）",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "2-5年",
+        "quality_changes": "リコピンの生物学的利用能が向上する。ビタミンCは一部減少。"
+      },
+      {
+        "method": "天日干し・乾燥",
+        "regions": [
+          "地中海地域",
+          "中東"
+        ],
+        "shelf_life": "1年以上（オイル漬けの場合）",
+        "quality_changes": "風味が凝縮され、うま味が増す。"
+      },
+      {
+        "method": "ペースト化",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "水分が除去され、風味が非常に濃厚になる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘味、酸味、うま味（グルタミン酸による）のバランスが特徴。",
+      "aroma_compounds": [
+        "シス-3-ヘキセナール（青臭さ）",
+        "β-ダマセノン（フルーティーさ）",
+        "ゲラニアール"
+      ],
+      "texture_characteristics": "品種により様々。多汁、肉厚、ゼリー状、粉質など。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "多数の学術研究が存在するが、予測はモデルに依存し不確実性が高い。品種間の差異に関するデータはまだ限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "21-29°C",
+      "extreme_heat_survival": "35°C以上で受粉障害が発生し、著しく収量が低下する。",
+      "cold_tolerance": "5°C以下で生育障害、霜で枯死する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "中程度。野生近縁種は非常に高い耐乾性を持つものがある。",
+      "flood_tolerance": "低。根腐れを起こしやすく、湛水に非常に弱い。",
+      "optimal_rainfall": "600-1300 mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低。茎が折れやすく、果実が傷つきやすい。",
+      "hail_damage_recovery": "低い。葉や果実へのダメージが大きい。",
+      "rapid_temperature_change": "裂果（果実のひび割れ）を引き起こしやすい。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "あり。C3植物であるため、CO2濃度の上昇は光合成を促進し収量を増加させる可能性があるが、高温や水ストレスで相殺される。",
+      "ozone_sensitivity": "高い。地表オゾン濃度の上昇により葉の損傷や収量低下が報告されている。",
+      "uv_radiation_tolerance": "中程度。品種により差がある。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、コナジラミやハダニなどの害虫の発生地域が北上し、被害が増加すると予測される。",
+      "disease_resistance_stability": "高温多湿は疫病やうどんこ病などの病気の発生を助長する。多くの抵抗性品種が開発されているが、新たな病原菌レースの出現リスクがある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯、亜熱帯地域",
+        "2050_projection": "栽培適地が緯度・標高ともに高緯度・高地側へ移動。現在の主要生産地（地中海沿岸など）で熱ストレスと水不足のリスクが増大。",
+        "2100_projection": "適地の移動がさらに進行し、一部地域では栽培が困難になる可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "育種学の分野で広範な研究蓄積がある。野生種との交雑は耐病性や環境ストレス耐性の遺伝子源として非常に重要。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "すべての栽培品種（S. lycopersicum）間で容易に交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "S. pimpinellifolium",
+        "S. habrochaites",
+        "S. pennelliiなど多数の野生種と交雑可能。胚救出技術が必要な場合もある。"
+      ],
+      "intergeneric_possibility": [
+        "通常は不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培トマトと野生種のS. pimpinellifoliumは分布が重なる地域で自然に交雑することがある。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地であるアンデス地域や栽培化の中心地メソアメリカには、形、色、大きさ、風味において非常に高い多様性を持つ在来種が存在する。",
+      "wild_gene_pool": "近縁野生種は、耐病性、耐塩性、耐乾性などの貴重な遺伝子の宝庫である。",
+      "adaptive_genetic_variation": "野生種には極端な乾燥地帯や高塩分土壌に適応した遺伝的変異が豊富に存在する。",
+      "inbreeding_depression_risk": "低。主に自家受粉するが、他家受粉も起こるため、商業品種でない限りリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ガラパゴス諸島",
+        "environmental_pressure": "高塩分土壌、乾燥",
+        "adaptive_response": "S. cheesmaniaeやS. galapagenseが塩分耐性と耐乾性を進化させた。",
+        "time_scale": "数千年〜数万年",
+        "mechanism": "塩分を排出または区画化する生理学的メカニズムの発達。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐暑性、耐乾性、耐塩性を栽培トマトに導入する研究が活発に行われている。",
+      "improved_nutritional_content": "野生種から高濃度のビタミンCや機能性成分を導入することが可能。",
+      "novel_characteristics": "新しい色、形、風味を持つ品種の作出が可能。",
+      "hybrid_vigor_potential": "高い。F1ハイブリッド品種は収量性や均一性で優れるため、商業生産の主流となっている。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "栽培種と遺伝的に遠い野生種との間には、交雑不和合性の障壁が存在することがある。",
+      "chromosome_compatibility": "近縁野生種とは染色体数が同じ（2n=24）であり、適合性は比較的高い。",
+      "fertility_of_hybrids": "近縁種との雑種は多くの場合、稔性を持つ。",
+      "backcrossing_success": "高い。戻し交配は有用遺伝子を栽培品種に導入する際の常套手段である。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥ストレス",
+        "adaptive_traits": "深い根系、クチクラ層の発達、気孔の制御能力",
+        "heritability": "高い",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "植物の一般的特性からの類推が多い。トマトを組み込んだリジェネラティブ・システムに関する研究は増加しているが、定量データはまだ少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "品種によるが、一般的に広範で深い根系を持ち、土壌の団粒構造を改善する可能性がある。",
+      "organic_matter_contribution": "収穫後の残渣を土壌に還元することで有機物を供給する。",
+      "soil_structure_improvement": "根の活動により土壌孔隙を形成する。",
+      "erosion_control": "マルチングやカバークロップとの組み合わせで効果を発揮する。",
+      "nutrient_cycling_role": "カリウム要求量が高い。菌根菌との共生によりリン酸の吸収が促進される。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は主に自家受粉だが、マルハナバチなどの振動採餌（buzz pollination）を行う訪花昆虫によって受粉が促進される。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌と共生し、土壌微生物叢の多様性に寄与する。",
+      "above_ground_biodiversity": "コンパニオンプランツ（マリーゴールドなど）と組み合わせることで、天敵昆虫を誘引し、生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の発達と土壌有機物増加により、間接的に水の浸透を改善する。",
+      "moisture_retention": "マルチング実践と組み合わせることで、土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。一年草であるため、永年性の作物ほどの蓄積はない。",
+      "below_ground_carbon": "根からの有機物放出や残渣により、土壌炭素を増加させるポテンシャルがある。",
+      "soil_carbon_enhancement": "不耕起や有機物マルチとの組み合わせで、土壌炭素貯留に貢献できる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "バジル（風味向上、害虫忌避）",
+        "マリーゴールド（線虫抑制）",
+        "ナスタチウム（アブラムシのおとり）",
+        "ニンジン",
+        "タマネギ"
+      ],
+      "natural_pest_control": "特定のコンパニオンプランツが天敵を誘引したり、害虫を忌避する効果がある。",
+      "nutrient_sharing": "限定的。",
+      "allelopathic_interactions": "限定的。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物との輪作や混作に組み込むことで、システムの安定性に貢献できる。",
+      "stress_tolerance": "品種改良により、ストレス耐性は向上している。",
+      "recovery_capacity": "一年草であるため、個体の回復力よりは、生態系全体での回復力が重要となる。",
+      "adaptability": "遺伝的多様性が高いため、多様な環境への適応ポテンシャルを持つ。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場動向、栄養学、食品科学の最新情報に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "世界中の植物中心の食事において、風味、栄養、多様性を提供する上で中心的な役割を果たす。",
+      "food_security_contribution": "世界で最も広く生産・消費される野菜の一つであり、ビタミンとミネラルの重要な供給源。",
+      "local_food_system_integration": "家庭菜園から大規模生産までスケールが多様で、地域の食品システムに容易に統合できる。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性（高リコピンなど）を謳った新品種",
+        "ユニークな色や形の heirloom（伝統）品種",
+        "持続可能・リジェネラティブ農法で栽培された高付加価値製品"
+      ],
+      "value_added_products": [
+        "ソース",
+        "ペースト",
+        "ケチャップ",
+        "ジュース",
+        "乾燥トマト",
+        "パウダー"
+      ],
+      "niche_market_value": "Heirloom品種や特定の原産地呼称（例：サンマルツァーノ）を持つものは、高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際自然保護連合（IUCN）、作物多様性トラスト、各国の遺伝資源バンクの報告に基づく。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種の自生地であるアンデス山脈やガラパゴス諸島では、開発や気候変動による生息地の喪失が脅威となっている。",
+    "climate_change_vulnerability": "在来種や野生近縁種の自生地が気候変動により縮小・消滅するリスクがある。",
+    "cultural_erosion_risk": "商業的な均一品種の普及により、地域固有の在来種とその利用に関する伝統知識が失われるリスクが高い。",
+    "conservation_actions_needed": [
+      "野生近縁種の生息域内（in-situ）保全",
+      "世界中の在来種の収集と遺伝資源バンクでの域外（ex-situ）保全",
+      "在来種の栽培を続ける農家への支援と参加型育種の推進"
+    ],
+    "priority_conservation_regions": [
+      "ペルー、エクアドルを中心とするアンデス地域",
+      "メキシコ",
+      "ガラパゴス諸島"
+    ],
+    "ex_situ_conservation_status": "世界中の主要な遺伝資源バンク（World Vegetable Center, Svalbard Global Seed Vaultなど）に数万点の種子が保存されており、比較的良好。",
+    "in_situ_conservation_efforts": "一部の保護区や、地域コミュニティによる保全活動が行われているが、全体としては不十分。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全項目を統合的に評価。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "アンデス山脈の野生種分布域",
+      "メソアメリカの在来種栽培地域",
+      "気候変動の影響を強く受ける地中海沿岸の栽培地域"
+    ],
+    "knowledge_gaps": [
+      "特定の在来種が持つ環境ストレス耐性の定量的評価",
+      "リジェネラティブ農法におけるトマトの生態系サービス機能の解明",
+      "伝統知識と科学的知見の統合"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種データベース、種子会社のカタログ、食文化史の文献に基づく。"
+      },
+      "variety_name": "San Marzano",
+      "local_name": "San Marzano",
+      "origin_region": "イタリア、カンパニア州",
+      "distinctive_characteristics": "縦長の形状、肉厚で種が少ない、加熱すると甘みとコクが増す。",
+      "cultural_importance": "ナポリピッツァや伝統的なパスタソースに不可欠とされる。原産地名称保護（DOP）認定を受けている。",
+      "climate_adaptation": "特定の土壌と気候を好む。病害には比較的弱い。",
+      "conservation_status": "DOP制度により保護されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種データベース、種子会社のカタログ、食文化史の文献に基づく。"
+      },
+      "variety_name": "Brandywine",
+      "local_name": "Brandywine",
+      "origin_region": "アメリカ合衆国",
+      "distinctive_characteristics": "大型で不定形、ピンク色の果実。ポテトリーフ（ジャガイモに似た葉）。非常に豊かで複雑な風味を持つ。",
+      "cultural_importance": "米国のエアルーム（ heirloom）トマト運動の象徴的存在。家庭菜園家やグルメ市場で人気が高い。",
+      "climate_adaptation": "収量が不安定で、裂果しやすい。比較的冷涼な気候を好む。",
+      "conservation_status": "非営利団体や種子交換ネットワークにより保全されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "World Vegetable Center (AVRDC)",
+      "Crop Trust",
+      "Royal Botanic Gardens, Kew",
+      "IPCC reports",
+      "academic journals in agronomy, ethnobotany, and food history"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する多様な在来品種レベルでの生理学的応答",
+      "伝統的栽培システムにおける生態系サービスの評価"
+    ],
+    "regional_data_coverage": "欧米、東アジアのデータは豊富だが、アフリカや南米の在来種に関する体系的データは比較的少ない。",
+    "missing_information": [
+      "多くの在来種の栄養成分プロファイル",
+      "伝統的利用法に関する民族植物学的記録の消失"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

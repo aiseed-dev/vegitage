@@ -1,0 +1,696 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is well-documented in botanical, agricultural, and ethnobotanical literature. Data on wild relatives is extensive but geographically concentrated."
+    },
+    "primary_name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎",
+      "葉"
+    ],
+    "origin_region": "南アジア/東南アジア",
+    "wild_relatives": [
+      "Curcuma aromatica",
+      "Curcuma zedoaria"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are widely recorded due to its global trade history."
+    },
+    "international": {
+      "en": [
+        "Turmeric",
+        "Common Turmeric"
+      ],
+      "scientific_common": "Curcuma"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "हल्दी",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "மஞ்சள்",
+            "script": "Tamil"
+          },
+          {
+            "lang": "bn",
+            "name": " হলুদ",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Kunyit",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ขมิ้น",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Nghệ",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "姜黄",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "ウコン",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ko",
+            "name": "강황",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "كركم",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "زردچوبه",
+            "script": "Persian"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アーユルヴェーダ伝統医学コミュニティ（南アジア）",
+        "name": "Haridra (Sanskrit)",
+        "cultural_significance": "「黄金の女神」とも呼ばれ、浄化、健康、神聖さの象徴。食品、薬、儀式に不可欠な要素。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established."
+    },
+    "family": {
+      "en": "Ginger family",
+      "la": "Zingiberaceae"
+    },
+    "genus": {
+      "en": "Curcuma",
+      "la": "Curcuma"
+    },
+    "species": {
+      "en": "Turmeric",
+      "la": "longa"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural significance is deeply documented in historical texts, religious practices, and culinary traditions across Asia."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "染料",
+          "経済作物"
+        ],
+        "traditional_uses": "カレーの基本スパイス。アーユルヴェーダで抗炎症薬として使用。ヒンドゥー教の結婚式（ハルディ・セレモニー）やプージャ（祈祷）で神聖な浄化剤として不可欠。",
+        "seasonal_significance": "収穫期は地域の祭りと結びつくことがある。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "保存料"
+        ],
+        "traditional_uses": "インドネシアのルンダンやマレーシアのサテソースなど、多くの料理のベースとなる。インドネシアの伝統医療ジャムゥの主要成分。葉は食品を包んで香りを移すために使われる。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用",
+          "健康食品"
+        ],
+        "traditional_uses": "特に沖縄（琉球王国）で「ウコン」として知られ、伝統的に肝機能の健康維持のために飲用される。漢方では血行促進や鎮痛に用いられる。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "各種カレー",
+          "ダール",
+          "サブジ"
+        ],
+        "preparation_methods": [
+          "乾燥粉末化"
+        ],
+        "cultural_context": "ほぼ全ての塩味の料理で色、風味、健康効果のために使用される。料理の基盤をなすマサラの必須要素。"
+      },
+      {
+        "cuisine": "タイ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "タイカレーペースト",
+          "ガイヤーン（鶏のグリル）"
+        ],
+        "preparation_methods": [
+          "生をすり潰す"
+        ],
+        "cultural_context": "カレーペーストに深い黄色と土のような風味を与える。生の根茎を他のハーブとすり潰して使用するのが特徴。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インドで紀元前2500年頃から利用されていた証拠がある。ヴェーダ時代から宗教的・医学的に重要視されていた。",
+      "trade_routes": "古代のスパイス交易の重要品目。アラブ商人により中東・ヨーロッパへ、また海のシルクロードを経て東アジア、東アフリカへ伝播した。",
+      "cultural_exchange": "仏教と共に伝播し、その染料としての利用が僧侶の衣の色に影響を与えた。",
+      "domestication_history": "南アジアまたは東南アジアで栽培化。栽培種は不稔性（種を作らない）であるため、人間の手による栄養繁殖で何千年もの間維持されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿、年間降水量1500mm以上、明確な乾季があること"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な気候。生育期に十分な水分が必要。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "露地栽培は困難。温室栽培は可能だが商業的には稀。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑がなければ不適"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯モンスーン気候",
+        "planting_season": "モンスーン開始時（例：5月-6月）",
+        "harvest_season": "乾季（例：1月-3月）",
+        "growing_period_days": "210-300"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000-25,000 kg/ha (生根茎)",
+      "factors_affecting_yield": [
+        "降水量と分布",
+        "土壌の水はけ",
+        "品種",
+        "日照時間",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約1,100,000トン（乾燥）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "78%",
+          "characteristics": "世界最大の生産、消費、輸出国。多様な品種が栽培されている。"
+        },
+        {
+          "country": "中国",
+          "production_share": "8%",
+          "characteristics": "主に国内消費と漢方薬原料として生産。"
+        },
+        {
+          "country": "ミャンマー",
+          "production_share": "4%",
+          "characteristics": "品質の高いウコンの生産地として知られる。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "クルクミンに関する研究は膨大。栄養価は標準的なデータベースに記載されているが、品種によるクルクミン含有量の差が大きい。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "312",
+        "protein_g": "9.7",
+        "carbs_g": "67.1",
+        "fat_g": "3.3",
+        "fiber_g": "22.7"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "マンガン",
+          "amount": "10.1 mg",
+          "daily_value_percent": "438%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "55 mg",
+          "daily_value_percent": "306%"
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "1.0 mg",
+          "daily_value_percent": "78%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "クルクミン",
+        "concentration": "乾燥重量の2-9%",
+        "health_effect": "強力な抗炎症作用、抗酸化作用。"
+      },
+      {
+        "compound": "ツルメロン",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、神経保護作用の可能性が研究されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "抗炎症",
+          "消化促進",
+          "肝臓保護",
+          "皮膚疾患治療",
+          "鎮痛"
+        ],
+        "preparation": "牛乳と混ぜた「ゴールデンミルク」、ペースト状にして外用、乾燥粉末を摂取。"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学（漢方）",
+        "uses": [
+          "活血化瘀（血行促進）",
+          "行気止痛（気の巡りを良くし痛みを止める）"
+        ],
+        "preparation": "他の生薬との煎じ薬（湯液）。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗炎症作用（関節炎など）",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "がん予防・治療",
+        "アルツハイマー病予防",
+        "うつ病改善",
+        "心血管疾患リスク低減"
+      ],
+      "safety_considerations": "大量摂取は胃腸障害を引き起こす可能性。抗凝固薬との併用に注意。クルクミンの生体利用率は低いが、ピペリン（黒胡椒）との併用で向上する。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究で広く記述されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア・中東",
+        "methods": [
+          "乾燥粉末を油で炒める（テンパリング）",
+          "煮込み料理に加える"
+        ],
+        "flavor_role": "主味/香辛料/着色料",
+        "typical_combinations": [
+          "クミン",
+          "コリアンダー",
+          "唐辛子",
+          "生姜"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "生の根茎をすり潰してペーストにする",
+          "葉で食材を包んで蒸す"
+        ],
+        "flavor_role": "主味/香辛料",
+        "typical_combinations": [
+          "レモングラス",
+          "ガランガル",
+          "ニンニク",
+          "ココナッツミルク"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥粉末化",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "根茎を茹でてから乾燥させることで、デンプンが糊化し、クルクミンの色が均一に広がり、保存性も向上する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "土のような香り、わずかな苦味と胡椒のような辛味、温かみのある風味",
+      "aroma_compounds": [
+        "ツルメロン",
+        "ar-ツルメロン",
+        "ジンギベレン"
+      ],
+      "texture_characteristics": "乾燥粉末はきめ細かい。生のものは硬く、繊維質。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培条件から耐暑性は高いと推測されるが、干ばつへの脆弱性が懸念される。品種レベルでの定量的データは乏しい。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-35°C",
+      "extreme_heat_survival": "40°C以上では生育が阻害される可能性がある。",
+      "cold_tolerance": "5°C以下で休眠、霜には非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低（根茎が腐敗しやすいため、水はけの良い土壌が必須）",
+      "optimal_rainfall": "1500-2500 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（葉は損傷しやすいが、地下の根茎は保護される）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。一般的にC3植物として、収量増加の可能性あり。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により根茎腐敗病やネコブセンチュウの発生地域が拡大するリスクあり。",
+      "disease_resistance_stability": "品種による差が大きい。伝統的な多品種栽培はリスク分散に寄与。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "南アジア、東南アジアの熱帯・亜熱帯モンスーン地域",
+        "2050_projection": "適地がやや高緯度・高地にシフトする可能性。ただし、降水パターンの変化が最大の制約要因となる。",
+        "2100_projection": "主要生産地での干ばつリスク増大が懸念される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種C. longaが不稔性の三倍体であることは広く知られており、これが交雑ポテンシャルを著しく制限している。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "交雑不可（栄養繁殖のみ）"
+      ],
+      "interspecific_compatibility": [
+        "自然交雑はほぼ不可能"
+      ],
+      "intergeneric_possibility": [
+        "不可能"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。数千年にわたる栄養繁殖と農家による選抜を通じて、地域ごとに多様なクローン（在来種）が存在する。",
+      "wild_gene_pool": "近縁の野生種（C. aromaticaなど）は存在するが、自然交雑しないため遺伝子流動は起きていない。",
+      "adaptive_genetic_variation": "体細胞突然変異とエピジェネティックな変化が適応の源泉となっている可能性がある。",
+      "inbreeding_depression_risk": "該当しない（有性生殖を行わないため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インド各地",
+        "environmental_pressure": "異なる土壌、気候、病害虫圧",
+        "adaptive_response": "クルクミン含有量、根茎のサイズや形状、耐病性などが異なる多様な在来種の成立",
+        "time_scale": "数千年",
+        "mechanism": "農家によるクローニング選択と、可能性としては体細胞突然変異。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "伝統的な交配育種では不可能。遺伝子工学や組織培養技術が必要。",
+      "improved_nutritional_content": "同上",
+      "novel_characteristics": "同上",
+      "hybrid_vigor_potential": "該当しない"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "三倍体による不稔性（種子を作らない）が絶対的な障壁。",
+      "chromosome_compatibility": "不適合",
+      "fertility_of_hybrids": "該当しない",
+      "backcrossing_success": "該当しない"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "人為選択（収量、クルクミン含有量、色、風味）",
+        "adaptive_traits": "特定の地域環境への適応",
+        "heritability": "クローン繁殖のため100%（突然変異を除く）",
+        "response_to_selection": "非常に高い（優れた個体を栄養繁殖させるため）"
+      }
+    ],
+    "hybridization_score": 2
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "伝統的な混植システムでの役割に関する記述は多いが、土壌改良効果などの定量的研究は限られている。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる根茎と細かい根のネットワークが表土を保持する。",
+      "organic_matter_contribution": "収穫後に残る葉や茎が分解され、土壌有機物を供給する。",
+      "soil_structure_improvement": "根茎の成長が土壌を団粒化させる可能性がある。",
+      "erosion_control": "生育期の広い葉が地面を覆い、雨滴による土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "カリウム要求量が高いが、土壌から養分を効率的に吸収する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "稀に咲く花は一部の昆虫を引きつけるが、繁殖には寄与しないため限定的。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根圏の微生物叢との相互作用が研究されている。抗菌性が特定の微生物に影響を与える可能性。",
+      "above_ground_biodiversity": "伝統的なアグロフォレストリーシステムでは、他の作物と共存し多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "葉による被覆が地表の硬化を防ぎ、水の浸透を助ける。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "同上",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "高い。収穫物の大部分が地下の根茎であるため、炭素を効率的に地下に蓄積する。",
+      "soil_carbon_enhancement": "有機物供給により土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ココナッツ、バナナ、ショウガ、豆類（アグロフォレストリー）"
+      ],
+      "natural_pest_control": "ネコブセンチュウを抑制する効果が報告されている（アレロパシー効果）。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育に影響を与える可能性あり。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多品目栽培システムに組み込むことで、生態系の安定性に貢献する。",
+      "stress_tolerance": "不明",
+      "recovery_capacity": "地下に根茎があるため、地上部が被害を受けても再生する能力がある。",
+      "adaptability": "クローン選択による高い適応性。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康食品、サプリメント、自然着色料市場に関する情報は豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "「フード・アズ・メディシン」の概念を代表する食材。",
+      "food_security_contribution": "主食ではないが、小規模農家の重要な収入源であり、食料へのアクセスを間接的に支える。",
+      "local_food_system_integration": "多くの地域で地産地消される重要な作物。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・飲料（ゴールデンミルクなど）",
+        "栄養補助食品（クルクミン抽出物）",
+        "自然化粧品",
+        "オーガニック製品"
+      ],
+      "value_added_products": [
+        "クルクミンエキス",
+        "ターメリックオイル",
+        "インスタントカレーペースト",
+        "健康飲料"
+      ],
+      "niche_market_value": "特定の品種（例：高クルクミン含有の'Lakadong'ターメリック）は、高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の多様性に関する認識は高まっているが、体系的な保全活動はまだ途上。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種は森林伐採による生息地喪失の脅威に晒されている。",
+    "climate_change_vulnerability": "干ばつや降水パターンの変化により、特定の在来種が栽培できなくなるリスク。",
+    "cultural_erosion_risk": "中（伝統的な多品種栽培から、少数の商業品種への移行が進んでいるため）",
+    "conservation_actions_needed": [
+      "在来種の収集・評価・保存（ジーンバンク）",
+      "農家が多様な品種を栽培し続けることを奨励するインセンティブ",
+      "野生近縁種の生息域内保全"
+    ],
+    "priority_conservation_regions": [
+      "インド（特に西ガーツ山脈、北東インド）、インドネシア"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（インドスパイス研究所など）で多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域で伝統農法を維持するコミュニティベースの活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド北東部",
+      "西ガーツ山脈",
+      "インドネシア諸島"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に干ばつ）に対する多様な在来種の応答",
+      "土壌微生物叢との相互作用",
+      "体細胞突然変異による適応メカニズム"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主要な商業品種に関する情報は存在するが、無数の地域品種の特性データは断片的。"
+      },
+      "variety_name": "Alleppey",
+      "local_name": "Alleppey",
+      "origin_region": "インド、ケララ州",
+      "distinctive_characteristics": "クルクミン含有量が非常に高い（6%以上）。深いオレンジ色。国際市場で高く評価されている。",
+      "cultural_importance": "インドのスパイス貿易を象徴する品種の一つ。",
+      "climate_adaptation": "高温多湿なケララ州の気候に適応。",
+      "conservation_status": "商業的に広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主要な商業品種に関する情報は存在するが、無数の地域品種の特性データは断片的。"
+      },
+      "variety_name": "Lakadong",
+      "local_name": "Lakadong",
+      "origin_region": "インド、メガラヤ州",
+      "distinctive_characteristics": "世界で最もクルクミン含有量が高い品種の一つ（7-12%）。独特の風味と香り。オーガニック栽培が主流。",
+      "cultural_importance": "メガラヤ州のジャインティア丘陵地帯の地域経済とアイデンティティに不可欠。",
+      "climate_adaptation": "高地の冷涼で湿潤な気候に適応。",
+      "conservation_status": "地理的表示（GI）タグにより保護。需要が増加しているが生産地は限定的。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "Kew Gardens' Plants of the World Online",
+      "Ethnobotanical literature",
+      "Agronomy research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答の比較研究",
+      "不稔性克服のための育種技術の応用可能性"
+    ],
+    "regional_data_coverage": "南アジアについては豊富だが、アフリカや南米での利用に関するデータは限定的。",
+    "missing_information": [
+      "栽培種の正確な起源地",
+      "野生近縁種との遺伝的距離の網羅的データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

@@ -1,0 +1,700 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業統計、食文化研究から情報を統合。野生種との関係性も明確。"
+    },
+    "primary_name": "Cabbage",
+    "scientific_name": "Brassica oleracea var. capitata",
+    "plant_type": "二年草",
+    "edible_parts": [
+      "葉"
+    ],
+    "origin_region": "ヨーロッパ大西洋・地中海沿岸",
+    "wild_relatives": [
+      "Brassica oleracea var. oleracea"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の主要言語での名称は広く記録されている。先住民の伝統名としての記録は、移入作物であるため限定的。"
+    },
+    "international": {
+      "en": [
+        "Cabbage",
+        "Heading Cabbage"
+      ],
+      "scientific_common": "Capitata Group"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Kohl, Kraut",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Chou",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Col, Repollo",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Cavolo",
+            "script": "Latin"
+          },
+          {
+            "lang": "pl",
+            "name": "Kapusta",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Капуста",
+            "script": "Cyrillic"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "キャベツ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "卷心菜, 甘蓝",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "양배추",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "पत्ता गोभी",
+            "script": "Devanagari"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "該当なし",
+        "name": "不明",
+        "cultural_significance": "キャベツはヨーロッパ原産であり、多くの先住民文化圏へは植民地時代以降に導入された移入作物であるため、伝統的な先住民言語での名称は限定的か、外来語に由来する。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Mustard genus",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Wild Cabbage",
+      "la": "Brassica oleracea"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "capitata"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の食文化におけるキャベツの役割は広く文書化されている。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ（特に中欧・東欧）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ザワークラウト（ドイツ）、ビゴス（ポーランド）、コルカノン（アイルランド）、ボルシチ（ウクライナ・ロシア）など、発酵食品や煮込み料理の基盤となる冬の重要な保存食。",
+        "seasonal_significance": "秋に収穫し、冬から春にかけての重要なビタミン源。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "炒め物、お好み焼き（日本）、餃子の具（中国）、サラダなど日常的な野菜として広く利用。白菜ほど発酵文化との結びつきは強くない。",
+        "seasonal_significance": "周年供給されるが、冷涼な季節に品質が向上する。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "コールスローとしてサラダ文化に深く根付いている。ヨーロッパ系移民の食文化（Stuffed Cabbageなど）も継承。",
+        "seasonal_significance": "主に夏と秋の作物。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ドイツ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Sauerkraut",
+          "Kohlrouladen"
+        ],
+        "preparation_methods": [
+          "発酵",
+          "煮込み",
+          "ロースト"
+        ],
+        "cultural_context": "国民食の象徴。保存性と栄養価の高さから、歴史的に冬の食生活を支えてきた。"
+      },
+      {
+        "cuisine": "ポーランド料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Bigos",
+          "Gołąbki"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "詰め物"
+        ],
+        "cultural_context": "祝祭料理と家庭料理の両方で中心的な役割を果たす、魂のこもった食材。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャ・ローマ時代から栽培され、薬効と栄養価が評価されていた。",
+      "trade_routes": "ローマ帝国を通じてヨーロッパ全土に拡大。大航海時代には、長期保存性とビタミンC源としての価値から、壊血病予防のために船に積まれた。",
+      "cultural_exchange": "世界各地への移住者と共に伝播し、現地の食文化に適応・統合されてきた。",
+      "domestication_history": "ヨーロッパ沿岸の野生種（Brassica oleracea）から、結球しないケールのような原種を経て、数千年かけて結球性を持つ品種が選抜された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温により結球しないため、商業栽培は不向き。高地冷涼地では可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬作として栽培可能。温暖な気候に適した品種選択が必要。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最も適した気候帯。冷涼な春と秋が最適。15-20℃が生育適温。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "短い夏を持つ地域でも早生品種が栽培可能。霜に強い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "多量の水分を要求するため、灌漑なしでは栽培困難。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高の高い冷涼な夏作地域で栽培可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春、初夏",
+        "harvest_season": "初夏、秋～初冬",
+        "growing_period_days": "60-120"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋",
+        "harvest_season": "冬～早春",
+        "growing_period_days": "70-110"
+      }
+    ],
+    "productivity": {
+      "yield_range": "25,000 - 70,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "気候（特に温度）",
+        "施肥管理",
+        "水管理",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約7,000万トン（2020年頃、キャベツ類計）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 45,
+          "characteristics": "圧倒的な世界最大の生産国。国内消費が中心。"
+        },
+        {
+          "country": "インド",
+          "production_share": 13,
+          "characteristics": "国内市場向けに広範な地域で栽培。"
+        },
+        {
+          "country": "ロシア",
+          "production_share": 4,
+          "characteristics": "伝統的な食文化に根ざし、国内生産が重要。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本的な栄養価は確立されている。機能性成分に関する研究も豊富だが、含有量は品種や栽培条件で変動する。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "25",
+        "protein_g": "1.3",
+        "carbs_g": "5.8",
+        "fat_g": "0.1",
+        "fiber_g": "2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "76 µg",
+          "daily_value_percent": "72"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "36.6 mg",
+          "daily_value_percent": "61"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "43 µg",
+          "daily_value_percent": "11"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート（スルフォラファン前駆体）",
+        "concentration": "品種により変動",
+        "health_effect": "抗酸化作用、抗がん作用の可能性"
+      },
+      {
+        "compound": "アントシアニン（赤キャベツ）",
+        "concentration": "高濃度",
+        "health_effect": "強力な抗酸化作用、心血管保護作用"
+      },
+      {
+        "compound": "インドール-3-カルビノール",
+        "concentration": "不明",
+        "health_effect": "ホルモン代謝調節、抗がん作用の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "抗炎症",
+          "胃潰瘍の緩和",
+          "関節痛の湿布"
+        ],
+        "preparation": "生の葉を湿布として使用、またはジュースを飲用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "豊富なビタミンKによる骨の健康維持",
+        "豊富なビタミンCによる免疫機能サポート"
+      ],
+      "ongoing_research": [
+        "グルコシノレートの含有成分による特定のがんリスク低減効果",
+        "抗炎症作用と腸内環境改善"
+      ],
+      "safety_considerations": "ワルファリンなど抗凝固薬を服用している場合、ビタミンKの摂取量に注意が必要。甲状腺機能に影響を与える可能性が指摘されることがあるが、通常の食事量では問題ないとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理法に関する情報は豊富で、容易にアクセス可能。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界全域",
+        "methods": [
+          "生食（サラダ）",
+          "炒める",
+          "煮る",
+          "蒸す",
+          "発酵",
+          "漬ける"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豚肉",
+          "ベーコン",
+          "じゃがいも",
+          "人参",
+          "りんご",
+          "キャラウェイシード"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乳酸発酵（ザワークラウト）",
+        "regions": [
+          "ヨーロッパ（特にドイツ、ポーランド）"
+        ],
+        "shelf_life": "数ヶ月～1年以上",
+        "quality_changes": "酸味と複雑な風味が増し、プロバイオティクスが豊富になる。ビタミンCが保持される。"
+      },
+      {
+        "method": "低温貯蔵",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "数週間～数ヶ月",
+        "quality_changes": "適切に貯蔵すれば鮮度が保たれるが、徐々に水分が失われ、外葉が傷む。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生では甘く、わずかに辛味（ペッパー様）。加熱すると甘みが増し、柔らかくなる。発酵させると強い酸味が出る。",
+      "aroma_compounds": [
+        "ジメチルスルフィド（加熱時の特有の香り）",
+        "イソチオシアネート（辛味成分）"
+      ],
+      "texture_characteristics": "生ではシャキシャキとした歯ごたえ。加熱時間により、歯ごたえが残る状態から非常に柔らかい状態まで変化する。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性や耐乾性に関する一般的な知見は多いが、品種レベルでの定量的なデータは限定的。将来予測は広域モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30°C以上が続くと結球不良や生育停止のリスクが高まる。",
+      "cold_tolerance": "-5°C程度までの霜には耐える。品種によってはそれ以上の耐寒性を持つ。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。生育には一貫した水分供給が必要。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間中に600-800mm相当の水分が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。強風で葉が傷つくことがあるが、結球部分は比較的保護される。",
+      "hail_damage_recovery": "低い。外葉が損傷すると市場価値が著しく低下する。",
+      "rapid_temperature_change": "低い。急激な高温はチップバーン（心腐れ）を引き起こす。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。他のC3植物と同様に光合成が促進される可能性があるが、栄養価の低下も懸念される。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンは葉の損傷を引き起こす可能性がある。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりコナガ、アオムシなどの害虫の発生世代数が増加し、被害が拡大するリスクが高い。",
+      "disease_resistance_stability": "高温多湿は根こぶ病や黒腐病などの病害の発生を助長する。抵抗性品種の開発が重要。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯全域、亜熱帯の冬作地帯",
+        "2050_projection": "栽培適地がより高緯度・高標高へシフト。現在の主産地では夏作が困難になり、作型の変更が必要となる可能性。",
+        "2100_projection": "シフトがさらに進行。水資源の制約が栽培の大きな制限要因となる地域が増加。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Brassica oleracea内の交雑親和性は非常によく研究されている。種間交雑も研究対象となっている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "ケール",
+        "ブロッコリー",
+        "カリフラワー",
+        "コールラビ",
+        "芽キャベツ"
+      ],
+      "interspecific_compatibility": [
+        "Brassica rapa（ハクサイ、カブ）",
+        "Brassica napus（セイヨウアブラナ）"
+      ],
+      "intergeneric_possibility": [
+        "Raphanus (ダイコン属)との交雑例（ラファノブラシカ）があるが、自然界では稀。"
+      ],
+      "successful_natural_hybrids": "B. oleraceaの異なる品種間では容易に自然交雑が起こる。"
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパを中心に多様な在来品種が存在し、形、色、熟期、耐病性などが異なる。",
+      "wild_gene_pool": "ヨーロッパ大西洋沿岸に現存する野生種（B. oleracea var. oleracea）は、耐塩性や耐病性の遺伝資源として非常に重要。",
+      "adaptive_genetic_variation": "広範な栽培史を通じて、多様な気候や土壌に適応した遺伝的変異が蓄積されている。",
+      "inbreeding_depression_risk": "自家不和合性が強く、他家受精が基本のため、商業育種以外での近交弱勢のリスクは比較的低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ポルトガル",
+        "environmental_pressure": "夏の乾燥と高温",
+        "adaptive_response": "Tronchuda Cabbage (ポルトガルケール) のように結球性が緩く、耐暑性が高い品種が発達。",
+        "time_scale": "数世紀",
+        "mechanism": "地域農家による継続的な選抜。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種や他のBrassica種との交雑により、耐暑性、耐乾性、耐塩性を向上させる可能性がある。",
+      "improved_nutritional_content": "ブロッコリーなどとの交雑により、グルコシノレートなどの機能性成分を増強できる可能性がある。",
+      "novel_characteristics": "葉の形状、色、食感など、新しいタイプの野菜を創出する可能性がある。",
+      "hybrid_vigor_potential": "F1品種で広く利用されており、収量性や均一性の向上に大きく貢献している。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "B. oleracea内では低い。種間・属間では胚珠培養などの技術が必要な場合が多い。",
+      "chromosome_compatibility": "B. oleracea (n=9) 内では問題ない。他のBrassica種とは染色体数が異なるため（Uの三角形理論）、複雑になる。",
+      "fertility_of_hybrids": "種間雑種では不稔や稔性低下が起こることがある。",
+      "backcrossing_success": "戻し交配は有用な遺伝子を導入するために広く用いられる手法。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫圧",
+        "adaptive_traits": "特定の病害虫に対する抵抗性遺伝子",
+        "heritability": "抵抗性形質の多くは高い遺伝率を示す。",
+        "response_to_selection": "抵抗性品種の育成は比較的成功しやすい。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "キャベツ単体でのリジェネラティブ効果の研究は少ないが、アブラナ科作物としての一般的な特性や、輪作体系での役割から推定可能。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的深い主根と広範なひげ根を持ち、土壌の団粒構造を改善する可能性がある。",
+      "organic_matter_contribution": "収穫後の残渣（外葉、根）が多く、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "耕盤を破壊するほどの効果は期待できないが、根の活動が土壌の通気性を改善する。",
+      "erosion_control": "生育中は広い葉で地面を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "グルコシノレートを含む残渣は、特定の土壌病原菌を抑制する「バイオフミゲーション」効果を持つ可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "採種栽培で開花させれば、ハチなどの花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "アブラナ科を好む天敵昆虫（寄生蜂など）の生息地を提供できる。",
+      "soil_microorganism_interaction": "根圏微生物叢との相互作用があるが、その詳細は研究途上。",
+      "above_ground_biodiversity": "モノカルチャー栽培は生物多様性を低下させるが、混植や輪作に組み込むことで向上に貢献できる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "土壌被覆により表面流出を抑え、水の浸透を助ける。",
+      "moisture_retention": "残渣をすき込むことで土壌の保水性が向上する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。品種や栽培密度による。",
+      "below_ground_carbon": "根のバイオマスは比較的大きいが、一年草であるため長期的な炭素貯留は限定的。",
+      "soil_carbon_enhancement": "不耕起栽培やカバークロップとの組み合わせで土壌炭素の増加に貢献できる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科（窒素供給）",
+        "セリ科（ディル、セロリ）やシソ科（ローズマリー）などの芳香植物（害虫忌避）"
+      ],
+      "natural_pest_control": "コンパニオンプランツが害虫の天敵を誘引する。",
+      "nutrient_sharing": "限定的。",
+      "allelopathic_interactions": "アブラナ科作物は他の植物の生育を抑制するアレロパシー効果を持つことがある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系の重要な構成要素となり、連作障害を回避し、土壌病害のサイクルを断ち切ることでシステムの安定性に貢献する。",
+      "stress_tolerance": "単体でのストレス耐性は高くないが、多様な生態系の中では緩衝される。",
+      "recovery_capacity": "不明",
+      "adaptability": "多様な品種が存在するため、システムへの適応性は高い。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食品市場におけるキャベツの位置づけは明確。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーで栄養豊富なため、植物中心の食生活において重要な役割を担う。",
+      "food_security_contribution": "単位面積当たりの収量性が高く、貯蔵も可能なため、食料安全保障への貢献度は高い。",
+      "local_food_system_integration": "世界中の多様な気候帯で栽培可能であり、地産地消に適している。",
+      "alternative_protein_potential": "低い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによる機能性食品としての需要増",
+        "サラダキットやカット野菜などの利便性の高い加工品市場"
+      ],
+      "value_added_products": [
+        "コールスローミックス",
+        "ザワークラウト",
+        "キムチ",
+        "キャベツジュース",
+        "健康補助食品（エキス）"
+      ],
+      "niche_market_value": "紫キャベツやサボイキャベツ、 heirloom（伝統）品種は、特色ある食材としてニッチ市場で価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは認識されているが、地域レベルでの保全状況のデータは断片的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生の近縁種（Brassica oleracea var. oleracea）は、ヨーロッパ沿岸の開発により生息地が脅かされている。",
+    "climate_change_vulnerability": "栽培品種は気候変動に脆弱な側面を持つため、適応性の高い遺伝資源の保全が急務。",
+    "cultural_erosion_risk": "商業的なF1品種への移行により、各地域で伝統的に栽培されてきた在来品種（landrace）が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来品種のジーンバンクでの系統的収集と保存（ex-situ）",
+      "農家による種子保存と栽培の奨励（in-situ/on-farm）",
+      "野生近縁種の生息地の保護"
+    ],
+    "priority_conservation_regions": [
+      "地中海地域",
+      "ヨーロッパ大西洋沿岸"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数の品種が保存されているが、網羅性は完全ではない。",
+    "in_situ_conservation_efforts": "ヨーロッパのいくつかの地域で、在来品種の保全を目的とした小規模なプロジェクトが存在する。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "キャベツの世界的な重要性に基づいた総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ヨーロッパの在来品種分布地域",
+      "気候変動の影響を強く受ける亜熱帯栽培地域"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温・乾燥）に対する品種レベルでの生理的応答メカニズム",
+      "在来品種が持つ有用な遺伝的特性の網羅的評価"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "広く知られた品種の情報。"
+      },
+      "variety_name": "Savoy Cabbage",
+      "local_name": "Wirsing (de), Chou de Milan (fr)",
+      "origin_region": "イタリア・サヴォイア地方",
+      "distinctive_characteristics": "葉が縮れており、質感が柔らかい。風味は穏やかで甘みが強い。",
+      "cultural_importance": "煮込み料理や詰め物料理（ロールキャベツ）に特に適しており、ヨーロッパで高く評価されている。",
+      "climate_adaptation": "耐寒性が非常に高い。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "広く知られた品種の情報。"
+      },
+      "variety_name": "Red Cabbage",
+      "local_name": "Rotkohl (de), Chou Rouge (fr)",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "アントシアニン色素により葉が紫色。質感は硬めで、加熱すると色が変化することがある（酸で赤、アルカリで青に）。",
+      "cultural_importance": "彩りとしてサラダやピクルスに利用される。ドイツではクリスマスの伝統料理。",
+      "climate_adaptation": "一般的な緑色キャベツに準じる。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "広く知られた品種の情報。"
+      },
+      "variety_name": "Copenhagen Market",
+      "local_name": "Københavns Torve (da)",
+      "origin_region": "デンマーク",
+      "distinctive_characteristics": "早生で、コンパクトな丸い球を形成する。古典的な緑色キャベツの代表品種。",
+      "cultural_importance": "20世紀初頭に開発され、世界中の商業生産の基準となった歴史的に重要な品種。",
+      "climate_adaptation": "冷涼な気候を好む。",
+      "conservation_status": "伝統品種として保存、栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "Plants of the World Online (Kew Science)",
+      "GRIN-Global Taxonomy",
+      "Relevant academic literature on Brassicaceae genetics and agronomy"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界中の在来品種の網羅的な遺伝資源評価"
+    ],
+    "regional_data_coverage": "ヨーロッパ、北米、東アジアのデータは豊富。アフリカ、南米、オセアニアに関する文化・栽培データは比較的少ない。",
+    "missing_information": [
+      "多くの地域での在来品種の文化的利用の詳細",
+      "先住民コミュニティによる導入後の適応と利用法"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

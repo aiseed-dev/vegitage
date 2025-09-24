@@ -1,0 +1,511 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "植物学、園芸学的な基本情報は豊富だが、伝統野菜としての食利用に関する情報は極めて限定的。主に観賞用植物として扱われるため、本データもその特性を反映している。"
+    },
+    "primary_name": "China Aster",
+    "scientific_name": "Callistephus chinensis",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "花",
+      "根"
+    ],
+    "origin_region": "中国北部、朝鮮半島",
+    "wild_relatives": [
+      "Callistephus chinensis (野生種)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界的に普及した観賞用植物であるため、各言語での名称は豊富に存在する。"
+    },
+    "international": {
+      "en": [
+        "China Aster",
+        "Annual Aster"
+      ],
+      "scientific_common": "Callistephus"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "エゾギク",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "翠菊",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "과꽃",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Reine-Marguerite",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Sommeraster",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Астра однолетняя",
+            "script": "Cyrillic"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類学的位置は確立されている。Callistephus属は本種のみを含む一属一種である。"
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "China aster",
+      "la": "Callistephus"
+    },
+    "species": {
+      "en": "China aster",
+      "la": "chinensis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "観賞用、儀礼用としての文化的価値は高いが、食文化における重要性はほぼない。データは園芸文化と民族植物学（薬用）に偏る。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "中国では古くから観賞用に栽培。日本では盆の花として仏前に供える習慣がある。伝統中国医学では根や全草が薬用とされる。",
+        "seasonal_significance": "夏から秋にかけての季節を象徴する花。特に日本ではお盆の時期に重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "18世紀に中国から導入後、主に切り花や花壇用の観賞植物として広く普及。特にドイツやフランスで品種改良が盛んに行われた。",
+        "seasonal_significance": "夏の終わりから秋の庭園を彩る花として定着。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [],
+    "historical_significance": {
+      "antiquity": "中国では少なくとも数百年以上の栽培史がある。薬用としての利用はさらに古い可能性がある。",
+      "trade_routes": "18世紀にイエズス会宣教師によって中国からフランスへ種子がもたらされ、ヨーロッパ全土へ普及した。",
+      "cultural_exchange": "東西の園芸文化交流を象徴する植物の一つ。ヨーロッパでの多様な品種改良が、後に世界中に広まった。",
+      "domestication_history": "中国の野生種から選抜育種され、観賞価値の高い多様な園芸品種が作出された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、病害が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季または乾季の涼しい時期に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりと水はけの良い土壌を好む。春に播種し、夏から秋に開花するのが一般的。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の冷涼な気候に適するが、霜には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "定期的な灌漑が必要であり、乾燥には強くない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春 (4-5月)",
+        "harvest_season": "夏〜秋 (7-10月)",
+        "growing_period_days": "90-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "フザリウム立ち枯れ病やアスター黄化病などの病害",
+        "日照時間",
+        "土壌の水はけ",
+        "連作障害"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "原産地であり、種子生産と国内消費が盛ん。"
+        },
+        {
+          "country": "オランダ",
+          "production_share": "不明",
+          "characteristics": "世界的な種子貿易と切り花生産の拠点。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "切り花としての需要が高く、特に盆花として大規模に生産される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用としての利用が一般的でないため、栄養価に関するデータは存在しない。機能性成分は主に花の色素に関する研究に限られる。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントシアニン",
+        "concentration": "花弁に豊富（品種による）",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "花、葉に含有",
+        "health_effect": "抗酸化作用、抗炎症作用の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "鎮咳",
+          "去痰",
+          "解毒"
+        ],
+        "preparation": "根を乾燥させて煎じる（紫菀茸）。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "花弁に含まれる色素の抗酸化活性",
+        "伝統的薬効成分の同定"
+      ],
+      "safety_considerations": "食用としての安全性は確立されていない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "none",
+      "confidence_level": "low",
+      "source_comment": "伝統野菜としての体系的な料理利用は確認できない。観賞用が主であり、食用利用は例外的または記録にない。"
+    },
+    "global_cooking_methods": [],
+    "processing_preservation": [],
+    "flavor_characteristics": {
+      "taste_profile": "不明",
+      "aroma_compounds": [],
+      "texture_characteristics": "不明"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "園芸栽培における経験的知見が主であり、気候変動への応答に関する定量的な研究は乏しい。病害感受性が高く、温暖化によるリスク増大が懸念される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上で生育不良、病害多発",
+      "cold_tolerance": "0°C以下で枯死（耐霜性なし）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "適度な湿度を好むが、過湿は根腐れの原因となる。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が細く倒れやすい。",
+      "hail_damage_recovery": "低い。",
+      "rapid_temperature_change": "ストレスを受けやすい。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によるアブラムシ等の増加でウイルス病のリスク増大が懸念される。",
+      "disease_resistance_stability": "フザリウム等土壌病害への抵抗性が低く、温暖化・多雨化でリスク増大。",
+      "beneficial_organism_relationships": "花は多様な訪花昆虫を引き寄せる。"
+    },
+    "future_suitability_zones": [],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "一属一種であるため他種との自然交雑は起こらない。しかし、種内の遺伝的多様性は高く、人為選抜による適応育種のポテンシャルは存在する。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の園芸品種間で交雑が容易。"
+      ],
+      "interspecific_compatibility": [
+        "不可能"
+      ],
+      "intergeneric_possibility": [
+        "不可能"
+      ],
+      "successful_natural_hybrids": []
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中国の原産地には多様な野生集団が存在する可能性がある。",
+      "wild_gene_pool": "中国の野生集団は、病害抵抗性などの有用な遺伝子供給源として重要。",
+      "adaptive_genetic_variation": "園芸品種は主に花の色や形質で選抜されており、環境適応に関する遺伝変異は限定的かもしれない。",
+      "inbreeding_depression_risk": "自家不和合性があり、他家受精が主であるためリスクは低い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交配により、耐病性や耐暑性の向上が期待される（育種目標）。",
+      "improved_nutritional_content": "食用の観点からは不明。",
+      "novel_characteristics": "花の色、形、大きさ、草丈など、観賞形質に関する新規性は常に追求されている。",
+      "hybrid_vigor_potential": "高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほとんどない。",
+      "chromosome_compatibility": "種内では問題ない。",
+      "fertility_of_hybrids": "種内では問題ない。",
+      "backcrossing_success": "高い。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 4
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "一年草の観賞用植物として、リジェネラティブ農業への貢献に関する研究はほぼない。訪花昆虫への貢献が最大の評価点。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がるひげ根。",
+      "organic_matter_contribution": "限定的。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "限定的。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期が長く、ミツバチ、チョウ、アブなど多様な花粉媒介者を引き寄せる。生態系サービスへの貢献度は高い。",
+      "beneficial_insect_habitat": "アブラムシが発生しやすいため、テントウムシなどの天敵昆虫の生息地となりうる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "高い（訪花昆虫の多様性）。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "限定的。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。",
+      "below_ground_carbon": "低い。",
+      "soil_carbon_enhancement": "限定的。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "訪花昆虫を呼び寄せるため、果菜類などの受粉を助けるバンカープランツとして利用可能。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "連作障害があることから、何らかのアレロパシー効果を持つ可能性が示唆される。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "生物多様性（特に送粉者）の向上に貢献しうる。",
+      "stress_tolerance": "低い。",
+      "recovery_capacity": "低い。",
+      "adaptability": "低い。"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主に園芸・花卉産業における価値が中心。食品としての応用は現時点ではない。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "該当しない。",
+      "food_security_contribution": "該当しない。",
+      "local_food_system_integration": "地域の花卉生産や、アグロツーリズムにおける景観植物としての役割。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "耐病性品種の開発",
+        "ユニークな花色・花形の品種開発",
+        "天然色素の抽出利用"
+      ],
+      "value_added_products": [
+        "切り花",
+        "鉢物",
+        "種子"
+      ],
+      "niche_market_value": "エディブルフラワーとしての利用は未開拓だが、安全性が確認されれば可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "野生種の保全状況に関する体系的なデータは不足している。園芸品種の多様性は高いが、商業的な均一化による遺伝的侵食が懸念される。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "中国の野生種の自生地における開発圧。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "低",
+    "conservation_actions_needed": [
+      "中国における野生集団の生息域内保全",
+      "世界各地の植物園やジーンバンクによる野生種および伝統的園芸品種の系統保存（域外保全）"
+    ],
+    "priority_conservation_regions": [
+      "中国北部"
+    ],
+    "ex_situ_conservation_status": "主要な植物園や種子バンクで多数の園芸品種が保存されている。",
+    "in_situ_conservation_efforts": "不明"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家の視点からの統合的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "中国（野生種の生態と遺伝的多様性）",
+      "日本（盆花としての文化人類学的研究）"
+    ],
+    "knowledge_gaps": [
+      "食用・薬用利用の民族植物学的再調査",
+      "気候変動に対する生理学的応答の定量的データ",
+      "野生種の遺伝的多様性と保全状況"
+    ],
+    "global_dictionary_compatibility": 7
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種群に関する情報。"
+      },
+      "variety_name": "Pompon Series",
+      "local_name": "ポンポン咲き",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "小さく丸いボール状の花を多数つける。花弁が密に重なる。",
+      "cultural_importance": "切り花や花壇で人気が高い。",
+      "climate_adaptation": "標準的。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種群に関する情報。"
+      },
+      "variety_name": "Ostrich Plume Series",
+      "local_name": "オーストリッチフェザー",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "ダチョウの羽のように、花弁が緩やかに内側に湾曲する大輪の花。",
+      "cultural_importance": "豪華な切り花として利用される。",
+      "climate_adaptation": "標準的。",
+      "conservation_status": "広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew (Plants of the World Online)",
+      "GRIN-Global (USDA National Plant Germplasm System)",
+      " ethnobotanical databases",
+      "horticultural science literature"
+    ],
+    "major_knowledge_gaps": [
+      "伝統野菜としての利用実態",
+      "栄養成分データ",
+      "気候変動ストレス（耐暑性、耐乾性）に関する定量的データ",
+      "野生種の保全状況"
+    ],
+    "regional_data_coverage": "東アジア、ヨーロッパ、北米の園芸情報に偏っており、他の地域での利用に関するデータは乏しい。",
+    "missing_information": [
+      "食味プロファイル",
+      "調理法",
+      "南半球での栽培サイクル"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

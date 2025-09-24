@@ -1,0 +1,706 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is well-documented in major botanical, ethnobotanical, and agricultural databases. The recent reclassification from Rosmarinus officinalis to Salvia rosmarinus is reflected."
+    },
+    "primary_name": "Rosemary",
+    "scientific_name": "Salvia rosmarinus",
+    "plant_type": "木本",
+    "edible_parts": [
+      "葉",
+      "花"
+    ],
+    "origin_region": "地中海地域",
+    "wild_relatives": [
+      "Salvia spp. (Numerous species within the Salvia genus in the Mediterranean basin)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are widely documented due to its global culinary and cultural significance."
+    },
+    "international": {
+      "en": [
+        "Rosemary"
+      ],
+      "scientific_common": "Rosmarinus officinalis (former name, still widely used)"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Rosmarino",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Romero",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Romarin",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Rosmarin",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Alecrim",
+            "script": "Latn"
+          },
+          {
+            "lang": "el",
+            "name": "Δεντρολίβανο (Dendrolivano)",
+            "script": "Grek"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "إكليل الجبل (Iklil al-jabal)",
+            "script": "Arab"
+          },
+          {
+            "lang": "tr",
+            "name": "Biberiye",
+            "script": "Latn"
+          },
+          {
+            "lang": "he",
+            "name": "רוזמרין (Rozmarin)",
+            "script": "Hebr"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ローズマリー (Rōzumarī), マンネンロウ (Mannennrō)",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "迷迭香 (Mídiéxiāng)",
+            "script": "Hans"
+          },
+          {
+            "lang": "ko",
+            "name": "로즈마리 (Rojeumari)",
+            "script": "Kore"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "地中海沿岸の伝統的コミュニティ",
+        "name": "不明",
+        "cultural_significance": "古代ギリシャ・ローマ時代から記憶、忠誠、愛の象徴とされ、儀式（結婚式、葬儀）で広く使用された。悪霊を払うと信じられ、お守りとしても用いられた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification is based on modern phylogenetic analysis (APG IV system), which led to its inclusion in the Salvia genus."
+    },
+    "family": {
+      "en": "Mint family",
+      "la": "Lamiaceae"
+    },
+    "genus": {
+      "en": "Sage",
+      "la": "Salvia"
+    },
+    "species": {
+      "en": "Rosemary",
+      "la": "S. rosmarinus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivar Group",
+        "name": "Numerous cultivars exist, e.g., 'Arp', 'Tuscan Blue', 'Prostratus'"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural history is extensively documented from ancient times, particularly in European history and literature."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "儀式用",
+          "経済作物",
+          "香辛料"
+        ],
+        "traditional_uses": "古代から記憶力を高めるハーブとして知られ、学者や学生が使用。結婚式では愛の象徴、葬儀では追憶の象徴として使われる。肉の保存や香りづけに不可欠。",
+        "seasonal_significance": "常緑であるため、冬の祭り（クリスマスなど）で生命の象徴として飾られることがある。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ (北部・西部)",
+        "importance_level": 4,
+        "cultural_roles": [
+          "香辛料",
+          "庭園植物",
+          "薬用"
+        ],
+        "traditional_uses": "ローマ人によって伝えられ、修道院の薬草園で栽培された。民間療法で防腐、消化促進に利用。現代では料理、特にロースト料理の香りづけに広く使われる。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Focaccia al rosmarino",
+          "Arrosto (ロースト肉)",
+          "Patate al forno (ローストポテト)"
+        ],
+        "preparation_methods": [
+          "Roasting",
+          "Grilling",
+          "Infusing oil"
+        ],
+        "cultural_context": "イタリアの家庭料理と郷土料理に深く根付いており、特にトスカーナ地方の料理では象徴的な存在。"
+      },
+      {
+        "cuisine": "フランス料理 (特にプロヴァンス)",
+        "role": "essential",
+        "traditional_dishes": [
+          "Agneau de Provence (プロヴァンス風ラム)",
+          "Herbes de Provence (ハーブミックスの主成分)"
+        ],
+        "preparation_methods": [
+          "Stewing",
+          "Grilling",
+          "Marinating"
+        ],
+        "cultural_context": "プロヴァンスの風景と料理を象徴するハーブの一つ。その香りは地域のアイデンティティと結びついている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプトの墓から発見されており、ギリシャやローマでは神聖な植物とされた。記憶力を高める効果があるとされ、学問の象徴でもあった。",
+      "trade_routes": "中世には修道士によってヨーロッパ中に広められた。大航海時代以降、新世界にも伝えられた。",
+      "cultural_exchange": "ローマ帝国を通じてヨーロッパ全土に普及。その薬効と香りは、各地の民間療法や料理に取り入れられた。",
+      "domestication_history": "地中海沿岸で自生していたものが古くから利用され、選択的な栽培を通じて多様な品種が生まれた。明確な栽培化の起源は不明だが、数千年の利用史を持つ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、根腐れしやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌と十分な日照があれば良好に生育。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "温暖で日当たりの良い場所を好む。耐寒性は品種によるが、-10℃程度まで耐えるものもある。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "厳しい冬の寒さには耐えられないことが多い。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "原産地であり、乾燥した気候に非常に強い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と湿潤な土壌には不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯・亜熱帯",
+        "planting_season": "春または秋",
+        "harvest_season": "通年（生育が活発な春〜夏が最適）",
+        "growing_period_days": "永年性植物のため、定植後1年から収穫可能"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産では精油収量が指標となることが多い）",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌の水はけ",
+        "品種",
+        "刈り込み頻度",
+        "気温"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "スペイン",
+          "production_share": "不明",
+          "characteristics": "乾燥ハーブおよび精油の主要生産国。広大な栽培地を持つ。"
+        },
+        {
+          "country": "モロッコ",
+          "production_share": "不明",
+          "characteristics": "精油生産で重要な位置を占める。野生および栽培品が利用される。"
+        },
+        {
+          "country": "チュニジア",
+          "production_share": "不明",
+          "characteristics": "精油生産が盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な機能性成分に関する研究は豊富だが、スパイスとして少量使用されるため、マクロ栄養素のデータは参考値。品種や栽培条件による成分変動のデータは限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "131",
+        "protein_g": "3.3",
+        "carbs_g": "20.7",
+        "fat_g": "5.9",
+        "fiber_g": "14.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "鉄",
+          "amount": "6.65 mg",
+          "daily_value_percent": "37%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "317 mg",
+          "daily_value_percent": "32%"
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "0.336 mg",
+          "daily_value_percent": "17%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "カルノシン酸 (Carnosic acid)",
+        "concentration": "可変",
+        "health_effect": "強力な抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "ロスマリン酸 (Rosmarinic acid)",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用、抗炎症作用、抗アレルギー作用"
+      },
+      {
+        "compound": "カンファー (Camphor)",
+        "concentration": "可変",
+        "health_effect": "血行促進作用、鎮痛作用、防虫作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統的西洋ハーブ療法",
+        "uses": [
+          "消化促進",
+          "記憶力・集中力の向上",
+          "頭痛緩和",
+          "筋肉痛の緩和"
+        ],
+        "preparation": "ハーブティー、チンキ剤、湿布、精油の吸入・塗布"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "強力な抗酸化作用",
+        "抗炎症作用",
+        "抗菌・抗ウイルス作用",
+        "認知機能改善の可能性"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "血糖コントロール",
+        "神経保護作用"
+      ],
+      "safety_considerations": "大量摂取は胃腸障害や腎臓への刺激を引き起こす可能性。妊娠中・授乳中の多量摂取は避けるべき。精油の経口摂取は危険。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究で広く記述されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "ロースト",
+          "グリル",
+          "煮込み",
+          "マリネ",
+          "パン生地への練り込み"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ラム肉",
+          "豚肉",
+          "鶏肉",
+          "じゃがいも",
+          "豆類",
+          "オリーブオイル",
+          "ニンニク"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "ロースト (特に感謝祭の七面鳥)",
+          "グリル",
+          "スープやソースの香りづけ"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "家禽類",
+          "パン",
+          "根菜類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥 (Drying)",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-3年",
+        "quality_changes": "香りがより濃縮され、ウッディなニュアンスが強まる。新鮮なものの持つ爽やかさは減少する。"
+      },
+      {
+        "method": "オイル/ビネガー漬け (Infusion)",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "オイルやビネガーにローズマリーの香りが移り、風味付けに利用しやすくなる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "松のような、ウッディ、カンファー様、コショウのような、わずかに苦味と収斂性がある",
+      "aroma_compounds": [
+        "1,8-シネオール",
+        "カンファー",
+        "α-ピネン",
+        "ボルネオール"
+      ],
+      "texture_characteristics": "生の葉は硬く針状。加熱すると柔らかくなるが、食感は残る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性は定性的に広く知られているが、気候変動シナリオ下での生理学的応答に関する定量的な研究は限定的。評価は主にその生態学的特性に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上の高温にも耐えるが、極端な熱波では成長が阻害される可能性がある。",
+      "cold_tolerance": "-5℃から-12℃（品種により異なる）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い。 CAM植物ではないが、革質の葉やクチクラ層が水分の蒸散を防ぐ。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "400-800mm（水はけが良ければより少なくても可）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（木質化した茎は強風に耐えるが、根が浅いと倒れる可能性）",
+      "hail_damage_recovery": "中（葉や若い茎は損傷するが、木質部から再生する能力がある）",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的にC3植物はCO2濃度上昇で光合成が促進される可能性がある）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（精油成分が紫外線からの保護に関与している可能性）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "精油成分が多くの害虫を忌避するため、温暖化による害虫増加に対して一定の抵抗性を持つ可能性がある。",
+      "disease_resistance_stability": "高温多湿環境ではうどんこ病や根腐れのリスクが増大する可能性。",
+      "beneficial_organism_relationships": "温暖化で活動が活発になる花粉媒介者（ミツバチなど）との関係は強化される可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海性気候地域、温帯南部",
+        "2050_projection": "現在の栽培適地が北上し、より高緯度地域（英国南部、ドイツなど）での露地栽培が容易になる可能性がある。",
+        "2100_projection": "地中海南部では極端な熱波と干ばつによりストレスが増大する可能性がある。一方、北欧の一部まで栽培可能域が広がるかもしれない。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Salvia属への再分類により、同属他種との交雑可能性が示唆される。自然交雑の実例に関する具体的な報告は少ないが、属の多様性を考えるとポテンシャルは高い。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多くの栽培品種間で容易に交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "同じSalvia属の近縁種（特に地中海原産の種）との交雑可能性が理論的に存在する。"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "地中海地域の自生集団には、形態（立性、匍匐性）や精油成分に高い多様性が見られる。",
+      "wild_gene_pool": "野生集団が遺伝子資源の重要なリザーバーとなっている。",
+      "adaptive_genetic_variation": "様々な微気候に適応した地域個体群が存在し、高い適応的遺伝変異が示唆される。",
+      "inbreeding_depression_risk": "自家不和合性ではないため、小規模な孤立集団ではリスクがあるかもしれない。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "地中海沿岸の石灰岩質の崖",
+        "environmental_pressure": "強風、塩害、極度の乾燥、貧栄養土壌",
+        "adaptive_response": "匍匐性の樹形、小さく硬い革質の葉、深い根系",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による局所適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他の乾燥・耐熱性Salvia種との交雑により、耐性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "精油成分の組成変化、花の色や形の変化、耐寒性の向上などが期待できる。",
+      "hybrid_vigor_potential": "高い可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Salvia属内でも亜属や節が異なると交雑障壁が存在する可能性がある。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": [
+          "深い根系",
+          "クチクラ層が厚い葉",
+          "気孔の制御能力"
+        ],
+        "heritability": "中〜高",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "定性的な利点は広く認識されているが、炭素隔離率などの定量的なデータは少ない。評価は植物の生態学的特性に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く、木質の根系を持ち、土壌を安定させる。",
+      "organic_matter_contribution": "落葉により土壌表面に有機物を供給するが、分解は遅い。",
+      "soil_structure_improvement": "根が土壌の団粒構造を維持する。",
+      "erosion_control": "常緑の低木であるため、特に傾斜地での土壌侵食防止に効果的。",
+      "nutrient_cycling_role": "深層の養分を吸い上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチ、マルハナバチ、その他の花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "クモや捕食性カメムシなどの天敵昆虫に隠れ家を提供する。",
+      "soil_microorganism_interaction": "根圏で特定の菌根菌と共生関係を築く。",
+      "above_ground_biodiversity": "年間を通じて緑を提供し、小動物や昆虫の生息地となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌の浸透性を改善する。",
+      "moisture_retention": "土壌表面を覆うことで水分の蒸発を抑制する。",
+      "runoff_reduction": "キャノピーが雨滴の衝撃を和らげ、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "木質低木として、草本植物よりも多くの炭素を地上部に固定する。",
+      "below_ground_carbon": "広範で深い根系に長期間炭素を貯留する。",
+      "soil_carbon_enhancement": "根の代謝回転と分解を通じて土壌有機炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "キャベツ",
+        "ニンジン",
+        "インゲンマメ"
+      ],
+      "natural_pest_control": "強い香りがモンシロチョウやニンジンサビバエなどの害虫を忌避する効果があるとされる。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を抑制するアレロパシー効果が報告されている場合があるため、注意が必要。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、土壌を恒久的に被覆し、生態系を安定させる。",
+      "stress_tolerance": "干ばつや貧栄養土壌に対する高いストレス耐性を持つ。",
+      "recovery_capacity": "刈り込みや軽微な損傷からの回復力が高い。",
+      "adaptability": "多様な土壌条件に適応する能力がある。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食品、化粧品、健康食品業界での利用が活発で、市場データや研究も豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "香辛料として食生活を豊かにし、減塩にも貢献できる。",
+      "food_security_contribution": "痩せ地や乾燥地でも栽培可能であり、限界地の活用に貢献できる。",
+      "local_food_system_integration": "家庭菜園や小規模農家で容易に栽培でき、地域の食料自給率向上に貢献。",
+      "alternative_protein_potential": "該当しない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "天然抗酸化剤としての食品保存料",
+        "機能性食品・サプリメント",
+        "自然由来の化粧品原料",
+        "アロマセラピー市場"
+      ],
+      "value_added_products": [
+        "エッセンシャルオイル",
+        "ハーブティー",
+        "抽出エキス（食品添加物）",
+        "ローズマリー風味の塩やオリーブオイル"
+      ],
+      "niche_market_value": "オーガニック栽培や特定の地域原産（例：プロヴァンス産）のローズマリーは高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としては絶滅の危機に瀕していないが、野生集団の遺伝的多様性の保全に関するデータは限られている。"
+    },
+    "genetic_erosion_risk": "中（商業栽培では少数の優良品種に集中する傾向があり、地域の在来種の遺伝的浸食が懸念される）",
+    "habitat_loss_threat": "地中海沿岸の開発や観光化による自生地の破壊。",
+    "climate_change_vulnerability": "南限の個体群は、極端な干ばつと熱波の頻発により脆弱性が増す可能性がある。",
+    "cultural_erosion_risk": "低（世界的に利用が定着しているため）",
+    "conservation_actions_needed": [
+      "野生集団の遺伝的多様性のモニタリングと評価",
+      "地域の在来種やランドレースの種子保存（ジーンバンク）",
+      "自生地の保全"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸の多様性ホットスポット"
+    ],
+    "ex_situ_conservation_status": "多くの植物園や種子銀行で栽培品種が保存されているが、野生集団の網羅的な収集は不十分。",
+    "in_situ_conservation_efforts": "一部の自生地は国立公園や保護区に含まれている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価は、その広範な文化的・生態学的価値に基づいている。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中（特に品種別の気候変動応答とリジェネラティブ農業での定量的評価）",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "地中海地域（野生集団の遺伝的多様性調査）",
+      "乾燥・半乾燥地域（気候変動適応型農業システムへの導入研究）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2濃度上昇、異常気象）に対する品種レベルでの生理学的応答",
+      "炭素隔離能力の定量的評価",
+      "Salvia属他種との自然交雑の実態"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種の情報は広く利用可能。"
+      },
+      "variety_name": "'Arp'",
+      "local_name": "Arp",
+      "origin_region": "アメリカ合衆国テキサス州",
+      "distinctive_characteristics": "非常に高い耐寒性（-20℃程度まで耐える）を持つ立性の品種。",
+      "cultural_importance": "寒冷地でのローズマリー栽培を可能にした重要な園芸品種。",
+      "climate_adaptation": "耐寒性に優れる。",
+      "conservation_status": "広く栽培されており、保全上の懸念はない。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種の情報は広く利用可能。"
+      },
+      "variety_name": "'Prostratus' / 'Creeping'",
+      "local_name": "匍匐性ローズマリー",
+      "origin_region": "地中海地域",
+      "distinctive_characteristics": "地面を這うように成長する匍匐性の品種。崖や斜面で自生していたものから選抜された。",
+      "cultural_importance": "グランドカバーや擁壁、ハンギングバスケットなどに利用される。",
+      "climate_adaptation": "乾燥、強風、塩害に強い。",
+      "conservation_status": "広く栽培されており、保全上の懸念はない。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew (Plants of the World Online)",
+      "USDA National Nutrient Database",
+      "Ethnobotanical literature",
+      "Peer-reviewed journals on agriculture and plant science"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動シナリオに対する品種レベルでの定量的応答データ",
+      "リジェネラティブ農業システムにおける炭素隔離や土壌改良効果の定量的データ",
+      "野生集団における遺伝的多様性の詳細な地理的分布"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米の情報は豊富だが、他の地域での伝統的利用に関する情報は比較的少ない。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "自然交雑に関する実証的研究"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

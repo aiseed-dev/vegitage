@@ -1,0 +1,563 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "植物学的基本情報は確立されているが、野生種との正確な関係性については研究が進行中。"
+    },
+    "primary_name": "Myoga",
+    "scientific_name": "Zingiber mioga",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "花穂",
+      "若茎"
+    ],
+    "origin_region": "東アジア（日本、朝鮮半島、中国）",
+    "wild_relatives": [
+      "Zingiber officinale (ショウガ)",
+      "Zingiber zerumbet"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジアでの名称は明確だが、それ以外の地域での認知度は非常に低く、確立された名称は少ない。"
+    },
+    "international": {
+      "en": [
+        "Myoga",
+        "Myoga ginger",
+        "Japanese ginger"
+      ],
+      "scientific_common": "Zingiber mioga"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ミョウガ",
+            "script": "カタカナ/漢字"
+          },
+          {
+            "lang": "ko",
+            "name": "양하",
+            "script": "ハングル"
+          },
+          {
+            "lang": "zh",
+            "name": "茗荷",
+            "script": "漢字"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な分類。"
+    },
+    "family": {
+      "en": "Ginger family",
+      "la": "Zingiberaceae"
+    },
+    "genus": {
+      "en": "Ginger",
+      "la": "Zingiber"
+    },
+    "species": {
+      "en": "Myoga",
+      "la": "Z. mioga"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "日本における文化的価値の情報は豊富だが、他の地域での情報は極めて限定的。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "日本",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬味"
+        ],
+        "traditional_uses": "夏の香味野菜（薬味）として、そうめん、冷奴、味噌汁、天ぷらなどに広く利用される。独特の香りと食感が清涼感を与える。甘酢漬けなどの保存食としても重要。",
+        "seasonal_significance": "初夏から秋にかけて収穫され、日本の夏の食文化に不可欠な要素となっている。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "韓国",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "양하 (yangha) と呼ばれ、キムチや漬物、炒め物などに利用されることがあるが、日本ほど一般的ではない。地域的な利用に留まる。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "不明"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "そうめんの薬味",
+          "冷奴の薬味",
+          "みょうがの味噌汁",
+          "みょうがの甘酢漬け",
+          "みょうがの天ぷら"
+        ],
+        "preparation_methods": [
+          "生食（刻む）",
+          "漬ける",
+          "揚げる",
+          "汁物の具"
+        ],
+        "cultural_context": "夏の訪れを告げる食材として、季節感を表現するために重要な役割を果たす。独特の香りが食欲を増進させるとされる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本での利用は古く、平安時代の文献にも記述が見られる。ただし、古代の文献とされる『古事記』などでの言及は後世の解釈であり確証はない。",
+      "trade_routes": "国際的な交易品としての歴史的役割は確認されていない。",
+      "cultural_exchange": "東アジア内での限定的な文化交流の中で伝播したと考えられる。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、日本の庭先などで古くから栄養繁殖により維持されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には弱く、根茎が腐敗しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "夏期の高温と乾燥を避ける管理が必要。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "半日陰で湿潤な腐植質に富む土壌が最適。夏は涼しく、冬は地上部が枯れるが地下茎で越冬する。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さと夏の乾燥に対応できない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に極めて弱いため、栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため、栽培は困難。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（日本）",
+        "planting_season": "3月-4月（地下茎の植え付け）",
+        "harvest_season": "6月-8月（夏みょうが）、8月-10月（秋みょうが）",
+        "growing_period_days": "植え付けから収穫まで約90-120日"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産データは限定的）",
+      "factors_affecting_yield": [
+        "日照条件（半日陰が最適）",
+        "土壌水分",
+        "夏季の気温",
+        "株の密度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（推定数万トン）",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": "99%以上",
+          "characteristics": "高知県が最大の生産地。ハウス栽培による周年供給も行われているが、露地栽培が主。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価データは存在するが、機能性成分に関する科学的研究は限定的。伝統的知識が中心。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "12",
+        "protein_g": "0.9",
+        "carbs_g": "2.6",
+        "fat_g": "0.1",
+        "fiber_g": "2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "210mg",
+          "daily_value_percent": "6%"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.36mg",
+          "daily_value_percent": "18%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "α-ピネン",
+        "concentration": "不明",
+        "health_effect": "香り成分。リラックス効果、血行促進、抗菌作用などが示唆されている。"
+      },
+      {
+        "compound": "ミオガジアール",
+        "concentration": "不明",
+        "health_effect": "抗菌作用が報告されている。"
+      },
+      {
+        "compound": "アントシアニン",
+        "concentration": "可変（赤色の部分）",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "日本",
+        "medical_system": "民間療法",
+        "uses": [
+          "食欲増進",
+          "発汗促進",
+          "血行改善",
+          "口内炎の緩和"
+        ],
+        "preparation": "生食、または煎じて利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗菌作用",
+        "抗酸化作用"
+      ],
+      "safety_considerations": "通常食する量では安全とされるが、過剰摂取に関するデータはない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "日本での利用法は豊富に記録されているが、他地域での情報は非常に少ない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "生食（刻み）",
+          "酢漬け",
+          "天ぷら",
+          "味噌汁",
+          "炒め物",
+          "炊き込みご飯"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "豆腐",
+          "そうめん",
+          "そば",
+          "なす",
+          "きゅうり",
+          "味噌"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "甘酢漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "冷蔵で数週間から数ヶ月",
+        "quality_changes": "鮮やかなピンク色に発色し、辛味が和らぎ、保存性が向上する。"
+      },
+      {
+        "method": "塩漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "冷蔵で数ヶ月",
+        "quality_changes": "食感が保たれ、長期保存が可能になる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やかでスパイシーな辛味、わずかな苦味、独特の清涼感のある香り。",
+      "aroma_compounds": [
+        "α-ピネン"
+      ],
+      "texture_characteristics": "シャキシャキとした歯ごたえ。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動への応答に関する定量的な学術研究は極めて少ない。栽培特性（半日陰、湿潤を好む）からの定性的推測が中心。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30℃を超えると生育が著しく阻害される。",
+      "cold_tolerance": "-5℃程度（地下茎は越冬可能）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "年間1500mm以上の湿潤な環境を好む。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部が倒れやすいが、地下茎から再生可能。",
+      "hail_damage_recovery": "葉に被害を受けるが、再生力は比較的高い。",
+      "rapid_temperature_change": "弱い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明（半日陰を好むため、強い紫外線には弱いと推測）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化による南方系害虫の北上に対して脆弱な可能性がある。",
+      "disease_resistance_stability": "高温多湿による根茎腐敗病のリスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の温帯地域",
+        "2050_projection": "栽培適地がやや北上する可能性がある。西南暖地では夏の高温・乾燥がリスクとなる。",
+        "2100_projection": "西南暖地での露地栽培は困難になる可能性。東北地方や北海道南部が新たな適地になる可能性。",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な栽培系統が3倍体で不稔性であることは広く知られている。野生の2倍体との交雑可能性に関する研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [],
+      "interspecific_compatibility": [
+        "不明"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "日本各地に地方品種が存在するが、遺伝的背景は類似している可能性が高い。",
+      "wild_gene_pool": "中国などに野生の2倍体が存在する可能性が指摘されているが、遺伝子プールとしての利用はされていない。",
+      "adaptive_genetic_variation": "低い（主に栄養繁殖のため）",
+      "inbreeding_depression_risk": "該当しない（栄養繁殖）"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑が実現すれば可能性があるが、現状では期待できない。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "低い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "3倍体であるため、種子ができず、交配が極めて困難。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不稔",
+      "backcrossing_success": "不可能"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 1
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業への適性に関する直接的な研究はない。植物の生態的特性からの推測に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる地下茎（根茎）を持つ。",
+      "organic_matter_contribution": "毎シーズン地上部が枯れて有機物を供給する。",
+      "soil_structure_improvement": "根茎が土壌の団粒化を一部助ける可能性がある。",
+      "erosion_control": "地上部が密生し、根茎が地表を覆うため、特に傾斜地での土壌侵食防止効果が期待できる。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は咲くが結実しないため、花粉媒介者への貢献は限定的。",
+      "beneficial_insect_habitat": "地上部の繁茂が、カマドウマやクモなどの小動物の生息地を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "限定的"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地上部の被覆が雨滴による土壌の固化を防ぎ、浸透を助ける。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "高い",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度（季節的）",
+      "below_ground_carbon": "多年草であり、地下茎に炭素を蓄積する。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "樹木の下草（アグロフォレストリー）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草であるため、一度定着すると安定した被覆を形成する。",
+      "stress_tolerance": "乾燥と高温に弱い。",
+      "recovery_capacity": "物理的なダメージからの回復力は高い。",
+      "adaptability": "遺伝的多様性が低いため低い。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主に日本市場での可能性に関する情報。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "香味野菜として食事の多様性を高める。",
+      "food_security_contribution": "主食ではないが、食文化の多様性維持に貢献。",
+      "local_food_system_integration": "家庭菜園や小規模農家での栽培に適しており、地域の食料システムに貢献できる。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "日本食の世界的な普及に伴う輸出市場の開拓",
+        "特徴的な香りを活かした加工食品（ドレッシング、香辛料など）の開発"
+      ],
+      "value_added_products": [
+        "みょうがのピクルス",
+        "フリーズドライみょうが",
+        "エッセンシャルオイル"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "保全状況に関する公式な評価は少ない。文化的側面の評価が中心。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "自生地は限定的で、開発による影響を受ける可能性がある。",
+    "climate_change_vulnerability": "高い（特に温暖化による乾燥と高温）",
+    "cultural_erosion_risk": "高（食生活の変化により、伝統的な利用が減少するリスク）",
+    "conservation_actions_needed": [
+      "日本各地の在来品種の収集と保存（ジーンバンク）",
+      "野生近縁種（特に2倍体）の探索と保全"
+    ],
+    "priority_conservation_regions": [
+      "日本",
+      "中国"
+    ],
+    "ex_situ_conservation_status": "一部の農業研究機関で系統が保存されている。",
+    "in_situ_conservation_efforts": "不明"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 4,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 5,
+    "recommended_study_regions": [
+      "日本（在来品種の多様性評価）",
+      "中国（野生種の探索）"
+    ],
+    "knowledge_gaps": [
+      "気候変動への生理学的応答",
+      "野生2倍体種の分布と遺伝特性",
+      "機能性成分の定量的評価"
+    ],
+    "global_dictionary_compatibility": 7
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主に栽培上の分類であり、遺伝的に明確な品種として確立されているわけではない。"
+      },
+      "variety_name": "夏みょうが",
+      "local_name": "夏みょうが",
+      "origin_region": "日本",
+      "distinctive_characteristics": "6月-8月に収穫される。比較的小ぶりで香りが強い。",
+      "cultural_importance": "夏の薬味として最も一般的に利用される。",
+      "climate_adaptation": "標準的なみょうがの特性に準ずる。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主に栽培上の分類であり、遺伝的に明確な品種として確立されているわけではない。"
+      },
+      "variety_name": "秋みょうが",
+      "local_name": "秋みょうが",
+      "origin_region": "日本",
+      "distinctive_characteristics": "8月-10月に収穫される。夏みょうがに比べて大ぶりで、色が濃く、ややマイルドな風味。",
+      "cultural_importance": "漬物などの加工品に好んで使われる。",
+      "climate_adaptation": "標準的なみょうがの特性に準ずる。",
+      "conservation_status": "広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "学術論文データベース (Google Scholar, PubMed)",
+      "植物データベース (KEW, GBIF)",
+      "日本の農林水産省及び各県の研究報告"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの応答",
+      "リジェネラティブ農業適性の定量的データ",
+      "日本国外での遺伝資源の多様性"
+    ],
+    "regional_data_coverage": "日本に極度に偏っている",
+    "missing_information": [
+      "野生2倍体の詳細な分布と生態",
+      "交雑育種の可能性に関する研究",
+      "世界的な生産統計"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

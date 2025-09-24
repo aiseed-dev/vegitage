@@ -1,0 +1,600 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（KEW, USDA PLANTS）および農学研究論文から統合。野生近縁種の情報も比較的明確。"
+    },
+    "primary_name": "American Groundnut",
+    "scientific_name": "Apios americana Medik.",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "塊茎",
+      "種子"
+    ],
+    "origin_region": "北米東部",
+    "wild_relatives": [
+      "Apios priceana"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な通称名および主要な地域での名称は広く記録されている。先住民コミュニティでの名称は多様であり、代表的なものを記載。"
+    },
+    "international": {
+      "en": [
+        "American groundnut",
+        "Potato bean",
+        "Indian potato"
+      ],
+      "scientific_common": "Groundnut"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "アメリカホドイモ",
+            "script": "Katakana/Kanji"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Glycine tubéreuse",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Haudenosaunee (Iroquois)",
+        "name": "O-en-do-te",
+        "cultural_significance": "重要な伝統的主食の一つ。食料、交易品として利用。"
+      },
+      {
+        "community": "Lenape (Delaware)",
+        "name": "Hopniss",
+        "cultural_significance": "主食であり、その名は英語の通称の由来となった。生存に不可欠な食料源。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類体系はAPG IVシステムに基づき、広く合意されている。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Groundnut",
+      "la": "Apios"
+    },
+    "species": {
+      "en": "American Groundnut",
+      "la": "Apios americana"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "北米先住民文化における重要性は深く記録されているが、他地域での文化的価値は限定的。文化的消失リスクの評価は定性的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "北米（先住民文化圏）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "数千年にわたり、北米東部の多くの先住民族の主食として利用されてきた。塊茎は焼く、煮る、乾燥させて粉にするなど多様な方法で調理された。ピルグリム・ファーザーズが最初の冬を越すのを助けた食料としても知られる。",
+        "seasonal_significance": "秋に収穫され、冬の間の重要な保存食料。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東アジア（日本）",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "健康食品"
+        ],
+        "traditional_uses": "明治時代に導入され、青森県などで栽培。栄養価の高さから健康野菜として認識されているが、伝統的な食文化には深く根付いていない。地域特産品として利用される。",
+        "seasonal_significance": "晩秋から冬にかけての味覚。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "北米先住民料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Roasted groundnuts",
+          "Groundnut stew"
+        ],
+        "preparation_methods": [
+          "焙煎",
+          "煮込み",
+          "製粉"
+        ],
+        "cultural_context": "食料安全保障の基盤であり、コミュニティの結束や儀式と深く結びついている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "考古学的証拠から、少なくとも3000年前から北米東部で利用されていたことが示されている。",
+      "trade_routes": "先住民族間の交易ネットワークにおいて重要な品目であった。",
+      "cultural_exchange": "ヨーロッパからの入植者と先住民との初期の接触において、生存技術と食文化の交換を象徴する植物。",
+      "domestication_history": "半栽培状態（野生採集と庭先での管理）で利用されてきた歴史が長く、近代的な育種は20世紀後半に始まった。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "休眠期間に低温を必要とするため不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季に低温期間がある地域での栽培は可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "原産地であり、最も生育に適している。夏は温暖で、冬は地面が凍結する気候。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さと冬の寒さに耐性があるため適応可能。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "一定の湿度を好み、乾燥には弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（4月-5月）",
+        "harvest_season": "秋（10月-11月）、霜が降りた後",
+        "growing_period_days": "150-200"
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 20,000 kg/ha (改良品種・適切な管理下)",
+      "factors_affecting_yield": [
+        "品種（二倍体/三倍体）",
+        "支柱の有無",
+        "土壌の肥沃度と排水性",
+        "栽培年数（多年草）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "小規模農家、大学の研究機関、先住民コミュニティによる栽培が中心。商業生産は非常に限定的。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "青森県などで地域特産品として小規模に生産されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分のデータは存在するが、品種や生育条件による変動に関する網羅的な研究は少ない。機能性成分に関する研究は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "120-140",
+        "protein_g": "15-17",
+        "carbs_g": "25-30",
+        "fat_g": "0.5-1",
+        "fiber_g": "4-6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "イソフラボン（ゲニステイン、ダイゼイン）",
+        "concentration": "大豆に匹敵、またはそれ以上",
+        "health_effect": "抗酸化作用、ホルモン様作用の可能性が研究されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "北米",
+        "medical_system": "先住民の伝統医学",
+        "uses": [
+          "滋養強壮",
+          "授乳期の女性の栄養補給"
+        ],
+        "preparation": "食事として摂取することが主。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "血糖値上昇抑制効果",
+        "抗酸化活性",
+        "血圧降下作用の可能性"
+      ],
+      "safety_considerations": "生食すると消化不良を起こす可能性があるため、加熱調理が必要。一部のプロテアーゼ阻害剤を含む。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "伝統的な調理法はよく知られているが、現代料理への応用は発展途上。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "北米",
+        "methods": [
+          "焙煎",
+          "茹でる",
+          "揚げる",
+          "煮込み",
+          "製粉"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "トウモロコシ",
+          "豆類",
+          "カボチャ（スクワッシュ）",
+          "ジビエ肉"
+        ]
+      },
+      {
+        "region": "日本",
+        "methods": [
+          "蒸す",
+          "揚げる",
+          "炊き込みご飯",
+          "味噌汁の具"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "醤油",
+          "味噌"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・製粉",
+        "regions": [
+          "北米（伝統的）"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "風味は濃縮されるが、再水和時の食感は変わる。"
+      },
+      {
+        "method": "冷蔵保存",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "湿度を保つことで品質を維持できる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッツのような風味と豆の風味を併せ持つ。ジャガイモより甘みが強く、緻密な食感。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "加熱するとホクホクし、ジャガイモとサツマイモの中間のような滑らかで緻密な質感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する定性的な記述は多いが、制御環境下での定量的な実験データは非常に少ない。多年草としての潜在能力からの推定が主。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-30°C以下（地下部、休眠期）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "800-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物のため支柱が倒壊すると被害を受けるが、地下部は保護される。",
+      "hail_damage_recovery": "地上部が損傷しても、地下塊茎から再生する能力が高い。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物かつマメ科であるため、CO2濃度上昇により光合成と窒素固定が促進される可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "原産地では比較的強健だが、新たな地域や気候下では未知の病害虫に対して脆弱な可能性がある。",
+      "disease_resistance_stability": "遺伝的多様性が高いため、集団レベルでの抵抗性は安定していると推定される。",
+      "beneficial_organism_relationships": "根粒菌との共生関係は、土壌の貧栄養化に対して強みとなる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "北米東部、日本の東北地方など温帯域",
+        "2050_projection": "現在の栽培地の北限がさらに北上する可能性（例：カナダ南部）。南限では熱ストレスが増加する可能性。",
+        "2100_projection": "北への適応地の拡大がさらに進むと予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "育種研究は存在するが、自然環境下での交雑ポテンシャルに関するデータは限定的。倍数性の違いが複雑な要因となっている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "二倍体系統と三倍体系統が存在し、二倍体間の交雑は可能だが、三倍体は不稔性が高い。"
+      ],
+      "interspecific_compatibility": [
+        "Apios priceana（近縁の希少種）との間で人工的な種間交雑が試みられ、成功している。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告されていない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "先住民によって維持されてきた多様な系統が存在する可能性があるが、十分に文書化されていない。",
+      "wild_gene_pool": "北米東部の広範な野生集団に高い遺伝的多様性が存在する。",
+      "adaptive_genetic_variation": "広範な地理的分布は、多様な環境に適応した遺伝的変異が存在することを示唆する。",
+      "inbreeding_depression_risk": "栄養繁殖が可能なため、単一クローンでの栽培ではリスクがあるが、野生集団は高い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北米（フロリダからカナダまで）",
+        "environmental_pressure": "緯度に伴う生育期間と冬の厳しさの違い。",
+        "adaptive_response": "開花時期、塊茎形成のタイミング、耐寒性の地域的な分化。",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域的エコタイプの形成。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐病性や収量性の高い近縁種との交雑により、気候耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "野生系統の多様な遺伝子を利用し、タンパク質や機能性成分の含有量を改善できる可能性がある。",
+      "novel_characteristics": "塊茎の形状、大きさ、収穫のしやすさなどの農業形質の改良が可能。",
+      "hybrid_vigor_potential": "二倍体系統間の交雑により雑種強勢が期待される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "二倍体と三倍体間の交雑障壁。",
+      "chromosome_compatibility": "同種内でも倍数性が異なるため、適合性の確認が必要。",
+      "fertility_of_hybrids": "種間雑種や倍数性の異なる個体間の雑種では稔性が低下する可能性がある。",
+      "backcrossing_success": "育種プログラムにおいて戻し交配が利用されている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候（気温、降水量）、土壌条件、病害虫圧",
+        "adaptive_traits": "塊茎の休眠性、つるの成長速度、耐病性",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科多年草としての一般的な特性からの類推が多く、本種に特化したリジェネラティブ農業システムでの定量的研究は少ないが、ポテンシャルは非常に高い。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く、広範囲に広がる根系と地下茎（塊茎を連ねる）。",
+      "organic_matter_contribution": "毎年生育する地上部が枯死し、土壌有機物として供給される。根からの分泌物も豊富と推定。",
+      "soil_structure_improvement": "根系が土壌の団粒構造を形成・維持する。",
+      "erosion_control": "多年生であり、冬季も地下部が生存するため、年間を通じて土壌を被覆・保持し、侵食を防ぐ。",
+      "nutrient_cycling_role": "大気中の窒素を固定し、土壌に供給する。深層の養分を地表近くに引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "特徴的な形状の花は、特定のハナバチ類によって受粉され、これらの昆虫の食料源となる。",
+      "beneficial_insect_habitat": "つる性の繁茂した群落は、多様な昆虫や小動物の生息地を提供する。",
+      "soil_microorganism_interaction": "根粒菌との共生により、土壌微生物叢を豊かにする。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌に孔隙を作り、水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて、土壌の保水性を高める。",
+      "runoff_reduction": "地上部の被覆と土壌構造の改善により、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "一年で枯死するため、地上部での長期的な炭素貯留は少ない。",
+      "below_ground_carbon": "多年生の塊茎と根系に炭素を長期間貯留する能力が非常に高い。",
+      "soil_carbon_enhancement": "根の代謝回転と有機物供給を通じて、土壌炭素（SOC）を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシやヒマワリ（支柱として利用）",
+        "カボチャ（地面を覆い、雑草を抑制）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "窒素固定により、混植した他の植物に窒素を供給する可能性がある。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物であるため、毎年耕起する必要がなく、生態系の安定に寄与する。",
+      "stress_tolerance": "干ばつや貧栄養土壌に対する耐性が高い。",
+      "recovery_capacity": "地上部が被害を受けても地下塊茎から再生する能力が高い。",
+      "adaptability": "遺伝的多様性が高く、環境変化への適応ポテンシャルを持つ。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "潜在的な価値は高いと認識されているが、商業的な応用はまだ初期段階にある。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ジャガイモの3倍以上のタンパク質を含み、高品質な植物性タンパク質源として価値が高い。",
+      "food_security_contribution": "多年生で管理が比較的容易なため、永続的な食料供給源（パーマカルチャー）として貢献できる。",
+      "local_food_system_integration": "地域の気候に適応した強健な作物として、地域の食料自給率向上に貢献する可能性がある。",
+      "alternative_protein_potential": "高いタンパク質含有量から、代替タンパク質源としての利用や、加工食品の原料としての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品市場",
+        "グルメ・高級食材市場",
+        "エスニック・伝統食品市場"
+      ],
+      "value_added_products": [
+        "チップスなどのスナック食品",
+        "製粉した粉製品（パン、麺類）",
+        "機能性成分を抽出したサプリメント"
+      ],
+      "niche_market_value": "ユニークな風味、栄養価、そして先住民文化との繋がりというストーリー性が、ニッチ市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物学的な絶滅リスクは低いが、遺伝的多様性、特に地域固有の適応系統と、それに関する文化的知識の消失リスクは高い。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生集団の生息地である河畔林や湿地の開発が脅威となっている。",
+    "climate_change_vulnerability": "南部の個体群は高温ストレスの増大に脆弱である可能性がある。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "野生集団の遺伝的多様性の調査とモニタリング",
+      "先住民コミュニティによる伝統的知識の継承と食料主権の支援",
+      "多様な系統を収集・保存するジーンバンクの拡充（Ex-situ保全）",
+      "生息地の保護と再生（In-situ保全）"
+    ],
+    "priority_conservation_regions": [
+      "北米東部の広範な原産地、特に遺伝的多様性が高いと考えられるアパラチア山脈周辺",
+      "先住民コミュニティが伝統的に管理してきた地域"
+    ],
+    "ex_situ_conservation_status": "米農務省（USDA）の種子バンクなどで多数の系統が保存されているが、網羅性は不明。",
+    "in_situ_conservation_efforts": "特定の保護区で行われているが、本種に特化した大規模な取り組みは少ない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "北米東部の先住民コミュニティ",
+      "日本の青森県など、導入先での適応事例がある地域",
+      "ルイジアナ州立大学など、育種研究が進んでいる機関"
+    ],
+    "knowledge_gaps": [
+      "商業栽培に適した栽培技術の確立",
+      "多様な系統の栄養価および機能性成分の網羅的解析",
+      "気候変動シナリオ下での具体的な生産性変化の予測"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "正式な品種登録は少ないが、特性の異なる系統群として認識されている。"
+      },
+      "variety_name": "Diploid Selections (二倍体選抜系統)",
+      "local_name": "N/A",
+      "origin_region": "北米（主に北部）",
+      "distinctive_characteristics": "稔性があり、種子繁殖が可能。育種の親系統として重要。塊茎は比較的小さい傾向がある。",
+      "cultural_importance": "育種プログラムの基盤となっている。",
+      "climate_adaptation": "北部の寒冷な気候に適応した系統が多い。",
+      "conservation_status": "研究機関で保存"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "正式な品種登録は少ないが、特性の異なる系統群として認識されている。"
+      },
+      "variety_name": "Triploid Wild Types (三倍体野生系統)",
+      "local_name": "N/A",
+      "origin_region": "北米（主に南部）",
+      "distinctive_characteristics": "不稔性または低稔性で、主に栄養繁殖で増える。大きな塊茎をつけ、収量性が高い系統が多い。",
+      "cultural_importance": "伝統的に食料として利用されてきたのは、このタイプの系統が多いと考えられている。",
+      "climate_adaptation": "南部の温暖な気候に適応した系統が多い。",
+      "conservation_status": "野生・半栽培状態で維持"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Ethnobotanical studies of North American Indigenous peoples",
+      "USDA National Nutrient Database",
+      "Academic papers on Apios americana breeding and agronomy",
+      "KEW Plants of the World Online"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業システムにおける定量的な生態系サービス評価",
+      "気候変動の複合的ストレス（高温＋乾燥など）に対する品種レベルでの応答",
+      "先住民が利用してきた伝統的系統（ランドレース）の網羅的な特性評価と保全"
+    ],
+    "regional_data_coverage": "北米に偏っており、アジアやヨーロッパでの導入事例に関するデータは限定的。",
+    "missing_information": [
+      "商業規模での生産コストと収益性に関するデータ",
+      "主要な病害虫に対する詳細な抵抗性プロファイル"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

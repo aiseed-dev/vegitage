@@ -1,0 +1,612 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "植物学的な基本情報は豊富だが、伝統「野菜」としての利用に関するデータは極めて限定的。主に観賞用植物としての情報に基づいている。"
+    },
+    "primary_name": "Carnation",
+    "scientific_name": "Dianthus caryophyllus",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "花"
+    ],
+    "origin_region": "地中海地域",
+    "wild_relatives": [
+      "Dianthus sylvestris",
+      "Dianthus gratianopolitanus",
+      "Dianthus superbus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "観賞用植物として世界的に普及しているため、各言語での名称は豊富に存在する。食用の文脈での現地名は限定的。"
+    },
+    "international": {
+      "en": [
+        "Carnation",
+        "Clove Pink"
+      ],
+      "scientific_common": "Clove Pink"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Clavel",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Œillet commun",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Garofano comune",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Landnelke",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Cravo",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "カーネーション",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "香石竹",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "카네이션",
+            "script": "Hangul"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Pink family",
+      "la": "Caryophyllaceae"
+    },
+    "genus": {
+      "en": "Pink",
+      "la": "Dianthus"
+    },
+    "species": {
+      "en": "Carnation",
+      "la": "Dianthus caryophyllus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "文化的な価値は主に観賞用、象徴的な意味合いによるものであり、食材としての重要性は低い。評価は観賞用植物としての価値を反映している。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "古代ギリシャ・ローマ時代から栽培。愛、尊敬、記念の象徴。特にキリスト教文化では聖母マリアの涙の象徴とされる。スペインの国花。ポルトガルのカーネーション革命のシンボル。",
+        "seasonal_significance": "母の日や記念日に贈られる花として季節的な重要性を持つ。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "母の日の公式な花として制定されており、祝祭文化に深く根付いている。色によって意味が異なり、コミュニケーションの手段としても利用される。",
+        "seasonal_significance": "母の日（5月）、記念日全般。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ヨーロッパの歴史的料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "Crystallized Flowers",
+          "Chartreuse Liqueur",
+          "Salads",
+          "Flower Syrup"
+        ],
+        "preparation_methods": [
+          "香味付け",
+          "砂糖漬け",
+          "生食（飾り）"
+        ],
+        "cultural_context": "16世紀から17世紀にかけて、ヨーロッパで花びらがサラダやデザート、ワインやリキュールの香味付けに利用された。現代では主にエディブルフラワーとして、高級料理の飾り付けに限定的に使用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャの植物学者テオフラストスによって記述されている。ローマ時代には儀式や装飾に広く用いられた。",
+      "trade_routes": "近代以降、品種改良されたものが世界中の交易路を通じて観賞用植物として広まった。",
+      "cultural_exchange": "母の日のシンボルとして世界中に広まるなど、近代的な文化交流の象徴となっている。",
+      "domestication_history": "地中海沿岸の野生種から2000年以上かけて栽培化され、特に19世紀以降にフランスとイギリスで集中的な品種改良が行われた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、病害が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や冬季など、冷涼な条件下で栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "昼夜の寒暖差があり、日照が豊富な冷涼気候が最適。多くの商業生産地がこの気候帯に属する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏季の栽培に適するが、厳しい冬を越すには保護が必要。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水ストレスに弱く、灌漑が必須となる。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高地での栽培は病害を抑制し、高品質な花を生産できるため、南米などで広く行われている。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "初夏から秋（商業生産では温室で周年）",
+        "growing_period_days": "120-180"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（食材としてではない）",
+      "factors_affecting_yield": [
+        "日照時間",
+        "温度管理",
+        "病害虫（特にフザリウム萎凋病）",
+        "施肥管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（切り花としての生産量は膨大だが、重量ベースの公式統計は限定的）",
+      "major_producers": [
+        {
+          "country": "コロンビア",
+          "production_share": null,
+          "characteristics": "世界最大の輸出国。高地栽培による高品質な花を周年生産。"
+        },
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "世界最大の生産国の一つ。国内消費と輸出の両方が盛ん。"
+        },
+        {
+          "country": "ケニア",
+          "production_share": null,
+          "characteristics": "ヨーロッパ市場向けの主要供給国。赤道直下の高地を利用。"
+        },
+        {
+          "country": "イタリア",
+          "production_share": null,
+          "characteristics": "ヨーロッパにおける伝統的な生産国。多様な品種が栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食材としての利用が稀なため、栄養成分に関する信頼性の高いデータは存在しない。機能性成分に関する研究は存在するが、食品としての評価ではない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール化合物",
+        "concentration": "品種や栽培条件により変動",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "品種により変動",
+        "health_effect": "抗炎症作用の可能性（過剰摂取は注意）"
+      },
+      {
+        "compound": "オイゲノール",
+        "concentration": "品種により変動",
+        "health_effect": "鎮静、抗菌作用。クローブ様の香りの源。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ療法",
+        "uses": [
+          "神経系の強壮",
+          "発汗促進",
+          "心臓機能のサポート"
+        ],
+        "preparation": "花の浸出液やシロップ"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "花弁抽出物の抗酸化能と抗菌活性に関する研究"
+      ],
+      "safety_considerations": "いくつかの品種はサポニンを含むため、大量摂取は推奨されない。花弁の基部にある白い部分は苦味が強い。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "エディブルフラワーとしての利用法は確立されているが、日常的な食材ではないため、応用範囲は限定的。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ・北米",
+        "methods": [
+          "生食（サラダ、デザートの飾り）",
+          "砂糖漬け（クリスタライズド・フラワー）",
+          "シロップ",
+          "リキュールやビネガーの香味付け"
+        ],
+        "flavor_role": "香辛料/薬味",
+        "typical_combinations": [
+          "フルーツ",
+          "クリーム",
+          "白ワイン",
+          "ハーブティー"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "砂糖漬け",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "水分が抜け、食感がカリカリになる。香りは凝縮される。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "香りは弱まるが、ポプリやハーブティーのブレンドに利用される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘く、フローラルで、ほのかにスパイシー（クローブ様）。苦味（花弁基部）。",
+      "aroma_compounds": [
+        "オイゲノール",
+        "β-カリオフィレン",
+        "安息香酸メチル"
+      ],
+      "texture_characteristics": "柔らかく、繊細。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動適応性に関する直接的な研究は非常に少ない。主に商業的な花卉栽培における環境制御技術が中心であり、自然環境下でのレジリエンス評価は推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "30°C以上で生育不良",
+      "cold_tolerance": "-5°C（品種による）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-800mm（年間、水はけの良い土壌）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が折れやすいため低い",
+      "hail_damage_recovery": "低い",
+      "rapid_temperature_change": "低い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "温室栽培ではCO2施用による増収効果が報告されている",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやハダニの発生が増加する可能性",
+      "disease_resistance_stability": "高温多湿はフザリウム萎凋病のリスクを増大させるため、抵抗性の安定性は低い",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯、亜熱帯高地",
+        "2050_projection": "栽培適地がより高緯度、高標高へ移動する可能性",
+        "2100_projection": "現在の主要産地（コロンビア高地など）でも高温ストレスのリスク増大",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "園芸植物として広範な交配の歴史があり、種内および種間交雑に関する知見は豊富。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Dianthus caryophyllusの数千に及ぶ園芸品種"
+      ],
+      "interspecific_compatibility": [
+        "Dianthus plumarius",
+        "Dianthus chinensis",
+        "Dianthus barbatus"
+      ],
+      "intergeneric_possibility": [
+        "極めて低い、または報告なし"
+      ],
+      "successful_natural_hybrids": [
+        "野生のDianthus種間での自然交雑は自生地で報告されている"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "園芸化の歴史が長いため、多様な歴史的品種が存在するが、現代の商業栽培では遺伝的多様性は限定的。",
+      "wild_gene_pool": "地中海地域の野生種は、病害抵抗性や環境ストレス耐性の重要な遺伝子供給源である。",
+      "adaptive_genetic_variation": "野生近縁種には乾燥や貧栄養土壌への適応的遺伝変異が豊富に存在する。",
+      "inbreeding_depression_risk": "商業品種ではクローン繁殖が多いため、遺伝的多様性の低下が懸念される。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "食用としての研究ではないため不明。",
+      "novel_characteristics": "花色、花形、香り、開花時期などの新規形質の導入は育種で常に行われている。",
+      "hybrid_vigor_potential": "種間交雑において雑種強勢が広く利用されている。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違いが交雑障壁となることがある。",
+      "chromosome_compatibility": "Dianthus属内では比較的高い。",
+      "fertility_of_hybrids": "種間雑種ではしばしば稔性が低下する。",
+      "backcrossing_success": "育種プログラムで一般的に用いられる。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈でカーネーションが研究された例はほぼない。以下の評価は、植物の一般的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅いひげ根。土壌の緊縛効果は限定的。",
+      "organic_matter_contribution": "限定的。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "限定的。",
+      "nutrient_cycling_role": "特筆すべき役割はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "多様な品種があり、蝶や蜂などの花粉媒介者を引き寄せる。特に香りの強い原種に近い品種はその効果が高い。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシなどを引き寄せる可能性がある。",
+      "soil_microorganism_interaction": "不明。",
+      "above_ground_biodiversity": "ポリカルチャーシステムの一部として多様性に貢献する可能性がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "限定的",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "香りが一部の害虫を遠ざける効果が期待されるが、科学的根拠は乏しい。"
+      ],
+      "natural_pest_control": "限定的。",
+      "nutrient_sharing": "なし。",
+      "allelopathic_interactions": "不明。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "単体での貢献は低いが、多様な花卉を組み込んだアグロフォレストリーやパーマカルチャーでは生態系サービスの一部を担う。",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "低い",
+      "adaptability": "中（遺伝的多様性を利用すれば）"
+    },
+    "regenerative_score": 3
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "観賞用としての価値が圧倒的であり、他の応用はニッチ市場に限られる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "エディブルフラワーとしての利用は、栄養摂取よりも料理の美的価値や風味付けに貢献する。",
+      "food_security_contribution": "なし",
+      "local_food_system_integration": "地域のレストランやファーマーズマーケットでエディブルフラワーとして流通する可能性がある。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エディブルフラワー市場",
+        "自然由来の香料・着色料",
+        "化粧品原料"
+      ],
+      "value_added_products": [
+        "フラワーシロップ",
+        "リキュール",
+        "ハーブティーブレンド",
+        "クリスタライズド・フラワー"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商業品種の保全優先度は低いが、遺伝資源としての野生近縁種の保全は極めて重要。"
+    },
+    "genetic_erosion_risk": "高（野生近縁種および在来種）",
+    "habitat_loss_threat": "地中海沿岸の開発や気候変動により、自生地が脅かされている。",
+    "climate_change_vulnerability": "高い",
+    "cultural_erosion_risk": "低い（観賞用文化として確立）",
+    "conservation_actions_needed": [
+      "野生近縁種の生息域内保全（保護区設定）",
+      "遺伝資源の域外保全（種子バンク）",
+      "歴史的園芸品種の収集と保存"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸諸国（スペイン、イタリア、ギリシャ、北アフリカ）"
+    ],
+    "ex_situ_conservation_status": "主要な植物園や種子バンクで多くの品種や野生種が保存されている。",
+    "in_situ_conservation_efforts": "一部の自生地で保護活動が行われているが、包括的ではない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合評価。食材としての価値は低いが、文化的重要性、遺伝資源としての価値は非常に高い。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "低優先（食材として）/高優先（遺伝資源として）",
+    "research_urgency": "中（野生種の遺伝資源評価と保全）",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海地域（野生種の生態と遺伝的多様性）"
+    ],
+    "knowledge_gaps": [
+      "食材としての栄養価および安全性に関する科学的データ",
+      "気候変動に対する野生近縁種の応答メカニズム",
+      "リジェネラティブな生産システムにおける生態的役割"
+    ],
+    "global_dictionary_compatibility": 5
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種の情報は豊富。"
+      },
+      "variety_name": "Standard Carnation (Sim Carnation)",
+      "local_name": "スタンダードカーネーション",
+      "origin_region": "アメリカ",
+      "distinctive_characteristics": "一茎一輪で大輪の花を咲かせる。切り花の代表格。",
+      "cultural_importance": "贈答用、儀式用に最も広く利用される。",
+      "climate_adaptation": "主に温室で栽培され、自然環境への適応性は低い。",
+      "conservation_status": "保全不要（商業生産）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種の情報は豊富。"
+      },
+      "variety_name": "Spray Carnation",
+      "local_name": "スプレーカーネーション",
+      "origin_region": "不明（園芸的に作出）",
+      "distinctive_characteristics": "一茎から多数の小輪の花が分岐して咲く。",
+      "cultural_importance": "フラワーアレンジメントや花束に多用される。",
+      "climate_adaptation": "主に温室で栽培される。",
+      "conservation_status": "保全不要（商業生産）"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "歴史的品種に関する情報は専門的。"
+      },
+      "variety_name": "Clove Pink (Old-fashioned Pinks)",
+      "local_name": "不明",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "原種に近く、強いクローブの香りを持つ。花は比較的小さい。",
+      "cultural_importance": "歴史的にハーブガーデンで栽培され、香味付けに利用された。",
+      "climate_adaptation": "現代の園芸品種より比較的強健。",
+      "conservation_status": "希少（Heirloom variety）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew (Plants of the World Online)",
+      "Horticultural databases (e.g., RHS)",
+      "Ethnobotanical literature",
+      "Floriculture industry reports"
+    ],
+    "major_knowledge_gaps": [
+      "伝統「野菜」としての利用実態と歴史",
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "食用利用における栄養価と安全性の詳細データ"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米の文化・園芸データは豊富。他の地域は限定的。",
+    "missing_information": [
+      "食材としての生産量・流通量",
+      "先住民による伝統的利用"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

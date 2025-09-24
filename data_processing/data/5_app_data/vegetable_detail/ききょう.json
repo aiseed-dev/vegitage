@@ -1,0 +1,593 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（KEW, GRIN）および民族植物学的研究から統合。野生近縁種の情報は、本属が一属一種であるため明確。"
+    },
+    "primary_name": "Balloon Flower",
+    "scientific_name": "Platycodon grandiflorus",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "葉"
+    ],
+    "origin_region": "東アジア（中国、朝鮮半島、日本、ロシア極東）",
+    "wild_relatives": [
+      "Platycodon属は一属一種であり、直接的な野生近縁種は存在しない。しかし、各地に自生する野生集団が存在する。"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア文化圏での名称は明確に確立されている。その他の地域では主に観賞用植物としての学名または英名で知られる。"
+    },
+    "international": {
+      "en": [
+        "Balloon Flower",
+        "Chinese Bellflower"
+      ],
+      "scientific_common": "Platycodon"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ko",
+            "name": "도라지",
+            "script": "Hangul"
+          },
+          {
+            "lang": "zh",
+            "name": "桔梗",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ja",
+            "name": "キキョウ",
+            "script": "Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類体系はAPG IVに基づき確立されている。"
+    },
+    "family": {
+      "en": "Bellflower family",
+      "la": "Campanulaceae"
+    },
+    "genus": {
+      "en": "Balloon flower",
+      "la": "Platycodon"
+    },
+    "species": {
+      "en": "Balloon flower",
+      "la": "grandiflorus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "Platycodon grandiflorus var. albus"
+      },
+      {
+        "rank": "var.",
+        "name": "Platycodon grandiflorus var. mariesii"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア、特に韓国と中国における文化的・薬用的価値に関する記録は豊富。日本の食用としての記録は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "文化的象徴"
+        ],
+        "traditional_uses": "韓国では「トラジ」として根をナムルやキムチ、ビビンバの具材として広く食用。中国と日本では主に漢方薬・生薬「桔梗根（ききょうこん）」として鎮咳・去痰目的に利用。日本では武家の家紋としても知られ、文化的象徴性が高い。",
+        "seasonal_significance": "日本では秋の七草の一つとして観賞され、季節感の象徴となる。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "韓国料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "トラジナムル",
+          "トラジムチム",
+          "ビビンバ",
+          "トラジ茶"
+        ],
+        "preparation_methods": [
+          "塩漬け",
+          "炒め物",
+          "和え物",
+          "漬物",
+          "乾燥"
+        ],
+        "cultural_context": "祭祀（チェサ）の供物としても用いられる重要な食材。独特の苦みと食感が特徴で、健康によいとされる。"
+      },
+      {
+        "cuisine": "中国伝統医学",
+        "role": "medicinal",
+        "traditional_dishes": [
+          "桔梗湯"
+        ],
+        "preparation_methods": [
+          "煎じ薬",
+          "薬膳スープ"
+        ],
+        "cultural_context": "肺の気を巡らせ、痰を切り、喉の腫れを鎮める重要な生薬として2000年以上の利用史がある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国最古の薬物書「神農本草経」に上品（副作用がなく長期服用可能な薬）として収載。東アジアで数千年にわたり利用されてきた。",
+      "trade_routes": "主に東アジア域内での生薬としての交易が中心。",
+      "cultural_exchange": "薬用・食用の知識が仏教伝来などと共に中国から朝鮮半島、日本へと伝播した。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、薬用・食用としての需要から各地で栽培化が進んだ。野生種と栽培種の分化が見られる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、根腐れしやすい。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "夏季の高温により生育が阻害される可能性がある。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりと水はけの良い砂質土壌。夏季は涼しく、冬は地上部が枯れて休眠する気候を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "耐寒性が強く、冬の低温に耐える。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に弱く、定期的な水分が必要。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高冷地での栽培に適性がある可能性があるが、生育期間の短さが課題となりうる。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3-4月）または秋（9-10月）",
+        "harvest_season": "播種後2-4年目の秋（10-11月）",
+        "growing_period_days": 730
+      }
+    ],
+    "productivity": {
+      "yield_range": "3,000 - 6,000 kg/ha（乾燥根）",
+      "factors_affecting_yield": [
+        "土壌の水はけ",
+        "連作障害の有無",
+        "収穫までの年数",
+        "病害虫（特に根腐れ病）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "世界最大の生産国。主に薬用として安徽省、山東省などで大規模に栽培。"
+        },
+        {
+          "country": "韓国",
+          "production_share": null,
+          "characteristics": "食用としての需要が高く、国内消費向けに広く栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な機能性成分であるサポニンに関する研究は多いが、微量栄養素に関する詳細なデータは限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "81",
+        "protein_g": "2.1",
+        "carbs_g": "19.5",
+        "fat_g": "0.4",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "不明",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "プラチコジンD（サポニンの一種）",
+        "concentration": "根に高濃度で含有",
+        "health_effect": "鎮咳、去痰、抗炎症、免疫調節、抗腫瘍作用が報告されている。"
+      },
+      {
+        "compound": "イヌリン",
+        "concentration": "根に含有",
+        "health_effect": "プレバイオティクスとして腸内環境を改善する効果。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学、漢方、韓国伝統医学",
+        "uses": [
+          "咳",
+          "痰",
+          "喉の痛み",
+          "扁桃炎",
+          "気管支炎"
+        ],
+        "preparation": "乾燥させた根を煎じる、または他の生薬と配合して用いる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "去痰作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "抗肥満作用",
+        "神経保護作用",
+        "免疫賦活作用"
+      ],
+      "safety_considerations": "サポニンを多量に摂取すると溶血作用の可能性があるが、通常の食用・薬用量では安全とされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "特に韓国料理における利用法は体系化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "韓国",
+        "methods": [
+          "和える（ムチム）",
+          "炒める（ポックム）",
+          "漬ける（キムチ）",
+          "煮る",
+          "揚げる"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "コチュジャン",
+          "ごま油",
+          "ニンニク",
+          "牛肉",
+          "米"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "東アジア全域"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りが強まり、薬効成分が凝縮される。"
+      },
+      {
+        "method": "塩蔵・漬物",
+        "regions": [
+          "韓国"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "苦味が抜け、食感が柔らかくなる。発酵により風味が向上する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "特有の苦味と土の香り、ほのかな甘み",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "生の根はシャキシャキとした歯ごたえ。加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動への応答に関する直接的な研究は非常に少ない。以下の評価は、植物の一般的な生理学的特性と栽培条件からの推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-20°C以下"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒伏しやすいが、地下の根は残存するため回復可能。",
+      "hail_damage_recovery": "中程度",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により根腐れ病やネコブセンチュウの発生が増加する可能性。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯地域",
+        "2050_projection": "栽培適地がより高緯度または高標高へ移動する可能性",
+        "2100_projection": "現在の主要産地での栽培が困難になるリスク",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "本属は一属一種であるため、自然交雑による適応ポテンシャルは極めて低い。評価は種内の遺伝的多様性に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "青花、白花、桃色花の品種間や、栽培品種と野生集団との交雑は可能。"
+      ],
+      "interspecific_compatibility": [
+        "なし"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中国、韓国の各地に根の形状や成分含有量が異なる在来種が存在する。",
+      "wild_gene_pool": "東アジアに広く分布する野生集団が重要な遺伝資源となっている。",
+      "adaptive_genetic_variation": "広範な分布域は、地域の環境に適応した遺伝的変異が存在することを示唆する。",
+      "inbreeding_depression_risk": "自家不和合性が強く、他家受粉を行うため近交弱勢のリスクは低い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "種内交雑による耐性の劇的な向上は期待しにくい。",
+      "improved_nutritional_content": "サポニン含有量などの形質は品種改良により改善可能。",
+      "novel_characteristics": "花色や草姿の変更は可能だが、適応能力に関わる新規特性の獲得は困難。",
+      "hybrid_vigor_potential": "限定的"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間・属間の交雑障壁は絶対的。",
+      "chromosome_compatibility": "種内では問題ない。",
+      "fertility_of_hybrids": "種内交雑では問題ない。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、病害（根腐れ病）",
+        "adaptive_traits": "根の深さ、特定のサポニンプロファイル",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 2
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "リジェネラティブ農業への適性に関する直接的な研究はないが、植物の特性からポテンシャルを推定。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "太く長い直根性。硬盤層を破砕し、土壌深くまで水と空気の通り道を作る可能性がある。",
+      "organic_matter_contribution": "多年草であり、毎年の地上部の枯死と細根の脱落が土壌有機物を供給する。",
+      "soil_structure_improvement": "直根が土壌の団粒構造形成を助ける可能性がある。",
+      "erosion_control": "確立後の地上部の被覆と根系が土壌侵食を抑制する。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きく開いた花はハナバチ類など多様な訪花昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "サポニンが土壌微生物叢に与える影響については研究が必要。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作るチャネルが水の浸透を促進する。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的",
+      "below_ground_carbon": "大きく肥大する根に炭素を長期間貯留するポテンシャルが高い。",
+      "soil_carbon_enhancement": "多年生作物として、不耕起栽培と組み合わせることで土壌炭素の蓄積に貢献できる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "不明"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "サポニンによるアレロパシー効果の可能性が考えられるが、未実証。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、農業生態系の安定性に貢献する可能性がある。",
+      "stress_tolerance": "耐寒性は高いが、耐暑・耐湿性は低い。",
+      "recovery_capacity": "地下の根から再生するため、地上部へのダメージからの回復力は高い。",
+      "adaptability": "限定的"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性食品としての研究は進んでいるが、市場はまだ限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "薬膳や機能性野菜としての価値が高い。",
+      "food_security_contribution": "主食ではないが、健康維持に貢献する補助的作物。",
+      "local_food_system_integration": "韓国料理の普及に伴い、世界各地の地域食品システムに組み込まれる可能性がある。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・サプリメント市場",
+        "世界的な韓国料理ブーム",
+        "健康志向の消費者向けニッチ野菜市場"
+      ],
+      "value_added_products": [
+        "トラジエキス",
+        "トラジ茶",
+        "喉の健康を訴求した加工食品",
+        "化粧品原料"
+      ],
+      "niche_market_value": "「Food as Medicine（医食同源）」のコンセプトで高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "野生集団の減少は報告されているが、定量的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "自生地である草原や林縁の開発により、野生集団が減少。",
+    "climate_change_vulnerability": "高。温暖化による生育不適地の拡大が懸念される。",
+    "cultural_erosion_risk": "中。特に日本において、食用・薬用としての伝統的知識が失われつつある。",
+    "conservation_actions_needed": [
+      "野生集団の生息域内保全",
+      "各地の在来種の遺伝資源としての収集・保存（ジーンバンク）",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "中国東北部",
+      "朝鮮半島",
+      "日本の阿蘇地域など、草原環境が残る地域"
+    ],
+    "ex_situ_conservation_status": "各国のジーンバンクで種子が保存されている。",
+    "in_situ_conservation_efforts": "一部の自然保護区で保護されているが、体系的な活動は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "韓国（食用文化）",
+      "中国（薬用・遺伝的多様性）",
+      "日本（文化的象徴性・野生集団）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "サポニン以外の微量栄養素プロファイル",
+      "土壌微生物との相互作用"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は観賞用のものが多く、食用・薬用の品種分類は体系化されていない。"
+      },
+      "variety_name": "一般的な栽培種（青花）",
+      "local_name": "トラジ（도라지）, 桔梗（Jiegeng）",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "2-4年で収穫可能な太い直根を形成する。サポニン含有量が多い。",
+      "cultural_importance": "韓国の食文化と東アジアの伝統医学において最も重要な品種群。",
+      "climate_adaptation": "温帯気候に適応しているが、気候変動への脆弱性が懸念される。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "白花種は観賞用としても食用としても存在する。"
+      },
+      "variety_name": "白花桔梗（var. albus）",
+      "local_name": "백도라지 (Baekdoraji)",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "花が白い。根の薬効や味は青花種と同様とされることが多い。",
+      "cultural_importance": "青花種と同様に利用されるが、白い色が好まれる場面もある。",
+      "climate_adaptation": "青花種に準じる。",
+      "conservation_status": "栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      "GRIN-Global",
+      "PubMed",
+      "民族植物学関連論文",
+      "各国の伝統医学文献"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果測定",
+      "遺伝的多様性の網羅的な評価"
+    ],
+    "regional_data_coverage": "東アジアに偏っており、その他の地域でのデータはほぼない。",
+    "missing_information": [
+      "収穫量に関する信頼性の高い統計データ",
+      "詳細な微量栄養素分析"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,568 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "学名、科属、原産地などの基本情報は、主要な植物学データベース（KEW, GBIF）に基づき確立されている。食用としての情報は限定的であり、主に染料植物としての文献に依存する。"
+    },
+    "primary_name": "Dyer's Knotweed",
+    "scientific_name": "Persicaria tinctoria",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "種子"
+    ],
+    "origin_region": "東南アジア（インドシナ半島）",
+    "wild_relatives": [
+      "Persicaria longiseta",
+      "Persicaria hydropiper"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアでの名称は歴史的文献から豊富に得られる。その他の地域での名称は、植物園や民族植物学の記録による。"
+    },
+    "international": {
+      "en": [
+        "Dyer's knotweed",
+        "Chinese indigo",
+        "Japanese indigo"
+      ],
+      "scientific_common": "Dyer's Knotweed"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "藍",
+            "script": "Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "蓼蓝",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "쪽",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Chàm",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースと整合している。"
+    },
+    "family": {
+      "en": "Knotweed family",
+      "la": "Polygonaceae"
+    },
+    "genus": {
+      "en": "Knotweed",
+      "la": "Persicaria"
+    },
+    "species": {
+      "en": "Dyer's Knotweed",
+      "la": "tinctoria"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "染料植物としての文化的価値に関する文献は豊富。食文化としての情報は極めて限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "主に藍染めの原料として利用され、日本の「ジャパン・ブルー」に代表されるように、各国の伝統的な織物文化の中核をなしてきた。また、漢方では清熱解毒薬として利用される。",
+        "seasonal_significance": "夏の収穫と染料（すくも）作りは、地域の季節的な共同作業として重要であった。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本の健康食品・郷土料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "藍の葉の天ぷら",
+          "藍の粉末入り蕎麦・菓子"
+        ],
+        "preparation_methods": [
+          "粉末化",
+          "生食",
+          "加熱"
+        ],
+        "cultural_context": "染料としての利用が主であり、食用は近年の健康志向や地域振興の一環として再評価されている側面が強い。伝統的には薬膳的な意味合いで食された可能性はある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では古代から薬用および染料として利用されていた記録がある。日本には奈良時代以前に伝わったとされる。",
+      "trade_routes": "藍染めの製品や技術は、シルクロードを含むアジアの交易路を通じて伝播・交流した。",
+      "cultural_exchange": "藍染めの技術は各国で独自の発展を遂げ、文化交流の重要な媒体となった。",
+      "domestication_history": "東南アジアの野生種から、より色素含有量の多い栽培種へと、数千年にわたって選抜されてきたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好むが、極端な高温は生育を阻害する可能性がある。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "生育に最も適した気候帯。十分な降雨と長い生育期間が確保される。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "温暖な地域でのみ栽培可能。霜に弱いため、一年草として扱われる。日本の主要産地（徳島など）はこの気候帯に属する。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さが厳しく、生育期間が短いため栽培は困難。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱く、灌漑設備がなければ栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため栽培は不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（4月-5月）",
+        "harvest_season": "夏から初秋（7月-9月）",
+        "growing_period_days": 100
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "降水量",
+        "土壌肥沃度",
+        "施肥管理",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "徳島県などが伝統的な産地として知られる。高品質な染料（すくも）生産を目的とした小規模・職人的な生産が中心。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "伝統医学（TCM）向けの薬用としての栽培と、染料用の栽培が存在する。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性成分に関する研究は進んでいるが、一般的な食品としての栄養価データは乏しい。伝統的薬用利用は漢方などの文献で確立されている。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ポリフェノール",
+          "amount": "高濃度",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "トリプタンスリン",
+        "concentration": "可変",
+        "health_effect": "抗炎症作用、抗菌作用"
+      },
+      {
+        "compound": "インジルビン",
+        "concentration": "可変",
+        "health_effect": "抗腫瘍作用、抗炎症作用"
+      },
+      {
+        "compound": "ケンペロール",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学（TCM）",
+        "uses": [
+          "清熱解毒",
+          "涼血消斑",
+          "皮膚炎治療",
+          "解熱"
+        ],
+        "preparation": "葉を発酵・加工したものを「青黛（せいたい）」として内服・外用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗炎症作用",
+        "抗菌作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "乾癬など自己免疫疾患への効果",
+        "腸内環境改善効果"
+      ],
+      "safety_considerations": "薬用として利用する場合、専門家の指導が必要。特に妊婦や体質によっては禁忌とされることがある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用としての利用は非常に限定的で、伝統的な料理体系に深く根付いているとは言えない。情報は主に現代の健康食品や地域振興の文脈で見られる。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "粉末にして混ぜ込む",
+          "天ぷらにする",
+          "お茶として煎じる"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "蕎麦",
+          "パン",
+          "クッキー",
+          "塩"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・粉末化",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "乾燥により香りは弱まるが、機能性成分は保持される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "わずかな苦味、青々しい風味、うま味",
+      "aroma_compounds": [
+        "インドール"
+      ],
+      "texture_characteristics": "生の葉は柔らかいが、加熱すると少しぬめりが出る。粉末は料理の食感にほとんど影響しない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応性の定量的研究はほぼ存在しない。評価は、栽培条件やタデ科植物の一般的性質に基づく定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "0°C以下で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1000-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "草本であるため物理的な耐性は低い。",
+      "hail_damage_recovery": "葉が傷つくと収量・品質が著しく低下するため、回復力は低い。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。多くのC3植物同様、一定の効果が期待されるが、品質（色素含有量）への影響は未知数。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、南方系の害虫（ヨトウムシなど）の発生が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境での立枯病などのリスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "亜熱帯から温帯南部",
+        "2050_projection": "栽培適地がやや北上する可能性があるが、既存産地では熱ストレスや干ばつのリスクが増加する。",
+        "2100_projection": "北日本の広範囲で栽培可能になる一方、西日本の伝統的産地では夏の極端な高温により栽培が困難になる可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "タデ属は種間交雑が起こりやすいことで知られるが、本種と近縁種との自然交雑に関する具体的な研究や報告は限定的である。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "小千本（こせんぼん）などの栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Persicaria longisetaなどの近縁種と交雑する可能性がある。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は不明。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "日本の各地に在来品種が存在したが、多くは失われた。遺伝的多様性は限定的になっている可能性がある。",
+      "wild_gene_pool": "原産地である東南アジアの野生集団が重要な遺伝子プールとなる可能性がある。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "中。栽培品種が限定されているため、リスクは存在する。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本（徳島県）",
+        "environmental_pressure": "台風による多湿環境と肥沃な氾濫原土壌",
+        "adaptive_response": "色素含有量が多く、特定の栽培法（連作）に適応した品種の成立",
+        "time_scale": "数百年",
+        "mechanism": "人為選択と自然選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐病性を持つ野生近縁種との交雑により、気候耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "色素の質や量の改良、新たな機能性成分の獲得。",
+      "hybrid_vigor_potential": "可能性あり。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "近縁種とは比較的高い可能性がある。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫耐性",
+        "adaptive_traits": "特定の化学物質の生産",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 5
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈で本種を評価した研究はない。評価は、植物の一般的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる繊維状の根系を持つ。",
+      "organic_matter_contribution": "地上部のバイオマスが多く、収穫後の残渣をすき込むことで有機物を供給できる。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "生育初期から密に繁茂するため、地表面を覆い土壌侵食を抑制する効果がある。",
+      "nutrient_cycling_role": "窒素固定能力はない。養分吸収量は多い。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さな花を多数つけ、ハナアブやミツバチなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により、雨滴による土壌のクラスト化を防ぎ、水分の浸透を助ける。",
+      "moisture_retention": "限定的。",
+      "runoff_reduction": "地表被覆により、表面流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。一年草であるため、炭素の長期貯留には寄与しない。",
+      "below_ground_carbon": "低い。",
+      "soil_carbon_enhancement": "残渣のすき込みにより、短期的には土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "不明"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "タデ科植物にはアレロパシー効果を持つ種があるが、本種については不明。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌伝染性病害のリスクを低減する可能性がある。",
+      "stress_tolerance": "低い。",
+      "recovery_capacity": "低い。",
+      "adaptability": "中程度。"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "天然染料や機能性食品としての現代的価値に関する議論は活発である。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "抗酸化物質や抗炎症物質を豊富に含む機能性食品としての価値を持つ。",
+      "food_security_contribution": "主食や主要な野菜ではないため、食料安全保障への直接的な貢献は小さい。",
+      "local_food_system_integration": "地域の文化や伝統と結びついた特産品として、地域の食システムを豊かにする可能性がある。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "天然染料市場",
+        "健康食品・サプリメント市場",
+        "ナチュラルコスメ市場"
+      ],
+      "value_added_products": [
+        "藍パウダー",
+        "藍茶",
+        "藍エキス配合の石鹸やクリーム",
+        "藍染め製品"
+      ],
+      "niche_market_value": "非常に高い。持続可能性や伝統文化への関心の高まりが追い風となっている。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の減少は指摘されているが、定量的な評価は不足している。文化的な消失リスクは高いと認識されている。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "栽培植物であるため、自生地の喪失リスクは直接的ではないが、野生近縁種の生息地は開発により脅かされている可能性がある。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "在来品種の探索と収集",
+      "ジーンバンクでの種子保存（域外保全）",
+      "栽培者コミュニティによる農場での系統維持（域内保全）",
+      "伝統的な栽培・加工技術の記録と伝承"
+    ],
+    "priority_conservation_regions": [
+      "日本（徳島県、沖縄県）",
+      "中国（雲南省など）",
+      "韓国",
+      "ベトナム北部"
+    ],
+    "ex_situ_conservation_status": "いくつかのジーンバンクで保存されているが、網羅性は不明。",
+    "in_situ_conservation_efforts": "日本の徳島県などで、生産者や保存会による栽培・技術伝承活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集された情報全体を統合した専門家としての判断である。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "日本（徳島県）",
+      "中国（雲南省）",
+      "ベトナム北部"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、乾燥、CO2濃度上昇）に対する生理学的応答の定量的データ",
+      "食用利用における詳細な栄養価と安全性評価",
+      "土壌微生物叢との相互作用とリジェネラティブ農業への貢献度評価",
+      "現存する在来品種の網羅的な遺伝子解析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "日本の品種に関する情報は比較的入手しやすいが、他地域の在来品種に関する体系的な情報は少ない。"
+      },
+      "variety_name": "Kosenbon",
+      "local_name": "小千本（こせんぼん）",
+      "origin_region": "日本",
+      "distinctive_characteristics": "葉が比較的小さく、密生する。インディゴ含有量が多く、高品質な染料（すくも）の原料とされる。",
+      "cultural_importance": "日本の伝統的な藍染め（阿波藍）を支えてきた代表的な品種。",
+      "climate_adaptation": "日本の温帯気候、特に徳島県の吉野川流域の肥沃で水はけのよい土壌に適応している。",
+      "conservation_status": "生産者や保存会により維持されているが、栽培面積は限定的。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "Ethnobiology and Ethnomedicine literature",
+      "Japanese government reports on traditional crafts",
+      "Scientific papers on bioactive compounds of Persicaria tinctoria"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "食用としての包括的な栄養分析"
+    ],
+    "regional_data_coverage": "東アジア、特に日本に関するデータは豊富だが、原産地である東南アジアや他の地域に関するデータは限定的。",
+    "missing_information": [
+      "世界的な生産統計",
+      "近縁野生種との交雑に関する遺伝学的研究"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

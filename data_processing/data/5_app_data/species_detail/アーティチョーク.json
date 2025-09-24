@@ -1,0 +1,736 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(Kew Gardens, USDA GRIN)及び農学研究論文に基づき統合。栽培化の歴史は明確だが、野生種との正確な分類学的境界には議論がある。"
+    },
+    "primary_name": "Artichoke",
+    "scientific_name": "Cynara scolymus",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "花"
+    ],
+    "origin_region": "地中海地域",
+    "wild_relatives": [
+      "Cynara cardunculus var. sylvestris (Cardoon)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパおよび地中海沿岸地域の言語での名称は豊富に記録されている。他の地域では主に英語名または主要なヨーロッパ言語名が借用されている。"
+    },
+    "international": {
+      "en": [
+        "Globe Artichoke",
+        "Artichoke"
+      ],
+      "scientific_common": "Artichoke thistle"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "carciofo",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "alcachofa",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "artichaut",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Artischocke",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "alcachofra",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "خرشوف",
+            "script": "Arabic"
+          },
+          {
+            "lang": "tr",
+            "name": "enginar",
+            "script": "Latin"
+          },
+          {
+            "lang": "fa",
+            "name": "کنگر فرنگی",
+            "script": "Arabic"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "該当なし",
+        "name": "不明",
+        "cultural_significance": "アーティチョークは旧世界の栽培植物であり、他の大陸の先住民文化に深く根付いた伝統名を持つ事例は確認されていない。文化的導入後の地域名称はregionalセクションに記載。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づいている。Cynara cardunculusの栽培品種群(var. scolymus)として扱われることが多い。"
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Artichoke",
+      "la": "Cynara"
+    },
+    "species": {
+      "en": "Globe Artichoke",
+      "la": "scolymus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivar Group",
+        "name": "Cynara cardunculus Scolymus Group"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "地中海文化における重要性に関する歴史的、料理的文献は豊富。他の地域では比較的新しい食材としての位置づけ。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "イタリア、スペイン、フランス、ギリシャ料理において春を象徴する重要な野菜。丸ごと調理したり、心臓部を保存食にしたりする。地域ごとの祝祭料理にも使用される。",
+        "seasonal_significance": "春の訪れを告げる食材として、多くの地域で季節の始まりと結びついている。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "主にカリフォルニア州で大規模に栽培される。イタリア系移民によって食文化が定着。アーティチョークディップは人気のあるパーティー料理。",
+        "seasonal_significance": "カリフォルニア州カストロビルではアーティチョーク祭りが開催されるなど、地域文化に根付いている。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ペルーやアルゼンチンで栽培・消費される。ヨーロッパ移民によって持ち込まれ、現地の食文化に取り入れられている。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Carciofi alla Romana (ローマ風アーティチョーク)",
+          "Carciofi alla Giudia (ユダヤ風アーティチョーク)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "揚げ物",
+          "オイル漬け"
+        ],
+        "cultural_context": "地域ごとの多様な品種と調理法が存在し、イタリアの食文化の豊かさを象徴する食材の一つ。"
+      },
+      {
+        "cuisine": "スペイン料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Alcachofas con jamón (アーティチョークと生ハムのソテー)",
+          "Pinchos de alcachofa (アーティチョークのピンチョス)"
+        ],
+        "preparation_methods": [
+          "炒め物",
+          "グリル"
+        ],
+        "cultural_context": "タパスや前菜として広く利用され、特にナバラ州など特定の地域で高品質なものが生産される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャ・ローマ時代から野生種（カルドン）が利用されていた記録がある。現代の形のアーティチョークは中世イスラム世界で栽培化が進み、ルネサンス期にイタリアで発展した。",
+      "trade_routes": "アラブ商人を通じて地中海全域に広まった。その後、ヨーロッパの探検家や移民によって新大陸に伝えられた。",
+      "cultural_exchange": "イスラム文化からヨーロッパへの農作物・食文化伝播の好例。",
+      "domestication_history": "地中海沿岸に自生する野生のカルドン（Cynara cardunculus var. sylvestris）から、より大きく柔らかい花蕾を持つ個体が選抜され栽培化された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "低温要求（ヴァーナリゼーション）を満たせないため、花蕾の形成が困難。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬が温暖な地域で栽培可能。夏の高温はストレス要因となる。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "地中海性気候が最適。冬は穏やかで霜が少なく、夏は長く涼しい気候を好む。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さで枯死するため、一年草として栽培される場合を除き不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。乾燥には比較的強いが、品質の良い花蕾を得るには安定した水分供給が必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "地中海性気候",
+        "planting_season": "秋",
+        "harvest_season": "春から初夏",
+        "growing_period_days": 200
+      },
+      {
+        "climate_zone": "温暖な温帯気候（カリフォルニア沿岸部）",
+        "planting_season": "夏",
+        "harvest_season": "ほぼ通年（ピークは春）",
+        "growing_period_days": 300
+      }
+    ],
+    "productivity": {
+      "yield_range": "8,000 - 20,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "気候（特に冬の気温と夏の暑さ）",
+        "水管理",
+        "土壌の肥沃度",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約1,500,000トン (FAOSTAT 2022年)",
+      "major_producers": [
+        {
+          "country": "イタリア",
+          "production_share": 25,
+          "characteristics": "世界最大の生産国。多様な地域品種が存在し、国内消費が中心。"
+        },
+        {
+          "country": "エジプト",
+          "production_share": 20,
+          "characteristics": "近年生産が急増。輸出向け栽培が盛ん。"
+        },
+        {
+          "country": "スペイン",
+          "production_share": 13,
+          "characteristics": "生鮮および加工品（缶詰・瓶詰）の主要輸出国。"
+        },
+        {
+          "country": "ペルー",
+          "production_share": 9,
+          "characteristics": "加工用アーティチョークの主要輸出国。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栄養成分に関するデータはUSDA FoodData Central等で標準化されている。機能性成分に関する研究も多数存在する。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "47",
+        "protein_g": "3.3",
+        "carbs_g": "10.5",
+        "fat_g": "0.2",
+        "fiber_g": "5.4"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸 (Folate)",
+          "amount": "68 µg",
+          "daily_value_percent": 17
+        },
+        {
+          "nutrient": "ビタミンK (Vitamin K)",
+          "amount": "14.8 µg",
+          "daily_value_percent": 12
+        },
+        {
+          "nutrient": "マグネシウム (Magnesium)",
+          "amount": "60 mg",
+          "daily_value_percent": 14
+        },
+        {
+          "nutrient": "カリウム (Potassium)",
+          "amount": "370 mg",
+          "daily_value_percent": 8
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "シナリン (Cynarin)",
+        "concentration": "可変（主に葉に多い）",
+        "health_effect": "利胆作用、肝保護作用、コレステロール低下作用"
+      },
+      {
+        "compound": "シリマリン (Silymarin)",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用、肝保護作用"
+      },
+      {
+        "compound": "ルテオリン (Luteolin)",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ医学",
+        "uses": [
+          "消化不良の改善",
+          "肝臓・胆嚢機能のサポート",
+          "利尿作用"
+        ],
+        "preparation": "葉の煎じ薬やチンキ剤として利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "消化不良（特に脂肪分の多い食事後）の症状緩和",
+        "非アルコール性脂肪性肝疾患（NAFLD）患者の肝機能マーカー改善",
+        "軽度の高コレステロール血症におけるLDLコレステロール低下"
+      ],
+      "ongoing_research": [
+        "血糖コントロールへの影響",
+        "抗がん作用",
+        "腸内細菌叢への影響"
+      ],
+      "safety_considerations": "キク科アレルギーの人は注意が必要。胆管閉塞や胆石のある人は使用を避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "地中海料理における利用法は極めて多様で、多くの料理本や民族誌に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "蒸す",
+          "茹でる",
+          "グリル",
+          "揚げる",
+          "煮込む",
+          "詰物をする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "オリーブオイル",
+          "ニンニク",
+          "パセリ",
+          "ミント",
+          "レモン",
+          "生ハム"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "蒸す",
+          "グリル",
+          "ディップにする",
+          "ピザのトッピング"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "溶かしバター",
+          "マヨネーズ",
+          "チーズ",
+          "ほうれん草"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "オイル漬け (Sott'olio)",
+        "regions": [
+          "イタリア",
+          "スペイン"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "風味が凝縮され、食感が柔らかくなる。ハーブやスパイスで風味が加えられる。"
+      },
+      {
+        "method": "缶詰（塩水またはクエン酸水溶液）",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "2-5年",
+        "quality_changes": "フレッシュな風味は失われるが、利便性が高い。金属的な風味がつくことがある。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "食感と風味の保持が比較的良い。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな甘み、ナッツのような風味、心地よい苦味、わずかな収斂味。シナリンには、後から食べるものの味を甘く感じさせる効果がある。",
+      "aroma_compounds": [
+        "セスキテルペン類"
+      ],
+      "texture_characteristics": "心臓部（ハート）は柔らかくクリーミー。苞（ガク）の付け根は歯ごたえがある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述や栽培経験は多いが、制御環境下での定量的な実験データは限定的。将来予測は広域気候モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C (日中), 10-15°C (夜間)",
+      "extreme_heat_survival": "35°C以上が続くと生育が停止し、花蕾が硬化する。",
+      "cold_tolerance": "-5°C（短時間なら耐えるが、-9°C以下で地上部が枯死）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "深い主根により土壌深層の水分を利用できるが、商業生産には定期的な灌漑が必要。",
+      "flood_tolerance": "低（根腐れを起こしやすい）",
+      "optimal_rainfall": "600-800 mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "比較的高い（株が頑丈で背が低い）",
+      "hail_damage_recovery": "中（葉や蕾に傷がつくが、株自体は回復可能）",
+      "rapid_temperature_change": "比較的弱い（急な高温は蕾の質を低下させる）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般のC3植物と同様に、水分・栄養が十分なら光合成が促進される可能性）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中（地中海原産のため、ある程度の耐性は持つと推定）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアーティチョークプルームモスなどの害虫の発生地域や世代数が増加するリスクがある。",
+      "disease_resistance_stability": "高温多湿はうどんこ病や灰色かび病などの真菌性疾患の発生を助長する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海沿岸、カリフォルニア沿岸部",
+        "2050_projection": "現在の主産地で熱ストレスと水不足のリスクが増大。より高緯度地域（フランス北部、イギリス南部、オレゴン州など）での栽培可能性が高まる。",
+        "2100_projection": "地中海地域の多くで商業栽培が困難になる可能性。適地はさらに北上すると予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アーティチョーク（Cynara scolymus）とカルドン（C. cardunculus）の交雑親和性は育種学的に広く知られている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全てのアーティチョーク品種間で交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "Cynara cardunculus (Cardoon)"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "アーティチョークとカルドンの栽培地域では、自然交雑が容易に起こる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "地中海地域には、形状、色、棘の有無、早晩性など多様な在来品種が存在する。",
+      "wild_gene_pool": "野生のカルドンが持つ耐乾性、耐病性、強健さなどの遺伝子は、アーティチョークの育種にとって非常に価値が高い。",
+      "adaptive_genetic_variation": "地域ごとの品種は、それぞれの地域の微気候や土壌に適応した遺伝的変異を持つ。",
+      "inbreeding_depression_risk": "栄養繁殖（株分け）による増殖が多いため、特定のクローン品種では遺伝的多様性が低くなるリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "サルデーニャ島（イタリア）",
+        "environmental_pressure": "乾燥した夏、強い日差し",
+        "adaptive_response": "Spinoso Sardo（棘のあるサルデーニャ品種）のような、棘を持ち、乾燥に強い品種が成立。",
+        "time_scale": "数世紀",
+        "mechanism": "地域農家による長年の選抜と自然選択。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生カルドンとの交雑により、耐乾性や耐暑性の向上が期待できる。",
+      "improved_nutritional_content": "野生種の持つ機能性成分（ポリフェノール類など）を導入できる可能性がある。",
+      "novel_characteristics": "新しい色や形状、風味を持つ品種の作出が可能。",
+      "hybrid_vigor_potential": "高い。特に遠縁の在来種や野生種との交雑で顕著な雑種強勢が期待される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "ほとんどない（アーティチョークとカルドン間）。",
+      "chromosome_compatibility": "高い（2n = 34）。",
+      "fertility_of_hybrids": "高い。",
+      "backcrossing_success": "高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水ストレス",
+        "adaptive_traits": "深い根系、葉のクチクラ層の発達",
+        "heritability": "中〜高",
+        "response_to_selection": "適応的"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アーティチョークに特化したリジェネラティブ農業の研究は少ないが、その植物学的特性（多年生、深根性）からポテンシャルは高いと推測される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "太く長い主根が地中深くまで（1.5m以上）伸び、硬盤層を破砕し、土壌の通気性・透水性を改善する。",
+      "organic_matter_contribution": "多年生作物であるため、毎年の耕起が不要で土壌有機物の蓄積に貢献する。収穫後の残渣も土壌に還元される。",
+      "soil_structure_improvement": "根系の活動と有機物供給により、土壌の団粒構造を促進する。",
+      "erosion_control": "年間を通じて畑を覆うため、風食や水食を防ぐ効果が高い。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "収穫されずに開花した花は、ミツバチ、マルハナバチなど多様な花粉媒介昆虫にとって魅力的な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "多年生の草冠は、テントウムシや寄生蜂などの天敵昆虫の越冬場所や生息地を提供する。",
+      "soil_microorganism_interaction": "根圏でアーバスキュラー菌根菌との共生が報告されている。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作るチャネルにより、水の土壌への浸透が促進される。",
+      "moisture_retention": "土壌被覆と有機物増加により、土壌の保水性が向上する。",
+      "runoff_reduction": "地上部が雨滴の衝撃を和らげ、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "高い。大規模で深くまで達する根系は、安定した土壌炭素の貯蔵庫となる。",
+      "soil_carbon_enhancement": "不耕起栽培と組み合わせることで、土壌炭素の蓄積に大きく貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明（定量的データなし）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（カバークロップとして窒素供給）",
+        "タデ科植物（天敵誘引）"
+      ],
+      "natural_pest_control": "特定のコンパニオンプランツとの組み合わせによる効果は研究途上。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生であるため、一年生作物システムよりも生態系が安定しやすい。",
+      "stress_tolerance": "一度定着すれば、ある程度の旱魃には耐える。",
+      "recovery_capacity": "地上部がダメージを受けても、地下の根から再生する能力がある。",
+      "adaptability": "中程度"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場動向、健康志向、持続可能性の観点からの評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食物繊維と微量栄養素が豊富な野菜として価値が高い。",
+      "food_security_contribution": "主食ではないが、高付加価値作物として農家の収入源となり、地域の食料システムの多様性に貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットなどで人気の高い品目であり、地域経済の活性化に貢献する。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康機能性（肝臓サポート）を訴求したサプリメントや健康食品市場",
+        "グルメ・高級食材市場",
+        "植物由来食品としての新規レシピ開発"
+      ],
+      "value_added_products": [
+        "アーティチョークハートのオイル漬け・マリネ",
+        "アーティチョークペースト（パテ）",
+        "アーティチョークリキュール（例：Cynar）",
+        "葉の抽出物を利用した健康補助食品"
+      ],
+      "niche_market_value": "高い。特にオーガニックや伝統品種は高値で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは指摘されているが、具体的な保全状況の定量データは地域によって異なる。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生の近縁種であるカルドンの自生地が、開発や農業拡大により脅かされている。",
+    "climate_change_vulnerability": "高い。特に伝統的な栽培地域において、高温と乾燥の深刻化が栽培を脅かす可能性がある。",
+    "cultural_erosion_risk": "中。若い世代が伝統的な調理法や栽培知識を継承しなくなることで、食文化としての多様性が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来品種のジーンバンク（種子銀行）における収集・保存",
+      "オンファーム（農家による）保全活動の支援",
+      "伝統的知識の記録と継承",
+      "野生近縁種の生息域内保全"
+    ],
+    "priority_conservation_regions": [
+      "イタリア（特にシチリア島、サルデーニャ島）",
+      "スペイン",
+      "北アフリカ（チュニジア、モロッコ）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数の品種が保存されているが、網羅性は不完全。",
+    "in_situ_conservation_efforts": "一部の地域でスローフード協会などが在来品種の保全プロジェクトを実施している。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "イタリアの多様な在来品種栽培地域",
+      "気候変動の最前線にある北アフリカの栽培システム",
+      "野生カルドンとの交雑が起こっている地域"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、CO2濃度上昇）に対する品種ごとの生理学的応答の定量的データ",
+      "アーティチョークを中心としたリジェネラティブ農業システムが土壌炭素や生物多様性に与える影響の長期的データ",
+      "伝統的在来品種の機能性成分に関する網羅的な分析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な園芸品種データベース及び地域農業研究に基づく。"
+      },
+      "variety_name": "Green Globe",
+      "local_name": "Green Globe",
+      "origin_region": "アメリカ（カリフォルニア）",
+      "distinctive_characteristics": "広く栽培されている商業品種。大きくて丸い緑色の花蕾。棘はない。",
+      "cultural_importance": "北米のアーティチョーク産業を支える基幹品種。",
+      "climate_adaptation": "カリフォルニアの沿岸気候に高度に適応している。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "イタリアの地域品種に関する文献に基づく。"
+      },
+      "variety_name": "Carciofo Romanesco",
+      "local_name": "Mammola, Cimarolo",
+      "origin_region": "ラツィオ州、イタリア",
+      "distinctive_characteristics": "非常に大きく、球形で、紫色を帯びる。棘がなく、内部に毛が少ないため、丸ごと調理するのに適している。",
+      "cultural_importance": "ローマ料理、特に「Carciofi alla Romana」に不可欠。DOP（原産地名称保護）認定を受けている。",
+      "climate_adaptation": "イタリア中部の気候に適応。",
+      "conservation_status": "地域的に保全されている"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "イタリアの地域品種に関する文献に基づく。"
+      },
+      "variety_name": "Spinoso Sardo",
+      "local_name": "Spinoso Sardo",
+      "origin_region": "サルデーニャ島、イタリア",
+      "distinctive_characteristics": "円錐形で、苞の先端に鋭い棘があるのが最大の特徴。風味豊かで、歯ごたえが良い。",
+      "cultural_importance": "サルデーニャの食文化に重要。DOP認定を受けている。生食されることもある。",
+      "climate_adaptation": "サルデーニャの乾燥した気候に適応している。",
+      "conservation_status": "地域的に保全されている"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "フランスの品種に関する文献に基づく。"
+      },
+      "variety_name": "Violet de Provence",
+      "local_name": "Violet de Provence",
+      "origin_region": "プロヴァンス地方、フランス",
+      "distinctive_characteristics": "小さく、円錐形で、鮮やかな紫色。若いうちに収穫し、束で売られることが多い。",
+      "cultural_importance": "南フランスの春の市場を彩る風物詩。若いものは生でサラダにも使われる。",
+      "climate_adaptation": "南フランスの地中海性気候に適応。",
+      "conservation_status": "地域的に保全されている"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "USDA FoodData Central",
+      "Kew Royal Botanic Gardens, Plants of the World Online",
+      "Scientific literature on ethnobotany and agronomy (via Google Scholar, PubMed)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性に関する定量的データ",
+      "気候変動に対する品種レベルでの生理学的応答の詳細な研究",
+      "多様な在来品種における機能性成分の含有量と変動"
+    ],
+    "regional_data_coverage": "ヨーロッパ、北米は良好。北アフリカ、南米は中程度。アジア、オセアニアは限定的。",
+    "missing_information": [
+      "アフリカ、アジアのマイナーな栽培地域における文化的利用法",
+      "土壌微生物との相互作用に関する詳細"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

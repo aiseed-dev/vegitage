@@ -1,0 +1,637 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew, GRIN-Global）および農業研究機関の公表データに基づいています。野生近縁種に関する詳細な遺伝子情報は部分的に限定されています。"
+    },
+    "primary_name": "Horse Gram",
+    "scientific_name": "Macrotyloma uniflorum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "葉",
+      "茎"
+    ],
+    "origin_region": "南アジア、旧世界の熱帯アフリカ",
+    "wild_relatives": [
+      "Macrotyloma axillare",
+      "Macrotyloma daltonii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "南アジアと一部のアフリカ地域での名称は豊富に記録されていますが、他の地域での呼称は限定的です。これは本種の栽培が地域的に集中していることを反映しています。"
+    },
+    "international": {
+      "en": [
+        "Horse Gram",
+        "Kulthi Bean",
+        "Madras Gram"
+      ],
+      "scientific_common": "Horse Gram"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "कुलथी",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "கொள்ளு",
+            "script": "Tamil"
+          },
+          {
+            "lang": "kn",
+            "name": "ಹುರುಳಿ",
+            "script": "Kannada"
+          },
+          {
+            "lang": "te",
+            "name": "ఉలవలు",
+            "script": "Telugu"
+          },
+          {
+            "lang": "mr",
+            "name": "कुळीथ",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ne",
+            "name": "गहत",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "am",
+            "name": "不明",
+            "script": "Ethiopic"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "南インドの農村コミュニティ",
+        "name": "Kollu / Huruli / Ulavalu",
+        "cultural_significance": "「貧者の豆」として知られ、厳しい乾季を乗り越えるための重要な栄養源であり、食料安全保障の要。家畜の飼料としても不可欠。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類体系はAPG IVシステムに基づいています。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Macrotyloma",
+      "la": "Macrotyloma"
+    },
+    "species": {
+      "en": "Horse Gram",
+      "la": "uniflorum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "uniflorum"
+      },
+      {
+        "rank": "var.",
+        "name": "stenocarpum"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "南アジア、特にインド南部における民族植物学的、文化人類学的記録は豊富です。他の地域での文化的価値に関する記録は限定的です。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア（特に南インド）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "経済作物",
+          "飼料"
+        ],
+        "traditional_uses": "乾燥地帯の農村部で主食級のタンパク源。スープ（ラッサム）、カレー、粥、粉にしてパン生地に混ぜるなど多様。伝統医療アーユルヴェーダで重要な薬草。",
+        "seasonal_significance": "雨季の終わりに播種され、乾季の食料となる重要な作物。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アフリカ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "飼料"
+        ],
+        "traditional_uses": "主に家畜の飼料として栽培されるが、食料が不足する時期には人間も食用にする。栽培規模は小さい。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "南インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Kollu Rasam (タミル・ナードゥ州のスープ)",
+          "Ulavacharu (アーンドラ・プラデーシュ州の濃厚なスープ)",
+          "Huruli Saaru (カルナータカ州のスープ)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "発芽",
+          "焙煎",
+          "製粉"
+        ],
+        "cultural_context": "日常食でありながら、体を温める効果があるとされ、風邪の予防や治療、産後の回復食としても利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インド亜大陸で新石器時代から栽培されていた証拠があり、最も古くから栽培されている豆類の一つ。",
+      "trade_routes": "古代の交易路で広く取引された記録は少ない。主に地域内で消費される作物であった可能性が高い。",
+      "cultural_exchange": "不明",
+      "domestication_history": "インド亜大陸が栽培化の中心地とされ、野生種からの選抜育種が数千年にわたり行われてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "半乾燥熱帯地域。高温と低湿度を好む。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "乾季のある亜熱帯地域に適応。短日植物。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱いため、温帯での栽培は困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の低温に耐えられない。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "極めて高い乾燥耐性を持ち、年間降水量300mm程度の地域でも栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に適応しない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯・亜熱帯（インド）",
+        "planting_season": "雨季の終わり（9月〜10月）",
+        "harvest_season": "乾季（12月〜2月）",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "200 - 900 kg/ha",
+      "factors_affecting_yield": [
+        "土壌肥沃度",
+        "降雨量",
+        "栽培管理（無肥料・無農薬の粗放栽培が多い）",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（多くが非公式経済圏で取引されるため正確な統計がない）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": 90,
+          "characteristics": "主に南部の州（カルナータカ州、アーンドラ・プラデーシュ州、タミル・ナードゥ州）で、小規模農家による粗放栽培が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や地域による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "321",
+        "protein_g": "22",
+        "carbs_g": "57",
+        "fat_g": "0.5",
+        "fiber_g": "5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "鉄",
+          "amount": "6.77 mg",
+          "daily_value_percent": 38
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "287 mg",
+          "daily_value_percent": 22
+        },
+        {
+          "nutrient": "リン",
+          "amount": "311 mg",
+          "daily_value_percent": 25
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フィチン酸",
+        "concentration": "不明",
+        "health_effect": "ミネラルの吸収を阻害するが、抗酸化作用も持つ（調理法により低減可能）。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "腎臓結石の溶解・排出",
+          "喘息・気管支炎の緩和",
+          "月経不順の調整",
+          "肥満の改善"
+        ],
+        "preparation": "種子を煮出した煎じ薬やスープとして飲用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗高血糖作用",
+        "抗酸化活性",
+        "尿路結石抑制効果（動物実験レベル）"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "肝保護作用"
+      ],
+      "safety_considerations": "生の豆にはトリプシン阻害物質などの反栄養素が含まれるため、必ず加熱調理が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "南インド料理における利用法は広く文書化されています。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "煮込み（スープ、カレー）",
+          "発芽させてサラダや炒め物に",
+          "焙煎して粉にし、パンや粥に",
+          "蒸し料理"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "タマリンド",
+          "ニンニク",
+          "クミン",
+          "コリアンダー",
+          "黒胡椒"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "南アジア",
+          "アフリカ"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "適切に乾燥・保管すれば品質劣化は少ない。"
+      },
+      {
+        "method": "製粉",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "酸化しやすくなるため、長期保存には向かない。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "素朴で土のような風味、わずかな渋みと豆特有の旨味。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "加熱すると柔らかくなるが、他の豆類に比べてしっかりとした食感を保つ。粉にするとざらっとした舌触り。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な評価は豊富ですが、特定の温度や水分ストレス閾値に関する定量的な実験データは少ない。将来予測は一般的な作物モデルに基づく推定です。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25 - 35 °C",
+      "extreme_heat_survival": "40°C以上でも生存可能だが、収量は減少する。",
+      "cold_tolerance": "5°C以下で生育停止、霜害に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "C3植物としては高い。深い根系が水分吸収に寄与。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "300 - 600 mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "草丈が低いため、強風による倒伏には比較的強い。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "他のマメ科作物と同様に、CO2濃度上昇により光合成と窒素固定が促進される可能性があるが、研究は不十分。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "伝統的に低投入で栽培されるため、多様な病害虫への一定の抵抗性を持つ在来種が多い。温暖化による新規病害虫への脆弱性は不明。",
+      "disease_resistance_stability": "炭疽病、黄化モザイクウイルスなどへの感受性がある。",
+      "beneficial_organism_relationships": "根粒菌との共生関係は強固。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "インド亜大陸、東アフリカ、オーストラリア北部の半乾燥地帯",
+        "2050_projection": "現在よりもさらに乾燥・高温化する地域での適応性が高まる可能性。サヘル地域などでの栽培可能性が拡大するかもしれない。",
+        "2100_projection": "不明",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "遺伝的多様性に関する研究は存在するが、自然交雑の頻度やメカニズムに関する生態学的研究は非常に限定的。情報は主に育種の観点から得られたものです。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培種内の多様な在来種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "近縁野生種 Macrotyloma axillare との人工交配は成功例がある。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "記録なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "インド各地に形態的、農学的に多様な在来品種が多数存在し、遺伝的資源の宝庫となっている。",
+      "wild_gene_pool": "野生近縁種は、耐病性やさらなるストレス耐性の遺伝子源として重要。",
+      "adaptive_genetic_variation": "地域の微気候や土壌に適応した多様な遺伝子型が存在する。",
+      "inbreeding_depression_risk": "自家受粉性があるため、特定の系統では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インド、デカン高原",
+        "environmental_pressure": "不規則な降雨と痩せた土壌",
+        "adaptive_response": "極端な短期間での成熟、深い主根の発達、低いリン要求性",
+        "time_scale": "数千年",
+        "mechanism": "農家による無意識的な選抜と自然選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐病性や塩害耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "高タンパク質や特定のアミノ酸を強化する育種の可能性がある。",
+      "novel_characteristics": "種子の色、大きさ、調理特性の改変が可能。",
+      "hybrid_vigor_potential": "他家受粉率が低いため、雑種強勢の利用は限定的かもしれない。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "野生種との間には、胚珠の敗退などの交雑障壁が存在する場合がある。",
+      "chromosome_compatibility": "栽培種と主要な野生近縁種の間で染色体数は一致している (2n=20, 22, 24)。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "戻し交配により、有用遺伝子を栽培種に導入する試みが進行中。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "早期開花、気孔コンダクタンスの低下、根の伸長",
+        "heritability": "中程度から高い",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物としての一般的な特性からの類推が多く含まれる。ホースグラムに特化したリジェネラティブ農業システムの研究は限られているが、伝統的な農法がその原則を体現している。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く発達する主根と、表層に広がる側根を持つ。土壌の硬盤を破砕し、通気性を改善する。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物の良い供給源となる。",
+      "soil_structure_improvement": "根の活動と有機物供給により、土壌の団粒構造を促進する。",
+      "erosion_control": "生育初期から地面を広く覆うため、風食・水食を防ぐ被覆作物として優れる。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。後作物のための窒素供給源となる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫にとって蜜源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌やアーバスキュラー菌根菌との共生関係を通じて、土壌微生物群集の多様性を高める。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌に孔隙を作り、雨水の浸透を促進する。",
+      "moisture_retention": "地上部がマルチの役割を果たし、土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "被覆効果により地表水の流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系を持つため、地下部への炭素蓄積ポテンシャルが高い。",
+      "soil_carbon_enhancement": "窒素固定によるバイオマス生産促進と残渣分解により、土壌炭素の蓄積に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ソルガム、ミレットなどの穀物との間作（窒素供給と雑草抑制）",
+        "トウモロコシ"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "間作した穀物へ窒素を供給する。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物との輪作・間作体系に組み込むことで、生態系の安定性を高める。",
+      "stress_tolerance": "極めて高い乾燥・高温耐性により、農業システム全体のリスクを分散させる。",
+      "recovery_capacity": "干ばつの後、少量の雨でも素早く回復する能力がある。",
+      "adaptability": "多様な土壌条件に適応する。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "近年の栄養学、食品科学、持続可能な農業分野での関心の高まりを反映した情報が豊富です。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク質・高ミネラルであり、植物性食品トレンドにおいて重要な資源。",
+      "food_security_contribution": "気候変動が進行する乾燥・半乾燥地域における将来の食料安全保障の鍵となる作物。",
+      "local_food_system_integration": "低投入で栽培可能なため、地域の自給自足的な食料システムを強化する。",
+      "alternative_protein_potential": "植物性プロテインパウダーや代替肉製品への利用ポテンシャルが高い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品市場（グルテンフリー、高タンパク）",
+        "スーパーフードとしての国際市場",
+        "気候変動適応型農業の種子市場"
+      ],
+      "value_added_products": [
+        "プロテインパウダー",
+        "スナックバー",
+        "インスタントスープミックス",
+        "発芽ホースグラム"
+      ],
+      "niche_market_value": "民族料理食材店や健康食品店で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の喪失リスクは指摘されているが、具体的な消失速度や地域に関する定量データは不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "栽培地そのものの喪失リスクは低いが、商業作物への転換による在来種の作付面積減少が脅威。",
+    "climate_change_vulnerability": "作物自体は気候変動に強いが、栽培している農家の社会経済的脆弱性が高い。",
+    "cultural_erosion_risk": "高。食生活の近代化に伴い、伝統的な調理法や食文化が失われつつある。",
+    "conservation_actions_needed": [
+      "在来種のオンファーム（農家による）保全の支援",
+      "コミュニティ・シードバンクの設立",
+      "遺伝資源の収集とジーンバンクでの域外保全",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "インドのデカン高原",
+      "インド東ガーツ山脈・西ガーツ山脈の丘陵地帯"
+    ],
+    "ex_situ_conservation_status": "国際作物多様性トラスト（ICRISAT）やインドの国立植物遺伝資源局（NBPGR）などで多数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "一部のNGOや研究機関による小規模な取り組みに留まっている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本レポートの分析結果に基づく総合評価です。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "南インド（カルナータカ州、アーンドラ・プラデーシュ州、タミル・ナードゥ州）",
+      "エチオピア、スーダンなどの東アフリカ乾燥地帯"
+    ],
+    "knowledge_gaps": [
+      "品種ごとの栄養価および機能性成分の定量的差異",
+      "CO2濃度上昇やオゾンなど大気環境変化への応答",
+      "自然環境下での交雑実態と遺伝子流動",
+      "リジェネラティブ農業システムにおける炭素隔離能力の定量化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "公式に登録された品種は少なく、大部分は名前のない地域の在来種（ランドレース）である。以下は研究機関が開発した代表的な品種。"
+      },
+      "variety_name": "Paiyur 2",
+      "local_name": "Paiyur 2",
+      "origin_region": "インド、タミル・ナードゥ州",
+      "distinctive_characteristics": "高収量、早生、黄化モザイクウイルスへの耐性を持つ改良品種。",
+      "cultural_importance": "近代的な農業システムへの導入を目指して開発されたが、伝統的な在来種に比べ風味の評価は分かれる。",
+      "climate_adaptation": "高い乾燥耐性を保持している。",
+      "conservation_status": "ジーンバンクで保存"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "以下は特定の在来種群の典型的な特徴を記述したものであり、単一の品種を指すものではない。"
+      },
+      "variety_name": "黒色種（Black-seeded Landrace）",
+      "local_name": "Kari Huruli (Kannada)",
+      "origin_region": "インド、カルナータカ州",
+      "distinctive_characteristics": "小粒で黒色の種皮を持つ。風味が濃厚で、薬効が高いと伝統的に信じられている。",
+      "cultural_importance": "薬用や特別な料理に珍重される。市場価格は通常の褐色種より高いことが多い。",
+      "climate_adaptation": "極めて高い乾燥耐性を持つとされる。",
+      "conservation_status": "オンファームで農家により維持されているが、遺伝的浸食のリスクがある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "ICRISAT (International Crops Research Institute for the Semi-Arid Tropics) publications",
+      "Indian Council of Agricultural Research (ICAR) reports",
+      "FAOSTAT",
+      "Ethnobotanical and agro-ecological academic journals"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動の複合的ストレス（高温＋乾燥＋高CO2）に対する品種レベルでの応答",
+      "リジェネラティブ農業システムにおける定量的貢献（炭素隔離、水循環改善など）",
+      "アフリカ地域での遺伝的多様性と文化的利用に関する詳細なデータ"
+    ],
+    "regional_data_coverage": "南アジアに偏っており、アフリカやその他の地域に関する情報は限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "特定の香り成分の化学的同定",
+      "自然交雑の頻度と生態学的影響"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

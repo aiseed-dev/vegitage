@@ -1,0 +1,671 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース（KEW, GRIN-Global）および農学文献からの情報を統合。原産地は広範なため推定を含む。"
+    },
+    "primary_name": "Orach",
+    "scientific_name": "Atriplex hortensis",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "種子"
+    ],
+    "origin_region": "中央アジア、シベリア、南ヨーロッパを含むユーラシア大陸の広範な地域",
+    "wild_relatives": [
+      "Atriplex patula",
+      "Atriplex prostrata",
+      "Atriplex tatarica"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "多言語の植物名データベースおよび民族植物学の記録を参照。"
+    },
+    "international": {
+      "en": [
+        "Orach",
+        "Mountain Spinach",
+        "Garden Orache",
+        "French Spinach"
+      ],
+      "scientific_common": "Garden Orache"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Arroche des jardins",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Gartenmelde",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Atriplice degli orti",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Armuelle",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ヤマホウレンソウ",
+            "script": "Jpan"
+          },
+          {
+            "lang": "ja",
+            "name": "アカザカズラ",
+            "script": "Jpan"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "Chakvat",
+            "script": "Deva"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、World Flora Onlineの情報を参照。"
+    },
+    "family": {
+      "en": "Amaranth family",
+      "la": "Amaranthaceae"
+    },
+    "genus": {
+      "en": "Saltbush",
+      "la": "Atriplex"
+    },
+    "species": {
+      "en": "Garden Orache",
+      "la": "Atriplex hortensis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "歴史的文献は豊富だが、現代における文化的重要性のデータは地域によって限定的。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "ホウレンソウが普及する以前、中世ヨーロッパで主要な葉物野菜の一つだった。スープ、パイの詰め物などに利用された。現在は伝統野菜として再評価されている。",
+        "seasonal_significance": "春から初夏の野菜として重要だった。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中央アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "パンやパイの具材として利用される。家畜の飼料としても利用されてきた歴史がある。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Potage bonne-dame (オラッチのポタージュ)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "煮込む",
+          "炒める"
+        ],
+        "cultural_context": "伝統的な家庭料理の素材。ホウレンソウよりもマイルドな風味として好まれた。"
+      },
+      {
+        "cuisine": "イタリア料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Ravioli di atriplice (オラッチのラビオリ)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "詰める"
+        ],
+        "cultural_context": "パスタの詰め物として、リコッタチーズなどと混ぜて使用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャ・ローマ時代から栽培・利用されていた記録がある。",
+      "trade_routes": "不明",
+      "cultural_exchange": "ヨーロッパ全域およびアジアへ、中世を通じて伝播した。",
+      "domestication_history": "中央アジア周辺で野生種から栽培化されたと考えられているが、正確な起源は不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しい季節（冬から春）に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけて栽培可能。冷涼な気候を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さが厳しくない地域で適応。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に比較的強いが、灌漑は必要。塩性土壌への耐性がある。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3-5月）、晩夏（8-9月）",
+        "harvest_season": "初夏（5-7月）、秋（10-11月）",
+        "growing_period_days": "40-60"
+      }
+    ],
+    "productivity": {
+      "yield_range": "データなし",
+      "factors_affecting_yield": [
+        "日長（長日で抽苔しやすい）",
+        "高温",
+        "水ストレス",
+        "土壌肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "統計データなし",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "主に国内消費、ファーマーズマーケット向け。"
+        },
+        {
+          "country": "イタリア",
+          "production_share": "不明",
+          "characteristics": "地域的な伝統野菜として生産。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "北部の山岳地帯で栽培されることがある。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変動に関する研究は少ない。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "19",
+        "protein_g": "1.8",
+        "carbs_g": "3.0",
+        "fat_g": "0.3",
+        "fiber_g": "1.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "45 mg",
+          "daily_value_percent": "75%"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "300 mcg",
+          "daily_value_percent": "375%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "5800 IU",
+          "daily_value_percent": "116%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.5 mg",
+          "daily_value_percent": "8%"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "50 mg",
+          "daily_value_percent": "13%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントシアニン",
+        "concentration": "赤色品種に豊富",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド（クェルセチン、ケンペロール）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "少量",
+        "health_effect": "過剰摂取は注意が必要だが、抗炎症作用なども報告されている"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "利尿",
+          "緩下",
+          "喉の痛みの緩和",
+          "痛風の治療"
+        ],
+        "preparation": "葉の煎じ薬、生葉の湿布"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化能評価",
+        "抗炎症作用に関する研究"
+      ],
+      "safety_considerations": "ホウレンソウより少ないが、シュウ酸塩を含むため、腎臓結石のリスクがある人は過剰摂取を避けるべき。サポニンも含む。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "伝統的な調理法に関する情報は多いが、現代料理での応用例は限定的。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "茹でる",
+          "蒸す",
+          "ソテー",
+          "煮込み（スープ）",
+          "生のまま（サラダ）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "クリーム",
+          "チーズ",
+          "卵",
+          "ジャガイモ",
+          "ニンニク"
+        ]
+      },
+      {
+        "region": "中央アジア",
+        "methods": [
+          "炒める",
+          "詰める（パンやパイ）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ひき肉",
+          "玉ねぎ",
+          "米",
+          "スパイス"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "ヨーロッパ",
+          "中央アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "香りが弱まり、食感が変わる。栄養価は一部損失。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "1年程度",
+        "quality_changes": "ブランチング後に冷凍することで、色や栄養価を比較的保てる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "マイルドで、わずかに塩味を感じる。ほうれん草のような土臭さやえぐみが少ない。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "柔らかく、調理するととろけるような食感になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Atriplex属全体の耐乾性・耐塩性に関する知見はあるが、A. hortensis種に特化した気候変動応答の定量的データは非常に少ない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "30°C以上で生育不良、抽苔が促進される。",
+      "cold_tolerance": "軽い霜には耐える（-5°C程度）。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明。Atriplex属には効率的な種が多い。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "400-800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "不明",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物として、CO2濃度上昇により光合成が促進される可能性があるが、具体的な研究データは少ない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "比較的強健だが、温暖化によるアブラムシやヨトウムシ類の発生増加には脆弱な可能性がある。",
+      "disease_resistance_stability": "べと病などが発生することがあるが、抵抗性に関する情報は少ない。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域",
+        "2050_projection": "高緯度地域（北ヨーロッパ、カナダ南部）へ適地が移動。現適地では夏作が困難になる。",
+        "2100_projection": "さらに高緯度へ移動。現適地の多くで栽培不適となる可能性。",
+        "confidence_level": "推定"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Atriplex属内の交雑に関する報告は多いが、A. hortensisと野生種との自然交雑による適応事例の記録は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "赤、黄、緑の各品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Atriplex patula（ホコガタアカザ）など、同じ染色体数の近縁野生種との交雑が可能。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "A. hortensisとA. patulaの自然交雑が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパやアジアに多様な在来品種が存在する。",
+      "wild_gene_pool": "耐塩性や耐乾性に優れた野生近縁種が豊富に存在し、重要な遺伝資源となる。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "自家受粉もするため、小規模な集団ではリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐塩性や耐乾性を向上させる高いポテンシャルがある。",
+      "improved_nutritional_content": "野生種の有用成分を取り込む可能性がある。",
+      "novel_characteristics": "葉の形や色、草姿などの新規形質導入が可能。",
+      "hybrid_vigor_potential": "種間雑種において雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "染色体数が異なる種との間には交雑障壁がある。",
+      "chromosome_compatibility": "2n=18の種とは比較的交雑しやすい。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "戻し交配により、有用遺伝子を導入する育種プログラムが可能。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "土壌塩分濃度",
+        "adaptive_traits": "塩分排出能力、浸透圧調節機能",
+        "heritability": "中〜高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "直接的な研究はほぼない。Atriplex属の一般的特性や、類似の葉物野菜からの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的深く広く張る直根性の根系を持つ。",
+      "organic_matter_contribution": "収穫後の残渣は分解されやすく、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "根が土壌の団粒構造を促進する可能性がある。",
+      "erosion_control": "生育初期の被覆は遅いが、旺盛に育てば表土の侵食防止に寄与する。",
+      "nutrient_cycling_role": "土壌深層のミネラルを吸収し、表層に還元する可能性がある（ダイナミック・アキュムレーター）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "風媒花であり、花粉媒介昆虫への貢献は小さい。",
+      "beneficial_insect_habitat": "アブラムシが発生することがあり、その天敵（テントウムシ、ヒラタアブ）を誘引する可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "限定的"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の発達により土壌の浸透能を改善する可能性がある。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。成長が速い。",
+      "below_ground_carbon": "根系の発達度合いから中程度のポテンシャル。",
+      "soil_carbon_enhancement": "残渣分解による間接的な効果。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）、香味野菜（害虫忌避）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "痩せ地や塩性土壌でも育つため、劣化した土地での栽培が可能で、多様性を高める。",
+      "stress_tolerance": "耐乾性、耐塩性に優れる。",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場トレンドからの推測を含む。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ホウレンソウの代替として、シュウ酸が少ない健康的な葉物野菜としての価値がある。",
+      "food_security_contribution": "厳しい環境（乾燥、塩類土壌）でも栽培可能なため、気候変動下の食料生産に貢献しうる。",
+      "local_food_system_integration": "家庭菜園や小規模農家で容易に栽培でき、地域の食料自給率向上に貢献する。",
+      "alternative_protein_potential": "種子にタンパク質が含まれるが、利用は限定的。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "伝統野菜・古代野菜市場",
+        "健康志向食品市場（低シュウ酸）",
+        "レストラン向け高級食材"
+      ],
+      "value_added_products": [
+        "ベビーリーフミックス",
+        "カラフルサラダミックス（赤色種）",
+        "冷凍野菜",
+        "健康食品パウダー"
+      ],
+      "niche_market_value": "高い。ユニークな色、味、歴史的背景が価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源としての重要性は認識されているが、具体的な保全活動のデータは限定的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種は塩性湿地など、開発の危機に瀕した生息地に自生することがある。",
+    "climate_change_vulnerability": "耐暑性が低いため、温暖化による栽培適地の喪失が懸念される。",
+    "cultural_erosion_risk": "高。ホウレンソウに代替され、伝統的な利用知識が失われつつある地域が多い。",
+    "conservation_actions_needed": [
+      "在来品種の収集・評価・保存",
+      "伝統的知識の記録と継承",
+      "野生近縁種の生息域内保全"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸",
+      "中央アジア",
+      "コーカサス地方"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（USDA-GRIN, World Vegetable Centerなど）で多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部の伝統農家による自家採種が中心。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海沿岸",
+      "中央アジア"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、CO2）に対する生理学的応答の定量的データ",
+      "野生近縁種との交雑によるストレス耐性遺伝子の特定",
+      "リジェネラティブ農業システムにおける具体的な効果測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種カタログおよび種子銀行のデータに基づく。"
+      },
+      "variety_name": "Rubra",
+      "local_name": "Red Orach",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "茎と葉が鮮やかな赤紫色。アントシアニンが豊富。ベビーリーフとしてサラダに利用されると彩りが良い。",
+      "cultural_importance": "観賞用としても栽培される。現代のサラダ文化で価値が再発見されている。",
+      "climate_adaptation": "基本種に準じるが、強い日差しで色が濃くなる。",
+      "conservation_status": "Heirloom（伝統品種）として広く流通。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種カタログおよび種子銀行のデータに基づく。"
+      },
+      "variety_name": "Aurea",
+      "local_name": "Golden Orach",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "葉が明るい黄金色からライムグリーン。風味がよりマイルドとされる。",
+      "cultural_importance": "彩りの良さから、観賞用および食用として珍重される。",
+      "climate_adaptation": "基本種に準じる。",
+      "conservation_status": "Heirloom（伝統品種）として流通。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種カタログおよび種子銀行のデータに基づく。"
+      },
+      "variety_name": "Alba / Plena",
+      "local_name": "White Orach / Green Orach",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "最も一般的な緑色の品種。成長が旺盛で収量性が高い。",
+      "cultural_importance": "歴史的に最も広く食用にされてきたタイプ。",
+      "climate_adaptation": "基本種に準じる。",
+      "conservation_status": "Heirloom（伝統品種）として広く流通。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "GRIN-Global Taxonomy",
+      "FAO EcoCrop",
+      " ethnobotanical literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの生理学的応答",
+      "野生近縁種との交雑育種の具体的な成果"
+    ],
+    "regional_data_coverage": "ヨーロッパの情報は豊富だが、アジア、特に原産地とされる中央アジアでの現代的な利用状況に関するデータは不足している。",
+    "missing_information": [
+      "世界的な生産統計",
+      "詳細な栄養成分の品種間比較",
+      "気候変動適応に関する実験データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

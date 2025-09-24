@@ -1,0 +1,557 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "学名、分類、分布などの基本情報は日本の植物学データベースで確立されている。しかし、国際的なデータは非常に乏しい。"
+    },
+    "primary_name": "Yezo Thistle",
+    "scientific_name": "Cirsium yezoense (Maxim.) Makino",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "根",
+      "葉"
+    ],
+    "origin_region": "日本（北海道、本州北部）、サハリン、千島列島",
+    "wild_relatives": [
+      "Cirsium kamtschaticum",
+      "Cirsium nipponicum",
+      "多数の日本固有のアザミ属植物"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "名称は日本国内およびアイヌ文化圏に限定される。国際的な一般名は確立していない。「Yezo Thistle」は学名からの直訳的通称。"
+    },
+    "international": {
+      "en": [
+        "Yezo Thistle"
+      ],
+      "scientific_common": "Cirsium yezoense"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "サワアザミ",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "ja",
+            "name": "エゾノサワアザミ",
+            "script": "Katakana/Kanji"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アイヌ",
+        "name": "anratci / anraci",
+        "cultural_significance": "春の重要な食用植物（プクサ）の一つ。茎の皮をむいて生食またはオハウ（汁物）の具として利用された。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物分類学的な位置づけは安定している。"
+    },
+    "family": {
+      "en": "Daisy family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Thistle",
+      "la": "Cirsium"
+    },
+    "species": {
+      "en": "Yezo Thistle",
+      "la": "Cirsium yezoense"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "文化的重要性はアイヌ文化と日本の山菜文化に限定される。世界的な文脈での評価はほぼ存在しない。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（アイヌ文化圏）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "儀式用"
+        ],
+        "traditional_uses": "伝統的な食料（プクサ）として、特に春先の重要な栄養源。生食や汁物（オハウ）で消費。アイヌの食文化において重要な位置を占める。",
+        "seasonal_significance": "春の訪れを告げる食料として、季節の循環において重要な役割を持つ。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東アジア（日本・東北地方）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "山菜として、若芽や茎を天ぷら、おひたし、炒め物（きんぴら）などで食す。アク抜きが必要な場合がある。地域の食文化の一部。",
+        "seasonal_significance": "春の山菜採りの対象の一つ。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "アイヌ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "オハウ（Ohaw）"
+        ],
+        "preparation_methods": [
+          "生食（皮を剥いて）",
+          "煮込み"
+        ],
+        "cultural_context": "自然の恵み（カムイからの贈り物）として尊重され、季節の循環と深く結びついた食文化の根幹をなす植物の一つ。"
+      },
+      {
+        "cuisine": "日本料理（山菜料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "天ぷら",
+          "おひたし",
+          "きんぴら"
+        ],
+        "preparation_methods": [
+          "揚げる",
+          "茹でる",
+          "炒める"
+        ],
+        "cultural_context": "春の味覚として、また山村の暮らしを支える食料として利用されてきた。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アイヌ民族によって先史時代から利用されていた可能性が高い。",
+      "trade_routes": "不明",
+      "cultural_exchange": "和人との交流の中で、山菜としての利用法が伝播・変容した可能性がある。",
+      "domestication_history": "栽培化はされておらず、野生採集に依存している。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼で湿潤な気候。特に沢沿いや湿地を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な夏と寒冷な冬に適応。亜寒帯気候に近い環境。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "低山帯から亜高山帯の湿潤な場所に自生。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯/冷帯",
+        "planting_season": "（野生）",
+        "harvest_season": "春から初夏（4月～6月）",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産なし）",
+      "factors_affecting_yield": [
+        "日照条件",
+        "土壌水分",
+        "個体群密度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（商業生産なし）",
+      "major_producers": []
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Cirsium yezoenseに特化した詳細な栄養分析データは非常に限定的。一般的なアザミ属植物の特性から類推される情報が多い。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "豊富と推定"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "豊富と推定",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ポリフェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用（推定）"
+      },
+      {
+        "compound": "フラボノイド類",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用（推定）"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア（アイヌ文化圏）",
+        "medical_system": "アイヌ伝統医学",
+        "uses": [
+          "利尿",
+          "解毒"
+        ],
+        "preparation": "根を煎じて飲用したとの伝承があるが、詳細は不明確。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "近縁種であるCirsium属の抗酸化、抗炎症、肝保護作用に関する研究は存在するが、本種に特化したものは少ない。"
+      ],
+      "safety_considerations": "不明。アクが強い場合があるため、調理前の下処理が推奨されることがある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "利用法はアイヌと日本の特定地域に限定されるが、その範囲内では調理法は比較的よく記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア（アイヌ文化圏）",
+        "methods": [
+          "生食",
+          "煮込み"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "行者ニンニク（キトピロ）",
+          "魚",
+          "獣肉"
+        ]
+      },
+      {
+        "region": "東アジア（日本）",
+        "methods": [
+          "揚げる",
+          "茹でる",
+          "炒める",
+          "漬物"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "油"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "東アジア（アイヌ文化圏）"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "風味と食感が変化する。保存食として利用された可能性。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな苦味、土の香り、ゴボウやフキに似た風味",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "シャキシャキとした食感（茎）、繊維質"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動応答の実験データは存在しない。生態的特性（冷涼湿潤地を好む）からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-20°C（推定）",
+      "extreme_heat_survival": "不明。25°C以上が続くと生育不良の可能性。",
+      "cold_tolerance": "高。積雪地帯に自生するため、根茎は凍結に耐える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低いと推定",
+      "flood_tolerance": "中。沢沿いや湿地に自生するため、一時的な増水には耐える可能性がある。",
+      "optimal_rainfall": "800mm以上（推定）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。草丈が高いため強風で倒伏する可能性があるが、根茎で再生可能。",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により南方系の害虫の北上に脆弱である可能性。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "在来の送粉者や土壌微生物との共生関係が気候変動で崩れるリスク。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "北海道、本州北部",
+        "2050_projection": "本州での適地が減少し、北海道およびより標高の高い地域に限定される可能性。",
+        "2100_projection": "北海道でも適地が北上・縮小するリスク。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アザミ属（Cirsium）は一般的に種間交雑を起こしやすいことで知られており、本種もその例外ではないと推定される。具体的な交雑事例の網羅的な記録は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間での交雑は容易と推定"
+      ],
+      "interspecific_compatibility": [
+        "Cirsium kamtschaticum",
+        "その他、分布域が重なる近縁種"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い"
+      ],
+      "successful_natural_hybrids": [
+        "日本国内のアザミ属では多くの自然雑種が報告されており、本種も関与している可能性があるが詳細は不明。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培化されていないため、在来品種は存在しない。地域ごとの野生集団に遺伝的多様性が存在する。",
+      "wild_gene_pool": "日本の多様なアザミ属植物が広範な遺伝子プールを形成している。",
+      "adaptive_genetic_variation": "標高や緯度の異なる環境に適応した遺伝的変異が存在する可能性が高い。",
+      "inbreeding_depression_risk": "生息地が断片化した場合、リスクは増大する。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他の乾燥地や暖地に適応したアザミ属との交雑により、耐乾性・耐暑性が向上する理論的可能性。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "食味（苦味の強弱）、形態（棘の多寡）などの新規特性獲得の可能性。",
+      "hybrid_vigor_potential": "高いと推定"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "同属内では比較的高いと推定される。",
+      "fertility_of_hybrids": "雑種は一定の稔性を持つことが多い。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候温暖化（高温、乾燥）",
+        "adaptive_traits": [
+          "耐暑性",
+          "耐乾性"
+        ],
+        "heritability": "不明",
+        "response_to_selection": "交雑を通じて新たな適応形質を獲得するポテンシャルはあるが、適応速度は温暖化の速度に追いつかない可能性がある。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での研究は皆無。アザミ属の一般的特性（深根性、蜜源植物）からの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "太く深い直根性。土壌の硬盤を破砕し、通気性・透水性を改善する効果が期待される。",
+      "organic_matter_contribution": "地上部・地下部ともにバイオマスが大きく、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "深根により土壌の団粒構造を促進する。",
+      "erosion_control": "不明",
+      "nutrient_cycling_role": "深層から養分を吸い上げ、表層に還元するダイナミック・アキュムレーターとしての可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は蜜が豊富で、蝶、蜂、その他の多くの昆虫にとって重要な蜜源植物となる。",
+      "beneficial_insect_habitat": "アブラムシを捕食するテントウムシなどが集まることがある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "地域の生態系において重要な役割を担う。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が浸透を促進する。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系のため、地下部への炭素貯留能力が高いと期待される。",
+      "soil_carbon_enhancement": "高いポテンシャルを持つ。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "蜜源植物として送粉者を支え、生態系の安定性に貢献する。",
+      "stress_tolerance": "寒冷ストレスには強いが、他のストレスには脆弱。",
+      "recovery_capacity": "根茎からの再生能力が高い。",
+      "adaptability": "遺伝的多様性と交雑親和性により、長期的な適応ポテンシャルは持つ。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "現代的な利用は非常に限定的であり、将来性も未知数。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "未利用の野生植物資源として、栄養価の解明が待たれる。",
+      "food_security_contribution": "気候が適した地域での地域的な食料安全保障に貢献する可能性。",
+      "local_food_system_integration": "「山菜」として地域の食文化や小規模な直売所経済に統合されている。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級レストラン向けの珍しい食材（ノベルティフード）",
+        "先住民文化や伝統食に関心を持つ層へのニッチ市場"
+      ],
+      "value_added_products": [
+        "漬物",
+        "乾燥食品",
+        "健康茶"
+      ],
+      "niche_market_value": "高い潜在的価値を持つが、市場は未形成。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物としての絶滅リスクは低いが、食文化としての消失リスクは高い。"
+    },
+    "genetic_erosion_risk": "中。生息地である湿地の開発や環境変化による遺伝的多様性の損失が懸念される。",
+    "habitat_loss_threat": "沢沿いや湿地の開発、河川改修、シカの食害などが脅威となりうる。",
+    "climate_change_vulnerability": "高。温暖化による自生地の縮小・消失が最も大きな脅威。",
+    "cultural_erosion_risk": "高。アイヌ文化の継承者の減少や、山村の過疎化・高齢化により、利用に関する伝統知が失われつつある。",
+    "conservation_actions_needed": [
+      "伝統的知識の記録と継承（特にアイヌコミュニティとの協働）",
+      "自生地のモニタリングと保全",
+      "気候変動影響評価"
+    ],
+    "priority_conservation_regions": [
+      "北海道",
+      "東北地方"
+    ],
+    "ex_situ_conservation_status": "不明。植物園などで系統保存されている可能性はあるが、網羅的ではない。",
+    "in_situ_conservation_efforts": "特定の保全活動は報告されていない。国立公園などの保護地域内での自生地保全に依存。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "地域限定的ながら、文化的多様性と生物多様性の観点から非常に価値が高い。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "北海道（特にアイヌコミュニティが存在する地域）",
+      "青森県、岩手県、秋田県"
+    ],
+    "knowledge_gaps": [
+      "詳細な栄養成分と機能性成分",
+      "気候変動に対する生理的応答の定量的データ",
+      "栽培技術",
+      "アイヌ民族による利用法の詳細な記録"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "栽培品種は存在しない。以下は野生の地域変異に関する記述。"
+      },
+      "variety_name": "地域個体群",
+      "local_name": "（特になし）",
+      "origin_region": "日本各地",
+      "distinctive_characteristics": "葉の切れ込みの深さ、棘の多さ、草丈などに地域変異が見られる。",
+      "cultural_importance": "不明",
+      "climate_adaptation": "各地域の微気候に適応していると考えられる。",
+      "conservation_status": "未評価"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "日本の植物図鑑",
+      "民族植物学（特にアイヌ文化）に関する論文・報告書",
+      "山菜に関する文献"
+    ],
+    "major_knowledge_gaps": [
+      "定量的データ全般（栄養価、収量、気候耐性）",
+      "リジェネラティブ農業への貢献に関する実証的研究",
+      "遺伝的多様性の詳細な評価"
+    ],
+    "regional_data_coverage": "東アジア（日本）に極端に偏っており、グローバルなデータは皆無。",
+    "missing_information": [
+      "商業生産データ",
+      "国際市場データ",
+      "栽培マニュアル"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew Gardens, GRIN-Global）および園芸文献から統合。野生近縁種に関する詳細な交雑和合性情報は限定的。"
+    },
+    "primary_name": "Cornflower",
+    "scientific_name": "Centaurea cyanus",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "花"
+    ],
+    "origin_region": "ヨーロッパ南東部、近東",
+    "wild_relatives": [
+      "Centaurea depressa",
+      "Centaurea triumfettii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の植物名データベースおよび各国語の文献から収集。先住民コミュニティに特化した名称は、この植物の伝播の歴史的経緯から、特定が困難。"
+    },
+    "international": {
+      "en": [
+        "Cornflower",
+        "Bachelor's button"
+      ],
+      "scientific_common": "Cyanus flower"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Kornblume",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Bleuet de France",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Aciano",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Fiordaliso",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ヤグルマギク (矢車菊)",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "矢车菊 (shǐ chē jú)",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "수레국화 (suregukhwa)",
+            "script": "Hangul"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Knapweed",
+      "la": "Centaurea"
+    },
+    "species": {
+      "en": "Cornflower",
+      "la": "cyanus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、歴史、美術史、園芸史の文献に基づき評価。食文化における役割は近年のトレンドも含む。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "穀物畑の雑草として古くから親しまれ、愛や忠誠の象徴とされた。ドイツやエストニアでは国花。フランスでは第一次世界大戦の戦没者追悼の象徴（Bleuet de France）。民間薬として利用。",
+        "seasonal_significance": "夏の到来を告げる花",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "ヨーロッパからの移入種として、主に観賞用の庭園植物として普及。「Cottage Garden」スタイルの代表的な植物。",
+        "seasonal_significance": "初夏の庭を彩る花",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "主に観賞用として明治時代以降に導入。近年、エディブルフラワーとして食用利用が広がる。",
+        "seasonal_significance": "春から初夏の花",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "現代西洋料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "サラダの飾り",
+          "デザートのトッピング",
+          "カクテルのガーニッシュ"
+        ],
+        "preparation_methods": [
+          "生食"
+        ],
+        "cultural_context": "主に色彩を加えるためのエディブルフラワーとして利用される。味よりも見た目の美しさが重視される。"
+      },
+      {
+        "cuisine": "ヨーロッパの茶文化",
+        "role": "common",
+        "traditional_dishes": [
+          "レディグレイティー"
+        ],
+        "preparation_methods": [
+          "乾燥",
+          "ブレンド"
+        ],
+        "cultural_context": "紅茶のブレンドに美しい青色を加え、視覚的な魅力を高めるために使用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "新石器時代の遺跡からも種子が発見されている考古植物。ツタンカーメン王の墓からも花輪が発見されており、古代エジプトで象徴的に用いられていた。",
+      "trade_routes": "穀物の種子に混じって非意図的に世界中に伝播した。",
+      "cultural_exchange": "穀物栽培の拡大とともに分布を広げ、各地の農耕文化に根付いた。",
+      "domestication_history": "元々は野生植物であったが、穀物畑という新しいニッチに適応して半栽培化（weed of cultivation）し、その後観賞用に人為選択が進んだ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬期または標高の高い地域での栽培が可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりが良く、水はけの良い土壌。冷涼な気候を好む。最適生育温度は15-20°C。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さと冬の寒さに比較的強い。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に比較的強いが、定期的な水やりが必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "初夏から夏",
+        "growing_period_days": "60-90"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水はけ",
+        "施肥",
+        "密植の回避"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "アルバニア",
+          "production_share": null,
+          "characteristics": "ハーブティーや輸出向けの乾燥花びらの主要生産国の一つ。"
+        },
+        {
+          "country": "ポーランド",
+          "production_share": null,
+          "characteristics": "ヨーロッパ市場向けのハーブ原料として生産。"
+        },
+        {
+          "country": "オランダ",
+          "production_share": null,
+          "characteristics": "観賞用の種子生産が盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な栄養成分に関するデータは乏しい。機能性成分（特にアントシアニン）に関する研究は存在するが、網羅的ではない。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "プロトシアニン（アントシアニンの一種）",
+        "concentration": "不明",
+        "health_effect": "強力な抗酸化作用、青色の色素源"
+      },
+      {
+        "compound": "アピゲニン（フラボノイド）",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、抗不安作用の可能性"
+      },
+      {
+        "compound": "クニシン（セスキテルペンラクトン）",
+        "concentration": "不明",
+        "health_effect": "苦味成分、抗炎症作用、細胞毒性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法（フォークメディスン）",
+        "uses": [
+          "眼の洗浄（結膜炎などの軽度の炎症緩和）",
+          "利尿剤",
+          "強壮剤",
+          "食欲増進剤"
+        ],
+        "preparation": "花の浸出液（ティー）や蒸留水として利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "化粧品原料としての皮膚保護効果",
+        "天然着色料としての利用"
+      ],
+      "safety_considerations": "キク科アレルギーを持つ人は注意が必要。セスキテルペンラクトンは接触性皮膚炎を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の料理本、食品業界の資料、茶の専門文献から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "全世界（現代料理）",
+        "methods": [
+          "生食（飾り付け）",
+          "注入（インフュージョン）"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "緑葉サラダ",
+          "チーズ",
+          "ケーキ、ペストリー",
+          "ジン、ウォッカ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "ヨーロッパ",
+          "北米",
+          "アジア"
+        ],
+        "shelf_life": "1-2年（冷暗所で保管）",
+        "quality_changes": "色や香りは比較的長持ちするが、徐々に退色する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "かすかに甘く、ややスパイシー（クローブ様）で、穏やかな草の風味。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "花びらは非常に薄く、繊細で、口に残らない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ヤグルマギクに特化した気候変動適応の研究は非常に少ない。評価は、その生態的特性（一年草、雑草性）と栽培地域の気候からの定性的な推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "約30°C以上で生育不良",
+      "cold_tolerance": "-15°C（種子またはロゼット状態）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "500-800mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低（茎が倒れやすい）",
+      "hail_damage_recovery": "中（一年草のため、回復期間は限定的）",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として、ある程度の効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやうどんこ病の発生時期・頻度が増加する可能性。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "送粉者との関係は比較的安定しているが、フェノロジーのずれが懸念される。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯全域",
+        "2050_projection": "温帯域でやや高緯度・高標高へシフト",
+        "2100_projection": "さらなる高緯度・高標高へのシフトと、一部地域での生育困難化",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Centaurea属内の交雑に関する園芸的知見は豊富だが、自然環境下での適応進化に関する定量的データは少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の園芸品種が存在し、容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Centaurea属の他種と交雑することが知られている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "かつての農耕地には多様な地域個体群が存在したが、多くは除草剤により失われた。現在は観賞用としての多様性が高い。",
+      "wild_gene_pool": "原産地である近東の野生個体群が重要な遺伝子プールとなる。",
+      "adaptive_genetic_variation": "雑草としての歴史が示すように、異なる環境への高い適応的遺伝変異を持つと推測される。",
+      "inbreeding_depression_risk": "他家受精性であり、集団が小さくなると近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ヨーロッパ全域",
+        "environmental_pressure": "農耕地という攪乱環境、除草、機械的収穫",
+        "adaptive_response": "穀物の栽培サイクルに合わせた生活史の同調、種子の休眠性",
+        "time_scale": "数千年（新石器時代以降）",
+        "mechanism": "人為選択と自然選択の組み合わせ（農耕随伴進化）"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁の乾燥・耐暑性種との交雑により、耐性向上の可能性がある。",
+      "improved_nutritional_content": "食用作物ではないため、優先度は低い。",
+      "novel_characteristics": "花色、花形、草丈などの新しい園芸的形質の獲得。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "属内で染色体数に変異があるため、種によっては不和合性を示す。",
+      "fertility_of_hybrids": "種間雑種ではしばしば稔性が低下する。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "除草剤耐性",
+        "adaptive_traits": "代謝的耐性メカニズム",
+        "heritability": "不明",
+        "response_to_selection": "いくつかの雑草種で耐性個体群が報告されているが、本種での詳細は不明。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的な研究は少ないが、益虫誘引植物としての役割は広く認識されている。土壌への影響は、一般的な草本植物としての特性からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が比較的深く伸びる直根性。",
+      "organic_matter_contribution": "一年草のため、毎年生育サイクルの終わりに有機物を土壌に還元する。",
+      "soil_structure_improvement": "限定的だが、根が土壌の団粒構造形成に寄与する。",
+      "erosion_control": "被覆度は高くないため、侵食防止効果は限定的。",
+      "nutrient_cycling_role": "特筆すべき能力はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "非常に高い。ミツバチ、マルハナバチ、チョウ、ハナアブなど多様な花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "ヒラタアブや寄生バチなどの天敵昆虫を誘引し、害虫の生物的防除に貢献する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "農地や庭園の生物多様性を高める上で重要な役割を果たす。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "限定的",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "野菜畑（トマト、キュウリなど）",
+        "果樹園"
+      ],
+      "natural_pest_control": "アブラムシの天敵であるヒラタアブやテントウムシを誘引する。",
+      "nutrient_sharing": "なし",
+      "allelopathic_interactions": "報告されていない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "花粉媒介者や天敵昆虫を支援することで、生態系の安定性に貢献する。",
+      "stress_tolerance": "植物体自体のストレス耐性は中程度だが、こぼれ種で容易に更新するため、個体群としての回復力は高い。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代市場での動向、食品・化粧品業界の情報を反映。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養的価値は低いが、食の多様性と美的価値を高める。",
+      "food_security_contribution": "直接的な貢献はないが、農業生態系の健全性を支えることで間接的に貢献する可能性がある。",
+      "local_food_system_integration": "エディブルフラワーとして地域のレストランやファーマーズマーケットで取引される。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エディブルフラワー市場",
+        "ハーブティー市場",
+        "ナチュラルコスメティクス市場",
+        "天然着色料市場"
+      ],
+      "value_added_products": [
+        "乾燥花びら",
+        "ブレンドティー",
+        "化粧水、アイケア製品",
+        "リキュール"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでは評価されていない。保全状況は、雑草としての側面と遺伝資源としての側面で評価が異なる。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "伝統的な穀物畑の景観（本来の生育地）は、近代農業（特に除草剤の使用）によりヨーロッパで激減した。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "伝統的農法の維持・復元",
+      "農地周辺の草地の保全",
+      "在来系統の種子バンクでの保存"
+    ],
+    "priority_conservation_regions": [
+      "ヨーロッパの伝統的農業景観が残る地域"
+    ],
+    "ex_situ_conservation_status": "多くの種子バンクに園芸品種が保存されているが、野生系統や農耕地雑草系統の網羅性は不明。",
+    "in_situ_conservation_efforts": "一部の環境保全型農業（例：EUのアグロエコロジー政策）において、意図的に畑の縁に残す取り組みがある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "これまでの分析を総合した専門家としての評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ヨーロッパ（文化史と在来系統）",
+      "近東（野生原種と遺伝的多様性）"
+    ],
+    "knowledge_gaps": [
+      "栄養成分の定量的データ",
+      "気候変動シナリオに対する生理学的応答",
+      "伝統的薬効成分の科学的検証"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主に園芸市場で流通している品種情報。"
+      },
+      "variety_name": "Blue Boy",
+      "local_name": "Blue Boy",
+      "origin_region": "園芸品種（起源不詳）",
+      "distinctive_characteristics": "大きく鮮やかな青色の八重咲きの花。切り花やエディブルフラワーとして最も人気のある品種。",
+      "cultural_importance": "現代の「コーンフラワー」の象徴的な品種。",
+      "climate_adaptation": "標準的な気候適応性を持つ。",
+      "conservation_status": "絶滅リスクなし（広く栽培）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主に園芸市場で流通している品種情報。"
+      },
+      "variety_name": "Black Ball",
+      "local_name": "Black Ball",
+      "origin_region": "園芸品種（起源不詳）",
+      "distinctive_characteristics": "非常に濃い、黒に近い赤紫色の花。シックな色合いが特徴。",
+      "cultural_importance": "ガーデニングやフラワーアレンジメントで人気。",
+      "climate_adaptation": "標準的な気候適応性を持つ。",
+      "conservation_status": "絶滅リスクなし（広く栽培）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主に園芸市場で流通している品種情報。"
+      },
+      "variety_name": "Polka Dot Mix",
+      "local_name": "Polka Dot Mix",
+      "origin_region": "園芸品種（起源不詳）",
+      "distinctive_characteristics": "青、ピンク、白、赤紫色など、様々な花色が混在するミックス品種。",
+      "cultural_importance": "家庭菜園や景観用として人気。",
+      "climate_adaptation": "標準的な気候適応性を持つ。",
+      "conservation_status": "絶滅リスクなし（広く栽培）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens - Plants of the World Online",
+      "USDA GRIN-Global Database",
+      "European ethnobotanical literature",
+      "Modern horticultural journals"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動（CO2濃度、異常気象）に対する品種レベルでの生理学的応答に関する定量的データ",
+      "リジェネラティブ農業システムにおける土壌微生物叢への具体的な影響",
+      "伝統的薬用利用の科学的根拠（臨床試験など）"
+    ],
+    "regional_data_coverage": "ヨーロッパに関する情報は豊富だが、アジアやアフリカの利用に関するデータは限定的。",
+    "missing_information": [
+      "詳細な栄養成分分析",
+      "世界的な生産量と貿易額の統計データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

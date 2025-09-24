@@ -1,0 +1,679 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GRIN）および民族植物学の文献から統合。野生の直接の祖先種に関する情報は限定的。"
+    },
+    "primary_name": "Greater Galangal",
+    "scientific_name": "Alpinia galanga",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎",
+      "花",
+      "若芽"
+    ],
+    "origin_region": "東南アジア（特にインドネシア）",
+    "wild_relatives": [
+      "Alpinia conchigera",
+      "Alpinia zerumbet"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東南アジアを中心に多数の現地名が存在。学術的な通称名も確立している。"
+    },
+    "international": {
+      "en": [
+        "Greater Galangal",
+        "Galangal",
+        "Siamese Ginger",
+        "Thai Ginger"
+      ],
+      "scientific_common": "Galanga"
+    },
+    "regional": [
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Lengkuas",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Lengkuas",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ข่า",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Riềng",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Langkawas",
+            "script": "Latin"
+          },
+          {
+            "lang": "km",
+            "name": "រំដេង",
+            "script": "Khmer"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "कुंजन",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "பேரரத்தை",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "高良姜",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "ナンキョウ",
+            "script": "Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ジャワ（インドネシア）",
+        "name": "Laos",
+        "cultural_significance": "日常の料理（Bumbu）および伝統医療（Jamu）に不可欠な基本食材。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、国際的な植物データベースで広く合意されている。"
+    },
+    "family": {
+      "en": "Ginger family",
+      "la": "Zingiberaceae"
+    },
+    "genus": {
+      "en": "Galangal",
+      "la": "Alpinia"
+    },
+    "species": {
+      "en": "Greater galangal",
+      "la": "Alpinia galanga"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東南アジアの食文化と伝統医療に関する文献は豊富。その文化的中心性は広く認識されている。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物",
+          "香辛料"
+        ],
+        "traditional_uses": "タイのトムヤムクンやトムカーガイ、インドネシアのルンダンや各種ブンブ（スパイスペースト）に不可欠な香味料。マレーシア、ベトナム、カンボジア、フィリピン料理でも広く使用される。消化促進や風邪の治療薬として伝統医療でも多用。",
+        "seasonal_significance": "特になし（通年利用）",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用",
+          "香辛料"
+        ],
+        "traditional_uses": "アーユルヴェーダで呼吸器系や消化器系の不調に対する治療薬として利用。一部の地域料理で香辛料として使われるが、ショウガほど一般的ではない。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "タイ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "トムヤムクン",
+          "トムカーガイ",
+          "グリーンカレー"
+        ],
+        "preparation_methods": [
+          "スライスして煮込む",
+          "叩き潰して香りを出す"
+        ],
+        "cultural_context": "タイ料理の味の基盤をなす「ハーブの三位一体」（ナンキョウ、レモングラス、コブミカンの葉）の一つ。"
+      },
+      {
+        "cuisine": "インドネシア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ルンダン",
+          "ソト",
+          "ナシゴレンのブンブ"
+        ],
+        "preparation_methods": [
+          "すり潰してスパイスペーストにする",
+          "スライスして煮込む"
+        ],
+        "cultural_context": "ほとんどの煮込み料理やカレーのベースとなるブンブ（スパイスペースト）の主要構成要素。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "1000年以上にわたり東南アジアで栽培・利用されてきた記録がある。",
+      "trade_routes": "古代の海上スパイス交易路を通じてインド、中東、そして中世ヨーロッパにまで伝播した。ヒルデガルト・フォン・ビンゲンも「スパイス・オブ・ライフ」として言及。",
+      "cultural_exchange": "東南アジアの食文化が周辺地域へ広がる際の重要な文化的媒介物となった。",
+      "domestication_history": "東南アジアの島嶼部で栽培化されたと考えられているが、詳細な歴史は不明な点が多い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間降雨量1500-3000mm、平均気温20-30℃、高湿度。水はけの良い肥沃な土壌。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜が降りない温暖な地域。冬期は成長が停滞する可能性がある。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜害に非常に弱いため、屋外での越冬は困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度と水分を要求するため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "植え付け後10-12ヶ月、通年可能",
+        "growing_period_days": 300
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 25,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌の肥沃度",
+        "水分供給",
+        "日照条件",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インドネシア",
+          "production_share": null,
+          "characteristics": "国内消費が主。多様な在来種が小規模農家により栽培されている。"
+        },
+        {
+          "country": "タイ",
+          "production_share": null,
+          "characteristics": "国内消費および輸出向けに商業的大規模栽培が行われている。"
+        },
+        {
+          "country": "マレーシア",
+          "production_share": null,
+          "characteristics": "国内消費が中心。伝統的な混植栽培システム（ドゥスン）で栽培されることが多い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分のデータは存在するが、品種や栽培条件による変動に関する研究は限定的。機能性成分に関する研究は増加しているが、多くはin vitroまたは動物実験レベル。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "71",
+        "protein_g": "1.2",
+        "carbs_g": "15",
+        "fat_g": "0.8",
+        "fiber_g": "2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ナトリウム",
+          "amount": "不明",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ガランギン（フラボノイド）",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用、抗炎症作用、抗がん作用の可能性"
+      },
+      {
+        "compound": "1'-アセトキシチャビコールアセテート(ACA)",
+        "concentration": "可変",
+        "health_effect": "抗炎症作用、抗腫瘍作用"
+      },
+      {
+        "compound": "シネオール（精油成分）",
+        "concentration": "可変",
+        "health_effect": "去痰作用、抗菌作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東南アジア",
+        "medical_system": "ジャムウ（インドネシア伝統医学）",
+        "uses": [
+          "消化不良",
+          "腹部膨満",
+          "皮膚真菌症",
+          "リウマチ"
+        ],
+        "preparation": "根茎をすり潰して湿布、または煎じて内服"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "咳",
+          "喘息",
+          "しゃっくり",
+          "口臭"
+        ],
+        "preparation": "乾燥粉末を蜂蜜と混ぜて摂取"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "腹痛",
+          "嘔吐",
+          "下痢",
+          "胃の冷え"
+        ],
+        "preparation": "乾燥させた根茎（高良姜）を他の生薬と共に煎じる"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗炎症作用",
+        "抗菌作用",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "神経保護作用",
+        "血糖コントロール"
+      ],
+      "safety_considerations": "通常、食品として摂取する量では安全。過剰摂取は胃腸への刺激を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東南アジア料理における利用法は、料理本や文化研究で広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東南アジア",
+        "methods": [
+          "煮込み",
+          "炒め物",
+          "スープ",
+          "すり潰してペーストにする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "レモングラス",
+          "唐辛子",
+          "ニンニク",
+          "エシャロット"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・粉末化",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "新鮮なものに比べ、香りの複雑さが失われ、辛味が強まる傾向がある。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "6ヶ月",
+        "quality_changes": "香りは比較的保たれるが、食感が柔らかくなる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "辛味、わずかな苦味、土の香り、松や柑橘類を思わせる爽やかな香り。ショウガよりも辛味は少なく、より複雑でフローラルな香りを持つ。",
+      "aroma_compounds": [
+        "1,8-シネオール",
+        "α-ピネン",
+        "カンファー"
+      ],
+      "texture_characteristics": "生の根茎は硬く、繊維質。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動への直接的な応答に関する定量的研究は非常に少ない。評価は、その栽培要件と熱帯植物の一般的特性に基づく定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上では成長阻害の可能性",
+      "cold_tolerance": "5°C以下で損傷、0°Cで枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "1500-3000 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒伏しやすいが、地下の根茎は生存可能",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "低い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度の効果が期待される（推定）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により根茎腐敗病や細菌性立枯病などの土壌病害が増加するリスク",
+      "disease_resistance_stability": "在来種は地域的な病害にある程度の抵抗性を持つが、新たな病原体への脆弱性は不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東南アジア、南アジアの湿潤熱帯・亜熱帯地域",
+        "2050_projection": "現在の栽培地域内で、より高地や高緯度地域へ適地がわずかに移動する可能性。沿岸低地の多くは洪水リスク増大。",
+        "2100_projection": "不明",
+        "confidence_level": "低い"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Alpinia属内の人為的な交配事例（主として園芸用）は存在するが、Alpinia galangaの自然交雑や野生近縁種との遺伝子流動に関する科学的報告は非常に限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "東南アジア各地に多数の在来種が存在し、相互の交雑は可能と推定される。"
+      ],
+      "interspecific_compatibility": [
+        "Alpinia zerumbetなど近縁種との人為的交配は可能かもしれないが、自然界での事例は報告されていない。"
+      ],
+      "intergeneric_possibility": [
+        "非常に低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "高い。インドネシア、タイ、マレーシアなどで形態や香味の異なる多様な在来種が維持されている。",
+      "wild_gene_pool": "野生の祖先種が特定されていないため、関係性は不明瞭。",
+      "adaptive_genetic_variation": "各地の在来種が地域の土壌や気候に適応していることから、高い適応的遺伝変異の存在が示唆される。",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、クローン栽培地域ではリスクがあるが、全体としては多様性が高いため低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "東南アジアの多様な島々",
+        "environmental_pressure": "異なる土壌pH、水分条件、日照条件",
+        "adaptive_response": "根茎の大きさ、色、辛味成分、精油成分の量的・質的変異",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "地域農家による選択と自然選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁の野生種との交雑により、耐乾性や耐病性を向上させる潜在的可能性。",
+      "improved_nutritional_content": "機能性成分（ガランギン等）を高含有する系統を選抜・交配できる可能性。",
+      "novel_characteristics": "異なる香味プロファイルを持つ新品種の創出。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致、花粉の稔性の問題が考えられる。",
+      "chromosome_compatibility": "Alpinia属は倍数性が報告されており、染色体数の違いが障壁となる可能性がある。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫耐性",
+        "adaptive_traits": "特定の抗菌性化合物や防御物質の生産",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的なリジェネラティブ農業の研究は少ないが、伝統的な混植栽培システムにおける役割からその機能を類推可能。ショウガ科植物の一般的特性も参考にした。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範囲に広がる浅い根茎とひげ根が土壌表層を固め、侵食を防ぐ。",
+      "organic_matter_contribution": "豊富な地上部バイオマスが枯死後に土壌有機物として還元される。",
+      "soil_structure_improvement": "根茎の成長が土壌の団粒構造を促進する。",
+      "erosion_control": "多年生で年間を通じて地表を覆うため、雨滴による土壌侵食を効果的に抑制する。",
+      "nutrient_cycling_role": "カリウムなど特定の養分を土壌深層から吸収し、表層に再配分する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "蘭に似た美しい花は、ハチや蝶などの花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "密集した葉は、クモや捕食性昆虫などの天敵の隠れ家を提供する。",
+      "soil_microorganism_interaction": "根圏は多様な微生物群集を育み、土壌の健康を維持する。",
+      "above_ground_biodiversity": "伝統的なアグロフォレストリーシステムにおいて、多様な生物の生息地となる構造を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌に孔隙を作り、水の浸透を促進する。",
+      "moisture_retention": "地上部の被覆が土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "地表の水の流れを緩やかにし、土壌への浸透時間を確保する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年生の大きな根茎に炭素を大量に蓄積するため、高いポテンシャルを持つ。",
+      "soil_carbon_enhancement": "根からの分泌物や有機物の供給を通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ココナッツ、バナナ、ウコン、ショウガ、唐辛子、コーヒー"
+      ],
+      "natural_pest_control": "その強い香りが一部の害虫を忌避する効果を持つ可能性がある（アレロパシー）。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "特定の線虫や病原菌の増殖を抑制する効果が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、単年生作物中心のシステムより安定している。",
+      "stress_tolerance": "一度定着すれば、ある程度の環境ストレスに耐える。",
+      "recovery_capacity": "地上部が損傷しても、地下の根茎から再生する能力が高い。",
+      "adaptability": "栄養繁殖により容易に増殖・移植が可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の食品市場、健康食品市場、化粧品市場での動向は広く報告されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "独特の風味を持つ植物性食材として、加工食品や代替肉のフレーバー向上に貢献。",
+      "food_security_contribution": "小規模農家にとって重要な換金作物であり、地域の食料自給と経済安定に寄与。",
+      "local_food_system_integration": "伝統的なアグロフォレストリーや家庭菜園に容易に組み込める。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者に向けた機能性飲料・サプリメント",
+        "エスニック料理の世界的普及に伴う需要増",
+        "自然派化粧品やアロマセラピー用の精油"
+      ],
+      "value_added_products": [
+        "乾燥粉末",
+        "エッセンシャルオイル",
+        "オレオレジン（抽出物）",
+        "ハーブティー",
+        "健康補助食品"
+      ],
+      "niche_market_value": "オーガニックやフェアトレード認証製品として高い付加価値を持つ可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでの評価はないが、農業の近代化に伴う遺伝的多様性の喪失リスクは、多くの伝統作物で指摘されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の生息地である熱帯雨林の減少が脅威となっている。",
+    "climate_change_vulnerability": "中。特に水資源の変化と新たな病害の発生に脆弱。",
+    "cultural_erosion_risk": "低。東南アジアの食文化に深く根付いているため、利用文化が失われるリスクは低い。",
+    "conservation_actions_needed": [
+      "在来種の収集、特性評価、およびジーンバンクでの保存（域外保全）",
+      "栽培地での多様性維持を奨励する農家への支援（域内保全）",
+      "野生近縁種の生息地保全"
+    ],
+    "priority_conservation_regions": [
+      "インドネシア諸島",
+      "マレー半島",
+      "インドシナ半島"
+    ],
+    "ex_situ_conservation_status": "いくつかの植物園や研究機関のジーンバンクで保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "地域コミュニティによる伝統的な栽培システムの中で、事実上の域内保全が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "N/A",
+      "confidence_level": "high",
+      "source_comment": "本分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インドネシア（特にジャワ島、スマトラ島）",
+      "タイ北部",
+      "マレーシア"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に干ばつ）に対する生理学的応答の定量的データ",
+      "在来種間の遺伝的多様性の網羅的解析",
+      "野生近縁種との交雑親和性"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "正式な品種登録は少なく、主に地域名で呼ばれるランドレース（在来種）が中心。ここでは代表的なタイプを記述する。"
+      },
+      "variety_name": "Indonesian Lengkuas Merah",
+      "local_name": "Lengkuas Merah (Red Galangal)",
+      "origin_region": "インドネシア",
+      "distinctive_characteristics": "根茎の皮が赤みがかっており、一般的な白い品種よりも香りが強く、辛味が鋭いとされる。",
+      "cultural_importance": "薬効が高いとされ、伝統医療（Jamu）で特に重用される。料理にも使われるが、薬用としての価値が強調されることが多い。",
+      "climate_adaptation": "一般的なナンキョウと同様の熱帯気候を好む。",
+      "conservation_status": "地域的に維持されているが、公式な保全状況は不明。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Science 'Plants of the World Online'",
+      "USDA GRIN Global",
+      "民族植物学関連の学術論文",
+      "FAOSTAT"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "在来種の網羅的な遺伝子解析"
+    ],
+    "regional_data_coverage": "東南アジアに関する情報は豊富だが、その他の地域は限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "品種ごとの詳細な栄養価データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

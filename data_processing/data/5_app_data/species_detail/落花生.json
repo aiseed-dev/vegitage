@@ -1,0 +1,781 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical, agricultural (FAO, CGIAR), and ethnobotanical databases. The origin story and wild relatives are well-documented in scientific literature."
+    },
+    "primary_name": "Peanut",
+    "scientific_name": "Arachis hypogaea",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子"
+    ],
+    "origin_region": "南米（現在のボリビア、パラグアイ、アルゼンチン北西部にまたがる地域）",
+    "wild_relatives": [
+      "Arachis duranensis",
+      "Arachis ipaensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual dictionaries, ethnobotanical records, and agricultural glossaries."
+    },
+    "international": {
+      "en": [
+        "Peanut",
+        "Groundnut"
+      ],
+      "scientific_common": "Peanut"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Maní",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Amendoim",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Karanga",
+            "script": "Latn"
+          },
+          {
+            "lang": "ha",
+            "name": "Gyada",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Arachide",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "Mūngphalī",
+            "script": "Deva"
+          },
+          {
+            "lang": "ta",
+            "name": "Nilakkadalai",
+            "script": "Taml"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Kacang tanah",
+            "script": "Latn"
+          },
+          {
+            "lang": "vi",
+            "name": "Lạc",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "花生",
+            "script": "Hans"
+          },
+          {
+            "lang": "ja",
+            "name": "落花生",
+            "script": "Jpan"
+          },
+          {
+            "lang": "ko",
+            "name": "땅콩",
+            "script": "Kore"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Erdnuss",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Cacahuète",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ケチュア（アンデス）",
+        "name": "Inchik",
+        "cultural_significance": "古代から主要な食料源であり、儀式においても重要な役割を果たしてきた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is based on the APG IV system and widely accepted."
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Peanut",
+      "la": "Arachis"
+    },
+    "species": {
+      "en": "Peanut",
+      "la": "hypogaea"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Arachis hypogaea subsp. hypogaea"
+      },
+      {
+        "rank": "subspecies",
+        "name": "Arachis hypogaea subsp. fastigiata"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural importance is well-documented in anthropological studies, culinary history, and agricultural reports across multiple continents."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "サハラ以南アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "主要なタンパク質・脂質源。スープやシチュー（例：Maafe）のとろみ付けや風味付けに不可欠。小規模農家の重要な現金収入源。",
+        "seasonal_significance": "乾季の間の重要な食料源となる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南米（原産地）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "インカ帝国以前からの古代作物。炒ったり、ペーストにしたりして食される。儀式的な供物としても利用された歴史がある。",
+        "seasonal_significance": "収穫祭などと結びついている地域がある。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "サテソースやガドガドソースなど、多くの料理の基本要素。スナックとしても広く消費される。重要な食用油の原料。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "経済作物",
+          "副菜"
+        ],
+        "traditional_uses": "ピーナッツバターとして国民的な食品。スポーツ観戦でのスナックや、南部料理でのボイルドピーナッツなど、文化的象徴性が高い。",
+        "seasonal_significance": "夏の収穫が地域のイベントとなることがある。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "西アフリカ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Maafe (Groundnut Stew)",
+          "Domoda"
+        ],
+        "preparation_methods": [
+          "粉砕してペーストにする",
+          "煮込む"
+        ],
+        "cultural_context": "料理にコクと栄養価を与える基本食材。共同体の食事の中心となることが多い。"
+      },
+      {
+        "cuisine": "インドネシア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Sate Ayam (Chicken Satay with Peanut Sauce)",
+          "Gado-gado"
+        ],
+        "preparation_methods": [
+          "炒ってから挽く",
+          "スパイスと混ぜてソースにする"
+        ],
+        "cultural_context": "多くの料理の味の決め手となるソースの主原料。屋台から高級料理まで幅広く使われる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "南米で約7,600年前に栽培化された証拠がある。古代アンデスの墓からも出土している。",
+      "trade_routes": "16世紀以降、コロンブス交換によりスペインとポルトガルの商人によって旧世界（アフリカ、アジア）へ伝播した。",
+      "cultural_exchange": "アフリカでは奴隷貿易を通じてアメリカ大陸に再導入され、アフリカ系アメリカ人の食文化の重要な一部となった。",
+      "domestication_history": "野生種のArachis duranensisとArachis ipaensisの自然交雑によって生まれた異質四倍体と考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて栽培可能だが、雨季と乾季が明確な地域が望ましい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "長く、暖かく、日照の多い夏が必要。最適な栽培地域。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない長い栽培期間（120-150日）が確保できる地域に限られる。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "栽培期間が短すぎ、夏の気温が不十分なため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。乾燥しているため病害、特にアフラトキシンのリスクが低減する場合がある。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い栽培期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯（北半球）",
+        "planting_season": "4月～5月",
+        "harvest_season": "9月～10月",
+        "growing_period_days": 120
+      },
+      {
+        "climate_zone": "熱帯（サヘル地域）",
+        "planting_season": "雨季の始まり（6月～7月）",
+        "harvest_season": "雨季の終わり（9月～10月）",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "1,000 - 5,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "土壌肥沃度",
+        "水分供給（特に開花期と莢形成期）",
+        "病害虫管理",
+        "収穫・乾燥方法"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約5,000万トン（2022年FAOSTAT）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 36,
+          "characteristics": "国内消費が主。高い単収。"
+        },
+        {
+          "country": "インド",
+          "production_share": 13,
+          "characteristics": "主に搾油用。天水農業が多く、収量は天候に左右される。"
+        },
+        {
+          "country": "ナイジェリア",
+          "production_share": 8,
+          "characteristics": "アフリカ最大の生産国。小規模農家が中心。"
+        },
+        {
+          "country": "アメリカ",
+          "production_share": 5,
+          "characteristics": "高度に機械化された大規模農業。ピーナッツバター用が主。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栄養素に関するデータは豊富。機能性成分に関する研究も進んでいるが、伝統的利用の科学的検証は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "567",
+        "protein_g": "25.8",
+        "carbs_g": "16.1",
+        "fat_g": "49.2",
+        "fiber_g": "8.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ナイアシン (B3)",
+          "amount": "12.1 mg",
+          "daily_value_percent": 86
+        },
+        {
+          "nutrient": "葉酸 (B9)",
+          "amount": "240 µg",
+          "daily_value_percent": 60
+        },
+        {
+          "nutrient": "ビタミンE",
+          "amount": "8.3 mg",
+          "daily_value_percent": 55
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "168 mg",
+          "daily_value_percent": 42
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "レスベラトロール",
+        "concentration": "薄皮に多い",
+        "health_effect": "抗酸化作用、心血管保護作用"
+      },
+      {
+        "compound": "p-クマル酸",
+        "concentration": "豊富",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フィトステロール",
+        "concentration": "豊富",
+        "health_effect": "血中コレステロール低下作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アフリカ、アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "皮膚の保湿",
+          "滋養強壮"
+        ],
+        "preparation": "ピーナッツオイルを皮膚に塗布する。ピーナッツをそのまま、または調理して食べる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "心血管疾患リスクの低減",
+        "2型糖尿病リスクの低減",
+        "体重管理への寄与"
+      ],
+      "ongoing_research": [
+        "認知機能改善効果",
+        "抗炎症作用"
+      ],
+      "safety_considerations": "ピーナッツアレルギーは重篤なアナフィラキシーショックを引き起こす可能性がある。アフラトキシン（カビ毒）汚染のリスク。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理での利用法は広く記録されており、多様な調理法が存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界全域",
+        "methods": [
+          "焙煎",
+          "製油",
+          "粉砕（ペースト・粉）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "チョコレート",
+          "鶏肉",
+          "米",
+          "麺類",
+          "唐辛子"
+        ]
+      },
+      {
+        "region": "アメリカ南部",
+        "methods": [
+          "塩茹で"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "塩"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "ソースにする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "唐辛子",
+          "ニンニク",
+          "ライム"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "数ヶ月～1年",
+        "quality_changes": "適切な乾燥はアフラトキシンの発生を防ぐために不可欠。水分含量を8%以下に保つことが重要。"
+      },
+      {
+        "method": "ピーナッツバターへの加工",
+        "regions": [
+          "北米",
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "油分が分離することがある。酸化による風味の劣化を防ぐため密閉保存が必要。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッツ特有の香ばしさ、豊かなコク、焙煎による甘み、土のような素朴な風味",
+      "aroma_compounds": [
+        "ピラジン類（焙煎香）",
+        "アルデヒド類",
+        "フラン類"
+      ],
+      "texture_characteristics": "生ではシャキシャキ、焙煎するとカリカリ、ペーストにすると滑らかまたは粒状。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性に関する定性的な評価は多いが、品種レベルでの定量的な耐熱・耐乾データは限定的。アフラトキシンリスク増大が最大の懸念事項。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "25-30°C",
+      "extreme_heat_survival": "35°Cを超えると受精率と莢の成長が著しく低下する。",
+      "cold_tolerance": "15°C以下では生育が停止する。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "比較的高い。深い主根が土壌深層の水分を利用できる。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "500-1000 mm（栽培期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部が低いため、強風による倒伏の被害は少ない。",
+      "hail_damage_recovery": "葉の損傷からの回復力は中程度。",
+      "rapid_temperature_change": "感受性が高い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成と成長が促進される可能性がある。",
+      "ozone_sensitivity": "中程度",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により害虫の発生地域が北上し、被害が増加する可能性がある。",
+      "disease_resistance_stability": "高温・乾燥ストレスはアフラトキシンを産生するAspergillus flavusの感染リスクを著しく高める。",
+      "beneficial_organism_relationships": "根粒菌との共生は、ストレス下での窒素供給に重要。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯のサバンナ気候、温帯の一部",
+        "2050_projection": "栽培適地が緯度の高い地域へわずかに移動する可能性がある。サヘル地域など一部の既存産地では、熱と水ストレスの増大により適性が低下する恐れがある。",
+        "2100_projection": "適性の低下がより広範な地域で予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種の遺伝的多様性の狭さはよく知られている。野生種との交雑は人為的な育種プログラムでは行われているが、自然環境下での交雑は極めて稀。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培種内の亜種間（例：subsp. hypogaea x subsp. fastigiata）の交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "野生の二倍体種（A. duranensis等）との直接交雑は、倍数性が異なるため極めて困難。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "栽培種の起源そのものがA. duranensisとA. ipaensisの間の自然交雑とそれに続く染色体倍加によるもの。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である南米には多様な在来種が存在するが、世界的に栽培される品種の遺伝的基盤は非常に狭い。",
+      "wild_gene_pool": "約80種の野生種が存在し、病害虫抵抗性や非生物的ストレス耐性の貴重な遺伝子源となっている。",
+      "adaptive_genetic_variation": "栽培種内では限定的。",
+      "inbreeding_depression_risk": "自家受粉性のため高いが、栽培化の過程で有害な劣性遺伝子の多くは淘汰されていると考えられている。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種からの遺伝子導入により、耐乾性や耐病性を劇的に向上させる可能性がある。",
+      "improved_nutritional_content": "野生種には高オレイン酸などの有用形質を持つものが存在する。",
+      "novel_characteristics": "新たな風味や形状の獲得も理論的には可能。",
+      "hybrid_vigor_potential": "限定的。主に種間交雑由来の育種で期待される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の壁、胚珠の敗退など、種間交雑には複数の障壁が存在する。",
+      "chromosome_compatibility": "異質四倍体であるため、二倍体の野生種との染色体対合は起こらない。",
+      "fertility_of_hybrids": "種間交雑で得られた三倍体雑種は通常不稔。コルヒチン処理による倍加が必要。",
+      "backcrossing_success": "有用遺伝子を導入するための戻し交配は、多くの世代と労力を要する。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "マメ科植物としての窒素固定能力は、リジェネラティブ農業における基本的な利点として広く認識されている。間作システムでの利用例も豊富。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深い主根と、根粒菌が共生する多数の側根を持つ。",
+      "organic_matter_contribution": "収穫後の茎葉を土壌に還元することで、有機物と窒素を供給する。",
+      "soil_structure_improvement": "根系が土壌の団粒構造を促進する。",
+      "erosion_control": "生育初期の被覆は遅いが、繁茂後は地面を覆い、土壌侵食を軽減する。",
+      "nutrient_cycling_role": "大気中の窒素を土壌に固定し、後作物のための肥料を供給する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "主に自家受粉だが、花はミツバチなどの訪花昆虫を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌との共生関係は、土壌微生物叢の多様性を豊かにする。",
+      "above_ground_biodiversity": "限定的"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が土壌に孔隙を作り、水の浸透を助ける。",
+      "moisture_retention": "地上部の被覆が土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "キャノピーが発達すると雨滴による土壌の飛散を防ぎ、流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "窒素固定により土壌の炭素/窒素比を改善し、土壌炭素の蓄積を間接的に促進する。",
+      "soil_carbon_enhancement": "高い",
+      "carbon_sequestration_rate": "中程度"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ",
+        "ソルガム",
+        "ミレット（これらがラッカセイに支柱を提供し、ラッカセイがこれらに窒素を供給する）"
+      ],
+      "natural_pest_control": "間作により特定の害虫の発生を抑制することがある。",
+      "nutrient_sharing": "窒素を他の作物に供給する。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "窒素固定能力により、外部からの肥料投入が少ないシステムでも生産性を維持できる。",
+      "stress_tolerance": "耐乾性があり、不安定な降雨地域でのシステムの安定性に貢献する。",
+      "recovery_capacity": "中程度",
+      "adaptability": "多様な土壌タイプに適応できる。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界的な主要作物であり、食品産業における用途は非常に広い。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高品質な植物性タンパク質と健康的な脂質の優れた供給源。",
+      "food_security_contribution": "開発途上国における安価で栄養価の高い食料として、食料安全保障に不可欠。",
+      "local_food_system_integration": "多くの地域で地産地消されており、地域の食料システムに深く根付いている。",
+      "alternative_protein_potential": "ピーナッツプロテインパウダーなど、代替タンパク質源としての利用が拡大している。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高オレイン酸ピーナッツなど健康志向の品種",
+        "アレルギー対応ピーナッツの開発"
+      ],
+      "value_added_products": [
+        "ピーナッツバター",
+        "ピーナッツオイル",
+        "スナック菓子",
+        "プロテインバー",
+        "栄養補助食品（Plumpy'Nut）"
+      ],
+      "niche_market_value": "特定の在来種やオーガニック栽培品は、高級食材としてニッチな市場を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種の遺伝的脆弱性は認識されているが、野生種の生息地の保全状況に関するデータは断片的。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "南米の野生種の自生地は、農業開発や森林伐採の脅威にさらされている。",
+    "climate_change_vulnerability": "栽培適地の変化やアフラトキシンリスクの増大により、多くの在来種が脅威にさらされる可能性がある。",
+    "cultural_erosion_risk": "在来種の栽培放棄により、それに関連する伝統知識や食文化が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "野生種の体系的な探索と収集",
+      "ジーンバンクにおける遺伝資源の長期保存",
+      "在来種の農家による域内保全（on-farm conservation）の支援"
+    ],
+    "priority_conservation_regions": [
+      "ブラジル、ボリビア、パラグアイ、アルゼンチンにまたがる野生種の自生地"
+    ],
+    "ex_situ_conservation_status": "ICRISATなどの国際ジーンバンクで大規模なコレクションが保存されている。",
+    "in_situ_conservation_efforts": "限定的であり、強化が必要。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価は、ラッカセイの世界的普及度と重要性に基づいている。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "南米の原産地（在来種と野生種の多様性調査）",
+      "サヘル地域（気候変動影響下の栽培システム研究）"
+    ],
+    "knowledge_gaps": [
+      "在来種の気候変動耐性に関する定量的データ",
+      "野生種の有用遺伝子を効率的に導入する育種技術",
+      "アフラトキシン汚染の気候変動シナリオ下でのリスク評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な商業タイプは国際的に標準化されている。"
+      },
+      "variety_name": "Runner",
+      "local_name": "Runner",
+      "origin_region": "アメリカ",
+      "distinctive_characteristics": "均一な大きさの種子、高い収量。主にピーナッツバター用。",
+      "cultural_importance": "アメリカのピーナッツ産業を支える主要タイプ。",
+      "climate_adaptation": "幅広い環境に適応するが、安定した水分供給が必要。",
+      "conservation_status": "商業的に広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な商業タイプは国際的に標準化されている。"
+      },
+      "variety_name": "Virginia",
+      "local_name": "Virginia",
+      "origin_region": "アメリカ",
+      "distinctive_characteristics": "種子と莢が大きい。主に殻付きの焙煎ピーナッツとして利用される。",
+      "cultural_importance": "スナックピーナッツの象徴。",
+      "climate_adaptation": "Runner種より長い栽培期間を要する。",
+      "conservation_status": "商業的に広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な商業タイプは国際的に標準化されている。"
+      },
+      "variety_name": "Spanish",
+      "local_name": "Spanish",
+      "origin_region": "スペイン（経由で伝播）",
+      "distinctive_characteristics": "小さい種子、赤褐色の薄皮、高い油分。製油や菓子用に利用される。",
+      "cultural_importance": "ピーナッツオイルの主要原料の一つ。",
+      "climate_adaptation": "比較的短い栽培期間で成熟する。",
+      "conservation_status": "商業的に広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な商業タイプは国際的に標準化されている。"
+      },
+      "variety_name": "Valencia",
+      "local_name": "Valencia",
+      "origin_region": "アメリカ",
+      "distinctive_characteristics": "一つの莢に3つ以上の種子が入る。甘みが強い。主に茹でピーナッツや生食用。",
+      "cultural_importance": "特定の地域料理（例：アメリカ南部のボイルドピーナッツ）で好まれる。",
+      "climate_adaptation": "高地での栽培に適応した品種もある。",
+      "conservation_status": "商業的に広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "CGIAR (ICRISAT)",
+      "Kew Royal Botanic Gardens",
+      "Purdue University Horticulture",
+      "Ethnobotanical literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業システムにおける炭素隔離能力の定量的評価",
+      "気候変動に対する多様な在来種の生理学的応答メカニズム",
+      "野生種遺伝資源の網羅的評価"
+    ],
+    "regional_data_coverage": "主要生産国（中国、インド、アメリカ、ナイジェリア）のデータは豊富。南米の原産地における在来種の多様性に関するデータは比較的少ない。",
+    "missing_information": [
+      "先住民コミュニティにおける現代での伝統的利用法の詳細な変化",
+      "特定の在来種ごとの機能性成分の含有量比較"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

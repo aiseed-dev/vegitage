@@ -1,0 +1,626 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is consolidated from major botanical and agricultural databases. The hybrid origin is well-documented."
+    },
+    "primary_name": "Rutabaga",
+    "scientific_name": "Brassica napus var. napobrassica",
+    "plant_type": "多年草（一年草として栽培）",
+    "edible_parts": [
+      "根",
+      "葉"
+    ],
+    "origin_region": "スカンジナビア（17世紀）",
+    "wild_relatives": [
+      "Brassica rapa (カブ)",
+      "Brassica oleracea (ヤセイカンラン)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Common names are well-documented in linguistic and agricultural sources for Europe and North America. Names in other regions are scarce due to its limited cultivation there."
+    },
+    "international": {
+      "en": [
+        "Rutabaga",
+        "Swede",
+        "Swedish turnip",
+        "Neep"
+      ],
+      "scientific_common": "Swede"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Steckrübe",
+            "script": "Latn"
+          },
+          {
+            "lang": "sv",
+            "name": "Kålrot",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Rutabaga",
+            "script": "Latn"
+          },
+          {
+            "lang": "fi",
+            "name": "Lanttu",
+            "script": "Latn"
+          },
+          {
+            "lang": "gd",
+            "name": "Snèap",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Rutabaga",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr-CA",
+            "name": "Rutabaga",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is stable and universally accepted."
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Cabbage",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Rapeseed",
+      "la": "Brassica napus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "napobrassica"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural importance is well-documented in Northern European and North American history, particularly as a staple food and fodder."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "北ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "家畜飼料",
+          "経済作物"
+        ],
+        "traditional_uses": "冬の間の重要なカロリー源。スコットランドの国民的料理「ハギス、ニープス・アンド・タティーズ」に不可欠。スカンジナビアではマッシュやローストとして常食される。",
+        "seasonal_significance": "秋から冬にかけての収穫物で、冬の食料安全保障に寄与してきた。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "感謝祭やクリスマスのディナーで、マッシュやローストとして供されることが多い。特にカナダや米国北部で一般的。",
+        "seasonal_significance": "秋の収穫祭に関連する食材。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "スコットランド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Neeps and Tatties"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "マッシュにする"
+        ],
+        "cultural_context": "バーンズ・ナイト（詩人ロバート・バーンズの誕生日）の祝宴に欠かせない一品。"
+      },
+      {
+        "cuisine": "ドイツ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Steckrübeneintopf (ルタバガのシチュー)"
+        ],
+        "preparation_methods": [
+          "煮込む"
+        ],
+        "cultural_context": "第一次世界大戦中の食糧難の冬（Steckrübenwinter）を象徴する食材として、歴史的な意味合いを持つ。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "17世紀にスウェーデンでカブとキャベツの交雑により生まれた比較的新しい野菜。",
+      "trade_routes": "18世紀から19世紀にかけてヨーロッパ全土および北米に普及した。",
+      "cultural_exchange": "家畜飼料として普及し、農業革命における冬の飼料供給に貢献した。",
+      "domestication_history": "人為的な種間交雑によって作出された明確な歴史を持つ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温と多湿により生育不良となる。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "冬期に限定的な栽培は可能だが、商業生産には不向き。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な夏と適度な降雨がある地域が最適。霜に当たると甘みが増す。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の高温が厳しくない地域で適応。長い生育期間が必要。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な灌漑が必要であり、適さない。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高の低い冷涼な地域で栽培可能。生育期間の確保が課題。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春〜初夏",
+        "harvest_season": "秋〜初冬",
+        "growing_period_days": "90-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "25,000 - 60,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌肥沃度",
+        "水分供給",
+        "アブラナ科特有の病害虫（根こぶ病、アブラムシなど）",
+        "栽培密度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（カブと合算されることが多く、独立した統計データは少ない）",
+      "major_producers": [
+        {
+          "country": "イギリス",
+          "production_share": "不明",
+          "characteristics": "国内消費および飼料用として大規模に栽培。"
+        },
+        {
+          "country": "カナダ",
+          "production_share": "不明",
+          "characteristics": "特にオンタリオ州とケベック州が主要産地。"
+        },
+        {
+          "country": "スカンジナビア諸国",
+          "production_share": "不明",
+          "characteristics": "伝統的な食文化に根ざした安定的な生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、品種や栽培条件による機能性成分の変動に関する研究は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "38",
+        "protein_g": "1.1",
+        "carbs_g": "8.6",
+        "fat_g": "0.2",
+        "fiber_g": "2.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "25 mg",
+          "daily_value_percent": "42%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "305 mg",
+          "daily_value_percent": "9%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート",
+        "concentration": "変動あり",
+        "health_effect": "体内でイソチオシアネートに変換され、抗がん作用の可能性が研究されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "去痰",
+          "利尿"
+        ],
+        "preparation": "シロップや煎じ薬"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "豊富なビタミンCによる抗酸化作用"
+      ],
+      "ongoing_research": [
+        "グルコシノレートの抗がん作用と代謝への影響"
+      ],
+      "safety_considerations": "甲状腺腫誘発物質（ゴイトロゲン）を含むため、甲状腺機能に問題がある場合は過剰摂取に注意が必要。通常量の食事では問題にならない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "調理法は北ヨーロッパと北米の料理本や食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "北ヨーロッパ",
+        "methods": [
+          "マッシュ",
+          "ロースト",
+          "煮込み",
+          "スープ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ジャガイモ",
+          "ニンジン",
+          "バター",
+          "コショウ",
+          "羊肉"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "マッシュ",
+          "ロースト",
+          "グリル",
+          "ピュレ"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "メープルシロップ",
+          "ブラウンシュガー",
+          "七面鳥",
+          "豚肉"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "根菜貯蔵",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "3-6ヶ月",
+        "quality_changes": "適切に貯蔵すれば品質は長期間保たれる。乾燥すると萎びる。"
+      },
+      {
+        "method": "ワックスコーティング",
+        "regions": [
+          "北米"
+        ],
+        "shelf_life": "数週間延長",
+        "quality_changes": "水分の蒸発を防ぎ、外観を保つが、風味に影響を与える可能性も指摘される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘く、土の香りがあり、わずかにカブに似た辛味を持つ。加熱すると甘みが増す。",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "生では硬く歯ごたえがある。調理すると柔らかく、滑らかになる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "品種レベルでの定量的な耐性データは不足。評価はアブラナ科の冷涼地作物としての一般的な特性に基づく推定が多い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "25°Cを超えると生育が著しく阻害され、根の肥大が停止する。",
+      "cold_tolerance": "-5°C程度までの霜に耐え、品質が向上する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "中程度。根の肥大期に安定した水分が必要。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-800 mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉は損傷しやすいが、地下部は保護されるため比較的強い。",
+      "hail_damage_recovery": "中程度。葉の損傷からの回復力はある。",
+      "rapid_temperature_change": "高温への急変で抽苔（とう立ち）しやすい。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。他のC3作物同様、光合成促進の可能性があるが、高温ストレスが相殺する可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやコナガの発生期間が長期化し、被害が増加するリスクがある。",
+      "disease_resistance_stability": "根こぶ病など土壌伝染性病害は地温上昇により発生が増加する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "北ヨーロッパ、カナダ、米国北部",
+        "2050_projection": "現在の栽培地の南部で不適地化が進み、栽培限界がより北や高緯度へ移動する。",
+        "2100_projection": "北緯60度以上の地域や、現在栽培されていない高山地域が新たな適地となる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "B. napusとしての交雑親和性はよく研究されているが、ルタバガに特化した自然適応の事例は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "セイヨウアブラナ（キャノーラ）",
+        "その他のルタバガ品種"
+      ],
+      "interspecific_compatibility": [
+        "Brassica rapa（カブ、ハクサイなど）",
+        "Brassica oleracea（キャベツ、ブロッコリーなど）"
+      ],
+      "intergeneric_possibility": [
+        "近縁の属（ダイコン属など）との交雑は困難。"
+      ],
+      "successful_natural_hybrids": "セイヨウアブラナ（キャノーラ）との自然交雑は雑草化の問題として知られている。"
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパには多様な在来品種が存在するが、商業品種への均一化が進んでいる。",
+      "wild_gene_pool": "直接の野生種は存在しないが、親種であるB. rapaとB. oleraceaの野生集団が遺伝子源となりうる。",
+      "adaptive_genetic_variation": "交雑和合性が高いため、適応的な遺伝変異を取り込むポテンシャルは高い。",
+      "inbreeding_depression_risk": "自家不和合性が低いため、自家受粉による近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "B. rapaの早生性やB. oleraceaの耐病性などを導入できる可能性がある。",
+      "improved_nutritional_content": "親種や近縁種の機能性成分（例：高グルコシノレート）を導入できる可能性がある。",
+      "novel_characteristics": "根の形状、色、葉の特性など多様な形質を創出できる。",
+      "hybrid_vigor_potential": "種間雑種であるため、本質的に雑種強勢のポテンシャルを持つ。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "親種との戻し交配は可能だが、染色体数の違いから稔性の低下が起こることがある。",
+      "chromosome_compatibility": "複二倍体（AACCゲノム）であるため、親種（AA, CC）との交配は複雑になる。",
+      "fertility_of_hybrids": "比較的高い。",
+      "backcrossing_success": "可能。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "冷涼気候への適応",
+        "adaptive_traits": "耐寒性、長い日長下での根の肥大",
+        "heritability": "中〜高",
+        "response_to_selection": "中"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ルタバガに特化したリジェネラティブ農業の研究は少ない。評価はアブラナ科深根性作物の一般的な特性からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深く伸びるため、土壌の硬盤を破砕し、通気性や透水性を改善する可能性がある。",
+      "organic_matter_contribution": "収穫後の大きな葉や根の残渣が土壌有機物として供給される。",
+      "soil_structure_improvement": "深根性により土壌構造の改善に貢献する。",
+      "erosion_control": "生育後期には大きな葉が地面を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる可能性がある（養分ポンプ効果）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "抽苔した場合、花はミツバチなどの訪花昆虫にとって魅力的な蜜源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "アブラナ科植物は菌根菌との共生が弱いが、特有の根圏微生物叢を形成する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が水の浸透を促進する。",
+      "moisture_retention": "残渣による土壌有機物増加が保水性を高める。",
+      "runoff_reduction": "地表被覆により表面流出を低減する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "大きな塊根と深い根系により、地下部への炭素蓄積ポテンシャルが高い。",
+      "soil_carbon_enhancement": "残渣分解により土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科（窒素供給）",
+        "ミント類（害虫忌避）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "アブラナ科植物は他の植物の生育を抑制するアレロパシー効果を持つことがある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌構造を改善し、システムの安定性に貢献する。",
+      "stress_tolerance": "冷涼気候のストレスには強いが、温暖化ストレスには脆弱。",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食トレンドにおける位置づけは、料理雑誌や健康関連メディアで広く議論されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低炭水化物でビタミンCが豊富なため、ジャガイモの代替として健康志向の食事で価値がある。",
+      "food_security_contribution": "冷涼な地域における重要な冬のエネルギー源として、地域の食料安全保障に貢献する。",
+      "local_food_system_integration": "貯蔵性が高いため、地産地消やファーマーズマーケットに適している。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "低炭水化物・ケトジェニックダイエット市場",
+        "グルメ・伝統野菜市場"
+      ],
+      "value_added_products": [
+        "冷凍ルタバガ",
+        "ルタバガのピュレ",
+        "野菜チップス"
+      ],
+      "niche_market_value": "伝統料理や特定の食文化に関心を持つ層に対してニッチな価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な商業品種の保全リスクは低いが、地域固有の在来種の状況については情報が不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "栽培植物であるため、直接的な生息地喪失の脅威はない。",
+    "climate_change_vulnerability": "高。温暖化により伝統的な栽培適地が縮小するリスクがある。",
+    "cultural_erosion_risk": "中。世代交代とともに伝統的な調理法や食文化が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来品種の収集とジーンバンクでの保存",
+      "伝統的知識の記録と普及",
+      "気候変動に適応した品種の育種"
+    ],
+    "priority_conservation_regions": [
+      "北ヨーロッパの在来品種が分布する地域"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数の品種が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域で農家による自家採種や種子交換ネットワークを通じて保全されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査に基づいた総合的な評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "スカンジナビア",
+      "スコットランド",
+      "ドイツ"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する品種ごとの生理的応答",
+      "リジェネラティブ農業システムにおける具体的な効果の定量的評価",
+      "アジア・アフリカ・南米など非伝統的栽培地域での適応可能性"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な品種の情報は種子カタログや農業普及資料で容易に入手可能。"
+      },
+      "variety_name": "American Purple Top",
+      "local_name": "American Purple Top",
+      "origin_region": "アメリカ合衆国",
+      "distinctive_characteristics": "根の上部が紫色で、下部が黄色。大きくて均一な根を形成し、貯蔵性に優れる。",
+      "cultural_importance": "北米で最も広く栽培されている標準的な品種。",
+      "climate_adaptation": "冷涼な気候に適応しているが、特に耐暑性はない。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な品種の情報は種子カタログや農業普及資料で容易に入手可能。"
+      },
+      "variety_name": "Laurentian",
+      "local_name": "Laurentian",
+      "origin_region": "カナダ",
+      "distinctive_characteristics": "滑らかで均一な形状の根を持ち、内部の肉質は淡い黄色で味が良いとされる。",
+      "cultural_importance": "カナダで開発され、広く栽培されている優良品種。",
+      "climate_adaptation": "カナダの冷涼な気候と短い生育期間に適応している。",
+      "conservation_status": "懸念なし"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Gardens' Plants of the World Online",
+      "USDA FoodData Central",
+      "FAOSTAT",
+      "Ethnobotany and agricultural history literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栽培が限定的な地域での文化的価値"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に偏っており、他の地域に関するデータはほぼ存在しない。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "品種ごとの詳細な機能性成分分析"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,763 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is well-documented in major botanical and agricultural databases. Wild relative information is somewhat limited as the genus Anethum is small."
+    },
+    "primary_name": "Dill",
+    "scientific_name": "Anethum graveolens",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "花",
+      "種子"
+    ],
+    "origin_region": "南西アジア、南東ヨーロッパ",
+    "wild_relatives": [
+      "Anethum sowa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are widely recorded in ethnobotanical and linguistic databases."
+    },
+    "international": {
+      "en": [
+        "Dill",
+        "Dillweed"
+      ],
+      "scientific_common": "Anethum"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Dill",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Aneth",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Eneldo",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Aneto",
+            "script": "Latn"
+          },
+          {
+            "lang": "sv",
+            "name": "Dill",
+            "script": "Latn"
+          },
+          {
+            "lang": "pl",
+            "name": "Koper",
+            "script": "Latn"
+          },
+          {
+            "lang": "ru",
+            "name": "Укроп",
+            "script": "Cyrl"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "شبت",
+            "script": "Arab"
+          },
+          {
+            "lang": "fa",
+            "name": "شوید",
+            "script": "Arab"
+          },
+          {
+            "lang": "tr",
+            "name": "Dereotu",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "सोआ",
+            "script": "Deva"
+          },
+          {
+            "lang": "mr",
+            "name": "शेपू",
+            "script": "Deva"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "莳萝",
+            "script": "Hans"
+          },
+          {
+            "lang": "ja",
+            "name": "イノンド",
+            "script": "Jpan"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established in botanical systems like APG IV."
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Dill",
+      "la": "Anethum"
+    },
+    "species": {
+      "en": "Dill",
+      "la": "graveolens"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Historical and culinary uses are extensively documented across cultures."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "北欧・東欧",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "魚料理（特にサーモン）、ジャガイモ、ピクルス（キュウリ）、スープに不可欠なハーブ。夏至祭などの季節の祝祭料理にも使用される。",
+        "seasonal_significance": "夏の新鮮なハーブとして象徴的。ピクルス用に秋に収穫される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東・西アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "米料理（ペルシャのバガリポロ）、シチュー、ヨーグルトベースのソースやサラダに多用される。",
+        "seasonal_significance": "春のハーブとして新鮮なものが好まれる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "香辛料"
+        ],
+        "traditional_uses": "葉は豆カレーや野菜料理に、種子はスパイスミックスや食後の口直し（ムクワス）に利用される。",
+        "seasonal_significance": "冬から春にかけての野菜として栽培・利用される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "スカンジナビア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Gravlax (dill-cured salmon)",
+          "Dillkött (dill meat stew)",
+          "Pickled herring"
+        ],
+        "preparation_methods": [
+          "生食",
+          "加熱",
+          "塩漬け"
+        ],
+        "cultural_context": "魚介の風味を引き立て、保存性を高めるために不可欠。夏の爽やかさを象徴する。"
+      },
+      {
+        "cuisine": "ペルシャ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Baghali Polo (fava bean and dill rice)",
+          "Sabzi Khordan (fresh herb platter)"
+        ],
+        "preparation_methods": [
+          "生食",
+          "炊き込み"
+        ],
+        "cultural_context": "米料理に香りと彩りを加える重要なハーブ。ノウルーズ（新年）の食卓にも登場する。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト（エーベルス・パピルスに記載）、古代ギリシャ・ローマで薬用・食用に利用されていた。",
+      "trade_routes": "中世を通じてヨーロッパ全域に広まった。交易品としての価値は香辛料よりは低かった。",
+      "cultural_exchange": "ローマ人によってヨーロッパに広められ、各地域の料理に適応していった。",
+      "domestication_history": "原産地である地中海東部から西アジアで数千年前に栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿では生育不良となり、早期に抽苔（トウ立ち）する。高地冷涼地では可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しい乾季（冬）に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけての栽培が最適。日当たりと水はけの良い土壌を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "短い夏に急速に成長する。霜には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑がなければ栽培は困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（霜の心配がなくなってから）",
+        "harvest_season": "初夏（葉）、夏〜初秋（種子）",
+        "growing_period_days": "40-60"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋〜冬",
+        "harvest_season": "冬〜春",
+        "growing_period_days": "50-70"
+      }
+    ],
+    "productivity": {
+      "yield_range": "葉: 5,000-15,000 kg/ha, 種子: 500-1,500 kg/ha",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌水分",
+        "気温（高温による早期抽苔）",
+        "窒素施肥量"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "種子生産が中心。国内消費および輸出。"
+        },
+        {
+          "country": "エジプト",
+          "production_share": "不明",
+          "characteristics": "葉と種子の両方を生産。中東およびヨーロッパへ輸出。"
+        },
+        {
+          "country": "ロシア",
+          "production_share": "不明",
+          "characteristics": "国内消費が主。ダーチャ（家庭菜園）での栽培が盛ん。"
+        },
+        {
+          "country": "ハンガリー",
+          "production_share": "不明",
+          "characteristics": "ヨーロッパ市場向けの葉と精油の生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分は利用可能だが、品種や栽培条件による変動に関するデータは限定的。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "43",
+        "protein_g": "3.5",
+        "carbs_g": "7.0",
+        "fat_g": "1.1",
+        "fiber_g": "2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA",
+          "amount": "7718 IU",
+          "daily_value_percent": "257"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "85 mg",
+          "daily_value_percent": "142"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "1.3 mg",
+          "daily_value_percent": "63"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "6.6 mg",
+          "daily_value_percent": "37"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "カルボン",
+        "concentration": "変動あり",
+        "health_effect": "鎮痙作用、駆風作用"
+      },
+      {
+        "compound": "リモネン",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "ケルセチン",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "消化促進",
+          "乳児の疝痛（せんつう）緩和",
+          "鎮静",
+          "口臭予防"
+        ],
+        "preparation": "種子や葉の煎じ薬（ディルウォーター）、生の葉の咀嚼"
+      },
+      {
+        "region": "インド",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "駆風（腸内ガスの排出）",
+          "消化不良",
+          "授乳促進"
+        ],
+        "preparation": "種子を煎じる、または食事に加える"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗菌作用"
+      ],
+      "ongoing_research": [
+        "血糖降下作用",
+        "脂質低下作用"
+      ],
+      "safety_considerations": "通常、食品としての摂取は安全。精油の高濃度摂取は避けるべき。セリ科アレルギーの人は注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "北欧・東欧",
+        "methods": [
+          "生で使用",
+          "ピクルス液に加える",
+          "煮込み"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "サーモン",
+          "ニシン",
+          "キュウリ",
+          "ジャガイモ",
+          "サワークリーム"
+        ]
+      },
+      {
+        "region": "中東",
+        "methods": [
+          "刻んで混ぜ込む",
+          "炊き込む"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "米",
+          "ソラマメ",
+          "ヨーグルト",
+          "ラム肉"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "炒める",
+          "煮込む"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "レンズ豆",
+          "ジャガイモ",
+          "ホウレンソウ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "6-12ヶ月",
+        "quality_changes": "香りの多くが失われる。特に葉は風味が大きく劣化する。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "3-6ヶ月",
+        "quality_changes": "生の香りを比較的よく保持できる。"
+      },
+      {
+        "method": "酢漬け",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りが酢に移り、ピクルスの風味を形成する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やかで、アニスやキャラウェイに似た甘さと、わずかな苦味と辛味を持つ。",
+      "aroma_compounds": [
+        "カルボン",
+        "リモネン",
+        "α-フェランドレン"
+      ],
+      "texture_characteristics": "葉は柔らかく繊細。茎はやや硬い。種子は硬い。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な実験データは少ない。栽培特性からの定性的評価が主。将来予測は一般的な作物モデルからの類推。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°Cを超えると成長が著しく阻害され、早期に抽苔する。",
+      "cold_tolerance": "-5°C程度までの軽い霜には耐えるが、強い霜には弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "普通。葉の生産には安定した水分が必要だが、種子生産期には比較的乾燥に強い。",
+      "flood_tolerance": "低。根腐れを起こしやすい。",
+      "optimal_rainfall": "600-800mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低。茎が細く倒れやすい。",
+      "hail_damage_recovery": "低。葉が傷つきやすく、回復が遅い。",
+      "rapid_temperature_change": "中程度の適応。急激な高温は抽苔を誘発する。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。他のC3植物同様、光合成が促進される可能性があるが、高温ストレスで相殺される可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中程度"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやヨトウムシの発生時期・回数が増加する可能性。",
+      "disease_resistance_stability": "高温多湿はうどんこ病や立ち枯れ病のリスクを高める。",
+      "beneficial_organism_relationships": "温暖化が天敵昆虫の活動に与える影響に左右される。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域",
+        "2050_projection": "栽培適地がより高緯度・高標高へ移動。温帯低地では春・秋作に限定される。",
+        "2100_projection": "移動がさらに進行。一部の現行適地では栽培が困難になる可能性。",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種内交雑は一般的だが、種間・属間交雑に関する科学的証拠は限定的。フェンネルとの交雑はしばしば俗説として語られるが、植物学的には疑問視されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "すべてのA. graveolens栽培品種間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Anethum sowa（インドディル）とは交雑可能。"
+      ],
+      "intergeneric_possibility": [
+        "Foeniculum vulgare（フェンネル）との属間交雑は、自然条件下では成功しないか、極めて稀。交雑しても稔性のない雑種になると考えられている。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培品種間の自然交雑は一般的。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中程度。ヨーロッパ系とインド系で遺伝的・形態的に分化が見られる。",
+      "wild_gene_pool": "限定的。野生のA. graveolensの分布は限られている。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "低。他家受粉性のため、集団内での遺伝的多様性は維持されやすい。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "A. sowaとの交雑により、耐暑性が向上する可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "精油成分の組成が変化し、新しい香りや風味を持つ系統が生まれる可能性がある。",
+      "hybrid_vigor_potential": "高い。品種間交雑により生育が旺盛になることが期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "属が異なると（例：フェンネル）、受粉後の障壁が存在する。",
+      "chromosome_compatibility": "Anethum属内では問題は少ない。",
+      "fertility_of_hybrids": "属間雑種では不稔性が高いと予測される。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "抽苔時期（開花タイミング）",
+        "adaptive_traits": "日長や気温に対する感応性",
+        "heritability": "高い",
+        "response_to_selection": "早い"
+      }
+    ],
+    "hybridization_score": 5
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "コンパニオンプランツとしての効果は広く知られているが、土壌改良や炭素固定に関する定量的研究は少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "直根性（タップルート）で、土壌の硬盤をいくらか砕く効果があるが、深さは限定的。",
+      "organic_matter_contribution": "地上部バイオマスが少なく、有機物供給への貢献は小さい。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "被覆度が低いため、侵食防止効果は小さい。",
+      "nutrient_cycling_role": "特筆すべき能力はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "非常に高い。傘形花序はハナアブ、ヒラタアブ、寄生バチ、ハナカミキリなど多様な小型の送粉者や天敵昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシやヒメハナカメムシ、寄生バチの蜜源・花粉源となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "農業生態系内の機能的生物多様性を高める上で非常に有効。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "限定的",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "キャベツ、ブロッコリーなどのアブラナ科野菜",
+        "キュウリ",
+        "レタス",
+        "タマネギ"
+      ],
+      "natural_pest_control": "アブラナ科の害虫であるコナガやモンシロチョウを寄せ付けにくくする効果が報告されている。天敵昆虫を誘引することでアブラムシを抑制する。",
+      "nutrient_sharing": "特筆すべき能力はない。",
+      "allelopathic_interactions": "ニンジンやフェンネルの生育を阻害することがある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "バンカープランツとして天敵を維持し、生態系の安定性を高める。",
+      "stress_tolerance": "植物個体としては低いが、生態系サービスを通じてシステム全体の耐性を向上させる。",
+      "recovery_capacity": "限定的",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場動向や製品開発は広く報告されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ソース、ドレッシング、植物性ヨーグルトなどの風味付けに重要。",
+      "food_security_contribution": "家庭菜園で容易に栽培でき、小規模農家の収入源にもなる。",
+      "local_food_system_integration": "ファーマーズマーケットなどで人気の高いハーブ。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の食品への利用拡大",
+        "クラフトピクルスや発酵食品市場"
+      ],
+      "value_added_products": [
+        "エッセンシャルオイル",
+        "乾燥ハーブ",
+        "ハーブビネガー",
+        "ディル風味のシーズニングソルト"
+      ],
+      "niche_market_value": "ディル・ポーレン（花粉）やフレッシュな花は高級食材として価値が高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としての絶滅リスクは低いが、地域固有の在来種の消失リスクに関するデータは乏しい。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生種の自生地は限定的であり、開発による脅威が存在する可能性がある。",
+    "climate_change_vulnerability": "中。栽培適地の変化により、特定の地域在来種が栽培困難になる可能性がある。",
+    "cultural_erosion_risk": "低。世界中で広く利用されているため、食文化としての消失リスクは低い。",
+    "conservation_actions_needed": [
+      "地域在来種の収集・評価・保存",
+      "ジーンバンクでの種子保存"
+    ],
+    "priority_conservation_regions": [
+      "原産地である地中海東部・西アジア",
+      "遺伝的に分化している南アジア"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（例：ヴァヴィロフ研究所、USDA-ARS）に多数のアクセスが保存されている。",
+    "in_situ_conservation_efforts": "特筆すべき大規模な活動は知られていない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査に基づく統合的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "東欧",
+      "イラン",
+      "インド"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する品種レベルでの耐性評価",
+      "リジェネティブ農業における土壌への定量的貢献",
+      "地域在来種の遺伝的多様性と機能性成分の評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は種子会社のカタログ等で入手可能だが、学術的な特性評価は限定的。"
+      },
+      "variety_name": "Bouquet",
+      "local_name": "Bouquet",
+      "origin_region": "アメリカ",
+      "distinctive_characteristics": "葉と種子の両方の収量が多く、標準的な品種。抽苔は比較的早い。",
+      "cultural_importance": "北米の家庭菜園や商業栽培で最も一般的な品種の一つ。",
+      "climate_adaptation": "標準的な温帯気候に適応。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は種子会社のカタログ等で入手可能だが、学術的な特性評価は限定的。"
+      },
+      "variety_name": "Fernleaf",
+      "local_name": "Fernleaf",
+      "origin_region": "アメリカ",
+      "distinctive_characteristics": "矮性でコンパクトな草姿。抽苔が遅いため、葉の収穫期間が長い。コンテナ栽培向き。",
+      "cultural_importance": "家庭菜園やプランター栽培で人気が高い。",
+      "climate_adaptation": "標準的な温帯気候に適応。草丈が低いため風に強い。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "伝統的な在来種に関する体系的な情報は少ない。"
+      },
+      "variety_name": "Mammoth Long Island",
+      "local_name": "Mammoth Long Island",
+      "origin_region": "アメリカ",
+      "distinctive_characteristics": "大型に育ち、最大で1.5mに達する。葉は濃緑色で香りが強い。ピクルス用の種子（ディルヘッド）生産に適している。",
+      "cultural_importance": "伝統的なピクルス作りに使われるエアルーム品種。",
+      "climate_adaptation": "標準的な温帯気候に適応。",
+      "conservation_status": "エアルームとして種子交換ネットワークなどで維持されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens (Plants of the World Online)",
+      "USDA National Nutrient Database",
+      "CABI Invasive Species Compendium",
+      "Ethnobotanical literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "在来品種の遺伝的多様性に関する体系的研究"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米の情報は豊富。アジア、中東の在来種に関する詳細情報は比較的少ない。",
+    "missing_information": [
+      "年間総生産量の正確な統計データ",
+      "野生種の保全状況に関する詳細"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,721 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は世界の主要な植物学データベース（KEW, GBIF, Flora of China/Pakistan等）および民族植物学の文献から統合。野生近縁種との詳細な遺伝的関係は研究途上。"
+    },
+    "primary_name": "Sessile Joyweed",
+    "scientific_name": "Alternanthera sessilis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "汎熱帯に分布し、正確な原産地は不明だが、旧世界熱帯（アジア・アフリカ）が有力視される。",
+    "wild_relatives": [
+      "Alternanthera philoxeroides",
+      "Alternanthera pungens"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物誌、民族植物学研究、農業データベースから名称を収集。非常に多くの地域名が存在する。"
+    },
+    "international": {
+      "en": [
+        "Sessile Joyweed",
+        "Dwarf Copperleaf",
+        "Red Carpet Weed"
+      ],
+      "scientific_common": "Alternanthera"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "si",
+            "name": "මුකුණුවැන්න (Mukunuwenna)",
+            "script": "Sinhala"
+          },
+          {
+            "lang": "ta",
+            "name": "பொன்னாங்கண்ணி கீரை (Ponnanganni Keerai)",
+            "script": "Tamil"
+          },
+          {
+            "lang": "hi",
+            "name": "गरूण्डी (Garundi)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "sa",
+            "name": "मत्स्याक्षी (Matsyakshi)",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "ms",
+            "name": "Keremak",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ผักเป็ด (Phak pet)",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Rau dệu",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Bonga-bonga",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ツルノゲイトウ (Tsurunogeitou)",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "莲子草 (lián zǐ cǎo)",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "不明",
+            "script": "Latin"
+          },
+          {
+            "lang": "yo",
+            "name": "Ewe amunututu",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "南インドのタミルコミュニティ",
+        "name": "Ponnanganni",
+        "cultural_significance": "「黄金の輝きをもたらす」という意味。伝統的に視力改善や肌の健康に良いとされ、日常的に食される。"
+      },
+      {
+        "community": "スリランカのシンハラコミュニティ",
+        "name": "Mukunuwenna",
+        "cultural_significance": "アーユルヴェーダ医学で重要な薬草であり、体を冷やす効果があるとされる。特に「Mallung」というココナッツと和える料理が一般的。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。分類学的位置は安定している。"
+    },
+    "family": {
+      "en": "Amaranth family",
+      "la": "Amaranthaceae"
+    },
+    "genus": {
+      "en": "Joyweed",
+      "la": "Alternanthera"
+    },
+    "species": {
+      "en": "Sessile Joyweed",
+      "la": "sessilis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "南アジアおよび東南アジアにおける民族植物学的記録は豊富。他の地域では「雑草」としての認識が強く、文化的価値の記録は限定的。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "スリランカや南インドでは日常的な葉物野菜。アーユルヴェーダやシッダ医学では視力改善、解熱、消化促進、母乳分泌促進などに用いられる。",
+        "seasonal_significance": "雨季に旺盛に生育し、食料が不足しがちな時期の重要な栄養源となる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "家畜飼料"
+        ],
+        "traditional_uses": "マレーシア、インドネシア、タイなどで野菜として利用。炒め物やスープの具材となる。伝統医学では解熱剤や利尿剤として利用される。",
+        "seasonal_significance": "湿地や水田の周りに自生し、容易に入手できる緑黄色野菜として価値が高い。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "アフリカ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "薬用",
+          "救荒植物"
+        ],
+        "traditional_uses": "一部地域で薬用として利用されるが、食用としての普及度はアジアほど高くない。食料不足時の救荒植物としての役割を持つことがある。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "スリランカ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Mukunuwenna Mallung"
+        ],
+        "preparation_methods": [
+          "細かく刻み、削ったココナッツ、タマネギ、香辛料と軽く炒め蒸しにする"
+        ],
+        "cultural_context": "日常的な家庭料理であり、健康維持に不可欠な食材と見なされている。体を冷やす効果があると信じられている。"
+      },
+      {
+        "cuisine": "南インド料理（特にタミル料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "Ponnanganni Keerai Poriyal",
+          "Ponnanganni Keerai Kootu"
+        ],
+        "preparation_methods": [
+          "炒め物（Poriyal）、豆と煮込むカレー（Kootu）"
+        ],
+        "cultural_context": "伝統医学（シッダ）と食文化が密接に結びついており、「目に良い野菜」として子供にも積極的に食べさせることが推奨される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "サンスクリット語名（Matsyakshi）が存在することから、古代インドのアーユルヴェーダ文献で既に薬草として利用されていたことが示唆される。",
+      "trade_routes": "特定の交易品ではなかったが、その頑健さと繁殖力から、意図せず人間の移動と共に汎熱帯へ広がったと考えられる。",
+      "cultural_exchange": "アジアの伝統医学体系（アーユルヴェーダ、中医学、ジャムウ等）において類似した薬効が認識されており、知識の伝播や地域ごとの適応が見られる。",
+      "domestication_history": "正式な栽培化は行われていない。半野生状態での管理・採集が主であり、栽培と採集の境界が曖昧な「permaculture」的な植物である。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて生育可能。高温多湿を好む。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "夏期に旺盛に生育。霜には弱い。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏季の一年生植物として栽培可能。湿潤な土壌が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さと乾燥が厳しく不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水辺や灌漑された場所以外では生育困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "通年（植え付け後約30-40日から収穫開始）",
+        "growing_period_days": 30
+      },
+      {
+        "climate_zone": "亜熱帯・温帯",
+        "planting_season": "春（晩霜後）",
+        "harvest_season": "夏から秋（初霜まで）",
+        "growing_period_days": 45
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "水分供給",
+        "日照",
+        "土壌肥沃度",
+        "収穫頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "主に自家消費や地域市場向けの小規模生産・採集。"
+        },
+        {
+          "country": "スリランカ",
+          "production_share": "不明",
+          "characteristics": "家庭菜園や商業的な小規模農園で広く栽培され、市場に常時流通している。"
+        },
+        {
+          "country": "マレーシア",
+          "production_share": "不明",
+          "characteristics": "地域市場向けに栽培されるほか、半野生状態で採集されることも多い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や地域、栽培条件による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "35-50",
+        "protein_g": "4.5-5.0",
+        "carbs_g": "5.0-7.0",
+        "fat_g": "0.5-0.8",
+        "fiber_g": "2.0-2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "鉄 (Iron)",
+          "amount": "16.7 mg/100g",
+          "daily_value_percent": "93%"
+        },
+        {
+          "nutrient": "カルシウム (Calcium)",
+          "amount": "510 mg/100g",
+          "daily_value_percent": "51%"
+        },
+        {
+          "nutrient": "β-カロテン (Beta-carotene)",
+          "amount": "7,000-8,000 μg/100g",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンC (Vitamin C)",
+          "amount": "30-50 mg/100g",
+          "daily_value_percent": "33-55%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド (例: 7-O-グルコシド)",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、免疫調節作用"
+      },
+      {
+        "compound": "カロテノイド (ルテイン、ゼアキサンチン)",
+        "concentration": "不明",
+        "health_effect": "眼の健康維持、抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ、シッダ医学",
+        "uses": [
+          "視力改善",
+          "解熱",
+          "利尿",
+          "母乳分泌促進 (Galactagogue)",
+          "皮膚疾患の治療",
+          "消化促進"
+        ],
+        "preparation": "生葉のジュース、調理した料理、乾燥粉末、湿布"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "清熱解毒 (熱を取り毒を解消する)",
+          "涼血止血 (血を冷まし止血する)",
+          "利尿"
+        ],
+        "preparation": "煎じ薬"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化活性",
+        "抗炎症作用",
+        "抗菌活性",
+        "肝保護作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "糖尿病管理への応用",
+        "神経保護作用"
+      ],
+      "safety_considerations": "硝酸塩やシュウ酸塩を含む可能性があるため、過剰摂取や腎臓に問題のある場合は注意が必要。一般的に食用とされる範囲では安全。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "特に南アジア、東南アジアの料理に関する情報は豊富。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "炒め蒸し (Mallung)",
+          "炒め物 (Poriyal)",
+          "豆との煮込み (Kootu)",
+          "スープ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ココナッツ",
+          "マスタードシード",
+          "レンズ豆",
+          "タマネギ",
+          "ニンニク"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "炒め物 (Stir-fry)",
+          "茹でて和え物",
+          "スープの具"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ニンニク",
+          "唐辛子",
+          "エビペースト (Belacan)",
+          "魚醤"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "ビタミンCは減少するが、ミネラルは濃縮される。薬用目的で粉末にされることがある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "マイルド、わずかな苦味と土の香り。ほうれん草に似るが、より野趣がある。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "若葉は柔らかく、茎はわずかにシャキシャキしている。加熱するとすぐにしんなりする。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐水性に関する定性的な記述は多いが、定量的な実験データは少ない。その生態的地位（湿地性の雑草）から高い適応性が推測される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生育可能",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "1500mm以上、または湿潤な土壌"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "匍匐性のため風害に強い",
+      "hail_damage_recovery": "成長が早く、茎からの再生能力が高いため回復が早い",
+      "rapid_temperature_change": "熱帯植物のため急激な低温には弱い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "ヒユ科にはC4植物が多く、CO2濃度上昇への応答はC3植物より限定的かもしれないが、成長促進効果は期待される。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "半野生植物であり、広範な遺伝的多様性を持つため、特定の病害虫への脆弱性は低いと考えられる。",
+      "disease_resistance_stability": "高いと推定される",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯の湿潤地域",
+        "2050_projection": "現在の亜熱帯地域での安定化と、温帯地域南部への栽培可能域の拡大",
+        "2100_projection": "温帯地域の広範囲で夏季作物としての栽培が可能になる可能性がある",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "人為的な育種プログラムの対象となってこなかったため、交雑親和性に関する具体的なデータは非常に乏しい。同属の種の生態から類推。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "赤色系と緑色系の品種など、地域的な生態型間の交雑は自然に起きていると考えられる。"
+      ],
+      "interspecific_compatibility": [
+        "同属の侵略的外来種であるナガエツルノゲイトウ（A. philoxeroides）との交雑可能性は理論的に考えられるが、報告例は不明。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "汎熱帯に広がる中で多様な地域的生態型（ランドレース）が形成されていると考えられ、遺伝的多様性は非常に高いと推定される。",
+      "wild_gene_pool": "栽培されているものと野生のものの区別が曖昧であり、常に野生遺伝子プールとの交流がある状態。",
+      "adaptive_genetic_variation": "高いと推定される。",
+      "inbreeding_depression_risk": "低い"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "汎熱帯",
+        "environmental_pressure": "多様な土壌、水分条件、病害虫圧",
+        "adaptive_response": "広範な環境に適応した地域生態型の分化",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "異なる地域の系統を交配させることで、耐乾性や耐塩性などの特性を向上させる可能性がある。",
+      "improved_nutritional_content": "栄養価の高い系統の選抜や交配により、さらに機能性を高める可能性がある。",
+      "novel_characteristics": "葉の色、形、大きさなどの形質改良の可能性がある。",
+      "hybrid_vigor_potential": "高いと推定される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "湛水、干ばつ、塩害、病害虫",
+        "adaptive_traits": "匍匐性の成長、茎からの発根能力、広範な病害虫抵抗性",
+        "heritability": "不明",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での直接的な研究はほぼ存在しない。しかし、その生態的特性から高いポテンシャルが推測される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く密なひげ根を広げ、茎の節からも発根する。表土の安定に寄与。",
+      "organic_matter_contribution": "成長が早く、収穫残渣や自然な枯死により土壌有機物を継続的に供給する。",
+      "soil_structure_improvement": "密な根系が土壌団粒構造の形成を助ける。",
+      "erosion_control": "地面を覆うように匍匐するため、リビングマルチとして雨滴による土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "表層の養分を効率的に吸収し、植物体内に蓄積する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さく目立たない花は、ハナアブや小型のハチなどの多様な小型送粉者を支援する。",
+      "beneficial_insect_habitat": "密な群落は、クモやテントウムシなどの天敵昆虫の隠れ家や生息地となる。",
+      "soil_microorganism_interaction": "根圏で多様な土壌微生物と共生関係を築いている可能性が高い。",
+      "above_ground_biodiversity": "地表を覆うことで、小動物や昆虫の生息環境を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により土壌のクラスト化を防ぎ、水分の浸透を促進する。",
+      "moisture_retention": "地表を覆うことで土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "茎や葉が地表水の流速を緩め、土壌侵食を伴う流出を減らす。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的",
+      "below_ground_carbon": "根のターンオーバーが早いため、土壌中の炭素蓄積（特に不安定炭素）に貢献する。",
+      "soil_carbon_enhancement": "継続的な有機物供給源として、土壌炭素の増加に寄与する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "背の高い作物（トウモロコシ、オクラなど）の下層を覆うリビングマルチとして利用可能。"
+      ],
+      "natural_pest_control": "天敵昆虫の生息地を提供することで、害虫の発生を抑制する可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "地被植物として土壌を保護し、生物多様性を高めることで、生態系の安定に貢献する。",
+      "stress_tolerance": "高温や多湿といった環境ストレスに強く、安定したバイオマスを供給する。",
+      "recovery_capacity": "刈り取りや踏圧からの回復力が非常に高い。",
+      "adaptability": "多様な環境への適応性が高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栄養価の高さから注目され始めているが、大規模な商業利用はまだ限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "鉄分、カルシウム、β-カロテンが非常に豊富で、植物性の栄養源として非常に価値が高い。",
+      "food_security_contribution": "栽培が容易で、湿地や水田脇などの未利用地でも育つため、特に熱帯地域の食料安全保障に貢献するポテンシャルを持つ。",
+      "local_food_system_integration": "既に多くの地域食品システムに深く根付いており、地産地消のモデルとなる。",
+      "alternative_protein_potential": "葉物野菜としてはタンパク質含有率が高く、補助的なタンパク質源となりうる。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けに「スーパーフード」としてのマーケティング",
+        "エスニックレストランやグローバル市場への供給",
+        "栄養補助食品や緑のジュースの原料"
+      ],
+      "value_added_products": [
+        "乾燥葉の粉末（栄養強化剤として）",
+        "ハーブティー",
+        "機能性エキス"
+      ],
+      "niche_market_value": "伝統野菜や薬草に関心のある層に対して高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としてはLC（軽度懸念）だが、地域固有の遺伝資源とそれに付随する伝統知識の保全が課題。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "湿地の開発や農地の近代化により、自生地が減少するリスクがある。",
+    "climate_change_vulnerability": "種全体としては低いが、特定の生態型は生息地の変化に脆弱な可能性がある。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "地域固有の系統（ランドレース）の収集と評価",
+      "伝統的な利用法に関する民族植物学的知識の記録と継承",
+      "家庭菜園やコミュニティガーデンでの栽培奨励"
+    ],
+    "priority_conservation_regions": [
+      "南インド",
+      "スリランカ",
+      "東南アジアの農村部"
+    ],
+    "ex_situ_conservation_status": "一部の植物遺伝資源バンクで種子が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "農家の自家採種や庭先での栽培といった、非公式な形での域内保全が中心。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた知見に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "南アジア（特にスリランカとタミル・ナードゥ州）",
+      "東南アジア島嶼部",
+      "西アフリカ"
+    ],
+    "knowledge_gaps": [
+      "地域系統間の遺伝的多様性の定量的評価",
+      "気候変動要因（CO2濃度、温度、水分）に対する生理学的応答の実験的データ",
+      "リジェネラティブ農業システムにおける具体的な効果（炭素隔離、水循環改善）の測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "正式な品種登録はないが、形態的に区別される生態型が存在する。"
+      },
+      "variety_name": "緑色種 (Green type)",
+      "local_name": "Ponnanganni Keerai (タミル語), Mukunuwenna (シンハラ語)",
+      "origin_region": "南アジア、東南アジア",
+      "distinctive_characteristics": "葉と茎が全体的に緑色。成長が旺盛で、食用として最も一般的に利用される。",
+      "cultural_importance": "南インドやスリランカで最もポピュラーな食用系統。薬効が高いとされる。",
+      "climate_adaptation": "高温多湿な環境に非常に強い。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "観賞用としても流通するが、食用としての情報は少ない。"
+      },
+      "variety_name": "赤色種 (Red/Copper type)",
+      "local_name": "Red Sessile Joyweed",
+      "origin_region": "不明",
+      "distinctive_characteristics": "葉や茎が赤紫色を帯びる。緑色種に比べて成長はやや遅いとされる。アントシアニンを多く含む可能性がある。",
+      "cultural_importance": "観賞用として利用されることがある。食用や薬用としての利用は緑色種ほど一般的ではない。",
+      "climate_adaptation": "緑色種と同様に高温多湿を好む。",
+      "conservation_status": "不明"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "PROSEA (Plant Resources of South-East Asia)",
+      "Ethnobotanical literature from India and Sri Lanka",
+      "Global Biodiversity Information Facility (GBIF)",
+      "Kew Gardens' Plants of the World Online"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "交雑親和性と育種の可能性に関する遺伝学的研究"
+    ],
+    "regional_data_coverage": "南アジアと東南アジアは豊富、アフリカとラテンアメリカは限定的",
+    "missing_information": [
+      "商業生産に関する統計データ",
+      "詳細な栄養成分の地域変異データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

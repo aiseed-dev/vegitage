@@ -1,0 +1,678 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is based on major botanical and agricultural databases. The specific history of cultivar development is well-documented."
+    },
+    "primary_name": "Broccoli",
+    "scientific_name": "Brassica oleracea var. italica",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "花",
+      "茎",
+      "葉"
+    ],
+    "origin_region": "地中海東部、特にイタリア半島",
+    "wild_relatives": [
+      "Brassica oleracea var. oleracea"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are well-documented in major languages due to its global commercial importance."
+    },
+    "international": {
+      "en": [
+        "Broccoli"
+      ],
+      "scientific_common": "Broccoli"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Broccolo",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Brócoli",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Brocoli",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Brokkoli",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ブロッコリー",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "西兰花",
+            "script": "Hans"
+          },
+          {
+            "lang": "ko",
+            "name": "브로콜리",
+            "script": "Kore"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "ब्रोकली",
+            "script": "Deva"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established within the Brassicaceae family."
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Cabbage",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Cabbage",
+      "la": "Brassica oleracea"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "varietas",
+        "name": "italica"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Broccoli's history is relatively recent but its global spread and cultural integration in the 20th century are well-documented."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "イタリア料理で古くから利用。特に南部でスープやパスタの具材として重要。他のヨーロッパ地域では20世紀以降に普及。",
+        "seasonal_significance": "冷涼な季節の重要な野菜",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "健康食品"
+        ],
+        "traditional_uses": "20世紀にイタリア移民によって持ち込まれ、健康志向の高まりと共に国民的な野菜となる。生食（サラダ）、蒸し料理、スープなど多様な形で消費される。",
+        "seasonal_significance": "通年供給されるが、本来は冷涼な季節の野菜",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "伝統野菜ではないが、1980年代以降に急速に普及。炒め物や和え物など、既存の調理法に組み込まれて利用されている。特に日本と中国で消費が多い。",
+        "seasonal_significance": "現代農業により通年供給",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Orecchiette con le cime di rapa (類似種利用)",
+          "Zuppa di broccoli"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒める",
+          "パスタソース"
+        ],
+        "cultural_context": "南部イタリアの家庭料理に根付いた食材。"
+      },
+      {
+        "cuisine": "アメリカ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Broccoli salad",
+          "Broccoli and cheese soup",
+          "Steamed broccoli"
+        ],
+        "preparation_methods": [
+          "生食",
+          "蒸す",
+          "ロースト",
+          "スープ"
+        ],
+        "cultural_context": "健康の象徴として、また手軽な副菜として家庭料理やレストランで広く利用される。"
+      },
+      {
+        "cuisine": "中華料理",
+        "role": "common",
+        "traditional_dishes": [
+          "西蘭花炒蝦仁 (エビとブロッコリーの炒め物)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "茹でる"
+        ],
+        "cultural_context": "西洋野菜として導入されたが、彩りと食感の良さから炒め物で人気を博し、現代の中華料理に定着した。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマ時代にその祖先が利用されていた記録があるが、現在の形のブロッコリーは16世紀のイタリアで開発されたとされる。",
+      "trade_routes": "近代以前の交易路での役割は限定的。本格的な国際伝播は20世紀の移民と国際貿易による。",
+      "cultural_exchange": "イタリア移民がアメリカ大陸に食文化を伝える象徴的な食材の一つとなった。",
+      "domestication_history": "地中海沿岸の野生キャベツ(Brassica oleracea)から、長年にわたる人為選択を経て、カリフラワーなどと共に分化した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温により花蕾の形成が阻害される（ボトニング、ボトニング）。高地冷涼地での栽培は可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の冷涼な期間に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春と秋が最適な栽培シーズン。夏の高温期は栽培が困難。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "霜の危険がなくなった春から初夏、または夏の終わりに植え付け秋に収穫。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な灌漑が必要。高温と乾燥ストレスに弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "夏季の冷涼な気候を利用して栽培可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春または晩夏",
+        "harvest_season": "初夏または秋",
+        "growing_period_days": "60-100"
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 25,000 kg/ha",
+      "factors_affecting_yield": [
+        "気温（特に高温）",
+        "土壌肥沃度",
+        "水分供給",
+        "日長",
+        "病害虫（根こぶ病、コナガなど）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約2600万トン (2020年, カリフラワーと合算)",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "約35%",
+          "characteristics": "世界最大の生産国。国内消費が中心。"
+        },
+        {
+          "country": "インド",
+          "production_share": "約35%",
+          "characteristics": "中国に次ぐ生産国。こちらも国内消費が主体。"
+        },
+        {
+          "country": "アメリカ",
+          "production_share": "約4%",
+          "characteristics": "主要生産国の一つで、輸出も多い。カリフォルニア州が主産地。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栄養素と機能性成分（特にスルフォラファン）に関する科学的研究は非常に豊富。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "34",
+        "protein_g": "2.8",
+        "carbs_g": "6.6",
+        "fat_g": "0.4",
+        "fiber_g": "2.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "89.2 mg",
+          "daily_value_percent": "99%"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "101.6 mcg",
+          "daily_value_percent": "85%"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "63 mcg",
+          "daily_value_percent": "16%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "316 mg",
+          "daily_value_percent": "7%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "スルフォラファン（グルコラファニンとして含有）",
+        "concentration": "品種や生育条件により変動",
+        "health_effect": "強力な抗酸化作用、抗炎症作用、がん予防効果の可能性が研究されている。"
+      },
+      {
+        "compound": "インドール-3-カルビノール",
+        "concentration": "不明",
+        "health_effect": "ホルモン代謝への影響、がん予防効果の可能性が研究されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [
+        "優れたビタミン・ミネラル源",
+        "食物繊維が豊富"
+      ],
+      "ongoing_research": [
+        "がん予防（特に消化器系、乳がん）",
+        "心血管疾患リスク低減",
+        "認知機能改善",
+        "抗炎症作用による慢性疾患予防"
+      ],
+      "safety_considerations": "ビタミンKを多く含むため、ワルファリンなどの抗凝固薬を服用している場合は摂取に注意が必要。甲状腺機能に影響を与える可能性（ゴイトロゲン）が指摘されるが、通常の食事量では問題ないとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中で調理法が確立しており、料理本や食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "欧米",
+        "methods": [
+          "蒸す",
+          "茹でる",
+          "ロースト",
+          "グリル",
+          "生食（サラダ）",
+          "ピュレ（スープ）"
+        ],
+        "flavor_role": "主味/副味",
+        "typical_combinations": [
+          "チーズ",
+          "ニンニク",
+          "レモン",
+          "ベーコン",
+          "ナッツ類"
+        ]
+      },
+      {
+        "region": "アジア",
+        "methods": [
+          "炒める",
+          "茹でて和える",
+          "天ぷら"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "オイスターソース",
+          "醤油",
+          "ニンニク",
+          "生姜",
+          "肉類（豚、鶏、エビ）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "ブランチング処理により酵素を不活性化。食感はやや柔らかくなるが、栄養価の損失は比較的少ない。"
+      },
+      {
+        "method": "ピクルス",
+        "regions": [
+          "欧米"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "酢漬けにすることで保存性が向上。酸味が付与される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな甘みと、アブラナ科特有の軽い苦味と硫黄系の風味。",
+      "aroma_compounds": [
+        "ジメチルスルフィド",
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "生ではカリカリとした食感。加熱すると柔らかくなるが、加熱しすぎると崩れやすい。茎は歯ごたえがある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性の低さは広く知られているが、品種改良による耐性向上の研究も進んでいる。定量的なデータは品種や研究に依存するため限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30°C以上が続くと花蕾の品質が著しく低下し、生育が停止する。",
+      "cold_tolerance": "軽い霜には耐えるが、-5°C以下で凍害を受ける可能性がある。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "中程度。一貫した水分供給が必要。",
+      "flood_tolerance": "低。根腐れを起こしやすい。",
+      "optimal_rainfall": "週に25-40mm相当の水分が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。茎は比較的丈夫だが、強風で倒れることがある。",
+      "hail_damage_recovery": "中。葉や花蕾が傷つくと商品価値がなくなるが、株自体は回復可能。",
+      "rapid_temperature_change": "適応性は低い。急激な高温はボトニングを引き起こす。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。他のC3植物と同様に、CO2濃度上昇により光合成が促進される可能性があるが、高温ストレスがそれを相殺する可能性が高い。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンに感受性を示す報告がある。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりコナガなどの害虫の発生世代数が増加し、被害が拡大するリスクがある。",
+      "disease_resistance_stability": "高温多湿は根こぶ病や黒腐病の発生を助長するため、抵抗性の安定性が課題となる。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域（カリフォルニア、スペイン、イタリア、日本の冷涼地など）",
+        "2050_projection": "現在の主産地では夏季の栽培がさらに困難になり、より高緯度・高標高地域（カナダ、北欧など）へ適地が移動する可能性がある。",
+        "2100_projection": "適地のさらなる北上、または耐暑性品種の開発が不可欠となる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Brassica oleracea内の交雑親和性は育種学の基本であり、非常によく研究されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "キャベツ",
+        "カリフラワー",
+        "ケール",
+        "コールラビ",
+        "メキャベツ"
+      ],
+      "interspecific_compatibility": [
+        "セイヨウアブラナ (Brassica napus)",
+        "カラシナ (Brassica juncea) とは限定的に交雑可能"
+      ],
+      "intergeneric_possibility": [
+        "ダイコン属 (Raphanus) との交雑例があるが、通常は自然には起こらない。"
+      ],
+      "successful_natural_hybrids": [
+        "畑で他のB. oleracea品種と容易に自然交雑する。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "イタリアなどに伝統的な在来品種が存在するが、商業栽培は少数のF1品種に集中している。",
+      "wild_gene_pool": "ヨーロッパ沿岸に分布する野生キャベツ(B. oleracea var. oleracea)が重要な遺伝子資源となる。",
+      "adaptive_genetic_variation": "B. oleracea種全体として、多様な環境に適応した形態的・生理的多様性を持つ。",
+      "inbreeding_depression_risk": "自家不和合性が強いため、自然集団では近交弱勢は起こりにくい。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "ケールや野生種との交雑により、耐暑性や耐乾性を向上させる可能性がある。",
+      "improved_nutritional_content": "他のアブラナ科野菜との交雑により、機能性成分の含有量を高めることが可能。",
+      "novel_characteristics": "茎ブロッコリー（スティックセニョール）のように、他の品種との交雑で新しい形態や食味の野菜が生まれる。",
+      "hybrid_vigor_potential": "F1品種で広く利用されており、収量性や均一性の向上に大きく貢献している。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "B. oleracea内では交雑障壁はほとんどない。",
+      "chromosome_compatibility": "B. oleraceaは2n=18であり、同じ染色体数の変種間では適合性が高い。",
+      "fertility_of_hybrids": "種内の雑種は高い稔性を持つ。",
+      "backcrossing_success": "戻し交配は容易であり、育種で一般的に用いられる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "高温",
+        "adaptive_traits": "晩抽性（抽苔が遅いこと）、花蕾の安定性",
+        "heritability": "中〜高",
+        "response_to_selection": "育種により耐暑性品種が開発されつつある。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ブロッコリー単体での研究は少ないが、アブラナ科作物としての一般的な特性からの類推は可能。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深く伸びるため、硬盤層を穿孔し土壌の物理性を改善する効果が期待できる。",
+      "organic_matter_contribution": "収穫後の残渣が多く、すき込むことで土壌有機物を供給する。",
+      "soil_structure_improvement": "根による団粒構造の促進。",
+      "erosion_control": "生育初期の被覆度は低いが、生育が進めば葉が広がり土壌侵食を軽減する。",
+      "nutrient_cycling_role": "グルコシノレートが分解される過程で、土壌病害を抑制するバイオ燻蒸効果を持つ可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花するとミツバチなどの訪花昆虫を引き寄せるが、商業栽培では開花前に収穫される。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシや寄生蜂の生息地となる。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用に関する研究が進んでいる。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "深根性により水の浸透を助ける。",
+      "moisture_retention": "残渣のマルチ利用により土壌水分保持能力を向上させることができる。",
+      "runoff_reduction": "中程度。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。",
+      "below_ground_carbon": "深根性のため、地下部への炭素蓄積ポテンシャルがある。",
+      "soil_carbon_enhancement": "残渣の還元により土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マリーゴールド（線虫忌避）、ローズマリー（コナガ忌避）、レタス（地面被覆）"
+      ],
+      "natural_pest_control": "コンパニオンプランツによる害虫忌避効果が期待される。",
+      "nutrient_sharing": "限定的。むしろ養分競合が起こりやすい。",
+      "allelopathic_interactions": "アブラナ科作物は他の植物の生育を阻害するアレロパシー効果を持つことがあるため、連作や後作に注意が必要。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌病害のリスクを分散し、生態系の安定に貢献する。",
+      "stress_tolerance": "生物的・非生物的ストレスには比較的弱い。",
+      "recovery_capacity": "中程度。",
+      "adaptability": "品種の多様性は高いが、個々の品種の適応範囲は狭い。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食トレンドや市場におけるブロッコリーの位置づけは明確。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラル、機能性成分が豊富で、植物中心の食生活において非常に価値が高い。",
+      "food_security_contribution": "単位面積あたりの収量は高いが、栽培適地が限られるため、主要穀物ほどの貢献はない。",
+      "local_food_system_integration": "家庭菜園や小規模農家でも栽培しやすく、ファーマーズマーケットなどで人気が高い。",
+      "alternative_protein_potential": "タンパク質も含まれるが、主要な代替タンパク質源ではない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによる需要増",
+        "新興国での消費拡大",
+        "調理済み食品や冷凍食品市場の成長"
+      ],
+      "value_added_products": [
+        "ブロッコリースプラウト（スルフォラファンを高濃度で含有）",
+        "ブロッコリーパウダー",
+        "冷凍ブロッコリーライス",
+        "健康補助食品"
+      ],
+      "niche_market_value": "有機栽培や特定の heirloom (在来) 品種にニッチな価値がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商業品種の保全優先度は低いが、遺伝資源としての在来種や野生種の重要性は高い。"
+    },
+    "genetic_erosion_risk": "中。商業栽培が少数のF1ハイブリッド品種に集中しているため、イタリアなどの原産地における在来品種の遺伝的多様性が失われるリスクがある。",
+    "habitat_loss_threat": "野生の祖先種(Brassica oleracea var. oleracea)の生息地であるヨーロッパ沿岸の崖などが開発により脅かされている。",
+    "climate_change_vulnerability": "栽培適地が気候変動により脅かされており、多様な遺伝資源の保全が将来の育種のために不可欠。",
+    "cultural_erosion_risk": "低。世界的に普及しているため、文化的利用が失われるリスクは低い。",
+    "conservation_actions_needed": [
+      "在来品種の種子バンク（ジーンバンク）での保存と特性評価",
+      "野生近縁種の生息域内(in-situ)および生息域外(ex-situ)保全"
+    ],
+    "priority_conservation_regions": [
+      "イタリア南部",
+      "地中海東部沿岸",
+      "ヨーロッパ大西洋沿岸"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多くの品種や近縁種が保存されている。",
+    "in_situ_conservation_efforts": "限定的だが、野生種の自生地保全の取り組みがある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "イタリア南部（在来種の多様性中心地）",
+      "高緯度・高地地域（気候変動下の新たな栽培適地候補）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥複合ストレス）に対する生理学的応答の品種間差",
+      "リジェネラティブ農業システムにおける具体的な土壌微生物叢への影響"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な品種の情報は豊富。"
+      },
+      "variety_name": "Calabrese",
+      "local_name": "Broccolo Calabrese",
+      "origin_region": "イタリア、カラブリア州",
+      "distinctive_characteristics": "多くの現代品種の元となった固定種。大きな頂花蕾を収穫後、側花蕾が次々と発生する。",
+      "cultural_importance": "伝統的なイタリア料理で使われる歴史的な品種。",
+      "climate_adaptation": "冷涼な気候を好む。耐暑性は低い。",
+      "conservation_status": "Heirloom (在来種) として種子が保存・販売されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な品種の情報は豊富。"
+      },
+      "variety_name": "Marathon F1",
+      "local_name": "Marathon F1",
+      "origin_region": "日本",
+      "distinctive_characteristics": "世界的に広く栽培されている中生の中核的なF1ハイブリッド品種。ドーム型で締まりの良い花蕾が特徴。低温に強く、品質が良い。",
+      "cultural_importance": "現代のブロッコリー生産と流通を支える基幹品種。",
+      "climate_adaptation": "耐寒性は強いが、耐暑性は中程度。",
+      "conservation_status": "商業的に広く利用可能。保全対象ではない。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "KEW Plants of the World Online",
+      "USDA FoodData Central",
+      "学術論文データベース (Google Scholar, PubMed)"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの定量的応答データ",
+      "リジェネラティブ農業システムにおける生態系サービス機能の定量的評価"
+    ],
+    "regional_data_coverage": "欧米、東アジアのデータは豊富だが、アフリカや南米に関する情報は限定的。",
+    "missing_information": [
+      "先住民コミュニティによる伝統的利用（歴史が浅いため該当なし）",
+      "アフリカ、南米、東南アジアの多くの地域での詳細な栽培実態と文化的受容プロセス"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

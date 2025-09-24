@@ -1,0 +1,636 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース（KEW, GRIN-Global）および欧州の農業機関の情報を統合。野生近縁種に関する情報は網羅的ではない。"
+    },
+    "primary_name": "Corn Salad",
+    "scientific_name": "Valerianella locusta",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉"
+    ],
+    "origin_region": "ヨーロッパ、北アフリカ、西アジア（地中海沿岸地域）",
+    "wild_relatives": [
+      "Valerianella eriocarpa",
+      "Valerianella dentata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "多言語の植物名データベースおよび各国の農業資料から収集。"
+    },
+    "international": {
+      "en": [
+        "Corn salad",
+        "Lamb's lettuce",
+        "Mâche",
+        "Feldsalat",
+        "Nüsslisalat"
+      ],
+      "scientific_common": "Common cornsalad"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Mâche",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Feldsalat",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Valeriana",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Canónigo",
+            "script": "Latn"
+          },
+          {
+            "lang": "nl",
+            "name": "Veldsla",
+            "script": "Latn"
+          },
+          {
+            "lang": "ja",
+            "name": "ノヂシャ",
+            "script": "Jpan"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベース（Tropicos, The Plant List）を参照。"
+    },
+    "family": {
+      "en": "Honeysuckle family",
+      "la": "Caprifoliaceae"
+    },
+    "genus": {
+      "en": "Cornsalad",
+      "la": "Valerianella"
+    },
+    "species": {
+      "en": "Common cornsalad",
+      "la": "locusta"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパの食文化史、料理書、農業史に関する文献を統合。特にフランスとドイツにおける文化的重要性が顕著。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "西ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "冬から早春にかけての新鮮なサラダ野菜として非常に重要。特にフランス、ドイツ、スイス、イタリアでは伝統的な冬の味覚として食文化に深く根付いている。",
+        "seasonal_significance": "冬場の貴重な緑黄色野菜であり、クリスマスや春の訪れを告げる食材として季節感を持つ。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "ヨーロッパからの移民によって持ち込まれ、グルメ食材や高級サラダミックスの一部として消費される。伝統的な位置づけは弱い。",
+        "seasonal_significance": "主に冬から春にかけて市場に出回るが、季節的な象徴性は低い。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Salade de Mâche"
+        ],
+        "preparation_methods": [
+          "生食（サラダ）"
+        ],
+        "cultural_context": "繊細でナッツのような風味が高く評価される。クルミやベーコン、ビーツなどと組み合わせ、ビネグレットソースで和えるのが古典的。冬のビストロメニューの定番。"
+      },
+      {
+        "cuisine": "ドイツ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Feldsalat mit Speck"
+        ],
+        "preparation_methods": [
+          "生食（サラダ）"
+        ],
+        "cultural_context": "南ドイツを中心に非常にポピュラーなサラダ。クリーミーなドレッシングや、炒めたベーコンと玉ねぎを熱いままかけて少ししんなりさせて食べることもある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマ時代から野生のものが利用されていた可能性が示唆されているが、確たる証拠は少ない。中世ヨーロッパでは野生のものを採集して食べていた。",
+      "trade_routes": "大規模な長距離交易の対象ではなかった。",
+      "cultural_exchange": "ヨーロッパ内での食文化の伝播、特にフランス料理の影響拡大と共に各地に広まった。",
+      "domestication_history": "17世紀のフランス王ルイ14世の菜園で初めて栽培化されたとされ、その後ヨーロッパ全土に栽培が広まった。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に極めて弱く、栽培は不可能に近い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬期の冷涼な時期に限定して栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最適。秋に播種し、冬から春にかけて収穫するサイクルが最も一般的。冷涼な夏を持つ地域では春播きも可能。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "春と秋の栽培に適するが、夏の高温と冬の厳しい寒さが栽培期間を制限する。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥には比較的強いが、商業栽培には安定した灌漑が必要であり、適地ではない。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な夏を利用した栽培が可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（地中海性気候）",
+        "planting_season": "9月～11月",
+        "harvest_season": "11月～4月",
+        "growing_period_days": 60
+      },
+      {
+        "climate_zone": "温帯（西岸海洋性気候）",
+        "planting_season": "8月～10月、3月～4月",
+        "harvest_season": "10月～5月",
+        "growing_period_days": 70
+      }
+    ],
+    "productivity": {
+      "yield_range": "8,000 - 15,000 kg/ha",
+      "factors_affecting_yield": [
+        "栽培密度",
+        "土壌肥沃度",
+        "日照時間",
+        "気温（高温は減収要因）",
+        "病害（べと病）の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産国であり消費国。特にナント地方が主産地。多様な品種が栽培されている。"
+        },
+        {
+          "country": "ドイツ",
+          "production_share": "不明",
+          "characteristics": "主要な生産国の一つ。国内消費が中心。"
+        },
+        {
+          "country": "イタリア",
+          "production_share": "不明",
+          "characteristics": "北イタリアを中心に生産が盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な栄養成分に関するデータはUSDA等の食品成分データベースで利用可能だが、品種や栽培条件による変動に関する研究は少ない。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "21",
+        "protein_g": "2.0",
+        "carbs_g": "3.6",
+        "fat_g": "0.4",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "38.2 mg",
+          "daily_value_percent": 42
+        },
+        {
+          "nutrient": "ビタミンA (RAE)",
+          "amount": "355 mcg",
+          "daily_value_percent": 39
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "2.2 mg",
+          "daily_value_percent": 12
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "459 mg",
+          "daily_value_percent": 10
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "0.27 mg",
+          "daily_value_percent": 16
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "オメガ3脂肪酸（α-リノレン酸）",
+        "concentration": "比較的高い（葉物野菜として）",
+        "health_effect": "抗炎症作用、心血管疾患リスクの低減"
+      },
+      {
+        "compound": "β-カロテン",
+        "concentration": "高い",
+        "health_effect": "抗酸化作用、視機能の維持"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "心血管保護効果",
+        "抗炎症作用"
+      ],
+      "safety_considerations": "一般的に安全な食品とされる。特筆すべき毒性やアレルギー報告は少ない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各国の料理書や食文化に関する文献から情報を集約。ヨーロッパでの利用法が中心。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ全域",
+        "methods": [
+          "生食（サラダ）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "クルミ",
+          "ビーツ",
+          "ベーコン",
+          "リンゴ",
+          "ヤギのチーズ",
+          "ナッツオイル"
+        ]
+      },
+      {
+        "region": "フランス、イタリア",
+        "methods": [
+          "スープ（ポタージュ）",
+          "ソース",
+          "軽くソテー"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ジャガイモ",
+          "クリーム",
+          "ニンニク"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷蔵・ガス置換包装（MAP）",
+        "regions": [
+          "全世界（商業流通）"
+        ],
+        "shelf_life": "5-10日",
+        "quality_changes": "鮮度が落ちやすく、葉がしおれたり黄変したりする。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "マイルド、わずかに甘い、ナッツのような風味、ほのかに土の香り",
+      "aroma_compounds": [
+        "ヘキセナール類（草の香り）"
+      ],
+      "texture_characteristics": "柔らかい、滑らか、バターのような口当たり"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性や耐乾性に関する定性的な記述は多いが、気候変動シナリオ下での栽培適応性に関する定量的な実験データは非常に少ない。以下の評価は栽培特性からの専門的推定を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "5-15°C",
+      "extreme_heat_survival": "25°C以上で生育不良、抽苔が促進される。",
+      "cold_tolerance": "非常に高い（品種により-15°Cまで耐える）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "栽培期間中に適度な水分が必要"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い（葉が傷つきやすい）",
+      "hail_damage_recovery": "低い",
+      "rapid_temperature_change": "中程度"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度（C3植物として期待されるが、高温ストレスが相殺する可能性）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシなどの活動期間が延長するリスクがある。",
+      "disease_resistance_stability": "高温多湿環境でべと病のリスクが増大する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "南ヨーロッパ、西ヨーロッパの温帯地域",
+        "2050_projection": "栽培適期が冬にさらに限定される。北ヨーロッパやより高緯度、高地の地域へ適地がシフトする可能性。",
+        "2100_projection": "南ヨーロッパでの安定生産は困難になる可能性が高い。適地の北上・高地化がさらに進むと予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Valerianella属の分類学研究および遺伝的多様性研究に基づく。野生種との交雑ポテンシャルは高いが、具体的な育種プログラムでの利用例は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全ての栽培品種および野生のV. locustaと交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "Valerianella eriocarpa",
+        "Valerianella dentataなどの近縁種と交雑可能"
+      ],
+      "intergeneric_possibility": [
+        "低い、または不可能"
+      ],
+      "successful_natural_hybrids": [
+        "野生環境下で近縁種との遺伝子移入が起こっている可能性が指摘されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパ各地に在来品種が存在するが、商業品種の普及により多様性は減少しつつある。",
+      "wild_gene_pool": "ヨーロッパに広く分布する野生集団が、ストレス耐性など有用な遺伝子の宝庫となっている。",
+      "adaptive_genetic_variation": "野生集団には地域の気候に適応した高い遺伝的変異が存在する。",
+      "inbreeding_depression_risk": "自家受粉もするため、小規模な集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "南ヨーロッパ（地中海沿岸）",
+        "environmental_pressure": "夏の高温・乾燥",
+        "adaptive_response": "早春までに生活環を完了させる早生性、休眠性の強い種子",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による遺伝子頻度の変化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性が高い。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "葉の形、色、風味の多様化。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の交雑では、雑種不和合性が見られる場合がある。",
+      "chromosome_compatibility": "近縁種間では染色体数が異なる場合があり、交雑の障壁となる。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "可能"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候（温度、降水量）、病害圧",
+        "adaptive_traits": "開花時期、種子休眠性、耐病性",
+        "heritability": "中程度",
+        "response_to_selection": "速い（一年草のため）"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業システムにおける本種の役割に関する直接的な科学的研究は乏しい。評価は、植物の一般的特性とカバークロップとしての知見からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅い繊維状根",
+      "organic_matter_contribution": "中程度。冬場の緑肥として利用可能。",
+      "soil_structure_improvement": "限定的。しかし、地表面を密に覆うことで団粒構造を保護する。",
+      "erosion_control": "高い。ロゼット状の葉が地表を覆い、雨滴による土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "冬場の休閑期に土壌中の可溶性栄養素（特に窒素）を吸収・保持し、春の作物への流出を防ぐ「キャッチクロップ」としての機能が期待される。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "春に咲く小さな白い花は、ハナアブや小型のハチなどの在来の受粉昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "冬から春にかけて地表を覆うことで、捕食性のクモや甲虫などの天敵昆虫に生息場所を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "限定的だが、冬の農地に緑を提供することで多様性に貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "葉が雨滴の衝撃を和らげ、土壌表面のクラスト形成を防ぐことで、水の浸透を助ける。",
+      "moisture_retention": "地表面を覆うマルチ効果により、土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "高い",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "冬のカバークロップとして利用することで、年間を通じた炭素の土壌への供給に貢献する。",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "春野菜（ニンジン、ラディッシュなど）との混植"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "報告されていない"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "冬のカバークロップとして利用することで、土壌流出を防ぎ、生態系の安定に貢献する。",
+      "stress_tolerance": "耐寒性が高く、冬の生態系サービス提供能力がある。",
+      "recovery_capacity": "不明",
+      "adaptability": "中程度"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現在の食品市場のトレンド、栄養学、持続可能な食料システムに関する報告書を基に評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラル、オメガ3脂肪酸が豊富で、植物中心の食事において栄養価の高い選択肢となる。",
+      "food_security_contribution": "冷涼な気候を好み、冬に栽培できるため、他の作物が育たない時期の食料供給に貢献できる（地域限定）。",
+      "local_food_system_integration": "家庭菜園でも容易に栽培でき、直売所やCSA（地域支援型農業）での販売に適している。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "サラダミックスの高級食材としての需要拡大",
+        "健康志向消費者向けの機能性食品としてのマーケティング",
+        "北米やアジア市場での認知度向上"
+      ],
+      "value_added_products": [
+        "カット済み洗浄済みパッケージサラダ",
+        "ベビーリーフミックス",
+        "スムージー用冷凍製品"
+      ],
+      "niche_market_value": "高い。グルメ野菜、冬の特別野菜として位置づけられる。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源保全に関する研究報告や、生物多様性データベースの情報に基づく。特に野生集団の保全が重要。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生種が生育する農耕地周辺の草地や荒れ地は、開発や集約的農業によって脅かされている。",
+    "climate_change_vulnerability": "高い（耐暑性が低いため）。",
+    "cultural_erosion_risk": "低い（ヨーロッパの食文化に定着しているため）。",
+    "conservation_actions_needed": [
+      "野生集団の生息域内（in-situ）保全",
+      "多様な在来種および野生種の遺伝資源のジーンバンクでの域外（ex-situ）保全",
+      "耐暑性など有用形質を持つ遺伝資源の評価"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸地域",
+      "コーカサス地方"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（例：ヴァヴィロフ研究所、USDA-GRIN）に多数のアクセッションが保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部の自然保護区で保護されている可能性がある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロンプトで収集した全情報を基にした総合的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "フランス（栽培文化と品種多様性）",
+      "地中海沿岸（野生種の遺伝的多様性と気候適応）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温）に対する生理学的応答メカニズム",
+      "品種レベルでの耐暑性・耐乾性の定量的評価",
+      "リジェネラティブ農業システムにおける土壌生態系への具体的な貢献度"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "欧州の種子カタログや園芸書に基づく情報。"
+      },
+      "variety_name": "Verte de Cambrai",
+      "local_name": "Verte de Cambrai",
+      "origin_region": "フランス、カンブレー地方",
+      "distinctive_characteristics": "濃緑色でスプーン型の小さな葉。非常に耐寒性が高く、冬の栽培に適した伝統品種。",
+      "cultural_importance": "最も古典的で広く知られた品種の一つ。",
+      "climate_adaptation": "耐寒性に優れるが、耐暑性は低い。",
+      "conservation_status": "広く栽培されている"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "欧州の種子カタログや園芸書に基づく情報。"
+      },
+      "variety_name": "Grosse Graine",
+      "local_name": "Grosse Graine",
+      "origin_region": "フランス",
+      "distinctive_characteristics": "名前の通り種が大きい。葉はやや大きめで生育が早く、収量性が高い。耐病性にも優れる。",
+      "cultural_importance": "商業生産で広く利用される改良品種。",
+      "climate_adaptation": "べと病への耐性が比較的高い。",
+      "conservation_status": "広く栽培されている"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "欧州の種子カタログや園芸書に基づく情報。"
+      },
+      "variety_name": "Vit",
+      "local_name": "Vit",
+      "origin_region": "オランダ",
+      "distinctive_characteristics": "生育旺盛で立性。べと病への抵抗性が強く、機械収穫にも向くため大規模生産で利用される。",
+      "cultural_importance": "現代の商業生産を支える重要品種。",
+      "climate_adaptation": "耐病性に特化している。",
+      "conservation_status": "広く栽培されている"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "GRIN-Global Taxonomy",
+      "USDA FoodData Central",
+      "European Cooperative Programme for Plant Genetic Resources (ECPGR)",
+      "Scientific literature on ethnobotany and crop science"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答と遺伝的基盤",
+      "野生遺伝資源の有用形質に関する網羅的評価"
+    ],
+    "regional_data_coverage": "ヨーロッパに偏っており、他の地域でのデータは限定的。",
+    "missing_information": [
+      "先住民による利用の記録",
+      "世界全体の正確な生産統計"
+    ],
+    "update_priority": "高（特に気候変動適応性に関する研究の進展を注視）",
+    "quality_score": 8
+  }
+}

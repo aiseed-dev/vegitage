@@ -1,0 +1,725 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), ethnobotanical literature, and agricultural extension publications. The distinction between L. aegyptiaca and L. cylindrica is often blurred in common literature; they are generally considered synonymous."
+    },
+    "primary_name": "Sponge Gourd",
+    "scientific_name": "Luffa aegyptiaca",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "花",
+      "葉",
+      "種子"
+    ],
+    "origin_region": "南アジアおよび東南アジア、一部アフリカ起源説あり",
+    "wild_relatives": [
+      "Luffa graveolens",
+      "Luffa acutangula"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names collected from multilingual plant databases and regional culinary resources. Script information included for clarity."
+    },
+    "international": {
+      "en": [
+        "Sponge Gourd",
+        "Loofah",
+        "Luffa",
+        "Egyptian Cucumber",
+        "Smooth Luffa"
+      ],
+      "scientific_common": "Smooth Luffa"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ヘチマ",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "絲瓜",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "수세미오이",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Mướp hương",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "บวบหอม",
+            "script": "Thai"
+          },
+          {
+            "lang": "tl",
+            "name": "Patola",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "तुरई",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "ঝিঙে",
+            "script": "Bengali"
+          },
+          {
+            "lang": "ta",
+            "name": "பீர்க்கங்காய்",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "ليف",
+            "script": "Arabic"
+          },
+          {
+            "lang": "sw",
+            "name": "Dodoki",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt-BR",
+            "name": "Bucha",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "フィリピン諸語群話者",
+        "name": "Patola",
+        "cultural_significance": "日常的な野菜として料理に不可欠であり、世代を超えて受け継がれる家庭料理の象徴。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Standard botanical classification based on the APG IV system."
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Luffa",
+      "la": "Luffa"
+    },
+    "species": {
+      "en": "Sponge Gourd",
+      "la": "aegyptiaca"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is based on anthropological and ethnobotanical studies, reflecting its dual use as food and a utilitarian object (sponge)."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "若い果実はスープや炒め物の主役。成熟した繊維は食器洗いや体の洗浄用スポンジとして広く利用される。",
+        "seasonal_significance": "雨季に豊富に収穫される夏の野菜として重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "文化的景観"
+        ],
+        "traditional_uses": "沖縄ではナーベラーと呼ばれ、味噌煮（ンブシー）が郷土料理。夏の日除け（緑のカーテン）としても利用される。漢方では薬用。",
+        "seasonal_significance": "夏の到来を告げる野菜。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "カレーや炒め物など、日常的な調理に欠かせない野菜。アーユルヴェーダで薬用として利用される歴史が長い。",
+        "seasonal_significance": "モンスーン期の重要な野菜。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フィリピン料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Misua Patola",
+          "Ginisang Patola"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "炒め物"
+        ],
+        "cultural_context": "家庭の味を代表する、安価で栄養価の高い食材。"
+      },
+      {
+        "cuisine": "沖縄料理",
+        "role": "common",
+        "traditional_dishes": [
+          "ナーベラーンブシー (ヘチマの味噌煮)"
+        ],
+        "preparation_methods": [
+          "煮込み"
+        ],
+        "cultural_context": "沖縄の伝統的な夏野菜であり、家庭菜園でも栽培される身近な存在。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アジアとアフリカで数千年前から栽培。古代エジプトでの利用を示唆する証拠もある。",
+      "trade_routes": "アラブの商人や後のヨーロッパの探検家によって、旧世界全体に伝播した。",
+      "cultural_exchange": "食用と非食用の両方の利用法が、地域間の文化交流を通じて広まった。",
+      "domestication_history": "明確な起源地は特定されていないが、アジアの多様な在来種が長期にわたる栽培化の歴史を示唆している。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好み、年間を通じて栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない長い夏が最適。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の一季作として栽培可能。十分な日照と温度が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑があれば栽培可能だが、高い湿度は好まない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱く不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "播種後60-120日",
+        "growing_period_days": 100
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（終霜後）",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000-25,000 kg/ha",
+      "factors_affecting_yield": [
+        "受粉成功率",
+        "水供給",
+        "日照時間",
+        "病害虫管理",
+        "棚の設置"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "世界最大の生産国。国内消費が主。"
+        },
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "広範な国内市場を持つ主要生産国。"
+        },
+        {
+          "country": "ベトナム",
+          "production_share": null,
+          "characteristics": "東南アジアの主要生産国の一つ。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変動が大きい。伝統的薬用利用は民族植物学の記録に基づくもので、科学的検証は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "20",
+        "protein_g": "1.2",
+        "carbs_g": "4.3",
+        "fat_g": "0.2",
+        "fiber_g": "0.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Vitamin C",
+          "amount": "12mg",
+          "daily_value_percent": "13%"
+        },
+        {
+          "nutrient": "Vitamin A",
+          "amount": "410 IU",
+          "daily_value_percent": "8%"
+        },
+        {
+          "nutrient": "Potassium",
+          "amount": "139mg",
+          "daily_value_percent": "3%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、血糖値降下作用の可能性"
+      },
+      {
+        "compound": "ククルビタシン",
+        "concentration": "微量（苦味のある品種では高濃度）",
+        "health_effect": "抗がん作用の研究があるが、高濃度では有毒"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "清熱化痰（熱を冷まし痰を除く）",
+          "涼血解毒（血を冷まし毒を解す）"
+        ],
+        "preparation": "乾燥させた果実の維管束（絲瓜絡）を煎じて使用。"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "皮膚病の治療",
+          "黄疸",
+          "便秘解消"
+        ],
+        "preparation": "果汁や葉の抽出物を使用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "血糖降下作用",
+        "抗炎症作用",
+        "肝保護作用"
+      ],
+      "safety_considerations": "極度に苦い果実は高濃度のククルビタシンを含む可能性があり、摂取を避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の料理本や食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アジア全域",
+        "methods": [
+          "炒め物",
+          "スープ",
+          "煮込み",
+          "蒸し料理"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ニンニク",
+          "生姜",
+          "エビ",
+          "豚肉",
+          "卵",
+          "味噌",
+          "魚醤"
+        ]
+      },
+      {
+        "region": "カリブ海地域",
+        "methods": [
+          "スープ",
+          "シチュー"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "オクラ",
+          "根菜類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（スポンジ用）",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "果肉が分解され、硬い繊維質の維管束網が残る。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が柔らかくなるが、風味は比較的保たれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "非常に穏やか、ほのかな甘み、キュウリに似た清涼感",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理すると柔らかく、スポンジ状になり、ソースやスープをよく吸収する"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "定性的な耐性は栽培経験から広く知られているが、気候変動モデルに対応する定量的な実験データは少ない。評価は植物の生理学的特性からの類推を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生育可能だが、受粉率が低下する。",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物のため、強風で棚が倒壊するリスクがある。",
+      "hail_damage_recovery": "葉や若い果実へのダメージは大きいが、生育旺盛なため回復は早い。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物として、CO2濃度の上昇により光合成と成長が促進される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりウリミバエやアブラムシの発生時期・期間が拡大するリスクがある。",
+      "disease_resistance_stability": "高温多湿環境でうどんこ病やべと病が発生しやすくなる可能性がある。",
+      "beneficial_organism_relationships": "送粉者であるハチ類への気候変動の影響が受粉率に影響する可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯地域、温帯地域の夏",
+        "2050_projection": "温帯地域での栽培可能期間が延長し、亜寒帯地域での夏の栽培の可能性が拡大。",
+        "2100_projection": "現在の亜熱帯地域の一部が乾燥化や酷暑により不適地となる可能性がある一方、さらに高緯度地域への適地拡大が見込まれる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "主に育種研究からの情報であり、自然環境下での交雑頻度や適応に関するデータは限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "品種間の交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Luffa acutangula（トカドヘチマ）との種間交雑は可能だが、雑種の後代で稔性が低下することがある。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "地域レベルでの在来種間の自然交雑は日常的に起きていると考えられる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジア、アフリカに多様な在来種が存在し、果実の形、大きさ、苦味の有無などに幅広い変異がある。",
+      "wild_gene_pool": "野生近縁種との遺伝子交流の可能性は残されているが、研究は不十分。",
+      "adaptive_genetic_variation": "各地域の気候や土壌に適応した遺伝的変異が豊富に存在する。",
+      "inbreeding_depression_risk": "自家受粉も可能なため、小規模な集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "沖縄諸島",
+        "environmental_pressure": "高温多湿、台風",
+        "adaptive_response": "耐暑性が高く、強風にある程度耐える柔軟なつるを持つ品種群が成立。",
+        "time_scale": "数百年",
+        "mechanism": "農家による経験的な選抜と地域内での遺伝子交流。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐病性や耐乾性を持つ近縁種との交雑により、気候耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "果実の風味や食感、繊維の質などを改良できる可能性がある。",
+      "hybrid_vigor_potential": "品種間交雑による雑種強勢は一般的。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑では受精後の胚発生に障壁が見られることがある。",
+      "chromosome_compatibility": "Luffa属内では染色体数は一般的に2n=26で和合性が高い。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下する傾向がある。",
+      "backcrossing_success": "戻し交配により有用遺伝子の導入が可能。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫耐性",
+        "adaptive_traits": "特定の病原菌に対する抵抗性遺伝子",
+        "heritability": "中〜高",
+        "response_to_selection": "比較的早い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での直接的な研究は少ない。評価は植物の一般的特性と伝統的農法からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範囲に広がる浅い根と、一部深くまで伸びる主根を持つ。",
+      "organic_matter_contribution": "生育旺盛で、収穫後のつるや葉は大量の有機物として土壌に還元できる。",
+      "soil_structure_improvement": "根系の活動が土壌の団粒構造を促進する可能性がある。",
+      "erosion_control": "地面を覆うように栽培すると、降雨による土壌侵食を軽減できる。",
+      "nutrient_cycling_role": "特筆すべき能力はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きく開いた黄色い花は、ハナバチ類やその他の訪花昆虫にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "繁茂した葉は、クモやカマキリなどの天敵昆虫の生息場所を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "つる棚は小鳥の休息場所になることがある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "葉による被覆が雨滴の衝撃を和らげ、土壌への水の浸透を助ける。",
+      "moisture_retention": "「緑のカーテン」として利用した場合、地表面の温度を下げ、土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "一年草としては非常に多くのバイオマスを生産する。",
+      "below_ground_carbon": "不明",
+      "soil_carbon_enhancement": "残渣を鋤き込むことで土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱として利用）",
+        "マメ科植物（窒素供給）",
+        "マリーゴールド（線虫忌避）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "菌根菌を介した栄養共有の可能性はあるが、研究は不十分。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "食料と非食料資源（スポンジ）を供給することで、農家の収入源を多様化し、システムの安定性に貢献する。",
+      "stress_tolerance": "高い耐暑性を持つ。",
+      "recovery_capacity": "生育旺盛で、軽微なダメージからの回復が早い。",
+      "adaptability": "多様な土壌条件に比較的よく適応する。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンドと持続可能性に関する議論を反映。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーで水分が多く、ビタミンやミネラルを含む健康的な野菜。",
+      "food_security_contribution": "高温地域で容易に栽培でき、家庭菜園レベルでの食料自給に貢献する。",
+      "local_food_system_integration": "地産地消に適しており、輸送コストが低いローカルフードシステムと親和性が高い。",
+      "alternative_protein_potential": "低い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エスニック食品市場の拡大",
+        "自然由来のバス用品（スポンジ）への関心向上"
+      ],
+      "value_added_products": [
+        "ヘチマ水（化粧水）",
+        "種子オイル",
+        "乾燥ヘチマ茶"
+      ],
+      "niche_market_value": "オーガニックや自然派製品の市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは指摘されているが、定量的な評価は不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の生息地は開発により脅かされている可能性がある。",
+    "climate_change_vulnerability": "栽培適地は変化するが、種としての絶滅リスクは低い。しかし、特定の地域在来種は脆弱。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "在来種の種子収集と長期保存（ジーンバンク）",
+      "参加型育種による地域品種の維持・改良",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "東南アジア",
+      "南アジア"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "一部地域で農家によるオンファーム保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査全体を通した総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "フィリピン",
+      "インドシナ半島",
+      "インド亜大陸",
+      "西アフリカ"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2濃度、異常気象）に対する品種レベルでの応答の定量的データ",
+      "野生近縁種との遺伝子交流の実態",
+      "リジェネラティブ農業システムにおける生態系サービス機能の評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "特定の登録品種ではなく、地域で認識されている品種群（ランドレース）を記載。"
+      },
+      "variety_name": "沖縄在来種（ナーベラー）",
+      "local_name": "ナーベラー",
+      "origin_region": "日本・沖縄県",
+      "distinctive_characteristics": "細長い形状で、果肉が柔らかく、加熱するととろけるような食感になる。甘みが強い。",
+      "cultural_importance": "沖縄の夏の伝統料理「ナーベラーンブシー」に不可欠。",
+      "climate_adaptation": "亜熱帯の高温多湿な気候に高度に適応している。",
+      "conservation_status": "オンファームで維持されているが、交雑による特性の変化が懸念される。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "特定の登録品種ではなく、地域で認識されている品種群（ランドレース）を記載。"
+      },
+      "variety_name": "インド在来種（Turai）",
+      "local_name": "Turai",
+      "origin_region": "インド亜大陸",
+      "distinctive_characteristics": "滑らかで濃い緑色の皮を持つ。調理しても形が崩れにくい品種が多い。",
+      "cultural_importance": "インド全土で日常的に消費される主要な野菜の一つ。",
+      "climate_adaptation": "モンスーン気候の高温多湿と、一部地域の乾燥条件に適応した多様な系統が存在する。",
+      "conservation_status": "遺伝的多様性は豊富だが、F1品種の普及により在来種が減少しつつある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Vegetable Center (AVRDC) publications",
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "Ethnobotanical research papers",
+      "FAO agricultural statistics (where available)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種の遺伝資源としての評価"
+    ],
+    "regional_data_coverage": "アジア地域の情報は豊富だが、アフリカやラテンアメリカに関する詳細な文化・栽培データは比較的少ない。",
+    "missing_information": [
+      "年間総生産量の正確な統計",
+      "香り成分の化学的分析",
+      "品種ごとの詳細な栄養価比較"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

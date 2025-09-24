@@ -1,0 +1,712 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "桜属(Cerasus)は広範な種を含むため、本データは主に食用果実(チェリー)と日本の食用文化で利用される代表的な種(オオシマザクラ等)を中心に統合した。分類学的にはPrunus属に内包されることが多い。"
+    },
+    "primary_name": "Cherry / Sakura",
+    "scientific_name": "Cerasus",
+    "plant_type": "木本",
+    "edible_parts": [
+      "果実",
+      "花",
+      "葉"
+    ],
+    "origin_region": "北半球の温帯地域（特に西アジア、ヨーロッパ、東アジア）",
+    "wild_relatives": [
+      "Cerasus avium (野生のセイヨウミザクラ)",
+      "Cerasus jamasakura (ヤマザクラ)",
+      "Cerasus speciosa (オオシマザクラ)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食用果実としての名称と、文化的・観賞的植物としての名称が地域によって使い分けられる。"
+    },
+    "international": {
+      "en": [
+        "Cherry",
+        "Sakura"
+      ],
+      "scientific_common": "Flowering Cherry"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "桜",
+            "script": "漢字"
+          },
+          {
+            "lang": "zh",
+            "name": "樱桃 / 樱花",
+            "script": "汉字"
+          },
+          {
+            "lang": "ko",
+            "name": "벚나무",
+            "script": "한글"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Cerise",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Kirsche",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Cereza",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Ciliegia",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "tr",
+            "name": "Kiraz",
+            "script": "Latin"
+          },
+          {
+            "lang": "fa",
+            "name": "گیلاس",
+            "script": "Arabic"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アイヌ（日本）",
+        "name": "カリンパニ (Karinpani)",
+        "cultural_significance": "弓の材料として利用された。果実は食用にもされた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "属の分類は議論があり、CerasusをPrunusの亜属とすることが多いが、本プロンプトの指定に従いCerasusを属として記載。"
+    },
+    "family": {
+      "en": "Rose family",
+      "la": "Rosaceae"
+    },
+    "genus": {
+      "en": "Cherry",
+      "la": "Cerasus"
+    },
+    "species": {
+      "en": "Varies (e.g., Sweet Cherry, Sour Cherry)",
+      "la": "Cerasus avium, Cerasus cerasus, etc."
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Subgenus",
+        "name": "Cerasus (within Genus Prunus)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア、特に日本での文化的重要性は極めて高い。欧米では主に果樹としての価値が認識されている。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "日本では、花の塩漬け(桜湯)、葉の塩漬け(桜餅)が伝統的に利用される。観賞価値が非常に高く、季節の象徴でもある。",
+        "seasonal_significance": "春の象徴。花見という文化的習慣と深く結びついている。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "経済作物",
+          "副菜"
+        ],
+        "traditional_uses": "主に果実(チェリー)が生食、ジャム、パイ、リキュール(キルシュ)などに利用される。夏の味覚として親しまれている。",
+        "seasonal_significance": "初夏の収穫祭などと関連。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "ヨーロッパからの移民により持ち込まれ、大規模な果樹産業が形成された。チェリーパイは国民的デザートの一つ。",
+        "seasonal_significance": "ワシントンD.C.の桜祭りが有名だが、これは日本から寄贈された観賞用のもの。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "桜餅",
+          "桜湯",
+          "桜ごはん"
+        ],
+        "preparation_methods": [
+          "塩漬け",
+          "蒸す",
+          "炊き込み"
+        ],
+        "cultural_context": "春の季節感や祝いの席を象徴する食材として、香りや彩りを添えるために用いられる。"
+      },
+      {
+        "cuisine": "ヨーロッパ菓子",
+        "role": "staple",
+        "traditional_dishes": [
+          "ブラックフォレストケーキ(シュヴァルツヴェルダー・キルシュトルテ)",
+          "クラフティ",
+          "チェリーパイ"
+        ],
+        "preparation_methods": [
+          "煮込む",
+          "焼き込む",
+          "蒸留"
+        ],
+        "cultural_context": "甘みと酸味のバランスが良く、デザートの主要な材料として広く使われる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "果実は青銅器時代からヨーロッパで食されていた。日本でも古代の文献に桜の記述が見られる。",
+      "trade_routes": "ローマ帝国時代に栽培化されたチェリーがヨーロッパ全土に広まった。シルクロードを経由して東西に伝播した可能性も指摘されている。",
+      "cultural_exchange": "1912年に日本から米国ワシントンD.C.へ桜が寄贈された事例は、国際的な友好の象徴として有名。",
+      "domestication_history": "食用チェリーは、カスピ海から黒海周辺の地域でCerasus aviumとCerasus fruticosaの自然交雑から生まれたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "冬季の低温が不足するため、ほとんどの品種は栽培不可。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "低要求冷温性の品種(Low-chill varieties)が栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冬季に十分な低温期間があり、春の遅霜のリスクが少ない地域が最適。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の高温や冬の極端な低温に耐える品種選定が必要。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な灌漑が必要であり、乾燥ストレスに弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、夏の低温が成熟を妨げる。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "秋〜早春（休眠期）",
+        "harvest_season": "初夏",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 20,000 kg/ha (果実)",
+      "factors_affecting_yield": [
+        "受粉（他家受粉性が多い）",
+        "開花期の天候（霜、雨）",
+        "適切な剪定",
+        "病害虫管理",
+        "土壌水分"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約4,000,000トン（スイートチェリーとサワーチェリーの合計、FAOSTAT 2022）",
+      "major_producers": [
+        {
+          "country": "トルコ",
+          "production_share": 17,
+          "characteristics": "世界最大の生産国。多様な品種を栽培。"
+        },
+        {
+          "country": "アメリカ",
+          "production_share": 8,
+          "characteristics": "ワシントン州、オレゴン州、ミシガン州が主産地。"
+        },
+        {
+          "country": "チリ",
+          "production_share": 8,
+          "characteristics": "南半球に位置するため、北半球のオフシーズンに輸出。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "果実の栄養価データは豊富だが、花や葉に関する科学的データは限定的。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "63",
+        "protein_g": "1.1",
+        "carbs_g": "16",
+        "fat_g": "0.2",
+        "fiber_g": "2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "7 mg",
+          "daily_value_percent": 8
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "222 mg",
+          "daily_value_percent": 5
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントシアニン",
+        "concentration": "高（特に濃色品種）",
+        "health_effect": "強力な抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "クマリン",
+        "concentration": "中（特に葉、樹皮）",
+        "health_effect": "香り成分、過剰摂取に注意"
+      },
+      {
+        "compound": "メラトニン",
+        "concentration": "微量（特にタルトチェリー）",
+        "health_effect": "睡眠サイクルの調節"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "漢方",
+        "uses": [
+          "鎮咳",
+          "去痰"
+        ],
+        "preparation": "樹皮(桜皮、おうひ)を乾燥させ煎じて使用。"
+      },
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "利尿",
+          "痛風の緩和"
+        ],
+        "preparation": "果柄を乾燥させ煎じてお茶として飲用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "運動後の筋肉痛緩和",
+        "抗炎症作用",
+        "睡眠の質の改善（タルトチェリー）"
+      ],
+      "ongoing_research": [
+        "心血管疾患リスク低減",
+        "認知機能改善"
+      ],
+      "safety_considerations": "種子にはシアン化合物が含まれるため、大量に摂取してはならない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食用部位ごとに利用法が大きく異なるのが特徴。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界（果実）",
+        "methods": [
+          "生食",
+          "ジャム",
+          "コンポート",
+          "パイフィリング",
+          "乾燥",
+          "リキュール"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "チョコレート",
+          "アーモンド",
+          "乳製品（クリーム、ヨーグルト）"
+        ]
+      },
+      {
+        "region": "日本（花・葉）",
+        "methods": [
+          "塩漬け",
+          "湯通し"
+        ],
+        "flavor_role": "香りづけ",
+        "typical_combinations": [
+          "米（もち米）",
+          "餡子",
+          "白身魚"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "クマリン配糖体が加水分解され、特有の甘い香りが生まれる。色味は鮮やかなピンクからくすんだ色に変化。"
+      },
+      {
+        "method": "シロップ漬け・缶詰",
+        "regions": [
+          "世界"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "食感が柔らかくなり、糖度が増す。加熱により一部のビタミンは減少する。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界"
+        ],
+        "shelf_life": "1年程度",
+        "quality_changes": "栄養素の保持率は高いが、解凍時にドリップ（離水）が発生し食感が変化することがある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "果実：甘味と酸味のバランス。花・葉（塩漬け）：塩味と独特のフローラルで杏仁に似た香り。",
+      "aroma_compounds": [
+        "ベンズアルデヒド",
+        "クマリン（葉・花）",
+        "エステル類（果実）"
+      ],
+      "texture_characteristics": "果実：弾力のある果肉。葉：柔らかいが、繊維感がある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "温暖化による栽培適地の変化に関する研究は進んでいるが、CO2濃度変化や極端気象への直接的な応答に関する定量的データは少ない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C (生育期)",
+      "extreme_heat_survival": "35°C以上で光合成阻害や品質低下が発生。",
+      "cold_tolerance": "品種によるが、-25°C程度まで耐える（休眠期）。開花期の霜には極めて弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "普通。果実の肥大期には十分な水分を要求する。",
+      "flood_tolerance": "低。根の湛水に弱く、根腐れを起こしやすい。",
+      "optimal_rainfall": "600-1200mm (年間)"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。強風による落花・落果のリスクがある。",
+      "hail_damage_recovery": "低い。果実や枝に傷がつくと病気の原因となる。",
+      "rapid_temperature_change": "低い。暖冬後の寒の戻りによる霜害リスクが非常に高い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。限定的な光合成促進効果は期待されるが、高温ストレスがそれを上回る可能性。",
+      "ozone_sensitivity": "中程度。オゾンによる葉の損傷が報告されている。",
+      "uv_radiation_tolerance": "中程度。アントシアニンが紫外線防御に寄与する可能性がある。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、オウトウショウジョウバエなどの害虫の発生地域拡大と世代数増加が懸念される。",
+      "disease_resistance_stability": "高温多湿は、かいよう病や灰星病などの病気の発生を助長する。",
+      "beneficial_organism_relationships": "温暖化による開花時期の早期化が、主要な送粉者（ミツバチなど）の活動時期とずれる「ミスマッチ」のリスクがある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域",
+        "2050_projection": "現在の栽培地の一部で休眠打破不足が深刻化し、より高緯度・高標高地域へ適地が移動。",
+        "2100_projection": "適地の移動がさらに進行。低緯度地域の既存産地では栽培が困難になる可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "桜は同属内での交雑が容易で、数多くの園芸品種が作出されてきた歴史がある。野生近縁種の遺伝資源は豊富。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多くの栽培品種間で容易に交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "オオシマザクラとヤマザクラなど、多くの種間で交雑し、雑種が生まれている。ソメイヨシノもその一例。"
+      ],
+      "intergeneric_possibility": [
+        "スモモやモモなどPrunus属の他亜属との交雑は困難だが、一部成功例がある。"
+      ],
+      "successful_natural_hybrids": [
+        "ソメイヨシノ (Cerasus × yedoensis) はエドヒガンとオオシマザクラの雑種とされる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "世界各地に果実用の在来品種が存在する。",
+      "wild_gene_pool": "東アジアや西アジアには多様な野生種が存在し、耐病性や環境ストレス耐性の遺伝子源として価値が高い。",
+      "adaptive_genetic_variation": "広範な地理的分布を反映し、地域の気候に適応した遺伝的変異が豊富に存在する。",
+      "inbreeding_depression_risk": "他家受粉性が高いため、近交弱勢のリスクは比較的低いが、ソメイヨシノのようにクローン繁殖される品種は遺伝的多様性に欠ける。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本の山岳地帯",
+        "environmental_pressure": "積雪、低温",
+        "adaptive_response": "矮性化、開花時期の遅延",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域生態型の分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐暑性、耐乾性、低要求冷温性を導入できる可能性が高い。",
+      "improved_nutritional_content": "アントシアニン含有量などが異なる野生種との交配により、機能性を高める可能性がある。",
+      "novel_characteristics": "花の形や色、果実の風味など、新しい形質を持つ品種の創出が可能。",
+      "hybrid_vigor_potential": "遠縁の種や品種との交雑により、生育旺盛な雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違いが交雑障壁となることがある。",
+      "chromosome_compatibility": "基本染色体数は8 (x=8) であり、同倍数性の種間では交雑しやすい。",
+      "fertility_of_hybrids": "多くの種間雑種は稔性を持つ。",
+      "backcrossing_success": "戻し交配も比較的容易で、育種に広く利用されている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "開花時期の気候（霜、乾燥）",
+        "adaptive_traits": "開花タイミングの遺伝的制御",
+        "heritability": "高",
+        "response_to_selection": "気候変動に伴い、開花時期の早生化・晩生化が進む可能性がある。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アグロフォレストリーの一員としてのポテンシャルは高いが、桜に特化したリジェネラティブ農業の研究は限定的。一般的な果樹の特性から類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く広く張る根系が土壌の団粒構造を安定させ、土壌侵食を防ぐ。",
+      "organic_matter_contribution": "毎年の落葉落枝が分解され、土壌の有機物含量と腐植を増加させる。",
+      "soil_structure_improvement": "根が土壌中にチャネルを作り、水の浸透と通気性を改善する。",
+      "erosion_control": "樹冠が雨滴の衝撃を和らげ、根が土壌を保持するため、斜面での侵食防止効果が高い。",
+      "nutrient_cycling_role": "深層の養分を吸い上げ、落葉を通じて表層土壌に還元する（養分ポンプ）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "春先に大量の花を咲かせ、ミツバチや他の多くの花粉媒介昆虫にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "樹皮や枝は、捕食性のクモやテントウムシなどの天敵昆虫の越冬場所や生息地を提供する。",
+      "soil_microorganism_interaction": "根圏で菌根菌と共生し、土壌微生物の多様性を高める。",
+      "above_ground_biodiversity": "果実は鳥類や哺乳類の食料となり、生態系の上位の生物を支える。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系と土壌有機物の増加により、土壌への水の浸透能力が向上する。",
+      "moisture_retention": "樹冠による遮光とマルチング効果のある落葉が、土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "水の浸透を促進し、地表流出を減少させることで、洪水を緩和する。",
+      "groundwater_recharge": "土壌への浸透を促進することで、地下水の涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "幹、枝、葉に炭素を長期間貯蔵する。",
+      "below_ground_carbon": "広範な根系に大量の炭素を蓄積する。",
+      "soil_carbon_enhancement": "落葉の供給と根の活動を通じて、土壌有機炭素(SOC)の貯留量を増加させる。",
+      "carbon_sequestration_rate": "永年性木本植物であるため、一年生作物に比べて炭素隔離速度と貯留期間が長い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科のカバークロップ（クローバーなど）との混植は、窒素固定と下草管理に有効。"
+      ],
+      "natural_pest_control": "特定のコンパニオンプランツ（ニンニク、チャイブなど）が、一部の害虫を遠ざける効果が期待される。",
+      "nutrient_sharing": "菌根菌ネットワークを通じて、他の植物と養分を交換する可能性がある。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生樹木として、農業生態系の構造を安定させ、単作システムよりも多様な生態的ニッチを提供する。",
+      "stress_tolerance": "一度定着すれば、一年生作物よりも干ばつなどの短期的なストレスに対する耐性が高い。",
+      "recovery_capacity": "軽微な損傷からの回復力は高い。",
+      "adaptability": "多様な品種や台木を選択することで、様々な土壌や気候条件への適応が可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "果実の市場は確立されており、桜のフレーバーは新しい市場を開拓する可能性がある。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "チェリーはビタミン、ミネラル、抗酸化物質が豊富な植物性食品として価値が高い。",
+      "food_security_contribution": "アグロフォレストリーシステムに組み込むことで、食料生産と生態系サービスを両立させ、地域の食料安全保障に貢献する。",
+      "local_food_system_integration": "観光農園やファーマーズマーケットを通じて、地域の経済と食文化に貢献する。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "「Sakura」フレーバーとして、飲料、菓子、香料市場への展開。",
+        "タルトチェリーの機能性に着目した健康食品・サプリメント市場。"
+      ],
+      "value_added_products": [
+        "クラフトリキュール",
+        "高級ジャム・コンフィチュール",
+        "桜の花・葉のパウダー",
+        "チェリーピットオイル（種子油）"
+      ],
+      "niche_market_value": "桜の花や葉の塩漬けは、日本食レストランや高級パティスリーで季節感を演出する高級食材として需要がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培品種の保全は進んでいるが、多くの野生近縁種の生息状況は十分に評価されていない。"
+    },
+    "genetic_erosion_risk": "中。商業的に成功した少数品種への集中は、多様な在来品種の消失リスクを高める。",
+    "habitat_loss_threat": "野生種が生育する森林や里山の開発、管理放棄により、生息地が脅かされている。",
+    "climate_change_vulnerability": "高。温暖化による休眠打破不足や霜害の増加は、多くの品種や自生地に深刻な影響を与える可能性がある。",
+    "cultural_erosion_risk": "中。桜餅など伝統的な食文化は維持されているが、作り手の高齢化やライフスタイルの変化によるリスクがある。",
+    "conservation_actions_needed": [
+      "野生近縁種の生息地保全（域内保全）",
+      "多様な在来品種・遺伝資源の収集と保存（ジーンバンクでの域外保全）",
+      "気候変動に適応可能な品種の育種"
+    ],
+    "priority_conservation_regions": [
+      "東アジアの多様性中心地（日本、中国）",
+      "西アジアの原産地（コーカサス地方）"
+    ],
+    "ex_situ_conservation_status": "主要な栽培品種は各国のジーンバンクや植物園で保存されているが、網羅性は不十分。",
+    "in_situ_conservation_efforts": "一部の自生地が国立公園などで保護されているが、遺伝的多様性全体をカバーするには至っていない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "文化的価値と育種ポテンシャルが非常に高いが、気候変動への脆弱性が大きな課題。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本（文化的利用と野生種の多様性）",
+      "トルコ及びコーカサス地方（果実の原産地と遺伝的多様性）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特にCO2濃度上昇、極端気象）に対する生理学的応答の定量的データ",
+      "野生種の遺伝情報と有用形質の網羅的評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Sato Nishiki",
+      "local_name": "佐藤錦",
+      "origin_region": "日本",
+      "distinctive_characteristics": "果実用。糖度が高く酸味とのバランスが良い。「赤いルビー」と称される。",
+      "cultural_importance": "日本を代表する高級サクランボ品種。贈答品として高い価値を持つ。",
+      "climate_adaptation": "比較的温暖な気候を好むが、雨に弱く裂果しやすい。",
+      "conservation_status": "広く栽培されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Oshimazakura (Cerasus speciosa)",
+      "local_name": "オオシマザクラ",
+      "origin_region": "日本（伊豆諸島）",
+      "distinctive_characteristics": "葉や花が食用にされる。葉は大きく香りが強いため、桜餅に最適。強健で成長が速い。",
+      "cultural_importance": "桜餅の文化を支える重要な種。多くの園芸品種の交配親としても利用されている。",
+      "climate_adaptation": "潮風や病害虫に比較的強い。",
+      "conservation_status": "自生地は限られるが、栽培は広く行われている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Montmorency",
+      "local_name": "モントモレンシー",
+      "origin_region": "フランス",
+      "distinctive_characteristics": "サワーチェリーの代表品種。酸味が強く、主にパイやジャムなどの加工用。",
+      "cultural_importance": "北米のチェリーパイ文化の中心的な品種。メラトニン含有量が高いことでも知られる。",
+      "climate_adaptation": "スイートチェリーより耐寒性が高い。",
+      "conservation_status": "広く栽培されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "Royal Botanic Gardens, Kew (Plants of the World Online)",
+      "USDA National Nutrient Database",
+      " ethnobotanical and horticultural academic journals"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動の複合的ストレス（高温・乾燥・CO2増）に対する品種レベルでの応答",
+      "桜の根圏における土壌微生物叢の機能とリジェネラティブ農業への応用"
+    ],
+    "regional_data_coverage": "東アジア、ヨーロッパ、北米のデータは豊富。他地域の野生種に関する情報は限定的。",
+    "missing_information": [
+      "アフリカ、南米における伝統的利用に関する情報",
+      "多くの野生種の正確な保全状況評価"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

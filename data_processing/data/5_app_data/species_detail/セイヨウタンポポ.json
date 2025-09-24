@@ -1,0 +1,733 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taraxacum officinaleはアポミクシス（無融合生殖）を行う微小種の複合体であり、分類学的に複雑。本データは広義のセイヨウタンポポを対象とする。"
+    },
+    "primary_name": "Dandelion",
+    "scientific_name": "Taraxacum officinale",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "葉",
+      "花"
+    ],
+    "origin_region": "ユーラシア大陸",
+    "wild_relatives": [
+      "Taraxacum sect. Ruderalia内の多数の微小種",
+      "Taraxacum japonicum (カントウタンポポ)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中に帰化しており、各地に名称が存在する。先住民による名称は地域によって多様だが、包括的なデータベースは存在しない。"
+    },
+    "international": {
+      "en": [
+        "Common Dandelion",
+        "Lion's tooth",
+        "Pissenlit",
+        "Blowball"
+      ],
+      "scientific_common": "Dandelion"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Pissenlit commun",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Gewöhnlicher Löwenzahn",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Tarassaco comune",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Diente de león",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "セイヨウタンポポ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "蒲公英",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "서양민들레",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "هندباء برية",
+            "script": "Arabic"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "北米の一部先住民（例：オジブワ族）",
+        "name": "不明（特定名よりは薬草として一般的に認識）",
+        "cultural_significance": "主に薬用として利用。食用としての利用は欧州からの移住者の影響も考えられる。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taraxacum officinaleは集合種(aggregate species)であり、数百の微小種(microspecies)を含む。"
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Dandelion",
+      "la": "Taraxacum"
+    },
+    "species": {
+      "en": "Common Dandelion",
+      "la": "Taraxacum officinale"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Section",
+        "name": "Ruderalia"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食用、薬用としての文化的価値は高いが、多くの地域で侵略的な雑草と見なされる二面性を持つ。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "春の若葉をサラダに、根を焙煎してコーヒー代用に、花をワインやジャムにする。伝統的な春の強壮剤（デトックス）として利用。",
+        "seasonal_significance": "春の訪れを告げる植物。冬の間に不足したビタミンを補給する重要な食料源だった。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "副菜"
+        ],
+        "traditional_uses": "特に中国医学（中医学）で「蒲公英」として解熱、解毒、消炎作用のある重要な生薬として利用。若葉は和え物やおひたしにもされる。",
+        "seasonal_significance": "春の山菜として利用されることがある。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用",
+          "副菜"
+        ],
+        "traditional_uses": "ヨーロッパからの移民によって食文化が持ち込まれた。現代ではフォーレージング（野生採集）文化の中で再評価されている。多くの地域では厄介な雑草と見なされている。",
+        "seasonal_significance": "早春の食料源、蜜源として生態学的に重要。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理、イタリア料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Salade de Pissenlits (タンポポのサラダ)",
+          "Cicoria selvatica (野生のチコリーとして調理)"
+        ],
+        "preparation_methods": [
+          "生食",
+          "ソテー",
+          "茹でる"
+        ],
+        "cultural_context": "春の訪れを祝うデトックス効果のある食材として、市場でも栽培品が流通する。"
+      },
+      {
+        "cuisine": "中国薬膳",
+        "role": "essential",
+        "traditional_dishes": [
+          "蒲公英茶 (タンポポ茶)",
+          "涼拌蒲公英 (タンポポの和え物)"
+        ],
+        "preparation_methods": [
+          "乾燥・焙煎",
+          "茹でる"
+        ],
+        "cultural_context": "体の熱を取り、炎症を抑える「清熱解毒」の効能を持つ食材として、薬膳スープやお茶に利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト、ギリシャ、ローマ時代から薬用として利用されていた記録がある。アラビアの医師によってその薬効が体系化された。",
+      "trade_routes": "特定の交易品ではなかったが、ユーラシア大陸全域での人の移動に伴い、意図的・非意図的に種子が拡散した。",
+      "cultural_exchange": "ヨーロッパからの植民と共に世界中に拡散し、先住民の薬草知識と融合することもあった。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、フランスやイタリアでは苦味を減らし葉を大きくする選抜育種が行われてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や涼しい季節に限定される。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬から春にかけて生育。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最も適した気候帯。春と秋に旺盛に生育する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さと冬の寒さに耐える。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑があれば生育可能だが、適さない。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高山帯にも適応した近縁種が存在する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "春（葉）、秋（根）",
+        "growing_period_days": 60
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産データが限定的）",
+      "factors_affecting_yield": [
+        "日照",
+        "土壌肥沃度",
+        "水分",
+        "収穫頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（世界的な統計データなし）",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "サラダ用の改良品種の小規模商業栽培。"
+        },
+        {
+          "country": "イタリア",
+          "production_share": "不明",
+          "characteristics": "野菜としての小規模商業栽培と野生採集。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "主に薬用としての栽培および野生採集。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栄養価、機能性成分に関する研究は豊富。特にビタミン、ミネラル、抗酸化物質が豊富であることが知られている。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "45",
+        "protein_g": "2.7",
+        "carbs_g": "9.2",
+        "fat_g": "0.7",
+        "fiber_g": "3.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA",
+          "amount": "10161 IU",
+          "daily_value_percent": "338%"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "778.4 µg",
+          "daily_value_percent": "649%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "35 mg",
+          "daily_value_percent": "42%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "3.1 mg",
+          "daily_value_percent": "17%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "187 mg",
+          "daily_value_percent": "14%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "セスキテルペンラクトン（タラキサシン）",
+        "concentration": "可変",
+        "health_effect": "苦味成分、消化促進"
+      },
+      {
+        "compound": "イヌリン",
+        "concentration": "根に豊富（最大40%）",
+        "health_effect": "プレバイオティクス効果、血糖値調整"
+      },
+      {
+        "compound": "フラボノイド（ルテオリン、アピゲニン）",
+        "concentration": "葉と花に豊富",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "フェノール酸（チコリー酸、クロロゲン酸）",
+        "concentration": "全草",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ療法",
+        "uses": [
+          "利尿",
+          "肝臓・胆嚢の強壮",
+          "消化不良改善",
+          "便秘解消"
+        ],
+        "preparation": "葉や根の煎じ薬、チンキ剤、生食"
+      },
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "清熱解毒（熱を取り毒を消す）",
+          "消腫散結（腫れをひかせしこりを散らす）",
+          "乳腺炎、結膜炎、皮膚感染症の治療"
+        ],
+        "preparation": "乾燥させた全草の煎じ薬"
+      },
+      {
+        "region": "北米",
+        "medical_system": "先住民の伝統医学",
+        "uses": [
+          "消化促進",
+          "皮膚病の湿布",
+          "鎮痛"
+        ],
+        "preparation": "根の煎じ薬、葉の湿布"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "利尿作用",
+        "抗酸化作用",
+        "抗炎症作用",
+        "プレバイオティクス効果"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "血糖降下作用",
+        "肝保護作用"
+      ],
+      "safety_considerations": "キク科アレルギーの人は注意が必要。利尿薬や特定の抗生物質との相互作用の可能性。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地で多様な料理法が存在するが、中心的な役割は春の野菜、ハーブ、薬用植物である。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "生食（サラダ）",
+          "ソテー",
+          "茹でる"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ベーコン",
+          "ポーチドエッグ",
+          "ニンニク",
+          "オリーブオイル"
+        ]
+      },
+      {
+        "region": "東ヨーロッパ",
+        "methods": [
+          "発酵（スープのベース）",
+          "ジャム、シロップ（花）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ジャガイモ",
+          "サワークリーム",
+          "蜂蜜"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "ワイン醸造（花）",
+          "焙煎（根）",
+          "フリッター（花）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "砂糖",
+          "レモン",
+          "小麦粉"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りは弱まるが、薬効成分は保持される。ハーブティーや生薬に利用。"
+      },
+      {
+        "method": "焙煎",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "根を焙煎することで、香ばしい風味が生じ、コーヒー代用品となる。"
+      },
+      {
+        "method": "漬物・塩漬け",
+        "regions": [
+          "ヨーロッパ",
+          "東アジア"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "苦味が和らぎ、保存性が高まる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "心地よい苦味、わずかな甘み、土のような香り",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "葉は柔らかく、わずかに歯ごたえがある。根は硬く繊維質。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "その広範な分布と雑草としての性質から高い適応性が示唆されるが、品種レベルでの定量的な耐性データは限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "10-25°C",
+      "extreme_heat_survival": "地上部は枯れるが、根で生存し再生可能。",
+      "cold_tolerance": "-15°C以下でも根は生存可能。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "深い主根により、深層の水分を利用できるため、見かけ上の効率は高い。",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "400-1200mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒れやすいが、ロゼット状の形態と強固な根で本体は生存する。",
+      "hail_damage_recovery": "高い。根からの再生能力が非常に強い。",
+      "rapid_temperature_change": "高い適応能力を持つ。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であり、CO2濃度上昇により光合成と成長が促進される可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "広範な化学防御物質を持ち、多くの害虫に対して高い抵抗性を示す。",
+      "disease_resistance_stability": "遺伝的多様性が高いため、病気に対する抵抗性も安定していると考えられる。",
+      "beneficial_organism_relationships": "多様な訪花昆虫を引き寄せる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "世界の温帯地域全域",
+        "2050_projection": "高緯度地域や高山帯へ分布域が拡大する可能性が高い。",
+        "2100_projection": "さらに拡大するが、一部の低緯度乾燥地域では減少する可能性も。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "タンポポ属はアポミクシスと有性生殖が混在し、種間交雑も起こるため、非常に複雑で動的な遺伝システムを持つ。これが高い適応性の源泉となっている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Taraxacum officinale複合体内の無数の微小種間で交雑が起こる。"
+      ],
+      "interspecific_compatibility": [
+        "在来のタンポポ種（例：日本のカントウタンポポ Taraxacum japonicum）と交雑し、雑種を形成することが報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "セイヨウタンポポと在来タンポポとの間の雑種が各地で確認されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培品種は存在するが、野生集団の遺伝的多様性が圧倒的に大きい。",
+      "wild_gene_pool": "野生集団そのものが巨大な遺伝子プールであり、常に新しい遺伝子の組み合わせを生み出している。",
+      "adaptive_genetic_variation": "極めて高い。様々な環境（都市、農地、草地、高山）に適応した生態型が存在する。",
+      "inbreeding_depression_risk": "低い。アポミクシスと時折起こる有性生殖の組み合わせにより、有害な劣性遺伝子の影響を回避しやすい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "都市環境",
+        "environmental_pressure": "頻繁な刈り込み、踏みつけ",
+        "adaptive_response": "より地面に張り付くロゼット、短い花茎を持つ個体の選択",
+        "time_scale": "数十年",
+        "mechanism": "自然選択による生態型の分化"
+      },
+      {
+        "region": "日本",
+        "environmental_pressure": "在来タンポポとの競合・共存",
+        "adaptive_response": "在来種との交雑による遺伝子移入、環境への適応",
+        "time_scale": "約100年",
+        "mechanism": "種間交雑と遺伝子浸透"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "交雑により、地域の気候条件にさらに適応した遺伝子型が生まれる可能性がある。",
+      "improved_nutritional_content": "野生種との交雑により、特定の機能性成分が増強される可能性がある。",
+      "novel_characteristics": "開花時期の変更、形態の変異など、新しい特性が常に生まれている。",
+      "hybrid_vigor_potential": "高い。特に遠縁の集団や種との交雑で顕著。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違いが交雑障壁になることがあるが、比較的乗り越えやすい。",
+      "chromosome_compatibility": "同属内では比較的に和合性が高い。",
+      "fertility_of_hybrids": "雑種の稔性は様々だが、アポミクシスにより不稔性を回避して子孫を残すことができる。",
+      "backcrossing_success": "頻繁に起こっていると考えられる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "除草剤耐性",
+        "adaptive_traits": "代謝機構の変化、生育サイクルの短縮",
+        "heritability": "中〜高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "多くの特性がリジェネラティブ農業の原則と合致するが、その効果を定量化した研究は少ない。雑草としての側面も考慮する必要がある。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "長く太い主根（タップルート）が土壌の硬盤層を破壊し（バイオドリル効果）、水と空気の通り道を改善する。",
+      "organic_matter_contribution": "地上部の残渣と、特に分解されにくい根が土壌有機物を増加させる。",
+      "soil_structure_improvement": "根の働きにより団粒構造を促進する。",
+      "erosion_control": "地面を覆うロゼット状の葉が雨滴による土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "深層からカルシウムなどのミネラルを吸い上げ、地表近くに再配分する「ダイナミック・アキュムレーター」として機能する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "早春に開花し、ミツバチや他の多くの花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "テントウムシなどの天敵昆虫に隠れ家を提供する。",
+      "soil_microorganism_interaction": "根圏で多様な土壌微生物と共生関係を築く。",
+      "above_ground_biodiversity": "種子は鳥の餌となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "主根が作った孔が水の浸透を助ける。",
+      "moisture_retention": "土壌有機物の増加により、土壌の保水性を高める。",
+      "runoff_reduction": "地表被覆により、地表水の流出を減少させる。",
+      "groundwater_recharge": "水の浸透促進により、地下水涵養に貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "非常に高い。大きく深い根系に大量の炭素を貯蔵する。",
+      "soil_carbon_enhancement": "根の分解物を通じて土壌炭素の蓄積に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "果樹園の下草として、土壌を改善し、受粉を助ける。"
+      ],
+      "natural_pest_control": "特定の害虫を遠ざける効果が示唆されている。",
+      "nutrient_sharing": "深層からのミネラルを他の植物が利用しやすくする可能性がある。",
+      "allelopathic_interactions": "他の植物の成長を抑制するアレロパシー効果も持つため、管理が必要。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な生態系サービスを提供し、システムの安定性に貢献する。",
+      "stress_tolerance": "干ばつや貧栄養土壌などのストレスに強い。",
+      "recovery_capacity": "刈り込みや踏みつけからの回復力が非常に高い。",
+      "adaptability": "高い遺伝的多様性により、環境変化への適応性が高い。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康志向や持続可能性への関心の高まりから、現代的な価値が再評価されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養価が高く、最小限の投入で生育可能なため、持続可能な植物性食料源として価値がある。",
+      "food_security_contribution": "気候変動下でも安定して生育する強靭な食料源となりうる。特に栄養へのアクセスが限られた地域で重要。",
+      "local_food_system_integration": "フォーレージング（野生採集）や家庭菜園を通じて、地域の食料自給率向上に貢献する。",
+      "alternative_protein_potential": "限定的だが、葉には良質なアミノ酸が含まれる。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・サプリメント市場",
+        "高級レストラン向けのスペシャルティ野菜",
+        "クラフトビールやリキュールの原料"
+      ],
+      "value_added_products": [
+        "タンポポコーヒー（根）",
+        "ハーブティー（葉・花・根）",
+        "チンキ剤・エキス",
+        "タンポポグリーン（サラダ用若葉）"
+      ],
+      "niche_market_value": "オーガニック、自然食品、フォーレージングといったニッチ市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としては保全の対象外だが、特定の在来タンポポ種や、タンポポを利用する伝統文化・知識の保全が重要。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "脅威ではない。むしろ人間の活動によって生息地を拡大している。",
+    "climate_change_vulnerability": "低い。気候変動に対して高い適応性を持つ。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "タンポポの食用・薬用利用に関する伝統的知識の記録と伝承。",
+      "セイヨウタンポポとの交雑による在来タンポポ種の遺伝的攪乱のモニタリング。"
+    ],
+    "priority_conservation_regions": [
+      "在来タンポポ種が分布し、セイヨウタンポポの侵入が進んでいる地域（例：日本）"
+    ],
+    "ex_situ_conservation_status": "多くの植物園や種子銀行で収集されているが、体系的な保全プログラムは一般的ではない。",
+    "in_situ_conservation_efforts": "主に在来タンポポ種の保全活動として行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界的な分布、文化的・生態学的重要性、気候変動への適応性から、辞典に含める価値は極めて高い。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ヨーロッパ（伝統的利用と栽培品種）",
+      "東アジア（薬用利用と在来種との関係）",
+      "北米（帰化植物としての生態学的役割）"
+    ],
+    "knowledge_gaps": [
+      "アポミクシスと有性生殖の切り替えメカニズム",
+      "気候変動要因（CO2, 温度, 水分）に対する複合的な応答",
+      "土壌微生物との相互作用の定量的評価"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "商業的な栽培品種は存在するが、野生種との区別は曖昧な場合も多い。"
+      },
+      "variety_name": "Pissenlit à coeur plein amélioré",
+      "local_name": "Pissenlit",
+      "origin_region": "フランス",
+      "distinctive_characteristics": "葉が大きく幅広く、中心部が結球気味になる。苦味が少なく、サラダ用に改良されている。",
+      "cultural_importance": "フランスの市場で流通する代表的な食用タンポポ。",
+      "climate_adaptation": "温帯気候に適応。野生種ほどの強健さはない可能性がある。",
+      "conservation_status": "商業的に維持されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew (Plants of the World Online)",
+      "USDA GRIN Global",
+      "FAOSTAT",
+      "Ethnobotany and phytochemical research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業における炭素隔離能力の定量的データ",
+      "気候変動に対する微小種レベルでの応答の違い",
+      "世界的な生産・消費に関する統計データ"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米、東アジアの情報は豊富だが、南半球やアフリカに関する情報は限定的。",
+    "missing_information": [
+      "商業生産量および取引額",
+      "先住民コミュニティにおける固有の利用法に関する包括的データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

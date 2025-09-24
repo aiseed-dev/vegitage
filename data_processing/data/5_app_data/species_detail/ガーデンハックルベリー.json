@@ -1,0 +1,614 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "植物学的な基本情報はPROTA (Plant Resources of Tropical Africa) や主要植物データベースから統合。栽培品種レベルでの詳細データは限定的。"
+    },
+    "primary_name": "Garden Huckleberry",
+    "scientific_name": "Solanum scabrum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "果実"
+    ],
+    "origin_region": "アフリカ",
+    "wild_relatives": [
+      "Solanum nigrum",
+      "Solanum americanum",
+      "Solanum villosum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アフリカ各地の民族植物学的研究や言語データベースから広範な現地名を確認。"
+    },
+    "international": {
+      "en": [
+        "Garden Huckleberry",
+        "Black Nightshade",
+        "Sunberry"
+      ],
+      "scientific_common": "Scabrum Nightshade"
+    },
+    "regional": [
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Mnavu",
+            "script": "Latin"
+          },
+          {
+            "lang": "lg",
+            "name": "Nsuwa",
+            "script": "Latin"
+          },
+          {
+            "lang": "yo",
+            "name": "Odu",
+            "script": "Latin"
+          },
+          {
+            "lang": "ig",
+            "name": "Ugbaka",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Morelle scabre",
+            "script": "Latin"
+          },
+          {
+            "lang": "kam",
+            "name": "Kitulu",
+            "script": "Latin"
+          },
+          {
+            "lang": "luo",
+            "name": "Osuga",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Kikuyu (Kenya)",
+        "name": "Managu",
+        "cultural_significance": "日常的な副菜として非常に重要で、栄養価の高い伝統野菜。"
+      },
+      {
+        "community": "Baganda (Uganda)",
+        "name": "Nsuwa",
+        "cultural_significance": "伝統的なシチューに欠かせない食材。苦味が特徴。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な分類体系（APG IV）および専門的な植物データベースに基づく。"
+    },
+    "family": {
+      "en": "Nightshade family",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Nightshade",
+      "la": "Solanum"
+    },
+    "species": {
+      "en": "Garden huckleberry",
+      "la": "Solanum scabrum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "民族植物学的記録は豊富だが、定量的な文化的重要性の評価は少ない。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "ケニア、タンザニア、ウガンダなどで、ウガリなどの主食に添えるシチューの主要な葉物野菜として消費される。貧血予防など薬効も信じられている。",
+        "seasonal_significance": "雨季の重要な栄養源であり、乾燥させて乾季に備える。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "西アフリカ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "ナイジェリアやカメルーンで、スープやソースの材料として利用される。市場で広く販売され、女性の重要な収入源となっている。",
+        "seasonal_significance": "栽培サイクルが短く、年間を通じて食料供給に貢献する。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "東アフリカ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Sukuma Wiki (managu variant)",
+          "Mnavu stew"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "炒め"
+        ],
+        "cultural_context": "主食であるウガリ（コーンミール）の味と栄養を補完する不可欠な存在。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アフリカ大陸で古くから利用されてきたと推定される。",
+      "trade_routes": "地域内の交易品としては重要だが、大陸間の交易路での役割は限定的。",
+      "cultural_exchange": "アフリカ内での民族移動と共に伝播したと考えられる。",
+      "domestication_history": "明確な栽培化の歴史は不明。野生種からの選択と半栽培を経て、現在の栽培系統が成立したと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿。年間降水量600mm以上が望ましい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "温暖で湿潤な気候。霜害には弱い。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の作物として栽培可能。霜の降りない期間が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑があれば栽培可能だが、適地ではない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱いため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "播種後4-6週間から繰り返し収穫可能",
+        "growing_period_days": "30-60"
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000-40,000 kg/ha（葉）",
+      "factors_affecting_yield": [
+        "施肥（特に窒素）",
+        "水分供給",
+        "収穫頻度",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ナイジェリア",
+          "production_share": "不明",
+          "characteristics": "国内消費向けに広範な小規模生産。"
+        },
+        {
+          "country": "ケニア",
+          "production_share": "不明",
+          "characteristics": "都市市場向けの商業生産が増加。"
+        },
+        {
+          "country": "カメルーン",
+          "production_share": "不明",
+          "characteristics": "女性農家による生産と販売が盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な栄養素に関するデータは存在するが、品種や栽培条件による変動が大きい。機能性成分に関する研究は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "20-40",
+        "protein_g": "2-5",
+        "carbs_g": "3-8",
+        "fat_g": "0.2-0.5",
+        "fiber_g": "2-4"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA（β-カロテンとして）",
+          "amount": "高",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "高",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "中〜高",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "中",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール類",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "ソラニン（グリコアルカロイド）",
+        "concentration": "低〜中（調理で減少）",
+        "health_effect": "過剰摂取で毒性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アフリカ",
+        "medical_system": "伝統民族医療",
+        "uses": [
+          "胃痛緩和",
+          "解熱",
+          "皮膚炎治療",
+          "貧血予防"
+        ],
+        "preparation": "葉や果実の煮汁を飲用または塗布する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化活性",
+        "抗菌活性"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "抗糖尿病作用",
+        "栄養改善効果"
+      ],
+      "safety_considerations": "生食や未熟な果実の大量摂取は避けるべき。調理によりグリコアルカロイドは減少し、安全に消費できる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アフリカの食文化に関する文献やレシピが豊富に存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アフリカ全域",
+        "methods": [
+          "煮込み",
+          "炒め",
+          "茹でる"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "タマネギ",
+          "トマト",
+          "ピーナッツペースト",
+          "ココナッツミルク",
+          "魚（干物）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し",
+        "regions": [
+          "アフリカの乾燥地帯・半乾燥地帯"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "ビタミンCは減少するが、ミネラルは濃縮される。風味が変化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "苦味、うま味、わずかな甘み",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "柔らかい、調理法によっては少しぬめりが出る"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性や耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上でも短期間なら生存可能",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（茎が折れやすいが再生力は高い）",
+      "hail_damage_recovery": "高",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度に期待される（C3植物）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "遺伝的多様性が高いため、一定の適応能力が期待される。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "サハラ以南アフリカの熱帯・亜熱帯",
+        "2050_projection": "栽培可能域が緯度・標高ともに高緯度・高地側へ拡大する可能性",
+        "2100_projection": "現在の熱帯域の一部では高温・乾燥ストレスで適性を失う可能性",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Solanum nigrum complex内の交雑に関する研究は存在するが、自然環境下での遺伝子流動に関する定量的データは限られる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多様な地域在来種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Solanum nigrum",
+        "Solanum americanum",
+        "Solanum villosum"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "S. nigrum complex内では自然交雑が頻繁に起こっていると推測される。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。形態、苦味、生育特性など多様な在来種が存在する。",
+      "wild_gene_pool": "近縁野生種との遺伝子流動が継続的に起こっている可能性がある。",
+      "adaptive_genetic_variation": "高いと推定される。",
+      "inbreeding_depression_risk": "低い（他家受精性も示すため）。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アフリカの多様な生態系",
+        "environmental_pressure": "乾燥、病害虫、土壌条件",
+        "adaptive_response": "各地の環境に適応した多様な在来種の分化",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "地域的な自然選択と農家による人為選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐病性の高い遺伝子を近縁種から導入できる可能性がある。",
+      "improved_nutritional_content": "栄養価の高い系統との交雑による育種の可能性がある。",
+      "novel_characteristics": "低アルカロイド、特定の風味など。",
+      "hybrid_vigor_potential": "高いと期待される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "多倍性レベルが異なる種との間には交雑障壁が存在する。",
+      "chromosome_compatibility": "S. scabrumは6倍体(2n=72)であり、他の倍数性を持つ種との交雑は複雑。",
+      "fertility_of_hybrids": "倍数性の違いにより、不稔となる場合がある。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候（乾燥、高温）、病害虫",
+        "adaptive_traits": "根系の発達、クチクラ層の厚さ、二次代謝産物の生産",
+        "heritability": "不明",
+        "response_to_selection": "高いと推測される"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での直接的な研究はほぼ皆無。植物の一般的特性からの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅いが、密なひげ根を張る。",
+      "organic_matter_contribution": "収穫残渣が多く、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "生育期間中は地表を覆い、雨滴による土壌構造破壊を防ぐ。",
+      "erosion_control": "高い被覆度により土壌侵食を軽減する。",
+      "nutrient_cycling_role": "窒素固定能力はないが、土壌表層の養分を効率的に吸収する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチ、ハナアブなどの多様な送粉者を引きつける。",
+      "beneficial_insect_habitat": "テントウムシなどの天敵昆虫の生息地となることがある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "小規模な混作体系に組み込むことで、農地の生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により水の浸透を助ける。",
+      "moisture_retention": "土壌表面からの水分蒸発を抑制する。",
+      "runoff_reduction": "高い。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。成長が速い。",
+      "below_ground_carbon": "低い。一年草のため。",
+      "soil_carbon_enhancement": "残渣の鋤き込みにより短期的に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシやマメ科作物との混植が伝統的に行われる。"
+      ],
+      "natural_pest_control": "特定の害虫に対する忌避効果が報告されている場合があるが、科学的証拠は限定的。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物が混在するアグロフォレストリーや混作システムにおいて、生態系の安定に貢献する。",
+      "stress_tolerance": "高い。",
+      "recovery_capacity": "収穫や軽微なダメージからの回復力が高い。",
+      "adaptability": "高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食料安全保障への貢献は広く認識されているが、商業的ポテンシャルに関する市場データは限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "微量栄養素が豊富なため、植物中心の食生活における栄養価向上に貢献。",
+      "food_security_contribution": "栽培が容易で栄養価が高く、アフリカの食料安全保障と栄養改善に大きく貢献。",
+      "local_food_system_integration": "地域の市場で取引され、小規模農家の収入源として地域経済に深く根付いている。",
+      "alternative_protein_potential": "葉物野菜としてはタンパク質含有量が高く、補助的なタンパク質源となる。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "都市部の健康志向層向け",
+        "アフリカ系移民コミュニティ向けの国際市場",
+        "栄養補助食品の原料"
+      ],
+      "value_added_products": [
+        "乾燥葉の粉末",
+        "栄養強化食品への添加",
+        "冷凍野菜"
+      ],
+      "niche_market_value": "「アフリカ伝統野菜」として、エスニックフード市場や健康食品市場で価値を持つ可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の重要性は認識されているが、具体的な保全状況の評価は地域によって異なる。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の生息地は開発により脅かされている。",
+    "climate_change_vulnerability": "中（適応性は高いが、極端な気象には脆弱）。",
+    "cultural_erosion_risk": "高（食生活の西洋化により、伝統的な利用知識が失われつつある）。",
+    "conservation_actions_needed": [
+      "在来種の種子収集と保存（ジーンバンク）",
+      "農家参加型の品種改良と保全（オンファーム保全）",
+      "伝統的知識の記録と普及"
+    ],
+    "priority_conservation_regions": [
+      "東アフリカ",
+      "中部アフリカ",
+      "西アフリカの多様性中心地"
+    ],
+    "ex_situ_conservation_status": "World Vegetable Centerなどの国際機関で一部の系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的だが、地域のNGOや研究機関による取り組みが存在する。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ケニア",
+      "ナイジェリア",
+      "カメルーン",
+      "ウガンダ"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2、極端気象）に対する生理学的応答の定量的データ",
+      "品種ごとの栄養価と機能性成分の差異",
+      "リジェネラティブ農業システムにおける生態系サービス機能の評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "正式な品種登録は少なく、多くは地域名で呼ばれる在来種（ランドレース）。"
+      },
+      "variety_name": "Landrace (e.g., 'Managu')",
+      "local_name": "Managu",
+      "origin_region": "ケニア",
+      "distinctive_characteristics": "葉が広く、苦味が比較的マイルドな系統が多い。成長が速い。",
+      "cultural_importance": "キクユ族を中心に日常食として極めて重要。",
+      "climate_adaptation": "地域の気候によく適応している。",
+      "conservation_status": "オンファームで維持されているが、遺伝的多様性のモニタリングが必要。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "PROTA (Plant Resources of Tropical Africa)",
+      "World Vegetable Center (AVRDC) publications",
+      "Ethnobotanical research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "正確な世界生産統計"
+    ],
+    "regional_data_coverage": "アフリカに偏在。その他の地域に関する情報は限定的。",
+    "missing_information": [
+      "栽培品種の詳細な特性リスト",
+      "国際貿易データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

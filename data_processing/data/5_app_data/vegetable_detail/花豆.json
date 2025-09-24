@@ -1,0 +1,673 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information compiled from major botanical databases (Kew, GRIN), agroecology literature, and ethnobotanical studies on Mesoamerican agriculture. Data on wild relatives is robust but their full genetic potential is still under research."
+    },
+    "primary_name": "Scarlet Runner Bean",
+    "scientific_name": "Phaseolus coccineus",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "種子",
+      "果実",
+      "花",
+      "根"
+    ],
+    "origin_region": "メキシコ及び中央アメリカの山岳地帯",
+    "wild_relatives": [
+      "Phaseolus coccineus subsp. coccineus",
+      "Phaseolus dumosus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Global name data is extensive due to its dual role as a food crop and an ornamental plant. Mesoamerican indigenous names are numerous but not exhaustively documented in global databases."
+    },
+    "international": {
+      "en": [
+        "Scarlet Runner Bean",
+        "Runner Bean",
+        "Multiflora Bean"
+      ],
+      "scientific_common": "Coccineus Bean"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Ayocote",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Frijol Botil",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Runner Bean",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Feuerbohne",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Haricot d'Espagne",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ベニバナインゲン",
+            "script": "Jpan"
+          },
+          {
+            "lang": "ja",
+            "name": "ハナマメ",
+            "script": "Jpan"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ナワ族（メキシコ）",
+        "name": "Ayecohtli",
+        "cultural_significance": "古代から続く主要なタンパク質源であり、多くの儀式料理に使用される。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification based on the APG IV system and widely accepted taxonomic databases."
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Bean",
+      "la": "Phaseolus"
+    },
+    "species": {
+      "en": "Scarlet Runner Bean",
+      "la": "coccineus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "P. coccineus subsp. coccineus"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural importance is well-documented, showing a strong dichotomy between its role in Mesoamerica (staple food) and Europe/NA (garden vegetable/ornamental)."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "メソアメリカ（メキシコ、グアテマラ）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "乾燥豆をモーレやスープ、煮込み料理に使用。澱粉質の根も食用にされる。先住民コミュニティの食料主権において重要な役割を担う。",
+        "seasonal_significance": "雨季の栽培サイクルと密接に関連し、収穫祭などの儀式で重要な役割を果たす。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ（特に英国）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "家庭菜園作物"
+        ],
+        "traditional_uses": "未熟な若いサヤを茹でたり蒸したりして食べるのが一般的。アロットメント（市民農園）文化の象徴的な作物。",
+        "seasonal_significance": "夏の終わりから秋にかけての収穫物として家庭料理に頻繁に登場する。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "観賞用"
+        ],
+        "traditional_uses": "家庭菜園で栽培され、ヨーロッパと同様に若いサヤを食べる。鮮やかな花がハチドリを惹きつけるため、観賞用としての価値も高い。",
+        "seasonal_significance": "夏のガーデニングシーズンを彩る植物としての認識が強い。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "メキシコ先住民料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Ayocotes con Mole",
+          "Sopa de Ayocote"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "スープ",
+          "ペースト化"
+        ],
+        "cultural_context": "数千年にわたり、トウモロコシと共に主要な栄養源として食文化を支えてきた。"
+      },
+      {
+        "cuisine": "英国料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Steamed Runner Beans",
+          "Runner Bean Chutney"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "蒸す",
+          "ピクルス"
+        ],
+        "cultural_context": "第二次世界大戦中の「ディグ・フォー・ビクトリー」キャンペーン以降、家庭菜園の定番野菜として定着。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "メキシコの洞窟から約7000年前の栽培の証拠が発見されている。",
+      "trade_routes": "16世紀にスペイン人によってヨーロッパにもたらされた（コロンブス交換）。",
+      "cultural_exchange": "メソアメリカの食文化が世界に広がる一例。ヨーロッパでは当初、観賞用として導入された後、食用として普及した。",
+      "domestication_history": "メキシコ・オアハカ州周辺の山岳地帯で野生種から栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "低地の高温多湿には不適。高地冷涼地域のみ可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高地または冷涼な季節に限定される。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育に最適。日中の温暖な気候と涼しい夜温を好む。霜には弱い。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の期間が栽培に適するが、極端な高温は花落ちを引き起こす。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な灌漑が必要であり、乾燥には弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地が高地であるため、標高2500m程度までの冷涼な高地気候によく適応する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": "70-120"
+      },
+      {
+        "climate_zone": "亜熱帯高地",
+        "planting_season": "雨季の初め",
+        "harvest_season": "雨季の終わりから乾季の初め",
+        "growing_period_days": "120-180"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "受粉（ハチやハチドリの活動）",
+        "日中の高温（30℃以上での花落ち）",
+        "水ストレス",
+        "土壌肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "メキシコ",
+          "production_share": null,
+          "characteristics": "在来種が小規模農家によって伝統的農法で栽培されることが多い。"
+        },
+        {
+          "country": "英国",
+          "production_share": null,
+          "characteristics": "主に家庭菜園や小規模な商業農園で栽培される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "乾燥豆の基本的な栄養価は確立されているが、品種や栽培条件による機能性成分の変動に関するデータは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "340",
+        "protein_g": "22.5",
+        "carbs_g": "61.3",
+        "fat_g": "1.5",
+        "fiber_g": "24.9"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "不明",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントシアニン",
+        "concentration": "高（特に黒色種子）",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フィトヘマグルチニン（レクチン）",
+        "concentration": "高（生豆）",
+        "health_effect": "加熱不十分な場合に毒性を示す。十分な加熱で無害化される。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "メソアメリカ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "利尿作用",
+          "腎臓の健康維持"
+        ],
+        "preparation": "豆の煮汁を飲む。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高タンパク質・高食物繊維源",
+        "抗酸化物質の供給源"
+      ],
+      "ongoing_research": [
+        "特定のレクチンの免疫調節機能",
+        "在来品種の機能性成分の同定"
+      ],
+      "safety_considerations": "生または加熱不十分な豆は有毒なレクチンを含むため、必ず十分に加熱調理する必要がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地での料理法は多様で、特にメソアメリカとヨーロッパでの対照的な利用法がよく記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "メソアメリカ",
+        "methods": [
+          "煮込み",
+          "スープ",
+          "リフライドビーンズ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "トウモロコシ",
+          "唐辛子",
+          "ハーブ（エパソテ）"
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "茹でる",
+          "蒸す",
+          "炒める",
+          "チャツネ"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "バター",
+          "ハーブ（ミント、パセリ）",
+          "ベーコン"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "適切に保存すれば品質は長期間安定する。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "若いサヤの食感と色を良好に保つ。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "乾燥豆は濃厚でクリーミー、わずかに甘みがある。若いサヤはインゲンマメより風味が強く、しっかりとした豆の味がする。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "乾燥豆は調理するとホクホクし、皮はしっかりしている。若いサヤはシャキシャキとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "高温への脆弱性は広く認識されているが、耐乾性や極端気象への耐性に関する定量的データは乏しい。高地適応性はその大きな強みである。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上で受粉率が著しく低下し、花が落ちる。",
+      "cold_tolerance": "霜に非常に弱い。しかし、一般的なインゲンマメよりも冷涼な気候を好む。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性のため、強風による倒伏や損傷のリスクがある。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "比較的弱い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物として恩恵を受ける可能性があるが、高温ストレスによって相殺される可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（高地原産のため）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやハダニの発生が増加する可能性がある。",
+      "disease_resistance_stability": "在来品種は地域の病害に対して一定の抵抗性を持つが、新たな病原体への脆弱性は不明。",
+      "beneficial_organism_relationships": "ハチやハチドリなど特定の送粉者への依存度が高い。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域、亜熱帯・熱帯の高地",
+        "2050_projection": "栽培適地がより高緯度・高標高へシフトする可能性が高い。",
+        "2100_projection": "現在の多くの温帯低地での栽培が困難になるリスクがある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種内および近縁種との交雑親和性に関する研究は進んでいる。これは気候変動適応育種における重要なポテンシャルを示す。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全ての栽培品種・在来種間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Phaseolus vulgaris（インゲンマメ）",
+        "Phaseolus dumosus と交雑可能。ただし、P. vulgarisとの交雑はしばしば胚珠救出技術を必要とする。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "P. coccineus と P. dumosus の自然交雑個体群がメソアメリカに存在する。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。メソアメリカの原産地には色、形、大きさ、生育特性が異なる多様な在来種が存在する。",
+      "wild_gene_pool": "野生集団がメキシコとグアテマラに現存し、育種のための重要な遺伝資源となっている。",
+      "adaptive_genetic_variation": "標高、降水量、土壌条件など、多様な微気候に適応した遺伝的変異が豊富に存在する。",
+      "inbreeding_depression_risk": "他家受粉性（虫媒）が強いため、自家受粉性の豆類よりリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "メキシコ・オアハカ州",
+        "environmental_pressure": "異なる標高（1500m-2800m）に伴う温度と生育期間の変化",
+        "adaptive_response": "開花時期、生育日数、耐寒性の異なる在来種の分化",
+        "time_scale": "数千年",
+        "mechanism": "地域農家による種子選抜と自然選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "P. vulgarisとの交雑により耐病性や異なる気候への適応性を導入できる可能性がある。",
+      "improved_nutritional_content": "在来種の多様な遺伝子を利用し、特定の機能性成分を強化する可能性がある。",
+      "novel_characteristics": "P. dumosusとの交雑により、多年生の根の特性を強化できる可能性がある。",
+      "hybrid_vigor_potential": "高い。他家受粉性のため、異なる系統間の交配で雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "P. vulgarisとの交雑では、雑種胚の致死性が障壁となることがある。",
+      "chromosome_compatibility": "Phaseolus属の主要種とは染色体数が同じ（2n=22）で、基本的な適合性はある。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "戻し交配は遺伝子移入のための標準的な手法として利用可能。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "低温・霜",
+        "adaptive_traits": "早生性、休眠性",
+        "heritability": "中〜高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物としての一般的な特性はよく知られているが、本種に特化したリジェネラティブ農業システムでの定量的研究は少ない。伝統的な混植システムが良いモデルとなる。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く、しばしば塊茎状の貯蔵根を形成する。これにより土壌構造を改善し、深層の養分を利用できる。",
+      "organic_matter_contribution": "豊富なバイオマス（蔓、葉）を生成し、収穫後に土壌に還元される。",
+      "soil_structure_improvement": "根が土壌団粒構造の形成を促進する。",
+      "erosion_control": "地表を覆うことで雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きく鮮やかな花は、マルハナバチやハチドリなど大型の送粉者にとって重要な蜜源となる。",
+      "beneficial_insect_habitat": "天敵昆虫（テントウムシ、寄生蜂など）の生息地を提供する。",
+      "soil_microorganism_interaction": "根粒菌や菌根菌との共生関係を通じて土壌微生物叢を豊かにする。",
+      "above_ground_biodiversity": "立体的な構造を提供し、多様な昆虫や小動物の生息地となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の活動が土壌の孔隙を増やし、水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて、土壌の保水能力を向上させる。",
+      "runoff_reduction": "被覆率が高いため、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い。旺盛なつる性植物であるため多くのバイオマスを生成する。",
+      "below_ground_carbon": "多年生の性質と塊茎状の根により、地下部への炭素蓄積ポテンシャルが高い。",
+      "soil_carbon_enhancement": "窒素固定による植物成長促進と有機物供給を通じて、土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱として利用）、カボチャ（地面を覆い雑草抑制）との「三姉妹農法」"
+      ],
+      "natural_pest_control": "多様な昆虫を惹きつけることで、生態系のバランスを保ち、害虫の天敵を増やす。",
+      "nutrient_sharing": "固定した窒素を近傍の植物が利用できる可能性がある。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な生物を支えることで、生態系の安定性に貢献する。",
+      "stress_tolerance": "多年生の根は、短期的な干ばつからの回復を助ける可能性がある。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い遺伝的多様性により、多様な環境への適応が可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物性食品トレンドと食料安全保障への貢献に関する議論は活発である。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク質・高繊維であり、植物性タンパク質源として非常に価値が高い。",
+      "food_security_contribution": "冷涼な気候や高地でも栽培できるため、気候変動下での食料安全保障に貢献する可能性がある。",
+      "local_food_system_integration": "家庭菜園や小規模農業に適しており、地域の食料自給率向上に貢献する。",
+      "alternative_protein_potential": "高い。特に在来種の風味の良さは、付加価値の高い代替タンパク質製品に応用できる。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エアルーム（伝統品種）野菜市場",
+        "機能性食品市場",
+        "グルメ・レストラン向け食材"
+      ],
+      "value_added_products": [
+        "高品質な乾燥豆",
+        "豆のペーストやパテ",
+        "花や若いサヤを利用した加工品"
+      ],
+      "niche_market_value": "ユニークな見た目、味、歴史的背景から、ニッチ市場での価値は非常に高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "メソアメリカにおける遺伝的多様性の消失リスクは認識されているが、具体的な保全状況のデータは断片的である。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "原産地における野生種の生息地の破壊。",
+    "climate_change_vulnerability": "栽培適地の移動による在来種の消失リスク。",
+    "cultural_erosion_risk": "近代的な単一栽培作物への移行による伝統的栽培知識の喪失。",
+    "conservation_actions_needed": [
+      "在来種のジーンバンクでの収集・保存（域外保全）",
+      "伝統農法を維持する農家への支援（域内保全）",
+      "遺伝的多様性の評価と活用"
+    ],
+    "priority_conservation_regions": [
+      "メキシコ南部の山岳地帯（オアハカ、チアパス）",
+      "グアテマラの高地"
+    ],
+    "ex_situ_conservation_status": "主要な国際ジーンバンク（CIATなど）には一定数の収集があるが、網羅的ではない。",
+    "in_situ_conservation_efforts": "地域コミュニティやNGOによる小規模な保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集されたデータに基づく総合的な専門家判断である。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "メキシコ・オアハカ州の在来種",
+      "英国のアロットメント文化における役割",
+      "アンデス高地への導入可能性"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、CO2濃度）に対する生理学的応答の定量的データ",
+      "多様な在来種の栄養価と機能性成分の網羅的分析",
+      "リジェネラティブ農業システムにおける炭素固定能力の測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "商業的に普及している品種と、文化的に重要な在来種の代表例。"
+      },
+      "variety_name": "Scarlet Emperor",
+      "local_name": "Scarlet Emperor",
+      "origin_region": "ヨーロッパ（英国で改良）",
+      "distinctive_characteristics": "非常に大きく鮮やかな赤い花。長いサヤで収量性が高い。",
+      "cultural_importance": "英国や北米の家庭菜園で最も人気のある品種の一つ。",
+      "climate_adaptation": "温帯気候に最適化されている。",
+      "conservation_status": "安定（商業的に広く流通）"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "Ayocote Negroは特定の品種名ではなく、メキシコに存在する黒い種子を持つ在来種の総称。"
+      },
+      "variety_name": "Ayocote Negro",
+      "local_name": "Ayocote Negro",
+      "origin_region": "メキシコ",
+      "distinctive_characteristics": "大きく黒い種子。調理すると濃厚でクリーミーな味わい。アントシアニンが豊富。",
+      "cultural_importance": "メキシコの伝統料理、特にモーレとの組み合わせで高く評価される。",
+      "climate_adaptation": "メキシコの高地気候に適応した多様な系統が存在する。",
+      "conservation_status": "脆弱（在来種として農家により維持されているが、市場圧力により減少傾向）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "International Plant Names Index (IPNI)",
+      "Germplasm Resources Information Network (GRIN)",
+      "FAOSTAT",
+      "Ethnobotanical literature",
+      "Agroecology and Sustainable Food Systems (Journal)"
+    ],
+    "major_knowledge_gaps": [
+      "定量的気候変動応答データ",
+      "品種ごとの栄養成分・機能性成分の詳細分析",
+      "リジェネラティブ農業における生態系サービス効果の定量化"
+    ],
+    "regional_data_coverage": "メソアメリカとヨーロッパは良好だが、他の地域に関するデータは限定的。",
+    "missing_information": [
+      "世界的な正確な生産統計",
+      "アフリカやアジアでの栽培実態"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

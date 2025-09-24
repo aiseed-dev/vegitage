@@ -1,0 +1,600 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、World Flora Online、PROTA (Plant Resources of Tropical Africa)、および主要な植物学データベースから統合。野生祖先種に関する情報は広く受け入れられている説に基づいています。"
+    },
+    "primary_name": "African Eggplant",
+    "scientific_name": "Solanum macrocarpon",
+    "plant_type": "多年草（一年草として栽培）",
+    "edible_parts": [
+      "果実",
+      "葉"
+    ],
+    "origin_region": "熱帯アフリカ",
+    "wild_relatives": [
+      "Solanum dasyphyllum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栽培地域である西アフリカの呼称を中心に収集。他の地域での呼称は限定的です。"
+    },
+    "international": {
+      "en": [
+        "African eggplant",
+        "Gboma eggplant"
+      ],
+      "scientific_common": "Solanum macrocarpon"
+    },
+    "regional": [
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Aubergine africaine",
+            "script": "Latn"
+          },
+          {
+            "lang": "yo",
+            "name": "Igba",
+            "script": "Latn"
+          },
+          {
+            "lang": "ig",
+            "name": "Anara",
+            "script": "Latn"
+          },
+          {
+            "lang": "tw",
+            "name": "Gboma",
+            "script": "Latn"
+          },
+          {
+            "lang": "sw",
+            "name": "Ngogwe",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Yoruba (Nigeria)",
+        "name": "Igba",
+        "cultural_significance": "日常的なスープやシチューの主要な材料であり、市場での取引を通じて女性の経済的自立に貢献しています。"
+      },
+      {
+        "community": "Akan (Ghana)",
+        "name": "Gboma",
+        "cultural_significance": "野菜としてだけでなく、伝統医療においても解熱や消化促進のために利用される重要な植物です。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づいています。"
+    },
+    "family": {
+      "en": "Nightshade",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Nightshade",
+      "la": "Solanum"
+    },
+    "species": {
+      "en": "African eggplant",
+      "la": "Solanum macrocarpon"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "西アフリカおよび中央アフリカにおける民族植物学的研究および農業報告書に基づいています。他の地域での文化的重要性は低いです。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "西アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食（葉）",
+          "副菜（果実）",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "果実はシチューやソースの風味付けと増粘剤として、若葉はほうれん草のように調理される主要な葉物野菜として消費されます。この二重利用が食料安全保障における重要性を高めています。",
+        "seasonal_significance": "雨季に豊富に収穫され、乾季に向けて乾燥保存される重要な食料資源です。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "中央アフリカ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "西アフリカと同様に、果実と葉が広く利用されます。特に地域市場での現金収入源として重要です。",
+        "seasonal_significance": "通年で栽培・収穫が可能ですが、雨季に最も生産性が高まります。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "西アフリカ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Gboma Dessi (Togo)",
+          "Efo riro (Nigeria, using leaves)",
+          "Groundnut Stew (various, using fruits)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "蒸し煮",
+          "炒め物"
+        ],
+        "cultural_context": "家庭料理の基本となる野菜であり、コミュニティの食事や儀式の際の料理に不可欠な食材です。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アフリカ大陸で古くから栽培されてきた歴史を持ちます。",
+      "trade_routes": "主に地域内の交易路で取引され、広域な国際交易の対象ではありませんでした。",
+      "cultural_exchange": "奴隷貿易を通じて、アフリカ系ディアスポラによりカリブ海地域や南米にもたらされました。",
+      "domestication_history": "熱帯アフリカで野生種 Solanum dasyphyllum から栽培化されたと考えられています。多様な地域品種が存在します。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿、年間降水量1000-1500mm、日照時間が長い環境。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な季節に栽培可能。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱く、生育期間が短すぎるため商業栽培には不向き。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の低温と夏の極端な乾燥に耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため、灌漑なしでは栽培困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に耐えられない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年（主に雨季の始まり）",
+        "harvest_season": "植え付け後2-3ヶ月から継続的に収穫",
+        "growing_period_days": "90"
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 20,000 kg/ha (果実)",
+      "factors_affecting_yield": [
+        "水供給",
+        "土壌肥沃度",
+        "病害虫管理",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ナイジェリア",
+          "production_share": "不明",
+          "characteristics": "国内消費のための小規模農家による生産が中心。"
+        },
+        {
+          "country": "ガーナ",
+          "production_share": "不明",
+          "characteristics": "国内市場および近隣諸国への非公式な輸出が盛ん。"
+        },
+        {
+          "country": "コートジボワール",
+          "production_share": "不明",
+          "characteristics": "主要な野菜作物の一つとして広く栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や地域、果実と葉による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "25-35",
+        "protein_g": "1-2",
+        "carbs_g": "5-8",
+        "fat_g": "0.2",
+        "fiber_g": "3-4"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "葉に豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "β-カロテン",
+          "amount": "葉に豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "果実に豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "葉に豊富",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "コレステロール低下作用の可能性"
+      },
+      {
+        "compound": "グリコアルカロイド",
+        "concentration": "果実の苦味成分",
+        "health_effect": "過剰摂取は毒性の可能性あり。調理により低減。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "西アフリカ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "高血圧の緩和",
+          "消化不良の改善",
+          "解熱",
+          "鎮静作用"
+        ],
+        "preparation": "葉や果実の煎じ薬、生食（根）"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化能",
+        "血糖降下作用",
+        "抗菌活性"
+      ],
+      "safety_considerations": "未熟な果実や特定の品種に含まれるグリコアルカロイド（ソラニン等）は、過剰摂取すると毒性を示す可能性があるため、伝統的な調理法に従うことが推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主に西アフリカの食文化に関する情報。他の地域での利用は限定的。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "西アフリカ",
+        "methods": [
+          "煮込み（Stewing）",
+          "茹でる（Boiling）",
+          "蒸す（Steaming）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ピーナッツペースト",
+          "パーム油",
+          "トマト",
+          "唐辛子",
+          "燻製魚"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し",
+        "regions": [
+          "西アフリカ全域"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "風味が凝縮されるが、一部のビタミンは失われる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "品種により、マイルドなものから強い苦味を持つものまで多様。加熱すると苦味が和らぎ、旨味が出る。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "果実は調理すると柔らかくクリーミーになる。葉はほうれん草に似た食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性に関する定性的な評価は高いが、耐乾性や極端気象への耐性に関する定量的な実験データは非常に少ない。評価はその原産地の気候特性に基づく類推を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生存可能だが生産性は低下",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1000-1500mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。茎は丈夫だが、強風で倒伏の可能性あり。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。一般的にC3植物として一定の増収効果が期待される。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりハダニやコナジラミの発生が増加する可能性がある。",
+      "disease_resistance_stability": "在来種は地域の病害に対して一定の抵抗性を持つが、新たな病原体への脆弱性は不明。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "西アフリカ、中央アフリカの熱帯雨林・サバンナ気候帯",
+        "2050_projection": "現在の適地の一部で干ばつの深刻化が懸念されるが、全体的な適地は維持または微増する可能性。",
+        "2100_projection": "極端な乾燥化が進む地域では栽培が困難になる一方、現在亜熱帯の地域が栽培適地になる可能性。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "近縁種との交雑親和性に関する育種研究は存在するが、自然環境下での交雑頻度や適応進化に関するデータは限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "種内の多様な在来品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Solanum aethiopicum（スカーレットナス）と交雑可能。",
+        "Solanum melongena（ナス）との交雑は困難だが可能。",
+        "野生祖先の Solanum dasyphyllum とは容易に交雑する。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "在来品種群の中には、自然交雑に由来すると考えられる中間的な形態を持つものが存在する。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。果実の形、色、大きさ、苦味の強さ、葉の形など多様な在来品種が存在する。",
+      "wild_gene_pool": "野生祖先種 S. dasyphyllum との遺伝子流動が、適応性の維持に貢献している可能性がある。",
+      "adaptive_genetic_variation": "地域の気候や土壌、病害虫圧に適応した遺伝的変異が豊富に存在すると考えられる。",
+      "inbreeding_depression_risk": "自家受粉もするため、小規模な集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "西アフリカのサヘル移行帯",
+        "environmental_pressure": "乾季の長さと不規則な降雨",
+        "adaptive_response": "早生性、深い根系、苦味成分の増加（害虫忌避）などの特性を持つ地域品種の分化",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "農家による人為選択と自然選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性をさらに向上させる高いポテンシャルがある。",
+      "improved_nutritional_content": "葉の栄養価が高い品種と果実の収量性が高い品種の交雑による改良の可能性がある。",
+      "novel_characteristics": "異なる苦味成分や機能性成分を持つ新品種の開発が可能。",
+      "hybrid_vigor_potential": "高い。多様な在来品種間の交配により雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "S. melongena との交雑には不和合性の障壁が存在する。",
+      "chromosome_compatibility": "近縁なアフリカンナスグループ内では染色体適合性は高い。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下する場合がある。",
+      "backcrossing_success": "野生種からの有用遺伝子導入のための戻し交配は成功例がある。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ、病害虫、土壌養分",
+        "adaptive_traits": "根系の発達、二次代謝産物（苦味成分）の生産、開花時期の調整",
+        "heritability": "不明",
+        "response_to_selection": "高い遺伝的多様性のため、選択への応答は速いと期待される。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈で本種を直接評価した研究はほぼない。評価は、その生物学的特性と伝統的な混植栽培システムからの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く、広範囲に広がる直根とひげ根の混合系。土壌の物理性を改善する可能性がある。",
+      "organic_matter_contribution": "落葉や収穫後の残渣が土壌有機物として供給される。",
+      "soil_structure_improvement": "根が土壌団粒構造の形成を助ける可能性がある。",
+      "erosion_control": "生育初期の被覆は遅いが、繁茂後は地表を覆い土壌侵食を軽減する。",
+      "nutrient_cycling_role": "深い根系が土壌深層から養分を吸い上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫にとって魅力的な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "多様な植生環境を提供し、天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用に関する具体的な研究は少ない。",
+      "above_ground_biodiversity": "伝統的な混植システムにおいて、他の作物や植物と共に生態的ニッチを形成する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根の活動が土壌の孔隙を増やし、水の浸透を促進する可能性がある。",
+      "moisture_retention": "地上部がマルチング効果を発揮し、土壌水分の蒸発を抑える。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系を持つため、地下部への炭素蓄積ポテンシャルは比較的高いと推定される。",
+      "soil_carbon_enhancement": "残渣の分解を通じて土壌炭素の増加に寄与する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ、キャッサバ、マメ科作物との混植が伝統的に行われる。"
+      ],
+      "natural_pest_control": "一部の品種が持つ苦味成分が、特定の害虫を忌避する効果を持つ可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物との混植システムに組み込むことで、生態系の安定性に貢献する。",
+      "stress_tolerance": "高温やある程度の乾燥に耐えるため、システムのストレス耐性を高める。",
+      "recovery_capacity": "不明",
+      "adaptability": "遺伝的多様性が高く、環境変化への適応能力を持つ。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食料安全保障への貢献は広く認識されているが、商業的ポテンシャルに関するデータは限られている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "果実と葉の両方が利用でき、特に葉は微量栄養素が豊富なため、植物中心の食生活において重要な役割を果たす。",
+      "food_security_contribution": "栽培が容易で、気候変動下でも安定した収穫が期待できるため、地域の食料安全保障への貢献度が非常に高い。",
+      "local_food_system_integration": "伝統的に地域の食料システムに深く根付いており、地産地消のモデルとして優れている。",
+      "alternative_protein_potential": "限定的。タンパク質含有量は高くない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "欧米のアフリカ系ディアスポラコミュニティ向けのエスニック食品市場",
+        "健康志向の消費者向けのスーパーフードとしてのプロモーション"
+      ],
+      "value_added_products": [
+        "乾燥葉粉末（栄養補助食品）",
+        "乾燥果実スライス",
+        "伝統ソースの瓶詰め"
+      ],
+      "niche_market_value": "そのユニークな風味と文化的背景から、高級レストランや専門食材店でのニッチな需要を開拓できる可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の喪失リスクは指摘されているが、具体的な保全状況の定量データは不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "栽培植物であるため、直接的な生息地喪失の脅威は低いが、野生祖先種は土地開発の脅威に晒されている。",
+    "climate_change_vulnerability": "栽培適地の変化や極端気象により、一部地域の在来品種が脅かされる可能性がある。",
+    "cultural_erosion_risk": "高。近代的な単一栽培品種の導入や食生活の西洋化により、伝統的な多様な在来品種の栽培と利用が減少している。",
+    "conservation_actions_needed": [
+      "在来品種のインベントリ作成と特性評価",
+      "農家参加型の域内保全（オンファーム保全）の推進",
+      "コミュニティ・シードバンクの設立支援",
+      "域外保全のための種子バンクでの収集・保存"
+    ],
+    "priority_conservation_regions": [
+      "西アフリカ（多様性の中心地）",
+      "中央アフリカ"
+    ],
+    "ex_situ_conservation_status": "World Vegetable Centerなどの国際的なジーンバンクで一部収集されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "地域レベルでのNGOや研究機関による散発的な取り組みに留まっている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた情報に基づく総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "ナイジェリア",
+      "ガーナ",
+      "カメルーン"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特にCO2濃度上昇、極端気象）に対する品種レベルでの生理学的応答",
+      "リジェネラティブ農業システムにおける具体的な貢献度の定量化",
+      "機能性成分のプロファイリングと健康効果に関する臨床研究"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "正式な品種登録ではなく、地域で認識されているランドレース（在来種）タイプに基づいている。"
+      },
+      "variety_name": "Gboma type",
+      "local_name": "Gboma",
+      "origin_region": "ガーナ、トーゴ",
+      "distinctive_characteristics": "果実は緑色で球形またはやや扁平。苦味が少なく、葉物野菜としての利用が特に重視される。葉は大きく柔らかい。",
+      "cultural_importance": "ガーナやトーゴの料理に不可欠。特に葉を利用したスープ（Gboma Dessi）は国民食的な位置づけ。",
+      "climate_adaptation": "高温多湿な沿岸部の気候によく適応している。",
+      "conservation_status": "広く栽培されているが、特定の優良系統の保全は行われていない。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "PROTA (Plant Resources of Tropical Africa) database",
+      "World Vegetable Center (AVRDC) publications",
+      "Ethnobiology and ethnomedicine research papers",
+      "CGIAR research programs"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "機能性成分の網羅的解析と薬理効果の科学的検証"
+    ],
+    "regional_data_coverage": "データの大部分は西アフリカに集中しており、中央アフリカや他の地域に関する情報は限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "品種ごとの詳細な栄養価データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

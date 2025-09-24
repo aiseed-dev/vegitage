@@ -1,0 +1,564 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(Kew, Tropicos)および農学文献からの情報を統合。食用に関する情報は民族植物学の記録に依存し、限定的。"
+    },
+    "primary_name": "Moonflower",
+    "scientific_name": "Ipomoea alba",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "花"
+    ],
+    "origin_region": "新熱帯区（南北アメリカの熱帯地域）",
+    "wild_relatives": [
+      "Ipomoea batatas (サツマイモ)",
+      "Ipomoea aquatica (ヨウサイ/空心菜)",
+      "その他多数のIpomoea属近縁種"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の植物名データベースおよび民族植物学の記録から収集。"
+    },
+    "international": {
+      "en": [
+        "Moonflower",
+        "Tropical white morning-glory",
+        "Moon vine"
+      ],
+      "scientific_common": "Moonflower"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ヨルガオ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "月光花",
+            "script": "Hanzi"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "bulaklak-manok",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "dudhi kalmi",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "dama de noche",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "boa-noite",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ナワ族（古代メソアメリカ）",
+        "name": "Ololiuqui (一部の文献で関連付けられるが、主にI. corymbosaを指すことが多い)",
+        "cultural_significance": "花の形状や向精神性成分を持つ近縁種の存在から、儀式的に重要視された可能性がある。また、本種の硫黄を含むラテックスが、ゴムノキのラテックスと混合され、古代メソアメリカのゴムボール製造に不可欠であった。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系(APG IV)に基づく。"
+    },
+    "family": {
+      "en": "Morning glory family",
+      "la": "Convolvulaceae"
+    },
+    "genus": {
+      "en": "Morning glory",
+      "la": "Ipomoea"
+    },
+    "species": {
+      "en": "Moonflower",
+      "la": "alba"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "観賞用としての普及は広いが、食用・儀式用としての文化価値は特定の地域に限定される。特に古代メソアメリカでの技術的利用は重要だが、現代では失われた知恵となっている。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "中央アメリカ（メソアメリカ）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "技術材料"
+        ],
+        "traditional_uses": "古代において、本種のラテックスをゴムノキのラテックスに混ぜることでゴムを硫化させ、弾力性のあるボールを作るために不可欠な材料であった。このボールは神聖な球技に使用された。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "一部の地域で、若葉や萼が野菜として調理される。ただし、主要な野菜ではなく、補助的な食料源としての位置づけ。",
+        "seasonal_significance": "雨季に利用可能な緑黄色野菜として",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フィリピン料理、ベトナム料理の一部",
+        "role": "rare",
+        "traditional_dishes": [
+          "炒め物",
+          "スープの具"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒める"
+        ],
+        "cultural_context": "主に自家消費用の野菜として、庭先で栽培されることがある。市場で広く流通する食材ではない。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前1600年頃のオルメカ文明まで遡る、メソアメリカでのゴム生産に利用された歴史がある。",
+      "trade_routes": "観賞用植物として18世紀以降に世界中に広まったが、古代の交易品ではなかった。",
+      "cultural_exchange": "メソアメリカの球技文化の根幹を支える技術的要素として重要であった。",
+      "domestication_history": "明確な栽培化の歴史は不明。野生種が利用され、その後観賞用に選抜されたと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて温暖で湿度が高い気候。生育が旺盛になる。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない地域で多年草として生育可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の危険がなくなった後から初霜までの一年生として栽培可能。生育期間は短くなる。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さが厳しく、生育期間が短すぎるため不向き。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度を好むため、乾燥地帯での栽培は困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "通年",
+        "growing_period_days": 120
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春",
+        "harvest_season": "夏から秋",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水分供給",
+        "土壌肥沃度",
+        "支柱の有無"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "世界各地",
+          "production_share": null,
+          "characteristics": "商業的な食料生産は行われていない。主に観賞用の種子生産が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用としての利用が限定的なため、公的な栄養データベースには情報がほぼ存在しない。近縁種のデータからの類推は不確実性が高い。伝統医学での利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "エルゴリンアルカロイド類",
+        "concentration": "不明（種子に含有の可能性）",
+        "health_effect": "向精神作用、毒性。食用部位での含有量は不明だが注意が必要。"
+      },
+      {
+        "compound": "硫黄含有化合物（ラテックス中）",
+        "concentration": "不明",
+        "health_effect": "ゴムの硫化作用。摂取時の影響は不明。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "カリブ海地域",
+        "medical_system": "民間療法",
+        "uses": [
+          "頭痛薬",
+          "利尿剤",
+          "関節炎の湿布"
+        ],
+        "preparation": "葉や茎の煎じ薬、または湿布として利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "近縁種に含まれるアルカロイド類の薬理作用研究"
+      ],
+      "safety_considerations": "種子には有毒なアルカロイドが含まれる可能性があり、摂取は危険。食用部位の安全性に関する科学的データは不十分。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用利用が非常に限定的であり、体系的な情報が少ない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東南アジア",
+        "methods": [
+          "茹でる",
+          "炒める",
+          "煮込み"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ニンニク",
+          "唐辛子",
+          "魚醤",
+          "ココナッツミルク"
+        ]
+      }
+    ],
+    "processing_preservation": [],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかで、やや青臭さがある。調理するとぬめりが出ることがある。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "葉は柔らかく、茎はやや歯ごたえがある。調理法により変化する。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な実験データは非常に少ない。熱帯原産であること、および同属の近縁種の特性からの定性的な推定が主となる。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生育可能だが、水分が必要",
+      "cold_tolerance": "0°C以下で地上部が枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物のため物理的な損傷を受けやすいが、成長が早いため回復力は高い。",
+      "hail_damage_recovery": "高い回復力を持つと推定される。",
+      "rapid_temperature_change": "急激な低温には弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "高いと推定される（C3植物として）。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高いと推定される（熱帯原産のため）。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやハダニなどの害虫の発生期間が長期化する可能性がある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "ガ（蛾）との共生関係は、夜間の気温上昇による影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯",
+        "2050_projection": "現在の亜熱帯地域から温帯南部へ拡大",
+        "2100_projection": "温帯の広範な地域で夏季の栽培が可能になる",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Ipomoea属は種分化が活発で交雑例も多い。本種に関する具体的な自然交雑の研究は少ないが、ポテンシャルは高いと考えられる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間での交雑は容易"
+      ],
+      "interspecific_compatibility": [
+        "Ipomoea属内のCalonyction節の種とは交雑の可能性がある"
+      ],
+      "intergeneric_possibility": [
+        "非常に低い"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は少ないが、観賞用の近縁種との間で自然交雑が起こる可能性が指摘されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "食用としての栽培品種は存在しないため、在来品種の多様性という概念は適用しにくい。",
+      "wild_gene_pool": "原産地である新熱帯区に広範な野生遺伝子プールが存在する。",
+      "adaptive_genetic_variation": "広い分布域を持つことから、高い適応的遺伝変異が期待される。",
+      "inbreeding_depression_risk": "自家不和合性を持つため、近交弱勢のリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界中の熱帯・亜熱帯地域",
+        "environmental_pressure": "多様な気候、土壌、病害虫圧",
+        "adaptive_response": "観賞用として導入された先で逸出し、野生化するほどの高い適応力を持つ。",
+        "time_scale": "数十年〜数百年",
+        "mechanism": "旺盛な成長力、高い遺伝的多様性、効率的な受粉戦略。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "サツマイモなど他の有用種との交雑により、耐暑性や病害虫抵抗性を導入できる可能性がある（ただし遺伝的距離が課題）。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "花の大きさや香り、夜間開花性などの形質を他のIpomoea属に導入する育種親として利用可能。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の遺伝的距離によっては交雑不和合性が存在する。",
+      "chromosome_compatibility": "Ipomoea属は倍数性が多様であり、染色体数の違いが障壁となりうる。",
+      "fertility_of_hybrids": "種間雑種では不稔となる場合がある。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "受粉媒介者（ガ）の有無",
+        "adaptive_traits": "夜間の強い芳香、白い花弁、長い花筒",
+        "heritability": "高い",
+        "response_to_selection": "受粉媒介者に特化した花の形態進化"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種をリジェネラティブ農業システムに組み込んだ研究はない。一般的なつる性植物の特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範で深い根系を持つと推定され、土壌の団粒構造を改善する可能性がある。",
+      "organic_matter_contribution": "生育が旺盛で、地上部のバイオマスが大きいため、緑肥として土壌への有機物供給源となりうる。",
+      "soil_structure_improvement": "根が土壌深くに侵入することで、水や空気の通り道を形成する。",
+      "erosion_control": "地表を密に覆うことで、降雨による土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "夜間に開花し、スズメガなどの夜行性のガにとって重要な蜜源となる。",
+      "beneficial_insect_habitat": "密な葉は、捕食性の昆虫やクモなどの隠れ家を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "多様な昆虫相を支える。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により雨滴の衝撃を和らげ、水の浸透を促進する。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "地表流を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "成長が早いため、短期間に多くの炭素を地上部バイオマスとして固定する。",
+      "below_ground_carbon": "広範な根系により、地下部への炭素蓄積も期待できる。",
+      "soil_carbon_enhancement": "落葉や根の分解を通じて土壌有機炭素を増加させる。",
+      "carbon_sequestration_rate": "高いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシなどの高い作物に絡ませることで、支柱の代わりとなり、地表を覆うことができる（スリーシスターズ農法との類似性）。"
+      ],
+      "natural_pest_control": "有益な昆虫を誘引することで、害虫の天敵を増やす効果が期待できる。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "被覆作物として土壌を保護し、生物多様性を高めることで、生態系の安定に貢献する。",
+      "stress_tolerance": "高い耐暑性と回復力を持つ。",
+      "recovery_capacity": "物理的なダメージからの回復が早い。",
+      "adaptability": "多様な環境への適応力が高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な応用は主に観賞用だが、生態学的機能や遺伝資源としての潜在的価値が認識されつつある。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食用としての価値は現状では低いが、他のIpomoea属野菜と同様の利用可能性はある。",
+      "food_security_contribution": "限定的。しかし、気候変動下で生育可能な葉物野菜としての潜在性はある。",
+      "local_food_system_integration": "自家菜園や小規模農家での多品目栽培に適している可能性がある。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エディブルフラワー（食用花）市場",
+        "生態系サービス（緑化、受粉媒介者支援）を提供する植物としての市場"
+      ],
+      "value_added_products": [
+        "観賞用種子",
+        "エッセンシャルオイル（香料）"
+      ],
+      "niche_market_value": "夜間景観を演出する「ナイトガーデン」向けの植物として高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物学的には絶滅の危機にないが、文化的利用に関する知の継承が危機に瀕している。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "原産地の一部では森林伐採などの影響を受けている可能性があるが、種全体としては安定している。",
+    "climate_change_vulnerability": "低い。むしろ分布域が拡大する可能性がある。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "古代メソアメリカでの利用法に関する民族植物学的知見の記録と保存",
+      "原産地における野生個体群の遺伝的多様性のモニタリング"
+    ],
+    "priority_conservation_regions": [
+      "メキシコ南部から中央アメリカにかけての原産地"
+    ],
+    "ex_situ_conservation_status": "世界中の多くの植物園で種子および生体コレクションが保存されている。",
+    "in_situ_conservation_efforts": "特定の保全プログラムは知られていない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "提供された全評価軸に基づき、総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "中央アメリカ",
+      "東南アジア"
+    ],
+    "knowledge_gaps": [
+      "食用部位の正確な栄養価と安全性",
+      "気候変動要因（CO2濃度、異常気象）に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "商業的な品種改良は進んでおらず、主に種（species）として流通しているため、明確な品種情報は少ない。"
+      },
+      "variety_name": "種（Species type）",
+      "local_name": "N/A",
+      "origin_region": "新熱帯区",
+      "distinctive_characteristics": "直径15cmにもなる大きな白い花が夜に咲き、強い芳香を放つ。ハート型の大きな葉を持つ。",
+      "cultural_importance": "観賞用として世界中で愛好されている。古代メソアメリカ文化において技術的に重要であった。",
+      "climate_adaptation": "耐暑性が高く、熱帯・亜熱帯気候に非常によく適応している。",
+      "conservation_status": "Least Concern (低懸念)"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "Missouri Botanical Garden - Tropicos",
+      "Ethnobotanical literature on Mesoamerican cultures",
+      "PROSEA (Plant Resources of South-East Asia)"
+    ],
+    "major_knowledge_gaps": [
+      "食用利用の安全性と栄養価に関する科学的データ",
+      "リジェネラティブ農業適性の定量的評価",
+      "気候変動に対する品種・地域個体群レベルでの応答差"
+    ],
+    "regional_data_coverage": "観賞用としての情報は全球的だが、食用・文化的利用に関する情報は中米と東南アジアに偏在している。",
+    "missing_information": [
+      "収量データ",
+      "詳細な栄養成分",
+      "土壌改良効果の定量的データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

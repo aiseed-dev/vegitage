@@ -1,0 +1,697 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical, agricultural, and ethnobotanical databases. Specific data on wild relatives and their distribution is well-documented but not exhaustive."
+    },
+    "primary_name": "Tartary Buckwheat",
+    "scientific_name": "Fagopyrum tataricum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "葉",
+      "花"
+    ],
+    "origin_region": "中国南西部（雲南省、四川省）、ヒマラヤ東部地域",
+    "wild_relatives": [
+      "Fagopyrum tataricum ssp. potanini"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical literature and agricultural glossaries. Coverage is strong for major cultivation regions."
+    },
+    "international": {
+      "en": [
+        "Tartary buckwheat",
+        "Bitter buckwheat",
+        "Indian buckwheat"
+      ],
+      "scientific_common": "Tartarian buckwheat"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ダッタンソバ",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "苦荞麦",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "쓴메밀",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "ne",
+            "name": "तीते फापर",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "hi",
+            "name": "कुट्टू",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "dz",
+            "name": "Jarey",
+            "script": "Tibetan"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "sl",
+            "name": "Tatarska ajda",
+            "script": "Latin"
+          },
+          {
+            "lang": "pl",
+            "name": "Gryka tatarka",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Гречиха татарская",
+            "script": "Cyrillic"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "イ族（Yi people）",
+        "name": "不明（現地での呼称は多様）",
+        "cultural_significance": "中国南西部の高地における伝統的な主食であり、厳しい環境での生存を支える重要な作物。"
+      },
+      {
+        "community": "チベット系民族",
+        "name": "不明（現地での呼称は多様）",
+        "cultural_significance": "ヒマラヤ地域の高地で栽培され、粉にして粥やパン状の食品として利用される伝統的な作物。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification follows the APG IV system and is consistent across major taxonomic databases like Kew's Plants of the World Online."
+    },
+    "family": {
+      "en": "Knotweed family",
+      "la": "Polygonaceae"
+    },
+    "genus": {
+      "en": "Buckwheat",
+      "la": "Fagopyrum"
+    },
+    "species": {
+      "en": "Tartary buckwheat",
+      "la": "tataricum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Fagopyrum tataricum ssp. potanini"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is well-documented in ethnobotanical studies of the Himalayas and Southwestern China, as well as historical records in Europe."
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヒマラヤ・中国南西部",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "薬用",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "高地の厳しい気候で育つ唯一の穀物の一つとして、多くの山岳民族の食料安全保障を支える基幹作物。粉にして粥、パン、麺類にするほか、家畜の飼料としても重要。",
+        "seasonal_significance": "夏の短い栽培期間で収穫できるため、高地での主要な夏作物。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東アジア（日本、韓国）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用",
+          "健康食品"
+        ],
+        "traditional_uses": "伝統的には救荒作物。現代では主にルチンなどの機能性成分に着目した健康食品（そば茶、麺類）として利用される。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東ヨーロッパ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "伝統食品"
+        ],
+        "traditional_uses": "歴史的に粥（カーシャ）や穀物料理として利用されてきたが、現代では普通ソバに代替され、一部地域で伝統食として残るのみ。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "チベット・ヒマラヤ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "ツァンパ（炒った粉をお茶で練ったもの）",
+          "粥",
+          "平たいパン"
+        ],
+        "preparation_methods": [
+          "製粉",
+          "焙煎",
+          "茹でる",
+          "焼く"
+        ],
+        "cultural_context": "高地の厳しい環境を生き抜くためのエネルギー源であり、日常食の中心。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "韃靼そば",
+          "そば茶"
+        ],
+        "preparation_methods": [
+          "製粉",
+          "製麺",
+          "焙煎"
+        ],
+        "cultural_context": "健康志向の食品として、特有の苦みと高い栄養価が評価される。伝統的な日本そばとは区別される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "数千年前から中国南西部で栽培されていたと考えられている。",
+      "trade_routes": "シルクロードや山岳交易路を通じて中央アジア、ヨーロッパ、東アジアへ伝播した。",
+      "cultural_exchange": "山岳民族の食文化と農耕技術の伝播において重要な役割を果たした。",
+      "domestication_history": "中国南西部が原産地であり、野生種のF. tataricum ssp. potaniniから栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には適さない。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高地での栽培に限られる。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な気候を好み、短い夏に生育する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "寒暖差の大きい内陸性気候に適応。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "一定の降水量は必要。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "最も適した気候帯。痩せた土壌、低温、強い紫外線に耐性がある。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯・冷帯高地",
+        "planting_season": "晩春から初夏",
+        "harvest_season": "晩夏から初秋",
+        "growing_period_days": "60-90"
+      }
+    ],
+    "productivity": {
+      "yield_range": "500 - 1500 kg/ha",
+      "factors_affecting_yield": [
+        "播種時期",
+        "標高",
+        "土壌肥沃度",
+        "降水量",
+        "受粉（自殖性だが昆虫訪問で向上）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（普通ソバと合算されることが多い）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産国。特に雲南省、四川省、チベット自治区が中心。"
+        },
+        {
+          "country": "ブータン",
+          "production_share": "不明",
+          "characteristics": "国民の主食の一つであり、高地農業の重要な作物。"
+        },
+        {
+          "country": "ネパール",
+          "production_share": "不明",
+          "characteristics": "山岳地帯での伝統的な栽培が続けられている。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "ヒマラヤ山脈沿いの地域で栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ルチンに関する研究は豊富だが、他の微量栄養素の地域変異に関するデータは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約340",
+        "protein_g": "11-14",
+        "carbs_g": "約70",
+        "fat_g": "2-3",
+        "fiber_g": "約10"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "マグネシウム",
+          "amount": "高",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "亜鉛",
+          "amount": "中",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "中",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ルチン（ビタミンP）",
+        "concentration": "普通ソバの約100倍",
+        "health_effect": "抗酸化作用、毛細血管の強化、血圧降下作用"
+      },
+      {
+        "compound": "ケルセチン",
+        "concentration": "高",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "高血圧の管理",
+          "糖尿病の補助療法",
+          "血管の健康維持",
+          "消化促進"
+        ],
+        "preparation": "種子を焙煎してお茶にする、または粉末を食事に取り入れる。"
+      },
+      {
+        "region": "ヒマラヤ",
+        "medical_system": "伝統医学",
+        "uses": [
+          "高地での循環器系の補助",
+          "体力の維持"
+        ],
+        "preparation": "日常の食事として摂取する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖値上昇抑制効果",
+        "血中脂質改善効果",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "認知機能改善効果"
+      ],
+      "safety_considerations": "光線過敏症を引き起こすファゴピリンを含むが、通常食用する量では問題ないとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "料理法は各文化圏の食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヒマラヤ・中国南西部",
+        "methods": [
+          "製粉して粥にする",
+          "お湯や茶で練る（ツァンパ）",
+          "無発酵パンとして焼く",
+          "麺類にする",
+          "アルコール飲料の原料にする"
+        ],
+        "flavor_role": "主食",
+        "typical_combinations": [
+          "バター茶",
+          "乾燥チーズ",
+          "野菜の煮込み"
+        ]
+      },
+      {
+        "region": "日本",
+        "methods": [
+          "製麺（茹でる）",
+          "種子を焙煎してお茶にする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "醤油ベースのつゆ",
+          "薬味（ネギ、わさび）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "適切に乾燥・保管すれば品質は安定。"
+      },
+      {
+        "method": "焙煎",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "香ばしい風味が増し、苦味が若干和らぐ。ルチンの一部が分解される可能性あり。"
+      },
+      {
+        "method": "製粉",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数ヶ月（酸化しやすいため）",
+        "quality_changes": "全粒粉は栄養価が高いが、保存期間が短い。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い苦味、ナッツのような香ばしさ、土を思わせるアーシーな風味",
+      "aroma_compounds": [
+        "ピラジン類（焙煎による）"
+      ],
+      "texture_characteristics": "粉は粘りが少なく、パサパサした食感になりやすい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐性に関する定性的な評価は多いが、制御環境下での定量的な実験データは少ない。評価は主に栽培されている地域の環境特性に基づいている。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "30°C以上が開花・結実期に続くと収量が著しく低下する。",
+      "cold_tolerance": "霜には弱い（-2°C以下で枯死）。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "比較的高い。短い生育期間で水分要求量が少ない。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "400-800mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が細く倒伏しやすい。",
+      "hail_damage_recovery": "低い。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。C3植物であるため、一定の効果が期待されるが、研究は少ない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高。高地適応の結果、強い紫外線に対する耐性が高い。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "主要穀物に比べて病害虫が少ないため、比較的頑健であると考えられている。",
+      "disease_resistance_stability": "高い。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "ヒマラヤ山脈、中国南西部の高地、東欧の一部、日本の冷涼地",
+        "2050_projection": "栽培適地がより高緯度・高標高へシフトする可能性。温帯地域での二期作の可能性も。",
+        "2100_projection": "現在の主要栽培地の一部で高温ストレスにより栽培が困難になる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種内の遺伝的多様性に関する研究は進んでいるが、種間交雑に関するデータは限定的。自殖性という特性が重要。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の地域在来種間での交雑は可能。"
+      ],
+      "interspecific_compatibility": [
+        "普通ソバ（F. esculentum）とは自然交雑しない。"
+      ],
+      "intergeneric_possibility": [
+        "ほぼ不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "野生祖先種（F. tataricum ssp. potanini）との遺伝子流動が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である中国南西部に極めて高い遺伝的多様性が存在する。",
+      "wild_gene_pool": "野生祖先種との継続的な遺伝子交流が適応力の源となっている可能性がある。",
+      "adaptive_genetic_variation": "標高、土壌、気候に適応した多様な遺伝的変異が確認されている。",
+      "inbreeding_depression_risk": "低い（自殖性作物であるため）。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ヒマラヤ・中国南西部",
+        "environmental_pressure": "高標高（強い紫外線、低酸素、低温）、痩せた酸性土壌",
+        "adaptive_response": "高いルチン含有量（紫外線防御）、短い生育期間、低い栄養要求性",
+        "time_scale": "数千年",
+        "mechanism": "地域環境への自然選択と農家による人為選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "在来種や野生種との交配により、耐乾性や耐寒性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "ルチン含有量の異なる品種の育種が可能。",
+      "novel_characteristics": "苦味の少ない品種の育種が目標とされている。",
+      "hybrid_vigor_potential": "自殖性のため、雑種強勢は限定的。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の交雑障壁は強い。",
+      "chromosome_compatibility": "種内では問題ない。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "生育期間の短さ",
+        "adaptive_traits": "早熟性",
+        "heritability": "高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での直接的な研究は少ない。評価は植物の一般的特性と伝統的農法からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅いが、密なひげ根を持つ。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物として還元される。",
+      "soil_structure_improvement": "生育が早く土壌を覆うため、雨滴による土壌構造の破壊を防ぐ。",
+      "erosion_control": "高い被覆力により、特に傾斜地での土壌侵食防止効果が高い。",
+      "nutrient_cycling_role": "リンの吸収能力が高いとされ、土壌中の難溶性リンを可給態化する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなど多くの訪花昆虫を引き寄せる。特にダッタンソバの蜂蜜は価値が高い。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "輪作体系に組み込むことで、単一栽培に比べ生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "土壌被覆により表面流出を抑え、浸透を促進する。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "高い。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。",
+      "below_ground_carbon": "低い（一年草で根が浅いため）。",
+      "soil_carbon_enhancement": "カバークロップとして利用することで、土壌炭素の増加に貢献できる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物との輪作で土壌肥沃度を維持する。"
+      ],
+      "natural_pest_control": "他の作物の病害虫サイクルを断ち切る効果がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "雑草の生育を抑制するアレロパシー効果が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作に組み込むことで、生態系の安定性を高める。",
+      "stress_tolerance": "痩せ地、乾燥、低温に強く、システム全体のストレス耐性を向上させる。",
+      "recovery_capacity": "生育が早いため、天候不順後のリカバリークロップとして利用可能。",
+      "adaptability": "高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康食品市場での動向や研究は活発に報告されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリーで、必須アミノ酸をバランス良く含む良質な植物性タンパク源。",
+      "food_security_contribution": "辺境地や気候変動の影響を受けやすい地域での食料安全保障に貢献するポテンシャルが高い。",
+      "local_food_system_integration": "小規模農家でも栽培しやすく、地域の食料自給率向上に貢献。",
+      "alternative_protein_potential": "高い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康食品市場",
+        "グルテンフリー食品市場",
+        "機能性表示食品"
+      ],
+      "value_added_products": [
+        "そば茶",
+        "栄養強化麺",
+        "サプリメント",
+        "化粧品原料（ルチン）"
+      ],
+      "niche_market_value": "非常に高い。「スーパーフード」としてのブランド価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の喪失リスクは指摘されているが、具体的な保全活動のデータは断片的。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "近代農業の拡大と土地利用の変化による栽培地の減少。",
+    "climate_change_vulnerability": "高地生態系の脆弱性により、栽培適地の喪失が懸念される。",
+    "cultural_erosion_risk": "高。食生活の近代化に伴い、伝統的な栽培・利用知識が失われつつある。",
+    "conservation_actions_needed": [
+      "在来種の種子バンク（ジーンバンク）での系統的収集と保存",
+      "伝統的知識の記録と継承支援",
+      "在来種を利用した地域振興"
+    ],
+    "priority_conservation_regions": [
+      "中国南西部（雲南、四川）",
+      "ヒマラヤ山脈地域（ネパール、ブータン、インド北部）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには収集されているが、網羅性は不十分。",
+    "in_situ_conservation_efforts": "一部の地域で農家による自家採種という形で行われているが、組織的な取り組みは少ない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "中国雲南省",
+      "ネパール高地",
+      "ブータン"
+    ],
+    "knowledge_gaps": [
+      "リジェネラティブ農業システムにおける定量的な効果",
+      "気候変動シナリオに対する品種レベルでの応答予測",
+      "先住民コミュニティにおける詳細な民族植物学的記録"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種というよりは地域在来種群としての情報が主である。"
+      },
+      "variety_name": "苦荞麦 (Ku Qiao Mai)",
+      "local_name": "苦荞麦",
+      "origin_region": "中国 四川省・雲南省",
+      "distinctive_characteristics": "非常に高いルチン含有量に由来する強い苦味。小粒で黒褐色の種皮を持つ。極めて頑健で、高地の痩せた酸性土壌によく適応する。",
+      "cultural_importance": "イ族などの山岳民族の伝統的な主食。日常食であり、薬用としても利用される。",
+      "climate_adaptation": "高地の低温、強い紫外線、乾燥に非常に強い。",
+      "conservation_status": "多くの地域在来種が存在するが、近代品種への置き換わりにより遺伝的多様性が失われるリスクがある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Ethnobotanical research papers",
+      "Agronomy journals",
+      "Genetic resources databases (e.g., GRIN)",
+      "FAO statistical data (aggregated)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "先住民コミュニティにおける口承伝承の詳細な記録"
+    ],
+    "regional_data_coverage": "アジアに偏っており、欧州や他の地域での詳細なデータは少ない。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "品種ごとの詳細な栄養成分データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

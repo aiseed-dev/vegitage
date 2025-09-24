@@ -1,0 +1,655 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(KEW, GRIN)および農学研究論文からの情報を統合。野生の祖先種に関する情報は限定的で、栽培化の歴史が古いため特定が困難。"
+    },
+    "primary_name": "Garden Cress",
+    "scientific_name": "Lepidium sativum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "種子"
+    ],
+    "origin_region": "南西アジアおよび北東アフリカ（エジプト、エチオピア、ペルシャ地域と推定）",
+    "wild_relatives": [
+      "Lepidium draba",
+      "Lepidium virginicum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "多言語の植物名データベースおよび民族植物学の文献から収集。"
+    },
+    "international": {
+      "en": [
+        "Garden cress",
+        "Pepper cress",
+        "Pepper grass"
+      ],
+      "scientific_common": "Garden Cress"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Cresson alénois",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Gartenkresse",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Crescione inglese",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "الرشاد",
+            "script": "Arab"
+          },
+          {
+            "lang": "fa",
+            "name": "شاهی",
+            "script": "Arab"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "हलीम",
+            "script": "Deva"
+          },
+          {
+            "lang": "mr",
+            "name": "अळीव",
+            "script": "Deva"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "am",
+            "name": "ፈጦ",
+            "script": "Ethi"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、国際的な植物分類データベースからの情報。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Pepperwort",
+      "la": "Lepidium"
+    },
+    "species": {
+      "en": "Garden Cress",
+      "la": "Lepidium sativum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、食文化史、伝統医学の文献を横断的に分析。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "副菜",
+          "機能性食品"
+        ],
+        "traditional_uses": "アーユルヴェーダで重要な薬草。特に種子（ハリム/アリーヴ）は産後の女性の回復を助けるための栄養補助食として利用される。",
+        "seasonal_significance": "主に冬から春にかけて栽培・利用される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "香辛料"
+        ],
+        "traditional_uses": "サラダや薬味として広く利用。伝統医学では骨の健康や消化促進に用いられる歴史がある。",
+        "seasonal_significance": "涼しい季節の重要な緑黄色野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "香味野菜"
+        ],
+        "traditional_uses": "主にスプラウトとしてサラダやサンドイッチに利用され、爽やかな辛味を添える。特に英国の「エッグ＆クレスサンドイッチ」は象徴的。",
+        "seasonal_significance": "主に春の野菜として認識されるが、屋内栽培により通年利用可能。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Halim Ladoo (種子を使った甘い菓子)",
+          "Halim Kheer (種子を使ったミルクプリン)"
+        ],
+        "preparation_methods": [
+          "種子を浸水させて利用",
+          "葉をサラダやチャツネに"
+        ],
+        "cultural_context": "特に産後の栄養補給や鉄分補給のための伝統食として重要視される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト、ギリシャ、ローマ時代から食用および薬用として利用されていた記録がある。ヒポクラテスもその薬効について言及している。",
+      "trade_routes": "古代の交易路を通じてヨーロッパやアジア全域に広まったと考えられる。",
+      "cultural_exchange": "薬用知識と食文化が一体となって各地に伝播した。",
+      "domestication_history": "原産地である中東や北東アフリカで非常に古くから栽培化されたと考えられているが、正確な時期や場所の特定は困難。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な気候または涼しい乾季に限定される。耐暑性が低い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬から春にかけての冷涼な時期が栽培適期。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春と秋が最適な栽培シーズン。冷涼な気候を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "霜の危険がなくなった春と、暑さが和らぐ初秋が適期。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。涼しい季節に栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎる、または低温すぎるため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春、初秋",
+        "harvest_season": "春、秋",
+        "growing_period_days": "20-50"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋、冬",
+        "harvest_season": "冬、春",
+        "growing_period_days": "20-50"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（スプラウトとしては非常に高い回転率）",
+      "factors_affecting_yield": [
+        "気温（高温は抽苔を引き起こす）",
+        "水分供給",
+        "土壌肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "主に国内消費向け。種子と葉の両方が利用される。"
+        },
+        {
+          "country": "英国",
+          "production_share": "不明",
+          "characteristics": "主にスプラウトとして商業生産され、パック詰めで流通。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変異のデータは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "32",
+        "protein_g": "2.6",
+        "carbs_g": "5.5",
+        "fat_g": "0.7",
+        "fiber_g": "1.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "541.9 µg",
+          "daily_value_percent": "452%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "69 mg",
+          "daily_value_percent": "83%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "346 µg",
+          "daily_value_percent": "38%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.3 mg",
+          "daily_value_percent": "10%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、抗がん作用の可能性、独特の辛味の元となる。"
+      },
+      {
+        "compound": "フラボノイド（ケンペロール、クェルセチン）",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "催乳",
+          "鉄分補給（貧血）",
+          "喘息・咳の緩和",
+          "消化促進"
+        ],
+        "preparation": "種子を浸水させたり、粉末にしてミルクやギーと混ぜて摂取する。"
+      },
+      {
+        "region": "中東",
+        "medical_system": "伝統医学",
+        "uses": [
+          "骨折の治癒促進",
+          "利尿作用",
+          "去痰"
+        ],
+        "preparation": "種子をペースト状にして湿布として使用、または煎じて飲む。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "血糖降下作用",
+        "脂質異常症改善効果",
+        "抗酸化・抗炎症作用",
+        "抗菌作用"
+      ],
+      "safety_considerations": "甲状腺機能に問題がある場合、グルコシノレートを含むアブラナ科植物の過剰摂取には注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各国の料理書、食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ・北米",
+        "methods": [
+          "生食（スプラウト）"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "卵",
+          "サンドイッチ",
+          "サラダ",
+          "スープのトッピング"
+        ]
+      },
+      {
+        "region": "インド",
+        "methods": [
+          "種子を調理",
+          "葉を生食"
+        ],
+        "flavor_role": "機能性食材",
+        "typical_combinations": [
+          "ミルク",
+          "ジャガリー（黒糖）",
+          "ココナッツ",
+          "ギー"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "種子に適用。風味や発芽能力は徐々に低下する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ピリッとした胡椒のような辛味、わずかな苦味、爽やかな青々しさ",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "柔らかく、シャキシャキとした食感（スプラウト）。種子は浸水するとゼラチン状になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、気候変動シナリオ下での応答に関する定量的な実験データは非常に少ない。評価は栽培特性からの類推に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-20°C",
+      "extreme_heat_survival": "25°C以上で生育不良、抽苔が促進される",
+      "cold_tolerance": "軽い霜には耐えるが、-5°C以下で枯死する可能性"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "適度な土壌水分を好む"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い（背丈が低いため直接的な倒伏被害は少ないが、葉が傷つきやすい）",
+      "hail_damage_recovery": "低い",
+      "rapid_temperature_change": "抽苔を誘発する可能性がある"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中（C3植物として恩恵を受ける可能性があるが、高温ストレスで相殺される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "アブラナ科共通の害虫（アブラムシ、コナガ等）に対する脆弱性は温暖化で高まる可能性がある",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯および亜熱帯の冷涼期",
+        "2050_projection": "温帯地域では栽培期間の短縮、高緯度・高標高地域への適地シフトが予測される",
+        "2100_projection": "適地のさらなる北上・高地化が予測される",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Lepidium属内の交雑に関する一般的な情報は存在するが、L. sativumと野生近縁種との自然交雑に関する具体的な研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "種内の異なる品種間での交雑は容易"
+      ],
+      "interspecific_compatibility": [
+        "Lepidium属のいくつかの種とは人為的な交配が可能との報告がある"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は少ない"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地周辺（中東、インド、北アフリカ）には多様な在来品種が存在すると考えられる",
+      "wild_gene_pool": "世界中に分布するLepidium属の野生種は、耐病性や環境ストレス耐性などの遺伝子源として潜在的価値を持つ",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "自家受粉もするため、小集団ではリスクがある"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐病性を持つ野生近縁種との交雑により、耐性向上の可能性がある",
+      "improved_nutritional_content": "グルコシノレートなどの機能性成分の含有量を改変できる可能性がある",
+      "novel_characteristics": "葉の形や色、風味の異なる新品種の作出が可能",
+      "hybrid_vigor_potential": "高い可能性がある"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種によっては存在する可能性がある",
+      "chromosome_compatibility": "種間で異なるため、確認が必要",
+      "fertility_of_hybrids": "種間雑種では不稔になる場合がある",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候（温度、水分）",
+        "adaptive_traits": [
+          "早生性",
+          "抽苔の遅延"
+        ],
+        "heritability": "中程度",
+        "response_to_selection": "高い（世代交代が早いため）"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "コショウソウを対象としたリジェネラティブ農業の研究はほとんどない。評価はアブラナ科植物の一般的な特性と栽培の容易さからの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅いひげ根",
+      "organic_matter_contribution": "成長が早く、緑肥として利用可能。収穫後の残渣が有機物となる。",
+      "soil_structure_improvement": "限定的",
+      "erosion_control": "密植することで地表面を覆い、雨滴による侵食を軽減する可能性がある。",
+      "nutrient_cycling_role": "アブラナ科植物は土壌中の養分を効率的に吸収する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さな花はハナアブや小型のハチなどの在来の送粉者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "グルコシノレートの分解物が土壌微生物に影響を与える可能性がある。",
+      "above_ground_biodiversity": "限定的"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "地表面を覆うことによる蒸発抑制効果",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "緑肥として利用した場合、土壌有機物の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン、タマネギ"
+      ],
+      "natural_pest_control": "一部の害虫を忌避する効果が報告されているが、科学的証拠は弱い。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "栽培期間が短いため、輪作体系に組み込みやすい。",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "低い",
+      "adaptability": "中程度（世代交代が早いため）"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、食品科学、公衆衛生分野の報告に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養価が高く、特にマイクログリーンやスプラウトとして都市農業や家庭菜園に適している。",
+      "food_security_contribution": "栽培が容易で成長が早いため、特に栄養へのアクセスが限られる地域で、ビタミン・ミネラルの供給源として貢献できる可能性がある。",
+      "local_food_system_integration": "地産地消に非常に適している。",
+      "alternative_protein_potential": "限定的"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "スーパーフード市場（特に種子）",
+        "マイクログリーン・スプラウト市場",
+        "機能性食品原料"
+      ],
+      "value_added_products": [
+        "栄養強化パウダー（種子）",
+        "ハーブティー",
+        "健康補助食品（カプセル）"
+      ],
+      "niche_market_value": "健康志向の消費者や特定の民族料理市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストには未記載。在来種の保全状況に関する情報は断片的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種は生息地の破壊の脅威にさらされている。",
+    "climate_change_vulnerability": "中（耐暑性が低いため）",
+    "cultural_erosion_risk": "高（伝統的な薬用利用に関する知識が失われつつある地域がある）",
+    "conservation_actions_needed": [
+      "原産地周辺の在来品種（ランドレース）の収集と評価",
+      "ジーンバンクでの種子の長期保存（Ex-situ conservation）",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "エチオピア",
+      "イラン",
+      "インド"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには種子が保存されているが、網羅性は不明。",
+    "in_situ_conservation_efforts": "不明"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全項目を統合した専門家としての評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "インド（アーユルヴェーダ利用）",
+      "エチオピア（伝統的利用と遺伝的多様性）",
+      "中東（栽培史と在来種）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "在来品種の遺伝的多様性と特性評価",
+      "リジェネラティブ農業システムにおける具体的な役割と効果"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種に関する学術的な情報は少なく、主に種苗会社のカタログ情報に基づく。"
+      },
+      "variety_name": "Common cress (Plain-leafed)",
+      "local_name": "不明",
+      "origin_region": "不明（広く栽培）",
+      "distinctive_characteristics": "葉が平らで切れ込みがない。成長が早い。",
+      "cultural_importance": "ヨーロッパや北米で最も一般的にスプラウトとして利用されるタイプ。",
+      "climate_adaptation": "標準的な耐性。特に耐暑性はない。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種に関する学術的な情報は少なく、主に種苗会社のカタログ情報に基づく。"
+      },
+      "variety_name": "Curly cress",
+      "local_name": "不明",
+      "origin_region": "不明（広く栽培）",
+      "distinctive_characteristics": "葉に細かい切れ込みがあり、縮れている。装飾的に利用されることも多い。",
+      "cultural_importance": "見た目の良さから、料理の付け合わせとして人気がある。",
+      "climate_adaptation": "標準的な耐性。特に耐暑性はない。",
+      "conservation_status": "懸念なし"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "USDA GRIN Global",
+      "Journal of Ethnopharmacology",
+      "Food Chemistry"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界的な生産量と市場規模の統計"
+    ],
+    "regional_data_coverage": "南アジア、中東、ヨーロッパの情報は比較的豊富だが、アフリカの他地域や南米に関する情報は乏しい。",
+    "missing_information": [
+      "野生近縁種との自然交雑の実例",
+      "在来品種の具体的な特性リスト"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

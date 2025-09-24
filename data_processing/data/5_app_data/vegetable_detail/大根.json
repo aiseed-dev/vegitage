@@ -1,0 +1,730 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業研究機関の情報を統合。栽培品種の多様性が非常に高いため、情報は代表的なもの。"
+    },
+    "primary_name": "Daikon Radish",
+    "scientific_name": "Raphanus sativus",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "根",
+      "葉",
+      "種子",
+      "花"
+    ],
+    "origin_region": "地中海沿岸から中央アジア。大型の根を持つダイコン型品種群は東アジアで発展。",
+    "wild_relatives": [
+      "Raphanus raphanistrum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の農業・食文化に関する文献から名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Daikon Radish",
+        "White Radish",
+        "Japanese Radish",
+        "Mooli",
+        "Oriental Radish"
+      ],
+      "scientific_common": "Radish"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "大根",
+            "script": "漢字/かな"
+          },
+          {
+            "lang": "zh-Hans",
+            "name": "萝卜",
+            "script": "Simplified Chinese"
+          },
+          {
+            "lang": "ko",
+            "name": "무",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "मूली",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "মূলা",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Củ cải trắng",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "หัวไชเท้า",
+            "script": "Thai"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Integrated Taxonomic Information System (ITIS)およびAPG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Radish",
+      "la": "Raphanus"
+    },
+    "species": {
+      "en": "Radish",
+      "la": "sativus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "longipinnatus (Daikon group)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、食文化史、農業史の文献を横断的に分析。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "主食級の野菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "漬物（沢庵、キムチ）、煮物（おでん）、薬味（大根おろし）、スープの具として不可欠。冬の重要な保存食としての役割が大きい。",
+        "seasonal_significance": "主に秋冬野菜として収穫され、冬の食卓を支える象徴的な存在。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "生でサラダに、パン（ムーリ・パラーター）の具材に、カレーや漬物（アチャール）に利用される。消化を助ける食材として重視される。",
+        "seasonal_significance": "冬の涼しい時期に栽培される主要な野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ・北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "ニッチ作物",
+          "健康食品"
+        ],
+        "traditional_uses": "主にアジア系移民コミュニティで消費される。近年、健康志向の高まりからサラダやピクルスとしての利用が増加。カバークロップとしての農業利用も。",
+        "seasonal_significance": "特になし。主に輸入品または特定の農家によって栽培される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "沢庵",
+          "おでん",
+          "ぶり大根",
+          "大根おろし"
+        ],
+        "preparation_methods": [
+          "煮る",
+          "漬ける",
+          "生食",
+          "炒める",
+          "干す"
+        ],
+        "cultural_context": "日本の食文化の根幹をなす野菜の一つ。消化を助ける薬味から、冬の保存食まで多様な役割を持つ。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "カクテキ",
+          "ムセンチェ",
+          "牛肉と大根のスープ"
+        ],
+        "preparation_methods": [
+          "漬ける（発酵）",
+          "和える",
+          "煮る"
+        ],
+        "cultural_context": "キムチの主要な材料であり、スープや和え物にも不可欠。シャキシャキした食感とさっぱりした風味が好まれる。"
+      },
+      {
+        "cuisine": "北インド料理",
+        "role": "common",
+        "traditional_dishes": [
+          "ムーリ・パラーター",
+          "ムーリ・カ・サラー"
+        ],
+        "preparation_methods": [
+          "生食",
+          "炒める",
+          "パン生地に練り込む"
+        ],
+        "cultural_context": "冬の定番野菜。特にパンに練り込んで焼くムーリ・パラーターは朝食や昼食として人気が高い。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "小型のハツカダイコンの祖先は古代エジプトやギリシャで栽培。大型のダイコンは中国で発展し、日本には弥生時代に伝来したとされる。",
+      "trade_routes": "シルクロードを通じてアジア各地に伝播し、地域ごとに多様な品種が成立した。",
+      "cultural_exchange": "ダイコンの栽培法や調理法（特に漬物文化）は、東アジア文化圏の交流の歴史を反映している。",
+      "domestication_history": "地中海地域でRaphanus属が栽培化され、東方へ伝播する過程で根が肥大する系統が選択され、中国で現在のダイコンの原型が成立したと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿では根の肥大が悪く、病害虫が発生しやすい。高冷地での栽培は可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しい冬季に栽培するのが最適。夏の栽培は困難。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春と秋の栽培が最適。生育適温は15-20℃。冷涼な気候を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "短い夏を利用して栽培可能だが、急激な温度変化は根の裂開を引き起こす可能性がある。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な灌漑があれば栽培可能だが、乾燥は根の品質を著しく低下させる。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "夏期の冷涼な気候を利用して栽培可能。標高が適応性を決定する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3-4月）、秋（8-9月）",
+        "harvest_season": "初夏（5-6月）、晩秋から冬（10-12月）",
+        "growing_period_days": "60-100"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋（10-11月）",
+        "harvest_season": "冬（12-2月）",
+        "growing_period_days": "70-90"
+      }
+    ],
+    "productivity": {
+      "yield_range": "30,000 - 70,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌の質と深さ",
+        "適切な水分供給",
+        "生育期の気温",
+        "品種選択",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明確だが、推定7000万トン以上（ハツカダイコン等を含むRadish全体として）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 70,
+          "characteristics": "世界最大の生産国であり消費国。多様な品種が国内各地で栽培されている。"
+        },
+        {
+          "country": "日本",
+          "production_share": 5,
+          "characteristics": "一人当たりの消費量が非常に多い。品種改良が進んでおり、高品質なダイコンを生産。"
+        },
+        {
+          "country": "韓国",
+          "production_share": 4,
+          "characteristics": "キムチ用の品種を中心に大規模な生産が行われている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは豊富だが、品種や栽培条件による機能性成分の変動に関する研究は限定的。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "18",
+        "protein_g": "0.6",
+        "carbs_g": "4.1",
+        "fat_g": "0.1",
+        "fiber_g": "1.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "12 mg",
+          "daily_value_percent": "15"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "230 mg",
+          "daily_value_percent": "5"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "28 µg",
+          "daily_value_percent": "7"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "イソチオシアネート",
+        "concentration": "部位（特に皮の近く）や品種により変動",
+        "health_effect": "抗酸化作用、抗がん作用の可能性、抗菌作用"
+      },
+      {
+        "compound": "アミラーゼ（ジアスターゼ）",
+        "concentration": "根部に豊富",
+        "health_effect": "デンプンの消化を助ける"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "漢方医学、民間療法",
+        "uses": [
+          "消化促進",
+          "去痰",
+          "解熱",
+          "利尿"
+        ],
+        "preparation": "大根おろし、切り干し大根の煎じ汁、大根飴"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "肝臓・胆嚢の浄化",
+          "消化不良の改善",
+          "黄疸の治療"
+        ],
+        "preparation": "生のジュース、食事への添加"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "消化促進効果（酵素による）"
+      ],
+      "ongoing_research": [
+        "イソチオシアネートの抗がん作用",
+        "抗酸化作用と心血管疾患予防",
+        "血糖値コントロールへの影響"
+      ],
+      "safety_considerations": "一般的に安全だが、甲状腺機能に問題がある場合は、ゴイトロゲンを含むため過剰摂取に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書、食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "煮込み",
+          "漬物",
+          "生食（おろし、千切り）",
+          "炒め物",
+          "乾燥"
+        ],
+        "flavor_role": "主味/副味/薬味",
+        "typical_combinations": [
+          "魚（ブリ、イカ）",
+          "豚肉",
+          "昆布",
+          "醤油",
+          "味噌"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "生食（サラダ）",
+          "炒め物（サブジ）",
+          "パンに練り込む",
+          "漬物（アチャール）"
+        ],
+        "flavor_role": "副味/香辛料",
+        "typical_combinations": [
+          "スパイス（クミン、ターメリック）",
+          "豆類",
+          "ヨーグルト",
+          "小麦粉"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け・糠漬け（発酵/非発酵）",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "数週間から数年",
+        "quality_changes": "食感が変化し、旨味と独特の風味が増す。"
+      },
+      {
+        "method": "天日干し（切り干し大根）",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "水分が抜け、栄養と旨味が凝縮される。食感が変わる。"
+      },
+      {
+        "method": "酢漬け（ピクルス）",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "酸味が加わり、シャキシャキした食感を保つ。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな甘み、みずみずしさ、品種や部位により異なる辛味（ピリッとした刺激）",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "生ではシャキシャキ、パリパリ。加熱すると柔らかく、味が染み込みやすい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な知見は多いが、品種レベルでの定量的なデータは少ない。将来予測は広域モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30℃以上が続くと生育不良や根の品質低下が起こる",
+      "cold_tolerance": "-3°C程度までの霜には耐える"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "中程度。深い主根が一定の耐乾性に寄与するが、品質の良い根を形成するには安定した水分が必要。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期に週25mm程度の降雨または灌漑"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉は傷つくが、根菜のため致命的な被害は受けにくい。",
+      "hail_damage_recovery": "葉の損傷からの回復は可能だが、根の露出部分が傷つくと品質が低下する。",
+      "rapid_temperature_change": "根の裂開（ス入り）を引き起こす可能性がある。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。光合成が促進されバイオマスは増加する可能性があるが、根の品質への影響は不明。",
+      "ozone_sensitivity": "中程度。他のアブラナ科作物と同様に感受性を示す可能性がある。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやコナガなどの害虫の発生期間が長期化するリスクがある。",
+      "disease_resistance_stability": "高温多湿は軟腐病などの病害を助長する。耐病性品種の重要性が増す。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯および亜熱帯の冷涼期",
+        "2050_projection": "高緯度地域や高標高地域への適地の移動。温帯地域では作付け期間が短縮される可能性。",
+        "2100_projection": "適地のさらなる北上と高地化。耐暑性品種の開発が不可欠になる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "育種学や遺伝学の研究で交雑親和性に関する知見は豊富。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "ハツカダイコン",
+        "クロダイコン",
+        "飼料用ダイコン"
+      ],
+      "interspecific_compatibility": [
+        "Raphanus raphanistrum（ハマダイコン）"
+      ],
+      "intergeneric_possibility": [
+        "Brassica（アブラナ属）との属間交雑は困難だが、胚珠培養などで可能（例：ラファノブラシカ）"
+      ],
+      "successful_natural_hybrids": [
+        "栽培ダイコンと野生のハマダイコンの自然交雑は普通に見られる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。アジア各地に形状、色、味、栽培時期が異なる多様な在来品種が存在する。",
+      "wild_gene_pool": "野生近縁種ハマダイコンは、耐病性やストレス耐性の遺伝子供給源として重要。",
+      "adaptive_genetic_variation": "広範な栽培地域に適応した遺伝的多様性が存在する。",
+      "inbreeding_depression_risk": "自家不和合性が強く、他家受粉性のため近交弱勢は起こりにくい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本",
+        "environmental_pressure": "海岸の強風と塩分",
+        "adaptive_response": "栽培ダイコンとハマダイコンの交雑による、より強健な個体群の形成。",
+        "time_scale": "数十年から数百年",
+        "mechanism": "遺伝子移入と自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "ハマダイコンとの交雑により、耐塩性や耐乾性が向上する可能性がある。",
+      "improved_nutritional_content": "野生種の機能性成分を取り込む可能性がある。",
+      "novel_characteristics": "新しい色や形のダイコンが生まれる可能性がある。",
+      "hybrid_vigor_potential": "高い。特に遠縁の品種間交配で顕著。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほとんどない。属間では強い交雑不親和性が存在する。",
+      "chromosome_compatibility": "Raphanus属内では染色体数が同じ（2n=18）で適合性は高い。",
+      "fertility_of_hybrids": "種内交雑では稔性は高い。ハマダイコンとの交雑雑種も稔性を持つ。",
+      "backcrossing_success": "高い。有用遺伝子を栽培品種に導入するために広く利用される。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、病害虫、土壌条件",
+        "adaptive_traits": "根の深さ、耐病性遺伝子、開花時期の調整",
+        "heritability": "中から高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "カバークロップとしての利用は広く知られているが、各効果の定量的な研究データは蓄積途上。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "長く太い主根が土壌深くまで侵入し、硬盤層を破砕する（バイオドリリング効果）。",
+      "organic_matter_contribution": "収穫後の根と地上部の残渣は、分解されやすい豊富な有機物を土壌に供給する。",
+      "soil_structure_improvement": "根が作った孔隙が水の浸透と通気性を改善し、団粒構造の発達を促す。",
+      "erosion_control": "生育初期の葉が地表を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "土壌深層から養分（特に窒素）を吸い上げ、収穫後の残渣分解時に表層に還元する（養分スカベンジング）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期にはミツバチなどの花粉媒介者にとって重要な蜜源となる。",
+      "beneficial_insect_habitat": "アブラナ科の害虫を引きつけるが、同時にその天敵である寄生蜂や捕食性昆虫の生息地も提供する。",
+      "soil_microorganism_interaction": "根圏で多様な微生物群集をサポートする。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作ったチャネルが雨水の土壌への浸透を大幅に改善する。",
+      "moisture_retention": "土壌有機物の増加を通じて、土壌の保水能力を高める。",
+      "runoff_reduction": "水の浸透を促すことで、地表流出とそれに伴う養分流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "非常に高い。巨大な根系が大量の炭素を土壌深くに蓄積する。",
+      "soil_carbon_enhancement": "残渣分解を通じて土壌有機炭素（SOC）を増加させる効果が高い。",
+      "carbon_sequestration_rate": "不明。栽培方法や気候により大きく変動する。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "レタス、豆類、キュウリ"
+      ],
+      "natural_pest_control": "アブラムシなどの害虫のトラップクロップとして機能し、主要作物から害虫を遠ざける。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "グルコシノレートの分解物が特定の雑草の発生を抑制する効果を持つことがある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "土壌改良を通じて、後作の作物の生育を安定させる。",
+      "stress_tolerance": "土壌の保水性向上により、短期的な干ばつに対するシステム全体の耐性を高める。",
+      "recovery_capacity": "不明",
+      "adaptability": "多様な品種が存在するため、様々な輪作体系に組み込むことが可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現在の市場動向、食品科学、持続可能性に関する報告書を分析。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーで栄養価が高く、植物中心の食生活において重要な役割を果たす。",
+      "food_security_contribution": "単位面積当たりの収量が高く、比較的栽培が容易なため、食料安全保障に貢献する。",
+      "local_food_system_integration": "世界各地の地域食品システムに深く根付いており、地産地消に適している。",
+      "alternative_protein_potential": "低い。タンパク質含有量は少ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向消費者向けの機能性食品（ジュース、サプリメント）",
+        "西洋料理での新しい利用法（大根ステーキ、ロースト）の提案",
+        "加工品（漬物、ピクルス）の国際市場展開"
+      ],
+      "value_added_products": [
+        "切り干し大根",
+        "漬物（沢庵、キムチ）",
+        "大根おろし（冷凍・レトルト）",
+        "スプラウト（かいわれ大根）"
+      ],
+      "niche_market_value": "カラフルな品種（紅心大根など）は、高級レストランやファーマーズマーケットで高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは指摘されているが、具体的な保全状況のデータは地域によって異なる。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種（ハマダイコン）の生息地である海岸線の開発が脅威となっている。",
+    "climate_change_vulnerability": "中。耐暑性が低いため、温暖化は栽培適地を変化させる。",
+    "cultural_erosion_risk": "高。均一なF1品種の普及により、多様な在来品種とそれに付随する食文化が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来品種のジーンバンクでの種子保存（域外保全）",
+      "農家による種子自家採種の奨励と支援（域内保全）",
+      "在来品種の価値を再評価し、市場での需要を創出する活動"
+    ],
+    "priority_conservation_regions": [
+      "日本、中国、韓国、インドなど、遺伝的多様性の中心地となっている地域"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域で、NPOや自治体による在来種保存の取り組みが行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全項目を総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "東アジアの山間部（独自の在来種が残存する可能性）",
+      "南アジア（耐乾性・耐暑性を持つ品種の探索）"
+    ],
+    "knowledge_gaps": [
+      "各在来品種の気候変動（特に高温・乾燥）に対する定量的応答データ",
+      "リジェネラティブ農業における炭素隔離能力の正確な測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種カタログ、農業史料に基づく。"
+      },
+      "variety_name": "桜島大根 (Sakurajima Daikon)",
+      "local_name": "桜島大根",
+      "origin_region": "日本（鹿児島県）",
+      "distinctive_characteristics": "世界最大級のダイコンで、重量は時に30kgを超える。丸い形状で肉質はきめ細かい。",
+      "cultural_importance": "鹿児島の伝統野菜。主に漬物（千枚漬け）や煮物に利用される。",
+      "climate_adaptation": "火山灰土壌によく適応している。温暖な気候を好む。",
+      "conservation_status": "在来種として保全活動が行われている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種カタログ、農業史料に基づく。"
+      },
+      "variety_name": "青首大根 (Aokubi Daikon)",
+      "local_name": "青首大根",
+      "origin_region": "日本",
+      "distinctive_characteristics": "現在日本で最も広く流通している品種群。地上部が緑色になる。病気に強く、栽培しやすい。",
+      "cultural_importance": "現代日本の食卓を代表するダイコン。F1品種が主流。",
+      "climate_adaptation": "様々な気候帯に適応するよう改良されているが、基本的な冷涼性気候を好む性質は同じ。",
+      "conservation_status": "商業的に広く栽培。在来の原型は少ない。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種カタログ、農業史料に基づく。"
+      },
+      "variety_name": "紅心大根 (Watermelon Radish)",
+      "local_name": "心里美 (Xin Li Mei)",
+      "origin_region": "中国",
+      "distinctive_characteristics": "外皮は白緑色だが、内部が鮮やかな赤紫色。甘みが強く、辛味が少ない。",
+      "cultural_importance": "主に生食され、彩りの美しさからサラダや飾り切りに用いられる。",
+      "climate_adaptation": "秋作が主体の冷涼気候適応型。",
+      "conservation_status": "世界的にニッチな野菜として人気が拡大中。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "World Vegetable Center (AVRDC)",
+      "Royal Botanic Gardens, Kew",
+      "National Agriculture and Food Research Organization, Japan (NARO)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ（特に炭素隔離速度）",
+      "気候変動に対する多様な在来品種レベルでの生理学的応答データ"
+    ],
+    "regional_data_coverage": "東アジアと南アジアに関する情報は豊富だが、アフリカや南米での利用に関するデータは限定的。",
+    "missing_information": [
+      "先住民コミュニティにおける固有の利用法",
+      "アフリカ、南米におけるローカルな品種とその特性"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

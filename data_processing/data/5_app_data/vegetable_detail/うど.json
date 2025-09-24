@@ -1,0 +1,567 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（KEW, GBIF）および日本の農学研究資料から統合。栽培品種に関する情報も豊富。"
+    },
+    "primary_name": "Udo",
+    "scientific_name": "Aralia cordata",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉",
+      "根"
+    ],
+    "origin_region": "東アジア（日本、朝鮮半島、中国）",
+    "wild_relatives": [
+      "Aralia elata",
+      "Aralia continentalis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア地域での名称は広く記録されている。欧米での名称は専門的な文脈に限られる。"
+    },
+    "international": {
+      "en": [
+        "Udo",
+        "Japanese Spikenard",
+        "Japanese Asparagus"
+      ],
+      "scientific_common": "Aralia"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "うど (独活)",
+            "script": "Kanji/Kana"
+          },
+          {
+            "lang": "ko",
+            "name": "땅두릅 (ttangdureup)",
+            "script": "Hangul"
+          },
+          {
+            "lang": "zh",
+            "name": "食用土当归 (shí yòng tǔ dāng guī)",
+            "script": "Hanzi"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アイヌ（日本）",
+        "name": "チマ・キナ (cima-kina)",
+        "cultural_significance": "春の重要な食料源であり、薬草としても利用された。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースから情報を取得。"
+    },
+    "family": {
+      "en": "Ginseng family",
+      "la": "Araliaceae"
+    },
+    "genus": {
+      "en": "Aralia",
+      "la": "Aralia"
+    },
+    "species": {
+      "en": "Japanese Spikenard",
+      "la": "Aralia cordata"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Aralia cordata var. sachalinensis"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本における文化的価値に関する資料は豊富だが、韓国や中国での現代的な位置づけに関する情報は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "季節の象徴"
+        ],
+        "traditional_uses": "日本では春を告げる「山菜」の代表格。独特の香りとほろ苦さが珍重される。生食、天ぷら、煮物、和え物など多様。根は漢方薬「独活（どっかつ）」として鎮痛・抗炎症に用いられる。",
+        "seasonal_significance": "早春の味覚として、季節の移り変わりを感じさせる重要な食材。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理 (和食)",
+        "role": "essential",
+        "traditional_dishes": [
+          "うどの酢味噌和え",
+          "うどの天ぷら",
+          "うどのきんぴら",
+          "うどと豚肉の煮物"
+        ],
+        "preparation_methods": [
+          "生食（薄切り後、水にさらす）",
+          "揚げる",
+          "炒める",
+          "煮る",
+          "漬物にする"
+        ],
+        "cultural_context": "「旬」を尊ぶ日本料理において、春の訪れを象徴する食材。苦味や香りを「味わい」として楽しむ文化を反映している。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本の古文書『古事記』や『万葉集』にも記述が見られ、古くから自生種の採集利用が行われていた。",
+      "trade_routes": "薬用としての根（和独活）は地域的に流通していたが、国際的な交易品ではなかった。",
+      "cultural_exchange": "不明",
+      "domestication_history": "江戸時代（17世紀頃）に、光を当てずに育てる軟白栽培（東京うど）が確立され、野菜としての生産が本格化した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、生育不良となる。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "夏期の高温により生育が阻害される。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼で湿潤な気候を好む。夏の平均気温が25℃以下の森林地帯が最適。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冬の低温には強いが、夏の極端な高温と乾燥には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱く、生育できない。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高冷地での栽培に適するが、生育期間が短くなる。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋（株分け）",
+        "harvest_season": "春（4月～6月）",
+        "growing_period_days": 0
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 15,000 kg/ha（軟白栽培の場合）",
+      "factors_affecting_yield": [
+        "土壌水分",
+        "夏季の気温",
+        "日照条件（遮光）",
+        "栽培技術（軟化処理）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": 99,
+          "characteristics": "軟白栽培（東京うど、山うど）が主流。栃木県、群馬県などが主要産地。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分データは存在するが、機能性成分に関する研究は途上。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "19",
+        "protein_g": "0.8",
+        "carbs_g": "4.6",
+        "fat_g": "0.1",
+        "fiber_g": "1.7"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "220mg",
+          "daily_value_percent": 6
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "34μg",
+          "daily_value_percent": 9
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ジテルペン類（カウレン酸など）",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、抗菌作用"
+      },
+      {
+        "compound": "クロロゲン酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "アスパラギン酸",
+        "concentration": "不明",
+        "health_effect": "新陳代謝促進、疲労回復"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "漢方（日本）、中医学",
+        "uses": [
+          "関節痛",
+          "神経痛",
+          "頭痛",
+          "風邪の初期症状"
+        ],
+        "preparation": "根を乾燥させ、煎じて服用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗炎症作用",
+        "抗アレルギー作用",
+        "抗腫瘍作用"
+      ],
+      "safety_considerations": "通常の食料摂取量では安全。薬用として高濃度で摂取する場合は専門家の指導が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "日本料理における調理法は極めて多様で、詳細な記録が多数存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "生食（和え物）",
+          "揚げる（天ぷら）",
+          "炒める（きんぴら）",
+          "煮る（煮物）",
+          "漬ける（酢漬け、味噌漬け）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "味噌",
+          "酢",
+          "醤油",
+          "豚肉",
+          "油揚げ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "味噌漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数週間～数ヶ月",
+        "quality_changes": "水分が抜け、食感が変化し、味噌の風味が浸透する。"
+      },
+      {
+        "method": "粕漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数週間",
+        "quality_changes": "酒粕の芳醇な香りが加わり、風味が複雑になる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やかな苦味、特有の芳香（樹脂やセロリに似る）、シャキシャキとした食感",
+      "aroma_compounds": [
+        "α-ピネン"
+      ],
+      "texture_characteristics": "生ではクリスピーで瑞々しい。加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動応答の実験データはほぼ存在しない。評価は、その生育環境（冷涼な森林下層）の特性からの生態学的推論に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "30°C以上が続くと生育不良",
+      "cold_tolerance": "-15°C（地上部は枯れるが根は越冬）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "1200mm以上"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地上部は倒れやすいが、地下茎から再生可能）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般のC3植物として、限定的な効果が期待されるが、高温や水ストレスで相殺される可能性が高い）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "低（元来、林床植物であるため）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、南方系の害虫の越冬が可能になり、新たな被害が想定される。",
+      "disease_resistance_stability": "高温多湿は根腐れや白絹病などの土壌病害を助長する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の冷温帯地域",
+        "2050_projection": "栽培適地はより高緯度・高標高へシフト。関東平野部などでの露地栽培は困難になる可能性。",
+        "2100_projection": "東北地方北部や北海道が主要な栽培適地となる可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属近縁種との交雑可能性は示唆されているが、自然交雑の実例や育種への応用に関する学術報告は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "山うど",
+        "軟白うど",
+        "緑茎うどなどの栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "タラノキ (Aralia elata)などの近縁種との交雑可能性が指摘されているが、実証データは少ない。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "地域ごとに選抜された在来系統が存在する。",
+      "wild_gene_pool": "日本各地の山野に自生する野生集団が、栽培種の遺伝的基盤となっており、多様性の宝庫である。",
+      "adaptive_genetic_variation": "標高や緯度の異なる野生集団には、地域の気候に適応した遺伝的変異が存在すると推測される。",
+      "inbreeding_depression_risk": "栄養繁殖（株分け）が多用されるため、特定の栽培品種では遺伝的多様性が低下している可能性がある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐病性や耐暑性を持つ野生種との交雑により、気候変動に強い品種を育成できる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "香気成分や食感の異なる新しい特性を持つ品種の創出。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈で本種を評価した研究はない。評価は、多年生草本としての一般的な生態学的特性からの推論に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "太く深い貯蔵根と、地表近くに広がるひげ根を持ち、土壌を団粒構造化する。",
+      "organic_matter_contribution": "毎年生育する地上部が冬に枯死し、土壌に有機物を供給する。",
+      "soil_structure_improvement": "根の伸長と枯死のサイクルが土壌の物理性を改善する。",
+      "erosion_control": "多年生のため、年間を通じて土壌を被覆し、侵食を防ぐ。",
+      "nutrient_cycling_role": "深い根が土壌深層の養分を地上部に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "夏に咲く多数の小さな花は、ハナバチ類やハエ類など多様な訪花昆虫の蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "ウコギ科植物はアーバスキュラー菌根菌と共生し、土壌微生物ネットワークに貢献する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌に孔隙を作り、雨水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて、土壌の保水性を高める。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年生のため、大規模な地下茎と根系に炭素を長期間貯留する。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "アグロフォレストリー（森林農業）システムにおいて、樹木の下層で栽培可能。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、単年生作物中心のシステムより生態系の安定に寄与する。",
+      "stress_tolerance": "一度定着すれば、ある程度の環境変動には耐える。",
+      "recovery_capacity": "地上部が損傷しても地下茎から再生する能力が高い。",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本国内での市場動向は把握できるが、国際的な可能性はまだ未知数。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "独特の風味を持つ野菜として、食の多様性に貢献する。",
+      "food_security_contribution": "アグロフォレストリーなど、持続可能な土地利用システムに組み込める作物。",
+      "local_food_system_integration": "「山菜」文化を通じて、地域の食料システムと自然環境を結びつける役割を持つ。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級日本食レストランへの輸出",
+        "ユニークな風味を活かした加工品（ピクルス、パウダー等）の開発"
+      ],
+      "value_added_products": [
+        "機能性成分を抽出した健康食品",
+        "特徴的な香りを活かした蒸留酒（ジンなど）のボタニカル"
+      ],
+      "niche_market_value": "「春の味覚」「伝統的山菜」として高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "野生集団の減少は指摘されているが、定量的な保全状況評価は不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "里山の開発や森林管理の放棄による自生地の減少。",
+    "climate_change_vulnerability": "高（栽培適地の北上・高地化が予測される）。",
+    "cultural_erosion_risk": "高（食文化の変化により、特に若年層の消費が減少傾向にある）。",
+    "conservation_actions_needed": [
+      "野生集団の遺伝的多様性モニタリング",
+      "在来品種の収集・保存（ジーンバンク）",
+      "山菜文化の継承活動"
+    ],
+    "priority_conservation_regions": [
+      "日本各地の里山地域"
+    ],
+    "ex_situ_conservation_status": "日本の農業生物資源ジーンバンク等で一部系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部の地域で自生地の保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本",
+      "朝鮮半島"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温・乾燥）に対する生理学的応答の定量的データ",
+      "野生集団の遺伝構造と局所適応の解明",
+      "リジェネラティブ農業システムにおける具体的な効果測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の農学資料に基づく情報。"
+      },
+      "variety_name": "軟化うど (Nanka Udo)",
+      "local_name": "東京うど (Tokyo Udo)",
+      "origin_region": "日本（東京）",
+      "distinctive_characteristics": "地下の室（むろ）で光を遮断して栽培。茎は白く、柔らかく、アクが少ない。香りが高い。",
+      "cultural_importance": "江戸東京野菜の一つ。都市近郊農業の象徴。",
+      "climate_adaptation": "栽培環境が人工的に制御されるため直接的な影響は少ないが、株を養成する露地栽培は気候変動の影響を受ける。",
+      "conservation_status": "栽培中"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の農学資料に基づく情報。"
+      },
+      "variety_name": "山うど (Yama Udo)",
+      "local_name": "山うど (Yama Udo)",
+      "origin_region": "日本各地",
+      "distinctive_characteristics": "野生種、またはそれに近い露地栽培品。茎は緑色または赤紫色を帯びる。香りと苦味が強く、アクも多い。",
+      "cultural_importance": "伝統的な「山菜」の原型。自然の恵みとしての価値が高い。",
+      "climate_adaptation": "自生地の環境に局所適応している可能性が高い。気候変動による自生地の縮小が懸念される。",
+      "conservation_status": "野生・栽培中"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "Japanese agricultural research databases",
+      "Ethnobotanical studies of East Asia"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "韓国・中国における詳細な利用実態と遺伝資源"
+    ],
+    "regional_data_coverage": "日本に偏っている",
+    "missing_information": [
+      "定量的な機能性成分データ",
+      "近縁種との交雑稔性"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

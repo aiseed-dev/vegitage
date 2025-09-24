@@ -1,0 +1,678 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), ethnobotanical studies, and agricultural extension literature. Wild relative data is well-established but genetic proximity details are a subject of ongoing research."
+    },
+    "primary_name": "Garlic Chives",
+    "scientific_name": "Allium tuberosum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "花茎",
+      "花",
+      "種子"
+    ],
+    "origin_region": "ヒマラヤ山脈、中国山西省地域",
+    "wild_relatives": [
+      "Allium ramosum",
+      "Allium pskemense"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are sourced from multilingual ethnobotanical databases and regional culinary glossaries."
+    },
+    "international": {
+      "en": [
+        "Garlic chives",
+        "Chinese chives",
+        "Chinese leek"
+      ],
+      "scientific_common": "Tuber onion"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "韭菜",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "ニラ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ko",
+            "name": "부추",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "hẹ",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "กุยช่าย",
+            "script": "Thai"
+          },
+          {
+            "lang": "ms",
+            "name": "kucai",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "ne",
+            "name": "दुन्दु",
+            "script": "Devanagari"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification is based on the APG IV system, as reflected in major botanical databases."
+    },
+    "family": {
+      "en": "Amaryllis family",
+      "la": "Amaryllidaceae"
+    },
+    "genus": {
+      "en": "Onion",
+      "la": "Allium"
+    },
+    "species": {
+      "en": "Garlic chives",
+      "la": "tuberosum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is based on extensive culinary history, ethnobotany, and anthropological records from East and Southeast Asia."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "餃子、炒め物、お好み焼き、スープの具材として不可欠。春の初物として生命力の象徴とされ、体を温める食材として伝統医学で重視される。",
+        "seasonal_significance": "春の最初の収穫物は特に栄養価が高いとされ、季節の変わり目の滋養強壮食として珍重される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬味"
+        ],
+        "traditional_uses": "麺料理や炒め物の香味野菜として広く利用される。特にタイのパッタイやベトナムのスープ料理で一般的。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "中華料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "韭菜盒子 (Jiucai Hezi)",
+          "韭菜炒蛋 (Jiucai Chao Dan)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "茹でる",
+          "蒸す",
+          "生のまま薬味として"
+        ],
+        "cultural_context": "家庭料理の定番食材。特に餃子の具材として、家族の団欒を象徴する料理に多用される。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "부추전 (Buchujeon)",
+          "부추김치 (Buchu-kimchi)"
+        ],
+        "preparation_methods": [
+          "焼く",
+          "漬ける",
+          "和える"
+        ],
+        "cultural_context": "チヂミ（ジョン）やキムチの材料として非常にポピュラー。滋養強壮の食材として夏バテ防止などに食される。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "餃子",
+          "レバニラ炒め",
+          "ニラ玉"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "茹でる",
+          "汁物の具"
+        ],
+        "cultural_context": "スタミナ料理の食材としてのイメージが強い。中華料理由来のメニューで広く定着している。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では詩経（紀元前11-7世紀）にも記述が見られ、2000年以上にわたる栽培・利用の歴史がある。",
+      "trade_routes": "明確な交易品ではなかったが、東アジアから東南アジアへの人の移動に伴い、栽培技術と食文化が伝播した。",
+      "cultural_exchange": "東アジア文化圏の食文化の共通性を示す指標的な野菜。",
+      "domestication_history": "野生種のAllium ramosumから選抜され、栽培化されたと考えられているが、正確な起源地は特定されていない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や乾季のある地域が適している。高温多湿では病気が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけて生育。冬は地上部が枯れるが、根株で越冬し翌春再生する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "温帯と同様。耐寒性は高いが、極端な低温は避ける。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑があれば栽培可能だが、乾燥に強いわけではない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため商業栽培には不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春、秋",
+        "harvest_season": "初夏から晩秋（年に3-4回収穫可能）",
+        "growing_period_days": 90
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "通年",
+        "harvest_season": "通年（植え付け後約60日から収穫開始）",
+        "growing_period_days": 60
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 40,000 kg/ha/年",
+      "factors_affecting_yield": [
+        "刈り取り頻度",
+        "施肥",
+        "日照",
+        "土壌水分",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（公式な国際統計データなし）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産・消費国。多様な地方品種が存在する。"
+        },
+        {
+          "country": "韓国",
+          "production_share": "不明",
+          "characteristics": "国内消費量が多く、主要な野菜の一つ。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "主に国内市場向けに生産。高知県、栃木県などが主産地。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変動に関する研究は限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "30",
+        "protein_g": "1.9",
+        "carbs_g": "4.1",
+        "fat_g": "0.5",
+        "fiber_g": "2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "177.4 µg",
+          "daily_value_percent": "148%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "4353 IU",
+          "daily_value_percent": "87%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "19.0 mg",
+          "daily_value_percent": "32%"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "105 µg",
+          "daily_value_percent": "26%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アリシンおよび硫化アリル",
+        "concentration": "不明",
+        "health_effect": "抗菌作用、抗酸化作用、血行促進"
+      },
+      {
+        "compound": "フラボノイド（ケンペロール、ケルセチン）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、免疫調節作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "体を温める",
+          "血行促進",
+          "消化促進",
+          "止血",
+          "強壮"
+        ],
+        "preparation": "生食、搾り汁、料理に加える、種子を煎じる"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化活性",
+        "抗菌活性"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "心血管保護作用",
+        "肝保護作用"
+      ],
+      "safety_considerations": "過剰摂取は消化器系の不快感を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本、食文化研究、レシピデータベースから情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒める",
+          "茹でる",
+          "蒸す",
+          "焼く",
+          "生のまま薬味に"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豚肉",
+          "卵",
+          "豆腐",
+          "レバー",
+          "シーフード"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "炒める",
+          "生のまま薬味に"
+        ],
+        "flavor_role": "香辛料/薬味",
+        "typical_combinations": [
+          "米麺",
+          "もやし",
+          "ピーナッツ",
+          "ライム"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "6-12ヶ月",
+        "quality_changes": "食感が柔らかくなるが、風味は比較的保たれる。"
+      },
+      {
+        "method": "塩漬け・キムチ",
+        "regions": [
+          "韓国"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "発酵により酸味と旨味が増す。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ニンニクとタマネギの中間のような、鮮烈で力強い風味。加熱すると甘みが増す。",
+      "aroma_compounds": [
+        "ジメチルジスルフィド",
+        "ジメチルトリスルフィド"
+      ],
+      "texture_characteristics": "シャキシャキとした食感。加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。多年草としての一般的な特性からの類推を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C以上では生育が著しく鈍化する。",
+      "cold_tolerance": "-15°C（根株での越冬）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部が倒伏しやすいが、根株から再生する回復力は高い。",
+      "hail_damage_recovery": "高い。葉が損傷しても速やかに新葉が再生する。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（多くのC3植物同様、ポジティブな効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアザミウマなどの害虫発生期間が長期化するリスクがある。",
+      "disease_resistance_stability": "高温多湿環境では、さび病や白絹病のリスクが高まる可能性がある。",
+      "beneficial_organism_relationships": "開花時に多様な訪花昆虫を引き寄せる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯および亜熱帯",
+        "2050_projection": "温帯域では栽培期間が延長。亜熱帯域では夏の高温ストレスが増加する可能性。高緯度地域への適地拡大。",
+        "2100_projection": "高緯度地域での栽培がより一般的になる可能性がある。低緯度地域では耐暑性品種の導入が必須となる。",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同属内での交雑親和性に関する情報は存在するが、自然環境下での適応事例に関する体系的な研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "葉幅の広い品種と狭い品種間など、多様な品種間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Allium ramosumと容易に交雑し、中間的な形態の雑種を形成する。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "A. tuberosumとA. ramosumの分布が重なる地域では自然交雑体が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地周辺（中国）には、葉の幅、色、香り、耐寒性などに多様性を持つ在来品種が多数存在する。",
+      "wild_gene_pool": "近縁野生種A. ramosumが持つ耐病性や環境ストレス耐性遺伝子の導入ポテンシャルがある。",
+      "adaptive_genetic_variation": "広い地域で栽培されていることから、地域ごとの気候に適応した遺伝的変異が存在すると考えられる。",
+      "inbreeding_depression_risk": "栄養繁殖も可能なためリスクは低いが、種子繁殖を繰り返す場合は問題となりうる。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "特定の機能性成分を増加させる可能性がある。",
+      "novel_characteristics": "香りの強弱や葉の食感など、新しい特性を持つ品種の創出が可能。",
+      "hybrid_vigor_potential": "高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "近縁種とは交雑障壁が低い。",
+      "chromosome_compatibility": "A. tuberosumは四倍体（2n=4x=32）であり、二倍体の近縁種との交雑では不稔性が問題になることがある。",
+      "fertility_of_hybrids": "倍数性の違いにより、雑種の稔性は変動する。",
+      "backcrossing_success": "可能。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫耐性",
+        "adaptive_traits": "特定の抗菌性化合物（硫黄化合物）の生産",
+        "heritability": "中程度",
+        "response_to_selection": "中程度"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "直接的な研究データは少ない。多年生草本としての一般的な特性や、ネギ属植物の生態的機能からの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "密なひげ根を張り、土壌の団粒構造を安定させる。",
+      "organic_matter_contribution": "収穫後の残渣や枯死した根が土壌有機物として供給される。",
+      "soil_structure_improvement": "多年生であるため、不耕起栽培が可能であり、土壌構造の破壊を防ぐ。",
+      "erosion_control": "地表を密に覆うため、風食・水食を軽減する効果がある。",
+      "nutrient_cycling_role": "硫黄化合物を土壌に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "夏から秋にかけて咲く花は、ハナアブ、ミツバチ、蝶など多くの花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "株元がタマムシやテントウムシなどの越冬場所となることがある。",
+      "soil_microorganism_interaction": "ネギ属特有の根圏微生物叢を形成する可能性があるが、詳細は不明。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "密な根系が土壌の孔隙を維持し、水の浸透を助ける。",
+      "moisture_retention": "地上部によるマルチング効果で土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "地表を覆うことで雨滴の衝撃を和らげ、表面流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。頻繁な刈り取りのため、地上部の蓄積は少ない。",
+      "below_ground_carbon": "多年生のため、根系に炭素を長期間蓄積するポテンシャルがある。",
+      "soil_carbon_enhancement": "根の代謝回転と残渣供給を通じて土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トマト、ニンジン、バラ"
+      ],
+      "natural_pest_control": "特有の強い香りがアブラムシなどの害虫を遠ざける効果（忌避効果）が報告されている。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を阻害する可能性も指摘されているが、科学的証拠は限定的。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、単年生作物中心のシステムより安定性が高い。",
+      "stress_tolerance": "一度定着すれば、ある程度の旱魃や栄養不足にも耐える。",
+      "recovery_capacity": "刈り取りや軽微なダメージからの回復力が非常に高い。",
+      "adaptability": "多様な土壌条件に適応する。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場トレンドと栄養科学の研究動向に基づく評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "独特の風味で植物性食品の味を向上させる調味料として価値が高い。",
+      "food_security_contribution": "栽培が容易で再生力が強く、家庭菜園や小規模農業に適しており、地域の食料自給に貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットなどで人気の高い品目であり、地域経済循環に貢献する。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "アジア系移民コミュニティ以外でのエスニック食材としての普及",
+        "フリーズドライやパウダーなどの加工品開発"
+      ],
+      "value_added_products": [
+        "ニラ風味のオイル",
+        "ニラ醤油",
+        "健康補助食品"
+      ],
+      "niche_market_value": "花ニラ（蕾のついた若い花茎）は、通常の葉ニラより高値で取引されるニッチな高級食材。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としてのリスクは低いが、遺伝的多様性に関する評価は限定的な情報に基づく。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種（A. ramosum）の生息地は開発や環境変化の脅威に晒されている可能性がある。",
+    "climate_change_vulnerability": "低（種としては低いが、特定の地域適応品種は脆弱な可能性がある）",
+    "cultural_erosion_risk": "低（東アジア文化圏では食文化に深く根付いている）",
+    "conservation_actions_needed": [
+      "原産地における在来品種の収集・評価・保存",
+      "野生近縁種の生息域内・域外保全"
+    ],
+    "priority_conservation_regions": [
+      "中国（特に雲南省、四川省、山西省）",
+      "中央アジアの山岳地帯"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（World Vegetable Centerなど）には多数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "限定的。主に研究機関や一部の農家によって在来種が維持されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた総合的な知見に基づく専門家評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中国の多様性中心地",
+      "東南アジアでの利用と適応様式"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2濃度、異常気象）に対する品種レベルでの応答の定量的データ",
+      "リジェネラティブ農業における土壌微生物叢への具体的な影響",
+      "在来品種の機能性成分のプロファイリング"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に各国の種苗会社のカタログや農業指導資料に基づく。"
+      },
+      "variety_name": "グリーンロード",
+      "local_name": "グリーンロード",
+      "origin_region": "日本",
+      "distinctive_characteristics": "葉幅が広く肉厚。香りが強く、耐暑性・耐寒性に優れる。",
+      "cultural_importance": "日本で広く栽培される代表的な商業品種。",
+      "climate_adaptation": "日本の気候によく適応している。",
+      "conservation_status": "広く流通"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "在来品種に関する体系的な英語文献は少ない。"
+      },
+      "variety_name": "花ニラ",
+      "local_name": "韭菜花 (Jiucai Hua)",
+      "origin_region": "中国",
+      "distinctive_characteristics": "葉よりも、柔らかい蕾のついた花茎を食用にするために選抜された品種群。",
+      "cultural_importance": "中華料理では高級食材として炒め物などに利用される。",
+      "climate_adaptation": "不明",
+      "conservation_status": "地域的に栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN-Global",
+      "Plants of the World Online (Kew)",
+      "World Vegetable Center",
+      "Ethnobotanical literature",
+      "FAOSTAT"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界全体の正確な生産統計"
+    ],
+    "regional_data_coverage": "東アジアに関する情報は豊富だが、その他の地域は限定的。",
+    "missing_information": [
+      "アフリカ、ラテンアメリカでの利用状況",
+      "先住民コミュニティによる利用"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

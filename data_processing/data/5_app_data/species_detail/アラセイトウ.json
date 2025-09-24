@@ -1,0 +1,538 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ストック（Matthiola incana）は園芸植物としての情報が豊富ですが、伝統野菜としての食利用に関する学術的記録は極めて限定的です。本データは主に園芸学、植物学、および断片的な民族植物学の記録に基づいています。"
+    },
+    "primary_name": "Stock",
+    "scientific_name": "Matthiola incana",
+    "plant_type": "一年草/二年草/短命な多年草",
+    "edible_parts": [
+      "花",
+      "葉",
+      "種子"
+    ],
+    "origin_region": "南ヨーロッパ、地中海沿岸地域",
+    "wild_relatives": [
+      "Matthiola sinuata",
+      "Matthiola tricuspidata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "園芸植物として世界的に普及しているため、各言語での名称は豊富に存在します。しかし、食料としての名称は稀です。"
+    },
+    "international": {
+      "en": [
+        "Stock",
+        "Gillyflower",
+        "Ten-week stock"
+      ],
+      "scientific_common": "Hoary Stock"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Giroflée des jardins",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Garten-Levkoje",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Violacciocca",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Alhelí",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "アラセイトウ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "紫罗兰",
+            "script": "Han"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な植物分類です。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Stock",
+      "la": "Matthiola"
+    },
+    "species": {
+      "en": "Hoary Stock",
+      "la": "incana"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "文化的価値は主に観賞用、象徴的な意味合いに限られ、食文化における重要性は極めて低いです。食利用の伝統はほぼ失われているか、元々限定的であった可能性が高いです。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "主に観賞用の切り花、花壇用植物として栽培。ヴィクトリア朝時代には「花言葉」で愛情や誠実さを象徴する花として重要視された。香料としても利用の歴史がある。",
+        "seasonal_significance": "春の訪れを告げる花として象徴的。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ヨーロッパの歴史的料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "Candied flowers",
+          "Salad garnish"
+        ],
+        "preparation_methods": [
+          "糖漬け",
+          "生食"
+        ],
+        "cultural_context": "中世から近世にかけて、花の糖漬けがデザートとして存在したが、現代ではほとんど見られない。現在は主に高級料理の装飾（エディブルフラワー）として利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャのテオプラストスによって記述されている。ローマ時代から栽培されていた記録がある。",
+      "trade_routes": "園芸植物としてヨーロッパ全域、その後世界中に伝播した。",
+      "cultural_exchange": "主に園芸文化の交流を通じて伝播。日本の華道でも利用されることがある。",
+      "domestication_history": "地中海沿岸の野生種から、主に花の形、色、香りを改良する方向で長年にわたり選抜育種されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に極めて弱く、栽培は困難。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の冷涼な気候を利用して栽培が可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から初夏にかけての冷涼な気候が最適。夏の高温期は生育が衰える。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の寒暖差がある地域での春作に適するが、極端な暑さや寒さには弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥にはある程度耐えるが、高品質な生産には安定した水分供給が必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温により生育が阻害される。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "初夏または春",
+        "growing_period_days": "90-120"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋",
+        "harvest_season": "冬から春",
+        "growing_period_days": "100-130"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日長",
+        "低温感応（春化）",
+        "土壌水はけ",
+        "菌核病などの病害"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "オランダ",
+          "production_share": "不明",
+          "characteristics": "切り花の世界的な生産・流通拠点。高度な施設園芸が中心。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "主に切り花として国内市場向けに生産。千葉県、和歌山県などが主産地。"
+        },
+        {
+          "country": "イタリア",
+          "production_share": "不明",
+          "characteristics": "地中海性気候を活かした露地栽培および施設栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食料としての利用が稀なため、栄養価に関する信頼性の高い科学的データはほぼ存在しない。以下の情報はアブラナ科の一般的な特徴からの類推を含む。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Glucosinolates",
+        "concentration": "不明",
+        "health_effect": "アブラナ科に共通する抗がん作用の可能性が示唆されるが、本種での研究はない。"
+      },
+      {
+        "compound": "Anthocyanins",
+        "concentration": "不明（紫や赤色の花弁に豊富）",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統的ハーバリズム",
+        "uses": [
+          "利尿作用",
+          "強壮作用"
+        ],
+        "preparation": "種子や花の浸出液。ただし、これらの利用は歴史的なものであり、現代では行われていない。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "花の香り成分（精油）に関する研究が中心。"
+      ],
+      "safety_considerations": "アブラナ科植物に含まれる成分にアレルギーを持つ場合は注意が必要。食用の安全性に関するデータは不十分。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食文化における役割は非常に限定的で、現代では「エディブルフラワー」としての利用が主である。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界（現代料理）",
+        "methods": [
+          "生食"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "サラダ",
+          "デザート",
+          "カクテル"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "糖漬け",
+        "regions": [
+          "ヨーロッパ（歴史的）"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "香りは保持されるが、食感は大きく変化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘く、ややスパイシー。クローブに似た香りを持つ品種がある。",
+      "aroma_compounds": [
+        "Eugenol",
+        "Benzyl acetate",
+        "Linalool"
+      ],
+      "texture_characteristics": "花弁は柔らかく繊細。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "園芸栽培における経験的知見が主であり、気候変動への応答に関する定量的な研究は不足している。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30°C以上で生育が著しく阻害される。",
+      "cold_tolerance": "-5°C程度まで耐えるが、霜害を受けやすい。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "不明"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が折れやすいため、強風に弱い。",
+      "hail_damage_recovery": "低い。",
+      "rapid_temperature_change": "感受性が高い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやコナガなどの害虫発生期間が長期化し、被害が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境では、菌核病や立枯病のリスクが増大する。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯および亜熱帯の冷涼期",
+        "2050_projection": "栽培適地はより高緯度・高標高地域へ移動するか、栽培時期がさらに限定的になる可能性が高い。",
+        "2100_projection": "現在の主産地での露地栽培は困難になる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸品種の育種において交雑が利用されてきた歴史があるが、自然環境下での適応に関する研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "園芸品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Matthiola sinuataなど一部の近縁種との交雑が可能。"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "野生集団内での自然交雑は考えられるが、詳細な記録は少ない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "園芸品種の多様性は非常に高い（花色、草丈、八重咲き性など）。",
+      "wild_gene_pool": "地中海沿岸の野生集団が耐乾性や耐塩性などの有用な遺伝子源となる可能性がある。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "育種過程での近交弱勢のリスクは存在する。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "食料としての重要性が低いため、研究されていない。",
+      "novel_characteristics": "新しい花色や香りの創出が育種の主目的。",
+      "hybrid_vigor_potential": "品種間交雑で雑種強勢が見られることがある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "近縁種間では比較的高い。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下する場合がある。",
+      "backcrossing_success": "育種において一般的に用いられる。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "園芸植物であるため、リジェネラティブ農業の文脈での研究や実践例はほとんどない。以下はアブラナ科の一般的特性と花の機能からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根と側根からなるが、土壌改良効果は限定的。",
+      "organic_matter_contribution": "バイオマスが小さいため、貢献度は低い。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "限定的。",
+      "nutrient_cycling_role": "アブラナ科植物として、硫黄化合物の循環に関与する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "香りが強く蜜も提供するため、ミツバチ、チョウ、ガなど多様な訪花昆虫を引き寄せる。これは顕著な貢献である。",
+      "beneficial_insect_habitat": "アブラナ科を好む害虫の天敵（寄生蜂など）の生息地となる可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "高い"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "限定的",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "強い香りが一部の害虫を忌避する効果がある可能性が示唆されるが、科学的根拠は弱い。"
+      ],
+      "natural_pest_control": "天敵昆虫を誘引するバンカープランツとしての利用可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "花粉媒介者を支援することで、周辺作物の受粉を助け、生態系全体の安定性に貢献する可能性がある。",
+      "stress_tolerance": "植物個体としてのストレス耐性は低い。",
+      "recovery_capacity": "低い",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 4
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な応用は、主に園芸産業とニッチな食市場に限られる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "エディブルフラワーとして彩りや風味を加える価値はあるが、栄養源としての貢献は無視できるレベル。",
+      "food_security_contribution": "ない。",
+      "local_food_system_integration": "地元のレストランなどへエディブルフラワーを供給する小規模な地域内流通には適している。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エディブルフラワー市場の成長",
+        "自然由来の香料・精油市場"
+      ],
+      "value_added_products": [
+        "精油（アロマセラピー用）",
+        "ドライフラワー"
+      ],
+      "niche_market_value": "エディブルフラワーとして高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸品種は安泰だが、原産地の野生集団の保全状況に関する情報は限られている。"
+    },
+    "genetic_erosion_risk": "中（野生集団）",
+    "habitat_loss_threat": "地中海沿岸の開発や気候変動による自生地の縮小が懸念される。",
+    "climate_change_vulnerability": "高い",
+    "cultural_erosion_risk": "高（食利用の伝統に関して）",
+    "conservation_actions_needed": [
+      "野生集団の遺伝的多様性評価とモニタリング",
+      "野生近縁種の遺伝子資源の収集と保存（ジーンバンク）"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸地域"
+    ],
+    "ex_situ_conservation_status": "多くの園芸品種が種子バンクや植物園で保存されているが、野生系統の網羅性は不明。",
+    "in_situ_conservation_efforts": "不明"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "南ヨーロッパ（野生種の生態と遺伝的多様性）",
+      "オランダ、日本（高度な育種技術と気候変動への対応策）"
+    ],
+    "knowledge_gaps": [
+      "食料としての歴史的利用に関する実証的研究",
+      "栄養成分と機能性に関する科学的データ",
+      "気候変動要因（高温、乾燥、CO2濃度）に対する生理学的応答の定量的データ"
+    ],
+    "global_dictionary_compatibility": 5
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種は数百存在するが、代表的なシリーズを記載。"
+      },
+      "variety_name": "'Column' series",
+      "local_name": "コラム系",
+      "origin_region": "不明（商業育種）",
+      "distinctive_characteristics": "一本立ちで分枝が少なく、切り花生産に特化した品種群。花穂が長くボリュームがある。",
+      "cultural_importance": "世界の切り花市場で最も重要な系統の一つ。",
+      "climate_adaptation": "特定の作型に特化しており、環境適応性は広くない。",
+      "conservation_status": "商業的に広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Horticultural databases (e.g., RHS, Missouri Botanical Garden)",
+      "Ethnobotanical literature reviews",
+      "Scientific papers on Brassicaceae genetics and floral scents"
+    ],
+    "major_knowledge_gaps": [
+      "伝統野菜としての利用実態と歴史",
+      "定量的栄養価と機能性",
+      "気候変動ストレスに対する品種レベルでの応答",
+      "リジェネラティブ農業システムへの貢献度"
+    ],
+    "regional_data_coverage": "ヨーロッパ中心。他の地域、特に食利用に関する情報は非常に少ない。",
+    "missing_information": [
+      "生産統計データ",
+      "野生集団の保全状況に関する詳細データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 6
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（KEW, GBIF）および日本の農学研究資料から統合。野生近縁種に関する系統発生学的な詳細データは限定的。"
+    },
+    "primary_name": "Okahijiki",
+    "scientific_name": "Salsola komarovii",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "東アジアの沿岸部（日本、中国、朝鮮半島、ロシア極東）",
+    "wild_relatives": [
+      "Salsola soda",
+      "Salsola tragus",
+      "多数のSalsola属野生種"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物名データベースおよび民族植物学の記録から収集。"
+    },
+    "international": {
+      "en": [
+        "Okahijiki",
+        "Land Seaweed",
+        "Saltwort"
+      ],
+      "scientific_common": "Komarov's Saltwort"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "おかひじき",
+            "script": "Hiragana/Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "海滨碱蓬",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "나문재",
+            "script": "Hangul"
+          },
+          {
+            "lang": "ru",
+            "name": "Солянка Комарова",
+            "script": "Cyrillic"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースから情報を取得。"
+    },
+    "family": {
+      "en": "Amaranth family",
+      "la": "Amaranthaceae"
+    },
+    "genus": {
+      "en": "Saltwort",
+      "la": "Salsola"
+    },
+    "species": {
+      "en": "Komarov's Saltwort",
+      "la": "Salsola komarovii"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本における文化的価値に関する情報は豊富だが、中国や韓国での伝統的利用に関する体系的な情報は少ない。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "季節の食材",
+          "経済作物"
+        ],
+        "traditional_uses": "日本では山形県などで伝統野菜として栽培され、春から夏の季節の味として親しまれる。おひたしや和え物、汁物の具として利用。他の東アジア地域では主に沿岸部で自生するものを採集して利用する傾向がある。",
+        "seasonal_significance": "春から初夏にかけての若芽を収穫する季節性の高い野菜。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理 (特に山形県の郷土料理)",
+        "role": "essential",
+        "traditional_dishes": [
+          "おひたし (Ohitashi)",
+          "からし和え (Karashi-ae)",
+          "味噌汁の具"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "和える",
+          "炒める",
+          "揚げる"
+        ],
+        "cultural_context": "シャキシャキとした独特の食感が特徴で、海の近くでなくても海藻のような風味と食感を楽しめることから「陸のひじき」と呼ばれる。季節の到来を告げる食材として重要。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本では江戸時代以前から食用にされていた記録がある。",
+      "trade_routes": "不明",
+      "cultural_exchange": "不明",
+      "domestication_history": "日本では特に山形県で在来種が選抜・栽培され、栽培化が進んだ。他の地域では野生種の利用が主であったと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季または乾季に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から夏にかけての栽培が最適。日当たりと水はけの良い砂質土壌を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の短い地域でも栽培可能。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "耐乾性と耐塩性が高く、乾燥地や塩類土壌での栽培に適性がある。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間には不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "4月～6月",
+        "harvest_season": "6月～9月",
+        "growing_period_days": "50-70"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌の水はけ",
+        "収穫頻度（若芽を摘むと側枝が伸びる）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "山形県が最大の生産地であり、伝統野菜としてブランド化されている。小規模農家による生産が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本の食品成分データベースに基本的な栄養価は存在するが、機能性成分に関する詳細な研究は少ない。伝統的薬用利用は近縁種からの類推を含む。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "16",
+        "protein_g": "1.3",
+        "carbs_g": "3.3",
+        "fat_g": "0.2",
+        "fiber_g": "2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "3300 µg/100g",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "250 µg/100g",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "660 mg/100g",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "150 mg/100g",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ベタシアニン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用（アカザ科の植物に一般的に含まれる）"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用の可能性（Salsola属の近縁種で報告）"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "耐塩性メカニズムの解明",
+        "塩類土壌における農業利用"
+      ],
+      "safety_considerations": "シュウ酸を含むため、生食は避け、茹でてアク抜きをすることが推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本料理での利用法は確立されているが、他の文化圏での体系的な調理法に関する情報は限定的。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる（ブランチング）",
+          "和える",
+          "炒める",
+          "スープの具",
+          "天ぷら"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "ごま",
+          "酢",
+          "魚介類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩蔵",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感はやや失われるが、保存性が向上する。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "ブランチング後に冷凍することで、色と食感をある程度保つことができる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "かすかな塩味、穏やかな青臭さ、うま味",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "シャキシャキとした歯ごたえ、多肉質"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な実験データは非常に少ない。評価は、本種が沿岸性の好塩植物であるという生態学的特性に基づく専門的な推定が主である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "5°C"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高いと推定（好塩植物の一般的特性）",
+      "flood_tolerance": "低（淡水の場合）/ 中（海水の場合）",
+      "optimal_rainfall": "400-800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（草丈が低いため風には比較的強い）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として一般的な反応が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明（比較的強健だが、温暖化による新規害虫への脆弱性は未知数）",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯沿岸部",
+        "2050_projection": "海面上昇や灌漑による土壌塩類化が進行する世界中の温帯・亜熱帯沿岸農業地帯",
+        "2100_projection": "塩類化の影響がさらに深刻化する内陸の乾燥・半乾燥農業地帯にも適応の可能性",
+        "confidence_level": "中（推定）"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Salsola属内での交雑は知られているが、S. komaroviiに特化した自然交雑の研究はほとんどない。評価は属の特性からの類推に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "日本の地域在来種間での交雑は可能と推定される"
+      ],
+      "interspecific_compatibility": [
+        "東アジアに分布する他の近縁なSalsola属野生種との交雑の可能性がある"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中（日本の山形県などに地域適応した在来種が存在）",
+      "wild_gene_pool": "東アジア沿岸に広く分布する野生集団が多様な遺伝子プールを形成していると考えられる。",
+      "adaptive_genetic_variation": "高い（耐塩性、耐乾性に関する遺伝的多様性が豊富であると推定）",
+      "inbreeding_depression_risk": "低（野生集団が広いため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "東アジア沿岸部",
+        "environmental_pressure": "土壌塩分濃度、砂地、潮風",
+        "adaptive_response": "多肉化、塩分排出能力、低い草丈",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域生態型（エコタイプ）の分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、さらに高い耐塩性や耐乾性を獲得する可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "生育速度、葉の形状、風味などの形質が変化する可能性がある。",
+      "hybrid_vigor_potential": "高い可能性がある"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "土壌塩類化",
+        "adaptive_traits": "イオン輸送体遺伝子、浸透圧調節物質の生産",
+        "heritability": "不明",
+        "response_to_selection": "高いと推定"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業への適性に関する直接的な研究はない。評価は、好塩植物としての生態学的機能からの専門的な推定である。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる繊維状の根系と推定され、砂地の表土安定に寄与する。",
+      "organic_matter_contribution": "中（一年草として地上部バイオマスを土壌に還元）",
+      "soil_structure_improvement": "砂質土壌の団粒化を限定的に促進する可能性がある。",
+      "erosion_control": "地表を被覆し、沿岸部の砂の飛散や土壌侵食を抑制する。",
+      "nutrient_cycling_role": "塩類土壌から特定のミネラルを吸収・濃縮する（ファイトレメディエーションの可能性）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "不明（花は小さく、風媒または小型の昆虫媒と推定）",
+      "beneficial_insect_habitat": "沿岸生態系において、特定の昆虫の食草や生息地となる可能性がある。",
+      "soil_microorganism_interaction": "耐塩性微生物との共生関係を持つ可能性がある。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "砂質土壌での浸透を助ける。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い（一年草のため）",
+      "soil_carbon_enhancement": "有機物残渣を通じて土壌炭素の増加に寄与する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "他の耐塩性作物との混植（例：アイスプラント、アトリプレックス）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "塩類化した農地を緑化し、生産性を回復させることで、農業生態系の安定に貢献する。",
+      "stress_tolerance": "非常に高い（特に塩ストレス）",
+      "recovery_capacity": "高い（一年草であり、種子による繁殖が早い）",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "グルメやニッチ市場での関心は高まっているが、大規模な商業利用はまだ限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ミネラル豊富な緑黄色野菜としての価値が高い。",
+      "food_security_contribution": "気候変動による塩害で不毛化した土地を活用できるため、将来の食料安全保障に貢献する可能性がある。",
+      "local_food_system_integration": "伝統野菜として地域の食文化と経済を支えるモデルとなる。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級レストラン向けの食材",
+        "健康志向消費者向けの機能性野菜",
+        "塩類土壌での栽培に適した「クライメート・スマート作物」としての国際展開"
+      ],
+      "value_added_products": [
+        "パウダー",
+        "塩漬け",
+        "冷凍食品"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "野生集団の現状に関するデータは不足しているが、栽培品種の遺伝的多様性については保全の必要性が指摘されている。"
+    },
+    "genetic_erosion_risk": "中（特に日本の在来栽培品種）",
+    "habitat_loss_threat": "高い（沿岸開発、護岸工事、海面上昇による自生地の消失）",
+    "climate_change_vulnerability": "中（海面上昇による自生地消失のリスクはあるが、塩類化地域への適応力も高い）",
+    "cultural_erosion_risk": "中（伝統的な食文化を知る世代の高齢化）",
+    "conservation_actions_needed": [
+      "在来種の種子バンクでの保存（域外保全）",
+      "伝統的栽培農家への支援と栽培地の維持（域内保全）",
+      "野生集団の分布調査と遺伝的多様性の評価"
+    ],
+    "priority_conservation_regions": [
+      "日本（山形県）",
+      "中国、朝鮮半島の沿岸生態系"
+    ],
+    "ex_situ_conservation_status": "不明（一部のジーンバンクで保存されている可能性あり）",
+    "in_situ_conservation_efforts": "限定的（山形県での伝統野菜としての保護活動など）"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査結果に基づく総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "東アジアの沿岸生態系",
+      "世界の土壌塩類化が進む農業地帯"
+    ],
+    "knowledge_gaps": [
+      "耐塩性・耐乾性の生理学的・遺伝学的メカニズム",
+      "野生集団の遺伝的多様性",
+      "リジェネラティブ農業システムにおける定量的効果",
+      "気候変動シナリオ下での生産性変化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種として固定されたものではなく、地域で受け継がれる在来種についての情報。"
+      },
+      "variety_name": "山形県在来種",
+      "local_name": "おかひじき",
+      "origin_region": "日本、山形県",
+      "distinctive_characteristics": "柔らかく、風味が良いとされる。茎が鮮やかな緑色で、収量性が高い系統が選抜されている。",
+      "cultural_importance": "山形県の伝統野菜として認定されており、地域の食文化に不可欠な存在。",
+      "climate_adaptation": "日本の温帯気候、特に水はけの良い砂質土壌に高度に地域適応している。",
+      "conservation_status": "地域団体により保全活動が行われているが、生産者の高齢化が課題。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "GBIF (Global Biodiversity Information Facility)",
+      "日本の農研機構（NARO）データベース",
+      "民族植物学関連論文"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生集団の遺伝構造と多様性",
+      "機能性成分の同定と定量"
+    ],
+    "regional_data_coverage": "日本に偏っており、他の東アジア地域に関する情報は限定的",
+    "missing_information": [
+      "世界的な生産統計",
+      "病害虫に関する詳細情報",
+      "交雑和合性に関する実験データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

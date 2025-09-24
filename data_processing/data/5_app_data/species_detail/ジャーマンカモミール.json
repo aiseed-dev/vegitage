@@ -1,0 +1,656 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is consolidated from major botanical, ethnobotanical, and agricultural databases. Data on specific wild relatives' genetic proximity is partial."
+    },
+    "primary_name": "German Chamomile",
+    "scientific_name": "Matricaria recutita",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "花"
+    ],
+    "origin_region": "南ヨーロッパ、東ヨーロッパ、西アジア",
+    "wild_relatives": [
+      "Matricaria discoidea",
+      "Tripleurospermum inodorum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are well-documented across multiple languages due to its global distribution as a medicinal herb."
+    },
+    "international": {
+      "en": [
+        "German Chamomile",
+        "Wild Chamomile",
+        "Hungarian Chamomile",
+        "Scented Mayweed"
+      ],
+      "scientific_common": "Matricaria"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Echte Kamille",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Camomille allemande",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Manzanilla",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Camomilla comune",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Ромашка аптечная",
+            "script": "Cyrillic"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "بابونج",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "بابونه آلمانی",
+            "script": "Arabic"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "बबुना",
+            "script": "Devanagari"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is stable and widely accepted."
+    },
+    "family": {
+      "en": "Aster",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Mayweed",
+      "la": "Matricaria"
+    },
+    "species": {
+      "en": "German Chamomile",
+      "la": "recutita"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Historical and cultural use is extensively documented in European and Middle Eastern herbal traditions."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "鎮静、抗炎症、消化促進のためのハーブティーとして広く利用。スキンケア製品にも使用される。特にドイツではコミッションEでその薬効が承認されている。",
+        "seasonal_significance": "夏の収穫期に新鮮な花が利用される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東・北アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "古代エジプト時代から薬草として知られ、熱病や不眠の治療に用いられた。現在でもリラックス効果を目的としたお茶として広く飲用されている。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "ヨーロッパからの移民によって持ち込まれ、ハーブ療法の一部として定着。商業的な栽培も行われている。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "国際的なハーブティー文化",
+        "role": "essential",
+        "traditional_dishes": [
+          "カモミールティー"
+        ],
+        "preparation_methods": [
+          "注入（Infusion）"
+        ],
+        "cultural_context": "就寝前やリラックスしたい時に飲まれる世界で最も人気のあるハーブティーの一つ。消化不良や風邪の初期症状にも用いられる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト、ギリシャ、ローマで薬用として利用された記録がある。ヒポクラテスやディオスコリデスもその効能を記述している。",
+      "trade_routes": "近代以前は主に地域内で利用されたが、近代以降、乾燥ハーブとして世界的な交易商品となった。",
+      "cultural_exchange": "ヨーロッパの植民活動と共に世界中に伝播し、各地の伝統医学に取り入れられた。",
+      "domestication_history": "古くから利用されてきたが、精油含有量などを高めるための本格的な品種改良は20世紀に入ってから行われた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しい乾季に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりが良く、水はけの良い土壌。冷涼な気候を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さが厳しくない地域で栽培可能。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑があれば栽培可能。乾燥には比較的強い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "初夏から夏",
+        "growing_period_days": "60-90"
+      }
+    ],
+    "productivity": {
+      "yield_range": "300-700 kg/ha (乾燥花)",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌の水はけ",
+        "収穫タイミングと頻度",
+        "雑草管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "エジプト",
+          "production_share": "不明",
+          "characteristics": "世界最大級の輸出国。ナイル川デルタ地帯での大規模生産。"
+        },
+        {
+          "country": "アルゼンチン",
+          "production_share": "不明",
+          "characteristics": "南米における主要生産国。機械化された大規模栽培。"
+        },
+        {
+          "country": "ハンガリー",
+          "production_share": "不明",
+          "characteristics": "ヨーロッパの伝統的な生産国。高品質な精油で知られる。"
+        },
+        {
+          "country": "ドイツ",
+          "production_share": "不明",
+          "characteristics": "品種改良と栽培技術の研究が進んでいる。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性成分に関する研究は豊富だが、食品としての栄養価データは限定的。主にハーブティーとして飲用されるため、マクロ栄養素の寄与はほぼない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "0-1 (infusion)",
+        "protein_g": "0",
+        "carbs_g": "0",
+        "fat_g": "0",
+        "fiber_g": "0"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アピゲニン",
+        "concentration": "可変",
+        "health_effect": "鎮静作用、抗不安作用、抗炎症作用"
+      },
+      {
+        "compound": "カマズレン",
+        "concentration": "精油中に含まれる",
+        "health_effect": "強力な抗炎症作用"
+      },
+      {
+        "compound": "α-ビサボロール",
+        "concentration": "精油中に含まれる",
+        "health_effect": "抗炎症作用、抗刺激作用、治癒促進作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "西洋ハーブ医学",
+        "uses": [
+          "不眠症",
+          "不安",
+          "消化不良",
+          "胃痙攣",
+          "皮膚の炎症"
+        ],
+        "preparation": "乾燥花を熱湯で抽出したハーブティー。外用にはチンキや湿布。"
+      },
+      {
+        "region": "中東",
+        "medical_system": "伝統医学",
+        "uses": [
+          "鎮静",
+          "解熱",
+          "消化促進"
+        ],
+        "preparation": "ハーブティーとして飲用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "軽度の不安軽減効果",
+        "睡眠の質の改善",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用の可能性",
+        "血糖コントロールへの影響"
+      ],
+      "safety_considerations": "キク科アレルギー（ブタクサ等）を持つ人はアレルギー反応を起こす可能性がある。妊娠中の大量摂取は避けるべきとされることがある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主に飲料としての利用が中心だが、現代料理での応用も増えている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "全世界",
+        "methods": [
+          "注入（Infusion）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "はちみつ",
+          "レモン",
+          "ミント",
+          "ラベンダー"
+        ]
+      },
+      {
+        "region": "ヨーロッパ、北米",
+        "methods": [
+          "シロップ",
+          "リキュール",
+          "クリームやカスタードへの風味付け"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "リンゴ",
+          "洋梨",
+          "乳製品",
+          "バニラ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "時間と共に香りと有効成分が減少する。"
+      },
+      {
+        "method": "水蒸気蒸留",
+        "regions": [
+          "主要生産国"
+        ],
+        "shelf_life": "数年（精油）",
+        "quality_changes": "高品質の精油（ジャーマンカモミール・ブルー）が得られる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘く、フルーティー（リンゴのようと表現される）、わずかに草の風味と苦味",
+      "aroma_compounds": [
+        "α-ビサボロール",
+        "カマズレン",
+        "ファルネセン"
+      ],
+      "texture_characteristics": "飲料として利用されるため、食感は液体。花自体は柔らかい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な気候変動応答データは乏しい。栽培特性や分布域から定性的に推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C以上が続くと生育不良",
+      "cold_tolerance": "-5°C程度（幼苗期）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "400-600mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低（草丈が低いため倒伏は少ないが、花が傷つきやすい）",
+      "hail_damage_recovery": "中（一年草のため、回復期間は限られる）",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として、光合成促進の可能性はあるが、精油成分への影響は不明）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシなどの発生期間が長期化する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境ではうどんこ病や灰色かび病のリスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域",
+        "2050_projection": "栽培適地が高緯度・高標高地域へわずかに移動する可能性",
+        "2100_projection": "現在の主要生産地の一部で高温ストレスによる収量低下のリスク",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属・近縁種との自然交雑に関する学術的報告は限定的。遺伝的多様性に関する情報からポテンシャルを推定。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の栽培品種やランドレースが存在し、容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Matricaria discoideaとの交雑可能性が示唆されるが、詳細は不明。"
+      ],
+      "intergeneric_possibility": [
+        "Tripleurospermum属との交雑の可能性は低いとされる。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は少ない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパ、中東、アジアに多様なランドレースが存在する。",
+      "wild_gene_pool": "原産地には野生集団が広く分布し、遺伝子プールは豊富。",
+      "adaptive_genetic_variation": "広範な分布域は、多様な環境への適応的遺伝変異が存在することを示唆する。",
+      "inbreeding_depression_risk": "他家受粉性であり、通常はリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "全世界",
+        "environmental_pressure": "多様な土壌、気候条件",
+        "adaptive_response": "世界中の温帯地域に逸出し、雑草として定着する高い適応力を持つ。",
+        "time_scale": "数百年",
+        "mechanism": "高い繁殖力と遺伝的多様性"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生集団や乾燥地帯のランドレースとの交雑により、耐乾性・耐暑性を向上させる可能性がある。",
+      "improved_nutritional_content": "精油成分（カマズレン、ビサボロール等）の含有量や組成を改良する可能性がある。",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、土壌養分",
+        "adaptive_traits": "根系の発達、開花タイミング",
+        "heritability": "不明",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "コンパニオンプランツとしての定性的な評価は多いが、土壌改良や炭素固定に関する定量的な研究は少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "細かく広がる浅いひげ根。",
+      "organic_matter_contribution": "一年草であり、収穫後の残渣が有機物として土壌に還元される。",
+      "soil_structure_improvement": "表土の団粒構造を維持し、土壌侵食を軽減する可能性がある。",
+      "erosion_control": "地被植物として利用した場合、軽度の侵食防止効果が期待できる。",
+      "nutrient_cycling_role": "いくつかの伝統農法では、カルシウムやカリウムを土壌表層に集積させる「ダイナミックアキュムレーター」として考えられているが、科学的証拠は限定的。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "ハナアブ、ヒラタアブ、ミツバチなど多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "捕食寄生蜂やテントウムシなどの天敵昆虫の蜜源・生息地となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "農業生態系内の生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が表土を覆うことで、水の浸透を助ける可能性がある。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "軽度",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い（一年草のため蓄積は限定的）",
+      "soil_carbon_enhancement": "間接的（有機物供給と土壌生物多様性の向上を通じて）",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "キャベツ、ブロッコリー（アブラナ科）",
+        "タマネギ",
+        "キュウリ"
+      ],
+      "natural_pest_control": "アブラムシの天敵を引き寄せることで、害虫圧を軽減する。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "「植物のお医者さん」と呼ばれ、周辺植物の健康を促進すると言われるが、メカニズムは未解明。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な益虫を誘引し、生態系のバランスを保つことで安定性に寄与する。",
+      "stress_tolerance": "比較的乾燥に強く、痩せ地でも生育可能。",
+      "recovery_capacity": "こぼれ種で容易に繁殖し、生態系の攪乱からの回復が早い。",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場は成熟しているが、新たな応用分野も開拓されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "主に機能性飲料としての価値が高い。",
+      "food_security_contribution": "直接的な食料ではないが、小規模農家の現金収入源となり、食料安全保障に間接的に貢献する。",
+      "local_food_system_integration": "ハーブガーデンや小規模農園で容易に栽培でき、地域内での消費に適している。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルメ食品（デザート、飲料）への風味付け",
+        "自然派化粧品・スキンケア製品",
+        "機能性表示食品"
+      ],
+      "value_added_products": [
+        "オーガニック・カモミールティー",
+        "CO2超臨界抽出による高純度エキス",
+        "カモミール配合のプロバイオティクス製品"
+      ],
+      "niche_market_value": "高品質な単一産地・単一品種のカモミール製品に高い価値がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としては安泰だが、遺伝的多様性、特に原産地のランドレースの保全状況は十分に監視されていない。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地における自生地の農地化や開発による脅威がある。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "低（利用文化は広く根付いている）",
+    "conservation_actions_needed": [
+      "原産地における野生集団およびランドレースの系統的な収集と評価",
+      "遺伝資源のジーンバンクでの長期保存（ex-situ）",
+      "伝統的栽培システムの維持を通じた域内保全（in-situ）"
+    ],
+    "priority_conservation_regions": [
+      "東ヨーロッパ",
+      "バルカン半島",
+      "西アジア"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数のアクセスが保存されている。",
+    "in_situ_conservation_efforts": "限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "エジプト",
+      "ハンガリー",
+      "アルゼンチン"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2濃度、高温）が二次代謝産物（精油成分）に与える影響の定量的評価",
+      "リジェネラティブ農業における土壌改良効果の科学的検証",
+      "野生近縁種との遺伝的関係と交雑による育種ポテンシャルの評価"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "商業栽培品種に関する情報は存在するが、詳細な特性データは限られる。"
+      },
+      "variety_name": "Bodegold",
+      "local_name": "Bodegold",
+      "origin_region": "ドイツ",
+      "distinctive_characteristics": "高収量で、精油含有量、特に抗炎症作用のあるα-ビサボロールの含有率が高い。花が大きい。",
+      "cultural_importance": "現代の商業栽培における代表的な改良品種。",
+      "climate_adaptation": "温帯気候に最適化されている。",
+      "conservation_status": "商業的に利用可能"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "商業栽培品種に関する情報は存在するが、詳細な特性データは限られる。"
+      },
+      "variety_name": "Zloty Lan",
+      "local_name": "Złoty Łan",
+      "origin_region": "ポーランド",
+      "distinctive_characteristics": "四倍体品種。花が大きく、精油含有量が高い。機械収穫に適している。",
+      "cultural_importance": "東ヨーロッパでの大規模生産に貢献している品種。",
+      "climate_adaptation": "大陸性気候に適応している。",
+      "conservation_status": "商業的に利用可能"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      "Plants for a Future (PFAF)",
+      "PubMed",
+      "FAOSTAT (for general production context)",
+      "Ethnobotanical literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生種の遺伝資源としての具体的な評価"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に関する情報が豊富で、他の地域は比較的少ない。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "先住民による伝統的な利用法（主に移入種として利用されているため）"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

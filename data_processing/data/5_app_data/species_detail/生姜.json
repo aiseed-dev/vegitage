@@ -1,0 +1,759 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栽培種の基本情報は広く利用可能。しかし、真の野生祖先は特定されておらず、その情報は不明であるため、野生種との関係性は限定的。"
+    },
+    "primary_name": "Ginger",
+    "scientific_name": "Zingiber officinale",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎",
+      "茎",
+      "葉"
+    ],
+    "origin_region": "海洋東南アジア",
+    "wild_relatives": [
+      "Zingiber zerumbet",
+      "Zingiber spectabile"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界的に広く利用されているため、各言語での名称は豊富に記録されている。"
+    },
+    "international": {
+      "en": [
+        "Ginger"
+      ],
+      "scientific_common": "Zingiber"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "अदरक",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "இஞ்சி",
+            "script": "Tamil"
+          },
+          {
+            "lang": "sa",
+            "name": "शृङ्गवेर",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "ขิง",
+            "script": "Thai"
+          },
+          {
+            "lang": "ms",
+            "name": "Halia",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Gừng",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "姜",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "生姜",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "생강",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "زنجبيل",
+            "script": "Arabic"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Gingembre",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Ingwer",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Jengibre",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Austronesian peoples",
+        "name": "不明（多数の言語に派生）",
+        "cultural_significance": "航海カヌーで運ばれた「カヌープランツ」の一つ。太平洋諸島への移住と文化拡散に不可欠な植物であった。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物分類学上の位置づけは確立されている。"
+    },
+    "family": {
+      "en": "Ginger family",
+      "la": "Zingiberaceae"
+    },
+    "genus": {
+      "en": "Ginger",
+      "la": "Zingiber"
+    },
+    "species": {
+      "en": "Garden ginger",
+      "la": "officinale"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界で最も古くから利用されているスパイスの一つであり、文化的な記録は非常に豊富。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア・東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "カレー、スープ、飲料の風味付けに不可欠。アーユルヴェーダやジャムウなどの伝統医学で消化促進、抗炎症、風邪の治療に用いられる。",
+        "seasonal_significance": "雨季の始まりに植え付け、乾季に収穫されることが多い。風邪が流行る季節に特に重宝される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "魚や肉の臭み消しとして必須。寿司のガリ（甘酢漬け）や様々な料理の薬味として利用。漢方では体を温める効果があるとされ、冷え性や風邪の治療に用いられる。",
+        "seasonal_significance": "新生姜は初夏から夏にかけての季節の味覚として珍重される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東・北アフリカ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "コーランにも記述があり、神聖な植物とされることがある。ジンジャーティーやスパイスミックス（タジンなど）に利用。預言者ムハンマドの伝統医学でも言及される。",
+        "seasonal_significance": "特になし。乾燥品が通年利用される。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ・北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "歴史的には高価な輸入品。ジンジャーブレッド、ジンジャーエール、クッキーなど菓子や飲料に多用。近年、健康食品としての価値が再認識されている。",
+        "seasonal_significance": "クリスマスシーズンの焼き菓子に多用される文化がある。",
+        "cultivation_decline_risk": "不明"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "カレー全般",
+          "マサラチャイ",
+          "タンドリーチキン"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "煮込む",
+          "すりおろす"
+        ],
+        "cultural_context": "ほぼ全てのカレーのベースとなるニンニクとのペースト(ginger-garlic paste)は、インド料理の魂とも言える。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "寿司（ガリ）",
+          "豚の生姜焼き",
+          "冷奴の薬味"
+        ],
+        "preparation_methods": [
+          "漬ける",
+          "すりおろす",
+          "刻む"
+        ],
+        "cultural_context": "魚の生臭さを消し、殺菌効果があると信じられてきたため、特に生魚を食す文化と密接に結びついている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前500年頃にはインドと中国で栽培・利用されていた記録がある。古代ローマやギリシャにもスパイスとして伝わっていた。",
+      "trade_routes": "アラブ商人によって中東・ヨーロッパへ運ばれ、スパイス貿易の重要品目であった。中世ヨーロッパでは金と同等の価値があったとされる。",
+      "cultural_exchange": "オーストロネシア人の移住と共に太平洋諸島へ、スパイス貿易で世界中へ伝播し、各地の食文化と伝統医学に深く根付いた。",
+      "domestication_history": "海洋東南アジアが原産地とされるが、有性生殖をほとんど行わないため、栽培化の正確な歴史は不明。人間の栄養繁殖（株分け）によって世界中に広まった。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間降雨量1500-3000mm、気温20-35℃。明確な乾季があるモンスーン気候が理想的。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な夏。水はけの良い肥沃な土壌が必要。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "一年草として栽培可能。夏期の高温と十分な水分が必要。冬は室内で越冬させるか、毎年植え替える。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さに耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度と水分を必要とするため、灌漑なしでは栽培不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため栽培に適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "乾季（植え付けから8-10ヶ月後）",
+        "growing_period_days": 240
+      },
+      {
+        "climate_zone": "亜熱帯・温帯",
+        "planting_season": "晩春（霜の危険がなくなった後）",
+        "harvest_season": "晩秋（霜が降りる前）",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "土壌の肥沃度と水はけ",
+        "病害虫（特に根茎腐敗病）",
+        "適切な水分管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約430万トン (2020年時点)",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": 43,
+          "characteristics": "世界最大の生産国かつ消費国。多様な地域品種が存在する。"
+        },
+        {
+          "country": "ナイジェリア",
+          "production_share": 16,
+          "characteristics": "アフリカ最大の生産国。乾燥ショウガの主要輸出国。"
+        },
+        {
+          "country": "中国",
+          "production_share": 12,
+          "characteristics": "高品質な生姜の主要輸出国。大規模な商業生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栄養素と機能性成分に関する科学的研究は豊富。ただし、品種や産地、収穫時期による成分変動のデータはまだ限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "80",
+        "protein_g": "1.8",
+        "carbs_g": "17.8",
+        "fat_g": "0.8",
+        "fiber_g": "2.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "マンガン",
+          "amount": "0.2 mg",
+          "daily_value_percent": "11"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "415 mg",
+          "daily_value_percent": "9"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "43 mg",
+          "daily_value_percent": "11"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ジンゲロール (Gingerol)",
+        "concentration": "生の生姜に豊富",
+        "health_effect": "強力な抗炎症作用、抗酸化作用。吐き気止め効果の主成分。"
+      },
+      {
+        "compound": "ショウガオール (Shogaol)",
+        "concentration": "乾燥・加熱した生姜に多く生成",
+        "health_effect": "ジンゲロールよりも強力な抗炎症・鎮痛作用を持つとされる。"
+      },
+      {
+        "compound": "ジンゲロン (Zingerone)",
+        "concentration": "加熱により生成",
+        "health_effect": "抗酸化作用、抗下痢作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "消化促進",
+          "食欲増進",
+          "関節炎の痛み緩和",
+          "風邪・咳の治療"
+        ],
+        "preparation": "生食、ジュース、乾燥粉末、ハチミツ漬け"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学（漢方）",
+        "uses": [
+          "体を温める（温裏）",
+          "発汗作用（解表）",
+          "吐き気止め（止嘔）",
+          "解毒作用"
+        ],
+        "preparation": "生の「生姜」、乾燥させた「乾姜」、蒸して乾燥させた「炮姜」を使い分ける。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "つわり、乗り物酔い、化学療法による吐き気の緩和",
+        "変形性関節症の痛みとこわばりの軽減",
+        "月経痛の緩和"
+      ],
+      "ongoing_research": [
+        "血糖値コントロールと糖尿病管理",
+        "抗がん作用",
+        "心血管疾患リスクの低減"
+      ],
+      "safety_considerations": "一般的に安全だが、過剰摂取は胸焼けや胃の不快感を引き起こす可能性がある。血液凝固を阻害する可能性があるため、抗凝血薬を服用している場合は注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理で利用されており、その調理法や役割に関する情報は非常に豊富。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アジア全域",
+        "methods": [
+          "炒める",
+          "煮込む",
+          "すりおろす（生）",
+          "漬ける"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "ニンニク",
+          "ネギ",
+          "唐辛子",
+          "醤油"
+        ]
+      },
+      {
+        "region": "ヨーロッパ・北米",
+        "methods": [
+          "焼く（菓子）",
+          "粉末利用",
+          "飲料にする"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "シナモン",
+          "クローブ",
+          "ナツメグ",
+          "砂糖"
+        ]
+      },
+      {
+        "region": "カリブ海地域",
+        "methods": [
+          "マリネ",
+          "飲料にする",
+          "ソース"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "オールスパイス",
+          "スコッチボネットペッパー",
+          "ライム"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・粉末化",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "香りが変化し、辛味成分ショウガオールが増加する。"
+      },
+      {
+        "method": "酢漬け（ガリ）",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "辛味が和らぎ、さっぱりとした風味になる。ピンク色に着色されることが多い。"
+      },
+      {
+        "method": "砂糖漬け（クリスタライズド・ジンジャー）",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "辛味が砂糖の甘さで中和され、菓子として利用しやすくなる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "辛味（パンジェント）、スパイシー、爽やか、わずかに甘く、土の香り",
+      "aroma_compounds": [
+        "ジンギベレン",
+        "β-セスキフェランドレン",
+        "クルクメン"
+      ],
+      "texture_characteristics": "生のものはシャキシャキとして繊維質。加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栽培経験に基づく定性的な知見は多いが、気候変動要因（高温、CO2濃度、干ばつ）に対する生理学的応答を定量的に評価した研究は非常に少ない。将来予測は一般的な作物モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "25-30°C",
+      "extreme_heat_survival": "35℃以上で生育阻害が起こる可能性がある",
+      "cold_tolerance": "0℃以下で枯死。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-3000mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒れやすいが、地下の根茎は残り、再生可能性がある。",
+      "hail_damage_recovery": "葉の損傷からの回復は可能だが、収量に影響する。",
+      "rapid_temperature_change": "弱い。急激な冷え込みは大きなダメージを与える。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。C3植物であるため、一定の増収効果が期待されるが、高温や水ストレスが相殺する可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、根茎腐敗病や細菌性立枯病などの土壌伝染性病害の発生範囲・頻度が増加するリスクが高い。",
+      "disease_resistance_stability": "品種による差は大きいが、多くの商業品種は特定の病害に脆弱。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯モンスーン地域",
+        "2050_projection": "現在の亜熱帯地域の標高が高い地域や、温帯地域の栽培可能期間が延長される可能性がある。一方で、現在の主産地では熱ストレスと干ばつ・洪 水リスクが増大する。",
+        "2100_projection": "適地のさらなる高緯度・高地へのシフトが予測されるが、水資源の利用可能性が大きな制約となる。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栽培種のショウガはほとんど開花・結実しないため、自然交雑に関するデータはほぼ皆無。情報は人為的な育種研究からの類推に大きく依存する。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栄養繁殖が基本のため、自然条件下での交雑は極めて稀。"
+      ],
+      "interspecific_compatibility": [
+        "Zingiber zerumbetなどの近縁種との人工交配の試みは存在するが、成功率は低い。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低いと考えられている。"
+      ],
+      "successful_natural_hybrids": [
+        "報告例なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジアの原産地周辺には多様な在来品種（ランドレース）が存在し、これが遺伝的多様性の宝庫となっている。",
+      "wild_gene_pool": "真の野生祖先が不明であるため、野生遺伝子プールへのアクセスは困難。",
+      "adaptive_genetic_variation": "主に体細胞突然変異と人間による選抜を通じて、地域適応が進んできたと考えられる。",
+      "inbreeding_depression_risk": "栄養繁殖のため、近交弱勢のリスクはないが、遺伝的多様性の欠如による病害への脆弱性が問題となる。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁野生種との交配が成功すれば、耐乾性や耐病性を導入できる可能性がある。",
+      "improved_nutritional_content": "機能性成分（ジンゲロール等）の含有量を高める育種の可能性がある。",
+      "novel_characteristics": "新しい風味や色、形の根茎を持つ品種の作出が可能になるかもしれない。",
+      "hybrid_vigor_potential": "有性生殖が可能になれば、雑種強勢を利用した高収量品種の育成が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花・結実の困難さ、花粉の稔性の低さが最大の障壁。",
+      "chromosome_compatibility": "近縁種との間で倍数性の違いがあり、交雑障壁となっている。",
+      "fertility_of_hybrids": "雑種が得られたとしても、その稔性は非常に低いことが多い。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 2
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ショウガを主軸としたリジェネラティブ農業システムに関する直接的な研究は少ないが、アグロフォレストリーなどの混作システムでの実践例から特性を類推可能。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い根茎とひげ根が密に広がり、表土の保持に貢献する。",
+      "organic_matter_contribution": "栽培には大量の有機物（堆肥、マルチ）を必要とするため、実践が土壌有機物含量の増加に繋がる。",
+      "soil_structure_improvement": "適切な有機物管理を行えば、土壌団粒構造の改善に寄与する。",
+      "erosion_control": "密な葉が地面を覆い、マルチングと合わせて土壌侵食を軽減する。",
+      "nutrient_cycling_role": "カリウム要求量が高い。緑肥との輪作が効果的。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花が稀なため、花粉媒介者への貢献は限定的。",
+      "beneficial_insect_habitat": "密な植生は、クモなどの天敵昆虫の生息地を提供する。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用が病害抵抗性に重要であることが示唆されている。",
+      "above_ground_biodiversity": "アグロフォレストリーシステムに組み込むことで、全体の生物多様性を高めることができる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "厚いマルチング実践は、土壌への水分の浸透を助ける。",
+      "moisture_retention": "有機物マルチは土壌水分の蒸発を防ぎ、保水性を高める。",
+      "runoff_reduction": "キャノピーカバーとマルチングにより、表面流出を減らす。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "一年で収穫するため、地上部での長期的な炭素固定は少ない。",
+      "below_ground_carbon": "根茎に炭素を蓄積するが、収穫により土壌から除去される。一部の根は土壌に残る。",
+      "soil_carbon_enhancement": "継続的な有機物投入を通じて、土壌炭素の増加に大きく貢献するポテンシャルがある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "バナナやココナッツ（日陰を提供）、マメ科植物（窒素固定）、トウモロコシ"
+      ],
+      "natural_pest_control": "一部のコンパニオンプランツは、線虫を抑制する効果が報告されている。",
+      "nutrient_sharing": "菌根菌ネットワークを介した栄養共有の可能性はあるが、詳細は不明。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "混作や輪作体系に組み込むことで、生態系の安定性に貢献する。",
+      "stress_tolerance": "単作では病害に弱いが、多様なシステムの中ではレジリエンスが向上する。",
+      "recovery_capacity": "栄養繁殖のため、気象害からの個体レベルの回復は可能。",
+      "adaptability": "多様な農法（アグロフォレストリー、パーマカルチャー）への適応性が高い。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康志向の高まりにより、現代的な応用に関する市場データや研究は豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "風味付けと機能性成分の両面で、植物性食品の価値を高める重要な食材。",
+      "food_security_contribution": "単位面積あたりの経済的価値が高く、小規模農家の収入源として食料安全保障に貢献する。",
+      "local_food_system_integration": "家庭菜園でも栽培可能で、地域食品システムに容易に組み込める。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性飲料（ジンジャーショット、コンブチャ）",
+        "健康補助食品（サプリメント、エキス）",
+        "植物性代替食品のフレーバー"
+      ],
+      "value_added_products": [
+        "エッセンシャルオイル",
+        "オレオレジン（香辛料抽出物）",
+        "オーガニック・ジンジャー製品"
+      ],
+      "niche_market_value": "特定の産地（ジャマイカ産、ハワイ産など）や希少な在来品種は、高品質なニッチ市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の重要性は認識されているが、各地域の在来品種の保全状況に関する網羅的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生祖先が不明なため評価不能。在来品種の栽培地は、近代農業への転換により脅かされている。",
+    "climate_change_vulnerability": "栽培適地の変化や異常気象により、特定の地域にのみ適応した在来品種が失われるリスクがある。",
+    "cultural_erosion_risk": "高。伝統的な食文化や医療知識が失われると共に、それに結びついた在来品種の栽培も放棄される危険性がある。",
+    "conservation_actions_needed": [
+      "在来品種の収集、特性評価、遺伝子バンクでの保存（ex-situ）",
+      "農家による種苗の自家増殖と栽培の維持（in-situ/on-farm conservation）",
+      "伝統知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "インド北東部",
+      "ミャンマー",
+      "インドネシア",
+      "中国南部"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内遺伝子バンクで多数の系統が保存されているが、網羅性には課題がある。",
+    "in_situ_conservation_efforts": "各国の地域コミュニティやNGOによる小規模な保全活動が存在する。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "N/A",
+      "confidence_level": "N/A",
+      "source_comment": "本調査に基づく総合評価。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド（多様性中心地）",
+      "ナイジェリア（アフリカの主要生産地）",
+      "インドネシア（伝統医学との関連）"
+    ],
+    "knowledge_gaps": [
+      "野生祖先の特定と遺伝子プールの評価",
+      "開花・結実を制御する生理学的メカニズムの解明",
+      "気候変動ストレス（特に干ばつと洪水）に対する品種ごとの耐性評価"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "商業的な品種名は存在するが、多くは地域名で呼ばれるランドレースである。"
+      },
+      "variety_name": "Nadia",
+      "local_name": "Nadia",
+      "origin_region": "インド、西ベンガル州",
+      "distinctive_characteristics": "繊維が少なく、高い収量とオレオレジン含有量で知られる。",
+      "cultural_importance": "インド国内で商業的に重要な品種の一つ。",
+      "climate_adaptation": "インドのモンスーン気候に適応している。",
+      "conservation_status": "商業的に栽培されている。"
+    },
+    {
+      "variety_name": "Jamaican",
+      "local_name": "Jamaican ginger",
+      "origin_region": "ジャマイカ",
+      "distinctive_characteristics": "非常に強い芳香と風味で知られ、最高品質とされることが多い。",
+      "cultural_importance": "ジャーク料理やジンジャービールなど、カリブ文化に不可欠。",
+      "climate_adaptation": "カリブ海の熱帯海洋性気候に適応している。",
+      "conservation_status": "商業的に栽培されているが、特定の高品質系統は限定的。"
+    },
+    {
+      "variety_name": "Kintoki",
+      "local_name": "金時生姜",
+      "origin_region": "日本",
+      "distinctive_characteristics": "小ぶりで、色が濃く、非常に強い辛味と香りを持つ。ジンゲロール含有量が高い。",
+      "cultural_importance": "日本の伝統的な品種で、薬味や加工品として珍重される。",
+      "climate_adaptation": "日本の温暖な気候に適応している。",
+      "conservation_status": "生産量が少なく、希少。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "World Flora Online",
+      "PubMed",
+      "Ethnobotany research papers"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの定量的応答データ",
+      "有性生殖と育種の生物学的基盤",
+      "世界中の在来品種の網羅的な遺伝子・特性データ"
+    ],
+    "regional_data_coverage": "アジアに関するデータは豊富だが、アフリカ、ラテンアメリカの在来品種や栽培システムに関する詳細な情報は限定的。",
+    "missing_information": [
+      "真の野生祖先に関する情報",
+      "自然交雑の実例"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

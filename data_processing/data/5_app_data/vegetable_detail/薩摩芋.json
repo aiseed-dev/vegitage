@@ -1,0 +1,750 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、国際農業研究協議グループ(CGIAR)の国際ポテトセンター(CIP)の情報を統合。栽培化の歴史と伝播経路は学術的に広く支持されている。"
+    },
+    "primary_name": "Sweet Potato",
+    "scientific_name": "Ipomoea batatas",
+    "plant_type": "多年草（栽培上は一年草）",
+    "edible_parts": [
+      "塊根",
+      "葉",
+      "茎"
+    ],
+    "origin_region": "中央アメリカまたは南アメリカ北部",
+    "wild_relatives": [
+      "Ipomoea trifida"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の農業・植物学データベース、民族植物学の記録から名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Sweet Potato",
+        "Yam (incorrect but common in North America)"
+      ],
+      "scientific_common": "Batata"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "batata, camote, boniato",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "batata-doce",
+            "script": "Latin"
+          },
+          {
+            "lang": "qu",
+            "name": "apichu",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "サツマイモ（薩摩芋）",
+            "script": "Kanji/Kana"
+          },
+          {
+            "lang": "zh",
+            "name": "红薯, 地瓜",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "고구마",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "viazi vitamu",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "kamote",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "ubi keledek",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "mi",
+            "name": "kūmara",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ケチュア（アンデス地域）",
+        "name": "apichu",
+        "cultural_significance": "数千年にわたり栽培されてきた伝統的な主食であり、食料安全保障の基盤。"
+      },
+      {
+        "community": "マオリ（ニュージーランド）",
+        "name": "kūmara",
+        "cultural_significance": "ポリネシア人の偉大な航海の歴史と結びつき、神話や儀式において中心的な役割を果たす神聖な作物。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な植物分類。"
+    },
+    "family": {
+      "en": "Morning glory family",
+      "la": "Convolvulaceae"
+    },
+    "genus": {
+      "en": "Morning glory",
+      "la": "Ipomoea"
+    },
+    "species": {
+      "en": "Sweet potato",
+      "la": "batatas"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食文化史、人類学、農業史の文献に基づく評価。特にコロンブス交換以前のポリネシア伝播に関する議論は重要。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "サハラ以南アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "救荒作物"
+        ],
+        "traditional_uses": "塊根は茹でる、焼くなど主食として利用。葉は重要な緑黄色野菜としてスープや煮込み料理に多用される。",
+        "seasonal_significance": "乾季にも収穫可能な品種があり、食料が不足する時期の重要なカロリー源となる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "オセアニア（特にパプアニューギニ、ニュージーランド）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "儀式用",
+          "社会的交換財"
+        ],
+        "traditional_uses": "石蒸し焼き（ハンギ、ムームー）などの伝統料理に不可欠。富や社会的地位の象徴として儀式で交換される。",
+        "seasonal_significance": "収穫祭など、季節のサイクルと深く結びついた儀礼が存在する。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "救荒作物",
+          "加工原料"
+        ],
+        "traditional_uses": "焼き芋、天ぷら、菓子、焼酎や春雨の原料として利用。歴史的に飢饉を救った作物として認識されている。",
+        "seasonal_significance": "秋の味覚として強い季節感を持つ。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ラテンアメリカ・カリブ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "副菜"
+        ],
+        "traditional_uses": "原産地であり、多様な品種が栽培される。ロースト、スープ、デザートなど幅広い料理に使われる。",
+        "seasonal_significance": "年間を通じて利用されるが、特定の祝祭料理に用いられることがある。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "焼き芋",
+          "大学芋",
+          "芋焼酎",
+          "天ぷら"
+        ],
+        "preparation_methods": [
+          "焼く",
+          "蒸す",
+          "揚げる",
+          "発酵"
+        ],
+        "cultural_context": "江戸時代に救荒作物として広まり、現在は秋の風物詩、庶民的なおやつとして親しまれている。"
+      },
+      {
+        "cuisine": "アメリカ南部料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Sweet potato pie",
+          "Candied yams",
+          "Sweet potato fries"
+        ],
+        "preparation_methods": [
+          "焼く",
+          "煮る",
+          "揚げる"
+        ],
+        "cultural_context": "特に感謝祭などの祝祭料理に欠かせない食材。アフリカ系アメリカ人のソウルフードにおいても重要な位置を占める。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中南米で少なくとも5000年前から栽培。ペルーの遺跡からは8000年前の痕跡も見つかっている。",
+      "trade_routes": "コロンブス交換により16世紀以降、ヨーロッパ経由でアフリカ、アジアへ急速に伝播。中国には16世紀末に伝わり、人口増加を支えた。",
+      "cultural_exchange": "コロンブス交換以前にポリネシアへ伝播した可能性がDNA解析や考古学的証拠から強く示唆されており、古代の太平洋横断航海の証拠として議論されている。",
+      "domestication_history": "野生種のIpomoea trifidaから栽培化されたと考えられている。正確な場所と時期は現在も研究が続いている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好む。年間を通じて栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない季節に生育。主要な生産地帯。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の作物として栽培可能。生育期間の確保が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、夏の低温が障害となるため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必要だが、乾燥に強く、他の作物が育ちにくい場所でも栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "植え付けから3-6ヶ月後",
+        "growing_period_days": 90
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "初霜前",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "土壌肥沃度",
+        "水分供給",
+        "病害虫（特にサツマイモゾウムシ）",
+        "日照時間"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約9,200万トン (FAOSTAT 2022)",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 55,
+          "characteristics": "世界最大の生産国。食用、飼料用、工業用（デンプン、アルコール）として大規模に生産。"
+        },
+        {
+          "country": "ナイジェリア",
+          "production_share": 4.5,
+          "characteristics": "アフリカ最大の生産国。国内消費が主で、食料安全保障に不可欠。"
+        },
+        {
+          "country": "タンザニア",
+          "production_share": 4,
+          "characteristics": "東アフリカの主要生産国。ビタミンA欠乏症対策としてオレンジ果肉品種の導入が進む。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、品種による機能性成分（βカロテン、アントシアニン等）の含有量変動が大きい。伝統的薬用利用は民族植物学の記録に基づくが、臨床的証拠は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "86",
+        "protein_g": "1.6",
+        "carbs_g": "20.1",
+        "fat_g": "0.1",
+        "fiber_g": "3.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA (βカロテン由来)",
+          "amount": "709 µg",
+          "daily_value_percent": "79"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "2.4 mg",
+          "daily_value_percent": "3"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.3 mg",
+          "daily_value_percent": "13"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "βカロテン",
+        "concentration": "オレンジ果肉品種に特に豊富",
+        "health_effect": "強力な抗酸化作用、ビタミンA前駆体として視覚機能や免疫機能を維持。"
+      },
+      {
+        "compound": "アントシアニン",
+        "concentration": "紫果肉品種に豊富",
+        "health_effect": "強力な抗酸化作用、抗炎症作用、心血管疾患リスクの低減。"
+      },
+      {
+        "compound": "クロロゲン酸",
+        "concentration": "全ての品種に含まれる",
+        "health_effect": "抗酸化作用、血糖値上昇抑制効果の可能性。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アフリカ・アジアの一部地域",
+        "medical_system": "民間療法",
+        "uses": [
+          "糖尿病の管理",
+          "高血圧の緩和",
+          "炎症の抑制"
+        ],
+        "preparation": "葉の煎じ汁や、特定の品種（例：カイアポ）の生の塊根を摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "ビタミンA欠乏症の予防（オレンジ果肉品種）",
+        "高い抗酸化作用（特に紫果肉品種）"
+      ],
+      "ongoing_research": [
+        "血糖値コントロール効果",
+        "抗炎症作用",
+        "腸内環境改善効果"
+      ],
+      "safety_considerations": "シュウ酸を少量含むため、腎臓結石のリスクがある人は過剰摂取に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本、食文化研究、農業普及資料に基づく。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界共通",
+        "methods": [
+          "焼く",
+          "蒸す",
+          "茹でる",
+          "揚げる"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "シナモン、ナツメグ（甘い料理）",
+          "唐辛子、ニンニク（塩味の料理）",
+          "豚肉、鶏肉"
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "methods": [
+          "葉を煮込む（野菜として）",
+          "塊根をマッシュする（フフ状）"
+        ],
+        "flavor_role": "主食/副菜",
+        "typical_combinations": [
+          "ピーナッツソース",
+          "パーム油",
+          "魚"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（チップ、粉）",
+        "regions": [
+          "アフリカ",
+          "アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "ビタミンの一部が減少するが、カロリー源として長期保存が可能。"
+      },
+      {
+        "method": "発酵（アルコール飲料）",
+        "regions": [
+          "日本（焼酎）",
+          "ペルー（マサト）"
+        ],
+        "shelf_life": "数年以上",
+        "quality_changes": "デンプンが糖、アルコールに変化し、独特の風味と香りが生まれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "品種により様々。甘みが強く、ナッツや栗に似た風味を持つものから、水分が多く淡白なものまである。加熱により麦芽糖が生成され甘みが増す。",
+      "aroma_compounds": [
+        "β-イオノン",
+        "ゲラニオール",
+        "リナロール"
+      ],
+      "texture_characteristics": "加熱後の食感は、粉質（ホクホク）から粘質（ねっとり）まで多様。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的な評価は多数存在するが、品種レベルでの定量的な限界値データは限定的。将来予測は広域気候モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "24-30°C",
+      "extreme_heat_survival": "40°C以上でも短期間なら生存可能だが、塊根の肥大は阻害される。",
+      "cold_tolerance": "低。10°C以下で生育が停止し、霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "C3植物としては比較的に高い。深い根系と、気孔を閉じて萎凋することで水分蒸散を抑える能力を持つ。",
+      "flood_tolerance": "低。数日間の湛水で塊根が腐敗するリスクが高い。",
+      "optimal_rainfall": "750-1000mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性のため強風による倒伏のリスクは低いが、葉の損傷は受ける。",
+      "hail_damage_recovery": "葉が損傷しても、栄養繁殖のため回復力は比較的高い。",
+      "rapid_temperature_change": "急激な低温には弱いが、高温への順応性は高い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "肯定的。CO2濃度の上昇により光合成が促進され、収量が増加する可能性が研究で示されている。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンは葉の損傷を引き起こす可能性がある。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりサツマイモゾウムシなどの害虫の越冬可能地域が北上し、被害が拡大するリスクがある。",
+      "disease_resistance_stability": "ウイルス病が大きな問題であり、温暖化による媒介昆虫の活動活発化がリスクを高める。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯、温帯夏期",
+        "2050_projection": "現在の温帯地域の大部分と、冷帯の一部で栽培可能期間が拡大。亜熱帯・熱帯の一部では高温ストレスが問題になる可能性。",
+        "2100_projection": "さらに高緯度地域への栽培適地拡大が予測される。一方で、極端な干ばつや豪雨の頻発が生産の不安定要因となる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種の遺伝学は六倍体のため複雑。野生近縁種との交雑は育種プログラムで利用されているが、自然環境下での交雑頻度に関するデータは限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全ての栽培品種間で交雑可能だが、自家不和合性を持つ品種が多い。"
+      ],
+      "interspecific_compatibility": [
+        "Ipomoea trifida（野生祖先種）とは交雑可能で、育種に利用される。"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない"
+      ],
+      "successful_natural_hybrids": [
+        "栽培畑の周辺で野生種と自然交雑した事例が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。特に中南米とパプアニューギニの多様性センターには数千の在来品種が存在する。",
+      "wild_gene_pool": "Ipomoea trifidaなどの野生近縁種が、病害虫抵抗性や環境ストレス耐性の貴重な遺伝子源となっている。",
+      "adaptive_genetic_variation": "多様な環境に適応した在来品種が多く、その遺伝的背景は適応育種の宝庫である。",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、特定のクローンに依存すると遺伝的多様性が低下し、病害の蔓延リスクが高まる。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス高地",
+        "environmental_pressure": "低温、強い紫外線",
+        "adaptive_response": "短日条件下での塊根形成、高アントシアニン含有（紫外線防御の可能性）",
+        "time_scale": "数千年",
+        "mechanism": "農家による長年の選抜と自然選択。"
+      },
+      {
+        "region": "パプアニューギニ",
+        "environmental_pressure": "多湿、多様な土壌、高い病害虫圧",
+        "adaptive_response": "多種多様な在来品種が、異なる微気候や病害虫に対してそれぞれ適応している。",
+        "time_scale": "数百年",
+        "mechanism": "導入後の急速な多様化と地域適応。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐塩性を向上させる可能性がある。",
+      "improved_nutritional_content": "野生種には鉄や亜鉛などの微量栄養素を多く含むものがあり、交雑による栄養強化（バイオフォーティフィケーション）が可能。",
+      "novel_characteristics": "新たな色、形、風味を持つ品種の作出。",
+      "hybrid_vigor_potential": "他家受精植物であるため、交雑による雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "六倍体という複雑な倍数性、自家不和合性、開花時期の不一致。",
+      "chromosome_compatibility": "野生種との倍数性の違いが交雑の障壁となることがある（胚救出技術などで克服可能）。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "育種プログラムで広く利用されており、成功率は高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い根系、気孔の制御能力、浸透圧調整能力",
+        "heritability": "中程度",
+        "response_to_selection": "耐乾性品種の選抜は可能。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "侵食防止効果などの定性的評価は一般的だが、土壌炭素隔離率などの定量的データは研究途上。アグロフォレストリーなどでの利用事例は多い。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範囲に広がる繊維根と、養分を蓄える塊根からなる。一部は深くまで伸びる。",
+      "organic_matter_contribution": "収穫後のつるや葉は分解されやすく、豊富な有機物を土壌に供給する。",
+      "soil_structure_improvement": "つるが地表を覆うことで、雨滴による土壌構造の破壊を防ぐ。",
+      "erosion_control": "急速に地表を覆うため、特に傾斜地での土壌侵食防止効果が非常に高い。",
+      "nutrient_cycling_role": "カリウム要求量が比較的高いが、貧栄養土壌でも一定の収量が得られる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "アサガオに似た花は、ハチなどの花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "密な葉群は、クモやテントウムシなどの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌との共生関係が報告されている。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により土壌表面の硬化を防ぎ、水の浸透を助ける。",
+      "moisture_retention": "マルチング効果により、土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "葉と茎が雨水の流出速度を遅らせ、土壌侵食を軽減する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い。つるや葉のバイオマスが多い。",
+      "below_ground_carbon": "高い。収穫される塊根自体が炭素の塊であり、残存する根も炭素を土壌に供給する。",
+      "soil_carbon_enhancement": "残渣の鋤き込みにより、土壌有機炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "定量的データは不足しているが、高バイオマス作物としてポテンシャルは高い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱として）、マメ科作物（窒素供給）との混作が伝統的に行われる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "菌根菌ネットワークを介した栄養共有の可能性。",
+      "allelopathic_interactions": "いくつかの雑草の生育を抑制するアレロパシー効果が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "土壌を保護し、他の作物が失敗するような条件下でも収穫をもたらすため、システムの安定性を高める。",
+      "stress_tolerance": "干ばつや貧栄養に対する耐性が高い。",
+      "recovery_capacity": "葉が被害を受けても、栄養繁殖器官から速やかに回復する。",
+      "adaptability": "多様な品種が存在し、様々な環境に適応可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際機関（FAO, CIP）、健康・栄養関連の市場調査、食品科学の文献に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリーの炭水化物源として、またビタミンAや抗酸化物質の供給源として価値が高い。",
+      "food_security_contribution": "単位面積当たりのカロリー生産量が非常に高く、栽培が容易で環境耐性も強いため、世界の食料安全保障における役割は極めて大きい。",
+      "local_food_system_integration": "家庭菜園から大規模商業生産まで対応可能で、地域の食料システムに容易に組み込める。",
+      "alternative_protein_potential": "塊根のタンパク質含有量は低いが、葉は良質なタンパク質、ビタミン、ミネラルを含み、野菜としての利用価値が高い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによるスーパーフードとしての需要増",
+        "グルテンフリー食品市場の拡大",
+        "自然着色料（アントシアニン）の原料"
+      ],
+      "value_added_products": [
+        "サツマイモチップス、フライドポテト",
+        "デンプン、シロップ、アルコール",
+        "サツマイモ粉（製パン、製麺用）",
+        "機能性飲料"
+      ],
+      "niche_market_value": "紫果肉やオレンジ果肉の品種は、その機能性から高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の減少リスクは指摘されているが、地域レベルでの消失速度の定量的データは乏しい。国際ポテトセンター(CIP)が世界最大のジーンバンクを維持している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "中南米における野生近縁種の自生地が、開発により脅かされている。",
+    "climate_change_vulnerability": "栽培適地は拡大する可能性があるが、特定の地域に特化した在来品種は気候変動により絶滅の危機に瀕する可能性がある。",
+    "cultural_erosion_risk": "高。近代的な高収量品種への置き換えにより、伝統的な食文化や農法と結びついた多様な在来品種が失われつつある。",
+    "conservation_actions_needed": [
+      "在来品種を栽培し続ける農家への支援（オンファーム保全）",
+      "野生近縁種の生息域の保護（インサイチュ保全）",
+      "ジーンバンクにおける遺伝資源の多様性の拡充（エクスサイチュ保全）",
+      "参加型育種による地域コミュニティの関与"
+    ],
+    "priority_conservation_regions": [
+      "ペルー、エクアドルなどのアンデス地域",
+      "中央アメリカ",
+      "パプアニューギニ"
+    ],
+    "ex_situ_conservation_status": "良好。国際ポテトセンター(CIP)が数千の品種・系統を保存している。",
+    "in_situ_conservation_efforts": "一部地域でNGOや地域コミュニティによる保全活動が行われているが、全体としては不十分。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた多角的な情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "パプアニューギニ（導入後の急速な多様化と適応の研究）",
+      "サハラ以南アフリカ（気候変動下での食料安全保障における役割）",
+      "アンデス地域（遺伝的多様性の中心地での保全と利用）"
+    ],
+    "knowledge_gaps": [
+      "リジェネラティブ農業システムにおける土壌炭素隔離能力の定量化",
+      "気候変動に対する多様な在来品種の生理学的応答の解明",
+      "伝統知識に基づく病害虫管理方法の科学的評価"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種情報は各地域の農業研究機関や普及資料に基づく。"
+      },
+      "variety_name": "Beauregard",
+      "local_name": "Beauregard",
+      "origin_region": "アメリカ合衆国（ルイジアナ州）",
+      "distinctive_characteristics": "銅色の皮と濃いオレンジ色の果肉。均一な形状で収量が高い。湿った食感。",
+      "cultural_importance": "北米の商業生産で最も主要な品種。スーパーマーケットで一般的に見られる。",
+      "climate_adaptation": "幅広い環境に適応するが、特に亜熱帯気候で高い生産性を示す。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種情報は各地域の農業研究機関や普及資料に基づく。"
+      },
+      "variety_name": "Stokes Purple",
+      "local_name": "Okinawan sweet potato (in USA), Beni-imo (紅芋) in Okinawa",
+      "origin_region": "アメリカ合衆国（起源は日本・沖縄の品種）",
+      "distinctive_characteristics": "紫色の皮と鮮やかな紫色の果肉。アントシアニンが豊富。加熱するとやや粉質になる。",
+      "cultural_importance": "沖縄の伝統菓子や料理に不可欠。健康食品として世界的に人気が高まっている。",
+      "climate_adaptation": "高温を好み、亜熱帯気候に適応している。",
+      "conservation_status": "商業的に栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "Kūmaraは単一品種ではなく、マオリによって伝統的に栽培されてきた品種群の総称。"
+      },
+      "variety_name": "Kūmara (heirloom varieties)",
+      "local_name": "Kūmara",
+      "origin_region": "ポリネシア（ニュージーランドで伝統的に栽培）",
+      "distinctive_characteristics": "形状、色、食感は多様。現代の商業品種より小さいものが多い。",
+      "cultural_importance": "マオリ文化において神聖な作物。栽培と収穫は儀式と深く結びついている。",
+      "climate_adaptation": "ニュージーランドの温帯気候に適応した系統群。",
+      "conservation_status": "在来品種は消失の危機にあるが、保全活動が行われている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "International Potato Center (CIP) database",
+      "FAOSTAT",
+      "World Catalogue of Sweet Potato Varieties",
+      "Journal of Ethnobiology and Ethnomedicine",
+      "Theoretical and Applied Genetics"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答の精密な予測",
+      "伝統的な混作体系における生態学的機能の解明"
+    ],
+    "regional_data_coverage": "中南米、北米、東アジア、アフリカの主要生産国は良好。オセアニアの在来品種に関するデータは限定的。",
+    "missing_information": [
+      "多くの在来品種の栄養成分と機能性成分に関する詳細な分析データ",
+      "自然交雑が遺伝的多様性に与える影響の定量的評価"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

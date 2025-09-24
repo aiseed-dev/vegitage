@@ -1,0 +1,763 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is based on major botanical and agricultural databases (e.g., FAO, GRIN-Global). Widely studied crop."
+    },
+    "primary_name": "Soybean",
+    "scientific_name": "Glycine max",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "若い莢"
+    ],
+    "origin_region": "東アジア（中国東北部と推定）",
+    "wild_relatives": [
+      "Glycine soja"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are widely documented in linguistic and agricultural sources. Indigenous names outside its origin center are rare as it's a domesticated crop spread through agriculture."
+    },
+    "international": {
+      "en": [
+        "Soybean",
+        "Soya bean"
+      ],
+      "scientific_common": "Soy"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "大豆",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "大豆",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "콩",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Kacang kedelai",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Đậu tương",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "सोयाबीन",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ne",
+            "name": "भटमास",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Soja",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Sojabohne",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Soja",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Soja",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Standard botanical classification from APG IV system."
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Soybean",
+      "la": "Glycine"
+    },
+    "species": {
+      "en": "Soybean",
+      "la": "Glycine max"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Extensive historical, anthropological, and culinary documentation exists, especially for East Asia."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "調味料",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "豆腐、味噌、醤油、納豆、豆乳など、発酵・加工食品の基盤として食文化に不可欠。「畑の肉」と称される主要なタンパク質源。",
+        "seasonal_significance": "節分の豆まきなど、季節の儀式に利用される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "調味料",
+          "経済作物"
+        ],
+        "traditional_uses": "インドネシアのテンペや、甘口醤油（ケチャップマニス）の原料として重要。地域の食生活に深く根付いている。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "経済作物",
+          "代替食品"
+        ],
+        "traditional_uses": "伝統的な食材ではないが、20世紀以降、植物性食品の中心として普及。主に食用油、家畜飼料、工業原料として大規模生産される。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "主に輸出用の大規模商品作物。伝統的な食文化への浸透は限定的だが、経済的重要性は極めて高い。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "味噌汁",
+          "豆腐",
+          "醤油",
+          "納豆",
+          "枝豆"
+        ],
+        "preparation_methods": [
+          "発酵",
+          "煮る",
+          "凝固",
+          "醸造"
+        ],
+        "cultural_context": "日本の食文化の根幹をなす調味料（味噌、醤油）の原料であり、重要なタンパク質源。"
+      },
+      {
+        "cuisine": "中華料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "豆腐",
+          "豆乳",
+          "豆豉",
+          "醤"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "煮る",
+          "蒸す",
+          "発酵"
+        ],
+        "cultural_context": "数千年にわたる利用の歴史があり、多様な加工品が地域料理に不可欠。"
+      },
+      {
+        "cuisine": "インドネシア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "テンペ",
+          "タフ（豆腐）",
+          "ケチャップマニス"
+        ],
+        "preparation_methods": [
+          "発酵",
+          "揚げる",
+          "煮る"
+        ],
+        "cultural_context": "特にテンペは、インドネシア発祥の重要な発酵食品であり、国民的なタンパク質源。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前11世紀頃の中国で栽培が始まったとされる最古の作物の一つ。",
+      "trade_routes": "古代から東アジア内で広く伝播。世界的な交易品となったのは20世紀以降。",
+      "cultural_exchange": "仏教の伝播と共に、豆腐や味噌などの加工技術が日本や朝鮮半島に伝わった。",
+      "domestication_history": "中国東北部の野生種ツルマメ（Glycine soja）から5000〜3000年前に栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "短日性の熱帯適応品種が必要。高温多湿での病害管理が重要。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "多くの品種にとって好適な気候。生育期間が長く取れる。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "主要生産地帯。夏の温暖な気候と十分な日長が必要。霜害に弱い。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の気温が高い大陸性気候に適応。生育期間の短い早生品種が栽培される。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑なしでは栽培困難。高い水分要求量がある。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため栽培は不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（北半球）",
+        "planting_season": "晩春（5月〜6月）",
+        "harvest_season": "秋（9月〜10月）",
+        "growing_period_days": "100-150"
+      },
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "乾季の前",
+        "growing_period_days": "90-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "2,000 - 4,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "日長",
+        "水分供給",
+        "土壌肥沃度",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約3億5000万トン（2020年代初頭）",
+      "major_producers": [
+        {
+          "country": "ブラジル",
+          "production_share": "37",
+          "characteristics": "大規模機械化農業。主に輸出用で、家畜飼料とバイオ燃料が中心。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "32",
+          "characteristics": "大規模機械化農業。遺伝子組み換え品種が主流。国内消費と輸出。"
+        },
+        {
+          "country": "アルゼンチン",
+          "production_share": "11",
+          "characteristics": "輸出主導の生産。大豆粕と大豆油への加工が多い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栄養成分は広く研究されている。機能性成分に関する研究も豊富。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "446",
+        "protein_g": "36.5",
+        "carbs_g": "30.2",
+        "fat_g": "19.9",
+        "fiber_g": "9.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "マンガン",
+          "amount": "2.5mg",
+          "daily_value_percent": "120"
+        },
+        {
+          "nutrient": "リン",
+          "amount": "704mg",
+          "daily_value_percent": "70"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "15.7mg",
+          "daily_value_percent": "87"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "375µg",
+          "daily_value_percent": "94"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "イソフラボン（ゲニステイン、ダイゼイン）",
+        "concentration": "品種や加工法により変動",
+        "health_effect": "植物性エストロゲンとして作用。骨粗鬆症予防、更年期症状緩和、特定のがんリスク低減の可能性が示唆される。"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、免疫調節作用、血中コレステロール低下作用。"
+      },
+      {
+        "compound": "フィチン酸",
+        "concentration": "不明",
+        "health_effect": "ミネラルの吸収を阻害する一方、強力な抗酸化作用も持つ。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "解毒",
+          "脾臓機能の強化",
+          "水分の滞留改善"
+        ],
+        "preparation": "黒豆を煎じたり、発酵させて薬用とする。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血中LDLコレステロールの低下",
+        "高品質な植物性タンパク質源"
+      ],
+      "ongoing_research": [
+        "乳がん・前立腺がんリスクとの関連",
+        "認知機能への影響",
+        "腸内環境改善効果"
+      ],
+      "safety_considerations": "大豆アレルギーは主要な食物アレルギーの一つ。甲状腺機能への影響については議論がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理での利用法が広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "発酵（味噌、醤油、納豆）",
+          "凝固（豆腐）",
+          "煮る（煮豆）",
+          "茹でる（枝豆）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "魚介類",
+          "野菜"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "発酵（テンペ）",
+          "揚げる",
+          "煮る"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "唐辛子",
+          "ココナッツミルク"
+        ]
+      },
+      {
+        "region": "世界（現代）",
+        "methods": [
+          "圧搾（油）",
+          "乳化（豆乳）",
+          "加工（代替肉）"
+        ],
+        "flavor_role": "素材",
+        "typical_combinations": [
+          "多様な食品の原料として"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "発酵",
+        "regions": [
+          "東アジア",
+          "東南アジア"
+        ],
+        "shelf_life": "数ヶ月〜数年（味噌、醤油）",
+        "quality_changes": "旨味成分（アミノ酸）が増加し、消化性が向上。独特の風味と香りが生まれる。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "長期保存が可能になるが、調理前に水で戻す必要がある。"
+      },
+      {
+        "method": "凝固（豆腐）",
+        "regions": [
+          "東アジア",
+          "世界中"
+        ],
+        "shelf_life": "数日（冷蔵）",
+        "quality_changes": "滑らかな食感が生まれ、多様な料理に利用しやすくなる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "加熱した豆はナッツのような風味と甘み、旨味を持つ。発酵させると複雑な塩味、旨味、香りが生まれる。",
+      "aroma_compounds": [
+        "ヘキサナール（青臭さの原因）",
+        "ピラジン類（加熱による香ばしい香り）"
+      ],
+      "texture_characteristics": "調理法により多様。柔らかい（豆腐）、もちもち（納豆）、しっかり（煮豆）、カリカリ（炒り豆）。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "育種研究により多くのデータが存在するが、主に商業品種に関するもの。伝統的な在来種の気候変動応答に関する定量的データは限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "開花・結実期に35°Cを超えると著しく収量が低下。",
+      "cold_tolerance": "5°C以下で生育停止。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "中程度。C3植物としては標準的。",
+      "flood_tolerance": "低。数日の湛水で根が傷み、枯死する可能性がある。",
+      "optimal_rainfall": "生育期間中に400-600mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。倒伏しやすいが、密植によりある程度防げる。",
+      "hail_damage_recovery": "生育初期の雹害からは回復しやすいが、開花期以降は致命的。",
+      "rapid_temperature_change": "弱い。特に開花期の急激な温度変化は落花の原因となる。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "あり。CO2濃度上昇により光合成が促進され、収量が増加する可能性があるが、高温や水不足で相殺される。",
+      "ozone_sensitivity": "高。地上オゾン濃度の上昇に弱く、収量低下の要因となる。",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、さび病やカメムシ類などの発生地域が北上し、被害が拡大する懸念がある。",
+      "disease_resistance_stability": "多くの抵抗性品種が開発されているが、病原菌の新たなレース出現との競争が続く。",
+      "beneficial_organism_relationships": "根粒菌との共生は土壌温度や水分に影響されるため、気候変動が窒素固定能力を低下させる可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アメリカ中西部、ブラジル南部、アルゼンチン北部、中国東北部",
+        "2050_projection": "適地がカナダ南部、ロシア南部、北ヨーロッパなど、より高緯度地域へシフトする可能性。",
+        "2100_projection": "現在の主要生産地帯の一部では、高温と干ばつにより生産が困難になるリスクが増大。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "野生種との交雑親和性はよく研究されているが、自然環境下での交雑頻度や適応進化の実例に関するデータは少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "すべての栽培品種間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Glycine soja（ツルマメ）"
+      ],
+      "intergeneric_possibility": [
+        "自然条件下では不可能"
+      ],
+      "successful_natural_hybrids": [
+        "栽培大豆と野生のツルマメが自生する地域（東アジア）では、自然交雑が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である東アジアには数千の在来品種が存在し、多様な遺伝的資源の宝庫となっている。",
+      "wild_gene_pool": "野生祖先種であるツルマメは、病害虫抵抗性や環境ストレス耐性など、栽培大豆にはない有用な遺伝子を保有している。",
+      "adaptive_genetic_variation": "在来種は、それぞれの地域の気候や土壌に適応した多様な遺伝的変異を持つ。",
+      "inbreeding_depression_risk": "自家受粉性植物であるため、近交弱勢のリスクは低いが、現代の商業育種は遺伝的基盤の狭隘化を招いている。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "中国",
+        "environmental_pressure": "多様な気候（南北の緯度差）",
+        "adaptive_response": "日長感受性が異なる多様な品種群（早生、中生、晩生）が成立。",
+        "time_scale": "数千年",
+        "mechanism": "地域の光周性への適応を通じた自然選択と人為選択。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "ツルマメとの交雑により、耐塩性、耐乾性、耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "野生種から高タンパク質や特定の機能性成分の遺伝子を導入できる可能性がある。",
+      "novel_characteristics": "新たな種子色、形状、生育習性などの形質導入が可能。",
+      "hybrid_vigor_potential": "自家受粉性のため雑種強勢の利用は限定的だが、野生種との交雑初期世代では強勢が見られることがある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Glycine属の他の亜属との間には強い交雑障壁が存在する。",
+      "chromosome_compatibility": "G. max と G. soja は染色体数が同じ（2n=40）で、適合性は非常に高い。",
+      "fertility_of_hybrids": "G. max と G. soja の雑種は高い稔性を持つ。",
+      "backcrossing_success": "戻し交配は容易であり、育種で広く利用される。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "日長",
+        "adaptive_traits": "開花時期、成熟期",
+        "heritability": "高",
+        "response_to_selection": "緯度に応じて強く選択され、多様な生態型が分化。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "マメ科植物としての特性はよく知られており、リジェネラティブ農業システムにおける役割に関する研究も豊富。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根と多数の側根からなり、根粒菌との共生により大気中の窒素を固定する。",
+      "organic_matter_contribution": "収穫後の残渣（茎、葉、根）が土壌に有機物を供給する。",
+      "soil_structure_improvement": "根の活動が土壌団粒構造の形成を助ける。",
+      "erosion_control": "生育初期の被覆は遅いが、生育旺盛期には地面を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "窒素固定により、後作の作物が利用できる窒素を土壌に供給する。輪作体系の重要な構成要素。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は蜜を提供し、ミツバチなどの訪花昆虫を引きつけるが、主に自家受粉する。",
+      "beneficial_insect_habitat": "多様な昆虫の生息地となるが、大規模単一栽培は害虫の発生源にもなりうる。",
+      "soil_microorganism_interaction": "根粒菌やアーバスキュラー菌根菌など、多様な土壌微生物と共生関係を築く。",
+      "above_ground_biodiversity": "カバークロップや混植を行うことで、地上部の生物多様性を高めることができる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の活動が土壌の孔隙を増やし、水の浸透を促進する。",
+      "moisture_retention": "地上部の被覆が土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "不耕起栽培と組み合わせることで、地表流出と土壌侵食を大幅に削減できる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。収穫物として大部分が持ち出される。",
+      "below_ground_carbon": "根を通じて土壌に炭素を供給する。窒素固定により土壌有機物の分解を促進する側面もある。",
+      "soil_carbon_enhancement": "不耕起栽培や輪作体系に組み込むことで、土壌炭素貯留に貢献する。",
+      "carbon_sequestration_rate": "栽培方法に大きく依存する。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（トウモロコシが支柱となり、大豆が窒素を供給する）",
+        "カボチャ（地面を覆い雑草を抑制）"
+      ],
+      "natural_pest_control": "特定のコンパニオンプランツ（マリーゴールドなど）が線虫を抑制することがある。",
+      "nutrient_sharing": "窒素固定により、混植した他の植物に窒素を供給する。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌の健全性を維持し、生態系の安定性に寄与する。",
+      "stress_tolerance": "単一栽培ではストレスに弱いが、多様な作物との混植でシステム全体の耐性が向上する。",
+      "recovery_capacity": "不明",
+      "adaptability": "多様な品種が存在し、様々な農業システムに適応可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代における大豆の利用は非常に多岐にわたり、データは豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "植物性食品トレンドの中心的存在。高品質なタンパク質源として重要性が増している。",
+      "food_security_contribution": "世界人口を支える最も重要なタンパク質および油脂作物の一つ。",
+      "local_food_system_integration": "小規模農家による在来種の栽培は、地域の食料自給と文化継承に貢献する。",
+      "alternative_protein_potential": "豆乳、豆腐、テンペ、代替肉など、代替タンパク質製品の主要原料。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "植物性代替肉市場",
+        "機能性食品市場（イソフラボンなど）",
+        "非遺伝子組み換え・オーガニック市場"
+      ],
+      "value_added_products": [
+        "分離大豆タンパク",
+        "大豆レシチン",
+        "バイオディーゼル",
+        "化粧品原料"
+      ],
+      "niche_market_value": "黒大豆や茶豆などの在来品種は、その独特の風味や機能性から高付加価値のニッチ市場を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的浸食のリスクは広く認識されているが、各地域の在来種の保全状況に関する網羅的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生祖先種ツルマメの自生地が、開発や農地拡大により脅かされている。",
+    "climate_change_vulnerability": "在来種が持つ局所的な適応形質が、急速な気候変動により不適合となるリスクがある。",
+    "cultural_erosion_risk": "伝統的な食文化や栽培知識の喪失に伴い、それに結びついた在来品種が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来種の網羅的な収集と遺伝子銀行での保存（域外保全）",
+      "農家による種子の自家採種と栽培を支援する参加型保全（域内保全）",
+      "野生祖先種の自生地の保護"
+    ],
+    "priority_conservation_regions": [
+      "中国",
+      "朝鮮半島",
+      "日本"
+    ],
+    "ex_situ_conservation_status": "世界の主要なジーンバンクには多数の品種が保存されているが、網羅性には課題がある。",
+    "in_situ_conservation_efforts": "一部地域で、伝統野菜として在来種の保全活動が行われているが、広範な取り組みは限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "大豆の重要性に関する評価は、多数の国際機関や研究論文で確立されている。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中国（多様性の中心地）",
+      "アフリカ（新たな栽培適地としての可能性）",
+      "東南アジア（ユニークな発酵文化）"
+    ],
+    "knowledge_gaps": [
+      "多様な在来種の気候変動ストレス（複合ストレス）への応答メカニズム",
+      "伝統的な混植・間作システムにおける生態系サービス機能の定量的評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "代表的な品種や利用形態を記載。品種レベルの詳細なデータは膨大。"
+      },
+      "variety_name": "丹波黒（たんばぐろ）",
+      "local_name": "丹波黒",
+      "origin_region": "日本（兵庫県）",
+      "distinctive_characteristics": "極大粒で、煮豆にすると美しい黒色と独特の風味、もちもちした食感を持つ。晩生種。",
+      "cultural_importance": "主におせち料理の煮豆として利用され、日本の正月文化に不可欠。「まめに働く」という縁起を担ぐ。",
+      "climate_adaptation": "特定の気候（丹波地方の昼夜の寒暖差）で高品質になるが、適応範囲は狭い。",
+      "conservation_status": "地域ブランドとして保護・栽培されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "Edamameは特定の品種ではなく、未成熟な大豆を指す利用法だが、そのための専用品種群が存在する。"
+      },
+      "variety_name": "枝豆用品種群 (Edamame varietal group)",
+      "local_name": "枝豆",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "莢が大きく、甘みや風味が強い。完熟させず、緑色の未熟な状態で収穫・利用される。",
+      "cultural_importance": "日本や中国で古くから夏の風物詩として食されてきた。現在では世界的に健康的なスナックとして人気。",
+      "climate_adaptation": "早生から晩生まで多様な品種があり、世界中の様々な気候帯で栽培されている。",
+      "conservation_status": "世界中で多数の品種が育種・栽培されており、安定的。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "GRIN-Global (USDA)",
+      "World Vegetable Center",
+      "Peer-reviewed scientific literature on soybean genetics, agronomy, and ethnobotany"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "伝統的在来種の栄養・機能性成分の体系的分析"
+    ],
+    "regional_data_coverage": "東アジア、北米、南米は豊富。アフリカ、中央アジアに関するデータは比較的少ない。",
+    "missing_information": [
+      "多くの中小国における在来種の分布と保全状況",
+      "先住民コミュニティによる伝統的知識の詳細な記録"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

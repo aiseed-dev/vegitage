@@ -1,0 +1,684 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GRIN）および農学文献から統合。野生種との関係性は明確。"
+    },
+    "primary_name": "Kohlrabi",
+    "scientific_name": "Brassica oleracea var. gongylodes",
+    "plant_type": "Biennial (often grown as annual)",
+    "edible_parts": [
+      "Stem",
+      "Leaves"
+    ],
+    "origin_region": "Northern Europe (cultivar developed from Mediterranean wild cabbage, likely around the 16th century)",
+    "wild_relatives": [
+      "Brassica oleracea var. oleracea (Wild Cabbage)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各国語の名称は広く文書化されている。特にヨーロッパと南アジアでの名称は明確。"
+    },
+    "international": {
+      "en": [
+        "Kohlrabi",
+        "German Turnip",
+        "Cabbage Turnip"
+      ],
+      "scientific_common": "Kohlrabi"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Kohlrabi",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Chou-rave",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Cavolo rapa",
+            "script": "Latn"
+          },
+          {
+            "lang": "pl",
+            "name": "Kalarepa",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "गांठ गोभी (Ganth Gobhi)",
+            "script": "Deva"
+          },
+          {
+            "lang": "ur",
+            "name": "گانٹھ گوبھی (Ganth Gobhi)",
+            "script": "Arab"
+          },
+          {
+            "lang": "ks",
+            "name": "Monj/Munj",
+            "script": "Arab"
+          },
+          {
+            "lang": "bn",
+            "name": "ওলকপি (Olkopi)",
+            "script": "Beng"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "苤蓝 (piě lan)",
+            "script": "Hans"
+          },
+          {
+            "lang": "ja",
+            "name": "コールラビ",
+            "script": "Kana"
+          },
+          {
+            "lang": "ko",
+            "name": "콜라비 (kollabi)",
+            "script": "Hang"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類体系は国際的な植物分類データベースに基づき確立されている。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Cabbage",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Cabbage",
+      "la": "oleracea"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "gongylodes"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ヨーロッパとカシミール地方での文化的重要性は高いが、他の地域では限定的。詳細な民族植物学的記録は少ない。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "Central Europe (esp. German-speaking countries)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "生でサラダ、スープ、煮込み料理、詰め物料理として広く利用される家庭菜園の定番野菜。",
+        "seasonal_significance": "春と秋の代表的な野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "South Asia (esp. Kashmir)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜"
+        ],
+        "traditional_uses": "カシミール料理の中心的存在。「Monj Haak」（コールラビと葉の料理）は日常食であり、文化的アイデンティティの一部。",
+        "seasonal_significance": "冬の重要な野菜。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "German Cuisine",
+        "role": "essential",
+        "traditional_dishes": [
+          "Kohlrabisalat (raw salad)",
+          "Gefüllter Kohlrabi (stuffed kohlrabi)",
+          "Kohlrabisuppe (soup)"
+        ],
+        "preparation_methods": [
+          "Raw slicing",
+          "Steaming",
+          "Boiling",
+          "Roasting",
+          "Stuffing"
+        ],
+        "cultural_context": "家庭料理と季節の味覚を代表する、健康的で素朴な食材。"
+      },
+      {
+        "cuisine": "Kashmiri Pandit Cuisine",
+        "role": "staple",
+        "traditional_dishes": [
+          "Monj Haak",
+          "Dum Monj"
+        ],
+        "preparation_methods": [
+          "Stewing",
+          "Braising"
+        ],
+        "cultural_context": "地域の食文化と強く結びついた必須の野菜。独特の調理法で茎と葉の両方を余すことなく利用する。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "比較的新しい野菜で、古代の記録はない。16世紀のヨーロッパで初めて記述された。",
+      "trade_routes": "ヨーロッパ内での交易を通じて普及。その後、ヨーロッパ人の移住に伴い世界各地へ伝播。",
+      "cultural_exchange": "ヨーロッパから南アジアへ伝わり、カシミール地方で独自の食文化として深く根付いた顕著な事例。",
+      "domestication_history": "地中海沿岸の野生キャベツ（Brassica oleracea）から、数世紀にわたる人為選択によって茎の肥大化という特異な形質が選抜されて成立した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿では生育不良、病害虫多発。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の涼しく乾燥した気候での栽培に適する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春と秋の冷涼な気候が最適。霜に比較的強い。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の短い冷涼な地域での栽培に適する。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "一貫した水分供給が不可欠なため、乾燥地での栽培は困難。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高の高い冷涼な夏を持つ地域での栽培が可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "Temperate",
+        "planting_season": "Early spring, Late summer",
+        "harvest_season": "Late spring, Autumn",
+        "growing_period_days": "50-70"
+      },
+      {
+        "climate_zone": "Subtropical",
+        "planting_season": "Autumn",
+        "harvest_season": "Winter",
+        "growing_period_days": "60-80"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000-35,000 kg/ha",
+      "factors_affecting_yield": [
+        "Consistent watering",
+        "Soil fertility",
+        "Temperature (heat causes woodiness)",
+        "Pest pressure"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "Germany",
+          "production_share": "不明",
+          "characteristics": "ヨーロッパ最大の生産国・消費国。多様な品種が栽培されている。"
+        },
+        {
+          "country": "India",
+          "production_share": "不明",
+          "characteristics": "主に北部、特にカシミール地方で伝統的に栽培されている。"
+        },
+        {
+          "country": "United States",
+          "production_share": "不明",
+          "characteristics": "主にファーマーズマーケットや家庭菜園向けのニッチ作物。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価はUSDA等のデータベースで利用可能。機能性成分に関する研究は他のアブラナ科野菜に比べて限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "27",
+        "protein_g": "1.7",
+        "carbs_g": "6.2",
+        "fat_g": "0.1",
+        "fiber_g": "3.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Vitamin C",
+          "amount": "62 mg",
+          "daily_value_percent": "69%"
+        },
+        {
+          "nutrient": "Potassium",
+          "amount": "350 mg",
+          "daily_value_percent": "7%"
+        },
+        {
+          "nutrient": "Vitamin B6",
+          "amount": "0.15 mg",
+          "daily_value_percent": "9%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Glucosinolates (e.g., sinigrin)",
+        "concentration": "Variable",
+        "health_effect": "Antioxidant, Anti-inflammatory, Potential anti-cancer properties"
+      },
+      {
+        "compound": "Anthocyanins (in purple varieties)",
+        "concentration": "High in peel",
+        "health_effect": "Antioxidant, Cardiovascular protection"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [
+        "High antioxidant activity due to Vitamin C and phenolic compounds."
+      ],
+      "ongoing_research": [
+        "Chemopreventive effects of glucosinolates and their derivatives (isothiocyanates)."
+      ],
+      "safety_considerations": "Excessive consumption may interfere with thyroid function in individuals with iodine deficiency due to goitrogens, a common trait in Brassicaceae."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "調理法は世界の料理本や食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "Central Europe",
+        "methods": [
+          "Raw (salad)",
+          "Steamed",
+          "Boiled",
+          "Stuffed",
+          "Roasted",
+          "Creamed soup"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Butter",
+          "Nutmeg",
+          "Parsley",
+          "Cream",
+          "Potatoes"
+        ]
+      },
+      {
+        "region": "South Asia (Kashmir)",
+        "methods": [
+          "Stewed",
+          "Braised with spices"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Mustard oil",
+          "Asafoetida",
+          "Turmeric",
+          "Fennel seed",
+          "Ginger"
+        ]
+      },
+      {
+        "region": "North America",
+        "methods": [
+          "Roasted",
+          "Fries (as a potato substitute)",
+          "Slaw",
+          "Pureed"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "Olive oil",
+          "Herbs",
+          "Lemon",
+          "Garlic"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Pickling",
+        "regions": [
+          "Central Europe"
+        ],
+        "shelf_life": "Several months",
+        "quality_changes": "Becomes softer and tangy."
+      },
+      {
+        "method": "Root cellar storage",
+        "regions": [
+          "Temperate climate zones"
+        ],
+        "shelf_life": "2-3 months",
+        "quality_changes": "Can become woody if stored for too long."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Mildly sweet, peppery, crisp, similar to a broccoli stem or turnip but milder and sweeter.",
+      "aroma_compounds": [
+        "Isothiocyanates"
+      ],
+      "texture_characteristics": "Crisp and juicy when raw; tender and buttery when cooked."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "コールラビに特化した気候変動適応の研究は非常に少ない。評価はアブラナ科野菜の一般的な生理学的特性と栽培要件からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "Bolts (premature flowering) and becomes woody above 25°C.",
+      "cold_tolerance": "Can tolerate light frosts (-2°C), which can improve sweetness."
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "Low; consistent moisture is required to prevent the stem from becoming fibrous and splitting.",
+      "flood_tolerance": "Low; susceptible to root rot in waterlogged conditions.",
+      "optimal_rainfall": "Consistent, moderate rainfall or irrigation."
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "Moderate; low profile reduces wind damage.",
+      "hail_damage_recovery": "Low; damage to the swollen stem is permanent and invites rot.",
+      "rapid_temperature_change": "Susceptible to stress, which can trigger bolting."
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "Potential for increased biomass, similar to other C3 plants, but quality (woodiness) may be affected.",
+      "ozone_sensitivity": "Moderate, typical for Brassicaceae.",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Warming trends may expand the range and breeding season of pests like cabbage worms, flea beetles, and aphids, increasing pressure.",
+      "disease_resistance_stability": "Increased humidity and temperature stress may increase susceptibility to fungal and bacterial diseases like clubroot and black rot.",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Temperate regions",
+        "2050_projection": "Shift towards higher latitudes and altitudes. Spring/autumn growing windows may shorten in current zones.",
+        "2100_projection": "Further poleward/upward shift. Cultivation in currently suitable mid-latitudes may become difficult without heat-tolerant varieties.",
+        "confidence_level": "Medium (based on general crop models)"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Brassica oleracea内の交雑親和性は、遺伝学および育種学において非常によく研究されている。これはコールラビの適応ポテンシャルの最大の強みである。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Cabbage",
+        "Broccoli",
+        "Cauliflower",
+        "Kale",
+        "Brussels sprouts",
+        "Collard greens"
+      ],
+      "interspecific_compatibility": [
+        "Brassica rapa (limited)",
+        "Brassica nigra (limited)"
+      ],
+      "intergeneric_possibility": [
+        "Very low to none under natural conditions."
+      ],
+      "successful_natural_hybrids": [
+        "Frequent natural crossing occurs between different B. oleracea cultivars if allowed to flower in proximity."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "Moderate; heirloom varieties exist in Europe and landraces in Kashmir, but diversity is lower than for cabbage or kale.",
+      "wild_gene_pool": "Fully compatible with wild B. oleracea, which offers a vast gene pool for traits like salt, drought, and disease tolerance.",
+      "adaptive_genetic_variation": "Extremely high potential due to access to the entire B. oleracea gene pool.",
+      "inbreeding_depression_risk": "Low, as it is an outcrossing species."
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "High potential to incorporate heat/drought tolerance from kale or wild cabbage.",
+      "improved_nutritional_content": "High potential to increase levels of glucosinolates or vitamins by crossing with broccoli or kale.",
+      "novel_characteristics": "Potential for new shapes, colors, and leaf/stem combinations.",
+      "hybrid_vigor_potential": "High within the species."
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "None within B. oleracea.",
+      "chromosome_compatibility": "Perfect (2n=18 for all B. oleracea varieties).",
+      "fertility_of_hybrids": "Fully fertile.",
+      "backcrossing_success": "High."
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "Heat stress",
+        "adaptive_traits": "Delayed bolting, maintenance of stem tenderness at high temperatures.",
+        "heritability": "Moderate to high for bolting resistance.",
+        "response_to_selection": "High potential response through breeding."
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的な研究は少ないが、アブラナ科作物としての一般的な特性から多くの利点が推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Taproot with fibrous lateral roots, helps to break up mild soil compaction.",
+      "organic_matter_contribution": "Moderate; large leaves and root biomass can be incorporated into the soil.",
+      "soil_structure_improvement": "Crop rotation with kohlrabi can improve soil tilth.",
+      "erosion_control": "Rapid leaf canopy development provides good soil cover, reducing splash erosion.",
+      "nutrient_cycling_role": "Known as a 'scavenger' crop that can take up residual nitrogen, preventing leaching."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "If allowed to flower, provides abundant nectar and pollen for bees and other pollinators.",
+      "beneficial_insect_habitat": "Can host beneficial insects like lacewings and ladybugs if pesticide use is avoided.",
+      "soil_microorganism_interaction": "Glucosinolates in root exudates can have a 'biofumigation' effect, suppressing some soil-borne pathogens while fostering specific microbial communities.",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "Root channels can improve water infiltration.",
+      "moisture_retention": "Leaf cover reduces surface evaporation.",
+      "runoff_reduction": "Can reduce runoff compared to bare soil.",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "Moderate.",
+      "below_ground_carbon": "Low to moderate; as an annual, long-term sequestration is limited.",
+      "soil_carbon_enhancement": "Contributes to soil organic matter when crop residues are returned to the soil.",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Aromatic herbs (dill, rosemary) to deter cabbage moths",
+        "Legumes for nitrogen fixation",
+        "Onions as a pest deterrent."
+      ],
+      "natural_pest_control": "Can be used as a trap crop for certain pests like flea beetles.",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "Minor effects documented."
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "Contributes to stability through crop rotation and breaking pest/disease cycles of other plant families.",
+      "stress_tolerance": "Low individual stress tolerance, but contributes to system resilience through diversification.",
+      "recovery_capacity": "Low.",
+      "adaptability": "High genetic adaptability through breeding."
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食トレンドにおける位置づけは、市場分析や料理メディアで広く議論されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "Versatile for raw and cooked dishes; low-carb alternative to potatoes (e.g., fries, mash).",
+      "food_security_contribution": "Fast-growing and productive in suitable climates, contributing to local food supplies.",
+      "local_food_system_integration": "Well-suited for community supported agriculture (CSA) boxes and farmers' markets due to its unique appearance and ease of cultivation.",
+      "alternative_protein_potential": "None."
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Health and wellness market (low-carb, nutrient-dense)",
+        "Gourmet and restaurant markets",
+        "Value-added products like pre-cut sticks and slaws."
+      ],
+      "value_added_products": [
+        "Kohlrabi noodles ('koodles')",
+        "Pickled kohlrabi",
+        "Frozen kohlrabi cubes for soups."
+      ],
+      "niche_market_value": "High in regions where it is not traditionally grown."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "在来品種の保全状況に関する体系的なグローバルデータは不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "Not applicable (domesticated species). Threat is to in-situ landraces due to agricultural modernization.",
+    "climate_change_vulnerability": "High for existing cultivars due to heat sensitivity.",
+    "cultural_erosion_risk": "High, particularly in regions like Kashmir where traditional food systems are under pressure.",
+    "conservation_actions_needed": [
+      "Collection and preservation of landraces in gene banks (ex-situ)",
+      "Promotion of on-farm conservation by supporting farmers who grow traditional varieties (in-situ)."
+    ],
+    "priority_conservation_regions": [
+      "Kashmir Valley (India)",
+      "Alpine regions of Europe"
+    ],
+    "ex_situ_conservation_status": "Some heirloom varieties are held in global seed banks (e.g., Svalbard, USDA GRIN), but coverage of local landraces is likely incomplete.",
+    "in_situ_conservation_efforts": "Limited; mainly through small-scale heirloom seed companies and local farming communities."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集されたデータに基づく総合的な専門家判断である。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "Kashmir, India",
+      "Germany"
+    ],
+    "knowledge_gaps": [
+      "Quantitative data on heat and drought tolerance across different varieties.",
+      "Nutritional and bioactive compound profiles of regional landraces.",
+      "Impacts of elevated CO2 on quality (fiber content)."
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "Heirloom varieties are well-documented in seed catalogs and agricultural heritage databases."
+      },
+      "variety_name": "White Vienna",
+      "local_name": "Wiener Weißer",
+      "origin_region": "Austria/Germany",
+      "distinctive_characteristics": "Early maturing (around 55 days), pale green skin, tender white flesh, good for spring planting.",
+      "cultural_importance": "A classic heirloom variety, widely grown in European home gardens for over a century.",
+      "climate_adaptation": "Adapted to cool temperate climates; low heat tolerance.",
+      "conservation_status": "Widely available"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "Heirloom varieties are well-documented in seed catalogs and agricultural heritage databases."
+      },
+      "variety_name": "Purple Vienna",
+      "local_name": "Wiener Blauer",
+      "origin_region": "Austria/Germany",
+      "distinctive_characteristics": "Vibrant purple skin with white flesh. Slightly slower to mature than White Vienna. Anthocyanin-rich peel.",
+      "cultural_importance": "A popular alternative to White Vienna, valued for its color in salads and slaws.",
+      "climate_adaptation": "Slightly better heat and sun tolerance than White Vienna due to pigmentation.",
+      "conservation_status": "Widely available"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "USDA FoodData Central",
+      "Ethnobotanical literature on Kashmiri cuisine",
+      "General agronomy texts for Brassicaceae"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative data for climate change adaptation models",
+      "Comprehensive genetic mapping of landraces",
+      "Specific regenerative agriculture system performance metrics"
+    ],
+    "regional_data_coverage": "Strong for Europe and North America, moderate for South Asia, weak for other regions.",
+    "missing_information": [
+      "Global production statistics",
+      "Traditional medicinal uses beyond general Brassicaceae family traits",
+      "Indigenous names and uses (as it is a recent cultivar)"
+    ],
+    "update_priority": "High, especially regarding climate tolerance breeding research.",
+    "quality_score": 8
+  }
+}

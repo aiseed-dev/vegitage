@@ -1,0 +1,641 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is consolidated from major botanical, agricultural, and ethnobotanical databases. The wild progenitor relationship with A. altaicum is widely accepted but still subject to some academic debate."
+    },
+    "primary_name": "Welsh Onion",
+    "scientific_name": "Allium fistulosum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "シベリア南西部、中国北西部",
+    "wild_relatives": [
+      "Allium altaicum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are well-documented in culinary and botanical literature, especially for East Asia. The English term 'scallion' or 'spring onion' can be ambiguous and may also refer to young Allium cepa."
+    },
+    "international": {
+      "en": [
+        "Welsh onion",
+        "Japanese bunching onion",
+        "Spring onion",
+        "Scallion"
+      ],
+      "scientific_common": "Fistular onion"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "葱 (ねぎ)",
+            "script": "Kanji/Hiragana"
+          },
+          {
+            "lang": "zh",
+            "name": "葱 (cōng)",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "파 (pa)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Hành lá",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ต้นหอม (ton hom)",
+            "script": "Thai"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "ru",
+            "name": "Лук-батун (Luk-batun)",
+            "script": "Cyrillic"
+          },
+          {
+            "lang": "fr",
+            "name": "Ciboule commune",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on the APG IV system of plant classification."
+    },
+    "family": {
+      "en": "Amaryllis family",
+      "la": "Amaryllidaceae"
+    },
+    "genus": {
+      "en": "Onion",
+      "la": "Allium"
+    },
+    "species": {
+      "en": "Welsh onion",
+      "la": "A. fistulosum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural significance in East Asia is extensively documented in historical texts, culinary arts, and traditional medicine literature. Importance in other regions is primarily culinary."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬味",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "日本、中国、韓国料理において不可欠な香味野菜。薬味、炒め物、鍋物、スープなど幅広く利用される。体を温める効果があるとされ、伝統医学で風邪の初期症状に使われる。",
+        "seasonal_significance": "多くの地域で周年栽培されるが、冬の鍋料理に甘みを増した葱は特に重要視される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬味"
+        ],
+        "traditional_uses": "スープや麺料理のトッピング、炒め物の香りづけとして広く利用される。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "味噌汁",
+          "すき焼き",
+          "ラーメン",
+          "薬味全般"
+        ],
+        "preparation_methods": [
+          "生食（刻み）",
+          "煮る",
+          "焼く",
+          "炒める"
+        ],
+        "cultural_context": "日本の食文化における基本的な香味野菜であり、「薬味」として料理の風味を引き立てる上で中心的な役割を果たす。地域ごとに多様な伝統品種が存在する。"
+      },
+      {
+        "cuisine": "中華料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "葱油餅 (Cong you bing)",
+          "北京ダックの付け合わせ",
+          "炒飯"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "煮込む",
+          "生食"
+        ],
+        "cultural_context": "炒め物で最初に油で熱し香りを出す「爆香 (bào xiāng)」に不可欠。料理の風味の土台を築く上で最も重要な食材の一つ。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では2000年以上前から栽培の記録がある。",
+      "trade_routes": "シルクロードなどを通じてアジア全域、そしてヨーロッパへと伝播した。",
+      "cultural_exchange": "東アジアの食文化圏を形成する上で共通の要素として機能してきた。",
+      "domestication_history": "中国北部またはシベリア地域で野生種(A. altaicum)から栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や乾季に栽培可能だが、高温多湿には弱い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "秋から春にかけての涼しい季節が栽培適期。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最適。多くの品種がこの気候帯で育成され、春と秋が主な栽培シーズン。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "耐寒性が高く、厳しい冬を越す品種も存在する。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑がなければ栽培は困難。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高の高い冷涼な気候に適応した品種が存在する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "夏から冬（作型による）",
+        "growing_period_days": "90-150"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 50,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "土壌肥沃度",
+        "日照",
+        "水分管理",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産国であり、消費国。多様な品種が栽培されている。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "主要な生産国の一つ。地域ごとに特色ある伝統品種（在来種）が多数存在する。"
+        },
+        {
+          "country": "韓国",
+          "production_share": "不明",
+          "characteristics": "キムチをはじめとする韓国料理に不可欠で、国内での生産・消費量が非常に多い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "32",
+        "protein_g": "1.8",
+        "carbs_g": "7.3",
+        "fat_g": "0.2",
+        "fiber_g": "2.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "207 µg",
+          "daily_value_percent": "173%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "18.8 mg",
+          "daily_value_percent": "23%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "997 IU",
+          "daily_value_percent": "20%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アリシン等の硫化アリル",
+        "concentration": "変動あり",
+        "health_effect": "抗菌作用、血行促進"
+      },
+      {
+        "compound": "ケルセチン（フラボノイド）",
+        "concentration": "特に葉の緑色部分に多い",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学 (TCM)",
+        "uses": [
+          "発汗解熱",
+          "去痰",
+          "健胃"
+        ],
+        "preparation": "生姜と共に煎じたスープ（葱白湯）として飲用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗菌作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "心血管疾患予防"
+      ],
+      "safety_considerations": "過剰摂取は胃腸を刺激することがある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書や食文化研究で広く記述されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "生食（薬味）",
+          "炒める",
+          "煮る",
+          "焼く",
+          "蒸す"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "生姜",
+          "ニンニク",
+          "醤油",
+          "味噌",
+          "ごま油"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が柔らかくなるが、風味は比較的保たれる。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "一年以上",
+        "quality_changes": "香りが凝縮されるが、生のフレッシュさは失われる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生の時は辛味と刺激的な香り。加熱すると甘みと旨味が増す。",
+      "aroma_compounds": [
+        "硫化アリル類"
+      ],
+      "texture_characteristics": "シャキシャキとした食感。加熱すると柔らかくとろりとなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、品種レベルでの定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "約35°C以上で生育不良",
+      "cold_tolerance": "-10°C以下にも耐える品種がある"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-800mm（年間）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が折れやすいが、株自体は比較的強い。",
+      "hail_damage_recovery": "中程度。葉の損傷からの回復は可能。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアザミウマやネギアブラムシの発生期間が長期化する可能性がある。",
+      "disease_resistance_stability": "高温多湿化により、さび病や軟腐病のリスクが増大する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯および冷涼な亜熱帯",
+        "2050_projection": "栽培適地がやや高緯度・高標高へシフトする可能性",
+        "2100_projection": "低緯度地域での夏作はより困難になる可能性",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "タマネギ(A. cepa)との交雑はよく知られているが、他の野生種との自然交雑に関する情報は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "品種間の交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Allium cepa（タマネギ）と容易に交雑し、稔性のある雑種(Allium x proliferum)を形成する。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "A. cepaとの交雑は自然環境下でも起こりうる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "東アジアに多数の在来種・伝統品種が存在し、遺伝的多様性は高い。",
+      "wild_gene_pool": "野生祖先種とされる A. altaicum との遺伝的交流が、適応性の源泉となっている可能性がある。",
+      "adaptive_genetic_variation": "耐寒性、耐暑性、分けつの仕方など、地域適応による多様な遺伝変異が存在する。",
+      "inbreeding_depression_risk": "栄養繁殖も可能だが、種子繁殖が主でありリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本",
+        "environmental_pressure": "南北に長い国土の多様な気候（多雪、温暖、冷涼）",
+        "adaptive_response": "耐寒性の高い品種（下仁田ねぎ）、分けつ性の高い品種（九条ねぎ）、耐暑性のある品種（沖縄の島らっきょうに近い系統）など、地域ごとの多様な在来種が成立。",
+        "time_scale": "数百年",
+        "mechanism": "地域農家による長年の選抜育種（人為選択と自然選択の協調）。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "A. cepa の持つ耐病性や A. altaicum の持つ環境ストレス耐性を導入できる可能性がある。",
+      "improved_nutritional_content": "A. cepa の持つ特定の機能性成分を導入できる可能性がある。",
+      "novel_characteristics": "非結球性（A. fistulosum）と鱗茎形成（A. cepa）の中間的な形質を持つ新品種の作出が可能。",
+      "hybrid_vigor_potential": "種間雑種において雑種強勢が見られることがある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "A. cepa とは交雑親和性が高い。",
+      "chromosome_compatibility": "A. fistulosum, A. cepa ともに 2n=16 で染色体適合性が高い。",
+      "fertility_of_hybrids": "種間雑種は多くの場合、稔性を持つ。",
+      "backcrossing_success": "戻し交配も可能で、育種に利用されている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "温度（耐寒性・耐暑性）、病害虫",
+        "adaptive_traits": "休眠性、分けつ数、葉のクチクラ層の厚さ",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ネギのリジェネラティブ農業への貢献に関する直接的な研究は少ない。多くはネギ科植物の一般的特性やコンパニオンプランツとしての知見からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅いひげ根。土壌の表層を団粒化する効果が期待できる。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物となるが、量は多くない。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "密植により表土の流出をある程度防ぐ。",
+      "nutrient_cycling_role": "根から分泌される物質が、特定の土壌微生物の活動を促進する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花時にはハナバチ類など多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "特筆すべき点はない。",
+      "soil_microorganism_interaction": "ネギ属特有の硫黄化合物が土壌微生物叢に影響を与え、特定の病原菌を抑制する効果（バイオフューミゲーション効果）が示唆される。",
+      "above_ground_biodiversity": "限定的。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "限定的。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "特になし。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。",
+      "below_ground_carbon": "低い。",
+      "soil_carbon_enhancement": "限定的。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン（ニンジンの害虫を遠ざける）",
+        "トマト（病害虫を抑制）",
+        "レタス"
+      ],
+      "natural_pest_control": "特有の香りが多くのアブラムシやハエ類を忌避する効果があるとされる。",
+      "nutrient_sharing": "不明。",
+      "allelopathic_interactions": "マメ科植物の生育を阻害することがある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作付け体系に組み込むことで、病害虫の発生を抑制し、システムの安定性に貢献する可能性がある。",
+      "stress_tolerance": "中程度。",
+      "recovery_capacity": "中程度。",
+      "adaptability": "高い。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場データと食文化のトレンドから評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "基本的な香味野菜として、植物中心の食生活に不可欠。",
+      "food_security_contribution": "比較的栽培が容易で、小規模農家や家庭菜園でも生産可能なため、地域の食料自給に貢献する。",
+      "local_food_system_integration": "地産地消に適しており、世界中の地域食品システムに組み込まれている。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "伝統品種のブランド化",
+        "加工品（乾燥、冷凍、香味油）"
+      ],
+      "value_added_products": [
+        "香味油",
+        "ドレッシング",
+        "フリーズドライ製品"
+      ],
+      "niche_market_value": "「下仁田ねぎ」や「九条ねぎ」のような伝統品種は、その独特の風味と食感から高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としての絶滅リスクは低いが、在来品種の遺伝的浸食は世界的な懸念事項。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生祖先種の自生地は開発や過放牧の脅威に晒されている可能性がある。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高（均一なF1品種への移行による、伝統品種とそれに伴う食文化の喪失）",
+    "conservation_actions_needed": [
+      "在来品種の種子バンクでの保存(ex-situ)",
+      "伝統農法による農家での栽培維持(in-situ)",
+      "伝統品種の価値の再評価と市場開拓"
+    ],
+    "priority_conservation_regions": [
+      "中国",
+      "日本",
+      "韓国の各地域"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "日本などで、地域コミュニティや自治体が在来品種の保全活動を行っている例がある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本項目の総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中国雲南省",
+      "シベリアのアルタイ山脈地域（野生種の調査）",
+      "日本の各地域（在来種の特性評価）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する品種レベルでの生理的応答",
+      "リジェネラティブ農業における土壌微生物叢への具体的な影響"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の著名な伝統野菜品種に関する情報。"
+      },
+      "variety_name": "九条ねぎ (Kujo Negi)",
+      "local_name": "九条ねぎ",
+      "origin_region": "日本、京都府",
+      "distinctive_characteristics": "分けつ性が高く、緑の葉の部分が長く柔らかい。甘みと独特のぬめりが特徴。",
+      "cultural_importance": "京野菜の代表格。おばんざいや鍋物など、京都の食文化に不可欠。",
+      "climate_adaptation": "比較的温暖な気候に適応。",
+      "conservation_status": "地域ブランドとして保全・振興されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の著名な伝統野菜品種に関する情報。"
+      },
+      "variety_name": "下仁田ねぎ (Shimonita Negi)",
+      "local_name": "下仁田ねぎ",
+      "origin_region": "日本、群馬県",
+      "distinctive_characteristics": "分けつせず、白い部分が非常に太く短い。加熱するととろりとした食感と強い甘みが出る。",
+      "cultural_importance": "「殿様ねぎ」の異名を持つ高級食材。すき焼きなどの鍋料理に最適とされる。",
+      "climate_adaptation": "冷涼で乾燥した冬の気候に適応。",
+      "conservation_status": "地域ブランドとして保全・振興されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "World Vegetable Center (AVRDC) databases",
+      "Kew Gardens' Plants of the World Online",
+      "FAOSTAT",
+      "Ethnobotanical and agricultural research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生祖先種の正確な分布と遺伝的多様性"
+    ],
+    "regional_data_coverage": "東アジアは豊富、その他の地域は限定的。",
+    "missing_information": [
+      "アフリカ、南米における伝統的利用法に関する詳細情報"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

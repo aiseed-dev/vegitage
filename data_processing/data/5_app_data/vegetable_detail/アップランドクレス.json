@@ -1,0 +1,554 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, USDA GRIN）から統合。野生近縁種との詳細な関係性に関するデータは限定的。"
+    },
+    "primary_name": "Upland Cress",
+    "scientific_name": "Barbarea verna",
+    "plant_type": "二年草/多年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "南西ヨーロッパ",
+    "wild_relatives": [
+      "Barbarea vulgaris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "欧米での呼称は豊富だが、他の地域での現地名は限定的。先住民による伝統的な名称は確認されていない。"
+    },
+    "international": {
+      "en": [
+        "Upland Cress",
+        "Early Wintercress",
+        "American Cress",
+        "Belle Isle Cress"
+      ],
+      "scientific_common": "Land Cress"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Cresson de terre",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Amerikanische Winterkresse",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Berro de tierra",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Crescione di terra",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "キバナクレス",
+            "script": "Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Wintercress",
+      "la": "Barbarea"
+    },
+    "species": {
+      "en": "Upland cress",
+      "la": "Barbarea verna"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ヨーロッパと北米での歴史的利用は記録されているが、世界的な文化的意義は限定的。儀式的利用に関する情報はない。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "冬から早春にかけての貴重なビタミンC源として、サラダやスープに利用されてきた。特にイギリスでは伝統的な冬の緑黄色野菜として知られる。",
+        "seasonal_significance": "冬の終わりと春の到来を告げるハーブとしての意味合いを持つ。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "ヨーロッパからの入植者によって持ち込まれ、家庭菜園で栽培されてきた。特にアパラチア地方などで春の強壮剤（spring tonic）として利用された歴史がある。",
+        "seasonal_significance": "早春に収穫できる緑黄色野菜として重要。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イギリス料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Winter salads",
+          "Soups"
+        ],
+        "preparation_methods": [
+          "生食",
+          "加熱"
+        ],
+        "cultural_context": "他の野菜が少ない冬期に、クレソンやルッコラと同様のピリッとした風味を加えるために用いられる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマ時代から利用されていた可能性が示唆されているが、明確な証拠は限定的。中世ヨーロッパでは広く栽培されていた。",
+      "trade_routes": "主要な交易品ではなかったが、種子は地域間で交換されていたと考えられる。",
+      "cultural_exchange": "ヨーロッパから北米、オセアニアなどへの移住と共に伝播した。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、ヨーロッパの野生種から選択され、家庭菜園などで維持されてきたと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には適さない。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の冷涼な気候での栽培が可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な気候を好み、春と秋が最適な栽培時期。-10℃程度の低温にも耐える。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の高温を避ければ栽培可能。越冬も可能。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な水分供給が必要であり、乾燥には弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な気候に適応可能だが、生育期間が短い場所では収量が限られる。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春または晩夏〜初秋",
+        "harvest_season": "春、秋、冬（温暖な地域）",
+        "growing_period_days": 40
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "土壌水分",
+        "日照",
+        "コナガなどの害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "不明",
+          "production_share": 0,
+          "characteristics": "商業的な大規模生産は稀で、主に家庭菜園や小規模な市場向けに生産される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要なビタミン・ミネラルに関するデータは存在するが、品種や栽培条件による変動に関する研究は少ない。機能性成分に関する研究は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "11",
+        "protein_g": "1.3",
+        "carbs_g": "1.8",
+        "fat_g": "0.1",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "62 mg",
+          "daily_value_percent": 103
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "3191 IU",
+          "daily_value_percent": 64
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "不明",
+          "daily_value_percent": 0
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.3 mg",
+          "daily_value_percent": 7
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、抗がん作用の可能性。ピリッとした風味の原因物質。"
+      },
+      {
+        "compound": "カロテノイド",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、視機能維持。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "壊血病予防",
+          "食欲増進",
+          "利尿作用",
+          "去痰"
+        ],
+        "preparation": "生の葉をそのまま、またはジュースにして摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "グルコシノレートの抗がん作用に関する研究"
+      ],
+      "safety_considerations": "アブラナ科植物にアレルギーがある場合は注意が必要。大量摂取は甲状腺機能に影響を与える可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "調理法に関する情報は、料理本や園芸関連の文献で広く入手可能。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ、北米",
+        "methods": [
+          "生食（サラダ、サンドイッチ）",
+          "スープ",
+          "ソテー"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "卵",
+          "ジャガイモ",
+          "レモン",
+          "ビネガー"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷蔵",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "3-5日",
+        "quality_changes": "しおれやすく、風味が落ちやすい。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ピリッとした辛味、わずかな苦味、爽やかな後味。ウォータークレスやルッコラに似るが、よりマイルド。",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "柔らかく、シャキシャキしている。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応研究は非常に少ない。評価はアブラナ科の冷涼性葉物野菜の一般的な特性に基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-20°C",
+      "extreme_heat_survival": "30°C以上では生育が著しく阻害され、抽苔（トウ立ち）しやすい。",
+      "cold_tolerance": "-10°C"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "適度な土壌水分を好む。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。葉が傷つきやすい。",
+      "hail_damage_recovery": "中程度。成長点が無事であれば回復可能。",
+      "rapid_temperature_change": "抽苔を誘発する可能性がある。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。一般的にはC3植物として光合成が促進される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりコナガやアブラムシの発生期間が長期化し、被害が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境では、べと病などの病害リスクが高まる可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域",
+        "2050_projection": "高緯度地域や高標高地域へシフトする可能性が高い。",
+        "2100_projection": "現在の主要栽培地での夏季栽培は困難になる可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属の野生種との交雑可能性に関する情報は多いが、自然環境下での実例や遺伝的多様性に関する定量的データは少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種は少ないが、地域集団間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Barbarea vulgaris（ハルザキヤマガラシ）"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い。"
+      ],
+      "successful_natural_hybrids": [
+        "Barbarea vulgarisとの自然交雑が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "限定的。",
+      "wild_gene_pool": "近縁の野生種Barbarea vulgarisが広範に分布しており、耐病性や環境ストレス耐性に関する遺伝子資源として重要。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "自家不和合性の程度が不明であり、リスクは評価困難。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "Barbarea vulgarisの持つ広範な環境適応性を導入できる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "害虫抵抗性（特にコナガに対する抵抗性を持つB. vulgaris系統が存在する）。",
+      "hybrid_vigor_potential": "高い可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の交雑は可能だが、後代の稔性は不明。",
+      "chromosome_compatibility": "同属内で染色体数（2n=16）が共通しているため、適合性は比較的高い。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化したリジェネラティブ農業への貢献に関する研究はない。アブラナ科植物の一般的な特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "直根性だが、根は比較的浅い。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物となるが、バイオマスは大きくない。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "生育初期からロゼット状に葉を広げるため、地表面を覆い、雨滴による土壌侵食を軽減する効果がある。",
+      "nutrient_cycling_role": "アブラナ科植物は土壌深層の栄養素を吸収する能力があるが、本種の効果は不明。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "黄色い花はミツバチやハナアブなど多様な花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "テントウムシなどの天敵昆虫の生息場所を提供。",
+      "soil_microorganism_interaction": "グルコシノレートが土壌微生物叢に影響を与える（バイオフューミゲーション効果）。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により水の浸透を助ける。",
+      "moisture_retention": "地表を覆うことによる蒸発抑制効果。",
+      "runoff_reduction": "軽微な効果。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。",
+      "below_ground_carbon": "低い。",
+      "soil_carbon_enhancement": "限定的。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン、タマネギ（害虫忌避効果が期待される）"
+      ],
+      "natural_pest_control": "特定の害虫を忌避する効果がある可能性。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物を導入する一助となる。",
+      "stress_tolerance": "耐寒性が高く、冬から早春のニッチを埋めることができる。",
+      "recovery_capacity": "不明",
+      "adaptability": "中程度"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場トレンドや食品システムへの貢献は、専門誌や市場レポートから推定可能。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン・ミネラルが豊富で、植物性食品中心の食生活に貢献する。",
+      "food_security_contribution": "耐寒性が高く、端境期（はざかいき）に収穫できるため、地域レベルの食料供給の安定化に寄与する。",
+      "local_food_system_integration": "栽培が容易で輸送に弱いため、地産地消やCSA（地域支援型農業）に適している。",
+      "alternative_protein_potential": "低い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ベビーリーフ、マイクログリーン市場",
+        "レストラン向け高級食材",
+        "栄養価を強調した機能性食品"
+      ],
+      "value_added_products": [
+        "サラダミックス",
+        "ペースト（ペスト）",
+        "ジュース"
+      ],
+      "niche_market_value": "高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "種としての絶滅リスクは低いが、地域固有の遺伝資源（ランドレース）の保全状況は不明。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "自生地はヨーロッパの一部に限られるが、栽培植物として広く分布しているため脅威は低い。",
+    "climate_change_vulnerability": "高い。温暖化による栽培適地の喪失が懸念される。",
+    "cultural_erosion_risk": "中。伝統的な食文化の継承が途絶えると、栽培も減少する可能性がある。",
+    "conservation_actions_needed": [
+      "地域固有の遺伝資源の探索と収集",
+      "種子バンクでの系統保存（ex-situ conservation）",
+      "伝統的知識の記録と保全"
+    ],
+    "priority_conservation_regions": [
+      "南西ヨーロッパ（原産地）",
+      "アパラチア山脈地域（伝統的利用地域）"
+    ],
+    "ex_situ_conservation_status": "主要な種子バンクには保存されている。",
+    "in_situ_conservation_efforts": "特になし。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家AIとしての総合的評価。"
+    },
+    "cultural_heritage_value": 4,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 5,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "ヨーロッパ",
+      "北米"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する生理学的応答",
+      "品種・系統ごとの栄養成分と機能性成分の差異",
+      "リジェネラティブ農業システムにおける具体的な効果の定量化"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "商業的に確立された品種は非常に少なく、多くは単に「Upland Cress」として流通している。"
+      },
+      "variety_name": "標準種 (Common type)",
+      "local_name": "Upland Cress",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "濃緑色で光沢のある葉を持つ。ピリッとした辛味が特徴。耐寒性が非常に高い。",
+      "cultural_importance": "冬から春にかけてのサラダ用葉物野菜として、欧米の家庭菜園で栽培されている。",
+      "climate_adaptation": "冷涼な気候に適応。耐暑性は低い。",
+      "conservation_status": "Not threatened"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Plants of the World Online (Kew Science)",
+      "USDA National Nutrient Database",
+      "GRIN-Global (Germplasm Resources Information Network)",
+      "Relevant ethnobotanical and horticultural literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界的な生産量と市場規模"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に偏っており、他の地域に関するデータは乏しい。",
+    "missing_information": [
+      "収量データ",
+      "先住民による利用例",
+      "加工・保存に関する詳細な伝統技術"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

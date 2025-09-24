@@ -1,0 +1,755 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ジャガイモは世界的に主要な作物であり、植物学、農学、人類学の各分野で広範な研究が存在する。国際ポテトセンター(CIP)やFAOのデータが豊富。"
+    },
+    "primary_name": "Potato",
+    "scientific_name": "Solanum tuberosum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎"
+    ],
+    "origin_region": "南米アンデス山脈地域（現在のペルー、ボリビア周辺）",
+    "wild_relatives": [
+      "Solanum acaule",
+      "Solanum demissum",
+      "Solanum commersonii",
+      "その他約100種"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中に普及しているため、各言語での名称は豊富に記録されている。"
+    },
+    "international": {
+      "en": [
+        "Potato"
+      ],
+      "scientific_common": "Tuberous nightshade"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Papa",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Batata",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Pomme de terre",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Kartoffel",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Картофель (Kartofel')",
+            "script": "Cyrillic"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ジャガイモ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "马铃薯 (mǎlíngshǔ), 土豆 (tǔdòu)",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "감자 (gamja)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "आलू (Aloo)",
+            "script": "Devanagari"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ケチュア語話者（アンデス）",
+        "name": "Papa",
+        "cultural_significance": "主食であり、豊穣や母なる大地（パチャママ）と関連付けられる文化的象徴。"
+      },
+      {
+        "community": "アイマラ語話者（アンデス）",
+        "name": "Ch'uqi",
+        "cultural_significance": "伝統的な保存食チューニョの原料であり、食料安全保障の基盤。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Nightshade family",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Nightshade",
+      "la": "Solanum"
+    },
+    "species": {
+      "en": "Potato",
+      "la": "Solanum tuberosum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Subspecies",
+        "name": "Solanum tuberosum subsp. tuberosum"
+      },
+      {
+        "rank": "Subspecies",
+        "name": "Solanum tuberosum subsp. andigenum"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食文化史、人類学における研究が豊富。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南米アンデス",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "主食としての利用に加え、凍結乾燥保存食「チューニョ」に加工され、飢饉に備える。多様な品種が標高に応じて栽培され、生物文化多様性の核となっている。",
+        "seasonal_significance": "収穫祭は重要な年中行事であり、コミュニティの結束を強める。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "18世紀以降、飢饉を救う作物として人口増加を支えた。アイルランド大飢饉のように、単一栽培への依存が社会に壊滅的影響を与えた歴史も持つ。",
+        "seasonal_significance": "秋の収穫は重要な季節の節目。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ヨーロッパ移民によって導入され、フライドポテトやポテトチップスなど、現代のファストフード文化を象徴する食材となった。",
+        "seasonal_significance": "感謝祭などの祝祭料理に欠かせない食材。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "アンデス料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Papa a la Huancaína",
+          "Causa Limeña",
+          "Chuño"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "焼く",
+          "スープ",
+          "凍結乾燥"
+        ],
+        "cultural_context": "多様な在来種を使い分け、日々の食事から儀式まで中心的な役割を担う。"
+      },
+      {
+        "cuisine": "アイルランド料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Colcannon",
+          "Boxty",
+          "Irish Stew"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "マッシュ",
+          "パンケーキ"
+        ],
+        "cultural_context": "歴史的に国民の生命線であり、現在も国民食として深く愛されている。"
+      },
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Aloo Gobi",
+          "Samosa",
+          "Vada Pav"
+        ],
+        "preparation_methods": [
+          "カレー",
+          "炒め物",
+          "揚げ物"
+        ],
+        "cultural_context": "ベジタリアン料理において重要な具材であり、スパイスとの相性が良く、様々な料理で利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "約8000年前にアンデスで栽培化。インカ帝国では主要な食料源であった。",
+      "trade_routes": "16世紀にスペイン人によってヨーロッパにもたらされ（コロンブス交換）、大航海時代を通じて世界中に伝播した。",
+      "cultural_exchange": "ヨーロッパの食文化と人口動態を劇的に変化させた。また、世界各地で現地の食文化と融合し、新たな料理を生み出した。",
+      "domestication_history": "アンデス高地の多様な環境に適応する中で、数千もの在来品種が生まれた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "低地での栽培は困難。高地の冷涼な地域では可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬作物として、または高地で栽培される。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育期間中に15-20℃の冷涼な気候が最適。夏の高温が塊茎形成を阻害する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の冷涼な地域で広く栽培される。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑が必須。水ストレスに弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地であり、高地環境への適応性が高い。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "晩夏から秋",
+        "growing_period_days": "90-120"
+      },
+      {
+        "climate_zone": "亜熱帯高地",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "乾季",
+        "growing_period_days": "100-150"
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 40,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "気温",
+        "水分供給",
+        "土壌肥沃度",
+        "病害虫（特に疫病）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約3億7600万トン (FAOSTAT 2021)",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 25.0,
+          "characteristics": "世界最大の生産国。国内消費が中心。"
+        },
+        {
+          "country": "インド",
+          "production_share": 14.0,
+          "characteristics": "生産量が急増しており、国内の需要を満たしている。"
+        },
+        {
+          "country": "ウクライナ",
+          "production_share": 5.7,
+          "characteristics": "ヨーロッパの主要生産国の一つ。伝統的に栽培が盛ん。"
+        },
+        {
+          "country": "ロシア",
+          "production_share": 5.0,
+          "characteristics": "広大な国土で栽培され、重要な主食作物。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栄養データベース（USDAなど）に標準値が記載されている。品種による機能性成分の違いに関する研究も進んでいる。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "77",
+        "protein_g": "2.0",
+        "carbs_g": "17.5",
+        "fat_g": "0.1",
+        "fiber_g": "2.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "19.7 mg",
+          "daily_value_percent": "22"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "429 mg",
+          "daily_value_percent": "9"
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "0.295 mg",
+          "daily_value_percent": "23"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントシアニン",
+        "concentration": "紫・赤色品種に豊富",
+        "health_effect": "強力な抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "カロテノイド",
+        "concentration": "黄色・オレンジ色品種に含有",
+        "health_effect": "抗酸化作用、視機能維持"
+      },
+      {
+        "compound": "グリコアルカロイド（ソラニン、チャコニン）",
+        "concentration": "芽、緑化した皮に高濃度",
+        "health_effect": "毒性があり、多量摂取は食中毒の原因となる。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米アンデス",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "胃痛・胃潰瘍の緩和",
+          "火傷や皮膚炎の湿布"
+        ],
+        "preparation": "生のジャガイモをすりおろし、汁を飲むか、患部に塗布する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "優れたエネルギー源",
+        "高血圧予防（カリウムによる）",
+        "抗酸化作用（有色品種）"
+      ],
+      "ongoing_research": [
+        "難消化性デンプン（レジスタントスターチ）の腸内環境改善効果",
+        "血糖値コントロールに適した品種の開発"
+      ],
+      "safety_considerations": "芽や緑化した皮に含まれるグリコアルカロイドは有毒なため、取り除いて調理する必要がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理で利用されており、調理法に関する情報は膨大。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界共通",
+        "methods": [
+          "茹でる",
+          "焼く",
+          "揚げる",
+          "蒸す",
+          "炒める",
+          "マッシュする"
+        ],
+        "flavor_role": "主味/副味",
+        "typical_combinations": [
+          "肉類",
+          "魚介類",
+          "他の野菜",
+          "乳製品（バター、チーズ）",
+          "ハーブ"
+        ]
+      },
+      {
+        "region": "アンデス",
+        "methods": [
+          "石焼き（ワティア）",
+          "凍結乾燥（チューニョ）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "唐辛子（アヒ）",
+          "チーズ",
+          "ハーブ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "凍結乾燥（チューニョ）",
+        "regions": [
+          "南米アンデス高地"
+        ],
+        "shelf_life": "数年以上",
+        "quality_changes": "水分が抜け、非常に軽くなる。独特の風味と食感が生まれる。"
+      },
+      {
+        "method": "冷凍加工（フライドポテトなど）",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数ヶ月から1年",
+        "quality_changes": "ブランチング処理により酵素を失活させ、品質を保つ。"
+      },
+      {
+        "method": "デンプン製造",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "長期間",
+        "quality_changes": "純粋な炭水化物として抽出される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかで土の香り。デンプン質由来のほのかな甘み。",
+      "aroma_compounds": [
+        "メチオナール",
+        "ピラジン類"
+      ],
+      "texture_characteristics": "品種により「粉質（ホクホク）」から「粘質（しっとり、煮崩れしにくい）」まで多様。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "気候変動影響に関する研究は多いが、多くはモデルベースの予測。品種レベルでの定量的データはまだ発展途上。耐性に関する情報は主に育種研究から得られる。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30°C以上で塊茎形成が著しく阻害される。",
+      "cold_tolerance": "霜に非常に弱い。地上部は枯死する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "比較的低い。塊茎形成期に十分な水分を必要とする。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間中に500-750mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部が倒伏しやすいが、地下の塊茎は保護される場合がある。",
+      "hail_damage_recovery": "葉の損傷からの回復力は中程度。",
+      "rapid_temperature_change": "弱い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。CO2濃度の上昇により光合成が促進され、収量が増加する可能性がある。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンに感受性を示す。",
+      "uv_radiation_tolerance": "原産地が高地であるため、一定のUV耐性を持つ品種が存在する。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、コロラドハムシなどの害虫の発生地域が北上・拡大するリスクが高い。",
+      "disease_resistance_stability": "高温多湿は疫病（Phytophthora infestans）の発生を助長し、壊滅的な被害をもたらすリスクを高める。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域、亜熱帯・熱帯の高地",
+        "2050_projection": "栽培適地が高緯度・高標高へ移動。現在の主要産地の一部で収量低下が予測される。",
+        "2100_projection": "移動傾向はさらに顕著になる。耐暑性品種の開発が不可欠。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際ポテトセンター(CIP)を中心に、野生種との交雑に関する広範な研究と実績がある。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "S. tuberosum subsp. tuberosumとS. tuberosum subsp. andigenumは容易に交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "S. demissum（疫病抵抗性）、S. acaule（耐霜性）など、多くの野生種と交雑が可能で、育種に利用されてきた。"
+      ],
+      "intergeneric_possibility": [
+        "通常は不可能"
+      ],
+      "successful_natural_hybrids": [
+        "アンデス地域では、栽培種と野生種の遺伝子流動が自然に起こっている可能性が指摘されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地アンデスには数千の在来品種が存在し、世界で最も遺伝的多様性が豊かな作物の一つ。",
+      "wild_gene_pool": "約100種の野生近縁種が存在し、耐病性、耐虫性、耐ストレス性などの貴重な遺伝子の宝庫となっている。",
+      "adaptive_genetic_variation": "標高、土壌、日長など、アンデスの多様な微気候に適応した遺伝的変異が豊富に存在する。",
+      "inbreeding_depression_risk": "栄養繁殖が主だが、交配育種における近交弱勢のリスクは存在する。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス高地",
+        "environmental_pressure": "強い霜、短い生育期間、強い紫外線",
+        "adaptive_response": "耐霜性、短日条件での塊茎形成能力、高アントシアニン含有（紫外線防御）",
+        "time_scale": "数千年",
+        "mechanism": "地域農家による長年の選抜と、野生種との自然交雑による遺伝子移入。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種から耐乾性、耐暑性、耐塩性遺伝子を導入する研究が進行中。",
+      "improved_nutritional_content": "野生種には高濃度の鉄、亜鉛、ビタミンを含むものが存在し、栄養強化への応用が期待される。",
+      "novel_characteristics": "新たな色、形、風味、調理特性を持つ品種の創出が可能。",
+      "hybrid_vigor_potential": "ハイブリッドポテト（F1品種）の研究が進んでおり、雑種強勢による収量増が期待されている。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違い（2倍体、4倍体、6倍体など）が交雑障壁となることがある。",
+      "chromosome_compatibility": "近縁種間では比較的高いが、遠縁種では技術的介在が必要。",
+      "fertility_of_hybrids": "種間雑種では不稔になる場合がある。",
+      "backcrossing_success": "育種で一般的に用いられ、成功率は高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害（特に疫病）",
+        "adaptive_traits": "R遺伝子による抵抗性",
+        "heritability": "高い",
+        "response_to_selection": "速いが、病原菌の変異も速いため、いたちごっこになることが多い。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ジャガイモ単体でのリジェネラティブ効果に関する研究は少ない。輪作体系や混植システムの一部としての評価が主であり、定量的データは乏しい。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い繊維状の根系。土壌の緻密化を防ぐ効果は限定的。",
+      "organic_matter_contribution": "地上部バイオマスは多いが、収穫時に塊茎と共に多くの養分が土壌から持ち出される。",
+      "soil_structure_improvement": "収穫時の土壌攪乱が大きく、土壌構造を破壊する可能性がある。不耕起栽培は困難。",
+      "erosion_control": "生育初期の被覆が遅いため、マルチングなしでは土壌侵食のリスクがある。",
+      "nutrient_cycling_role": "カリウム要求量が非常に高い。養分収奪型の作物と見なされることが多い。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は一部のハナバチ類を引きつけるが、主要な蜜源・花粉源ではない。",
+      "beneficial_insect_habitat": "不明。単一栽培では天敵昆虫の生息地としては限定的。",
+      "soil_microorganism_interaction": "AM菌（アーバスキュラー菌根菌）と共生するが、その効果は他の作物に比べて低いとされる。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "畝立て栽培が一般的であり、畝間の水の浸透を助ける可能性がある。",
+      "moisture_retention": "マルチング（敷きわらなど）を行うことで土壌水分保持に貢献できる。",
+      "runoff_reduction": "等高線栽培やマルチングにより流出を削減可能。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "塊茎に多くの炭素を蓄積するが、収穫され消費されるため、土壌への永続的な炭素貯留にはならない。",
+      "soil_carbon_enhancement": "収穫後の残渣を鋤き込むことで土壌炭素を増やすが、収穫時の攪乱による炭素放出も大きい。",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科（インゲンマメ、エンドウ）",
+        "マリーゴールド（線虫忌避）",
+        "アリッサム（天敵誘引）"
+      ],
+      "natural_pest_control": "マリーゴールドはネコブセンチュウを、ナスタチウムはコロラドハムシを遠ざける効果が報告されている。",
+      "nutrient_sharing": "マメ科との混植は窒素供給に貢献する可能性がある。",
+      "allelopathic_interactions": "ヒマワリはジャガイモの生育を阻害することが知られている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "単作では病害虫に脆弱で安定性が低い。多様な作物を組み合わせた輪作体系に組み込むことが重要。",
+      "stress_tolerance": "作物単体でのストレス耐性は高くない。",
+      "recovery_capacity": "低い",
+      "adaptability": "品種の遺伝的多様性は高いが、個々の栽培システムとしての適応性は低い。"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食品科学、栄養学、市場分析に関する情報が豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリーの主要な炭水化物源として価値が高い。",
+      "food_security_contribution": "単位面積あたりのカロリー生産量が穀物より高く、世界の食料安全保障に不可欠な作物。",
+      "local_food_system_integration": "世界中の多様な気候で栽培可能であり、地域の食料システムに容易に組み込める。",
+      "alternative_protein_potential": "タンパク質含有量は低いが、抽出されたポテトプロテインは植物性タンパク質源として利用され始めている。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品（有色ジャガイモ）",
+        "低GI（グリセミック・インデックス）品種",
+        "加工食品（スナック、冷凍食品、植物性代替食品）"
+      ],
+      "value_added_products": [
+        "ポテトチップス",
+        "フライドポテト",
+        "ポテトスターチ（片栗粉）",
+        "ウォッカ、アクアビットなどの蒸留酒"
+      ],
+      "niche_market_value": "希少な在来品種やオーガニック栽培品は、高級食材として高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "CIPや各国のジーンバンクが保全活動を行っているが、全ての在来種の状況が把握されているわけではない。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "アンデス地域における気候変動や土地利用の変化が、野生近縁種の生息地を脅かしている。",
+    "climate_change_vulnerability": "在来種が栽培されている高山環境は気候変動の影響を特に受けやすい。",
+    "cultural_erosion_risk": "市場経済の浸透や若者の離農により、在来品種の栽培と利用に関する伝統知識が失われつつある。",
+    "conservation_actions_needed": [
+      "在来品種の域内保全（オンファーム保全）の支援",
+      "野生近縁種の生息地保全",
+      "ジーンバンクにおける域外保全の強化",
+      "伝統知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "ペルー、ボリビア、エクアドルのアンデス高地"
+    ],
+    "ex_situ_conservation_status": "国際ポテトセンター(CIP)が世界最大のジーンバンクを保有し、数千の品種・野生種を保存している。",
+    "in_situ_conservation_efforts": "ペルーの「ポテトパーク」など、地域コミュニティが主体となった在来品種の保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本レポート全体からの統合的評価。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 10,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "アンデス高地（生物文化多様性のホットスポット）",
+      "アフリカのサハラ以南（新たな重要栽培地域）",
+      "中央アジア（気候変動影響を受けやすい地域）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する数千の在来品種それぞれの応答特性",
+      "リジェネラティブ農業体系におけるジャガイモの役割に関する定量的データ",
+      "伝統的な土壌管理と微生物叢の関係"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要品種に関する情報は豊富。"
+      },
+      "variety_name": "Russet Burbank",
+      "local_name": "Russet",
+      "origin_region": "アメリカ合衆国",
+      "distinctive_characteristics": "大型で細長く、皮は褐色で網目状。粉質で揚げ物やベイクドポテトに適する。",
+      "cultural_importance": "フライドポテトの代名詞であり、世界のファストフード産業を支える最も重要な商業品種。",
+      "climate_adaptation": "長い生育期間と大量の水を必要とし、気候変動への脆弱性が指摘される。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "在来種の情報は民族植物学的な記録が中心。"
+      },
+      "variety_name": "Papa Amarilla",
+      "local_name": "Papa Amarilla (Yellow Potato)",
+      "origin_region": "ペルー",
+      "distinctive_characteristics": "小ぶりで、皮も身も鮮やかな黄色。非常に粉質でクリーミーな食感。",
+      "cultural_importance": "ペルー料理の高級食材。特に「カウサ」や「パパ・ア・ラ・ワンカイーナ」に不可欠。",
+      "climate_adaptation": "アンデスの特定の高地環境に適応している。",
+      "conservation_status": "地域限定で栽培、遺伝資源として重要"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "ヨーロッパの主要品種に関する情報は豊富。"
+      },
+      "variety_name": "Bintje",
+      "local_name": "Bintje",
+      "origin_region": "オランダ",
+      "distinctive_characteristics": "中くらいの大きさで黄色い皮と肉質。やや粉質で多目的に利用できる。",
+      "cultural_importance": "20世紀のヨーロッパで最も広く栽培された品種の一つ。フライドポテトやマッシュポテトに人気。",
+      "climate_adaptation": "疫病に弱いという欠点がある。",
+      "conservation_status": "栽培は減少傾向だが、依然として重要"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "International Potato Center (CIP) database",
+      "World Catalogue of Potato Varieties",
+      "Scientific literature on ethnobotany, agronomy, and climate science"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する数千の在来品種の個別の応答に関するデータ",
+      "土壌マイクロバイオームとの相互作用の詳細"
+    ],
+    "regional_data_coverage": "南米と北米、ヨーロッパは豊富。アフリカ、アジアの一部地域はデータが比較的少ない。",
+    "missing_information": [
+      "多くのアフリカ、アジアの在来品種に関する詳細な特性データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

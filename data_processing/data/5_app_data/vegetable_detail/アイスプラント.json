@@ -1,0 +1,579 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース（KEW, GBIF）および農業研究論文からの情報を統合。伝統的利用に関する情報は限定的。"
+    },
+    "primary_name": "Ice Plant",
+    "scientific_name": "Mesembryanthemum crystallinum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "南アフリカ（ナマクアランド沿岸、ナミブ砂漠）、地中海沿岸、カナリア諸島",
+    "wild_relatives": [
+      "Mesembryanthemum nodiflorum",
+      "Carpobrotus edulis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商業的に栽培されている地域での名称は豊富だが、原産地での伝統的な名称に関する体系的な記録は少ない。"
+    },
+    "international": {
+      "en": [
+        "Common Ice Plant",
+        "Crystalline Iceplant"
+      ],
+      "scientific_common": "Crystalline Ice Plant"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "アイスプラント",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ja",
+            "name": "バラフ",
+            "script": "Katakana"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Ficoïde glaciale",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Hierba del rocío",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Eiskraut",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "af",
+            "name": "Brakslaai",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明",
+        "name": "不明",
+        "cultural_significance": "南アフリカの先住民による薬用利用の可能性が示唆されているが、具体的な名称や利用法の詳細は学術的に確立されていない。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Aizoon family",
+      "la": "Aizoaceae"
+    },
+    "genus": {
+      "en": "Fig-marigold",
+      "la": "Mesembryanthemum"
+    },
+    "species": {
+      "en": "Common Ice Plant",
+      "la": "M. crystallinum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用としての歴史は浅く、現代的な食材としての価値が主。伝統文化における重要性は限定的か、記録が失われている可能性が高い。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（特に日本）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "伝統的利用は存在しない。21世紀に入ってから新しい食材として導入され、サラダや付け合わせとして生食されるのが一般的。",
+        "seasonal_significance": "主に春から初夏、秋に市場に出回る。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アフリカ",
+        "importance_level": 1,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "伝統医学で利尿剤や肺疾患の治療に用いられたとの断片的な記録があるが、現代ではほとんど利用されていない。食用としての伝統はない。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [],
+    "historical_significance": {
+      "antiquity": "古代からの食用作物としての歴史は確認されていない。",
+      "trade_routes": "18世紀に観賞用植物としてヨーロッパに導入された。また、ソーダ灰（炭酸ナトリウム）の原料として利用された歴史がある。",
+      "cultural_exchange": "現代において、新しい食感と機能性を持つ「ニューベジタブル」として世界に紹介され、食文化の多様化に貢献している。",
+      "domestication_history": "明確な栽培化の歴史はなく、野生種を選抜利用している段階に近い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、生育不良や病気が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の栽培に適する。夏季の高温期は避ける必要がある。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "温和な気候を好む。霜害には弱い。施設栽培が主流。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "極端な寒暖差や厳しい冬には適さない。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "原産地であり、非常に適している。ただし商業生産には一定の水が必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱いため適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（日本）",
+        "planting_season": "春（3-4月）、秋（9-10月）",
+        "harvest_season": "初夏（5-7月）、冬（11-3月）",
+        "growing_period_days": "60-90"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（施設栽培では高収量が見込める）",
+      "factors_affecting_yield": [
+        "日照量",
+        "温度（特に高温）",
+        "土壌塩分濃度",
+        "灌水管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "高品質な生食用アイスプラントの主要生産国。施設栽培が中心。"
+        },
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "ヨーロッパ市場向けの生産が行われている。"
+        },
+        {
+          "country": "イスラエル",
+          "production_share": "不明",
+          "characteristics": "乾燥地農業技術を活かした生産研究が進んでいる。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な栄養素に関するデータは存在するが、機能性成分の含有量は栽培条件により大きく変動する。伝統的薬用利用の科学的検証は不十分。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "15-25",
+        "protein_g": "0.5-1.5",
+        "carbs_g": "3-5",
+        "fat_g": "0.1-0.3",
+        "fiber_g": "1-2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "β-カロテン",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ピニトール",
+        "concentration": "栽培条件による",
+        "health_effect": "血糖値上昇抑制、肝機能改善"
+      },
+      {
+        "compound": "ミオイノシトール",
+        "concentration": "栽培条件による",
+        "health_effect": "中性脂肪蓄積抑制、抗動脈硬化"
+      },
+      {
+        "compound": "プロリン",
+        "concentration": "塩分ストレス下で増加",
+        "health_effect": "抗酸化作用、浸透圧調節"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アフリカ",
+        "medical_system": "伝統医学（コイサン族など）",
+        "uses": [
+          "利尿剤",
+          "肺疾患の治療",
+          "洗浄剤（石鹸代わり）"
+        ],
+        "preparation": "詳細は不明。葉の浸出液や搾り汁が用いられた可能性がある。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗糖尿病作用（ピニトール）",
+        "抗酸化活性",
+        "耐塩性メカニズムの解明"
+      ],
+      "safety_considerations": "シュウ酸をある程度含むため、過剰摂取には注意が必要。一般的に安全な食材と見なされている。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代的な食材としての利用法は確立されており、情報も豊富。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界共通（現代料理）",
+        "methods": [
+          "生食（サラダ）",
+          "和え物",
+          "天ぷら",
+          "炒め物（短時間）",
+          "スープの浮き身"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "シーフード",
+          "オリーブオイル",
+          "柑橘類のドレッシング",
+          "トマト",
+          "チーズ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷蔵",
+        "regions": [
+          "世界共通"
+        ],
+        "shelf_life": "数日〜1週間",
+        "quality_changes": "鮮度が落ちると特徴的な食感が失われる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな自然の塩味、わずかな酸味",
+      "aroma_compounds": [
+        "青葉アルコール類"
+      ],
+      "texture_characteristics": "シャキシャキ、プチプチとした独特の食感（ブラッダー細胞による）"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐塩性に関する研究は多いが、気候変動シナリオ下での総合的な適応性評価はまだ発展途上。定量データは限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C以上では生育が著しく阻害される。",
+      "cold_tolerance": "0°C以下では枯死する。耐霜性はない。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "非常に高い（CAM型光合成への切り替え能力による）",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "200-500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地を這うように生育するため、強風による倒伏のリスクは低い）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "ポジティブな効果が期待される（C3光合成とCAM光合成の両方を利用するため）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（原産地の環境から推測）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明（比較的新しい作物であり、データが蓄積されていない）",
+      "disease_resistance_stability": "高温多湿条件下で灰色かび病などが発生しやすい。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海性気候、温帯、亜熱帯の沿岸部および乾燥地域",
+        "2050_projection": "塩類集積が進む農地や、乾燥化が進行する地域での栽培ポテンシャルが増大する可能性",
+        "2100_projection": "高温化が極端に進む地域では適地から外れる可能性があるが、水資源が乏しい地域での重要性は増す可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属内での交雑可能性に関する基礎研究は存在するが、自然環境下での適応や育種に関する具体的なデータは非常に少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [],
+      "interspecific_compatibility": [
+        "Mesembryanthemum属の他種との交雑可能性がある"
+      ],
+      "intergeneric_possibility": [
+        "不明"
+      ],
+      "successful_natural_hybrids": [
+        "確認された事例は少ない"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "在来品種は存在しない",
+      "wild_gene_pool": "原産地の南アフリカに多様な遺伝子プールが存在する",
+      "adaptive_genetic_variation": "塩ストレス、乾燥ストレスに対する高い適応的遺伝変異を持つ",
+      "inbreeding_depression_risk": "不明"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "カリフォルニア（米国）、オーストラリア",
+        "environmental_pressure": "新たな乾燥・塩性環境",
+        "adaptive_response": "導入先で野生化し、侵略的外来種として定着",
+        "time_scale": "数十年",
+        "mechanism": "高い環境ストレス耐性と繁殖力"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐病性（特に過湿耐性）の向上が期待される",
+      "improved_nutritional_content": "機能性成分（ピニトール等）の含有量を高める可能性がある",
+      "novel_characteristics": "葉の形状、色、食感の多様化",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "塩分濃度、乾燥",
+        "adaptive_traits": "ブラッダー細胞の発達、CAM型光合成能力",
+        "heritability": "高いと推定される",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "low",
+      "source_comment": "植物の特性からの類推が主であり、リジェネラティブ農業システム内での役割に関する実証研究は非常に少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い根系を持つ",
+      "organic_matter_contribution": "中程度。地上部のバイオマスは残渣として土壌に還元される。",
+      "soil_structure_improvement": "限定的",
+      "erosion_control": "匍匐性の草姿が地表面を覆うことで、風食・水食を抑制する効果がある。",
+      "nutrient_cycling_role": "土壌中のナトリウムなどの塩類を吸収・蓄積する能力（ファイトレメディエーション）"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期にはハナバチ類など多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "限定的"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により雨滴の衝撃を和らげ、土壌クラスト形成を防ぐ可能性がある。",
+      "moisture_retention": "地表を覆うことで土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "軽度な効果が期待できる。",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "CAM植物であるため、乾燥条件下でも効率的に炭素を固定する能力を持つが、植物体が小さいため全体量は少ない。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "不明"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "乾燥や塩害に対するシステムの耐性を高める可能性がある。",
+      "stress_tolerance": "高い（乾燥、塩害）",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代的な食材としての価値と将来性については、多くの議論と研究が存在する。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ユニークな食感とミネラルを提供する新しい野菜としての価値",
+      "food_security_contribution": "塩類集積土壌や乾燥地など、従来の作物が育ちにくい限界地での食料生産（バイオサライン農業）の候補として重要。",
+      "local_food_system_integration": "施設栽培により都市近郊での生産が可能であり、地産地消に適している。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品市場",
+        "高級レストラン向け食材",
+        "家庭用サラダキット"
+      ],
+      "value_added_products": [
+        "ピニトールなどの機能性成分の抽出・製品化",
+        "化粧品原料（保湿成分）",
+        "冷凍食品、ピクルス"
+      ],
+      "niche_market_value": "非常に高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "広範囲に分布し侵略的になることもあるため、種としての絶滅リスクは低い。しかし、原産地における遺伝的多様性の保全状況は不明。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地（南アフリカの沿岸砂漠地帯）における開発や気候変動による生息地の劣化。",
+    "climate_change_vulnerability": "種全体としては低いが、特定の地域個体群は脆弱な可能性がある。",
+    "cultural_erosion_risk": "高（伝統的知識が存在した場合、すでに大半が失われている可能性が高い）",
+    "conservation_actions_needed": [
+      "原産地における遺伝的多様性の調査と系統保存（ジーンバンク）",
+      "伝統的知識に関する民族植物学的調査（もし残存していれば）"
+    ],
+    "priority_conservation_regions": [
+      "南アフリカ・ナマクアランド地域"
+    ],
+    "ex_situ_conservation_status": "多くの植物園や種子銀行で保存されている。",
+    "in_situ_conservation_efforts": "特定の保全活動は確認されていない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査に基づく総合評価。"
+    },
+    "cultural_heritage_value": 2,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "南アフリカ（遺伝的多様性と伝統利用）",
+      "イスラエル、オーストラリア（乾燥地・塩類土壌での栽培技術）"
+    ],
+    "knowledge_gaps": [
+      "伝統的利用に関する民族植物学的記録",
+      "原産地における遺伝的多様性の詳細な評価",
+      "リジェネラティブ農業システムにおける具体的な効果の定量的データ"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "伝統的な品種（ランドレース）は存在せず、商業栽培されているものは野生種からの選抜系統が主であるため、品種名は流動的。"
+      },
+      "variety_name": "一般流通品",
+      "local_name": "アイスプラント",
+      "origin_region": "南アフリカ（原種）",
+      "distinctive_characteristics": "葉や茎の表面に透明なブラッダー細胞を持ち、プチプチとした食感と塩味がある。",
+      "cultural_importance": "現代的な食材としての重要性を持つ。",
+      "climate_adaptation": "高い耐乾性と耐塩性を持つ。",
+      "conservation_status": "保全対象ではない（Not Applicable）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "GBIF (Global Biodiversity Information Facility)",
+      "学術論文データベース (Google Scholar, PubMed)"
+    ],
+    "major_knowledge_gaps": [
+      "伝統文化における具体的な利用法と意義",
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答"
+    ],
+    "regional_data_coverage": "東アジア、ヨーロッパでの利用に関する情報は豊富だが、原産地アフリカでの情報は乏しい。",
+    "missing_information": [
+      "先住民による伝統名と利用法",
+      "交雑育種に関する詳細データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

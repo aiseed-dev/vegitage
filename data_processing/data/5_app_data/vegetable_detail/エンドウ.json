@@ -1,0 +1,735 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), agricultural organizations (FAO), and historical academic literature. Wild relative data is well-established but their full geographic distribution can be sparse."
+    },
+    "primary_name": "Pea",
+    "scientific_name": "Pisum sativum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "果実",
+      "葉",
+      "茎"
+    ],
+    "origin_region": "Fertile Crescent (Near East)",
+    "wild_relatives": [
+      "Pisum fulvum",
+      "Pisum sativum subsp. elatius"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical databases and national agricultural glossaries. Indigenous names for such a globally domesticated crop are often integrated into local dialects of major languages."
+    },
+    "international": {
+      "en": [
+        "Pea",
+        "Garden pea",
+        "Field pea"
+      ],
+      "scientific_common": "Pea"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Pois",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Guisante",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Erbse",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Pisello",
+            "script": "Latn"
+          },
+          {
+            "lang": "ru",
+            "name": "Горох (Gorokh)",
+            "script": "Cyrl"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "मटर (Matar)",
+            "script": "Deva"
+          },
+          {
+            "lang": "bn",
+            "name": "মটর (Motor)",
+            "script": "Beng"
+          },
+          {
+            "lang": "ur",
+            "name": "مٹر (Matar)",
+            "script": "Arab"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "豌豆 (Wāndòu)",
+            "script": "Hans"
+          },
+          {
+            "lang": "ja",
+            "name": "エンドウ (Endō)",
+            "script": "Jpan"
+          },
+          {
+            "lang": "ko",
+            "name": "완두 (Wandu)",
+            "script": "Hang"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "بازلاء (Bazila)",
+            "script": "Arab"
+          },
+          {
+            "lang": "tr",
+            "name": "Bezelye",
+            "script": "Latn"
+          },
+          {
+            "lang": "fa",
+            "name": "نخود فرنگی (Nokhod farangi)",
+            "script": "Arab"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Global Landraces",
+        "name": "Numerous local variety names",
+        "cultural_significance": "Represents local adaptation and culinary heritage. Many names are descriptive, referring to size, color, or season (e.g., 'marrowfat', 'petit pois')."
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is stable and universally accepted according to APG IV system."
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Pea",
+      "la": "Pisum"
+    },
+    "species": {
+      "en": "Pea",
+      "la": "sativum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "sativum"
+      },
+      {
+        "rank": "subsp.",
+        "name": "elatius"
+      },
+      {
+        "rank": "var.",
+        "name": "arvense (Field Pea)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Historical and cultural significance is extensively documented due to its role in early agriculture and genetics."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "Consumed fresh (garden pea), dried (split pea soup), or processed. A staple vegetable in diets from the UK (mushy peas) to France (petits pois à la française).",
+        "seasonal_significance": "Historically, a key sign of spring. Dried peas were a vital winter protein source.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "Essential ingredient in numerous dishes like 'Aloo Matar' (potato and pea curry) and 'Matar Paneer'. Widely used in snacks like samosas.",
+        "seasonal_significance": "A major winter crop and vegetable.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "Used in stir-fries, soups, and rice dishes. Pea shoots (dou miao) are a popular green vegetable. Snack peas are also very popular.",
+        "seasonal_significance": "A common spring and early summer vegetable.",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "Global",
+        "role": "essential",
+        "traditional_dishes": [
+          "Split Pea Soup",
+          "Aloo Matar",
+          "Mushy Peas",
+          "Hoppin' John (with field peas)"
+        ],
+        "preparation_methods": [
+          "Boiling",
+          "Steaming",
+          "Stir-frying",
+          "Drying",
+          "Canning",
+          "Freezing"
+        ],
+        "cultural_context": "One of the world's most versatile vegetables, adaptable to countless cuisines. Its dried form was critical for long-term storage and sea voyages."
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "One of the first crops domesticated by humans, around 7000-8000 BCE in the Fertile Crescent.",
+      "trade_routes": "Spread rapidly through ancient trade routes across Eurasia and North Africa.",
+      "cultural_exchange": "The foundation of modern genetics through Gregor Mendel's experiments on pea plants in the 1860s, a pivotal moment in scientific history.",
+      "domestication_history": "Domesticated from its wild relative *Pisum sativum* subsp. *elatius*. Domestication selected for non-shattering pods and larger seeds."
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "Generally unsuitable due to heat stress, but can be grown at high altitudes during cooler seasons."
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "Grown as a cool winter crop."
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "Optimal climate. Grown as a spring/early summer crop."
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "Grown as a spring/early summer crop, vulnerable to late frosts and summer heat."
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "Requires irrigation; generally unsuitable due to water scarcity and heat."
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "Can be grown in valleys during short summer seasons."
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "Temperate",
+        "planting_season": "Early Spring",
+        "harvest_season": "Late Spring to Early Summer",
+        "growing_period_days": 60
+      },
+      {
+        "climate_zone": "Subtropical",
+        "planting_season": "Autumn",
+        "harvest_season": "Winter to Early Spring",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "2,000 - 6,000 kg/ha (dry peas); 4,000 - 12,000 kg/ha (green peas)",
+      "factors_affecting_yield": [
+        "Temperature during flowering",
+        "Water availability",
+        "Soil fertility",
+        "Pest and disease pressure",
+        "Variety selection"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "Approx. 22 million tonnes (dry peas), 20 million tonnes (green peas)",
+      "major_producers": [
+        {
+          "country": "China",
+          "production_share": 50,
+          "characteristics": "Dominant producer of green peas for domestic consumption."
+        },
+        {
+          "country": "India",
+          "production_share": 25,
+          "characteristics": "Major producer of green peas, largely for the fresh market."
+        },
+        {
+          "country": "Canada",
+          "production_share": 15,
+          "characteristics": "World's largest producer and exporter of dry peas."
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Nutritional data for standard green peas is widely available from national nutrient databases (e.g., USDA). Data on bioactive compounds is from scientific literature, but varies by variety and processing."
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "81",
+        "protein_g": "5.4",
+        "carbs_g": "14.5",
+        "fat_g": "0.4",
+        "fiber_g": "5.7"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Vitamin K",
+          "amount": "24.8 mcg",
+          "daily_value_percent": 21
+        },
+        {
+          "nutrient": "Manganese",
+          "amount": "0.4 mg",
+          "daily_value_percent": 18
+        },
+        {
+          "nutrient": "Vitamin C",
+          "amount": "40 mg",
+          "daily_value_percent": 44
+        },
+        {
+          "nutrient": "Thiamin (B1)",
+          "amount": "0.3 mg",
+          "daily_value_percent": 22
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Polyphenols (e.g., coumestrol, pisumsaponins)",
+        "concentration": "Varies",
+        "health_effect": "Antioxidant, anti-inflammatory properties."
+      },
+      {
+        "compound": "Carotenoids (Lutein, Zeaxanthin)",
+        "concentration": "Varies",
+        "health_effect": "Supports eye health."
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "Folk medicine",
+        "uses": [
+          "As a diuretic"
+        ],
+        "preparation": "Infusion of dried plant parts."
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "Blood sugar control (low glycemic index)",
+        "Supports digestive health (high fiber)",
+        "Heart health (fiber, potassium)"
+      ],
+      "ongoing_research": [
+        "Anti-cancer properties of specific compounds",
+        "Role of pea protein in muscle synthesis and satiety"
+      ],
+      "safety_considerations": "Contains anti-nutrients like phytic acid and lectins, which are significantly reduced by cooking. Generally very safe."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Culinary uses are extensively documented in cookbooks, culinary history, and food science literature worldwide."
+    },
+    "global_cooking_methods": [
+      {
+        "region": "Global",
+        "methods": [
+          "Boiling",
+          "Steaming",
+          "Roasting",
+          "Stir-frying",
+          "Mashing",
+          "Drying and splitting for soups"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Mint",
+          "Butter",
+          "Onions",
+          "Potatoes",
+          "Carrots",
+          "Paneer (cheese)",
+          "Bacon/Pancetta"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Freezing",
+        "regions": [
+          "Global"
+        ],
+        "shelf_life": ">1 year",
+        "quality_changes": "Excellent preservation of color, flavor, and nutrients if blanched properly."
+      },
+      {
+        "method": "Drying",
+        "regions": [
+          "Global"
+        ],
+        "shelf_life": "Several years",
+        "quality_changes": "Becomes starchy, requires long cooking. Basis for split peas."
+      },
+      {
+        "method": "Canning",
+        "regions": [
+          "Global"
+        ],
+        "shelf_life": "Several years",
+        "quality_changes": "Softer texture, duller color, some nutrient loss compared to fresh/frozen."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Sweet, starchy, 'green', slightly earthy",
+      "aroma_compounds": [
+        "Hexanal (grassy note)",
+        "Pyrazines (earthy note)"
+      ],
+      "texture_characteristics": "Firm and popping when fresh, soft and mealy when cooked, creamy when puréed."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "General tolerance limits are known from agronomic studies, but specific data on extreme weather resilience and CO2 response at the variety level is limited. Future projections are based on climate models and crop suitability studies."
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "13-18°C",
+      "extreme_heat_survival": "Temperatures >29°C during flowering can cause flower drop and poor pod set.",
+      "cold_tolerance": "Can tolerate light frosts (-2 to -4°C), but severe frost can damage plants."
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "Moderate; deep root system can access soil moisture but yields are significantly reduced by drought.",
+      "flood_tolerance": "Low; susceptible to root rot in waterlogged conditions.",
+      "optimal_rainfall": "400-500mm during growing season"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "Low to moderate; vining types are prone to lodging in high winds and heavy rain.",
+      "hail_damage_recovery": "Poor; can suffer significant foliage and pod damage.",
+      "rapid_temperature_change": "Sensitive, especially during flowering."
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "Positive, as a C3 plant, but often negated by accompanying heat and drought stress.",
+      "ozone_sensitivity": "Moderate to high.",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Vulnerable to shifting pest ranges, such as aphids and pea weevils moving to higher latitudes.",
+      "disease_resistance_stability": "Many cultivars have resistance to common diseases like powdery mildew and Fusarium wilt, but new pathogen races are a constant threat.",
+      "beneficial_organism_relationships": "Reliant on Rhizobium bacteria for nitrogen fixation, which can be sensitive to soil temperature and pH changes."
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Temperate and subtropical winter zones",
+        "2050_projection": "Shift towards higher latitudes and altitudes. Shortening of growing seasons in current mid-latitude zones.",
+        "2100_projection": "Significant reduction in suitability in Southern Europe, South Asia, and parts of North America. Potential new areas in Northern Europe and Canada.",
+        "confidence_level": "Medium"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "The genetics of Pisum are well-studied, forming the basis of classical genetics. Cross-compatibility with wild relatives is a key focus of modern breeding programs."
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "High compatibility among all *P. sativum* varieties and landraces."
+      ],
+      "interspecific_compatibility": [
+        "*Pisum fulvum*"
+      ],
+      "intergeneric_possibility": [
+        "Very low to none under natural conditions."
+      ],
+      "successful_natural_hybrids": [
+        "Natural hybridization occurs with wild subspecies *P. sativum* subsp. *elatius* in its native range, contributing to genetic diversity."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "High, with thousands of landraces preserved in gene banks, but decreasing in farmers' fields.",
+      "wild_gene_pool": "The wild relatives (*P. fulvum*, *P. s. elatius*) hold significant genetic resources for disease resistance and stress tolerance.",
+      "adaptive_genetic_variation": "Present in landraces adapted to specific local conditions, particularly for drought and cold.",
+      "inbreeding_depression_risk": "Low, as it is a self-pollinating species."
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "Near East",
+        "environmental_pressure": "Aridity, temperature fluctuation",
+        "adaptive_response": "Wild populations show traits like early flowering to escape terminal drought and seed dormancy.",
+        "time_scale": "Millennia",
+        "mechanism": "Natural selection acting on existing genetic variation."
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "High potential by introgressing genes from wild relatives for drought and heat tolerance.",
+      "improved_nutritional_content": "Potential to increase protein and micronutrient levels.",
+      "novel_characteristics": "Possible to introduce new disease resistance genes.",
+      "hybrid_vigor_potential": "Generally low in this self-pollinating species, but utilized in some F1 hybrid cultivars for uniformity and yield."
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Low within the genus *Pisum*.",
+      "chromosome_compatibility": "High (all *Pisum* species have 2n=14 chromosomes).",
+      "fertility_of_hybrids": "Generally high for interspecific crosses within *Pisum*.",
+      "backcrossing_success": "High, a standard technique in pea breeding."
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "Drought",
+        "adaptive_traits": "Deep rooting, early maturity, water use efficiency.",
+        "heritability": "Moderate to high for these traits.",
+        "response_to_selection": "Observable in landraces from dry regions."
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "The role of legumes, particularly peas, in regenerative and sustainable agriculture is a foundational concept in agroecology and is well-documented."
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Moderately deep taproot system that can improve soil structure and access nutrients from lower soil profiles.",
+      "organic_matter_contribution": "Significant biomass production, which adds organic matter to the soil when residues are incorporated or left as mulch.",
+      "soil_structure_improvement": "Helps build soil aggregates and improve porosity.",
+      "erosion_control": "Provides good ground cover when used as a winter cover crop, reducing wind and water erosion.",
+      "nutrient_cycling_role": "Biological nitrogen fixation (BNF) can add 50-150 kg N/ha to the soil system, reducing the need for synthetic fertilizers for subsequent crops."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "Flowers provide nectar and pollen for bees and other insects, although largely self-pollinating.",
+      "beneficial_insect_habitat": "Provides habitat for beneficial predatory insects.",
+      "soil_microorganism_interaction": "Forms a critical symbiotic relationship with *Rhizobium leguminosarum* bacteria, enriching soil microbial life.",
+      "above_ground_biodiversity": "Supports a wider range of organisms compared to a fallow field."
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "Improves soil structure, which enhances water infiltration.",
+      "moisture_retention": "Increased soil organic matter from pea residues improves water holding capacity.",
+      "runoff_reduction": "As a cover crop, it slows water runoff.",
+      "groundwater_recharge": "Contributes indirectly by improving soil's capacity to absorb rainfall."
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "Moderate.",
+      "below_ground_carbon": "Significant contribution through its root system and nitrogen-rich residues that promote stable soil organic matter formation.",
+      "soil_carbon_enhancement": "In rotations, peas help build soil organic carbon by providing nitrogen that fuels microbial activity and humification.",
+      "carbon_sequestration_rate": "Moderate."
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Corn (pea vines climb corn stalks for support), Carrots, Radishes, Turnips."
+      ],
+      "natural_pest_control": "Can repel some pests of companion plants. Avoid planting near onions or garlic.",
+      "nutrient_sharing": "The nitrogen fixed by peas becomes available to neighboring plants and subsequent crops.",
+      "allelopathic_interactions": "Minimal negative effects are known."
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "Increases stability by diversifying crop rotations and reducing dependence on external inputs.",
+      "stress_tolerance": "Can improve the overall system's resilience to drought by enhancing soil health.",
+      "recovery_capacity": "Improves soil's ability to recover from degradation.",
+      "adaptability": "A key component in designing adaptive farming systems."
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "The rise of pea protein is a major, well-documented trend in the modern food industry."
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "A cornerstone of the plant-based food movement.",
+      "food_security_contribution": "Important source of protein and calories, especially the dried form which is shelf-stable and easily transported.",
+      "local_food_system_integration": "Easily grown in temperate climates, making it suitable for local food systems and home gardens.",
+      "alternative_protein_potential": "Massive. Pea protein isolate is a leading ingredient in plant-based meats, dairy alternatives, and protein supplements due to its high functionality and hypoallergenic nature."
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Plant-based protein market",
+        "Gluten-free foods (pea flour)",
+        "Healthy snacks (roasted peas)"
+      ],
+      "value_added_products": [
+        "Protein isolate/concentrate",
+        "Pea milk",
+        "Plant-based burgers",
+        "Pea fiber supplements"
+      ],
+      "niche_market_value": "High for specialized products like pea shoots and heirloom varieties."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Conservation status of commercial cultivars is secure, but the status of landraces and wild relatives is a significant concern for genetic conservation bodies like the Crop Trust."
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "High for wild relatives in the Fertile Crescent due to urbanization, overgrazing, and climate change.",
+    "climate_change_vulnerability": "High for the crop itself due to heat sensitivity, creating an urgent need to conserve stress-tolerant genetic resources.",
+    "cultural_erosion_risk": "Moderate, as traditional farming systems that maintained landrace diversity are replaced by monocultures of modern cultivars.",
+    "conservation_actions_needed": [
+      "In-situ conservation of wild relatives in their native habitats",
+      "Ex-situ conservation (gene banking) of all landraces and wild species",
+      "Participatory breeding programs with farmers to maintain and utilize landrace diversity."
+    ],
+    "priority_conservation_regions": [
+      "The Fertile Crescent (Turkey, Syria, Israel, Jordan, Lebanon) for wild relatives",
+      "Global centers of landrace diversity."
+    ],
+    "ex_situ_conservation_status": "Good. Tens of thousands of accessions are held in major gene banks like the Svalbard Global Seed Vault and ICARDA.",
+    "in_situ_conservation_efforts": "Limited and require urgent strengthening, particularly in politically unstable regions of the Fertile Crescent."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "This evaluation is a synthesis of all preceding sections, balancing cultural, ecological, and economic factors."
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "Fertile Crescent (for wild relative genetics)",
+      "South Asia and North Africa (for drought/heat tolerant landraces)"
+    ],
+    "knowledge_gaps": [
+      "Quantitative data on the physiological response of diverse pea genotypes to combined heat and drought stress.",
+      "Root system architecture variation across landraces and its link to nutrient/water uptake efficiency."
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "Information on major variety types is widely available in agricultural and horticultural literature."
+      },
+      "variety_name": "Lincoln",
+      "local_name": "Lincoln Pea",
+      "origin_region": "United Kingdom",
+      "distinctive_characteristics": "Classic garden pea (shelling pea). Sweet flavor, productive vines. A popular heirloom for home gardeners.",
+      "cultural_importance": "Represents the quintessential English garden pea.",
+      "climate_adaptation": "Adapted to cool, temperate climates. Not heat tolerant.",
+      "conservation_status": "Maintained by seed savers and heritage seed companies."
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "Information on major variety types is widely available in agricultural and horticultural literature."
+      },
+      "variety_name": "Sugar Snap",
+      "local_name": "Sugar Snap Pea",
+      "origin_region": "USA",
+      "distinctive_characteristics": "Edible-podded pea with a thick, crunchy, sweet pod and full-sized peas inside. A cross between a garden pea and a snow pea.",
+      "cultural_importance": "A relatively modern (1970s) but hugely popular innovation in vegetable breeding.",
+      "climate_adaptation": "Similar to other peas; requires cool weather.",
+      "conservation_status": "Commercially secure."
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "Information on major variety types is widely available in agricultural and horticultural literature."
+      },
+      "variety_name": "Kapucijner",
+      "local_name": "Kapucijner",
+      "origin_region": "Netherlands",
+      "distinctive_characteristics": "A type of field pea with purple-blue pods and brownish seeds. Eaten fresh or dried. Has a nutty, starchy flavor.",
+      "cultural_importance": "A traditional Dutch heirloom vegetable, central to specific regional dishes.",
+      "climate_adaptation": "Well-adapted to the cool maritime climate of Northern Europe.",
+      "conservation_status": "Heirloom, conserved by enthusiasts and gene banks."
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "Plants of the World Online (Kew)",
+      "GRIN-Global Taxonomy",
+      "Crop Trust",
+      "Peer-reviewed articles on agroecology and plant genetics"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative data on regenerative agriculture benefits (e.g., carbon sequestration rates) specific to pea varieties.",
+      "Systematic screening of landraces for climate resilience traits.",
+      "Socio-economic data on the decline of landrace cultivation."
+    ],
+    "regional_data_coverage": "High for Europe, North America, and South Asia; lower for parts of Africa and South America.",
+    "missing_information": [
+      "Detailed indigenous knowledge related to specific landraces, which may not be publicly documented.",
+      "Quantitative metrics for extreme weather event recovery."
+    ],
+    "update_priority": "High, particularly for Climate Change Adaptation and Conservation Priority sections as new research emerges.",
+    "quality_score": 9
+  }
+}

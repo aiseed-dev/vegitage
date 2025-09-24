@@ -1,0 +1,574 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、民族植物学、および商業生産に関する公開情報から統合。野生近縁種に関する詳細な生態学的データは限定的。"
+    },
+    "primary_name": "Luo Han Guo",
+    "scientific_name": "Siraitia grosvenorii",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "果実"
+    ],
+    "origin_region": "中国南部（特に広西チワン族自治区）",
+    "wild_relatives": [
+      "Siraitia siamensis",
+      "Siraitia taiwaniana"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "学術論文、各国の食品表示基準、および民族植物学的記録から収集。"
+    },
+    "international": {
+      "en": [
+        "Monk fruit",
+        "Buddha fruit"
+      ],
+      "scientific_common": "Siraitia"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "罗汉果",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "羅漢果",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "나한과",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "La hán quả",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "หล่อฮังก๊วย",
+            "script": "Thai"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "広西チワン族自治区の地域コミュニティ",
+        "name": "罗汉果 (Luóhàn guǒ)",
+        "cultural_significance": "伝統医学における「神の果実」と見なされ、咳止めや清涼剤として数百年にわたり利用されてきた。地域の重要な収入源でもある。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）および関連する植物データベースに基づく。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Siraitia",
+      "la": "Siraitia"
+    },
+    "species": {
+      "en": "Monk fruit",
+      "la": "grosvenorii"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、歴史文献、および現代の市場分析に基づく。文化的価値は東アジア、特に中国南部に集中している。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（特に中国南部）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "伝統中国医学（TCM）において、肺の熱を取り除き、咳を鎮め、喉の痛みを和らげるために、乾燥果実を煎じてお茶として飲用する。また、解熱や便秘解消にも用いられる。",
+        "seasonal_significance": "秋に収穫され、乾燥保存されることで、冬場の呼吸器系疾患の予防・治療に重要な役割を果たす。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "中国南部（特に広東料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "羅漢果茶 (Luo Han Guo Tea)",
+          "清補涼 (Qing Bu Liang - 冷却効果のあるハーブスープ)"
+        ],
+        "preparation_methods": [
+          "乾燥",
+          "煮出す"
+        ],
+        "cultural_context": "主に食材としてではなく、健康増進や病気の治療を目的とした「食薬同源」の思想に基づいて利用される。甘味料としての役割は現代的なものである。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "13世紀の中国の文献に初めて記録が見られる。清朝時代には皇帝への献上品とされていた。",
+      "trade_routes": "歴史的には地域限定の産物であったが、20世紀後半からその抽出物が国際的に取引されるようになった。",
+      "cultural_exchange": "伝統中国医学の普及と共に、アジアのチャイナタウンを通じて世界に知られるようになった。",
+      "domestication_history": "中国・広西チワン族自治区の山岳地帯で長年にわたり栽培化されてきたが、その正確な歴史は不明な点が多い。野生種からの選抜育種が続けられてきたと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿すぎるため不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "標高300-1400mの山岳地帯。年平均気温18-22℃、年間降水量1500-2000mm。高い湿度と日陰を好み、直射日光を嫌う。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "冬の霜に非常に弱く、生育期間が不足するため不適。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯山地",
+        "planting_season": "春（3-4月）",
+        "harvest_season": "秋（9-10月）",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "受粉（手作業による受粉が必要な場合が多い）",
+        "日照条件（日陰の確保）",
+        "湿度管理",
+        "病害虫（特に根腐れ病）",
+        "気象条件（台風など）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 99,
+          "characteristics": "生産は広西チワン族自治区、特に桂林市周辺にほぼ限定されている。独特の気候条件が栽培を困難にし、他地域への普及を妨げている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性成分（モグロシド）に関する研究は豊富だが、一般的な栄養価データは限定的。伝統的利用法はTCMの文献に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "0 (抽出物)",
+        "protein_g": "不明",
+        "carbs_g": "0 (非吸収性のモグロシド)",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "豊富に含まれるとされるが、定量データは変動が大きい",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "モグロシドV (Mogroside V)",
+        "concentration": "乾燥果実中に0.5-1.5%",
+        "health_effect": "砂糖の250-400倍の甘味を持つ非カロリー甘味成分。抗酸化作用、抗炎症作用、血糖値上昇抑制作用が報告されている。"
+      },
+      {
+        "compound": "モグロシドIV (Mogroside IV)",
+        "concentration": "不明",
+        "health_effect": "甘味成分の一つ。抗酸化作用を持つ。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "伝統中国医学 (TCM)",
+        "uses": [
+          "鎮咳",
+          "去痰",
+          "喉の炎症緩和",
+          "解熱",
+          "便秘解消"
+        ],
+        "preparation": "乾燥果実を割り、熱湯を注いでお茶として飲むか、他の生薬と共に煎じる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖値に影響を与えない天然甘味料としての利用",
+        "強力な抗酸化作用",
+        "一部の試験管研究での抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用の可能性",
+        "抗アレルギー作用",
+        "脂質代謝改善効果"
+      ],
+      "safety_considerations": "米国FDAによりGRAS（一般に安全と認められる）に分類されている。アレルギー反応は極めて稀。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "伝統的な利用法と現代の食品産業での応用に関する情報を統合。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "煮出す（茶、スープ）"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "菊花",
+          "金銀花",
+          "豚肉（スープの場合）"
+        ]
+      },
+      {
+        "region": "全世界（食品産業）",
+        "methods": [
+          "抽出・精製（甘味料として）"
+        ],
+        "flavor_role": "甘味料",
+        "typical_combinations": [
+          "飲料",
+          "ヨーグルト",
+          "プロテインパウダー",
+          "菓子類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "中国"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "ゆっくりと乾燥させることで、甘味成分が凝縮され、特有の香りが生まれる。焦げると苦味が出る。"
+      },
+      {
+        "method": "抽出・粉末化",
+        "regions": [
+          "全世界（製造）"
+        ],
+        "shelf_life": "2年以上",
+        "quality_changes": "モグロシドを抽出し精製することで、安定した甘味を持つ粉末や液体製品が作られる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "非常に強い甘味。後味にわずかな清涼感や、ウリ科特有の風味を感じることがある。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "果実自体は食用にされず、抽出液やお茶として利用されるため、食感は液体に依存する。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "特定の生態的ニッチに依存するため、気候変動への脆弱性が高いと推定される。しかし、品種レベルでの耐性に関する定量的研究データは非常に乏しい。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "18-22°C",
+      "extreme_heat_survival": "30℃以上が続くと生育不良を起こす可能性がある。",
+      "cold_tolerance": "0℃以下で枯死する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2000 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物であり棚に依存するため、強風や台風に対して脆弱。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "感受性が高いと推定される。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "日陰を好む性質から、紫外線耐性は低いと推定される。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、新たな病害虫（特にカビや根腐れ病）のリスクが増大する可能性がある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "中国南部・広西チワン族自治区の特定山岳地帯",
+        "2050_projection": "現在の栽培適地が縮小、またはより高地へシフトする可能性が高い。",
+        "2100_projection": "大幅な適地縮小のリスクがある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 2
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栽培化の歴史が長く、品種改良は行われているが、自然交雑や野生近縁種との交雑に関する学術的記録は非常に少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の栽培品種が存在し、種内交雑は可能。"
+      ],
+      "interspecific_compatibility": [
+        "Siraitia属の他種との交雑可能性は理論的には存在するが、報告例は不明。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地には複数の在来品種が存在するが、商業栽培の拡大により遺伝的多様性の低下が懸念される。",
+      "wild_gene_pool": "野生集団が存在するが、生息地の破壊により脅威にさらされている。野生遺伝子プールは気候変動適応のための重要な資源となる。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖（接ぎ木など）が多用されるため、遺伝的多様性が低い集団ではリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、耐病性や異なる環境への耐性を導入できる可能性がある。",
+      "improved_nutritional_content": "モグロシドの含有量や組成を変化させる育種の可能性がある。",
+      "novel_characteristics": "栽培しやすい特性（自家受粉性など）を導入できる可能性がある。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 4
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈でラカンカを評価した研究はほぼ存在しない。以下の評価は、その栽培特性からの推論に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "多年草であり、安定した根系が土壌を保持する可能性がある。",
+      "organic_matter_contribution": "落葉により土壌有機物を供給する可能性がある。",
+      "soil_structure_improvement": "不明",
+      "erosion_control": "山地の斜面で栽培されることが多く、適切な管理下では土壌侵食の抑制に貢献する可能性がある。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "虫媒花であり、地域の送粉者に蜜や花粉を提供する可能性がある。",
+      "beneficial_insect_habitat": "棚栽培は、多様な昆虫の生息空間を提供する可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "アグロフォレストリーシステムに組み込むことで、生物多様性を高める可能性がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "恒久的な植生被覆により、土壌への水の浸透を促進する可能性がある。",
+      "moisture_retention": "日陰を作ることで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "多年生のつる植物として、地上部に炭素を蓄積する。",
+      "below_ground_carbon": "根系に炭素を蓄積する。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "日陰を提供してくれる高木との混植（アグロフォレストリー）に適している。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、一年生作物より安定した農業生態系を構築する可能性がある。",
+      "stress_tolerance": "特定の環境ストレス（日照不足、高湿度）には強いが、他のストレス（干ばつ、高温）には弱い。",
+      "recovery_capacity": "不明",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の食品・健康市場における動向を分析。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "砂糖の代替となる植物由来のゼロカロリー甘味料として、健康志向の食生活に大きく貢献する。",
+      "food_security_contribution": "主要な栄養源ではないため、食料安全保障への直接的な貢献は限定的。しかし、農家の収入源として間接的に貢献する。",
+      "local_food_system_integration": "伝統的には地域内で利用されていたが、現在はグローバルなサプライチェーンに組み込まれている。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "自然由来・ゼロカロリー甘味料市場の成長",
+        "糖尿病患者や健康志向の消費者向け製品",
+        "クリーンラベル食品への応用"
+      ],
+      "value_added_products": [
+        "高純度モグロシド抽出物",
+        "ラカンカ配合の飲料・食品",
+        "健康補助食品"
+      ],
+      "niche_market_value": "非常に高い。特殊な栽培条件と機能性により、代替が難しいニッチな地位を確立している。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストには未記載だが、栽培地域の限定性や野生種の状況からリスクが推定される。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生種の自生地は、森林伐採や農地拡大により脅威にさらされている。",
+    "climate_change_vulnerability": "非常に高い。栽培適地の気候が変化することで、生産が不安定になるリスクがある。",
+    "cultural_erosion_risk": "中。伝統的な利用法が、工業的な甘味料生産という単一の目的に集約されることで、多様な文化的知識が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "野生近縁種の生息域内保全",
+      "多様な在来品種の収集と域外保全（ジーンバンク）",
+      "気候変動に強い品種の育種",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "中国・広西チワン族自治区の山岳地帯"
+    ],
+    "ex_situ_conservation_status": "中国国内の植物園や研究機関で一部の遺伝資源が保存されているが、包括的なコレクションは不明。",
+    "in_situ_conservation_efforts": "限定的。一部で自然保護区が設定されている可能性があるが、詳細は不明。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中国・広西チワン族自治区"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "野生近縁種との遺伝的関係と交雑可能性",
+      "リジェネラティブ農業システムにおける具体的な効果測定",
+      "栽培における土壌微生物との共生関係"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "low",
+        "source_comment": "品種に関する公開情報は中国語文献に集中しており、国際的にアクセス可能な情報は限定的。"
+      },
+      "variety_name": "円果 (Yuan Guo)",
+      "local_name": "圆果",
+      "origin_region": "中国・広西チワン族自治区",
+      "distinctive_characteristics": "果実が球形に近い。最も一般的に栽培されている品種群の一つ。",
+      "cultural_importance": "商業生産の主流であり、地域の経済を支えている。",
+      "climate_adaptation": "現在の栽培環境に特化している。",
+      "conservation_status": "栽培下で維持されているが、遺伝的多様性は不明。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "low",
+        "source_comment": "品種に関する公開情報は中国語文献に集中しており、国際的にアクセス可能な情報は限定的。"
+      },
+      "variety_name": "長果 (Chang Guo)",
+      "local_name": "长果",
+      "origin_region": "中国・広西チワン族自治区",
+      "distinctive_characteristics": "果実が細長い形状。モグロシドの含有量が高いとされることがある。",
+      "cultural_importance": "特定の品質を求める生産者によって栽培されている。",
+      "climate_adaptation": "現在の栽培環境に特化している。",
+      "conservation_status": "栽培下で維持されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Science Plants of the World Online",
+      "PubMed",
+      "Google Scholar",
+      "Ethnopharmacology literature",
+      "Food and Agriculture Organization (FAO) publications"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生集団の遺伝的多様性と保全状況"
+    ],
+    "regional_data_coverage": "東アジアに極めて偏っている",
+    "missing_information": [
+      "栽培収量に関する信頼性の高い統計データ",
+      "自然交雑に関する実例報告"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

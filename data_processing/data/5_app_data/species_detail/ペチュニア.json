@@ -1,0 +1,475 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "ペチュニアは世界的に観賞用植物として知られており、食用としての伝統野菜ではありません。そのため、食文化、栄養価、料理利用に関するデータは存在しません。本データは植物学的特性、園芸的価値、生態学的ポテンシャルに焦点を当てていますが、伝統『野菜』としての情報は意図的に空欄または「不明」としています。この事実は本データセットを解釈する上で最も重要です。"
+    },
+    "primary_name": "Petunia",
+    "scientific_name": "Petunia × atkinsiana (syn. Petunia × hybrida)",
+    "plant_type": "一年草/多年草",
+    "edible_parts": [],
+    "origin_region": "南アメリカ（アルゼンチン、ブラジル南部、ウルグアイの草原地帯）",
+    "wild_relatives": [
+      "Petunia axillaris",
+      "Petunia integrifolia"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "観賞用植物として世界的に普及しているため、各言語での名称は豊富に存在するが、食用としての伝統名や先住民名は存在しない。"
+    },
+    "international": {
+      "en": [
+        "Petunia"
+      ],
+      "scientific_common": "Garden Petunia"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Petunia",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Pétunia",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Petunie",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ペチュニア",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "碧冬茄",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Petúnia",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類学的情報は確立されている。園芸種の多くは交雑種である。"
+    },
+    "family": {
+      "en": "Nightshade",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Petunia",
+      "la": "Petunia"
+    },
+    "species": {
+      "en": "Hybrid Petunia",
+      "la": "Petunia × atkinsiana"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "high",
+      "source_comment": "文化的価値は観賞用としてのものであり、食用としての文化的価値は存在しない。ナス科の多くがそうであるように、アルカロイドを含むため有毒とされるのが一般的。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "世界全域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "観賞用",
+          "園芸",
+          "都市緑化"
+        ],
+        "traditional_uses": "食用としての伝統的利用は記録されていない。19世紀以降、ヨーロッパで育種が進み、世界中の庭園やプランターで栽培される主要な観賞用草花となった。",
+        "seasonal_significance": "多くの地域で春から秋にかけての景観を彩る存在として季節的な重要性を持つ。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [],
+    "historical_significance": {
+      "antiquity": "古代からの利用歴史は無い。19世紀初頭に南米からヨーロッパに導入された。",
+      "trade_routes": "園芸植物として、19世紀以降の種子・苗の国際交易ルートを通じて世界中に広まった。",
+      "cultural_exchange": "ヴィクトリア朝時代の庭園文化などを通じて、西洋的な庭園様式の象徴として世界に広まった。",
+      "domestication_history": "野生種のP. axillarisとP. integrifoliaの交配によって、1830年代にイギリスで作出されたのが始まり。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "乾季が望ましい。多湿は病害の原因となる。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬越しが可能。年間を通じて栽培できる地域も多い。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春に播種し、夏から秋に開花する一年草として栽培されるのが一般的。日当たりと水はけの良い土壌を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない期間に栽培される。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "強い乾燥と高温には耐えられない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（霜の危険がなくなった後）",
+        "harvest_season": "（観賞用のため）初夏から晩秋まで開花",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "食用ではないため適用外",
+      "factors_affecting_yield": []
+    },
+    "global_production": {
+      "total_annual_production": "不明（園芸市場規模として巨大）",
+      "major_producers": [
+        {
+          "country": "オランダ",
+          "production_share": "不明",
+          "characteristics": "種子・苗の育種と生産における世界的中心地。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "巨大な国内園芸市場向けの生産が盛ん。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "独自の品種改良（サフィニアなど）が盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "none",
+      "confidence_level": "high",
+      "source_comment": "食用ではないため、栄養価に関するデータは存在しない。ナス科植物として、微量のアルカロイドを含む可能性があり、摂取は推奨されない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントシアニン（ペチュニジンなど）",
+        "concentration": "花弁に高濃度",
+        "health_effect": "花の色素成分であり、抗酸化作用が知られるが、ペチュニアを摂取することによる健康効果は研究されていない。"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "花色発現の遺伝子メカニズム",
+        "香り成分の生合成経路",
+        "病害抵抗性の分子育種"
+      ],
+      "safety_considerations": "食用ではない。ナス科の植物であり、有毒なアルカロイドを含む可能性があるため、摂取は避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "none",
+      "confidence_level": "high",
+      "source_comment": "ペチュニアは食用植物ではないため、料理利用に関する情報はありません。"
+    },
+    "global_cooking_methods": [],
+    "processing_preservation": [],
+    "flavor_characteristics": {
+      "taste_profile": "不明",
+      "aroma_compounds": [],
+      "texture_characteristics": "不明"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸品種として耐暑性や耐雨性が改良されてきた歴史があるが、気候変動ストレスに対する体系的な研究は限定的。情報は主に園芸分野の経験則に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C以上では生育が著しく衰える。",
+      "cold_tolerance": "0°C以下では枯死する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "適度な降雨。長雨は花を傷め、病気の原因となる。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低（花や茎が傷つきやすい）",
+      "hail_damage_recovery": "中（新しい芽からの回復は可能）",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "いくつかの研究で感受性があることが示されている。",
+      "uv_radiation_tolerance": "高"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやハダニの発生期間が長期化する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境では灰色かび病などの病気が発生しやすくなるため、抵抗性の安定性は課題。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "園芸ペチュニアそのものが交雑の産物であり、属内での交雑親和性は非常に高い。この特性が多様な園芸品種を生み出してきた。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [],
+      "interspecific_compatibility": [
+        "Petunia axillaris",
+        "Petunia integrifolia",
+        "その他近縁野生種"
+      ],
+      "intergeneric_possibility": [
+        "近縁のカリブラコア属（Calibrachoa）との属間雑種（ペチュコア）が人為的に作出されている。"
+      ],
+      "successful_natural_hybrids": [
+        "野生種の自生地では、異なる種間での自然交雑が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "適用外",
+      "wild_gene_pool": "南米に分布する野生種が、耐病性や環境ストレス耐性などの貴重な遺伝資源となっている。",
+      "adaptive_genetic_variation": "野生種には、異なる土壌や気候に適応した多様な遺伝的変異が存在する。",
+      "inbreeding_depression_risk": "商業品種では特定の形質を固定するために近交が進むことがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "南アメリカ",
+        "environmental_pressure": "異なる送粉者（昼行性のハチ、夜行性のガ）",
+        "adaptive_response": "花の色、形、香りの分化",
+        "time_scale": "進化的時間スケール",
+        "mechanism": "送粉者を介した生殖隔離と適応放散"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により耐暑性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "適用外",
+      "novel_characteristics": "花色、花形、草姿、香りなど、多様な新規形質の導入が可能。",
+      "hybrid_vigor_potential": "非常に高い。園芸品種の多くがF1（一代交配種）であり、雑種強勢を利用している。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部の遠縁な種との間には交雑不和合性が存在する。",
+      "chromosome_compatibility": "基本的には良好だが、倍数性が異なる種間では障壁となることがある。",
+      "fertility_of_hybrids": "多くの場合、稔性は保たれる。",
+      "backcrossing_success": "育種において一般的に利用される。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈でペチュニアが研究されることはほぼない。評価は、一年生草花としての一般的な生態学的機能からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、繊維状の根系。",
+      "organic_matter_contribution": "栽培終了後に植物体をすき込むことで、わずかな有機物を供給する。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "地表を密に覆うため、一時的な表土流亡の防止には貢献する。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "非常に高い。花蜜を求めてチョウ、ガ、ハチ、ハチドリなど多様な送粉者が訪れる。リジェネラティブな農園や庭における生物多様性向上に大きく貢献する。",
+      "beneficial_insect_habitat": "アブラムシを捕食するテントウムシやヒラタアブなどの天敵昆虫の生息地となる可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "送粉者や天敵昆虫を誘引することで、地上部の生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "マルチング効果により、土壌表面からの水分蒸発をわずかに抑制する。",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "非常に限定的",
+      "carbon_sequestration_rate": "無視できるレベル"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "野菜畑の近くに植えることで、受粉を助ける昆虫を呼び寄せるバンカープランツとして利用できる可能性がある。"
+      ],
+      "natural_pest_control": "特定の害虫を忌避する効果は報告されていない。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "送粉者の多様性を高めることで、一部の作物の受粉を安定させる可能性がある。",
+      "stress_tolerance": "植物個体としては低い。",
+      "recovery_capacity": "低い",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食用ではないため、食品システムへの応用はない。価値は園芸、都市緑化、科学研究に集中している。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "適用外",
+      "food_security_contribution": "適用外。ただし、都市緑化や家庭菜園において送粉者を増やす役割は間接的に貢献しうる。",
+      "local_food_system_integration": "適用外",
+      "alternative_protein_potential": "適用外"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "気候変動に適応した新品種（耐暑性、耐雨性、乾燥耐性）の開発",
+        "都市緑化や壁面緑化など新たな用途への展開"
+      ],
+      "value_added_products": [
+        "ユニークな花色や香りを持つ高付加価値品種",
+        "エディブルフラワーとしての利用は安全性未確認のため不可"
+      ],
+      "niche_market_value": "育種家や園芸愛好家向けの希少品種市場が存在する。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "保全の対象は、園芸品種ではなく、育種の遺伝資源となる南米の野生種である。野生種の生息地は開発により脅威にさらされている。"
+    },
+    "genetic_erosion_risk": "高（野生種において）",
+    "habitat_loss_threat": "野生種の自生地である南米のパンパ（草原）は、農地開発や植林により急速に失われている。",
+    "climate_change_vulnerability": "野生種の多くは特定の環境に適応しているため、気候変動に対して脆弱である可能性がある。",
+    "cultural_erosion_risk": "適用外",
+    "conservation_actions_needed": [
+      "野生種の自生地の保全（域内保全）",
+      "種子バンクなどでの遺伝資源の収集・保存（域外保全）",
+      "野生種の遺伝的多様性の評価"
+    ],
+    "priority_conservation_regions": [
+      "ブラジル南部",
+      "ウルグアイ",
+      "アルゼンチン"
+    ],
+    "ex_situ_conservation_status": "一部の野生種は種子バンクや植物園で保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的であり、更なる取り組みが必要。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "評価は観賞用植物としての価値と、遺伝資源としてのポテンシャルに基づく。伝統『野菜』辞典への適合性は極めて低い。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中（野生種の保全と遺伝子資源評価に関して）",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "南アメリカ（野生種の生態と保全）"
+    ],
+    "knowledge_gaps": [
+      "食用としての利用可能性の欠如",
+      "野生種の気候変動に対する脆弱性の定量的評価"
+    ],
+    "global_dictionary_compatibility": 1
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な品種は食用ではなく園芸用。"
+      },
+      "variety_name": "サフィニア (Surfinia)",
+      "local_name": "サフィニア",
+      "origin_region": "日本",
+      "distinctive_characteristics": "匍匐性（クリーピングタイプ）で、非常に強健。雨に強く、春から秋まで連続して開花する。ハンギングバスケットなどに用いられる。",
+      "cultural_importance": "ペチュニアの園芸における利用法を大きく変えた画期的な品種シリーズとして世界的に評価が高い。",
+      "climate_adaptation": "従来のペチュニアに比べ耐雨性、耐病性が向上している。",
+      "conservation_status": "商業品種"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "Missouri Botanical Garden Plant Finder",
+      "Horticultural breeding journals"
+    ],
+    "major_knowledge_gaps": [
+      "ペチュニアは食用ではないため、伝統野菜としての全ての情報が欠落している点。",
+      "野生種の生態および保全状況に関する最新の定量的データ。"
+    ],
+    "regional_data_coverage": "園芸利用に関しては全球的に情報が存在するが、野生種に関しては南米に偏在する。",
+    "missing_information": [
+      "栄養価",
+      "伝統的料理法",
+      "薬用利用"
+    ],
+    "update_priority": "低",
+    "quality_score": 8
+  }
+}

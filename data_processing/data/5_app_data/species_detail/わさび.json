@@ -1,0 +1,591 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース、日本の農林水産省の資料に基づいています。野生近縁種に関する詳細な生態学的情報は限定的です。"
+    },
+    "primary_name": "Wasabi",
+    "scientific_name": "Eutrema japonicum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉",
+      "花"
+    ],
+    "origin_region": "日本",
+    "wild_relatives": [
+      "Eutrema tenue",
+      "Eutrema yunnanense",
+      "Cardamine leucantha"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジアでの名称は明確ですが、他の地域では「Japanese horseradish」として一般化されており、地域固有の名称は存在しません。先住民による伝統的な名称に関する記録は極めて乏しいです。"
+    },
+    "international": {
+      "en": [
+        "Wasabi",
+        "Japanese horseradish"
+      ],
+      "scientific_common": "Wasabi"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ワサビ (山葵)",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "山葵",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "고추냉이",
+            "script": "Hangul"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アイヌ",
+        "name": "不明",
+        "cultural_significance": "近縁種であるアイヌワサビ(Cardamine leucantha)の利用記録は存在するが、Eutrema japonicumに特化した伝統的名称や利用法に関する明確な記録は不明です。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類体系（APG IV）に基づいています。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Eutrema",
+      "la": "Eutrema"
+    },
+    "species": {
+      "en": "Wasabi",
+      "la": "japonicum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "日本文化における重要性は広く文書化されています。世界的な普及は日本の食文化の拡大と密接に関連しています。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア (日本)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "寿司、刺身の薬味として不可欠。生魚の食中毒を防ぐ抗菌作用があると伝統的に信じられてきた。蕎麦の薬味としても利用される。清流の象徴であり、清浄さや純粋さと結びつけられる。",
+        "seasonal_significance": "沢わさびは通年栽培されるが、春の花や茎は季節の食材として珍重される。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理 (和食)",
+        "role": "essential",
+        "traditional_dishes": [
+          "寿司",
+          "刺身",
+          "ざる蕎麦",
+          "わさび漬け"
+        ],
+        "preparation_methods": [
+          "生をすりおろす",
+          "漬物にする"
+        ],
+        "cultural_context": "その揮発性の辛味と爽やかな香りは、素材の味を引き立てる重要な役割を担う。すりたての数分間しか最高の風味を保てないというはかなさが、日本の美意識と通じる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本の飛鳥時代(7世紀)の木簡に「委佐俾」として記述されたのが最古の記録。当初は薬草として利用されていた。",
+      "trade_routes": "歴史的には日本国内でのみ流通。国際的な取引は20世紀後半、日本食の世界的普及に伴い始まった。",
+      "cultural_exchange": "寿司の世界的ブームを通じて、日本の食文化を代表するアイコンの一つとなった。",
+      "domestication_history": "栽培化は江戸時代初期(17世紀)に静岡県の安倍川上流で始まったとされる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて水温が8-18℃（最適12-15℃）に保たれる、清浄な水が豊富に流れる渓流環境（沢わさび）。または冷涼で湿度の高い畑（畑わさび）。強い直射日光を嫌う。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の高温と冬の厳しい凍結のため不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "温帯の山岳地帯と同様の条件が整えば栽培可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯 (沢わさび)",
+        "planting_season": "春または秋",
+        "harvest_season": "植え付け後、1.5年から2年でいつでも収穫可能",
+        "growing_period_days": 540
+      }
+    ],
+    "productivity": {
+      "yield_range": "3,000-6,000 kg/ha (沢わさび、条件による)",
+      "factors_affecting_yield": [
+        "水質",
+        "水温の安定性",
+        "日照量（遮光）",
+        "病害（軟腐病、黒斑病など）",
+        "栽培技術"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約5,000トン（生鮮、推定）",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": 95,
+          "characteristics": "伝統的な沢わさび栽培が中心。静岡、長野、岩手が主産地。"
+        },
+        {
+          "country": "中国",
+          "production_share": 3,
+          "characteristics": "大規模な畑わさび栽培が中心。主に加工用。"
+        },
+        {
+          "country": "その他（台湾、ニュージーランド、米国など）",
+          "production_share": 2,
+          "characteristics": "小規模な沢わさび、または水耕栽培。ニッチ市場向け。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、機能性成分（イソチオシアネート類）の含有量は品種、栽培条件、収穫後の時間経過で大きく変動するため、データは参考値。伝統的利用は伝承に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "109",
+        "protein_g": "4.8",
+        "carbs_g": "23.5",
+        "fat_g": "0.6",
+        "fiber_g": "7.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "41.9mg",
+          "daily_value_percent": "70%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "568mg",
+          "daily_value_percent": "12%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "128mg",
+          "daily_value_percent": "13%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アリルイソチオシアネート (AITC)",
+        "concentration": "変動大",
+        "health_effect": "強力な抗菌作用、抗炎症作用、辛味成分"
+      },
+      {
+        "compound": "6-メチルスルフィニルヘキシルイソチオシアネート (6-MITC)",
+        "concentration": "変動大",
+        "health_effect": "抗酸化作用、解毒酵素誘導作用、抗がん作用の研究対象"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "日本",
+        "medical_system": "民間療法",
+        "uses": [
+          "食中毒予防",
+          "食欲増進",
+          "抗菌",
+          "防腐"
+        ],
+        "preparation": "生の根茎をすりおろして使用"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗菌・抗カビ作用 (ピロリ菌、O-157など)",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "血栓予防効果",
+        "花粉症症状の緩和",
+        "美肌効果"
+      ],
+      "safety_considerations": "通常の食料として摂取する量では安全。高濃度抽出物の長期摂取に関するデータは不十分。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "日本料理における利用法は広く確立されています。他の地域での利用は、主に日本料理の文脈に限られます。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本および世界中の日本食レストラン",
+        "methods": [
+          "生のまま細かくすりおろす",
+          "葉や茎を漬物にする（わさび漬け）",
+          "醤油と混ぜる（わさび醤油）"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "魚介類（特に生）",
+          "蕎麦",
+          "牛肉",
+          "米"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "粉末化（フリーズドライ）",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "生の複雑な香りと甘みが失われ、辛味だけが強調される傾向がある。"
+      },
+      {
+        "method": "漬物（わさび漬け）",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "酒粕などと共に漬けることで、辛味がマイルドになり、うま味と保存性が増す。"
+      },
+      {
+        "method": "冷凍保存",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "風味の劣化は比較的少ないが、解凍後の食感がやや変化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "鼻に抜けるような揮発性の強い辛味。辛味はすぐに消え、後にはほのかな甘みと爽やかな植物の香りが残る。",
+      "aroma_compounds": [
+        "アリルイソチオシアネート",
+        "その他のイソチオシアネート類"
+      ],
+      "texture_characteristics": "鮫皮ですりおろした場合、きめ細かくクリーミーなペースト状になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動への脆弱性は栽培条件から強く示唆されるものの、定量的な耐性データは極めて少ない。将来予測は定性的なものが主であり、品種レベルでの研究は初期段階。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "12-15°C (水温)",
+      "extreme_heat_survival": "水温が20℃を超えると生育が著しく阻害され、病気のリスクが急増する。",
+      "cold_tolerance": "水が凍結しない程度の低温には耐えるが、霜害は受ける。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明。しかし、常に清浄な流水を必要とするため、水利用効率の概念は適用しにくい。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "降水量よりも、安定した湧水量と渓流の水量が重要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低。台風や集中豪雨による洪水は、わさび田（畳石式）を破壊し、全滅させるリスクがある。",
+      "hail_damage_recovery": "葉に被害を受けるが、根茎が無事であれば回復の可能性はある。",
+      "rapid_temperature_change": "適応力は低い。安定した環境を好む。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明。しかし、元来が林床植物であるため、強い紫外線には弱いと推測される。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "水温上昇により、軟腐病などの病害や害虫の活動が活発化し、被害が増加するリスクが高い。",
+      "disease_resistance_stability": "品種による差はあるが、全体的に病害抵抗性は高くない。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の特定の山間冷涼地",
+        "2050_projection": "現在の栽培適地は縮小し、より標高の高い地域や高緯度地域へ移動する可能性が高い。",
+        "2100_projection": "現在の主要産地での安定生産は極めて困難になる可能性がある。",
+        "confidence_level": "中程度の確信度での定性的予測"
+      }
+    ],
+    "climate_adaptation_score": 2
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "育種に関する情報は存在するが、自然環境下での交雑や適応に関する生態学的研究は非常に限定的。ポテンシャルは主に近縁種との関係性からの推測。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "品種（'だるま'、'真妻'など）間の交配は可能。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他のEutrema種との交雑可能性は理論的に存在するが、自然交雑の報告は稀。"
+      ],
+      "intergeneric_possibility": [
+        "アブラナ科の他属との自然交雑は考えにくい。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は不明。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "主要産地には地域に適応した在来系統が存在するが、その多様性の全容は解明されていない。",
+      "wild_gene_pool": "日本の山間部に野生集団が点在し、気候耐性などの有用な遺伝資源の宝庫である可能性がある。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "特定の優良品種に依存した商業栽培ではリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種や畑わさび系統との交配による耐暑性や耐病性の向上は、育種の主要な目標となりうる。",
+      "improved_nutritional_content": "特定の機能性成分（6-MITCなど）の含有量を高める可能性がある。",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "可能性あり"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水温、水量、水質、日照条件",
+        "adaptive_traits": "特定の微気候への適応",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 5
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "伝統的な沢わさび栽培は、現代のリジェネラティブ農業の原則と多くの共通点を持つが、その文脈での科学的定量化は行われていない。評価は定性的なもの。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "細かい根が砂礫層に張り巡らされ、基盤を安定させる。",
+      "organic_matter_contribution": "限定的。",
+      "soil_structure_improvement": "砂礫と石を積み上げた畳石式のわさび田は、水の流れを制御し、土壌（砂礫）の物理性を最適化する。",
+      "erosion_control": "わさび田の棚田構造自体が、渓流の急な流れを緩和し、土砂流出を防ぐ侵食防止機能を持つ。",
+      "nutrient_cycling_role": "渓流の水中や周辺の森林から供給される養分を利用する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はアブやハチなどの訪花昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "わさび田の清浄な水環境は、カゲロウやカワゲラなどの水生昆虫や、サンショウウオなどの両生類の貴重な生息地となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "水源涵養林と一体となったわさび田は、多様な生物が生息する生態系を形成する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "わさび田は水をろ過し、水質を浄化する機能を持つとされる。",
+      "moisture_retention": "常に水が流れているため、保水性という概念は直接当てはまらない。",
+      "runoff_reduction": "棚田構造が水の流速を遅らせ、洪水緩和に寄与する。",
+      "groundwater_recharge": "限定的だが、水源涵養林の保全と一体となっている。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "小さい。",
+      "below_ground_carbon": "多年草であるため、根茎や根系に炭素を蓄積するが、量は限定的。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "低いと推測される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "伝統的にハンノキやケヤキなどの落葉広葉樹の下で栽培され、夏期の適度な遮光（木漏れ日）を得る。一種のアグロフォレストリー。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "安定した水源と森林生態系に依存しており、環境が維持されれば持続可能だが、外部環境の変化には脆弱。",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "低い",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場での価値や製品展開は広く知られている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "主要な栄養源ではないが、食事に風味と機能性を加える。",
+      "food_security_contribution": "食料安全保障への貢献は低い。むしろ生物多様性や文化多様性の指標。",
+      "local_food_system_integration": "わさび栽培は、水源林の保全と地域経済を結びつける重要な役割を担う。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "本わさび（Real Wasabi）と模倣品（西洋わさび）との違いを啓蒙することによる高価格帯市場の開拓",
+        "健康志向の高まりに伴う機能性食品・サプリメントとしての展開"
+      ],
+      "value_added_products": [
+        "チューブ入り本わさび",
+        "わさび漬け",
+        "わさびオイル",
+        "わさび塩",
+        "わさび風味のスナック菓子",
+        "化粧品"
+      ],
+      "niche_market_value": "非常に高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "脅威は明確だが、保全活動の体系的な評価や遺伝資源の網羅的な収集は途上。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "高。水源林の荒廃、ダム建設、水質汚染による自生地の破壊。",
+    "climate_change_vulnerability": "高。水温上昇と異常気象が最大の脅威。",
+    "cultural_erosion_risk": "高。栽培農家の高齢化と後継者不足により、伝統的な栽培技術が失われる危険性。",
+    "conservation_actions_needed": [
+      "野生集団の生息域内保全",
+      "遺伝資源の収集と生息域外保全（ジーンバンク）",
+      "伝統的栽培技術の記録と継承支援",
+      "気候変動に適応可能な品種の育種"
+    ],
+    "priority_conservation_regions": [
+      "静岡県、長野県、岩手県、島根県などの日本の山間渓流地帯"
+    ],
+    "ex_situ_conservation_status": "一部の公的機関で遺伝資源として保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "一部の地域で、世界農業遺産（静岡水わさびの伝統栽培）認定などを通じた保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本の伝統的栽培地域（静岡、長野）",
+      "野生集団が残る山岳地帯",
+      "海外の新規栽培地（オレゴン、ニュージーランド）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "野生集団の遺伝的多様性の全容解明",
+      "近縁種との交配による耐性向上の可能性"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な商用品種に関する情報は豊富。"
+      },
+      "variety_name": "だるま (Daruma)",
+      "local_name": "だるま (Daruma)",
+      "origin_region": "日本・静岡県",
+      "distinctive_characteristics": "赤茎系。生育が早く、収量性が高い。辛味と香りのバランスが良い。現在の主流品種の一つ。",
+      "cultural_importance": "広く栽培されており、日本のわさび生産を支える重要な品種。",
+      "climate_adaptation": "比較的栽培しやすいとされるが、基本的なわさびの栽培条件（冷涼な清流）は必須。",
+      "conservation_status": "栽培品種として広く維持"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な商用品種に関する情報は豊富。"
+      },
+      "variety_name": "真妻 (Mazuma)",
+      "local_name": "まづま (Mazuma)",
+      "origin_region": "日本・和歌山県",
+      "distinctive_characteristics": "青茎系。香りが非常に強く、粘りがあり、辛味の中に強い甘みを感じる。最高級品とされるが、生育が遅く栽培が難しい。",
+      "cultural_importance": "高級料亭などで珍重される、わさびの品質を象徴する品種。",
+      "climate_adaptation": "栽培条件がより厳しく、病気にも弱いとされる。気候変動に対してさらに脆弱な可能性がある。",
+      "conservation_status": "栽培品種として維持"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "植物学データベース (KEW, GBIF)",
+      "学術論文 (Google Scholar)",
+      "日本の農林水産省統計・研究報告",
+      "食文化に関する文献"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生集団の遺伝的多様性の網羅的評価"
+    ],
+    "regional_data_coverage": "日本に情報が著しく偏っており、他地域での栽培に関する学術的データは限定的。",
+    "missing_information": [
+      "自然交雑の実例",
+      "大気環境変化への応答に関する実験データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "学名、科属、原産地は植物学データベースに基づき確度が高い。しかし、国際的な情報や野生近縁種との詳細な関係性についてのデータは限定的。"
+    },
+    "primary_name": "Mori Azami",
+    "scientific_name": "Cirsium dipsacolepis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根"
+    ],
+    "origin_region": "日本",
+    "wild_relatives": [
+      "Cirsium japonicum (ノアザミ)",
+      "Cirsium nipponicum (ナンブアザミ)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "high",
+      "source_comment": "この植物は日本に固有であり、国際的な名称は確立されていない。地域名は日本国内の呼称に限定される。"
+    },
+    "international": {
+      "en": [
+        "Mori Thistle"
+      ],
+      "scientific_common": "Mori Azami Thistle"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "モリアザミ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ja",
+            "name": "山ごぼう",
+            "script": "Kanji/Hiragana"
+          },
+          {
+            "lang": "ja",
+            "name": "菊ごぼう",
+            "script": "Kanji/Hiragana"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類体系は国際的な植物データベース（APG IV）に基づいている。"
+    },
+    "family": {
+      "en": "Daisy family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Thistle",
+      "la": "Cirsium"
+    },
+    "species": {
+      "en": "Mori Thistle",
+      "la": "dipsacolepis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "文化的価値は日本国内、特に長野県などの特定地域に限定される。世界的な文脈での評価は困難。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "日本（特に中部地方）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "保存食",
+          "経済作物"
+        ],
+        "traditional_uses": "主に根を味噌漬けや醤油漬けにし、保存食や土産物として利用。独特の歯ごたえと風味が特徴で、郷土料理に欠かせない食材。",
+        "seasonal_significance": "秋から冬にかけて収穫され、冬の保存食として重要。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（郷土料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "山ごぼうの味噌漬け",
+          "山ごぼうの醤油漬け"
+        ],
+        "preparation_methods": [
+          "漬ける",
+          "塩蔵"
+        ],
+        "cultural_context": "中山間地の厳しい冬を越すための保存食文化から発展。現在では地域の特産品、観光土産として文化的アイデンティティの一部となっている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古くから山菜として自生種が利用されていたと推測されるが、栽培の歴史に関する明確な記録は限定的。",
+      "trade_routes": "国際的な交易路での役割はない。国内の地域間での流通に限られる。",
+      "cultural_exchange": "なし",
+      "domestication_history": "野生種から選抜され、特定地域で栽培化されたと考えられるが、詳細な歴史は不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な夏と適度な降水量がある中山間地域。水はけの良い土壌を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冬の寒さには強いが、夏の極端な高温と乾燥には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高冷地での栽培に適している。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯/冷帯",
+        "planting_season": "春",
+        "harvest_season": "晩秋から冬",
+        "growing_period_days": "約200日（1年生の場合）、または2年越しの栽培"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "連作障害",
+        "土壌の排水性",
+        "夏季の気温",
+        "適切な施肥管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（ごく少量と推定）",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": 100,
+          "characteristics": "長野県などの特定地域で小規模に生産される特産品。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "詳細な栄養成分の科学的分析データは極めて乏しい。キク科根菜の一般的特徴からの類推が含まれる。伝統的利用は伝承に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "豊富と推定"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "イヌリン",
+          "amount": "豊富に含まれると推定",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ポリフェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用（推定）"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [],
+      "safety_considerations": "不明"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "調理法は日本の特定地域に限定されるが、その範囲内では情報が豊富である。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "漬物（味噌、醤油、粕）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "米",
+          "味噌",
+          "醤油",
+          "酒"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩蔵・漬物",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月から1年以上",
+        "quality_changes": "発酵により風味と旨味が増す。食感は保持される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "土のような香り、ほのかな苦味、漬け床由来の塩味と旨味",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "シャキシャキとした硬い歯ごたえ"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "モリアザミに特化した気候変動研究は存在しない。冷涼な気候を好むという生態的特性からの定性的推定が主であり、高い不確実性を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C（生育期）",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "高（根の越冬可能）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "不明"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "不明",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により南方系の害虫（アブラムシ類など）の発生増加リスクあり",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の中山間冷涼地",
+        "2050_projection": "現在の栽培地でストレス増加、より標高の高い地域へ適地が移動する可能性",
+        "2100_projection": "現在の主要産地での栽培が困難になる可能性が高い（推定）",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アザミ属（Cirsium）は種間交雑しやすいことで知られており、その一般的性質からの類推。モリアザミに特化した交雑研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [],
+      "interspecific_compatibility": [
+        "Cirsium japonicum（ノアザミ）など、日本に自生する他のCirsium属の種と交雑する可能性が高い"
+      ],
+      "intergeneric_possibility": "低い",
+      "successful_natural_hybrids": [
+        "不明だが、自生地では自然交雑体が形成されている可能性がある"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "低い（栽培されている品種は限定的）",
+      "wild_gene_pool": "日本国内の野生集団や近縁種が遺伝子プールとして重要",
+      "adaptive_genetic_variation": "野生集団には存在すると考えられる",
+      "inbreeding_depression_risk": "中（栽培個体群が小さいため）"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他の耐暑性や耐乾性のある近縁種との交雑により、気候耐性が向上する可能性はある",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "根の形状、風味、耐病性などの新規特性を獲得する可能性",
+      "hybrid_vigor_potential": "高い可能性がある"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "低い（同属内）",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "夏季の高温",
+        "adaptive_traits": "耐暑性",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "モリアザミのリジェネラティブ農業への適性に関する直接的な研究はない。植物の生態的特性（深根性、蜜源）からの定性的評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "ゴボウに似た太く長い直根を地中深くまで伸ばす",
+      "organic_matter_contribution": "収穫後の残渣や細根が有機物として供給される",
+      "soil_structure_improvement": "直根が土壌の硬盤層を穿孔し、水や空気の通り道を改善する可能性がある",
+      "erosion_control": "限定的"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "アザミ属の花はチョウ、ハナバチ類など多様な花粉媒介者にとって重要な蜜源・花粉源となる",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "地域の生態系において花粉媒介者ネットワークを支える役割を持つ"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "深根性により水の土壌浸透を促進する可能性がある",
+      "moisture_retention": "不明",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年草であり、太い根に炭素を蓄積する能力が高い可能性がある",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "不明"
+      ],
+      "natural_pest_control": "花が天敵昆虫（ヒラタアブなど）を誘引する可能性がある",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な送粉者を支えることで、周辺作物の受粉を助ける可能性がある",
+      "stress_tolerance": "不明",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な価値は、主にニッチ市場やガストロノミー分野でのポテンシャルに基づく評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食物繊維が豊富な根菜として価値がある",
+      "food_security_contribution": "限定的だが、中山間地の気候に適した作物として地域の食料自給に貢献",
+      "local_food_system_integration": "地域の食文化と経済を支える重要な作物",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ガストロノミー分野での高級食材",
+        "健康志向の消費者向け機能性食品"
+      ],
+      "value_added_products": [
+        "伝統的な漬物以外の新しい加工品（ピクルス、チップスなど）"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "定性的な評価に基づく。栽培農家の高齢化と後継者不足が最大の脅威。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "中（野生集団に対して）",
+    "climate_change_vulnerability": "高",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "在来品種の種子保存（シードバンク）",
+      "栽培技術の記録と継承支援",
+      "若手生産者の育成",
+      "消費者への認知度向上"
+    ],
+    "priority_conservation_regions": [
+      "日本（長野県など）"
+    ],
+    "ex_situ_conservation_status": "不明",
+    "in_situ_conservation_efforts": "一部の生産者団体や自治体による小規模な保全活動が存在する"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "専門家としての総合的評価。文化的価値は高いが、グローバルな適用性は低い。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 3,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "日本（長野県）"
+    ],
+    "knowledge_gaps": [
+      "詳細な栄養成分と機能性",
+      "気候変動に対する生理的応答",
+      "遺伝的多様性の定量的評価",
+      "栽培最適化技術"
+    ],
+    "global_dictionary_compatibility": 5
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "明確に品種分化しているというより、地域ごとに選抜された系統が存在するレベル。"
+      },
+      "variety_name": "信州在来系統",
+      "local_name": "山ごぼう",
+      "origin_region": "日本（長野県）",
+      "distinctive_characteristics": "細長く、繊維質で歯ごたえが良い根。漬物加工に適する。",
+      "cultural_importance": "地域の特産品であり、食文化の核となっている。",
+      "climate_adaptation": "地域の冷涼な気候に適応しているが、温暖化に脆弱。",
+      "conservation_status": "Vulnerable（危急）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "日本の地方農政局資料",
+      "植物図鑑",
+      "民族植物学関連の報告"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栄養機能性の科学的エビデンス"
+    ],
+    "regional_data_coverage": "情報が日本に極端に偏在",
+    "missing_information": [
+      "国際的な流通データ",
+      "科学的な栽培試験データ",
+      "詳細な遺伝情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 6
+  }
+}

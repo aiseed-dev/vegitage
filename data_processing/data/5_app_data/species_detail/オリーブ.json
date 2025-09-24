@@ -1,0 +1,676 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), FAO statistics, and extensive academic literature on olive cultivation and history. Wild relative information is well-documented."
+    },
+    "primary_name": "Olive",
+    "scientific_name": "Olea europaea",
+    "plant_type": "木本",
+    "edible_parts": [
+      "果実"
+    ],
+    "origin_region": "地中海東部沿岸（レヴァント地方）、アナトリア半島",
+    "wild_relatives": [
+      "Olea europaea subsp. europaea var. sylvestris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are well-documented due to the plant's long history and economic importance. Indigenous names outside the region of origin are not applicable as it is an introduced species."
+    },
+    "international": {
+      "en": [
+        "Olive"
+      ],
+      "scientific_common": "Olive"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Olivo, Oliva",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Olivo, Aceituna",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Olivier, Olive",
+            "script": "Latn"
+          },
+          {
+            "lang": "el",
+            "name": "Ελιά (Eliá)",
+            "script": "Grek"
+          },
+          {
+            "lang": "pt",
+            "name": "Oliveira, Azeitona",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "زيتون (Zaytūn)",
+            "script": "Arab"
+          },
+          {
+            "lang": "tr",
+            "name": "Zeytin",
+            "script": "Latn"
+          },
+          {
+            "lang": "he",
+            "name": "זית (Zayit)",
+            "script": "Hebr"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established in global botanical systems."
+    },
+    "family": {
+      "en": "Olive family",
+      "la": "Oleaceae"
+    },
+    "genus": {
+      "en": "Olive",
+      "la": "Olea"
+    },
+    "species": {
+      "en": "Olive",
+      "la": "Olea europaea"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Olea europaea subsp. europaea"
+      },
+      {
+        "rank": "subspecies",
+        "name": "Olea europaea subsp. cuspidata"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "The cultural significance of the olive is extensively documented in historical, religious, and anthropological texts."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "儀式用",
+          "薬用",
+          "文化的象徴"
+        ],
+        "traditional_uses": "食用油の主要供給源、果実の塩漬け。平和、知恵、豊穣の象徴として宗教儀式（キリスト教、ユダヤ教、イスラム教）や古代オリンピックで使用。油は灯火、石鹸、化粧品にも利用された。",
+        "seasonal_significance": "秋の収穫は共同体の重要な年中行事。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "中東",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "地中海地域と同様、食文化と経済の基盤。聖書やコーランに頻繁に登場し、神聖な木とされる。古代から交易の重要品目。",
+        "seasonal_significance": "収穫期は文化的に重要。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "地中海料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ギリシャ風サラダ",
+          "タプナード",
+          "パスタ料理全般（オイルとして）",
+          "フォカッチャ"
+        ],
+        "preparation_methods": [
+          "圧搾（オイル）",
+          "塩水漬け",
+          "アルカリ処理",
+          "乾燥塩漬け"
+        ],
+        "cultural_context": "地中海食の健康効果を支える中心的食材。食事だけでなく、社会的な集いやホスピタリティの象徴でもある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "6000年以上前から栽培され、ミノア文明、古代エジプト、ギリシャ、ローマ文明の繁栄を支えた。最古の栽培木の一つ。",
+      "trade_routes": "古代地中海世界の最も重要な交易商品の一つ。アンフォラで運ばれたオリーブオイルは経済の基盤であった。",
+      "cultural_exchange": "オリーブの栽培技術と利用法は、フェニキア人、ギリシャ人、ローマ人によって地中海全域に広められ、文化の伝播に貢献した。",
+      "domestication_history": "地中海東部の野生種（Olea europaea var. sylvestris）から選択育種により栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "開花に必要な低温期間が得られないため不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "地中海性気候。長く乾燥した暑い夏と、穏やかで湿潤な冬。年間降水量400-800mm。冬に一定の低温（7℃以下）に遭遇することで花芽が形成される。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "温暖な地域に限られる。強い霜（-10℃以下）に弱く、生育が制限される。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さに耐えられないため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "非常に高い乾燥耐性を持つが、商業生産には灌漑が必要。高品質のオイルが生産されることが多い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "地中海性気候（北半球）",
+        "planting_season": "春",
+        "harvest_season": "10月～1月",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "2,000-15,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "樹齢",
+        "隔年結果性",
+        "剪定",
+        "土壌肥沃度",
+        "灌漑の有無",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約20,000,000トン（果実）",
+      "major_producers": [
+        {
+          "country": "スペイン",
+          "production_share": 45,
+          "characteristics": "世界最大の生産国。集約的な大規模農園が多い。Picual種が主力。"
+        },
+        {
+          "country": "イタリア",
+          "production_share": 15,
+          "characteristics": "多様な品種と高品質なオイルで知られるが、近年Xylella fastidiosaの被害が深刻。"
+        },
+        {
+          "country": "ギリシャ",
+          "production_share": 10,
+          "characteristics": "伝統的な栽培が多く、国民一人当たりの消費量が世界一。Kalamata種などが有名。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": 8,
+          "characteristics": "生産量が急速に増加している。テーブルオリーブとオイルの両方を生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栄養成分、特に脂質組成とポリフェノールに関する研究は非常に豊富。伝統的利用もよく記録されている。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "115 (黒オリーブ塩漬け)",
+        "protein_g": "0.8",
+        "carbs_g": "6.3",
+        "fat_g": "10.7",
+        "fiber_g": "3.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンE",
+          "amount": "1.65mg",
+          "daily_value_percent": 11
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "3.3mg",
+          "daily_value_percent": 18
+        },
+        {
+          "nutrient": "一価不飽和脂肪酸",
+          "amount": "7.9g",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "オレウロペイン",
+        "concentration": "果実に高濃度",
+        "health_effect": "強力な抗酸化作用、抗炎症作用、抗菌作用"
+      },
+      {
+        "compound": "ヒドロキシチロソール",
+        "concentration": "果実とオイルに含有",
+        "health_effect": "最も強力な抗酸化物質の一つ。心血管保護作用。"
+      },
+      {
+        "compound": "オレイン酸",
+        "concentration": "オイルの主成分（55-83%）",
+        "health_effect": "悪玉コレステロール（LDL）を低下させ、善玉コレステロール（HDL）を維持する。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "地中海地域",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "高血圧の改善",
+          "解熱",
+          "軽度の感染症対策",
+          "皮膚の保湿・保護"
+        ],
+        "preparation": "オリーブ葉の煎じ薬、オリーブオイルの塗布・飲用"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "心血管疾患リスクの低減",
+        "抗炎症作用",
+        "血圧降下作用",
+        "抗酸化作用による細胞保護"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "神経保護作用（アルツハイマー病予防）",
+        "腸内環境改善"
+      ],
+      "safety_considerations": "一般的に安全だが、高カロリーのため過剰摂取は肥満につながる可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理での利用法が広く知られており、調理法や加工法に関する情報は豊富。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "生食（オイルとしてドレッシングに）",
+          "加熱調理（炒め物、ロースト）",
+          "塩漬け（前菜、付け合わせ）",
+          "ペースト（タプナード）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "トマト",
+          "ニンニク",
+          "ハーブ（ローズマリー、タイム）",
+          "魚介類",
+          "チーズ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "圧搾（オイル抽出）",
+        "regions": [
+          "世界中の生産地"
+        ],
+        "shelf_life": "1-2年（冷暗所）",
+        "quality_changes": "光、熱、酸素により酸化が進み、風味が劣化する。"
+      },
+      {
+        "method": "塩水漬け（Brine-curing）",
+        "regions": [
+          "ギリシャ",
+          "イタリアなど"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "発酵により風味が複雑になる。果肉が柔らかくなる。"
+      },
+      {
+        "method": "アルカリ処理（Lye-curing）",
+        "regions": [
+          "スペイン",
+          "アメリカ（カリフォルニア）"
+        ],
+        "shelf_life": "数年（缶詰）",
+        "quality_changes": "苦味が速やかに除去されるが、ポリフェノールが減少し、風味が単純になる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "品種、成熟度、加工法により多様。フルーティー、草のよう、ナッツのよう、苦い、辛い、バターのよう。",
+      "aroma_compounds": [
+        "ヘキサナール（青々しい香り）",
+        "リグストロシド",
+        "オレウロペイン"
+      ],
+      "texture_characteristics": "塩漬け果実は、しっかりとした歯ごたえから、柔らかく肉厚なものまで様々。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的知見は豊富だが、極端気象への定量的閾値データは研究途上。将来適地の予測はモデルに依存し不確実性が高い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "15-25°C (年間平均)",
+      "extreme_heat_survival": "40℃を超える高温が続くと、受粉や着果に悪影響が出る可能性がある。",
+      "cold_tolerance": "-10℃を下回ると深刻なダメージを受ける。品種による差が大きい。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い。小さい硬質の葉（硬葉樹）と深い根系が水分の損失を抑える。",
+      "flood_tolerance": "低。根が過湿に弱く、根腐れを起こしやすい。",
+      "optimal_rainfall": "400-800mm（年間）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。深い根系で安定しているが、老木や枝は強風で折れることがある。",
+      "hail_damage_recovery": "中。果実や若枝に被害を受けるが、樹自体の回復力は比較的高い。",
+      "rapid_temperature_change": "中。特に冬の急激な寒波に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。CO2濃度上昇により光合成が促進される可能性があるが、水や栄養素が制限要因となることが多い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、オリーブミバエの発生世代数が増加し、被害が拡大するリスクが高い。また、生息域の北上も懸念される。",
+      "disease_resistance_stability": "高温や干ばつストレスにより樹が弱ると、日和見感染症にかかりやすくなる。Xylella fastidiosaの拡大は気候変動と媒介昆虫の活動域拡大に関連している。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海沿岸、カリフォルニア、チリ、オーストラリア南部",
+        "2050_projection": "栽培適地が北上・高地化する傾向。南欧の一部では過度の乾燥と熱波で生産性が低下する可能性。",
+        "2100_projection": "北アフリカやイベリア半島南部など、現在の主要産地で栽培が困難になるリスクが増大。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栽培オリーブと野生オリーブ間の遺伝子流動に関する研究は豊富。遺伝的多様性も高く評価されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "数千に及ぶ栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Olea europaea subsp. europaea（栽培種）とsubsp. europaea var. sylvestris（野生種）は容易に交雑し、中間的な形態を示す個体群が自然界に存在する。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "栽培オリーブと野生オリーブ（オレアスター）の自然交雑体"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。地中海全域に数千の地域品種が存在し、それぞれが特定の微気候や土壌に適応している。",
+      "wild_gene_pool": "野生オリーブ（var. sylvestris）は、耐病性、耐乾性、その他のストレス耐性に関する貴重な遺伝資源の宝庫である。",
+      "adaptive_genetic_variation": "高い。長年の自然選択と人為選択により、多様な環境への適応能力を持つ遺伝子が多く蓄積されている。",
+      "inbreeding_depression_risk": "低い。主に自家不和合性で他家受粉するため、遺伝的多様性が維持されやすい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "クレタ島（ギリシャ）",
+        "environmental_pressure": "強風、乾燥、貧栄養土壌",
+        "adaptive_response": "矮性で深く張る根系を持つ地域品種（例：Tsunati）が発達。",
+        "time_scale": "数千年",
+        "mechanism": "自然選択と人為選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐塩性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "特定のポリフェノール含有量を高める育種の可能性がある。",
+      "novel_characteristics": "新規の病害（Xylella fastidiosaなど）に対する抵抗性遺伝子を野生種から導入する試みが進行中。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほとんどない。",
+      "chromosome_compatibility": "高い（2n=46）",
+      "fertility_of_hybrids": "高い",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い根系、気孔の制御能力、葉のクチクラ層の発達",
+        "heritability": "中〜高",
+        "response_to_selection": "強い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "伝統的オリーブ農園はリジェネラティブ農業のモデルとされることが多いが、炭素隔離速度などの定量的データはサイト特異性が高く、一般化が難しい。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範囲に広がる深い主根と浅い側根の組み合わせで、土壌を固く保持する。",
+      "organic_matter_contribution": "剪定枝の粉砕・還元や下草の存在により、土壌有機物を維持・増加させる。",
+      "soil_structure_improvement": "根が土壌に団粒構造を形成し、通気性や保水性を改善する。",
+      "erosion_control": "特に傾斜地での伝統的な段々畑栽培は、土壌侵食防止に絶大な効果を発揮する。",
+      "nutrient_cycling_role": "深い根が土壌深層から養分を吸い上げ、落葉により地表に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "風媒花だが、花は多くの昆虫を引き寄せる。下草の草花が多様な花粉媒介者を支える。",
+      "beneficial_insect_habitat": "伝統的な石垣や樹齢の高い樹木は、捕食性昆虫や鳥類の生息地となる。",
+      "soil_microorganism_interaction": "根圏で菌根菌と共生し、リンなどの養分吸収を助ける。",
+      "above_ground_biodiversity": "伝統的オリーブ園は「高自然価値農地」とされ、多くの鳥類、爬虫類、植物種の重要な生息地となっている。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "不耕起栽培や草生栽培は、土壌の浸透能を高め、雨水を地下に貯留する。",
+      "moisture_retention": "樹冠が日差しを遮り、土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "段々畑や等高線栽培は、表面流出を大幅に削減する。",
+      "groundwater_recharge": "高い"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "長寿命の樹木であるため、幹や枝に大量の炭素を長期間固定する。",
+      "below_ground_carbon": "広範な根系に炭素を蓄積する。",
+      "soil_carbon_enhancement": "不耕起・草生栽培により、土壌炭素貯留量を増加させるポテンシャルが高い。",
+      "carbon_sequestration_rate": "栽培方法に大きく依存するが、1ヘクタールあたり年間0.5-2トンの炭素を隔離するとの報告がある。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（クローバー、ベッチ）：窒素固定、土壌被覆",
+        "ハーブ（ラベンダー、ローズマリー）：害虫忌避、花粉媒介者の誘引",
+        "穀物、アーモンドとの混植（アグロフォレストリー）"
+      ],
+      "natural_pest_control": "下草の多様性が天敵昆虫を育む。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "高い。生物多様性が高く、外部からの投入が少ない伝統的システムは安定している。",
+      "stress_tolerance": "樹木自体が乾燥や熱に強く、システム全体のストレス耐性が高い。",
+      "recovery_capacity": "火災や剪定からの回復力が高い。",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食トレンドや市場での位置づけは広く分析されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "地中海食の中心的存在として、健康的で持続可能な植物性食生活のモデルとなっている。",
+      "food_security_contribution": "乾燥地での重要な食料・収入源であり、気候変動下の食料安全保障に貢献する。",
+      "local_food_system_integration": "多くの地域で地域の食文化と経済に深く根付いている。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高品質なエキストラバージンオリーブオイルの健康志向市場",
+        "品種や産地を特定したシングルオリジン製品",
+        "オリーブ葉エキスなどの健康補助食品"
+      ],
+      "value_added_products": [
+        "フレーバーオイル",
+        "化粧品（石鹸、クリーム）",
+        "オリーブの木材を利用した工芸品",
+        "バイオマスエネルギー（搾りかす）"
+      ],
+      "niche_market_value": "非常に高い。特定の希少品種や伝統製法のオイルは高値で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の重要性は認識されているが、全ての地域品種の保全状況が網羅的に評価されているわけではない。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "集約農業への転換、都市化、観光開発による伝統的オリーブ園の放棄・破壊。",
+    "climate_change_vulnerability": "栽培適地の移動と極端気象の増加、新興病害（Xylella fastidiosaなど）の蔓延。",
+    "cultural_erosion_risk": "高。伝統的な栽培・加工技術の継承者不足と、それに伴う地域品種の消失。",
+    "conservation_actions_needed": [
+      "地域品種の遺伝資源バンク（ジーンバンク）での収集・保存",
+      "伝統的オリーブ園の生態系的価値を評価し、経済的に支援する政策（アグリ・エンバイロメント政策）",
+      "域内保全（In-situ conservation）の推進"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸の多様性ホットスポット（イタリア南部、ギリシャの島嶼部、レヴァント地方）"
+    ],
+    "ex_situ_conservation_status": "主要な品種は世界各地のジーンバンクに保存されているが、マイナーな地域品種の網羅性は不十分。",
+    "in_situ_conservation_efforts": "EUの共通農業政策などで一部支援されているが、十分ではない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価は、その文化的・生態学的重要性に基づき高いものとなる。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "Xylella fastidiosaの被害地域（イタリア・プーリア州）における耐性品種の探索",
+      "北アフリカの乾燥限界地域における適応戦略の研究",
+      "レヴァント地方における野生種と栽培種の遺伝子流動の実態調査"
+    ],
+    "knowledge_gaps": [
+      "多数の地域品種における気候変動（複合ストレス）への生理学的応答の定量的データ",
+      "土壌微生物叢と樹の健康・生産性の関係",
+      "新興病害に対する遺伝的抵抗性のメカニズム"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要品種に関する情報は豊富に存在する。"
+      },
+      "variety_name": "Picual",
+      "local_name": "Picual",
+      "origin_region": "スペイン・アンダルシア州",
+      "distinctive_characteristics": "生産性が非常に高い。オイルはポリフェノールを豊富に含み、安定性が高くスパイシーで苦みが強い。",
+      "cultural_importance": "世界のオリーブオイル生産の約25%を占める最も重要な商業品種。",
+      "climate_adaptation": "比較的耐寒性があるが、乾燥には中程度の耐性。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要品種に関する情報は豊富に存在する。"
+      },
+      "variety_name": "Kalamata",
+      "local_name": "Καλαμάτα",
+      "origin_region": "ギリシャ・メッシニア県",
+      "distinctive_characteristics": "アーモンド形で紫黒色の大粒の果実。テーブルオリーブとして世界的に有名。フルーティーな風味。",
+      "cultural_importance": "ギリシャを代表するテーブルオリーブであり、原産地名称保護（PDO）の対象。",
+      "climate_adaptation": "乾燥に強いが、オリーブミバエに弱い。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要品種に関する情報は豊富に存在する。"
+      },
+      "variety_name": "Frantoio",
+      "local_name": "Frantoio",
+      "origin_region": "イタリア・トスカーナ州",
+      "distinctive_characteristics": "高品質なオイルが取れることで有名。フルーティーでアーティチョークのような香りを持ち、バランスが良い。",
+      "cultural_importance": "トスカーナ産高級オリーブオイルの主要品種。世界中の産地で栽培されている。",
+      "climate_adaptation": "中程度の耐寒性を持つ。自家不和合性が強い。",
+      "conservation_status": "広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "World Catalogue of Olive Varieties",
+      "Journal of Agricultural and Food Chemistry",
+      "Nature Plants"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業における炭素隔離能力の定量的評価",
+      "気候変動に対する数千の地域品種ごとの脆弱性評価",
+      "土壌微生物叢がオリーブの健康と風味に与える影響の解明"
+    ],
+    "regional_data_coverage": "地中海地域は豊富。他の生産地域は比較的少ない。",
+    "missing_information": [
+      "多くの地域品種のゲノム情報",
+      "オゾンなどの大気汚染物質に対する感受性データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

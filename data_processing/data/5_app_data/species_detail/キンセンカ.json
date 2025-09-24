@@ -1,0 +1,662 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース（Kew Gardens, GRIN Global）および民族植物学の記録に基づき統合。野生近縁種の情報は広範だが、全ての交雑和合性データは網羅されていない。"
+    },
+    "primary_name": "Pot Marigold",
+    "scientific_name": "Calendula officinalis",
+    "plant_type": "一年草/短命な多年草",
+    "edible_parts": [
+      "花",
+      "葉"
+    ],
+    "origin_region": "南ヨーロッパ、地中海地域",
+    "wild_relatives": [
+      "Calendula arvensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の植物名データベースおよび地域ごとの文献から集約。"
+    },
+    "international": {
+      "en": [
+        "Pot Marigold",
+        "Common Marigold",
+        "Ruddles",
+        "Scotch Marigold"
+      ],
+      "scientific_common": "Calendula"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Ringelblume",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Souci officinal",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Caléndula",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Calendola",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "الأذريون الطبي",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "همیشه بهار",
+            "script": "Arabic"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "गेंदा फूल",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "キンセンカ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "金盞花",
+            "script": "Han"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明",
+        "name": "不明",
+        "cultural_significance": "特定の先住民族コミュニティとの強固な結びつきに関する記録は限定的。主にヨーロッパおよびアジアの伝統医学体系内で広く利用されてきた歴史を持つ。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Daisy family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Marigold",
+      "la": "Calendula"
+    },
+    "species": {
+      "en": "Pot Marigold",
+      "la": "officinalis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史的文献、民族植物学、料理史の研究から広範な情報を集約。食用としての重要性は地域差が大きい。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "儀式用",
+          "副菜",
+          "着色料"
+        ],
+        "traditional_uses": "中世ヨーロッパでは「貧者のサフラン」としてスープやバターの着色に利用。キリスト教文化では聖母マリアに関連付けられ「Mary's Gold」と呼ばれた。薬用として皮膚疾患の治療に広く用いられてきた。",
+        "seasonal_significance": "春から秋まで長く咲き続けることから、生命の連続性や太陽の象徴とされた。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "アーユルヴェーダ医学で抗炎症、解熱、皮膚疾患治療薬として利用。ヒンドゥー教の儀式で神々への供物として用いられることがある。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "古代ペルシャやアラブの医学で、抗炎症作用や解毒作用を持つハーブとして利用された歴史がある。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "中世ヨーロッパ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "ポタージュスープ",
+          "カスタード",
+          "着色バター"
+        ],
+        "preparation_methods": [
+          "着色",
+          "風味付け",
+          "サラダの飾り"
+        ],
+        "cultural_context": "高価なサフランの代替品として、また料理に黄金色を与えることで豊かさを象徴するために広く利用された。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャ、ローマ、エジプト、アラビアで薬用植物として利用された記録がある。",
+      "trade_routes": "地中海交易を通じてヨーロッパ全域へ、後にはシルクロードを通じてアジアへも伝播した可能性がある。",
+      "cultural_exchange": "薬効と染色の特性が文化交流を促進し、各地の伝統医学体系に取り入れられた。",
+      "domestication_history": "南ヨーロッパに自生する野生種（Calendula arvensis等）から、花が大きく薬効成分が豊富な個体が選抜され、栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、生育不良や病気が多発する。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しい乾季（秋冬）に栽培可能。夏の高温多湿期は避ける。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけての冷涼な気候を好む。日当たりと水はけの良い土壌が最適。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さが厳しくない地域で栽培可能。軽い霜には耐える。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "適度な灌水があれば栽培可能。乾燥には比較的強いが、極度の乾燥は避ける。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高の低い地域の短い夏に栽培可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "初夏から秋",
+        "growing_period_days": 60
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋",
+        "harvest_season": "冬から春",
+        "growing_period_days": 70
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌の水はけ",
+        "摘花頻度",
+        "病害虫（うどんこ病、アブラムシ）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ドイツ",
+          "production_share": "不明",
+          "characteristics": "医薬品および化粧品原料としての高品質な有機栽培が多い。"
+        },
+        {
+          "country": "エジプト",
+          "production_share": "不明",
+          "characteristics": "乾燥花弁の主要輸出国の一つ。ハーブティーや抽出物向け。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "国内のアーユルヴェーダ市場および儀式用途での生産が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性成分に関する研究は豊富だが、標準化された栄養価データは限定的。食用量が少ないためマクロ栄養素の重要性は低い。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カロテノイド（ルテイン、ゼアキサンチン）",
+          "amount": "高濃度",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "フラボノイド",
+          "amount": "高濃度",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ファラジオールモノエステル",
+        "concentration": "可変",
+        "health_effect": "強力な抗炎症作用"
+      },
+      {
+        "compound": "ルテイン",
+        "concentration": "高",
+        "health_effect": "抗酸化作用、眼の健康維持"
+      },
+      {
+        "compound": "ケルセチン",
+        "concentration": "中",
+        "health_effect": "抗酸化作用、抗アレルギー作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ療法",
+        "uses": [
+          "創傷治癒",
+          "皮膚炎",
+          "火傷",
+          "消化不良"
+        ],
+        "preparation": "軟膏、チンキ剤、浸出油、ハーブティー"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "解熱",
+          "月経不順の調整",
+          "皮膚疾患",
+          "潰瘍"
+        ],
+        "preparation": "煎じ薬、ペースト"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗炎症作用",
+        "創傷治癒促進作用",
+        "抗酸化作用",
+        "抗菌・抗ウイルス作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "免疫調節作用"
+      ],
+      "safety_considerations": "キク科アレルギーの人は注意が必要。妊娠中・授乳中の内服は避けるべきとされることが多い。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "料理史、ハーブに関する書籍、現代の料理レシピから情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ・北米",
+        "methods": [
+          "生のままサラダに散らす",
+          "スープやシチューの着色",
+          "米料理の着色（サフラン代用）",
+          "ハーブバター",
+          "パンやケーキの生地に練り込む"
+        ],
+        "flavor_role": "着色料/飾り",
+        "typical_combinations": [
+          "米",
+          "卵料理",
+          "緑葉野菜",
+          "鶏肉"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "香りは弱まるが、着色力は長期間保持される。"
+      },
+      {
+        "method": "オイル抽出（浸出油）",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "6ヶ月-1年",
+        "quality_changes": "脂溶性成分がオイルに移行する。食用および外用で利用。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "わずかに苦味、コショウのような辛味、干し草のような香り",
+      "aroma_compounds": [
+        "α-カジノール",
+        "δ-カジネン"
+      ],
+      "texture_characteristics": "花弁は柔らかく、口に残らない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な気候変動応答に関する研究は非常に少ない。評価は植物の基本的な生理特性と栽培地域の気候からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上で生育が著しく阻害される",
+      "cold_tolerance": "-5°C程度までの軽い霜には耐える"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-800mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "草丈が低いため、比較的倒伏しにくい。",
+      "hail_damage_recovery": "成長点が傷つかなければ回復可能。",
+      "rapid_temperature_change": "中程度の適応性"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。C3植物として一般的にポジティブな応答が期待されるが、具体的なデータはない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中。カロテノイドを豊富に含むため、ある程度の耐性を持つ可能性がある。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシの発生期間が長期化する可能性がある。",
+      "disease_resistance_stability": "高温多湿化により、うどんこ病などの真菌性疾患のリスクが増大する。",
+      "beneficial_organism_relationships": "広範な訪花昆虫を誘引するため、受粉サービスの安定には貢献する。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯および冷涼な亜熱帯地域",
+        "2050_projection": "栽培適地がより高緯度・高標高地域へシフトする可能性が高い。低緯度地域では冬作に限定される。",
+        "2100_projection": "温帯地域でも夏の猛暑による生育障害が頻発する可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸分野での交配記録は豊富だが、自然環境下での遺伝子流動に関する研究は限定的。野生近縁種との交雑和合性は高いとされている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の園芸品種間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Calendula arvensis（野生種）と交雑可能。"
+      ],
+      "intergeneric_possibility": [
+        "報告なし。可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培地周辺で野生種との自然交雑が起こっている可能性が指摘されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパ各地に伝統的な薬用・食用系統が存在するが、多くは文書化されていない。",
+      "wild_gene_pool": "C. arvensisなどの野生近縁種が、病害虫抵抗性や環境ストレス耐性の遺伝子供給源として重要。",
+      "adaptive_genetic_variation": "園芸品種として花色や形の多様性は高いが、気候適応に関する遺伝的多様性の評価は不十分。",
+      "inbreeding_depression_risk": "他家受粉性も高いため、多様な系統を維持すればリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "地中海沿岸",
+        "environmental_pressure": "夏の乾燥と高温",
+        "adaptive_response": "秋に発芽し、涼しい冬から春にかけて生育・開花し、夏前に種子を残して枯れる一年草としてのライフサイクル。",
+        "time_scale": "数千年",
+        "mechanism": "ライフサイクルの最適化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "機能性成分（カロテノイド、フラボノイド）の含有量を高める育種の可能性がある。",
+      "novel_characteristics": "新たな花色や草姿の創出。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "同属内では低い。",
+      "chromosome_compatibility": "C. officinalis と C. arvensis は染色体数が異なり倍数性も多様だが、交雑は可能。",
+      "fertility_of_hybrids": "可変。一部不稔になる場合がある。",
+      "backcrossing_success": "比較的容易。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "訪花昆虫の種類",
+        "adaptive_traits": "花の色、形、蜜の量",
+        "heritability": "高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "コンパニオンプランツとしての定性的評価は豊富だが、土壌改良や炭素固定に関する定量的データは乏しい。評価は農業生態学の一般原則に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、密なひげ根。土壌表面の団粒化に貢献する。",
+      "organic_matter_contribution": "中程度。緑肥としてすき込むことで有機物を供給。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "地表を覆うことで、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "特筆すべき能力はないが、菌根菌との共生が報告されている。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "非常に高い。開花期間が長く、ハナバチ、ヒラタアブ、チョウなど多様な花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "ヒラタアブやテントウムシなどの天敵昆虫を誘引し、アブラムシなどの害虫を抑制する。",
+      "soil_microorganism_interaction": "根から特定の化学物質を分泌し、線虫（ネマトーダ）を抑制する効果が伝統的に知られている（アレロパシー効果）。",
+      "above_ground_biodiversity": "農業生態系内の生物多様性を高めるバンカープランツとして機能する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "マルチング効果により表土の乾燥を防ぐ。",
+      "runoff_reduction": "中程度",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的。継続的な栽培と残渣の土壌還元により貢献。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トマト、ナス、キュウリ、マメ科植物"
+      ],
+      "natural_pest_control": "アブラムシの天敵を誘引。トマトの害虫（トマトホーンワーム）を忌避する効果が報告されている。根に有害な線虫を抑制する。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "根からの分泌物が特定の線虫や雑草の成長を抑制する可能性がある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "天敵昆虫の定着を助け、生態系のバランスを保つことで安定性を高める。",
+      "stress_tolerance": "植物自体のストレス耐性は中程度だが、システム全体のレジリエンス向上に貢献する。",
+      "recovery_capacity": "不明",
+      "adaptability": "自家採種が容易で、地域の環境への適応が進みやすい。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、製品開発、持続可能な農業に関する現代的な議論を反映。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "天然の着色料や、サラダへの彩りとして価値がある。",
+      "food_security_contribution": "直接的な貢献は小さいが、受粉促進や害虫管理を通じて他の食料作物の安定生産を支える間接的な貢献が大きい。",
+      "local_food_system_integration": "家庭菜園や小規模農家で栽培しやすく、地域の生態系サービスを高める作物として容易に組み込める。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ナチュラルコスメティクス市場",
+        "機能性食品・サプリメント市場",
+        "オーガニックハーブティー市場",
+        "エディブルフラワー市場"
+      ],
+      "value_added_products": [
+        "カレンデュラオイル",
+        "軟膏・クリーム",
+        "チンキ剤",
+        "乾燥花弁（食品・お茶用）"
+      ],
+      "niche_market_value": "高い。特にオーガニックやデメター認証の製品は高値で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでは評価されていないが、栽培品種の遺伝的多様性に関する懸念は存在する。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種（C. arvensisなど）は、生息地である地中海地域の農地拡大や開発の脅威にさらされている。",
+    "climate_change_vulnerability": "中。高温への脆弱性から、特定の地域系統が失われる可能性がある。",
+    "cultural_erosion_risk": "中。伝統的な薬用知識や食利用が、現代医療や食生活の変化により失われつつある地域がある。",
+    "conservation_actions_needed": [
+      "地域固有の在来系統（ランドレース）の収集と保存",
+      "野生近縁種の生息域内（in-situ）保全",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸地域",
+      "伝統的な利用が残る東ヨーロッパの農村部"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（種子銀行）に多数の栽培品種および野生種の種子が保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部の自然保護区で野生近縁種が保護されているに過ぎない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報を統合した専門家としての評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海地域（野生種と栽培種の遺伝子流動）",
+      "東ヨーロッパ（伝統的ランドレースの特性評価）",
+      "インド（アーユルヴェーダ利用の科学的検証）"
+    ],
+    "knowledge_gaps": [
+      "気候変動要因（高温、CO2濃度）に対する品種レベルでの生理的応答",
+      "土壌改良や炭素固定能力に関する定量的データ",
+      "世界各地の在来系統の遺伝的多様性と機能性成分のプロファイリング"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種の情報は豊富だが、伝統的な在来系統に関する学術的記録は少ない。"
+      },
+      "variety_name": "'Erfurter Orangefarbige'",
+      "local_name": "Erfurter Orangefarbige",
+      "origin_region": "ドイツ、エアフルト",
+      "distinctive_characteristics": "濃いオレンジ色の花弁。薬用成分（特にファラジオール）の含有量が多いことで知られる、伝統的な薬用品種。",
+      "cultural_importance": "ドイツの伝統的なハーブ療法で利用される代表的な品種。",
+      "climate_adaptation": "温帯気候に適応。",
+      "conservation_status": "種子会社により商業的に維持されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN Global Taxonomy",
+      "Plants of the World Online (Kew)",
+      "PubMed (for medicinal research)",
+      "Various ethnobotany and agroecology journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界的な生産量と流通量の正確な統計"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米の情報は豊富だが、アジア、アフリカ、南米に関する情報は比較的少ない。",
+    "missing_information": [
+      "先住民コミュニティにおける伝統的利用法",
+      "栽培の経済性に関する詳細データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベースから統合。野生種との関係は明確だが、栽培品種の情報はほぼ存在しない。"
+    },
+    "primary_name": "Nomame Senna",
+    "scientific_name": "Chamaecrista nomame",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "種子"
+    ],
+    "origin_region": "東アジア",
+    "wild_relatives": [
+      "本種自体が野生種として広く分布しており、明確な栽培種と野生種の区別は一般的ではない。"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "東アジアでの名称は確立されているが、国際的な通称は限定的。中国語名は類似の薬用植物と混同されることがある。"
+    },
+    "international": {
+      "en": [
+        "Nomame senna",
+        "Riverbed senna"
+      ],
+      "scientific_common": "Chamaecrista nomame"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "カワラケツメイ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ja",
+            "name": "河原決明",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ja",
+            "name": "浜茶 (ハマチャ)",
+            "script": "Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "山扁豆",
+            "script": "Han"
+          },
+          {
+            "lang": "zh",
+            "name": "决明 (混称)",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "차풀",
+            "script": "Hangul"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づき、旧名のCassia nomameからの分類変更を反映。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Partridge pea",
+      "la": "Chamaecrista"
+    },
+    "species": {
+      "en": "Nomame senna",
+      "la": "Chamaecrista nomame"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジア、特に日本での民間薬・健康茶としての文化価値は高いが、食文化としての広がりはない。定量的データは乏しい。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "日本では弘法大師（空海）が広めたとされる伝説があり、「弘法茶」として飲用される。利尿、強壮、腎臓病の民間薬として利用されてきた歴史がある。中国では伝統医学で清熱、明目、利水のために用いられる。",
+        "seasonal_significance": "秋に収穫し、乾燥・焙煎して冬のお茶として飲用する習慣がある。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本の健康茶文化",
+        "role": "essential",
+        "traditional_dishes": [
+          "弘法茶",
+          "浜茶"
+        ],
+        "preparation_methods": [
+          "乾燥",
+          "焙煎",
+          "煎じる"
+        ],
+        "cultural_context": "仏教僧侶の健康維持や、民間療法の一環として地域社会に根付いてきた。ドクダミ、ハブソウと並び日本の三大健康茶の一つとされることもある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本の平安時代にまで遡る可能性がある伝説が存在する。中国では古くから薬草として認識されていた。",
+      "trade_routes": "地域内での薬草としての交易はあったと考えられるが、国際的な交易路での主要品目ではない。",
+      "cultural_exchange": "仏教の伝播と共に、薬草知識として日本に伝わった可能性がある。",
+      "domestication_history": "明確な栽培化の歴史はなく、主に野生のものを採取・利用、または半野生状態で管理されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "日当たりの良い、水はけの良い土地。夏の高温多湿に適応。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりの良い河原や荒れ地。霜には弱い一年草。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "4月-5月",
+        "harvest_season": "8月-10月",
+        "growing_period_days": "120-150"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "雑草との競合",
+        "収穫時期"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "小規模農家による栽培や地域コミュニティによる採取が中心。健康茶としての国内市場向け。"
+        },
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "伝統薬の原料として、主に国内で消費される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性成分に関する研究は進んでいるが、標準的な栄養成分データは乏しい。伝統的利用は文献が多いが、科学的検証は途上。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド配糖体 (Cassiaflavanなど)",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、リパーゼ阻害作用"
+      },
+      {
+        "compound": "アントラキノン誘導体",
+        "concentration": "不明",
+        "health_effect": "緩下作用"
+      },
+      {
+        "compound": "タンニン",
+        "concentration": "不明",
+        "health_effect": "収斂作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "日本",
+        "medical_system": "民間療法 (Minkan'yaku)",
+        "uses": [
+          "利尿",
+          "強壮",
+          "便秘解消",
+          "腎臓の不調改善"
+        ],
+        "preparation": "全草を乾燥・焙煎し、煎じてお茶として飲用する。"
+      },
+      {
+        "region": "中国",
+        "medical_system": "中医学 (TCM)",
+        "uses": [
+          "清肝明目 (肝の熱を冷まし、目の働きを良くする)",
+          "利水通便 (利尿と便通を促す)"
+        ],
+        "preparation": "主に種子または全草を煎じて薬湯として用いる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "リパーゼ阻害活性（脂肪吸収抑制）"
+      ],
+      "ongoing_research": [
+        "抗酸化作用",
+        "血糖値上昇抑制効果"
+      ],
+      "safety_considerations": "過剰摂取は下痢を引き起こす可能性がある。妊娠中の使用に関する安全性は確立されていない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "high",
+      "source_comment": "利用法が健康茶に特化しているため、料理としての応用はほとんどない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "煎じる（お茶）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "他の健康茶（ハブ茶、ドクダミ茶など）とのブレンド"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・焙煎",
+        "regions": [
+          "日本",
+          "中国"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "焙煎により香ばしい香りが増し、青臭さが減少する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "香ばしい、ナッツのような、わずかに甘みのある風味。麦茶やほうじ茶に似ている。",
+      "aroma_compounds": [
+        "ピラジン類（焙煎香）"
+      ],
+      "texture_characteristics": "飲料として飲用するため、食感はない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応研究は存在しない。評価は、その生態的地位（河原や荒れ地に自生するマメ科の雑草的性質）からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "低（一年草で霜で枯死）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "600-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度に期待される（C3植物として）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明。強健な性質から一定の抵抗性を持つと推定される。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "根粒菌との共生による窒素固定。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯・亜熱帯地域",
+        "2050_projection": "現在の適地が北方に拡大する可能性",
+        "2100_projection": "さらなる北方への拡大と、南部の亜熱帯地域での高温ストレスリスク増大の可能性",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Chamaecrista属内の交雑に関する情報は限定的。評価は野生植物としての一般的な遺伝的多様性からの推定。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間での交雑は容易と推定される。"
+      ],
+      "interspecific_compatibility": [
+        "不明"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "在来品種は存在しないが、地域ごとの野生集団に高い遺伝的多様性があると推定される。",
+      "wild_gene_pool": "全ての集団が野生遺伝子プールを構成している。",
+      "adaptive_genetic_variation": "高いと推定される。",
+      "inbreeding_depression_risk": "低い"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "東アジア",
+        "environmental_pressure": "多様な土壌条件（河原の砂地、畑の粘土質土壌など）",
+        "adaptive_response": "広範な土壌適応性",
+        "time_scale": "不明",
+        "mechanism": "遺伝的多様性に基づく自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、貧栄養",
+        "adaptive_traits": "深い根系、窒素固定能力",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "直接的な研究データは無いが、マメ科植物の一般的特性と生態的地位から高い適性が推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "直根性で、土壌深くまで根を張る可能性がある。",
+      "organic_matter_contribution": "地上部バイオマスの鋤き込みによる有機物供給。",
+      "soil_structure_improvement": "根による土壌団粒構造の促進。",
+      "erosion_control": "河原などの裸地を被覆し、土壌侵食を防止する。",
+      "nutrient_cycling_role": "根粒菌との共生による大気中窒素の固定。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "夏に開花し、蝶や蜂などの花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌との共生関係を構築する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が土壌に浸透経路を作り、水分の浸透を促進する。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "地表被覆による雨水の流出抑制。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "根系による炭素蓄積が期待される。",
+      "soil_carbon_enhancement": "窒素固定による植物成長促進を通じて、土壌炭素の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "窒素を要求する作物（トウモロコシなど）との混植"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "分解後に後作へ窒素を供給する。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "緑肥や被覆作物として利用することで、土壌肥沃度を高め、生態系の安定に貢献する。",
+      "stress_tolerance": "乾燥や貧栄養土壌への高い耐性を持つ。",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "健康食品・サプリメント市場でのニッチな需要が存在する。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "機能性飲料としての価値。",
+      "food_security_contribution": "直接的な貢献は低いが、痩せ地で栽培可能な薬用作物としての価値はある。",
+      "local_food_system_integration": "地域の伝統的知識に基づく小規模生産と相性が良い。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性表示食品（リパーゼ阻害）",
+        "オーガニック健康茶",
+        "自然派化粧品原料"
+      ],
+      "value_added_products": [
+        "抽出エキス（サプリメント用）",
+        "ブレンドティー"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "植物自体の絶滅リスクは低いが、それを利用する文化的知識の継承が課題。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "中（河川改修や開発による自生地の減少）",
+    "climate_change_vulnerability": "低",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "伝統的知識の記録と継承",
+      "自生地の保全",
+      "地域コミュニティによる持続可能な利用の促進"
+    ],
+    "priority_conservation_regions": [
+      "日本の中山間地域",
+      "中国の伝統的薬草利用地域"
+    ],
+    "ex_situ_conservation_status": "不明",
+    "in_situ_conservation_efforts": "特定の保護活動は報告されていない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家AIとしての総合的評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 5,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "日本（特に四国、中国地方）",
+      "中国（南部）"
+    ],
+    "knowledge_gaps": [
+      "定量的気候変動応答データ",
+      "リジェネラティブ農業システムでの具体的なパフォーマンス評価",
+      "地域集団間の遺伝的多様性の詳細な解析"
+    ],
+    "global_dictionary_compatibility": 7
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "栽培品種は確立されておらず、野生集団を代表として記載。"
+      },
+      "variety_name": "野生種 (Wild Type)",
+      "local_name": "カワラケツメイ",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "一年生草本。夏に黄色の蝶形花を咲かせる。葉は偶数羽状複葉で、夜になると閉じる（就眠運動）。河原や道端、畑などの日当たりの良い場所に自生する。",
+      "cultural_importance": "日本の民間薬「弘法茶」の原料として最も重要。",
+      "climate_adaptation": "耐暑性、耐乾性が高く、貧栄養土壌にも適応する。",
+      "conservation_status": "Not threatened (LC - Least Concern)"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Ethnopharmacological databases",
+      "Botanical databases (KEW, GBIF)",
+      "Scientific papers on functional components of Chamaecrista nomame",
+      "Japanese folk medicine literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栄養成分の詳細な分析",
+      "交雑親和性に関する具体的な研究"
+    ],
+    "regional_data_coverage": "東アジアに偏っており、特に日本に関する情報が中心。",
+    "missing_information": [
+      "栽培収量データ",
+      "国際市場データ",
+      "先住民による利用"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

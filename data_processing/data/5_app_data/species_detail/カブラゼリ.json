@@ -1,0 +1,507 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GRIN）から統合。栽培品種や野生近縁種に関する詳細情報は限定的。"
+    },
+    "primary_name": "Turnip-rooted Chervil",
+    "scientific_name": "Chaerophyllum bulbosum",
+    "plant_type": "二年草",
+    "edible_parts": [
+      "根"
+    ],
+    "origin_region": "中央ヨーロッパ、東ヨーロッパ、西アジア",
+    "wild_relatives": [
+      "Chaerophyllum hirsutum",
+      "Chaerophyllum temulum (有毒)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパ言語圏での名称は確立されているが、他の地域ではほとんど知られていない。"
+    },
+    "international": {
+      "en": [
+        "Turnip-rooted chervil",
+        "Parsnip chervil",
+        "Bulbous chervil"
+      ],
+      "scientific_common": "Bulbous Chervil"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Cerfeuil tubéreux",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Knolliger Kälberkropf",
+            "script": "Latn"
+          },
+          {
+            "lang": "ru",
+            "name": "Бутень клубненосный",
+            "script": "Cyrl"
+          },
+          {
+            "lang": "it",
+            "name": "Cerfoglio bulboso",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "カブラゼリ",
+            "script": "Kana"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類学的情報は国際的な植物分類データベースに基づき安定している。"
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Chervil",
+      "la": "Chaerophyllum"
+    },
+    "species": {
+      "en": "Turnip-rooted Chervil",
+      "la": "bulbosum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "19世紀のヨーロッパでの利用記録は存在するが、現代における文化的重要性は一部の美食文化に限定される。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "19世紀にフランスやドイツで根菜として栽培されたが、ジャガイモや他の根菜に取って代わられ衰退。近年、美食家やシェフの間で「忘れられた野菜」として再評価されている。",
+        "seasonal_significance": "秋に収穫され、冬の貯蔵食料として利用された歴史がある。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理（特にオートキュイジーヌ）",
+        "role": "rare",
+        "traditional_dishes": [
+          "Purée de cerfeuil tubéreux (カブラゼリのピュレ)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "ロースト",
+          "ピュレ"
+        ],
+        "cultural_context": "繊細でナッツのような風味（栗やジャガイモに似る）が、高級料理の食材として珍重される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマでの利用を示唆する文献もあるが、確証は乏しい。栽培化は中世以降と考えられる。",
+      "trade_routes": "国際的な交易品としての歴史はほとんどない。",
+      "cultural_exchange": "ヨーロッパ内での限定的な伝播に留まる。",
+      "domestication_history": "中央ヨーロッパの野生種から選抜されたと考えられているが、詳細な栽培化の歴史は不明な点が多い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "湿潤で冷涼な夏と、春化処理のための寒冷な冬が必要。土壌は水はけの良い肥沃なローム土を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冬の寒さが厳しい大陸性気候に適するが、夏の極端な高温と乾燥には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "栽培期間が短すぎるため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "秋または早春",
+        "harvest_season": "翌年の夏から秋",
+        "growing_period_days": "200-300"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産が限定的なためデータなし）",
+      "factors_affecting_yield": [
+        "発芽の難しさ（低温湿潤処理が必要）",
+        "生育期間の長さ",
+        "雑草との競合",
+        "適切な春化"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（統計データなし）",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "ニッチ市場向けの小規模生産が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "詳細な栄養分析データは非常に乏しい。伝統的な薬用利用に関する信頼できる記録はほとんどない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "主成分はデンプン質と推定される。",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ポリアセチレン類",
+        "concentration": "不明",
+        "health_effect": "セリ科植物に一般的に含まれるが、本種での特異的な研究は少ない。"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [],
+      "safety_considerations": "近縁種に有毒な植物（Chaerophyllum temulumなど）が存在するため、野生種の同定には専門知識が必須。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主にヨーロッパの美食文化における利用法が記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "茹でる",
+          "蒸す",
+          "ロースト",
+          "ソテー",
+          "ピュレにする",
+          "スープ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "バター",
+          "クリーム",
+          "ナッツ類",
+          "鶏肉",
+          "仔牛肉"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷蔵貯蔵",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "収穫後、数週間の冷蔵貯蔵（熟成）を経ることで、デンプンが糖に変化し、風味が向上し甘みが増す。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッティ、甘い、ジャガイモ、栗、パースニップ、セロリのニュアンス",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理後は粉質で滑らか。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応性の研究は存在しない。以下の評価は、栽培要件とセリ科植物の一般的特性からの推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "高（春化に低温が必要）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "不明（一定の土壌水分が必要）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "不明",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "低（生育サイクルが長いため影響を受けやすい）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりニンジンキバガ等の害虫被害が増加する可能性。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "中央・東ヨーロッパの冷涼温帯地域",
+        "2050_projection": "栽培適地はより高緯度・高標高地域へ移動する可能性が高い。",
+        "2100_projection": "現在の主要栽培地域では、冬の低温不足により栽培が困難になるリスクがある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "交雑親和性に関する具体的な研究は少ない。同属の野生種との交雑可能性からの類推が主となる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種間の交雑は可能と推定される。"
+      ],
+      "interspecific_compatibility": [
+        "同属の野生種（例：C. hirsutum）との交雑可能性がある。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い。"
+      ],
+      "successful_natural_hybrids": [
+        "有毒な近縁種（C. temulum）との自然交雑のリスクが指摘されており、自家採種には注意が必要。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に低い。現存する栽培品種は限定的。",
+      "wild_gene_pool": "原産地であるコーカサス地方などの野生集団が、耐病性や環境ストレス耐性などの遺伝資源として重要。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "高"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、耐病性や耐乾性などの特性を導入できる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "風味や根の形状に関する新規特性の導入。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 5
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した研究はない。セリ科植物の一般的特性からの推定に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深く伸びるため、土壌の硬盤を破砕し、通気性や水はけを改善する可能性がある。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物となるが、他の作物と比較して特筆すべき点はない。",
+      "soil_structure_improvement": "深根性による土壌構造の改善効果が期待される。",
+      "erosion_control": "不明",
+      "nutrient_cycling_role": "深い土層から養分を吸い上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "セリ科特有の散形花序は、ハチ、ハエ、甲虫など多様な花粉媒介者や天敵昆虫（寄生バチ、ヒラタアブなど）を引き寄せる。",
+      "beneficial_insect_habitat": "開花期に天敵昆虫の蜜源・花粉源となり、農生態系全体の害虫抑制に貢献する可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "多様な昆虫相を育むことで貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が水の浸透を促進する可能性がある。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "主根が深いため、地下部への炭素蓄積ポテンシャルは比較的高い可能性がある。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "レタス、タマネギなど（セリ科一般）"
+      ],
+      "natural_pest_control": "天敵誘引効果による。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "生物多様性への貢献を通じて、生態系の安定性を高める可能性がある。",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "低い",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な価値は、主に美食分野と生物多様性保全の文脈で語られる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ユニークな風味を持つ根菜として、食の多様性に貢献する。",
+      "food_security_contribution": "収量性が低く栽培も難しいため、主要な食料安全保障への貢献は期待できない。",
+      "local_food_system_integration": "地域の気候に適応した品種が開発されれば、地域食品システムの一部となりうる。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級レストラン市場",
+        "家庭菜園愛好家向けの種子市場",
+        "食の多様性を求める消費者層"
+      ],
+      "value_added_products": [
+        "加工済みピュレ",
+        "フリーズドライ製品"
+      ],
+      "niche_market_value": "「忘れられた野菜」としてのストーリー性と希少性が高い付加価値を生む。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源としての価値は認識されているが、具体的な保全活動は限定的。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生種の自生地における生息地の喪失。",
+    "climate_change_vulnerability": "高",
+    "cultural_erosion_risk": "高（栽培技術や調理法の知識が失われつつある）",
+    "conservation_actions_needed": [
+      "遺伝資源の収集と種子銀行での保存（域外保全）",
+      "農家による栽培の奨励と知識の継承（域内保全）",
+      "野生近縁種の生息地保全"
+    ],
+    "priority_conservation_regions": [
+      "コーカサス地方（野生種の多様性中心地）",
+      "フランス、ドイツ（伝統的栽培地域）"
+    ],
+    "ex_situ_conservation_status": "一部の遺伝資源バンク（例：ヴァヴィロフ研究所）には収集されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "一部の愛好家や小規模農家、レストランによって栽培が維持されている程度。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 4,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "フランス（栽培・利用文化）",
+      "コーカサス地方（遺伝的多様性）"
+    ],
+    "knowledge_gaps": [
+      "正確な栄養成分",
+      "気候変動への生理的応答",
+      "栽培品種の遺伝的多様性評価",
+      "リジェネラティブ農業における定量的効果"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "商業的に確立された品種は極めて少ない。"
+      },
+      "variety_name": "Altan",
+      "local_name": "Altan",
+      "origin_region": "フランス",
+      "distinctive_characteristics": "比較的均一な形状の根を持つとされる選抜品種。",
+      "cultural_importance": "現代の商業栽培で利用される数少ない品種の一つ。",
+      "climate_adaptation": "不明",
+      "conservation_status": "商業的に維持されているが、流通は限定的。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Plants of the World Online (Kew)",
+      "GRIN-Global",
+      "Projet PROTA",
+      "Culinary ethnobotany literature"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動適応性に関する定量的データ",
+      "栄養価および機能性成分の科学的分析",
+      "栽培品種レベルでの遺伝的多様性"
+    ],
+    "regional_data_coverage": "ヨーロッパに偏っており、他の地域に関するデータはほぼ皆無。",
+    "missing_information": [
+      "収量データ",
+      "詳細な栽培マニュアル",
+      "病害虫耐性に関する情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

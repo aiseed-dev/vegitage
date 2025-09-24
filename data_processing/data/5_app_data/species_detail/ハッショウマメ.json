@@ -1,0 +1,668 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、民族植物学、農学研究から情報を統合。栽培品種と野生種の区別に関する情報が豊富。"
+    },
+    "primary_name": "Velvet Bean",
+    "scientific_name": "Mucuna pruriens",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子"
+    ],
+    "origin_region": "アフリカおよび熱帯アジア",
+    "wild_relatives": [
+      "Mucuna pruriens var. pruriens"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の民族植物学データベース及び言語資料から広範に収集。"
+    },
+    "international": {
+      "en": [
+        "Velvet Bean",
+        "Cowhage",
+        "Cowitch",
+        "Mucuna"
+      ],
+      "scientific_common": "Mucuna"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "sa",
+            "name": "कपिकच्छु (Kapikacchu), आत्मगुप्ता (Atmagupta)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "hi",
+            "name": "कौंच (Kaunch)",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "yo",
+            "name": "Werepe",
+            "script": "Latin"
+          },
+          {
+            "lang": "sw",
+            "name": "Upupu",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Feijão-da-flórida",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ハッショウマメ (Hasshoumame)",
+            "script": "Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アーユルヴェーダ実践者（南アジア）",
+        "name": "Kapikacchu",
+        "cultural_significance": "サンスクリット語で「猿のように痒みを引き起こすもの」を意味し、莢の刺激毛に由来。伝統医学における重要な薬草。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Mucuna",
+      "la": "Mucuna"
+    },
+    "species": {
+      "en": "Velvet Bean",
+      "la": "pruriens"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "pruriens (野生種、刺激毛が多い)"
+      },
+      {
+        "rank": "var.",
+        "name": "utilis (栽培種、刺激毛が少ない)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、文化人類学、歴史文献に基づく情報。薬用利用に関する記述が特に豊富。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "アーユルヴェーダ医学で数千年にわたり神経系疾患、男性不妊、強壮剤として利用。種子は神聖な儀式で使われることがある。",
+        "seasonal_significance": "雨季に成長し、乾季の始まりに収穫されるため、季節のサイクルと強く結びついている。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "アフリカ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "伝統医療で様々な病気の治療に利用。種子は毒抜き処理を施した上で、飢饉時の食料（Famine Food）として重要。近年では緑肥作物としての価値が高まっている。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "主に20世紀に緑肥・被覆作物として導入された。伝統的な食文化や薬用利用は限定的だが、アグロフォレストリーシステムで重要性が増している。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド、アフリカの一部の伝統食",
+        "role": "rare",
+        "traditional_dishes": [
+          "煮豆",
+          "粉末にしたものをパンや粥に混ぜる"
+        ],
+        "preparation_methods": [
+          "長時間の浸水",
+          "複数回の煮沸と水の交換",
+          "発酵"
+        ],
+        "cultural_context": "日常食ではなく、飢饉時の救荒作物、または特定の薬効を期待して食されることが多い。調理には毒性物質（L-DOPA等）と刺激毛を除去するための高度な伝統知識が必要。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代インドのサンスクリット文献に記載があり、少なくとも3000年以上の薬用利用の歴史を持つ。",
+      "trade_routes": "薬草として古代の交易路を通じてアジア、アフリカ、中東に広まった可能性がある。",
+      "cultural_exchange": "アーユルヴェーダ医学の普及と共にその知識が世界に広まった。近代では緑肥作物として汎熱帯地域に導入された。",
+      "domestication_history": "野生の刺激毛の多い種（var. pruriens）から、刺激毛が少なく栽培しやすい品種（var. utilis）が選抜された。栽培化の正確な時期と場所は不明だが、アジアで始まった可能性が高い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿、年間降水量1000-2500mm。明確な乾季があると種子の成熟に適する。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な気候。生育期間が確保できれば栽培可能。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が不足し、低温に弱いため不適。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さが厳しく不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑があれば栽培可能。深い根系のため乾燥には比較的強い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯モンスーン気候",
+        "planting_season": "雨季の始まり（例：6月-7月）",
+        "harvest_season": "乾季の始まり（例：11月-1月）",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "500 - 2000 kg/ha（乾燥種子）",
+      "factors_affecting_yield": [
+        "降水量",
+        "土壌肥沃度",
+        "品種",
+        "支柱の有無"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "主にアーユルヴェーダ薬品およびL-DOPA抽出原料として商業栽培されている。"
+        },
+        {
+          "country": "ブラジル",
+          "production_share": "不明",
+          "characteristics": "大規模農業地帯で緑肥・被覆作物として利用されることが多い。"
+        },
+        {
+          "country": "ナイジェリア",
+          "production_share": "不明",
+          "characteristics": "食料および伝統医療目的で小規模農家により栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "L-DOPAに関する研究は豊富だが、一般的な栄養価データは品種や処理方法により大きく変動する。伝統的知識は豊富だが、科学的検証は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約350-400",
+        "protein_g": "23-35",
+        "carbs_g": "50-60",
+        "fat_g": "5-7",
+        "fiber_g": "5-10"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "L-DOPA (レボドパ)",
+        "concentration": "3-7% (乾燥種子重量)",
+        "health_effect": "パーキンソン病の症状を緩和する神経伝達物質ドーパミンの前駆体。"
+      },
+      {
+        "compound": "セロトニン、5-HTP",
+        "concentration": "微量",
+        "health_effect": "神経伝達物質。気分調節に関与。"
+      },
+      {
+        "compound": "トリプタミン類",
+        "concentration": "微量",
+        "health_effect": "向精神作用を持つ可能性がある。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "神経系の強壮（特にパーキンソン病様症状）",
+          "媚薬・強精剤",
+          "抗炎症",
+          "抗糖尿病"
+        ],
+        "preparation": "種子を牛乳で煮て精製・粉末化する（Shodhanaと呼ばれる伝統的解毒プロセス）。"
+      },
+      {
+        "region": "アフリカ",
+        "medical_system": "伝統民間医療",
+        "uses": [
+          "蛇毒の解毒",
+          "鎮痛",
+          "利尿"
+        ],
+        "preparation": "種子の粉末や抽出液を経口または局所的に使用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "パーキンソン病症状の改善（L-DOPAによる）",
+        "テストステロンレベルの向上と精子の質の改善",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗糖尿病効果",
+        "抗うつ効果",
+        "神経保護作用"
+      ],
+      "safety_considerations": "未処理の種子は高濃度のL-DOPAや他の抗栄養因子を含むため有毒。過剰摂取は吐き気、精神症状などの副作用を引き起こす可能性がある。医師の指導なしでの摂取は危険。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用としての利用は限定的であり、詳細な調理法や味覚プロファイルの記録は少ない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "インドネシア（一部地域）",
+        "methods": [
+          "発酵させてテンペ（Tempeh benguk）にする"
+        ],
+        "flavor_role": "主材料",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "スパイス"
+        ]
+      },
+      {
+        "region": "アフリカ（一部地域）",
+        "methods": [
+          "長時間煮込み、他の穀物や野菜と混ぜる"
+        ],
+        "flavor_role": "増量材",
+        "typical_combinations": [
+          "トウモロコシ粉",
+          "キャッサバ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "複数回の煮沸と浸水",
+        "regions": [
+          "アフリカ",
+          "アジア"
+        ],
+        "shelf_life": "乾燥種子は数年",
+        "quality_changes": "L-DOPAや水溶性毒素が減少し、食用に適するようになる。"
+      },
+      {
+        "method": "発酵",
+        "regions": [
+          "インドネシア"
+        ],
+        "shelf_life": "数日（テンペとして）",
+        "quality_changes": "抗栄養因子が分解され、消化性が向上し、独特の風味が付加される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "処理後は比較的淡白で、他の豆類に似た風味。わずかな苦味や土臭さが残ることがある。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理後は柔らかく、やや粉質の食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "緑肥作物としての特性から耐暑性・耐乾性に関する定性的評価は多いが、気候変動モデルに基づく定量的な予測研究は限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上でも生存可能だが、生産性は低下する。",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "深い主根が土壌深層の水分を利用するため、効率が高い。",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "900-1500 mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物のため、強風による倒伏のリスクはあるが、地面を覆うことで回復も早い。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成とバイオマス生産が増加する可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "アレロパシー効果により多くの土壌線虫や雑草を抑制するため、新たな病害虫圧に対しても一定の抵抗性を持つ可能性がある。",
+      "disease_resistance_stability": "遺伝的多様性が高いため、比較的安定していると考えられる。",
+      "beneficial_organism_relationships": "根粒菌との共生による窒素固定能力は、劣化した土壌でも生育を可能にする。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "汎熱帯・亜熱帯地域",
+        "2050_projection": "現在の適地が維持され、亜熱帯地域の高緯度側へわずかに拡大する可能性。",
+        "2100_projection": "一部の熱帯地域で高温・乾燥ストレスが許容範囲を超える可能性があるが、全体的には栽培可能域は維持または拡大。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "人為的な育種に関する情報は存在するが、自然環境下での種間交雑に関する詳細なデータは乏しい。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Mucuna pruriens var. pruriens (野生種)とvar. utilis (栽培種)は容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他のMucuna種との交雑可能性は理論的に存在するが、自然界での報告は稀。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "不明確"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジア、アフリカ、アメリカ大陸に多様な在来種や栽培品種が存在し、種子の色、大きさ、刺激毛の有無、L-DOPA含有量などに変異がある。",
+      "wild_gene_pool": "野生種（var. pruriens）が広範に分布しており、栽培種との遺伝子流動の源となっている。",
+      "adaptive_genetic_variation": "高い",
+      "inbreeding_depression_risk": "自家受粉も行うが、他家受粉率も比較的高いため、リスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "汎熱帯地域",
+        "environmental_pressure": "様々な土壌タイプ（酸性、低肥沃度）、乾燥",
+        "adaptive_response": "広範な土壌適応性と高い乾燥耐性を持つ地域個体群の分化。",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "自然選択による適応遺伝子の集積。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種の遺伝子を導入することで、耐病性やストレス耐性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "L-DOPA含有量が少なく、他の栄養価が高い品種の選抜・交配が可能。",
+      "novel_characteristics": "刺激毛の完全な消失、早生性、特定の薬効成分の増減など。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "種内では問題ない。",
+      "fertility_of_hybrids": "種内では問題ない。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "草食動物による捕食、病害虫、乾燥",
+        "adaptive_traits": "刺激毛、高濃度L-DOPA、深い根系",
+        "heritability": "高い",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "緑肥・被覆作物としての利用に関する農学的研究が非常に豊富。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く強力な主根と広範な側根を持ち、土壌の硬盤を破砕する。",
+      "organic_matter_contribution": "地上部のバイオマス生産量が非常に多く（最大30トン/ha）、優れた有機物供給源となる。",
+      "soil_structure_improvement": "根による土壌団粒化の促進と、有機物供給による土壌構造の改善。",
+      "erosion_control": "旺盛な成長で地表を素早く覆い、雨滴による土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "根粒菌との共生により、1ヘクタールあたり年間150kg以上の窒素を固定する。また、土壌深層から養分を吸い上げ、表層に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は大型のハチ類（クマバチなど）を引きつける。",
+      "beneficial_insect_habitat": "密な植生が天敵昆虫やクモなどの生息地を提供する。",
+      "soil_microorganism_interaction": "根圏で多様な微生物群集を育み、土壌の生物性を高める。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆と根による土壌構造改善により、水の浸透を促進する。",
+      "moisture_retention": "マルチ効果により土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表流を減少させる。",
+      "groundwater_recharge": "浸透促進により地下水涵養に貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い",
+      "below_ground_carbon": "深い根系により、地下への炭素蓄積能力が高い。",
+      "soil_carbon_enhancement": "大量のバイオマス還元により、土壌有機炭素（SOC）を効果的に増加させる。",
+      "carbon_sequestration_rate": "高い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱となり、窒素を供給）",
+        "果樹（下草として雑草抑制と土壌改良）"
+      ],
+      "natural_pest_control": "根からの分泌物が土壌線虫を抑制するアレロパシー効果を持つ。",
+      "nutrient_sharing": "窒素固定により混植作物の生育を助ける。",
+      "allelopathic_interactions": "地上部も雑草の発生を物理的・化学的に抑制する。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "土壌肥沃度を高め、外部からの肥料投入を減らすことで、生態系の安定性を向上させる。",
+      "stress_tolerance": "高い",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "医薬品、健康補助食品、持続可能農業の分野での応用に関する情報が豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク質源としての潜在性を持つが、毒抜き処理技術の確立が課題。",
+      "food_security_contribution": "救荒作物として、また土壌改良を通じて他の作物の生産性を向上させることで間接的に貢献。",
+      "local_food_system_integration": "アグロフォレストリーやパーマカルチャーの設計において重要な構成要素となりうる。",
+      "alternative_protein_potential": "高い。しかし、L-DOPAの除去または低減技術の開発が必要。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "天然L-DOPA源としての健康補助食品市場",
+        "オーガニック農業向けの緑肥・被覆作物種子市場",
+        "機能性食品原料"
+      ],
+      "value_added_products": [
+        "標準化されたL-DOPA抽出物",
+        "プロテインパウダー（無毒化処理後）",
+        "ハーブティー"
+      ],
+      "niche_market_value": "健康補助食品市場ではすでに確立された地位を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "広域分布種であるため絶滅リスクは低いが、地域固有の在来種や伝統知識の消失リスクに関するデータは限定的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "低い（広域分布のため）",
+    "climate_change_vulnerability": "低い",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "食用や薬用に利用される地域在来種の収集と特性評価",
+      "毒抜き処理に関する伝統的知識の記録と科学的検証",
+      "種子バンクでの遺伝資源の域外保全"
+    ],
+    "priority_conservation_regions": [
+      "インド",
+      "西アフリカ",
+      "中央アメリカ"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンクに多数のアクセスが保存されている。",
+    "in_situ_conservation_efforts": "伝統的な農地で農家によって維持されているが、体系的な保全活動は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた多角的な情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド（アーユルヴェーダとの関連）、西アフリカ（食文化と農法）、中央アメリカ（被覆作物としての生態系サービス）"
+    ],
+    "knowledge_gaps": [
+      "食用化のための安全な毒抜き処理技術の標準化",
+      "多様な在来種のL-DOPA含有量と他の機能性成分のプロファイリング",
+      "気候変動シナリオ下での品種ごとの生産性応答"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "植物分類学上の主要な変種に関する情報。"
+      },
+      "variety_name": "Mucuna pruriens var. pruriens",
+      "local_name": "Cowhage, Cowitch",
+      "origin_region": "汎熱帯",
+      "distinctive_characteristics": "莢に密生する赤褐色または黄色の刺激毛が皮膚に激しい痒みを引き起こす。種子は通常小さい。",
+      "cultural_importance": "伝統医療で利用されることが多いが、刺激毛のため取り扱いには注意が必要。野生種。",
+      "climate_adaptation": "非常に高い強健性とストレス耐性を持つ。",
+      "conservation_status": "懸念なし（Least Concern）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "植物分類学上の主要な変種に関する情報。"
+      },
+      "variety_name": "Mucuna pruriens var. utilis",
+      "local_name": "Velvet Bean",
+      "origin_region": "アジア（栽培化）",
+      "distinctive_characteristics": "莢の刺激毛がほとんどないか、ビロード状で刺激性が低い。種子は大きいことが多い。つるが長い。",
+      "cultural_importance": "主に緑肥・被覆作物として世界中で栽培されている。食用にされるのは主にこの変種。",
+      "climate_adaptation": "高いが、野生種に比べるとやや劣る可能性がある。",
+      "conservation_status": "栽培種として広く利用"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "World Flora Online",
+      "Kew Plants of the World Online",
+      "Prota (Plant Resources of Tropical Africa)",
+      "Ethnobotanical and Pharmacological research papers (via PubMed, Google Scholar)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ（特に炭素隔離速度）",
+      "気候変動に対する品種レベルでの応答に関する実験データ",
+      "食文化における調理法の地域差と安全性に関する科学的データ"
+    ],
+    "regional_data_coverage": "南アジアと南北アメリカに関するデータは豊富だが、アフリカの多様な利用法に関する情報は断片的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "商業流通している品種の詳細な遺伝的背景"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

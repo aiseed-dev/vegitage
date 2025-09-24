@@ -1,0 +1,628 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical and agricultural databases (e.g., FAO, GRIN-Global, academic journals). Data on wild relatives is well-established but genetic proximity details are specialized."
+    },
+    "primary_name": "White Lupin",
+    "scientific_name": "Lupinus albus",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子"
+    ],
+    "origin_region": "地中海地域、バルカン半島",
+    "wild_relatives": [
+      "Lupinus graecus",
+      "Lupinus vavilovii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical databases and regional agricultural reports."
+    },
+    "international": {
+      "en": [
+        "White Lupin",
+        "Field Lupin"
+      ],
+      "scientific_common": "Albus Lupin"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "lupino bianco",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "altramuz blanco, lupino blanco",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "tremoço branco",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "lupin blanc",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Weiße Lupine",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "ترمس",
+            "script": "Arabic"
+          },
+          {
+            "lang": "he",
+            "name": "תורמוס לבן",
+            "script": "Hebrew"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "am",
+            "name": "gibto",
+            "script": "Ge'ez"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on the APG IV system of plant classification."
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Lupin",
+      "la": "Lupinus"
+    },
+    "species": {
+      "en": "White Lupin",
+      "la": "albus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is derived from historical texts, archaeological findings, and ethnobotanical studies focusing on the Mediterranean basin."
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "伝統食"
+        ],
+        "traditional_uses": "種子を塩水に浸して苦味（アルカロイド）を取り除き、スナックとして消費される。特に祝祭や市場で一般的。",
+        "seasonal_significance": "主に春から初夏にかけて収穫され、夏の軽食として楽しまれる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "エジプト",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "伝統食"
+        ],
+        "traditional_uses": "「テルメス」として知られ、特に春の祭り「シャム・エル・ネシム」で食べられる伝統的な食品。",
+        "seasonal_significance": "春の祭りと強く関連している。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "地中海料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Lupini Beans (塩漬けスナック)",
+          "Tremosso (ポルトガル)"
+        ],
+        "preparation_methods": [
+          "浸水",
+          "茹でる",
+          "塩漬け"
+        ],
+        "cultural_context": "社交の場でビールやワインと共に提供されるアペリティーボ（食前のおつまみ）として定着。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト、ギリシャ、ローマで栽培されていた証拠がある。ローマ軍の兵士の携帯食料としても利用された。",
+      "trade_routes": "地中海交易を通じて広く伝播した。",
+      "cultural_exchange": "食文化、特に保存食としての知識が地域間で共有された。",
+      "domestication_history": "紀元前2000年頃にバルカン半島で栽培化が始まったと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季作物として栽培可能。涼しく乾燥した冬が適している。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "地中海性気候が最適。涼しく適度な降雨のある春と、乾燥した夏を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の短い地域では春まき、冬が穏やかな地域では秋まきで栽培される。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "深い根系を持つため乾燥に強いが、発芽と初期生育には水分が必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（地中海性）",
+        "planting_season": "秋（10月〜12月）",
+        "harvest_season": "初夏（5月〜7月）",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "1,500 - 4,000 kg/ha",
+      "factors_affecting_yield": [
+        "播種時期",
+        "土壌のpH（弱酸性〜中性を好む）",
+        "炭疽病（Colletotrichum lupini）の発生",
+        "水ストレス（特に開花期）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "オーストラリア",
+          "production_share": -1,
+          "characteristics": "主にL. angustifoliusだが、L. albusも栽培。大規模機械化農業。"
+        },
+        {
+          "country": "イタリア",
+          "production_share": -1,
+          "characteristics": "伝統的な地域品種が多く、小規模農家による生産が中心。"
+        },
+        {
+          "country": "エジプト",
+          "production_share": -1,
+          "characteristics": "ナイル川沿岸での伝統的な栽培。国内消費が主。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、アルカロイド含有量は品種や加工法で大きく変動する。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "371 (乾燥種子)",
+        "protein_g": "36.2",
+        "carbs_g": "40.4",
+        "fat_g": "9.7",
+        "fiber_g": "18.9"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "マンガン",
+          "amount": "不明",
+          "daily_value_percent": -1
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "不明",
+          "daily_value_percent": -1
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "不明",
+          "daily_value_percent": -1
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "キノリジジンアルカロイド（ルパニン、スパルテイン等）",
+        "concentration": "0.02% (スイート種) - 3% (ビター種)",
+        "health_effect": "苦味成分であり、高濃度では有毒。伝統的な浸水処理で除去される。"
+      },
+      {
+        "compound": "γ-コングルチン",
+        "concentration": "不明",
+        "health_effect": "血糖値降下作用を持つ可能性が研究されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "地中海地域",
+        "medical_system": "民間療法",
+        "uses": [
+          "駆虫",
+          "皮膚病の湿布"
+        ],
+        "preparation": "種子を粉砕してペースト状にし、外用する。（注意：内部使用は有毒性のリスクがある）"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高タンパク質・高食物繊維源",
+        "グルテンフリー"
+      ],
+      "ongoing_research": [
+        "血糖コントロール効果",
+        "血中コレステロール低下作用",
+        "血圧降下作用"
+      ],
+      "safety_considerations": "伝統的な苦味種は、アルカロイドを除去するために適切な浸水・調理が必須。不完全な処理は中毒を引き起こす可能性がある。アレルギー反応の報告もある（特にピーナッツアレルギーを持つ人）。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "調理法は地中海地域の料理本や文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "塩水漬け",
+          "茹でる"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "オリーブオイル",
+          "ニンニク",
+          "ハーブ（オレガノ、パセリ）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ブラインニング（塩水漬け）",
+        "regions": [
+          "イタリア",
+          "スペイン",
+          "ポルトガル",
+          "ギリシャ",
+          "エジプト"
+        ],
+        "shelf_life": "数週間（冷蔵）",
+        "quality_changes": "アルカロイドが溶出し、苦味がなくなり、食感が柔らかくなる。"
+      },
+      {
+        "method": "製粉",
+        "regions": [
+          "ヨーロッパ",
+          "オーストラリア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "グルテンフリーの代替粉として、パンやパスタの製造に利用される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッツのような風味、わずかな苦味（適切に処理後）、しっかりとした食感",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "噛みごたえのある、やや粉っぽい"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性に関する定性的な評価は多いが、高温耐性や極端気象への定量的データは少ない。将来予測は一般的な作物モデルからの類推を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上が続くと受精が阻害され、収量が著しく低下する。",
+      "cold_tolerance": "-5°C程度までの霜には耐える（品種による）。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "深い主根が土壌深層の水分を吸収するため、水利用効率は比較的高い。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "400-1000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。茎は比較的丈夫だが、収穫期の強い嵐は落莢を引き起こす。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "開花期の急激な温度変化は落花を引き起こす可能性がある。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成が促進される可能性があるが、高温ストレスがそれを相殺する可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシなどの媒介害虫の活動期間が延長し、ウイルス病のリスクが増加する可能性がある。",
+      "disease_resistance_stability": "炭疽病への抵抗性は主要な育種目標だが、温暖多湿な条件では病原菌の新たなレースが出現するリスクがある。",
+      "beneficial_organism_relationships": "根粒菌との共生は高温に影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海沿岸、オーストラリア南部",
+        "2050_projection": "栽培適地がより高緯度（北ヨーロッパ、カナダ南部）や高地へシフトする可能性がある。",
+        "2100_projection": "現在の主要産地では夏の高温により冬作物としての栽培も困難になるリスクがある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "育種に関する研究は多いが、自然環境下での交雑頻度や適応に関する長期的なデータは限られている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地中海地域の多様なランドレース間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "L. graecusなどの近縁野生種と交雑可能。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "遺伝子移入の事例は報告されているが、安定した自然雑種群の形成は稀。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である地中海地域には、アルカロイド含有量、種子の大きさ、早晩性など多様な形質を持つランドレースが存在する。",
+      "wild_gene_pool": "野生近縁種は、病害虫抵抗性や非生物的ストレス耐性の貴重な遺伝資源となっている。",
+      "adaptive_genetic_variation": "地域の土壌や気候に適応した遺伝的変異が見られる。",
+      "inbreeding_depression_risk": "自家受粉性がある程度高いため、小規模な集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ギリシャ",
+        "environmental_pressure": "石灰質土壌、夏季の乾燥",
+        "adaptive_response": "深い根系の発達、特定の根粒菌との効率的な共生",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "アルカロイドを生成しない「スイート」品種は、人為的な突然変異と育種の成果である。",
+      "novel_characteristics": "開花時期の調整、莢の非裂開性などの農業形質の導入。",
+      "hybrid_vigor_potential": "品種間交雑により雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種によっては存在するが、L. albusと近縁種間では比較的低い。",
+      "chromosome_compatibility": "L. albus (2n=50) は他の主要なルピナス種とは染色体数が異なるため、遠縁種との交雑は困難。",
+      "fertility_of_hybrids": "近縁種間雑種は一般的に稔性を持つ。",
+      "backcrossing_success": "育種プログラムで一般的に利用されている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥",
+        "adaptive_traits": "早期成熟、深い根系",
+        "heritability": "中〜高",
+        "response_to_selection": "中程度"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "マメ科植物としての一般的な特性と、ルピナスに特化した研究成果に基づき評価。窒素固定能力と深根性は広く認知されている。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "強力な主根が土壌の硬盤層を貫通し、土壌構造を物理的に改良する。",
+      "organic_matter_contribution": "収穫後の残渣は分解されやすく、土壌有機物を増加させる。",
+      "soil_structure_improvement": "根の働きと有機物供給により、土壌の団粒構造を促進する。",
+      "erosion_control": "冬季の被覆作物として利用することで、土壌侵食を効果的に防止する。",
+      "nutrient_cycling_role": "根からクエン酸などの有機酸を放出し、土壌に固定されたリンを溶解させて利用可能にする能力が高い（クラスター根）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きな花はマルハナバチなどの花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌（Bradyrhizobium lupini）と共生し、大気中の窒素を固定する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作るチャネルにより、水の浸透性が向上する。",
+      "moisture_retention": "土壌有機物の増加を通じて、土壌の保水能力を高める。",
+      "runoff_reduction": "地表被覆により、降雨時の地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系のため、地下部への炭素蓄積ポテンシャルが高い。",
+      "soil_carbon_enhancement": "窒素固定によるバイオマス生産の増加と残渣供給により、土壌炭素を増強する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "コムギ、オオムギなどの穀物（ルピナスが固定した窒素を後作物が利用）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "後作物への窒素供給。",
+      "allelopathic_interactions": "限定的、または研究途上。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌肥沃度を維持・向上させ、化学肥料への依存を減らす。",
+      "stress_tolerance": "耐乾性が高く、乾燥地農業システムにおいて重要な役割を果たす。",
+      "recovery_capacity": "不明",
+      "adaptability": "多様な土壌タイプ（特に酸性土壌）への適応性が比較的高い。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食品科学、栄養学、市場トレンドに関する近年の研究報告に基づき評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク質（大豆に匹敵）であり、必須アミノ酸をバランス良く含む。",
+      "food_security_contribution": "痩せた土地でも比較的よく生育し、窒素肥料を必要としないため、持続可能な食料生産に貢献する。",
+      "local_food_system_integration": "地中海地域などの伝統的な食文化と結びついており、地域内での生産・消費に適している。",
+      "alternative_protein_potential": "大豆の代替となる主要な植物性タンパク質源として、世界的に注目が高まっている。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "植物性代替肉",
+        "グルテンフリー食品",
+        "高タンパク質スナック",
+        "乳製品代替品（ルピナスミルク）"
+      ],
+      "value_added_products": [
+        "ルピナスプロテインアイソレート",
+        "ルピナス粉",
+        "加工済みスナック食品"
+      ],
+      "niche_market_value": "ビーガン、ベジタリアン、健康志向、食物アレルギーを持つ消費者をターゲットとしたニッチ市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは指摘されているが、定量的な評価は進行中。IUCNレッドリストでは評価されていない。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "原産地における伝統的な農地の近代化や放棄が脅威となっている。",
+    "climate_change_vulnerability": "高温による栽培適地の縮小が懸念される。",
+    "cultural_erosion_risk": "伝統的な食文化の継承が途絶えることで、栽培が放棄されるリスクがある。",
+    "conservation_actions_needed": [
+      "ランドレース（在来種）の収集とジーンバンクでの保存（ex situ）",
+      "伝統的栽培システムの維持を支援する農家へのインセンティブ付与（in situ）",
+      "伝統的知識の記録と普及"
+    ],
+    "priority_conservation_regions": [
+      "ギリシャ",
+      "イタリア南部",
+      "イベリア半島",
+      "エジプト"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（ICARDA、オーストラリア穀物ジーンバンク等）で多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "一部地域でスローフード運動などを通じた保全活動が行われているが、体系的な取り組みは限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロンプトで収集した情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海地域（文化的多様性と遺伝資源）",
+      "エチオピア（地域適応）",
+      "オーストラリア（近代的大規模栽培）"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオ下での品種ごとの生産性予測",
+      "土壌微生物叢との相互作用の詳細なメカニズム",
+      "伝統的なアルカロイド除去技術の科学的最適化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は育種会社のデータや地域の農業報告書に基づく。"
+      },
+      "variety_name": "Multitalia",
+      "local_name": "Multitalia",
+      "origin_region": "イタリア",
+      "distinctive_characteristics": "スイート種（低アルカロイド）。高い収量性を持つ商業品種。",
+      "cultural_importance": "近代的なルピナス栽培の普及に貢献。",
+      "climate_adaptation": "温帯気候に適応。",
+      "conservation_status": "商業的に利用可能。"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "ランドレースに関する体系的な情報は少ない。"
+      },
+      "variety_name": "Egyptian Landrace",
+      "local_name": "Termes Baladi",
+      "origin_region": "エジプト",
+      "distinctive_characteristics": "ビター種（高アルカロイド）。大粒で、地域の環境によく適応している。",
+      "cultural_importance": "伝統的な「テルメス」の製造に不可欠。",
+      "climate_adaptation": "高温・乾燥条件への耐性が比較的高い。",
+      "conservation_status": "遺伝的浸食のリスクあり。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "GRIN-Global Taxonomy",
+      "Journal of Experimental Botany",
+      "Food Chemistry",
+      "Ethnobotany Research and Applications"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業における炭素隔離能力の定量的データ",
+      "気候変動に対する多様なランドレースの生理学的応答の違い",
+      "伝統的加工が栄養価や機能性成分に与える影響の詳細な科学的分析"
+    ],
+    "regional_data_coverage": "地中海地域とオーストラリアに偏っており、アフリカや中東のデータは限定的。",
+    "missing_information": [
+      "極端気象（雹、洪水）への回復力に関する具体的なデータ",
+      "先住民コミュニティによる伝統的利用法（L. albusに関しては限定的）"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

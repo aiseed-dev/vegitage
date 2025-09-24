@@ -1,0 +1,593 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、民族植物学、および園芸学の文献から情報を統合。学名と基本特性に関する情報は確立されている。"
+    },
+    "primary_name": "Curry Plant",
+    "scientific_name": "Helichrysum italicum",
+    "plant_type": "木本",
+    "edible_parts": [
+      "葉",
+      "花"
+    ],
+    "origin_region": "地中海地域",
+    "wild_relatives": [
+      "Helichrysum stoechas",
+      "Helichrysum orientale",
+      "多数のHelichrysum属近縁種"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な園芸データベースおよび各地域の植物名リストに基づき作成。"
+    },
+    "international": {
+      "en": [
+        "Curry Plant",
+        "Immortelle",
+        "Everlasting"
+      ],
+      "scientific_common": "Helichrysum"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Immortelle d'Italie",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Elicriso italico",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Italienische Strohblume",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Siempreviva del monte",
+            "script": "Latn"
+          },
+          {
+            "lang": "hr",
+            "name": "Smilje",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Daisy family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Strawflower",
+      "la": "Helichrysum"
+    },
+    "species": {
+      "en": "Curry Plant",
+      "la": "italicum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "H. italicum subsp. italicum"
+      },
+      {
+        "rank": "subspecies",
+        "name": "H. italicum subsp. microphyllum"
+      },
+      {
+        "rank": "subspecies",
+        "name": "H. italicum subsp. serotinum"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "薬用および香料としての文化的価値に関する記録は豊富だが、伝統野菜としての食文化に関する情報は限定的。「カレープラント」という名は香りに由来し、カレー料理の材料ではないため誤解を招きやすい。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "伝統医学で抗炎症、鎮痛、創傷治癒に利用。乾燥させた花は「永遠」の象徴として装飾や儀式に用いられる。近年は精油生産が重要な経済活動となっている。",
+        "seasonal_significance": "夏に咲く黄金色の花が景観を彩り、収穫期となる。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "地中海料理（特にイタリア、バルカン半島）",
+        "role": "rare",
+        "traditional_dishes": [
+          "ローストミート",
+          "煮込み料理の香りづけ"
+        ],
+        "preparation_methods": [
+          "香りづけ"
+        ],
+        "cultural_context": "主として香りづけに用いられ、調理後に取り除かれることが多い。苦味が強いため食用としてはマイナーな存在。その香りがカレー粉を連想させることから「カレープラント」と呼ばれるが、実際のカレー料理には使用されない。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャ・ローマ時代から薬草として知られ、その治癒効果が記録されている。",
+      "trade_routes": "精油（イモーテルオイル）が近代のアロマテラピーや香水産業の発展に伴い、国際的な交易品となった。",
+      "cultural_exchange": "園芸植物として世界中に広まり、観賞用・香りを楽しむハーブとして各国の庭園文化に取り入れられた。",
+      "domestication_history": "古くから野生のものを利用してきたが、精油生産を目的とした商業栽培は20世紀後半から本格化した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿を嫌うため不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌であれば栽培可能。特に冬季が温暖で乾燥した地域に適する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりと水はけの良い場所が最適。夏の乾燥に強いが、冬の厳しい霜や多湿には注意が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さに耐えられないため、一年草扱いか防寒対策が必要。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥した気候に非常に強く、水はけの良い痩せ地で最もよく育つ。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高地の低温には適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "夏（花）、通年（葉）",
+        "growing_period_days": "120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌の水はけ",
+        "収穫時期（精油含有量に影響）",
+        "栽培品種（亜種）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "フランス（特にコルシカ島）",
+          "production_share": null,
+          "characteristics": "高品質な精油（イモーテルオイル）の主要生産地として知られる。"
+        },
+        {
+          "country": "イタリア（特にサルデーニャ島）",
+          "production_share": null,
+          "characteristics": "野生および栽培品の精油生産が盛ん。"
+        },
+        {
+          "country": "クロアチア",
+          "production_share": null,
+          "characteristics": "アドリア海沿岸部で大規模な栽培が行われている。"
+        },
+        {
+          "country": "ボスニア・ヘルツェゴビナ",
+          "production_share": null,
+          "characteristics": "近年、精油生産のための栽培が急増している。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用として大量に消費されないため、栄養成分に関する詳細なデータは非常に乏しい。研究は精油の機能性成分に集中している。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ネリルアセテート",
+        "concentration": "精油の30-50%",
+        "health_effect": "鎮静作用、抗痙攣作用"
+      },
+      {
+        "compound": "イタリジオン",
+        "concentration": "精油の5-15%",
+        "health_effect": "抗血腫作用、粘液溶解作用、細胞再生促進"
+      },
+      {
+        "compound": "γ-クルクメン",
+        "concentration": "精油の約10%",
+        "health_effect": "抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "地中海地域",
+        "medical_system": "ヨーロッパ伝統ハーブ療法",
+        "uses": [
+          "打撲傷や血腫の治療",
+          "皮膚の炎症（湿疹、乾癬）の緩和",
+          "呼吸器系の不調（咳、気管支炎）の改善",
+          "消化促進"
+        ],
+        "preparation": "花や葉を乾燥させ、ハーブティーとして飲用。または、浸出油（インフューズドオイル）や軟膏として外用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗炎症作用",
+        "抗酸化作用",
+        "抗菌・抗真菌作用",
+        "創傷治癒促進作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "神経保護作用"
+      ],
+      "safety_considerations": "精油の経口摂取は専門家の指導なしに行うべきではない。皮膚感作を引き起こす可能性があるため、パッチテストが推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸書やハーブの専門書には香りづけとしての利用法が記載されているが、体系的な料理への応用データは少ない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "香りづけ"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "鶏肉",
+          "豚肉",
+          "米料理",
+          "野菜の煮込み"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りは長期間保持されるが、徐々に弱まる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い芳香、苦味、わずかな辛味",
+      "aroma_compounds": [
+        "α-ピネン",
+        "カンフェン",
+        "ネリルアセテート"
+      ],
+      "texture_characteristics": "葉は硬く、食用には向かない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "原産地の気候特性から耐暑性・耐乾性は高いと定性的に評価されているが、気候変動シナリオ下での定量的な応答研究は限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "18-28°C",
+      "extreme_heat_survival": "40°C以上でも生存可能",
+      "cold_tolerance": "-10°C程度まで（品種による）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い（銀色の毛状突起（トリコーム）が蒸散を抑制）",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "400-800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（低木のため比較的強いが、根が浅いと倒れる可能性）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "高"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的にC3植物は効果があるとされるが、本種での研究は少ない）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（原産地の日光が強い環境に適応）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "精油成分により多くの害虫を忌避するが、温暖化で新たな害虫に適応できるかは不明。",
+      "disease_resistance_stability": "過湿による真菌症に弱く、降雨パターンの変化がリスクを高める可能性。",
+      "beneficial_organism_relationships": "多様な訪花昆虫を引き寄せるため、送粉サービスの安定性には貢献する。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海沿岸、北米西海岸、オーストラリア南部",
+        "2050_projection": "現在の栽培適地は維持されつつ、より高緯度地域（北ヨーロッパ、北米北部）へ適地が拡大する可能性。",
+        "2100_projection": "現在の地中海沿岸の一部では、極端な乾燥と熱波によりストレスが増大する可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Helichrysum属内の分類は複雑で、自然交雑の報告も存在するが、適応進化に寄与するメカニズムの体系的な研究は不足している。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "H. italicum subsp. italicum",
+        "H. italicum subsp. microphyllumなど亜種間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "H. stoechasなど近縁種との自然交雑が報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い"
+      ],
+      "successful_natural_hybrids": [
+        "亜種間の雑種が自生地で見られる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "地域ごとに精油成分の組成が異なるエコタイプ（ケモタイプ）が存在し、高い遺伝的多様性を示唆する。",
+      "wild_gene_pool": "広範な地中海地域の野生集団が、多様な遺伝子リソースの宝庫となっている。",
+      "adaptive_genetic_variation": "土壌、標高、気候に対する地域適応が進んでいる。",
+      "inbreeding_depression_risk": "自家不和合性を持つため、他家受粉が促され近交弱勢のリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "コルシカ島 vs バルカン半島",
+        "environmental_pressure": "土壌組成と微気候の違い",
+        "adaptive_response": "精油成分の組成変化（ケモタイプの分化）。コルシカ産はイタリジオンを多く含み、バルカン産はα-ピネンが多い傾向。",
+        "time_scale": "数千年単位",
+        "mechanism": "自然選択による遺伝的変異の固定"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "異なるエコタイプ間の交雑により、より広範な温度・湿度条件に適応する品種が生まれる可能性。",
+      "improved_nutritional_content": "不明（栄養面での育種目標はない）",
+      "novel_characteristics": "精油成分の新たな組み合わせによる、香料や薬理効果の新規性。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種が遠い場合は交雑不和合性が存在する可能性。",
+      "chromosome_compatibility": "亜種間では問題ないが、遠縁種では倍数性などが障壁となりうる。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥ストレス",
+        "adaptive_traits": "葉のトリコーム密度、クチクラ層の厚さ、根系の発達",
+        "heritability": "高いと推定される",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "植物の特性からの類推が多く、リジェネラティブ農業システム内での具体的な効果を測定した研究は少ない。しかし、そのポテンシャルは非常に高いと評価される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅いが広範囲に広がる繊維状の根系。",
+      "organic_matter_contribution": "落葉や根の分解により土壌有機物を供給する。",
+      "soil_structure_improvement": "根系が土壌粒子を結合させ、団粒構造を安定させる。",
+      "erosion_control": "多年生の低木として地表を恒久的に覆い、風雨による土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "痩せ地でも育ち、土壌中のミネラルを効率的に利用する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期にミツバチ、ハナアブ、蝶など多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "密な茂みがテントウムシや寄生蜂などの天敵昆虫の隠れ家となる。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係が示唆されている。",
+      "above_ground_biodiversity": "鳥類が休息場所として利用することがある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により雨滴の衝撃を和らげ、土壌への水の浸透を助ける。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "地表流を遅らせ、土壌侵食を軽減する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "木質化した茎に炭素を貯蔵する。",
+      "below_ground_carbon": "多年生の根系に炭素を長期間蓄積する。",
+      "soil_carbon_enhancement": "有機物の供給を通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ラベンダー",
+        "ローズマリー",
+        "ブドウ"
+      ],
+      "natural_pest_control": "強い香りがアブラムシやネコブセンチュウなどの害虫を遠ざける効果が報告されている。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の成長を抑制するアレロパシー効果を持つ可能性が示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "乾燥や貧栄養などのストレスに強い多年生植物として、生態系の安定に寄与する。",
+      "stress_tolerance": "高い",
+      "recovery_capacity": "刈り込み後の再生能力が高い。",
+      "adaptability": "多様な土壌に適応する。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "精油市場、アロマテラピー、自然化粧品分野での利用は確立されており、情報が豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養源としての価値は低いが、天然の香料として価値がある。",
+      "food_security_contribution": "主要作物ではないが、耕作放棄地や限界地の活用による収入源となりうる。",
+      "local_food_system_integration": "地元のハーブ製品や観光資源として地域経済に貢献する。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "自然化粧品・スキンケア市場",
+        "アロマテラピー・ウェルネス市場",
+        "機能性食品の香料・添加物市場"
+      ],
+      "value_added_products": [
+        "精油（イモーテルオイル）",
+        "フローラルウォーター（ハイドロゾル）",
+        "乾燥ハーブ、ハーブティー",
+        "浸出油（インフューズドオイル）",
+        "化粧品（クリーム、美容液）"
+      ],
+      "niche_market_value": "非常に高い。特に高品質な精油は高価で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種全体としては低懸念（LC）だが、特定の地域エコタイプやケモタイプは過剰な野生採取や生息地の開発により脅威にさらされている可能性がある。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "沿岸部の開発や観光化による自生地の減少。",
+    "climate_change_vulnerability": "長期的には極端な干ばつや熱波が自生地に影響を与える可能性。",
+    "cultural_erosion_risk": "伝統的な薬用利用に関する知識の喪失。",
+    "conservation_actions_needed": [
+      "野生採取の持続可能な管理",
+      "遺伝的多様性（特にケモタイプ）の評価と保全",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "コルシカ島",
+      "サルデーニャ島",
+      "ダルマチア沿岸"
+    ],
+    "ex_situ_conservation_status": "多くの植物園や種子銀行で収集・保存されている。",
+    "in_situ_conservation_efforts": "一部の自生地が国立公園や自然保護区に指定されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家AIとしての総合的評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海全域の多様なエコタイプ",
+      "バルカン半島の新規栽培地域"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオに対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける土壌改良効果の長期的モニタリングデータ",
+      "異なるケモタイプ間の遺伝的関係"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種よりも亜種や地域変異が重要。保全状況に関する公式な評価は少ない。"
+      },
+      "variety_name": "Helichrysum italicum subsp. microphyllum",
+      "local_name": "Dwarf Curry Plant",
+      "origin_region": "クレタ島、バレアレス諸島など",
+      "distinctive_characteristics": "全体的に小型で、より密な銀葉を持つ。コンパクトな樹形。",
+      "cultural_importance": "ロックガーデンやコンテナ栽培用の園芸植物として人気が高い。",
+      "climate_adaptation": "標準種と同様に高い耐乾性を持つ。",
+      "conservation_status": "不明"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種よりも亜種や地域変異が重要。保全状況に関する公式な評価は少ない。"
+      },
+      "variety_name": "Helichrysum italicum 'Weeping'",
+      "local_name": "Weeping Curry Plant",
+      "origin_region": "園芸由来",
+      "distinctive_characteristics": "枝が垂れ下がる（匍匐性）特徴を持つ。グランドカバーとして利用される。",
+      "cultural_importance": "景観デザインやグランドカバープランツとして利用される。",
+      "climate_adaptation": "標準種に準じる。",
+      "conservation_status": "該当なし"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Checklist of Vascular Plants (WCVP)",
+      "Plants for a Future (PFAF) database",
+      "Ethnopharmacology and essential oil research journals",
+      "Royal Horticultural Society (RHS) database"
+    ],
+    "major_knowledge_gaps": [
+      "食用としての栄養価の定量的データ",
+      "気候変動に対する品種・ケモタイプごとの応答差",
+      "リジェネラティブ農業への組み込みによる生態系サービス効果の定量化"
+    ],
+    "regional_data_coverage": "ヨーロッパ・地中海地域に偏っており、他の地域での栽培データは限定的。",
+    "missing_information": [
+      "年間総生産量",
+      "伝統料理における具体的なレシピ"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

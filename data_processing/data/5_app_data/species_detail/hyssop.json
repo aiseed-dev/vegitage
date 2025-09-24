@@ -1,0 +1,627 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is aggregated from major botanical databases (Kew, USDA Plants) and ethnobotanical literature. Wild relative information is based on the limited number of species within the Hyssopus genus."
+    },
+    "primary_name": "Hyssop",
+    "scientific_name": "Hyssopus officinalis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "花"
+    ],
+    "origin_region": "南ヨーロッパ、中東、カスピ海周辺地域",
+    "wild_relatives": [
+      "Hyssopus seravschanicus",
+      "Hyssopus ambiguus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names compiled from multilingual botanical dictionaries and ethnobotanical records. The biblical association of 'ezov' is noted but is a subject of scholarly debate."
+    },
+    "international": {
+      "en": [
+        "Hyssop"
+      ],
+      "scientific_common": "Hyssop"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Hysope",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Ysop",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Hisopo",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Issopo",
+            "script": "Latn"
+          },
+          {
+            "lang": "ru",
+            "name": "Иссоп",
+            "script": "Cyrl"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "زوفا",
+            "script": "Arab"
+          },
+          {
+            "lang": "he",
+            "name": "אזוב מצוי",
+            "script": "Hebr"
+          },
+          {
+            "lang": "tr",
+            "name": "Çördük otu",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "古代ヘブライ文化",
+        "name": "Ezov (אזוב)",
+        "cultural_significance": "聖書において浄化の儀式に用いられた植物。ただし、現代の学術研究ではHyssopus officinalisではなくOriganum syriacum（シリアンオレガノ）を指す可能性が議論されている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification based on the APG IV system, sourced from authoritative taxonomic databases."
+    },
+    "family": {
+      "en": "Mint family",
+      "la": "Lamiaceae"
+    },
+    "genus": {
+      "en": "Hyssop",
+      "la": "Hyssopus"
+    },
+    "species": {
+      "en": "Common Hyssop",
+      "la": "officinalis"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Hyssopus officinalis subsp. aristatus"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is well-documented in historical, religious, and herbalist texts, particularly from European and Middle Eastern traditions."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "儀式用",
+          "経済作物",
+          "観賞用"
+        ],
+        "traditional_uses": "中世の修道院薬草園で栽培され、咳止めや去痰薬として利用。リキュール（シャルトリューズ等）の香味付けにも不可欠。",
+        "seasonal_significance": "夏に開花し、聖ヨハネの日（夏至祭）に関連するハーブの一つとされることがある。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "中東",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "古代から浄化のハーブとして知られ、聖書にも記述がある。呼吸器系の不調に対する伝統的な治療薬として利用されてきた。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理（特にプロヴァンス）",
+        "role": "rare",
+        "traditional_dishes": [
+          "スープ・ド・ポワソン",
+          "肉料理のハーブブレンド"
+        ],
+        "preparation_methods": [
+          "香味付け"
+        ],
+        "cultural_context": "強い風味のため少量使用される。特にリキュール（シャルトリューズ、ベネディクティン）の製造において重要な役割を果たす。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャ・ローマ時代から薬用植物として利用され、ヒポクラテスも言及。聖書に登場する「エゾブ」として知られ、浄化の儀式に使われた。",
+      "trade_routes": "中世を通じて修道院ネットワークによりヨーロッパ全土に広まった。シルクロードなど主要な香辛料交易路での重要性は低い。",
+      "cultural_exchange": "キリスト教文化圏における儀式用植物としての意味合いが、その伝播と栽培に大きく貢献した。",
+      "domestication_history": "古代地中海地域で野生種から選抜され、薬用・儀式用に栽培化されたと考えられるが、詳細な記録は不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い場所であれば、冬が温暖な地域で栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりと水はけの良いアルカリ性土壌が最適。-20°C程度の耐寒性を持つ。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さと冬の寒さによく耐えるが、極端な寒冷地では保護が必要。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に非常に強い。水はけの良い砂質または石灰質の土壌を好む。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高山帯の厳しい寒さや短い生育期間には不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "夏（開花期）",
+        "growing_period_days": "120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌の水はけ",
+        "刈り取り頻度",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "香水およびリキュール用のエッセンシャルオイル生産が中心。"
+        },
+        {
+          "country": "スペイン",
+          "production_share": "不明",
+          "characteristics": "ハーブおよびエッセンシャルオイル生産。"
+        },
+        {
+          "country": "東ヨーロッパ諸国",
+          "production_share": "不明",
+          "characteristics": "ハーブティーや医薬品原料としての商業栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栄養価に関する詳細なデータは限定的。機能性成分（特にエッセンシャルオイル）に関する研究は多いが、伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ピノカンフォン",
+        "concentration": "精油の主要成分（最大50%）",
+        "health_effect": "去痰作用、抗ウイルス作用。高濃度では神経毒性を示す可能性あり。"
+      },
+      {
+        "compound": "イソピノカンフォン",
+        "concentration": "精油の主要成分",
+        "health_effect": "ピノカンフォンと類似の作用。"
+      },
+      {
+        "compound": "β-ピネン",
+        "concentration": "精油成分",
+        "health_effect": "抗炎症作用、抗菌作用。"
+      },
+      {
+        "compound": "フラボノイド（ジオスミン等）",
+        "concentration": "葉、花",
+        "health_effect": "抗酸化作用、血管保護作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "西洋伝統ハーブ医学",
+        "uses": [
+          "咳、気管支炎、喘息の緩和",
+          "消化促進",
+          "外用で打撲傷の治療"
+        ],
+        "preparation": "乾燥葉の煎じ薬、チンキ剤、湿布。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗ウイルス作用（特に単純ヘルペスウイルスに対して）",
+        "抗菌作用",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗炎症作用のメカニズム解明",
+        "血糖降下作用の可能性"
+      ],
+      "safety_considerations": "精油に含まれるピノカンフォンは高用量で痙攣を誘発する可能性があり、妊婦、授乳婦、てんかん患者は使用を避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "料理や加工に関する情報は、ヨーロッパの料理書やハーブに関する専門書に豊富に存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "香味付け",
+          "インフュージョン"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "豚肉、鶏肉などの脂っこい肉料理",
+          "豆類のスープ",
+          "レンズ豆"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "香りは保持されるが、若干弱まる。色は濃くなる。"
+      },
+      {
+        "method": "精油抽出（水蒸気蒸留）",
+        "regions": [
+          "フランス",
+          "スペイン"
+        ],
+        "shelf_life": "3-5年",
+        "quality_changes": "植物の脂溶性成分が濃縮される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い樟脳のような香り、ミントに似た爽快感、わずかな苦味と甘み。",
+      "aroma_compounds": [
+        "ピノカンフォン",
+        "イソピノカンフォン",
+        "β-ピネン",
+        "サビネン"
+      ],
+      "texture_characteristics": "生の葉はやや硬いが、細かく刻むことで気にならなくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐乾性に関する定性的な記述は多いが、気候変動シナリオ下での応答に関する定量的な実験データは非常に少ない。評価は主に原産地の気候と植物の特性からの類推に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-20°C"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高いと推定される",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "500-800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（木質化した茎は比較的強い）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高いと推定される（原産地の日照条件から）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "精油成分により多くの害虫を忌避するが、温暖化による新規害虫への耐性は不明。",
+      "disease_resistance_stability": "水はけが悪いと根腐れしやすい。高温多湿による真菌病のリスク増大が懸念される。",
+      "beneficial_organism_relationships": "強健"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯、地中海性気候",
+        "2050_projection": "現在より高緯度地域の温帯に拡大する可能性がある。",
+        "2100_projection": "現在の地中海地域の一部では乾燥と熱ストレスが過度になる可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属内の種が少なく、自然交雑に関する研究は非常に限定的。評価はシソ科植物の一般的性質とH. officinalisの亜種存在からの推測を含む。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Hyssopus officinalis subsp. aristatusなど、亜種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種との交雑可能性は理論的に考えられるが、記録は乏しい。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は不明。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパ各地の薬草園で長年栽培される中で、地域ごとの在来系統が存在する可能性が高い。",
+      "wild_gene_pool": "原産地には多様な野生遺伝子プールが存在すると考えられる。",
+      "adaptive_genetic_variation": "乾燥やアルカリ性土壌への適応に関する遺伝的多様性が豊富であると推定される。",
+      "inbreeding_depression_risk": "自家不和合性ではないため、小集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐寒性の異なる系統間の交雑により、適応範囲の広い品種が生まれる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "精油成分の組成が異なる系統の交雑による新しい香りの創出。",
+      "hybrid_vigor_potential": "可能性あり。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "亜種間では高いと推定される。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、強い日射、草食動物からの食害",
+        "adaptive_traits": "深い根系、クチクラ層の発達、忌避効果のある精油の生産",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ヒソップに特化したリジェネラティブ農業の研究はほとんどない。評価は、シソ科の多年生ハーブとしての一般的特性と観察に基づいている。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "木質化し、深く根を張る傾向があるため、土壌の団粒構造を安定させる可能性がある。",
+      "organic_matter_contribution": "多年草であり、落葉や枯れた茎が土壌有機物となる。",
+      "soil_structure_improvement": "根が土壌深くに空隙を作ることで、通気性や排水性を改善する。",
+      "erosion_control": "地被率が高く、根が土壌を保持するため、特に傾斜地での土壌侵食防止に効果的。",
+      "nutrient_cycling_role": "深い根が下層のミネラルを吸い上げ、地表に還元する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチ、マルハナバチ、蝶などを強く誘引する、非常に優れた蜜源植物である。",
+      "beneficial_insect_habitat": "捕食性昆虫や寄生蜂などの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係については不明だが、多くの植物と同様に有益な相互作用が期待される。",
+      "above_ground_biodiversity": "多様な昆虫相を支えることで、生態系全体の豊かさに貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の働きにより土壌の浸透能を向上させる。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "地表を覆うことで雨水の流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的（小型の低木）。",
+      "below_ground_carbon": "多年草であるため、根系を通じて土壌に炭素を蓄積する効果が期待される。",
+      "soil_carbon_enhancement": "不耕起栽培が可能であり、土壌炭素の攪乱を防ぐ。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ブドウ（収量を増やすとされる伝承あり）",
+        "キャベツ（コナガを忌避するとされる）"
+      ],
+      "natural_pest_control": "強い香りが多くの害虫を遠ざける忌避効果を持つ。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な生物を誘引し、農地生態系の安定性を高める。",
+      "stress_tolerance": "乾燥などの環境ストレスに強く、システムのレジリエンスに貢献する。",
+      "recovery_capacity": "強健で、刈り取り後の再生能力が高い。",
+      "adaptability": "多様な土壌に適応できる。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場データはニッチであり限定的だが、植物性食品や自然療法への関心の高まりからポテンシャルは認識されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "香味料としての利用が主であり、栄養源としての貢献は小さい。",
+      "food_security_contribution": "限定的。しかし、辺境地や乾燥地での栽培が可能なため、小規模農家の収入源となりうる。",
+      "local_food_system_integration": "ガーデンや小規模農園で容易に栽培でき、地域内でのハーブ供給に適している。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "クラフトジンやリキュールなどのスピリッツ市場",
+        "機能性ハーブティー",
+        "自然派化粧品やアロマセラピー"
+      ],
+      "value_added_products": [
+        "エッセンシャルオイル",
+        "乾燥ハーブ",
+        "ハーブビネガー",
+        "チンキ剤"
+      ],
+      "niche_market_value": "ユニークな香りと歴史的背景から、オーガニック市場や専門料理市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNによる種レベルの評価は存在するが、遺伝的多様性や地域個体群に関する保全状況のデータは乏しい。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地における生息地の開発や過放牧が脅威となる可能性がある。",
+    "climate_change_vulnerability": "原産地の一部では、極端な乾燥化や熱波が個体群に影響を与える可能性がある。",
+    "cultural_erosion_risk": "高（伝統的な薬用利用に関する知識の喪失）",
+    "conservation_actions_needed": [
+      "原産地における野生個体群のモニタリング",
+      "多様な遺伝資源（特に在来系統）の種子バンク等での系統的収集と保存",
+      "伝統的知識の記録と伝承"
+    ],
+    "priority_conservation_regions": [
+      "南ヨーロッパの地中海沿岸地域",
+      "中東の山岳地帯"
+    ],
+    "ex_situ_conservation_status": "多くの植物園や種子バンクで収集されているが、遺伝的多様性を網羅しているかは不明。",
+    "in_situ_conservation_efforts": "特定の保護活動は知られていないが、自生地が国立公園などに含まれる場合は保護されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家AIとして、収集した情報に基づき総合的な評価を実施。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中東（聖書植物としての文化的・遺伝的背景研究）",
+      "フランス・プロヴァンス地方（伝統的利用と商業生産の研究）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果測定",
+      "遺伝的多様性の地理的分布"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種の情報は多いが、伝統的な在来品種に関する学術的記録は少ない。"
+      },
+      "variety_name": "Hyssopus officinalis 'Albus'",
+      "local_name": "White Hyssop",
+      "origin_region": "園芸品種",
+      "distinctive_characteristics": "白い花を咲かせる。香りは通常の青花種と同様。",
+      "cultural_importance": "観賞用、ガーデンデザインでの利用。",
+      "climate_adaptation": "基本種と同様。",
+      "conservation_status": "栽培下で維持"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種の情報は多いが、伝統的な在来品種に関する学術的記録は少ない。"
+      },
+      "variety_name": "Hyssopus officinalis 'Roseus'",
+      "local_name": "Pink Hyssop",
+      "origin_region": "園芸品種",
+      "distinctive_characteristics": "ピンク色の花を咲かせる。コンパクトな樹形。",
+      "cultural_importance": "観賞用としての価値が高い。",
+      "climate_adaptation": "基本種と同様。",
+      "conservation_status": "栽培下で維持"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-16",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens 'Plants of the World Online'",
+      "USDA PLANTS Database",
+      "European Medicines Agency herbal monographs",
+      "Ethnobotanical literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界全体の正確な生産量と流通量"
+    ],
+    "regional_data_coverage": "ヨーロッパと中東に偏っており、その他の地域での利用に関するデータは限定的。",
+    "missing_information": [
+      "詳細な栄養成分データ",
+      "野生個体群の遺伝的多様性に関する具体的な研究"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、民族植物学の研究報告、侵入生物データベースからの情報を統合。野生近縁種との交雑に関する情報は限定的。"
+    },
+    "primary_name": "Madeira Vine",
+    "scientific_name": "Anredera cordifolia",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "珠芽 (むかご)",
+      "塊茎"
+    ],
+    "origin_region": "南米（ブラジル、ボリビア、パラグアイ、アルゼンチン、ウルグアイ等）",
+    "wild_relatives": [
+      "Anredera spp."
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の植物名データベース及び地域ごとの研究論文から収集。"
+    },
+    "international": {
+      "en": [
+        "Madeira Vine",
+        "Mignonette Vine",
+        "Lamb's Tail"
+      ],
+      "scientific_common": "Anredera"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "アカザカズラ",
+            "script": "カタカナ"
+          },
+          {
+            "lang": "ja",
+            "name": "雲南百薬 (ウンナンヒャクヤク)",
+            "script": "漢字"
+          },
+          {
+            "lang": "ja",
+            "name": "丘わかめ (オカワカメ)",
+            "script": "漢字・ひらがな"
+          },
+          {
+            "lang": "zh",
+            "name": "藤三七 (Téng Sān Qī)",
+            "script": "漢字"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Binahong",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Binahong",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Sâm đất",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Enredadera del mosquito",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Bertalha-coração",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Madeira Vine",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "南米の先住民コミュニティ",
+        "name": "不明",
+        "cultural_significance": "原産地での具体的な先住民による伝統的名称や利用法に関する学術的記録は限定的であり、さらなる調査が必要。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Basellaceae",
+      "la": "Basellaceae"
+    },
+    "genus": {
+      "en": "Anredera",
+      "la": "Anredera"
+    },
+    "species": {
+      "en": "cordifolia",
+      "la": "cordifolia"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Subspecies",
+        "name": "Anredera cordifolia subsp. cordifolia"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "地域による評価が極端に分かれる。東南アジアでは薬用価値が高いが、オセアニアやアフリカでは侵略的雑草として認識されている。原産地での文化的価値に関する記録は少ない。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア (特にインドネシア)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "副菜"
+        ],
+        "traditional_uses": "「Binahong」として知られ、伝統医学で傷の治癒、抗炎症、滋養強壮に広く利用される。葉を煎じたお茶や、傷口への直接塗布などが行われる。",
+        "seasonal_significance": "通年利用可能",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア (特に日本、中国南部)",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "観賞用"
+        ],
+        "traditional_uses": "日本では「雲南百薬」「丘わかめ」と呼ばれ、健康野菜として利用。葉を茹でておひたしや和え物にする。中国では「藤三七」として薬用利用の歴史がある。",
+        "seasonal_significance": "夏から秋にかけての緑黄色野菜",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "オセアニア、南アフリカ、ハワイ",
+        "importance_level": 1,
+        "cultural_roles": [
+          "侵略的雑草"
+        ],
+        "traditional_uses": "文化的利用はほぼなく、生態系を破壊する有害植物として駆除の対象。在来植生を覆い尽くし、生物多様性を著しく低下させる。",
+        "seasonal_significance": "通年問題となる",
+        "cultivation_decline_risk": "該当なし"
+      },
+      {
+        "region": "南米 (原産地)",
+        "importance_level": 2,
+        "cultural_roles": [
+          "不明"
+        ],
+        "traditional_uses": "原産地での伝統的な食料あるいは薬用としての利用に関する詳細な記録は限定的。近代的な利用は主に観賞用。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本の家庭料理",
+        "role": "common",
+        "traditional_dishes": [
+          "おひたし",
+          "味噌汁の具",
+          "天ぷら"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒める",
+          "揚げる"
+        ],
+        "cultural_context": "「丘わかめ」の名が示す通り、茹でると出るぬめりと食感を海藻のわかめに見立てて利用する健康野菜。"
+      },
+      {
+        "cuisine": "インドネシアの伝統医療 (Jamu)",
+        "role": "essential",
+        "traditional_dishes": [
+          "ハーブティー",
+          "ジュース",
+          "スープの具"
+        ],
+        "preparation_methods": [
+          "煎じる",
+          "生食",
+          "煮込む"
+        ],
+        "cultural_context": "主に薬効を期待して摂取される。傷の治癒促進や内臓疾患の治療に使われる民間療法で重要な位置を占める。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "南米原産だが、古代からの利用史は不明瞭。19世紀に観賞用として世界中に広まった。",
+      "trade_routes": "観賞用植物として、主に19世紀から20世紀にかけてヨーロッパ経由で世界各地の植物園や個人庭園に導入された。",
+      "cultural_exchange": "アジア、特に東南アジアに伝播後、その薬効が見出され、地域の伝統医学体系に組み込まれた。これは植物の価値が文化圏によって再定義される顕著な例である。",
+      "domestication_history": "明確な栽培化の歴史は不明。野生的な性質が強く、人為的選択圧をほとんど受けていないと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて生育。高い湿度を好む。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "最適。旺盛に生育し、侵略的になりやすい。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜が降りない、または軽い霜が降りる地域。冬に地上部は枯れるが、地下の塊茎で越冬し、春に再生する。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "厳しい冬の凍結により塊茎が死滅するため、露地栽培は困難。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に弱く、生育に適さない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため生育に適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯・亜熱帯",
+        "planting_season": "通年",
+        "harvest_season": "通年（植え付け後2-3ヶ月から収穫開始）",
+        "growing_period_days": 60
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（霜の心配がなくなった後）",
+        "harvest_season": "夏から秋（初霜まで）",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産データなし）",
+      "factors_affecting_yield": [
+        "日照",
+        "水分供給",
+        "土壌肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インドネシア",
+          "production_share": "不明",
+          "characteristics": "主に家庭菜園や小規模農家で薬用・自家消費用に栽培。商業的な大規模生産は稀。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "主に家庭菜園や直売所向けの小規模生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "特にインドネシアの研究機関による機能性成分の分析が多い。栄養価の標準データは限られている。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "豊富に含まれるとの報告あり",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "豊富に含まれるとの報告あり",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "含まれる",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症、抗菌、コレステロール低下作用"
+      },
+      {
+        "compound": "アルカロイド",
+        "concentration": "不明",
+        "health_effect": "鎮痛、血糖降下作用"
+      },
+      {
+        "compound": "フラボノイド（ビテキシン等）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東南アジア（特にインドネシア）",
+        "medical_system": "伝統医療 (Jamu)",
+        "uses": [
+          "創傷治癒促進",
+          "抗炎症",
+          "胃潰瘍の治療",
+          "糖尿病管理",
+          "高血圧の緩和",
+          "滋養強壮"
+        ],
+        "preparation": "葉をすり潰して湿布として外用、または葉を煎じて内服する。"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学、民間療法",
+        "uses": [
+          "止血",
+          "解熱",
+          "滋養強壮"
+        ],
+        "preparation": "葉や塊茎を煎じる、または料理として摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "創傷治癒促進効果（動物実験）",
+        "抗炎症作用（in vitro）",
+        "抗菌・抗真菌作用（in vitro）",
+        "抗酸化作用（in vitro）"
+      ],
+      "ongoing_research": [
+        "血糖降下作用のメカニズム解明",
+        "抗がん作用の可能性",
+        "肝保護作用"
+      ],
+      "safety_considerations": "シュウ酸を含む可能性があるため、生での大量摂取は避けるべき。腎臓疾患を持つ人は注意が必要。科学的な毒性データは不十分。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "利用地域が限定的であるため、料理法は多様性に富むわけではないが、各地域での利用法は明確。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "茹でる（おひたし、和え物）",
+          "炒める",
+          "揚げる（天ぷら）",
+          "スープの具"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "醤油",
+          "ポン酢",
+          "味噌",
+          "ごま"
+        ]
+      },
+      {
+        "region": "インドネシア",
+        "methods": [
+          "煮る（スープ）",
+          "炒める",
+          "生食（ジュース）"
+        ],
+        "flavor_role": "薬味、副菜",
+        "typical_combinations": [
+          "ニンニク",
+          "唐辛子",
+          "ハーブ類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "東南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "薬効成分の濃縮が期待されるが、香りは失われる。お茶として利用される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかで土の香り（ジオスミン）。わずかな青臭さ。加熱するとぬめりが出る。",
+      "aroma_compounds": [
+        "ジオスミン"
+      ],
+      "texture_characteristics": "生ではシャキシャキしている。加熱すると粘液質（ぬめり）が出て、柔らかく、わずかにシャキシャキ感が残る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "評価は主に侵略的外来種としての生態学的挙動に基づく定性的なものであり、気候変動モデルを用いた定量的研究は非常に少ない。その高い繁殖力と生命力から、適応性は極めて高いと推測される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上でも生育可能",
+      "cold_tolerance": "-5°C程度（地上部は枯死するが、地下塊茎は軽度の霜に耐える）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "1000-2000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は損傷しやすいが、地下塊茎や珠芽からの再生能力が非常に高い。",
+      "hail_damage_recovery": "高",
+      "rapid_temperature_change": "高い適応性を持つ"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物であるため、一般的にポジティブな効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "特筆すべき病害虫が少なく、新しい環境でも天敵がいないため非常に強健。",
+      "disease_resistance_stability": "高",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯、暖温帯",
+        "2050_projection": "温帯域の高緯度・高標高地域へ分布拡大が予測される",
+        "2100_projection": "さらに広範な温帯域が栽培・侵入可能地になると予測される",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種の繁殖は主に栄養繁殖（珠芽、塊茎）であり、種子形成は稀。そのため、自然交雑に関する情報は極めて乏しい。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": "不明",
+      "interspecific_compatibility": [
+        "Anredera属の他種との交雑可能性は理論的に存在するが、実例は報告されていない。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ほとんど存在しない。世界中に広がっている個体は、遺伝的にクローンに近い可能性が高い。",
+      "wild_gene_pool": "原産地である南米の野生集団には、未評価の遺伝的多様性が存在する可能性がある。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、該当しない。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界中の侵入地",
+        "environmental_pressure": "多様な気候、土壌、生態系",
+        "adaptive_response": "旺盛な栄養繁殖による急速なコロニー形成",
+        "time_scale": "数十年",
+        "mechanism": "表現型の可塑性、および栄養繁殖による適応的な遺伝子型の固定"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花・結実が稀なため、交配自体が困難。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "栄養繁殖能力",
+        "adaptive_traits": "珠芽の生産量と発芽能力、塊茎の生存能力",
+        "heritability": "クローン繁殖のため100%",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 2
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での研究はない。評価は植物の生態的特性からの類推に基づく。その侵略性から、管理には細心の注意が必要。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる根と、地下に塊茎を形成。",
+      "organic_matter_contribution": "高い。旺盛な生育により大量のバイオマスを生産し、地上部が枯れると土壌に有機物を供給する。",
+      "soil_structure_improvement": "限定的",
+      "erosion_control": "高い。つる性で地表を密に覆うため、雨滴による土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花時には小さな花を多数つけ、ハチなどの花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "密な葉は多様な昆虫の生息地を提供する可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "注意：管理されていない場合、他の植物を覆い尽くし、地域の生物多様性を著しく低下させる危険性が非常に高い。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により、水の浸透を助ける可能性がある。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "高い",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い（成長が非常に速い）",
+      "below_ground_carbon": "中（塊茎に炭素を蓄積）",
+      "soil_carbon_enhancement": "高い（有機物供給による）",
+      "carbon_sequestration_rate": "高いと推定される"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "不明"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を阻害する可能性が指摘されている（アレロパシー）。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "単独では不安定化要因。管理された多層栽培システムの一部としては貢献の可能性あり。",
+      "stress_tolerance": "非常に高い",
+      "recovery_capacity": "非常に高い",
+      "adaptability": "非常に高い"
+    },
+    "regenerative_score": 4
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主に健康食品や代替医療の分野で関心が高まっている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ほとんど手がかからず栽培できるため、持続可能な栄養源としての可能性がある。",
+      "food_security_contribution": "気候変動下でも安定して収穫できる強靭な作物として、地域の食料安全保障に貢献する可能性がある。",
+      "local_food_system_integration": "家庭菜園や小規模農業に適しており、地域の自給率向上に貢献しうる。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者に向けたスーパーフードとしての市場",
+        "化粧品や医薬品の原料"
+      ],
+      "value_added_products": [
+        "乾燥葉（ハーブティー）",
+        "健康補助食品（粉末、カプセル）",
+        "スキンケア製品（抽出エキス）"
+      ],
+      "niche_market_value": "健康・ウェルネス市場において高いポテンシャルを持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "保全の対象は種そのものではなく、原産地における遺伝的多様性と、世界各地の利用に関する文化的多様性である。"
+    },
+    "genetic_erosion_risk": "中（原産地における生息地の破壊による）",
+    "habitat_loss_threat": "原産地（南米の特定地域）では、開発による生息地の喪失が懸念される。",
+    "climate_change_vulnerability": "低い",
+    "cultural_erosion_risk": "高（特に原産地での伝統的知識の消失）",
+    "conservation_actions_needed": [
+      "原産地における野生集団の遺伝的多様性の調査と保全",
+      "東南アジアや東アジアにおける伝統的利用法に関する民族植物学的記録の収集と保全"
+    ],
+    "priority_conservation_regions": [
+      "ブラジル、アルゼンチン、パラグアイの原産地域",
+      "インドネシア、マレーシアの伝統利用コミュニティ"
+    ],
+    "ex_situ_conservation_status": "世界中の多くの植物園で栽培されているが、遺伝的多様性を網羅したコレクションは存在しない。",
+    "in_situ_conservation_efforts": "報告なし。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIによる総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 3,
+    "recommended_study_regions": [
+      "インドネシア（薬用利用の科学的検証）",
+      "ブラジル（原産地での生態と遺伝的多様性）",
+      "オーストラリア（侵略メカニズムの解明）"
+    ],
+    "knowledge_gaps": [
+      "原産地での民族植物学的利用法",
+      "栽培品種やランドレースの欠如",
+      "気候変動に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムへの統合方法"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "本種は主に栄養繁殖で増えるため、明確に分化した栽培品種やランドレースはほとんど報告されていない。世界中で見られるものは遺伝的に均一である可能性が高い。"
+      },
+      "variety_name": "野生型/一般普及種",
+      "local_name": "N/A",
+      "origin_region": "南米",
+      "distinctive_characteristics": "ハート型の光沢のある葉、茎に珠芽（むかご）を多数つける。旺盛なつる性の生育を示す。",
+      "cultural_importance": "地域により薬草、野菜、または侵略的雑草として扱われる。",
+      "climate_adaptation": "非常に高い",
+      "conservation_status": "保全不要（Least Concern）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Global Invasive Species Database (GISD)",
+      "Ethnobotanical studies from Indonesia and Southeast Asia",
+      "Kew Royal Botanic Gardens, Plants of the World Online",
+      "Regional botanical surveys"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative data on nutritional profiles and bioactive compound concentrations",
+      "Physiological responses to specific climate stressors (e.g., CO2, ozone)",
+      "Genetic diversity within native populations",
+      "Safe and effective integration into regenerative agriculture systems"
+    ],
+    "regional_data_coverage": "東南アジアと侵入地（オセアニア等）に関する情報は豊富だが、原産地である南米に関する情報は乏しい。",
+    "missing_information": [
+      "先住民による伝統的利用法",
+      "商業生産における収量データ",
+      "種子繁殖の条件と自然交雑の実例"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

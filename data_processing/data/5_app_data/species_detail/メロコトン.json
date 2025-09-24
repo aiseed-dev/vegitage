@@ -1,0 +1,608 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GRIN）から統合。野生近縁種に関する詳細な情報は限定的。"
+    },
+    "primary_name": "Cassabanana",
+    "scientific_name": "Sicana odorifera",
+    "plant_type": "多年草 (しばしば一年草として栽培されるつる植物)",
+    "edible_parts": [
+      "果実",
+      "種子"
+    ],
+    "origin_region": "熱帯南アメリカ（ブラジル、ペルーなどが考えられる）",
+    "wild_relatives": [
+      "不明"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各国・地域の農業データベースおよび民族植物学の文献から名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Cassabanana",
+        "Musk cucumber",
+        "Sikana"
+      ],
+      "scientific_common": "Sikana"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Melocotón",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Cundeamor",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Melão-caboclo",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Cruá",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "カリブ海地域",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Pabayo",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Calebasse musquée",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "メロコトン",
+            "script": "Kana"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "グアラニー族",
+        "name": "Curuguá",
+        "cultural_significance": "食用及び生活空間の香りづけに利用される植物。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Sicana",
+      "la": "Sicana"
+    },
+    "species": {
+      "en": "Musk cucumber",
+      "la": "odorifera"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "民族植物学的記録は豊富だが、現代における文化的重要性の変化に関する体系的なデータは少ない。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "熱帯アメリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "デザート",
+          "飲料",
+          "薬用",
+          "芳香剤"
+        ],
+        "traditional_uses": "熟した果実は生食、ジャム、砂糖漬けに。未熟果は野菜として煮込み料理に利用。果実全体が持つ強い芳香のため、家や衣服の香りづけ、儀式空間の浄化に使用される。",
+        "seasonal_significance": "雨季の終わりの収穫物として、食料の多様性を確保する上で重要。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "カリブ海地域の家庭料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Guiso de pabayo (未熟果のシチュー)",
+          "Dulce de melocotón (熟果の砂糖漬け)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "砂糖漬け",
+          "ジュース"
+        ],
+        "cultural_context": "家庭菜園で栽培され、世代から世代へと受け継がれる伝統的な食材。市場での流通は限定的。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "コロンブス交換以前から南米の先住民によって広く栽培されていた。",
+      "trade_routes": "地域内での交易品として重要であったが、大規模な国際交易の対象ではなかった。",
+      "cultural_exchange": "カリブ海地域への伝播を通じて、アフリカ系やヨーロッパ系の食文化と融合した。",
+      "domestication_history": "正確な栽培化の歴史は不明だが、アマゾン川流域またはアンデス山脈の麓で始まったと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿、年間降水量1500mm以上。明確な乾季がない方が良い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な気候。夏季に栽培可能。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜害に非常に弱いため、一年草としての栽培も困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため、大規模な灌漑なしでは不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱いため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "播種後4-6ヶ月",
+        "growing_period_days": "120-180"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産データなし）",
+      "factors_affecting_yield": [
+        "水供給",
+        "受粉成功率",
+        "日照時間",
+        "土壌肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ブラジル",
+          "production_share": "不明",
+          "characteristics": "主に自家消費用の小規模生産。"
+        },
+        {
+          "country": "ペルー",
+          "production_share": "不明",
+          "characteristics": "アマゾン地域の家庭菜園で栽培。"
+        },
+        {
+          "country": "キューバ",
+          "production_share": "不明",
+          "characteristics": "伝統的な食料として地域レベルで生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栄養成分に関する科学的データは非常に限定的。伝統的薬用利用は民族植物学の記録に基づくもので、臨床的証拠はない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約30-40 (推定)",
+        "protein_g": "約0.5-1.0",
+        "carbs_g": "約8-10",
+        "fat_g": "約0.1-0.3",
+        "fiber_g": "約1-2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA (βカロテンとして)",
+          "amount": "中程度",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "中程度",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "中程度",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "揮発性エステル類",
+        "concentration": "不明",
+        "health_effect": "強い芳香の源。リラクゼーション効果の可能性。"
+      },
+      {
+        "compound": "カロテノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "解熱",
+          "喉の痛みの緩和",
+          "下剤",
+          "抗炎症"
+        ],
+        "preparation": "果実のジュースや種子の煎じ薬。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化活性に関する基礎研究"
+      ],
+      "safety_considerations": "一般的に安全とされるが、過剰摂取に関するデータはない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "調理法に関する情報は豊富だが、味覚成分の科学的分析は不足している。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南米・カリブ海地域",
+        "methods": [
+          "生食 (熟)",
+          "煮込み (未熟)",
+          "砂糖漬け",
+          "ジャム",
+          "ジュース"
+        ],
+        "flavor_role": "主味 (デザートとして)",
+        "typical_combinations": [
+          "砂糖",
+          "シナモン",
+          "クローブ",
+          "ココナッツミルク",
+          "他の熱帯果実"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し・砂糖漬け (Dulce)",
+        "regions": [
+          "南米全域",
+          "カリブ海地域"
+        ],
+        "shelf_life": "数ヶ月〜1年",
+        "quality_changes": "水分が抜け、糖度が凝縮される。香りは一部揮発するが残存。"
+      },
+      {
+        "method": "自然貯蔵",
+        "regions": [
+          "南米全域",
+          "カリブ海地域"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "硬い外皮により、冷暗所であれば長期間の保存が可能。追熟が進み香りが強くなる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "熟した果実は、メロンとキュウリを合わせたような穏やかな甘みと、非常に強いムスク様・花様の芳香を持つ。",
+      "aroma_compounds": [
+        "エステル類",
+        "テルペン類 (推定)"
+      ],
+      "texture_characteristics": "生の状態ではシャキシャキしており、加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応研究は存在しない。評価は、その熱帯性起源とウリ科植物の一般的特性からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生存可能だが、果実の品質は低下する可能性。",
+      "cold_tolerance": "0°C以下で枯死。霜耐性なし。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低いと推定される。大きな葉と果実のため蒸散量が多い。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "年間1500-2500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い。つる性植物であり、強風による物理的損傷を受けやすい。",
+      "hail_damage_recovery": "中程度。葉や茎の損傷からの回復力はあるが、果実の損傷は致命的。",
+      "rapid_temperature_change": "低い。熱帯植物であるため、急激な低温に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。多くのC3植物同様、一定の増収効果が期待できる可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明。温暖化による新たな病害虫への抵抗性は未知数だが、在来種の遺伝的多様性が鍵となる。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "在来の送粉者との共生関係が気候変動で崩れるリスクがある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯アメリカ",
+        "2050_projection": "亜熱帯地域への適地の北上・南下の可能性。ただし、降雨パターンの変化が大きな制約要因となる。",
+        "2100_projection": "水資源が確保できる地域に限定される可能性が高い。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Sicana属内の交雑親和性に関する学術的データは皆無に等しい。評価はウリ科の一般的特性と在来品種の存在からの類推。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "南米各地に存在する多様な在来品種間での交雑は容易と推定される。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種（S. sphaerica等）との交雑可能性は不明。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "記録なし。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "高い。果実の形、色、大きさ、香りの強さにおいて、地域ごとに多様な在来品種が存在する。",
+      "wild_gene_pool": "野生祖先種や近縁種が特定されておらず、関係性は不明。",
+      "adaptive_genetic_variation": "多様な環境で栽培されてきた歴史から、高い適応的遺伝変異を持つことが示唆される。",
+      "inbreeding_depression_risk": "自家受粉も可能だが、他家受粉が主であるためリスクは低いと推定。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス山麓からアマゾン低地",
+        "environmental_pressure": "標高、湿度、土壌、病害虫圧の勾配",
+        "adaptive_response": "果実の特性や生育サイクルの地域分化",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "地域農家による人為選択と自然選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "在来品種間の交雑により、耐病性や特定の環境ストレス（例：土壌塩分）への耐性を向上させる可能性。",
+      "improved_nutritional_content": "カロテノイド等の機能性成分含量が異なる品種間の交雑による高含有品種作出の可能性。",
+      "novel_characteristics": "香り成分や果肉の色の新たな組み合わせ。",
+      "hybrid_vigor_potential": "高いと推定される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "種内交雑では問題ないと推定。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫耐性",
+        "adaptive_traits": "二次代謝産物の生産",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化したリジェネラティブ農業研究はない。評価は、その生育特性と伝統的栽培法からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範囲に広がる浅い根系と推定される。",
+      "organic_matter_contribution": "高い。生育旺盛で大量の葉や蔓を生産し、収穫後の残渣は良質な有機物となる。",
+      "soil_structure_improvement": "地表を覆うことで雨滴による土壌クラスト形成を防ぐ。",
+      "erosion_control": "高い。密な葉が地表を覆い、土壌流出を効果的に抑制する。",
+      "nutrient_cycling_role": "広範囲の土壌表層から養分を吸収する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きく開いた花はハチなどの多様な訪花昆虫を引きつける。",
+      "beneficial_insect_habitat": "密な葉群は、クモや捕食性カメムシなどの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "アグロフォレストリーシステムにおいて、中層のニッチを埋めることで構造的複雑性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により土壌への水の浸透を促進する。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "高い。",
+      "groundwater_recharge": "間接的に貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い。急速に成長し、大量のバイオマスを生産する。",
+      "below_ground_carbon": "中程度と推定。",
+      "soil_carbon_enhancement": "残渣の分解を通じて土壌有機炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明だが、一年草としては高い可能性がある。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱として利用）、マメ科植物（窒素供給）、根菜類（異なる土壌層の利用）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "菌根菌ネットワークを介した可能性。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多品目栽培システムに組み込むことで、システムの多様性と安定性を向上させる。",
+      "stress_tolerance": "生物的ストレス（病害虫）に対しては在来種の多様性が貢献する可能性がある。",
+      "recovery_capacity": "高い。",
+      "adaptability": "高い遺伝的多様性により、環境変化への適応ポテンシャルを持つ。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な利用はまだニッチだが、ポテンシャルは認識され始めている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食の多様化に貢献するユニークな果実野菜。",
+      "food_security_contribution": "自家菜園での栽培が容易で、地域の食料自給率向上に貢献。",
+      "local_food_system_integration": "地産地消に適した作物。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エキゾチックフルーツ市場",
+        "自然派食品・香料市場"
+      ],
+      "value_added_products": [
+        "特色あるジャムやジュース",
+        "天然芳香剤",
+        "菓子類の香料"
+      ],
+      "niche_market_value": "高い。そのユニークな香りと文化的背景は、ストーリー性のある商品として価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "体系的な保全状況評価はないが、民族植物学の記録からリスクが示唆される。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "伝統的な農業景観の消失が脅威となる。",
+    "climate_change_vulnerability": "水ストレスの増大が栽培可能域を狭める可能性がある。",
+    "cultural_erosion_risk": "高。伝統的な食文化や利用知識の喪失とともに栽培が放棄されるリスク。",
+    "conservation_actions_needed": [
+      "在来品種の調査と収集",
+      "地域コミュニティによる域内保全の支援",
+      "ジーンバンクでの域外保全",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "アマゾン上流域",
+      "アンデス山脈東麓",
+      "カリブ諸島"
+    ],
+    "ex_situ_conservation_status": "いくつかの植物園やジーンバンクで限定的に保存されているのみ。",
+    "in_situ_conservation_efforts": "小規模農家や先住民コミュニティによる非公式な保全が中心。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査に基づく専門的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ペルー",
+      "ブラジル",
+      "コロンビア",
+      "キューバ"
+    ],
+    "knowledge_gaps": [
+      "野生近縁種との関係",
+      "気候ストレスに対する生理学的応答",
+      "機能性成分の定量的評価",
+      "在来品種の遺伝的多様性の体系的評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "品種として正式に登録されたものはなく、地域ごとの在来種（ランドレース）が存在するのみ。情報は断片的。"
+      },
+      "variety_name": "不明 (地域在来種)",
+      "local_name": "Melocotón Rojo",
+      "origin_region": "ペルーのアマゾン地域（推定）",
+      "distinctive_characteristics": "果皮が濃い赤紫色で、非常に強い芳香を持つ。果肉は黄色みが強い。",
+      "cultural_importance": "儀式や特別な日のデザートとして珍重されることがある。",
+      "climate_adaptation": "高温多湿な環境に高度に適応している。",
+      "conservation_status": "脆弱。地域限定で栽培されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN-Global Taxonomy",
+      "Plants of the World Online (Kew)",
+      "Ethnobotanical literature on South American crops",
+      "Purdue University NewCROP database"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栄養価・機能性成分の科学的分析",
+      "野生近縁種との遺伝的関係"
+    ],
+    "regional_data_coverage": "南米・カリブ海地域に偏っており、他の地域での情報はほぼない。",
+    "missing_information": [
+      "商業生産データ",
+      "種内の遺伝的多様性に関する網羅的データ",
+      "病害虫抵抗性に関する詳細"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

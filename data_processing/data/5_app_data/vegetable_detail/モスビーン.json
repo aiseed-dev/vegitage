@@ -1,0 +1,587 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業研究機関（ICAR等）の報告に基づき統合。野生近縁種との詳細な関係性は研究途上。"
+    },
+    "primary_name": "Moth Bean",
+    "scientific_name": "Vigna aconitifolia",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "葉",
+      "果実"
+    ],
+    "origin_region": "南アジア（インド、パキスタン）",
+    "wild_relatives": [
+      "Vigna sublobata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "南アジアでの呼称は豊富に存在するが、その他の地域ではほとんど知られていない。"
+    },
+    "international": {
+      "en": [
+        "Moth Bean",
+        "Mat Bean",
+        "Matki",
+        "Dew Bean"
+      ],
+      "scientific_common": "Aconite-leaved Vigna"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "मोठ",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "mr",
+            "name": "मटकी",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "gu",
+            "name": "મઠ",
+            "script": "Gujarati"
+          },
+          {
+            "lang": "pa",
+            "name": "ਮੋਠ",
+            "script": "Gurmukhi"
+          },
+          {
+            "lang": "ur",
+            "name": "موٹھ",
+            "script": "Arabic"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Cowpea genus",
+      "la": "Vigna"
+    },
+    "species": {
+      "en": "Moth Bean",
+      "la": "Vigna aconitifolia"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "南アジア、特にインドの乾燥・半乾燥地域における民族植物学的記録は豊富だが、世界的な文化的価値は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物",
+          "飼料"
+        ],
+        "traditional_uses": "インドのラジャスタン州、グジャラート州、マハラシュトラ州などの乾燥地帯で重要なタンパク質源。日常食のダール（豆カレー）や、発芽させてサラダや炒め物（ウサル）にする。また、家畜の飼料としても価値が高い。",
+        "seasonal_significance": "モンスーン期（カリフ作）に栽培され、乾季の食料を支える重要な作物。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理（特に西部・北部）",
+        "role": "essential",
+        "traditional_dishes": [
+          "Matki Usal",
+          "Moth Dal",
+          "Misal Pav"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "発芽",
+          "炒め物",
+          "製粉"
+        ],
+        "cultural_context": "乾燥地帯の農村部における食料安全保障の要。安価で栄養価が高いため、貧困層の重要な栄養源となっている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "南アジアで数千年前から栽培されている証拠がある。",
+      "trade_routes": "主に地域内での交易に限定され、国際的な交易路での役割は小さい。",
+      "cultural_exchange": "不明",
+      "domestication_history": "インド亜大陸の乾燥地帯で、野生種のVigna sublobataから栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温・乾燥条件が最適。雨季に栽培される。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高温・乾燥条件が最適。雨季に栽培される。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱いため不適。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "霜害に非常に弱いため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "最も適した気候帯。極めて高い耐乾性を持つ。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯・亜熱帯モンスーン気候",
+        "planting_season": "6月-7月（モンスーン開始時）",
+        "harvest_season": "9月-11月",
+        "growing_period_days": "65-85"
+      }
+    ],
+    "productivity": {
+      "yield_range": "300-600 kg/ha",
+      "factors_affecting_yield": [
+        "降雨量と時期",
+        "土壌肥沃度",
+        "病害虫（特に黄化モザイクウイルス）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約150万トン（推定）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": 90,
+          "characteristics": "主にラジャスタン州で天水農業として栽培される。低投入農業システムの中核。"
+        },
+        {
+          "country": "パキスタン",
+          "production_share": 5,
+          "characteristics": "シンド州やパンジャブ州の乾燥地帯で栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価データは存在するが、品種や栽培条件による変動に関する研究は限定的。伝統的薬用利用は民族植物学の記録に基づくが、臨床的エビデンスは不足している。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "343",
+        "protein_g": "23",
+        "carbs_g": "62",
+        "fat_g": "1.6",
+        "fiber_g": "4.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "202 mg/100g",
+          "daily_value_percent": "20"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "7.6 mg/100g",
+          "daily_value_percent": "42"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "150 mg/100g",
+          "daily_value_percent": "36"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "解熱",
+          "消化促進",
+          "滋養強壮"
+        ],
+        "preparation": "煎じ薬、食事療法"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高タンパク質源",
+        "抗酸化活性"
+      ],
+      "ongoing_research": [
+        "血糖値調節作用",
+        "抗高血圧作用"
+      ],
+      "safety_considerations": "生豆には消化を阻害するトリプシンインヒビターが含まれるため、加熱調理が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "南アジアでの利用法はよく知られているが、それ以外の地域での応用例はほぼない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "煮込み（ダール）",
+          "発芽させて炒める（ウサル）",
+          "製粉して生地にする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "玉ねぎ",
+          "トマト",
+          "ニンニク",
+          "生姜",
+          "各種スパイス"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "適切に保存すれば品質変化は少ない。"
+      },
+      {
+        "method": "製粉（ベサンに似た粉）",
+        "regions": [
+          "インド"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "酸化により風味が劣化しやすい。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッツのような風味、土の香り、ほのかな甘み",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理後は柔らかくクリーミー。発芽させるとシャキシャキした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的な評価は高いが、気候変動シナリオに対応した定量的な生理学的研究は非常に少ない。将来予測は一般的な作物モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "27-32°C",
+      "extreme_heat_survival": "45°C以上でも生育可能",
+      "cold_tolerance": "5°C以下で生育停止、霜に非常に弱い"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "非常に高い。深い主根と広範な側根により土壌水分を効率的に吸収。",
+      "flood_tolerance": "低。湛水状態に非常に弱い。",
+      "optimal_rainfall": "250-500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "草丈が低く、倒伏しにくいため中程度。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "高温への順応性は高いが、急激な低温には弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、限定的な増収効果が期待されるが、データは不足。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりサスライメイガなどの害虫発生が増加する可能性。",
+      "disease_resistance_stability": "黄化モザイクウイルスへの感受性が高く、媒介昆虫の活動活発化がリスク。",
+      "beneficial_organism_relationships": "根粒菌との共生関係は高温土壌でも安定している。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "インド西部・北部、パキスタンの半乾燥地帯",
+        "2050_projection": "現在よりもさらに乾燥化が進む地域や、サヘル地域の一部へ適地が拡大する可能性",
+        "2100_projection": "極端な高温と降雨の不安定化が収量を不安定にする可能性もある",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "人為的な育種プログラムに関する情報は存在するが、自然環境下での交雑や遺伝子流動に関する研究は非常に限られている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "インド国内に多数の在来種が存在し、相互の交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Vigna radiata (リョクトウ), Vigna mungo (ケツルアズキ)との交雑は困難だが、胚珠培養などの技術で試みられている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培中心地であるラジャスタン州には、形態的・農学的に多様な在来種が豊富に存在する。",
+      "wild_gene_pool": "野生祖先種とされるVigna sublobataとの遺伝的関係は、耐病性や耐ストレス性などの有用遺伝子の供給源として重要。",
+      "adaptive_genetic_variation": "極度の乾燥や高温に対する適応的遺伝変異が蓄積されていると考えられる。",
+      "inbreeding_depression_risk": "自家受粉性がある程度高いため、遺伝的多様性が失われた集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インド、タール砂漠",
+        "environmental_pressure": "年間降雨量300mm以下の極度の乾燥、45℃を超える高温、貧栄養土壌",
+        "adaptive_response": "短期間での成熟、深い根系、気孔の制御による高い水利用効率",
+        "time_scale": "数千年",
+        "mechanism": "世代を超えた自然選択と農家による人為選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、さらなる耐乾性・耐病性の向上が期待される。",
+      "improved_nutritional_content": "他のVigna属の豆との交雑により、特定のアミノ酸や微量栄養素の含有量を改善する可能性がある。",
+      "novel_characteristics": "種子の大きさや草姿の改良。",
+      "hybrid_vigor_potential": "在来種間の交配により雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑における受精後の胚珠敗死。",
+      "chromosome_compatibility": "Vigna属内では染色体数は2n=22で共通しているが、構造的差異が交雑障壁となることがある。",
+      "fertility_of_hybrids": "種間雑種はしばしば不稔となる。",
+      "backcrossing_success": "成功率は低いが、育種プログラムでは重要な技術。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "早期成熟性、深い根系",
+        "heritability": "中程度から高い",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科作物としての一般的な特性からの類推が多く、モスビーンに特化したリジェネラティブ農業システムでの定量的研究は少ない。伝統的な混作体系が優れた事例となる。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く土壌に侵入する主根と広範囲に広がる側根を持つ。",
+      "organic_matter_contribution": "収穫後の残渣が土壌有機物を供給する。",
+      "soil_structure_improvement": "根が土壌団粒構造を促進し、通気性・保水性を改善する。",
+      "erosion_control": "生育初期から地面を素早く覆うため、風食・水食を効果的に防ぐ。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫に蜜源を提供する。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌や菌根菌との共生関係を通じて土壌微生物叢を豊かにする。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌に孔隙を作り、雨水の浸透を促進する。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "キャノピーが雨滴の衝撃を和らげ、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系のため、地下部への炭素蓄積ポテンシャルが高い。",
+      "soil_carbon_enhancement": "窒素固定によるバイオマス生産促進と残渣供給を通じて、土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "パールミレット（Bajra）",
+        "ソルガム（Jowar）",
+        "ゴマ"
+      ],
+      "natural_pest_control": "混作により、特定の害虫の発生を抑制する効果が期待される。",
+      "nutrient_sharing": "モスビーンが固定した窒素を、混作したイネ科作物が利用できる。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "伝統的な混作システムにおいて、気候変動に対する緩衝材として機能し、農業生態系の安定性を高める。",
+      "stress_tolerance": "極めて高い乾燥ストレス耐性を持つ。",
+      "recovery_capacity": "干ばつの後、少量の雨でも素早く回復する能力を持つ。",
+      "adaptability": "遺伝的多様性が高く、地域の環境に適応しやすい。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "気候変動適応作物としてのポテンシャルは認識されているが、商業的展開や製品開発はまだ初期段階。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク質で、植物ベースの食事における重要な栄養源となる。",
+      "food_security_contribution": "気候変動で不安定化する地域の食料安全保障に大きく貢献する可能性を持つ。",
+      "local_food_system_integration": "乾燥地帯の地域食品システムに不可欠な作物。",
+      "alternative_protein_potential": "プロテインパウダーや植物性代替肉の原料としてのポテンシャルがある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品市場（スプラウト、グルテンフリーフラワー）",
+        "気候変動適応型農業ソリューションとしての種子市場"
+      ],
+      "value_added_products": [
+        "発芽モスビーン（生鮮・冷凍）",
+        "モスビーンフラワー",
+        "スナック菓子（ローストモスビーン）"
+      ],
+      "niche_market_value": "「古代穀物」や「スーパーフード」として、欧米のニッチ市場で価値を持つ可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の重要性は認識されているが、体系的な保全活動や脅威評価は十分ではない。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "灌漑農業の拡大や、より高収量な作物への転換による在来種の作付面積減少。",
+    "climate_change_vulnerability": "作物自体は強靭だが、栽培しているコミュニティの社会経済的脆弱性が高い。",
+    "cultural_erosion_risk": "高。若い世代が伝統的な食文化や農法から離れることによる知識の喪失。",
+    "conservation_actions_needed": [
+      "在来種の収集・評価・保存（ジーンバンク）",
+      "参加型育種による地域適応品種の開発",
+      "伝統的知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "インド、ラジャスタン州西部の乾燥地帯",
+      "インド、グジャラート州カッチ地方"
+    ],
+    "ex_situ_conservation_status": "インド国立植物遺伝資源局（NBPGR）などのジーンバンクに多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "一部のNGOや地域コミュニティによる在来種保全の取り組みが存在するが、規模は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIによる総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド・ラジャスタン州",
+      "アフリカ・サヘル地域（導入ポテンシャル調査）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2濃度、極端気象）に対する生理学的応答の定量的データ",
+      "多様な在来種の栄養価および機能性成分の詳細なプロファイリング",
+      "自然環境下での遺伝子流動の実態"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "品種名は存在するものの、特性に関する体系的な公開データは非常に限られている。"
+      },
+      "variety_name": "RMO-40",
+      "local_name": "RMO-40",
+      "origin_region": "インド、ラジャスタン州",
+      "distinctive_characteristics": "耐乾性が高く、早期成熟性（60-65日）。黄化モザイクウイルスに中程度の耐性を持つ改良品種。",
+      "cultural_importance": "乾燥地帯の生産性向上のために広く普及している。",
+      "climate_adaptation": "極度の乾燥条件に特化している。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "在来種に関する詳細情報は民族植物学的調査に依存する部分が大きい。"
+      },
+      "variety_name": "Jadia",
+      "local_name": "Jadia",
+      "origin_region": "インド、グジャラート州カッチ地方",
+      "distinctive_characteristics": "伝統的な在来種。種子は小さいが風味が良いとされる。非常に高い耐塩性を持つ可能性がある。",
+      "cultural_importance": "地域の伝統料理に不可欠な品種。",
+      "climate_adaptation": "塩類集積土壌と乾燥に適応している。",
+      "conservation_status": "リスクあり（栽培面積減少）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "ICAR (Indian Council of Agricultural Research) publications",
+      "Plants of the World Online (Kew Science)",
+      "Ethnobiology and agricultural science journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "生理活性物質のプロファイルと健康効果に関する臨床研究"
+    ],
+    "regional_data_coverage": "南アジアに極度に集中しており、その他の地域に関するデータはほぼ皆無。",
+    "missing_information": [
+      "先住民コミュニティによる特定の利用法",
+      "自然交雑の実例",
+      "炭素隔離速度の定量的データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

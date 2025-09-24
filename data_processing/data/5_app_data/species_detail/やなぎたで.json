@@ -1,0 +1,683 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, Tropicos), ethnobotanical literature, and culinary sources. Quantitative data on production and specific nutrient variations are limited."
+    },
+    "primary_name": "Water-pepper",
+    "scientific_name": "Persicaria hydropiper",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "種子"
+    ],
+    "origin_region": "ユーラシア大陸と北アメリカの温帯域",
+    "wild_relatives": [
+      "Persicaria maculosa",
+      "Persicaria lapathifolia",
+      "Persicaria longiseta"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual botanical and culinary dictionaries."
+    },
+    "international": {
+      "en": [
+        "Water-pepper",
+        "Marshpepper knotweed",
+        "Arsesmart",
+        "Tade"
+      ],
+      "scientific_common": "Water-pepper"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ヤナギタデ",
+            "script": "カタカナ/漢字"
+          },
+          {
+            "lang": "ja",
+            "name": "柳蓼",
+            "script": "漢字"
+          },
+          {
+            "lang": "ja",
+            "name": "ホンタデ",
+            "script": "カタカナ"
+          },
+          {
+            "lang": "zh",
+            "name": "辣蓼",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "여뀌",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Rau răm",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Poivre d'eau",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Wasserpfeffer",
+            "script": "Latin"
+          },
+          {
+            "lang": "nl",
+            "name": "Waterpeper",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on the APG IV system and World Flora Online."
+    },
+    "family": {
+      "en": "Knotweed family",
+      "la": "Polygonaceae"
+    },
+    "genus": {
+      "en": "Knotweed / Smartweed",
+      "la": "Persicaria"
+    },
+    "species": {
+      "en": "Water-pepper",
+      "la": "hydropiper"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural importance varies drastically by region, from essential spice to noxious weed. This analysis is based on culinary anthropology and ethnobotany."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（特に日本）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬味",
+          "儀式用"
+        ],
+        "traditional_uses": "伝統的な川魚（特に鮎）料理に不可欠な香辛料「蓼酢」の原料。辛味が魚の生臭さを消し、味覚を清めるとされる。殺菌作用も伝統的に信じられている。",
+        "seasonal_significance": "夏の鮎漁と密接に関連し、夏の季節感を象徴する食材。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東南アジア（特にベトナム）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "ベトナム料理で非常に一般的なハーブ（Rau thơm）の一つ。サラダ、スープ、特に孵化しかけのアヒルの卵「ホビロン」に添えられる。独特の風味と香りが特徴。",
+        "seasonal_significance": "通年利用されるが、特に風味が増す時期があるとされる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 1,
+        "cultural_roles": [
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "中世にはコショウの代替品として利用された歴史があるが、現在はほぼ食用されない。伝統医学で止血剤や利尿剤として利用された記録がある。黄色の染料としても利用された。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（懐石、郷土料理）",
+        "role": "essential",
+        "traditional_dishes": [
+          "鮎の塩焼きと蓼酢"
+        ],
+        "preparation_methods": [
+          "すり潰し",
+          "酢と混合"
+        ],
+        "cultural_context": "自然との調和と季節感を重んじる日本料理の哲学を体現する食材。川の生態系（鮎）と岸辺の生態系（蓼）の繋がりを象徴する。"
+      },
+      {
+        "cuisine": "ベトナム料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Gỏi (サラダ)",
+          "Hột vịt lộn (ホビロン)",
+          "Bún thang (ハノイ風汁麺)"
+        ],
+        "preparation_methods": [
+          "生食",
+          "刻んで混ぜる"
+        ],
+        "cultural_context": "料理に複雑な風味と香りの層を加えるための重要なハーブの一つ。陰陽五行思想に基づき、食材のバランスを取る役割も持つとされる（例：『陽』のホビロンに『陰』のRau rămを添える）。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代から世界中の温帯域に自生し、各地で薬用や香辛料として利用されてきた。日本の万葉集にもタデに関する記述が見られる。",
+      "trade_routes": "国際的な交易品ではなかったが、地域内でコショウの安価な代替品として流通した可能性がある。",
+      "cultural_exchange": "不明",
+      "domestication_history": "明確な栽培化の歴史は不明。日本やベトナムで利用されるものは、野生種から風味の良い系統を選抜したものと考えられている。半栽培・半野生の状態に近い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高湿度で水辺の環境。強い日差しは避ける。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "湿潤な土壌と温暖な気候。生育が旺盛。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけて生育。湿地、小川のほとり、休耕田などが最適。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "乾燥と厳しい冬のため不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水分不足のため生育不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "夏から秋",
+        "growing_period_days": 60
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "通年（乾季を除く）",
+        "harvest_season": "通年",
+        "growing_period_days": 50
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "水分供給",
+        "土壌の肥沃度",
+        "日照条件"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "主に鮎料理向けの小規模・専門的栽培。"
+        },
+        {
+          "country": "ベトナム",
+          "production_share": null,
+          "characteristics": "国内消費向けの小規模農家による栽培が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な辛味成分や機能性成分に関する研究は存在するが、網羅的な栄養価データは乏しい。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "フラボノイド",
+          "amount": "豊富",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ポリゴジアール",
+        "concentration": "可変",
+        "health_effect": "強力な辛味成分、抗菌・抗真菌作用"
+      },
+      {
+        "compound": "ルチン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、毛細血管強化"
+      },
+      {
+        "compound": "ケルセチン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統療法",
+        "uses": [
+          "止血",
+          "利尿",
+          "関節炎の湿布"
+        ],
+        "preparation": "葉の煎じ薬、生の葉の湿布"
+      },
+      {
+        "region": "東南アジア",
+        "medical_system": "伝統療法",
+        "uses": [
+          "消化促進",
+          "解熱",
+          "性欲減退"
+        ],
+        "preparation": "生の葉を食事と共に摂取"
+      },
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "解毒",
+          "止血",
+          "リウマチ治療"
+        ],
+        "preparation": "煎じ薬、外用薬"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗菌・抗真菌活性",
+        "抗酸化活性",
+        "抗炎症作用"
+      ],
+      "safety_considerations": "ポリゴジアールは皮膚刺激性を持つことがある。過剰摂取は胃腸に不快感を与える可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "地域による利用法の違いが非常に顕著であり、その対比が文化的価値を物語っている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "生食",
+          "すり潰し",
+          "酢漬け"
+        ],
+        "flavor_role": "香辛料/薬味",
+        "typical_combinations": [
+          "鮎",
+          "酢",
+          "米"
+        ]
+      },
+      {
+        "region": "ベトナム",
+        "methods": [
+          "生食",
+          "刻んで混ぜる"
+        ],
+        "flavor_role": "副味/香草",
+        "typical_combinations": [
+          "アヒルの卵（ホビロン）",
+          "鶏肉",
+          "麺類",
+          "他の香草"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "酢漬け（蓼酢）",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数週間（冷蔵）",
+        "quality_changes": "辛味が穏やかになり、酢の酸味と融合する。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "ヨーロッパ（歴史的）"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "特徴的な辛味成分であるポリゴジアールが揮発・分解し、風味が大幅に失われる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ピリッとした刺激的な辛味、わずかな苦味、青々しい香り。ベトナムの系統はより複雑で、コリアンダーに似た爽やかな香りを持つことがある。",
+      "aroma_compounds": [
+        "ポリゴジアール"
+      ],
+      "texture_characteristics": "生の葉は柔らかく、ややシャキッとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的データはほぼ存在しない。雑草としての生態的特性と生息環境から耐性を推定。水への依存度が最大の脆弱性であると同時に、湛水耐性は強みでもある。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "不明。ただし水分があれば35°C以上でも生育可能。",
+      "cold_tolerance": "-5°C（種子は耐凍性あり）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低いと推定される（湿地性植物のため）",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "1000mm以上、または定常的な水源が必要"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎がしなやかで折れにくいが、大規模な洪水では流される可能性がある。",
+      "hail_damage_recovery": "一年草であり成長が速いため、葉の損傷からの回復は早い。",
+      "rapid_temperature_change": "中程度"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。他のC3植物と同様に、光合成が促進される可能性はある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "辛味成分が多くの草食昆虫を忌避するため、害虫圧への耐性は比較的高いと推定される。",
+      "disease_resistance_stability": "野生種に近いため、遺伝的多様性が高く、病気抵抗性は比較的安定している可能性がある。",
+      "beneficial_organism_relationships": "花はハナアブや小型のハチを引きつける。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "世界の温帯・亜熱帯の湿潤地域",
+        "2050_projection": "高緯度地域へ適地が拡大する一方、乾燥化が進む地域では縮小。特に河川環境の変化に大きく影響される。",
+        "2100_projection": "予測の不確実性は高いが、極端な降雨事象の増加は洪水後の裸地への定着機会を増やす可能性がある一方、長期的な干ばつは壊滅的な影響を与える。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Persicaria属内での交雑は一般的であり、P. hydropiperも例外ではない。自然交雑の具体的な成功事例の記録は専門的文献に限定される。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域ごとのエコタイプや栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Persicaria mitis",
+        "Persicaria maculosaなどの近縁種と交雑し、中間的な形態を持つ雑種を形成することが報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "P. x condensata (P. hydropiper × P. lapathifolia) などが知られる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "日本やベトナムの栽培系統は特定の風味を持つように選抜されているが、全体的な遺伝的多様性は不明。",
+      "wild_gene_pool": "栽培系統と野生集団の遺伝的距離は近く、遺伝子流動が容易であると考えられる。",
+      "adaptive_genetic_variation": "広域分布種であるため、地域の環境に適応した遺伝的変異が豊富に存在すると考えられる。",
+      "inbreeding_depression_risk": "自家受粉も可能だが、他家受粉が主体であり、リスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界各地",
+        "environmental_pressure": "異なる日長、温度、土壌条件",
+        "adaptive_response": "開花時期の変異、草丈や葉の大きさの変異",
+        "time_scale": "不明",
+        "mechanism": "自然選択による局所適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他のPersicaria種との交雑により、耐乾性や耐塩性などの形質を導入できる可能性がある。",
+      "improved_nutritional_content": "フラボノイド含有量などを増加させる可能性がある。",
+      "novel_characteristics": "風味や香りのプロファイルの改変。",
+      "hybrid_vigor_potential": "高い可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種によっては存在するが、多くの近縁種とは比較的容易に交雑する。",
+      "chromosome_compatibility": "多くの種で染色体数が共通しているため、適合性は高い。",
+      "fertility_of_hybrids": "雑種の稔性は様々だが、部分的に稔性を持つことが多い。",
+      "backcrossing_success": "可能であると推定される。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "草食圧",
+        "adaptive_traits": "辛味成分（ポリゴジアール）の生産",
+        "heritability": "高いと推定される",
+        "response_to_selection": "草食動物の少ない環境では、辛味の少ない系統が選択される可能性がある。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での直接的な研究は皆無。湿地性植物としての生態学的役割からの推定が主である。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く密なひげ根。水辺の土壌表面を安定させる。",
+      "organic_matter_contribution": "一年草であるため、毎年生育サイクルの終わりにバイオマスを土壌に還元する。",
+      "soil_structure_improvement": "湿潤土壌の表層に根を張り巡らせ、団粒構造の形成を助ける可能性がある。",
+      "erosion_control": "河岸や水路の土壌流出を防ぐグランドカバーとして機能する。",
+      "nutrient_cycling_role": "水中の過剰な栄養塩類を吸収し、水質浄化に貢献する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "目立たない花だが、小型のハナアブ、ハチ、アリなどの多様な昆虫が訪れる。",
+      "beneficial_insect_habitat": "水辺の生態系において、様々な昆虫や小動物に生息地や食料を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "水辺の植生の一部として、多様な生物群集を支える。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "植被が地表流を遅らせ、水の浸透を助ける。",
+      "moisture_retention": "土壌表面を覆うことで水分の蒸発を抑制する。",
+      "runoff_reduction": "特に農業排水路などで、栄養塩類を含んだ流出水を捕捉・浄化する可能性がある。",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "低い（一年草のため）",
+      "soil_carbon_enhancement": "毎年の有機物還元により、土壌有機炭素の維持に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "湿潤な環境を好む他の野菜（セリ、クレソンなど）との混植に適する可能性がある。"
+      ],
+      "natural_pest_control": "辛味成分が特定の害虫を忌避する効果を持つ可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の成長を抑制するアレロパシー効果を持つ可能性が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "ビオトープ（水辺）の造成において、初期の植生として生態系の安定化に貢献する。",
+      "stress_tolerance": "湛水ストレスに非常に強い。",
+      "recovery_capacity": "種子による繁殖力が旺盛で、洪水などの撹乱からの回復が早い。",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商業的可能性はニッチ市場に限定されるが、文化的な価値は高い。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "香辛料やハーブとして、食事の多様性と風味を高める。",
+      "food_security_contribution": "主要な食料ではないが、少ない資源で栽培可能なため、地域の食文化の多様性維持に貢献する。",
+      "local_food_system_integration": "日本の鮎文化やベトナムの市場など、地域食品システムに深く根付いている。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級レストラン向けのユニークな香辛料",
+        "エスニック料理（特にベトナム料理）人気の高まりに伴う需要増"
+      ],
+      "value_added_products": [
+        "蓼酢",
+        "フリーズドライのハーブ",
+        "機能性成分を抽出したサプリメント"
+      ],
+      "niche_market_value": "文化的な物語性を持つ食材として、高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "野生種としての保全優先度は低いが、特定の文化利用に特化した在来系統の保全が重要。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "河川改修や湿地の開発による自生地の減少は、地域の遺伝的多様性を損なう可能性がある。",
+    "climate_change_vulnerability": "水資源の変化（干ばつ）に脆弱。",
+    "cultural_erosion_risk": "高（特に日本）。食文化の変化（鮎の消費減少など）により、蓼の栽培と利用文化が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来系統（特に日本の栽培品種）のジーンバンクでの保存",
+      "伝統的利用に関する知識の記録と伝承",
+      "生息地である河川環境の保全"
+    ],
+    "priority_conservation_regions": [
+      "日本の清流（特に鮎漁が盛んな地域）",
+      "ベトナムのメコンデルタ"
+    ],
+    "ex_situ_conservation_status": "不明。主要なジーンバンクでの保存状況は限定的と思われる。",
+    "in_situ_conservation_efforts": "特定の地域で、伝統野菜として農家による保全活動が行われている可能性がある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "日本",
+      "ベトナム"
+    ],
+    "knowledge_gaps": [
+      "栽培品種の遺伝的多様性評価",
+      "気候変動シナリオ下での生育応答に関する定量的データ",
+      "栄養成分の詳細分析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "これらは正式な品種名ではなく、利用に基づく類型である。"
+      },
+      "variety_name": "ホンタデ (Hon-tade type)",
+      "local_name": "本蓼",
+      "origin_region": "日本",
+      "distinctive_characteristics": "非常に強い辛味と、すり潰した際に出る鮮やかな緑色が特徴。葉は細長く、柳の葉に似る。",
+      "cultural_importance": "鮎の塩焼きに添える「蓼酢」に不可欠。日本の夏の食文化を象徴する存在。",
+      "climate_adaptation": "日本の温帯気候、特に清流のほとりの湿潤な環境に適応している。",
+      "conservation_status": "懸念あり（Vulnerable）。食文化の変化により栽培が減少している。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "これらは正式な品種名ではなく、利用に基づく類型である。"
+      },
+      "variety_name": "ラウラム (Rau răm type)",
+      "local_name": "Rau răm",
+      "origin_region": "東南アジア",
+      "distinctive_characteristics": "日本のタデより辛味は穏やかで、コリアンダーやレモングラスを思わせる複雑で爽やかな香りを持つ。葉はやや幅が広い。",
+      "cultural_importance": "ベトナム料理に広く使われるハーブ。特にホビロンとの組み合わせは象徴的。",
+      "climate_adaptation": "東南アジアの亜熱帯・熱帯気候に適応している。",
+      "conservation_status": "安定（Stable）。広く栽培・消費されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      "Plants of the World Online (Kew)",
+      "Ethnobotanical literature on Japanese and Vietnamese cuisine",
+      "GRIN-Global Taxonomy"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栽培系統間の詳細な遺伝的関係"
+    ],
+    "regional_data_coverage": "東アジアと東南アジアに偏っており、他の地域での詳細な情報は乏しい。",
+    "missing_information": [
+      "世界全体の生産量・流通量",
+      "詳細な栄養分析データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

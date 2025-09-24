@@ -1,0 +1,672 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(KEW, GBIF)および民族植物学の文献から情報を統合。野生の祖先種に関する情報は限定的。"
+    },
+    "primary_name": "Coleus Potato",
+    "scientific_name": "Coleus rotundifolius",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根"
+    ],
+    "origin_region": "熱帯アフリカ",
+    "wild_relatives": [
+      "Coleus esculentus",
+      "Coleus edulis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栽培されている主要地域での呼称を網羅。名称は地域コミュニティによって多様。"
+    },
+    "international": {
+      "en": [
+        "Coleus Potato",
+        "Hausa Potato",
+        "Sudan Potato",
+        "Native Potato",
+        "Country Potato",
+        "Frafra Potato"
+      ],
+      "scientific_common": "Coleus rotundifolius"
+    },
+    "regional": [
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "ha",
+            "name": "Rizga",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Pomme de terre du Soudan",
+            "script": "Latn"
+          },
+          {
+            "lang": "bm",
+            "name": "Tumuku",
+            "script": "Latn"
+          },
+          {
+            "lang": "en-ZA",
+            "name": "Kaffir Potato",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "ml",
+            "name": "കൂര്‍ക്ക",
+            "script": "Mlym"
+          },
+          {
+            "lang": "ta",
+            "name": "சிறு கிழங்கு",
+            "script": "Taml"
+          },
+          {
+            "lang": "si",
+            "name": "Innala",
+            "script": "Sinh"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Kembili",
+            "script": "Latn"
+          },
+          {
+            "lang": "ms",
+            "name": "Ubi Keling",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Frafra people (Ghana)",
+        "name": "Frafra Potato",
+        "cultural_significance": "重要な炭水化物源であり、食料安全保障に寄与する伝統作物。"
+      },
+      {
+        "community": "Hausa people (Nigeria)",
+        "name": "Rizga",
+        "cultural_significance": "乾燥地帯での栽培に適した伝統的な根菜。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "最新の植物分類体系に基づく。かつてはPlectranthus属やSolenostemon属に分類されていたが、現在はColeus属とされるのが一般的。"
+    },
+    "family": {
+      "en": "Mint family",
+      "la": "Lamiaceae"
+    },
+    "genus": {
+      "en": "Coleus",
+      "la": "Coleus"
+    },
+    "species": {
+      "en": "Coleus Potato",
+      "la": "rotundifolius"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "民族植物学的記録は豊富だが、定量的な文化的重要性の評価は少ない。特にアフリカでの儀式的利用に関する情報は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "西アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "サバンナ地帯における重要な炭水化物源。飢饉時の救荒作物としての役割が大きい。地域の市場で広く取引される。",
+        "seasonal_significance": "乾季の始まりに収穫され、食料が乏しくなる時期の重要な食料となる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア (特にインド南部)",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ケーララ州やタミル・ナードゥ州で人気の野菜。特にカレーや炒め物（Thoran, Mezhukkupuratti）に利用される。商業栽培が盛ん。",
+        "seasonal_significance": "モンスーン後の収穫物として季節の料理に欠かせない。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "西アフリカ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Boiled Rizga with sauce",
+          "Rizga porridge"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "蒸す",
+          "粥にする"
+        ],
+        "cultural_context": "ジャガイモやヤムイモの代替、または補完として利用される基本的な食料。"
+      },
+      {
+        "cuisine": "南インド料理 (ケーララ料理)",
+        "role": "essential",
+        "traditional_dishes": [
+          "Koorka Mezhukkupuratti",
+          "Koorka Thoran",
+          "Sambar (as an ingredient)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "蒸し炒め",
+          "カレーにする"
+        ],
+        "cultural_context": "独特の風味と食感が楽しまれ、季節の到来を告げる食材として文化的に定着している。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アフリカでの栽培の歴史は古いが、正確な起源は不明。南アジアへは数世紀前に伝播したと考えられている。",
+      "trade_routes": "アラブ商人やインド洋交易を通じてアフリカからアジアへ伝播した可能性が指摘されている。",
+      "cultural_exchange": "アフリカの食文化がアジアの食文化に適応・統合された一例。",
+      "domestication_history": "アフリカのサバンナ地帯で栽培化されたと考えられているが、詳細なプロセスは不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿、年間降水量1000-1500mm、水はけの良い砂質土壌。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な季節に栽培可能。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱いため、一年草としての夏期栽培以外は困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "塊茎形成期に十分な水分が必要なため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱いため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯 (西アフリカ)",
+        "planting_season": "雨季の始まり (5月-6月)",
+        "harvest_season": "乾季の始まり (10月-12月)",
+        "growing_period_days": "120-180"
+      },
+      {
+        "climate_zone": "亜熱帯 (南インド)",
+        "planting_season": "南西モンスーン後 (9月-10月)",
+        "harvest_season": "冬 (12月-1月)",
+        "growing_period_days": "90-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 15,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌肥沃度",
+        "水分供給",
+        "植え付け密度",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "Nigeria",
+          "production_share": "不明",
+          "characteristics": "国内消費が主。中央部で広く栽培。"
+        },
+        {
+          "country": "Ghana",
+          "production_share": "不明",
+          "characteristics": "北部地域で食料安全保障作物として重要。"
+        },
+        {
+          "country": "India",
+          "production_share": "不明",
+          "characteristics": "ケーララ州とタミル・ナードゥ州で商業的に栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分データは存在するが、品種や栽培条件による変動に関する研究は少ない。機能性成分に関する研究は初期段階。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "75-90",
+        "protein_g": "1.0-1.5",
+        "carbs_g": "18-22",
+        "fat_g": "0.1-0.3",
+        "fiber_g": "1.0-2.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Calcium",
+          "amount": "40-60 mg",
+          "daily_value_percent": "4-6%"
+        },
+        {
+          "nutrient": "Iron",
+          "amount": "1-5 mg",
+          "daily_value_percent": "6-28%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Phenolic compounds",
+        "concentration": "不明",
+        "health_effect": "Antioxidant activity"
+      },
+      {
+        "compound": "Flavonoids",
+        "concentration": "不明",
+        "health_effect": "Antioxidant, Anti-inflammatory"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アフリカ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "消化不良",
+          "下痢",
+          "咳"
+        ],
+        "preparation": "塊茎の煎じ汁や生食。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化活性",
+        "抗菌活性"
+      ],
+      "safety_considerations": "一般的に安全な食材とされるが、過剰摂取に関するデータはない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栽培地域における調理法や利用法に関する情報は豊富に存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "西アフリカ",
+        "methods": [
+          "茹でる",
+          "蒸す",
+          "ローストする",
+          "粉にして粥にする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ピーナッツソース",
+          "トマトベースのシチュー",
+          "唐辛子"
+        ]
+      },
+      {
+        "region": "南インド",
+        "methods": [
+          "炒める",
+          "圧力鍋で調理",
+          "カレーに入れる",
+          "揚げる"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ココナッツ",
+          "マスタードシード",
+          "カレーリーフ",
+          "玉ねぎ",
+          "ターメリック"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し",
+        "regions": [
+          "西アフリカ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "水分が抜け、保存性が向上する。風味は凝縮される。"
+      },
+      {
+        "method": "砂中貯蔵",
+        "regions": [
+          "アフリカ",
+          "南アジア"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "湿度と温度を一定に保ち、発芽や腐敗を遅らせる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "マイルドでナッツのような風味、わずかな土の香り。品種によってはわずかな苦味やシソ科特有の香りがある。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理後はジャガイモに似ており、ホクホクしている。品種によってはやや粘り気がある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "0°C以下で地上部が枯死、塊茎も損傷。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1000-1500mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地上部は倒れやすいが、地下塊茎は保護される）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "低（特に低温に対して）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として、ポジティブな効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "比較的強健だが、温暖化による線虫やウイルス病の北上がリスクとなりうる。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯のサバンナおよびモンスーン地域",
+        "2050_projection": "現在の栽培地域に加え、一部の温帯地域の夏期栽培適地が拡大する可能性。一方で、既存の熱帯地域では過度の高温や干ばつ頻発により不安定化するリスク。",
+        "2100_projection": "不確実性が高いが、適地の緯度的なシフトがさらに進む可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "主に栄養繁殖で栽培されるため、自然交雑に関する研究や報告は非常に少ない。遺伝的多様性は在来品種（ランドレース）に依存している。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培されている多様な在来品種間での交雑は可能と推測される。"
+      ],
+      "interspecific_compatibility": [
+        "近縁種であるC. esculentusとの交雑可能性はあるが、実証されていない。"
+      ],
+      "intergeneric_possibility": [
+        "低いと推測される。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培地域ごとに形態、塊茎の色、大きさ、調理特性が異なる多様な在来品種が存在する。",
+      "wild_gene_pool": "アフリカに存在する野生近縁種が潜在的な遺伝子プールとなりうるが、利用は進んでいない。",
+      "adaptive_genetic_variation": "各地域の在来品種は、その土地の気候や土壌に長年かけて適応してきた遺伝的変異を持つ。",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、ウイルス病の蓄積などが問題となりうるが、近交弱勢のリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "西アフリカ・サヘル地帯",
+        "environmental_pressure": "長い乾季と不規則な降雨",
+        "adaptive_response": "短期間で塊茎を形成し、休眠する能力。",
+        "time_scale": "数世紀以上",
+        "mechanism": "自然選択と農家による人為選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、耐乾性や耐病性の向上が期待できる。",
+      "improved_nutritional_content": "栄養価の高い系統との交雑による改善の可能性がある。",
+      "novel_characteristics": "塊茎の形状、色、貯蔵性などの新規特性獲得の可能性がある。",
+      "hybrid_vigor_potential": "遺伝的に離れた系統間の交雑による雑種強勢の可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "多くの栽培品種で開花が稀または種子の稔性が低いことが交配の障壁となる。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ、病害虫、土壌条件",
+        "adaptive_traits": "早期塊茎形成、休眠性、病害虫抵抗性",
+        "heritability": "不明",
+        "response_to_selection": "在来品種の分化として観察される。"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業システムにおける本種の役割に関する直接的な研究はほぼない。評価は、植物の一般的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い繊維状の根系。塊茎収穫時に土壌は攪拌される。",
+      "organic_matter_contribution": "収穫後の地上部残渣は有機物として土壌に還元可能。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "生育期間中は地上部が土壌を覆い、侵食を軽減する。",
+      "nutrient_cycling_role": "土壌から養分を吸収する。窒素固定能力はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花した場合、シソ科の花はハチなどの花粉媒介者を引きつける可能性があるが、塊茎目的の栽培では開花させないことが多い。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "限定的。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "地上部がマルチのように機能し、土壌水分の蒸発を抑える効果がある。",
+      "runoff_reduction": "生育期間中の被覆により、ある程度の効果が期待できる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "収穫物である塊茎に炭素を蓄積するが、これは消費されるため長期的な隔離にはならない。",
+      "soil_carbon_enhancement": "残渣の鋤き込みにより土壌有機炭素の増加に寄与する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物との混作は土壌窒素を供給し、トウモロコシなどの高性作物との混作は日陰を提供し土壌水分を保持する。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物を栽培する伝統的な混作システムにおいて、食料供給の安定化に貢献する。",
+      "stress_tolerance": "耐暑性が高く、ある程度の耐乾性があるため、システムのストレス耐性を高める。",
+      "recovery_capacity": "栄養繁殖が容易なため、気象害からの回復は比較的早い。",
+      "adaptability": "多様な在来品種が存在し、地域の環境に適応している。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マイナークロップとしての再評価が進んでいるが、商業的な大規模利用は限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリーの炭水化物源として価値がある。",
+      "food_security_contribution": "気候変動下での食料安全保障、特に熱帯地域での貢献が期待される「未来の作物」の一つ。",
+      "local_food_system_integration": "地域の食文化と密接に結びついており、地産地消システムの中核を担うポテンシャルがある。",
+      "alternative_protein_potential": "低い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エスニック食品市場",
+        "健康志向食品市場（グルテンフリーなど）"
+      ],
+      "value_added_products": [
+        "チップス",
+        "フラワー（粉）",
+        "加工食品の原料"
+      ],
+      "niche_market_value": "伝統野菜や珍しい食材として、都市部のレストランや専門食料品店で高い価値を持つ可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の消失リスクは認識されているが、体系的な保全活動は十分ではない。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種については、生息地の農業開発や気候変動による脅威がある。",
+    "climate_change_vulnerability": "栽培地域が極端な干ばつや洪水に見舞われるリスクがある。",
+    "cultural_erosion_risk": "高（若い世代が栽培を放棄し、主要作物に転換する傾向があるため）",
+    "conservation_actions_needed": [
+      "在来品種の収集・評価・保存（ジーンバンク）",
+      "農家参加型の域内保全（オンファーム保全）の推進",
+      "伝統的知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "西アフリカ・サバンナ地帯",
+      "インド・西ガーツ山脈地域"
+    ],
+    "ex_situ_conservation_status": "いくつかの国際・国内ジーンバンクで限定的に保存されている。",
+    "in_situ_conservation_efforts": "小規模な地域コミュニティやNGOによる取り組みに留まっていることが多い。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIによる総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ナイジェリア中央高原",
+      "ガーナ北部",
+      "インド・ケーララ州"
+    ],
+    "knowledge_gaps": [
+      "定量的気候変動応答データ",
+      "品種ごとの栄養価と機能性成分",
+      "リジェネラティブ農業システムでの生態学的機能",
+      "野生近縁種との遺伝的関係"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名は主にインドでの呼称。アフリカでは形態的な分類（色、形）が主で、固有名詞は少ない。"
+      },
+      "variety_name": "Nadan Koorka",
+      "local_name": "നാടൻ കൂർക്ക",
+      "origin_region": "インド・ケーララ州",
+      "distinctive_characteristics": "比較的小さく、不揃いな形の塊茎。強い風味と香りを持つ。",
+      "cultural_importance": "伝統的なケーララ料理で最も好まれる在来種。",
+      "climate_adaptation": "地域のモンスーン気候によく適応している。",
+      "conservation_status": "農家によって維持されているが、改良品種に押されつつある。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "low",
+        "source_comment": "アフリカの品種は体系的に分類されておらず、これは一般的な類型。"
+      },
+      "variety_name": "Black-skinned landrace",
+      "local_name": "不明",
+      "origin_region": "西アフリカ",
+      "distinctive_characteristics": "皮が黒または濃い紫色で、中身は白い。貯蔵性が比較的高いとされる。",
+      "cultural_importance": "地域によって特定の調理法や用途がある可能性がある。",
+      "climate_adaptation": "乾燥地帯での栽培に適応している系統が多いと推測される。",
+      "conservation_status": "不明。遺伝的浸食のリスクが高い。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-06-15",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Vegetable Center (AVRDC) publications",
+      "Plants For A Future (PFAF) database",
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "Ethnobiology and ethnomedicine academic journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "遺伝的多様性の網羅的評価"
+    ],
+    "regional_data_coverage": "南アジアと西アフリカに偏っており、他の地域での情報は非常に少ない。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "野生近縁種の分布と保全状況"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

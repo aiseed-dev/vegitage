@@ -1,0 +1,603 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸植物としての情報は豊富だが、伝統野菜としての栽培・栄養・気候変動適応に関する定量的データは乏しい。本データは園芸情報と、近縁野生種（V. tricolor, V. odorata等）の民族植物学的記録を統合して作成。"
+    },
+    "primary_name": "Pansy",
+    "scientific_name": "Viola × wittrockiana",
+    "plant_type": "一年草/多年草",
+    "edible_parts": [
+      "花",
+      "葉"
+    ],
+    "origin_region": "ヨーロッパ（園芸交雑種）",
+    "wild_relatives": [
+      "Viola tricolor",
+      "Viola lutea",
+      "Viola altaica",
+      "Viola cornuta"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な園芸・植物学データベースからの情報を統合。文化的名称は主にヨーロッパの民間伝承に由来する。"
+    },
+    "international": {
+      "en": [
+        "Pansy",
+        "Garden Pansy"
+      ],
+      "scientific_common": "Garden Pansy"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Pensée",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Stiefmütterchen",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Pensamiento",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Viola del pensiero",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "パンジー",
+            "script": "Kana"
+          },
+          {
+            "lang": "zh",
+            "name": "三色堇",
+            "script": "Hans"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ヨーロッパの民間伝承",
+        "name": "Heartsease (Viola tricolor)",
+        "cultural_significance": "「心の安らぎ」を意味し、恋の悩みや心の痛みを癒すハーブとして信じられていた。シェイクスピアの作品にも登場し、思考や愛の象徴とされた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Violet family",
+      "la": "Violaceae"
+    },
+    "genus": {
+      "en": "Violet",
+      "la": "Viola"
+    },
+    "species": {
+      "en": "Garden Pansy",
+      "la": "× wittrockiana"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Hybrid Formula",
+        "name": "Viola tricolor × V. lutea × V. altaica"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸文化における価値は高いが、食文化における重要性は限定的。歴史的意義は主に祖先種であるViola tricolorに由来する。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "儀式用",
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "主に観賞用。象徴主義（思考、愛）からヴィクトリア朝時代の「花言葉」で重要視された。祖先種はハーブとして皮膚病や呼吸器疾患に利用された。現代ではエディブルフラワーとして料理の装飾に使われる。",
+        "seasonal_significance": "春の訪れを告げる花として重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "ヨーロッパから導入された観賞用植物として広く普及。エディブルフラワーとしての利用は近年増加傾向にある。",
+        "seasonal_significance": "春と秋のガーデニングで一般的。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "現代西洋料理 (Nouvelle Cuisine, etc.)",
+        "role": "rare",
+        "traditional_dishes": [
+          "サラダの装飾",
+          "デザートのトッピング",
+          "カクテルのガーニッシュ"
+        ],
+        "preparation_methods": [
+          "生食",
+          "砂糖漬け（クリスタライズ）"
+        ],
+        "cultural_context": "料理に彩りと季節感を加えるための、視覚的な要素として利用されることが多い。伝統料理ではなく、現代的な美食の文脈で価値を持つ。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "祖先種であるViola tricolor（Heartsease）は古代ギリシャ時代から知られ、ヨーロッパのハーブ医学で利用されてきた。",
+      "trade_routes": "交易品としての歴史的役割はほとんどない。",
+      "cultural_exchange": "19世紀にイギリスで園芸交配種として作出され、世界中の温帯地域に観賞用植物として広まった。",
+      "domestication_history": "19世紀初頭、ウィリアム・トンプソン卿によってイギリスでViola tricolor, V. lutea, V. altaicaの交配が開始され、現代のパンジーが誕生した。目的は食料ではなく、より大きく、より色鮮やかな花を作ることだった。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に極めて弱く、生育は困難。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の冷涼な期間に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春と秋が最適な生育期。夏期の高温は生育を阻害する。最適生育温度は10-20℃。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "厳しい冬を越すための耐寒性品種があるが、基本的には春から初夏の栽培が中心。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に弱く、安定した灌漑が必要。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "祖先種には高山性のものがあり、冷涼な気候を好むため適性がある。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "秋または早春",
+        "harvest_season": "春から初夏（食用花として）",
+        "growing_period_days": "90-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "温度",
+        "水分供給",
+        "施肥管理",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "オランダ",
+          "production_share": null,
+          "characteristics": "世界最大の観賞用植物生産国の一つであり、種子・苗の主要供給源。"
+        },
+        {
+          "country": "アメリカ",
+          "production_share": null,
+          "characteristics": "国内のガーデニング市場向けに大規模な苗生産が行われている。"
+        },
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "品種改良が盛んで、多様な園芸品種が生産・消費されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "エディブルフラワーとしての栄養価データは非常に限定的。機能性成分に関する研究は存在するが、食品としての標準的な栄養分析は不足している。伝統的薬用利用は主に祖先種に関するものである。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンA（カロテノイドとして）",
+          "amount": "不明",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントシアニン",
+        "concentration": "品種の色による",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド（ルチン、ビオランチン）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、毛細血管強化"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "去痰作用、抗炎症作用（過剰摂取で消化器刺激の可能性）"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ医学",
+        "uses": [
+          "皮膚疾患（湿疹、にきび）",
+          "呼吸器系の不調（気管支炎、咳）",
+          "利尿作用"
+        ],
+        "preparation": "乾燥させた地上部を煎じ薬（ティー）やシロップとして利用（主にViola tricolor）。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "花弁に含まれるアントシアニンの抗酸化活性に関する研究",
+        "Viola属植物の抗炎症作用に関する研究"
+      ],
+      "safety_considerations": "一般的に安全とされるが、サポニンを含むため、極端な大量摂取は消化器系の不調を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "エディブルフラワーとしての利用法は、現代料理の文献やガイドで広く記述されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界（主に西洋文化圏）",
+        "methods": [
+          "生食",
+          "砂糖漬け",
+          "シロップ",
+          "氷への封入"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "グリーンサラダ",
+          "ケーキ、ペストリー",
+          "チーズプレート",
+          "カクテル、ハーブティー"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "砂糖漬け（クリスタライズド・フラワー）",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "水分が抜け、食感がカリッとする。色と形が長期間保持される。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界"
+        ],
+        "shelf_life": "一年以上",
+        "quality_changes": "色や香りは薄れるが、ハーブティーなどに利用可能。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな甘みと、わずかな草の香り。品種によっては冬のメロンのような風味や、かすかなミント香を持つものもある。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "柔らかく、繊細でベルベットのような舌触り。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "パンジーの気候変動適応に関する直接的な研究はほとんどない。以下の評価は、冷涼な気候を好むという基本的な栽培特性からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-20°C",
+      "extreme_heat_survival": "30℃を超えると生育が著しく悪化し、枯死することがある。",
+      "cold_tolerance": "品種により-15℃程度まで耐えるが、開花は停止する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "安定した土壌水分が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い。花や茎が傷つきやすい。",
+      "hail_damage_recovery": "低い。",
+      "rapid_temperature_change": "中程度の適応。急な寒の戻りには比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中程度。高山性の祖先種を持つため、一定の耐性は考えられる。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやナメクジの活動期間が長くなることで被害が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境では、灰色かび病や根腐れ病のリスクが高まる。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域の春・秋、亜熱帯地域の冬",
+        "2050_projection": "温帯地域での栽培可能期間が短縮（春がより早く終わり、秋の開始が遅れる）。高緯度地域や高地での栽培適性が向上する可能性。",
+        "2100_projection": "現在の温帯地域の多くで、夏の暑さが厳しくなり、栽培がより困難になる可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Viola属は種間交雑が容易なことで知られており、パンジー自体の成立がその証拠である。園芸育種の歴史が豊富。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全ての園芸パンジー品種間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Viola cornuta（ビオラ）との交雑が容易。",
+        "Viola tricolorや他の近縁野生種との戻し交配も可能。"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "パンジーとビオラが栽培されている場所で、自然交雑が観察されることがある。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "園芸交配種のため、在来品種は存在しない。しかし、数百の商業品種が存在し、形態的多様性は高い。",
+      "wild_gene_pool": "Viola属の数百の野生種が、耐病性、耐暑性、耐寒性などの新たな形質を導入するための巨大な遺伝子プールとなっている。",
+      "adaptive_genetic_variation": "商業品種は特定の美的基準で選抜されており、適応的な遺伝的多様性は限定的かもしれないが、育種の素地となる遺伝的多様性は高い。",
+      "inbreeding_depression_risk": "F1品種が多いため、自家採種した後代では近交弱勢が見られる。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種（例：高山性のV. luteaや耐暑性を持つ地域の種）と交配することで、耐暑性や耐寒性を向上させる潜在的可能性が高い。",
+      "improved_nutritional_content": "野生種が持つ機能性成分を導入できる可能性があるが、研究は行われていない。",
+      "novel_characteristics": "花の形、色、香り、生育習性など、多様な新規特性の獲得が可能。",
+      "hybrid_vigor_potential": "F1品種で広く利用されており、生育の旺盛さや開花持続性に貢献している。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部のViola種間では染色体数の違いなどにより交雑障壁が存在する。",
+      "chromosome_compatibility": "多くの種で互換性があるが、倍数性が異なる場合は困難が生じることがある。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "育種プログラムで一般的に行われている。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "パンジーをリジェネラティブ農業システムに組み込んだ研究や実践例はほぼ存在しない。評価は植物の一般的な特性からの推測。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、細かいひげ根。土壌の深層改良効果は低い。",
+      "organic_matter_contribution": "植物体が小さいため、有機物の還元量は少ない。",
+      "soil_structure_improvement": "限定的。地表面を覆うことによる団粒構造の保護効果は多少ある。",
+      "erosion_control": "地被植物として利用した場合、表土の雨滴侵食を軽減する効果がある。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "春先のミツバチやマルハナバチなど、多様な花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシやヒラタアブなどを引き寄せる可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "開花期間が長く、地域の生態系に彩りと食料資源を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表面を覆うことで、水の浸透をわずかに助ける可能性がある。",
+      "moisture_retention": "マルチング効果は限定的。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "影響は軽微。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。",
+      "below_ground_carbon": "低い。",
+      "soil_carbon_enhancement": "影響は軽微。",
+      "carbon_sequestration_rate": "無視できるレベル。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "野菜畑の畝間に植えることで、花粉媒介者を引き寄せ、一部野菜（イチゴなど）の受粉を助ける可能性がある。"
+      ],
+      "natural_pest_control": "バンカープランツとして、天敵昆虫を維持する役割が期待できる可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "生物多様性を高めることで、システムの安定性にわずかに貢献する可能性がある。",
+      "stress_tolerance": "植物個体のストレス耐性は低い。",
+      "recovery_capacity": "低い。",
+      "adaptability": "品種レベルでは低いが、属レベルでは高い。"
+    },
+    "regenerative_score": 4
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "エディブルフラワー市場や園芸市場におけるトレンドは明確である。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "主要な栄養源ではないが、食事に多様性と微量の機能性成分を加える。",
+      "food_security_contribution": "貢献はほぼない。",
+      "local_food_system_integration": "小規模農家や都市農業において、レストラン向けの高付加価値ニッチ作物として栽培可能。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エディブルフラワー市場の成長",
+        "自然食品・健康食品市場でのハーブティー原料",
+        "化粧品業界での天然色素や抽出物の利用"
+      ],
+      "value_added_products": [
+        "クリスタライズド・パンジー",
+        "パンジーのシロップやリキュール",
+        "乾燥パンジー（ハーブティー用）",
+        "パンジー入り焼き菓子"
+      ],
+      "niche_market_value": "非常に高い。生鮮のエディブルフラワーは、高級レストランや製菓業界で高値で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸交配種自体の保全優先度は低いが、遺伝資源となる野生近縁種の保全が極めて重要である。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "パンジーの祖先種を含む多くの野生Viola種は、生息地の開発、環境汚染、気候変動により脅威にさらされている。",
+    "climate_change_vulnerability": "高山性や特定の気候に適応した野生近縁種は、気候変動に対して特に脆弱である。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "野生近縁種の生息域内（in-situ）保全",
+      "種子バンクなどでの生息域外（ex-situ）保全",
+      "伝統的な薬用利用に関する民族植物学的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "ヨーロッパの山岳地帯（アルプス、ピレネー）",
+      "中央アジア（アルタイ山脈）"
+    ],
+    "ex_situ_conservation_status": "主要な植物園や種子バンク（例：キュー王立植物園ミレニアム・シード・バンク）で多くのViola種が保存されている。",
+    "in_situ_conservation_efforts": "多くの生息地が国立公園や自然保護区に含まれることで保護されているが、種に特化した保全活動は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "ヨーロッパ"
+    ],
+    "knowledge_gaps": [
+      "食用利用における詳細な栄養成分と安全性評価",
+      "気候変動（特に高温）に対する生理学的応答メカニズム",
+      "リジェネラティブ農業システムにおける生態学的機能の定量的評価"
+    ],
+    "global_dictionary_compatibility": 7
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "一般的な園芸品種情報。"
+      },
+      "variety_name": "Majestic Giants II Series",
+      "local_name": "マジェスティックジャイアンツ II",
+      "origin_region": "園芸（国際）",
+      "distinctive_characteristics": "直径10cmにもなる巨大な花。ブロッチ（目玉模様）が入るのが特徴。生育旺盛。",
+      "cultural_importance": "景観用や花壇で広く利用される代表的な大輪パンジー。",
+      "climate_adaptation": "標準的な耐寒性を持つが、耐暑性は低い。",
+      "conservation_status": "保全対象外（商業品種）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "一般的な園芸品種情報。"
+      },
+      "variety_name": "Cool Wave® Series",
+      "local_name": "クールウェーブ",
+      "origin_region": "園芸（国際）",
+      "distinctive_characteristics": "匍匐性（トレーリング）で、ハンギングバスケットやグランドカバーに向く。開花期間が非常に長い。",
+      "cultural_importance": "新しい利用法を提案した画期的な品種シリーズ。",
+      "climate_adaptation": "比較的耐暑性・耐寒性があり、広範な気候で栽培しやすい。",
+      "conservation_status": "保全対象外（商業品種）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "The American Viola Society",
+      "Ethnobotanical literature on European medicinal plants",
+      "Horticultural breeding and variety databases"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "食用としての栄養価および機能性成分の網羅的分析"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米の情報は豊富だが、他の地域での文化的・生態的データは限定的。",
+    "missing_information": [
+      "世界的な食用生産量・流通量",
+      "伝統的な非ヨーロッパ文化圏での利用事例"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（KEW, GRIN）および民族植物学の文献から統合。原産地については議論がある点を注記。"
+    },
+    "primary_name": "Cluster Mallow",
+    "scientific_name": "Malva verticillata",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "花",
+      "種子"
+    ],
+    "origin_region": "東アジア（栽培種の起源として有力）またはヨーロッパ・西アジア（野生種の分布域）",
+    "wild_relatives": [
+      "Malva sylvestris",
+      "Malva neglecta",
+      "Malva crispa (しばしば本種の変種とされる)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物名データベース、料理書、民族植物学研究から収集。"
+    },
+    "international": {
+      "en": [
+        "Cluster Mallow",
+        "Curled Mallow",
+        "Chinese Mallow"
+      ],
+      "scientific_common": "Verticillate Mallow"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "オカノリ (Okanori)",
+            "script": "Kanji/Kana"
+          },
+          {
+            "lang": "zh",
+            "name": "冬葵 (Dōng kuí)",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "아욱 (Auk)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Mauve crépue",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Quirl-Malve",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Mallow family",
+      "la": "Malvaceae"
+    },
+    "genus": {
+      "en": "Mallow",
+      "la": "Malva"
+    },
+    "species": {
+      "en": "Cluster Mallow",
+      "la": "verticillata"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "Malva verticillata var. crispa (時に別種 M. crispa として扱われる)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジアでの文化的価値に関する記録は豊富だが、他地域での現代的な重要性に関するデータは限定的。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "歴史的食料"
+        ],
+        "traditional_uses": "韓国ではアウクク（味噌汁）として国民的なスープの材料。中国では古代五菜の一つとして数えられ、薬食同源の思想で利用されてきた。日本では粘液質の食感を海苔に見立て「陸の海苔（オカノリ）」として珍重される。",
+        "seasonal_significance": "主に春から夏にかけての緑黄色野菜として重要。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "薬用",
+          "救荒食"
+        ],
+        "traditional_uses": "歴史的に薬草（鎮咳、緩下）として、また飢饉の際の食料として利用された。現代では一般的な野菜としての地位は低い。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "韓国料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "아욱국 (Aukguk)"
+        ],
+        "preparation_methods": [
+          "煮込み"
+        ],
+        "cultural_context": "家庭料理の代表格であり、母の味として親しまれることが多い。"
+      },
+      {
+        "cuisine": "中華料理（伝統）",
+        "role": "common",
+        "traditional_dishes": [
+          "冬葵湯 (Dōng kuí tāng)"
+        ],
+        "preparation_methods": [
+          "炒め物",
+          "スープ"
+        ],
+        "cultural_context": "古代から利用される薬膳食材としての側面が強い。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国最古の詩集『詩経』に記載があり、少なくとも3000年前から栽培・利用されている。",
+      "trade_routes": "古代アジアの交易路を通じて日本や朝鮮半島に伝播したと考えられる。",
+      "cultural_exchange": "東アジア文化圏における食文化と本草学の共有を示す代表的な植物。",
+      "domestication_history": "中国で栽培化されたと考えられているが、詳細なプロセスは不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な季節での栽培が適する。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "秋から春にかけての栽培に適する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけて広く栽培可能。最適。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "霜の危険が去った後に栽培可能。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑があれば栽培可能だが、適さない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春、秋",
+        "harvest_season": "初夏、晩秋",
+        "growing_period_days": "40-60"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照",
+        "水分",
+        "土壌肥沃度",
+        "栽培密度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "主に国内消費向けの小規模・中規模生産が多い。"
+        },
+        {
+          "country": "韓国",
+          "production_share": "不明",
+          "characteristics": "国内市場向けに安定的に生産されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や地域による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約25-35",
+        "protein_g": "2.0-3.0",
+        "carbs_g": "4.0-6.0",
+        "fat_g": "0.3-0.5",
+        "fiber_g": "1.5-2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "高",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "高",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "高",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "中",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "粘液質多糖類",
+        "concentration": "高",
+        "health_effect": "消化器粘膜保護、血糖値上昇抑制"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "中",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "利尿",
+          "緩下",
+          "催乳",
+          "清熱解毒"
+        ],
+        "preparation": "全草または種子（冬葵子）を煎じて服用。"
+      },
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "鎮咳",
+          "咽頭炎の緩和",
+          "胃炎の緩和"
+        ],
+        "preparation": "葉や花をハーブティーとして利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "血糖降下作用",
+        "免疫調節機能"
+      ],
+      "safety_considerations": "一般的に安全とされるが、過剰摂取は下痢を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアの料理文化における利用法は広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "煮る（スープ）",
+          "茹でる（おひたし）",
+          "炒める"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "味噌",
+          "醤油",
+          "ニンニク",
+          "魚介だし"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "韓国",
+          "中国"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "風味は落ちるが、スープ等で戻して利用可能。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかでわずかな青臭みと甘み。クセがない。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "加熱すると粘液質（ムチン質）によるぬめり、とろみが出る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C程度まで耐えるが、生育は阻害される。",
+      "cold_tolerance": "-5°C程度までの軽い霜には耐える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が倒れやすいが、回復力はある。",
+      "hail_damage_recovery": "葉物野菜のため被害は大きいが、再生能力は比較的高い。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物として、CO2濃度上昇により光合成が促進される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやヨトウムシ類の発生時期・期間が変化する可能性。",
+      "disease_resistance_stability": "高温多湿環境でさび病などが増加するリスク。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯全域、亜熱帯の冬季",
+        "2050_projection": "温帯域での栽培期間が拡大し、高緯度地域での栽培が可能になる可能性がある。",
+        "2100_projection": "現在の亜熱帯域では夏季の栽培が困難になる一方、亜寒帯地域が新たな適地となる可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Malva属内での交雑は知られているが、本種に関する具体的な自然交雑事例や遺伝的多様性に関する定量的研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Malva verticillata var. crispa"
+      ],
+      "interspecific_compatibility": [
+        "Malva sylvestris",
+        "Malva neglecta など近縁種と交雑の可能性あり。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な記録は少ないが、逸出した個体群では発生している可能性がある。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "東アジアの伝統的栽培地には多様な在来種が存在すると推定される。",
+      "wild_gene_pool": "ヨーロッパやアジアに広く分布する野生・半野生の個体群が遺伝子プールとして機能する。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "自家和合性があるため、小集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐病性を持つ野生種との交雑により、耐性向上の可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "葉の形状、粘液質の程度、花色などの形質が変化する可能性がある。",
+      "hybrid_vigor_potential": "高い可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "近縁種とは比較的高いと予想される。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、病害虫、除草剤",
+        "adaptive_traits": "深い根系、特定の病害虫への耐性、早い生育速度",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種を対象としたリジェネラティブ農業の研究はほとんどない。評価はアオイ科植物の一般的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的深い直根を持ち、土壌の物理性を改善する可能性がある。",
+      "organic_matter_contribution": "生育が旺盛で、収穫残渣は良質な有機物として土壌に還元される。",
+      "soil_structure_improvement": "根による土壌団粒構造の形成促進が期待される。",
+      "erosion_control": "生育初期の被覆力は中程度。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチやハナアブなど多様な花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の発達により土壌への水の浸透を助ける可能性がある。",
+      "moisture_retention": "土壌被覆により表土の乾燥を防ぐ。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "直根性のため、地下部への炭素蓄積ポテンシャルは中程度と推定。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（地力増進）、芳香性ハーブ（害虫忌避）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "報告なし。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な訪花昆虫を誘引し、生態系の安定に貢献する。",
+      "stress_tolerance": "比較的高い。",
+      "recovery_capacity": "高い。",
+      "adaptability": "高い。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な応用は主にコンセプト段階であり、商業的な成功事例は限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン・ミネラルが豊富な緑黄色野菜として価値が高い。",
+      "food_security_contribution": "栽培が容易で強健なため、家庭菜園や小規模農業での食料確保に貢献する。",
+      "local_food_system_integration": "地域の気候に適応しやすく、地産地消に適している。",
+      "alternative_protein_potential": "低い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "伝統野菜・健康食品としてのニッチ市場",
+        "エスニック食材店"
+      ],
+      "value_added_products": [
+        "乾燥野菜（スープ用）",
+        "健康茶",
+        "化粧品原料（粘液質）"
+      ],
+      "niche_market_value": "高いポテンシャルを持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは指摘されているが、定量的な評価は行われていない。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "伝統的な栽培地の都市化や近代農業への転換。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "在来種の探索と収集",
+      "種子バンクでの系統保存（ex-situ）",
+      "伝統的栽培農家への支援（in-situ）",
+      "食文化の継承活動"
+    ],
+    "priority_conservation_regions": [
+      "中国の雲南省・四川省",
+      "朝鮮半島",
+      "日本の山間地域"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには一部収集されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的。一部の地域でNPOや地方自治体による保全活動が存在する。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIによる総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "韓国（食文化と栽培）",
+      "中国（遺伝的多様性と薬用利用）",
+      "ヨーロッパ（野生化個体群の適応）"
+    ],
+    "knowledge_gaps": [
+      "気候変動ストレス（高温、乾燥）に対する定量的応答データ",
+      "在来品種の遺伝的多様性の網羅的評価",
+      "リジェネラティブ農業システムにおける具体的な効果測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "学術的に確立された品種分類は乏しく、地域ごとの在来系統群として認識されていることが多い。"
+      },
+      "variety_name": "在来系統群（日本）",
+      "local_name": "オカノリ",
+      "origin_region": "日本",
+      "distinctive_characteristics": "比較的葉が柔らかく、粘り気が強い系統が好まれる。",
+      "cultural_importance": "伝統的な和え物（おひたし）や汁物の具として利用される。",
+      "climate_adaptation": "日本の温帯気候に適応している。",
+      "conservation_status": "一部の農家や家庭菜園で維持されているが、市場流通は稀。"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "学術的に確立された品種分類は乏しく、地域ごとの在来系統群として認識されていることが多い。"
+      },
+      "variety_name": "在来系統群（韓国）",
+      "local_name": "아욱 (Auk)",
+      "origin_region": "韓国",
+      "distinctive_characteristics": "スープ（クク）での利用に適した、葉が大きくしっかりした系統が多い。",
+      "cultural_importance": "韓国の国民的スープ「アウクク」に不可欠な食材。",
+      "climate_adaptation": "朝鮮半島の気候に適応している。",
+      "conservation_status": "市場に広く流通しており、比較的安定しているが、品種の画一化が進んでいる可能性あり。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "GRIN-Global Taxonomy",
+      " ethnobotany and agricultural science journals",
+      "regional culinary literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "遺伝的多様性の網羅的解析"
+    ],
+    "regional_data_coverage": "東アジアに関する情報は豊富だが、他の地域については限定的。",
+    "missing_information": [
+      "商業生産に関する統計データ",
+      "品種ごとの詳細な栄養価分析"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

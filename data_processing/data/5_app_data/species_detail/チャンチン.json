@@ -1,0 +1,585 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、民族植物学の研究、農業論文から情報を統合。基本的な植物学的情報は十分に確立されている。"
+    },
+    "primary_name": "Chinese Toon",
+    "scientific_name": "Toona sinensis",
+    "plant_type": "木本",
+    "edible_parts": [
+      "葉"
+    ],
+    "origin_region": "東アジア、東南アジア（特に中国北部および中部）",
+    "wild_relatives": [
+      "Toona ciliata",
+      "Toona sureni"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジアでの名称は豊富だが、他の地域や先住民コミュニティにおける名称の情報は限定的。"
+    },
+    "international": {
+      "en": [
+        "Chinese Toon",
+        "Chinese Mahogany",
+        "Red Toon"
+      ],
+      "scientific_common": "Chinese Toon"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "香椿",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "チャンチン",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ko",
+            "name": "참죽나무",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Tông dù",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ยมหอม",
+            "script": "Thai"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な植物分類。"
+    },
+    "family": {
+      "en": "Mahogany family",
+      "la": "Meliaceae"
+    },
+    "genus": {
+      "en": "Toon",
+      "la": "Toona"
+    },
+    "species": {
+      "en": "Chinese Toon",
+      "la": "sinensis"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivar",
+        "name": "多数の栽培品種が存在（例：'Hongyou' (紅油), 'Heiyou' (黒油)）"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "中国文化における価値に関する情報は豊富だが、他の文化圏での情報は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "季節の象徴"
+        ],
+        "traditional_uses": "中国では「樹上の野菜」として知られ、春の訪れを告げる最初の味覚として珍重される。若芽を摘んで食す文化が深く根付いている。",
+        "seasonal_significance": "春季限定の食材であり、季節感を非常に重視する東アジアの食文化において重要な位置を占める。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "中華料理（特に北部・中部）",
+        "role": "essential",
+        "traditional_dishes": [
+          "香椿炒鶏蛋 (チャンチンの卵炒め)",
+          "香椿拌豆腐 (チャンチンと豆腐の和え物)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "和える",
+          "漬物にする"
+        ],
+        "cultural_context": "春の家庭料理の定番であり、漢方医学の思想に基づき、冬の間に体内に溜まったものを排出する効果があるとされる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "漢王朝時代（紀元前206年 - 220年）にはすでに食用や薬用として利用されていた記録がある。",
+      "trade_routes": "主要な国際交易品ではなかったが、地域内の文化交流を通じて東アジアに広まった。",
+      "cultural_exchange": "仏教僧などを通じて日本や朝鮮半島に伝播した可能性がある。",
+      "domestication_history": "長い栽培の歴史の中で、香りや色（赤芽、緑芽など）の異なる多様な地方品種が選抜されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "冬の低温期間が必要なため不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "温暖で湿潤な気候。高品質な若芽の生産に適している。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "明確な四季があり、-20℃程度の低温にも耐える。広範な温帯地域で栽培可能。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さにも耐えるが、極端な乾燥は好まない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "一定の湿度を必要とし、極度の乾燥地には不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高地の厳しい寒さや短い生育期間には不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "早春（4月〜5月）",
+        "growing_period_days": 1825
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "樹齢",
+        "気候条件",
+        "土壌肥沃度",
+        "収穫頻度（若芽）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 95,
+          "characteristics": "山東省、河南省、安徽省などで商業的な大規模栽培と、家庭菜園での小規模栽培が混在。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な栄養素に関するデータは存在するが、機能性成分の含有量は品種や栽培条件による変動が大きく、研究途上である。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "40",
+        "protein_g": "9.8",
+        "carbs_g": "7.2",
+        "fat_g": "0.8",
+        "fiber_g": "1.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "40mg",
+          "daily_value_percent": "44"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "650µg RAE",
+          "daily_value_percent": "72"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "110mg",
+          "daily_value_percent": "8"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ルチン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、毛細血管強化"
+      },
+      {
+        "compound": "ケルセチン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "揮発性硫黄化合物",
+        "concentration": "不明",
+        "health_effect": "特有の香りの源、抗菌作用の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学 (TCM)",
+        "uses": [
+          "解毒",
+          "止血",
+          "下痢止め",
+          "抗炎症"
+        ],
+        "preparation": "樹皮や根皮を煎じて内服、または粉末にして外用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化作用",
+        "抗がん作用（in vitro）",
+        "抗炎症作用",
+        "血糖降下作用"
+      ],
+      "safety_considerations": "若芽には亜硝酸塩と硝酸塩が含まれるため、調理前に湯通し（ブランチング）することが強く推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "中国の食文化における利用法に関する情報は非常に豊富。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒め物",
+          "和え物",
+          "スープ",
+          "天ぷら",
+          "塩漬け"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "卵",
+          "豆腐",
+          "小麦粉（衣として）",
+          "塩",
+          "ごま油"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け",
+        "regions": [
+          "中国"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "香りは保持されるが、食感は柔らかくなり、色は暗緑色に変化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "非常に強い独特の芳香。ネギ、ニンニク、ナッツを混ぜたような風味で、うま味が強い。",
+      "aroma_compounds": [
+        "ジメチルスルフィド",
+        "ジメチルジスルフィド"
+      ],
+      "texture_characteristics": "若芽は柔らかく、シャキシャキとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な耐性データは不足しているが、その広範な分布と樹木としての特性から定性的な推定は可能。将来予測は一般的な樹木モデルに基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "約38°C",
+      "cold_tolerance": "約-25°C"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（成木は比較的強いが、若木は損傷しやすい）",
+      "hail_damage_recovery": "高（落葉樹であり、新しい芽を出す能力が高い）",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中（一般的なC3植物として、CO2濃度上昇により光合成が促進される可能性がある）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "チャンチンミガ（Hypsipyla robusta）の発生地域が温暖化に伴い北上・拡大するリスクがある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯・亜熱帯地域",
+        "2050_projection": "栽培適地がやや高緯度・高標高にシフトする可能性",
+        "2100_projection": "現在の主要産地の一部で夏の高温ストレスが増加する可能性",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属他種との交雑親和性に関する科学的データは非常に限定的。遺伝的多様性に関する情報は主に栽培品種の形態的特徴に基づいている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Toona ciliataなどの近縁種との交雑可能性は理論的に存在するが、自然界での報告は稀。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中国各地に香り、色、収穫時期の異なる多数の在来品種が存在し、高い遺伝的多様性を示唆する。",
+      "wild_gene_pool": "野生集団は栽培品種の遺伝的基盤として重要だが、その関係性の詳細は不明。",
+      "adaptive_genetic_variation": "広範な気候帯に分布していることから、地域適応した遺伝的変異の存在が強く示唆される。",
+      "inbreeding_depression_risk": "栄養繁殖（根萌芽）が容易なため、単一クローンの栽培ではリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "中国北部 vs 南部",
+        "environmental_pressure": "冬の低温 vs 夏の高温多湿",
+        "adaptive_response": "耐寒性の強い品種と耐暑性の強い品種への分化",
+        "time_scale": "数百年以上",
+        "mechanism": "地域環境への自然選択と人間による選抜"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐病性や特定の気候（乾燥、高温）への耐性を近縁種から導入できる可能性がある。",
+      "improved_nutritional_content": "機能性成分の含有量を高める育種の可能性がある。",
+      "novel_characteristics": "香りの質や収穫期間の異なる新品種の作出。",
+      "hybrid_vigor_potential": "高い（特に遠縁の在来種間交配において）"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "チャンチンミガ（Hypsipyla robusta）による食害",
+        "adaptive_traits": "忌避成分の生産、芽吹きのタイミングのずれ",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "チャンチンに特化した研究は少ないが、落葉広葉樹としての一般的な生態学的機能から高い適性が推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く広く張る直根および側根を持ち、土壌の物理性を改善する。",
+      "organic_matter_contribution": "毎年大量の落ち葉を供給し、土壌有機物と腐植を豊かにする。",
+      "soil_structure_improvement": "根系が土壌団粒構造の発達を促進し、通気性・保水性を高める。",
+      "erosion_control": "樹冠が雨滴の衝撃を和らげ、根系が土壌を保持するため、侵食防止効果が高い。",
+      "nutrient_cycling_role": "深層から養分を吸い上げ、落葉を通じて表層に還元する「養分ポンプ」として機能する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "初夏に咲く花はミツバチや他の訪花昆虫にとって重要な蜜源となる。",
+      "beneficial_insect_habitat": "樹皮や枝は多様な昆虫の生息地を提供する。",
+      "soil_microorganism_interaction": "根圏は菌根菌など多様な土壌微生物との共生関係を育む。",
+      "above_ground_biodiversity": "鳥類の営巣場所や採餌場所となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る土壌孔隙が水の浸透を促進する。",
+      "moisture_retention": "落葉層が土壌表面の蒸発を防ぎ、保水性を高める。",
+      "runoff_reduction": "樹冠と落葉層が地表流出を大幅に削減する。",
+      "groundwater_recharge": "浸透能の向上により地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "樹幹、枝、葉に炭素を固定する。",
+      "below_ground_carbon": "広範な根系に炭素を蓄積する。",
+      "soil_carbon_enhancement": "落葉や根の分解物を通じて土壌炭素貯留量を増加させる。",
+      "carbon_sequestration_rate": "中程度（成長速度に依存）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "豆類（窒素固定）",
+        "日陰を好むハーブ類"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "菌根ネットワークを介した養分共有の可能性。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "アグロフォレストリーシステムに組み込むことで、生態系の安定性を高める。",
+      "stress_tolerance": "干ばつなどの気候ストレスに対するシステム全体の緩衝能力を高める。",
+      "recovery_capacity": "多年生樹木であるため、一度確立すれば長期的に安定した生産と生態系サービスを提供する。",
+      "adaptability": "多様な作物との組み合わせが可能で、システム設計の柔軟性が高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現在のトレンドと植物の特性に基づいた将来性の評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "タンパク質と微量栄養素が豊富な「葉物野菜」として価値が高い。",
+      "food_security_contribution": "多年生の食料源として、特に春先の端境期における食料供給に貢献する可能性がある。",
+      "local_food_system_integration": "家庭菜園や小規模農園に適しており、地域の食料自給率向上に貢献できる。",
+      "alternative_protein_potential": "乾燥・粉末化することで、植物性プロテイン源としての利用可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "欧米の高級レストランやアジア系食料品店でのニッチな需要",
+        "健康志向の消費者向けの機能性食品"
+      ],
+      "value_added_products": [
+        "チャンチンソース、ペースト",
+        "塩漬け、ピクルス",
+        "乾燥粉末（サプリメント、調味料）"
+      ],
+      "niche_market_value": "「春の珍味」としての季節限定の高級食材としての価値が高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "保全状況に関する公式な評価は少ないが、一般的な傾向からの推定。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生集団は森林伐採の脅威に晒されている可能性がある。",
+    "climate_change_vulnerability": "中（病害虫の拡大リスクが主な懸念）",
+    "cultural_erosion_risk": "高（特に中国以外の地域や若い世代において、食文化の継承が課題）",
+    "conservation_actions_needed": [
+      "各地の在来品種の収集、特性評価、および遺伝資源としての保存（ジーンバンク）",
+      "伝統的な利用法に関する知識の記録と普及"
+    ],
+    "priority_conservation_regions": [
+      "中国の雲南省、四川省など遺伝的多様性の中心地と考えられる地域"
+    ],
+    "ex_situ_conservation_status": "いくつかの植物園や遺伝資源バンクで保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "特定の保護区内での自生集団の保全活動は存在するが、限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本JSON内の全情報を統合した専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中国（遺伝的多様性と伝統的知識）",
+      "北米・ヨーロッパ（新規導入作物としての適応性評価）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "主要害虫（チャンチンミガ）の生態と温暖化影響",
+      "在来品種間の遺伝的関係性の解明"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "中国国内の農業情報に基づくが、国際的な学術文献は少ない。"
+      },
+      "variety_name": "Hongyou Toon (紅油椿)",
+      "local_name": "紅油椿",
+      "origin_region": "中国",
+      "distinctive_characteristics": "若芽が鮮やかな赤紫色で、香りが非常に強く、油分が多い。最高級品とされる。",
+      "cultural_importance": "最も人気があり、市場価値が高い栽培品種。",
+      "climate_adaptation": "一般的",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "中国国内の農業情報に基づくが、国際的な学術文献は少ない。"
+      },
+      "variety_name": "Heiyou Toon (黒油椿)",
+      "local_name": "黒油椿",
+      "origin_region": "中国",
+      "distinctive_characteristics": "若芽が緑色で、香りは赤油椿より穏やかだが、収量性が高い。耐寒性が強い。",
+      "cultural_importance": "加工用や一般家庭での消費に広く利用される。",
+      "climate_adaptation": "耐寒性が高い",
+      "conservation_status": "広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Flora of China",
+      "World Flora Online",
+      "Ethnobotanical studies in China",
+      "Agricultural science journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "近縁野生種との交雑可能性に関する遺伝学的研究"
+    ],
+    "regional_data_coverage": "データは中国に大きく偏っており、他の地域に関する情報は限定的。",
+    "missing_information": [
+      "世界的な生産統計",
+      "国際貿易データ",
+      "先住民による利用の記録"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

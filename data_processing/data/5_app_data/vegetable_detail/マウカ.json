@@ -1,0 +1,554 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な農学・民族植物学データベースからの情報を統合。特にアンデス地域の研究機関の報告に基づいているが、野生近縁種や遺伝的多様性に関する定量データは限定的。"
+    },
+    "primary_name": "Mauka",
+    "scientific_name": "Mirabilis expansa",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "茎",
+      "葉"
+    ],
+    "origin_region": "アンデス高地（ボリビア、ペルー、エクアドル）",
+    "wild_relatives": [
+      "Mirabilis prostrata",
+      "Mirabilis jalapa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "学術論文や地域データベースから収集。先住民コミュニティ内での詳細な名称多様性については情報が不足している。"
+    },
+    "international": {
+      "en": [
+        "Mauka",
+        "Chago",
+        "Andean Four O'Clock"
+      ],
+      "scientific_common": "Mauka"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Miso",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Chago",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Arracón",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Yuca de la Jalca",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アンデス高地のケチュア語話者コミュニティ",
+        "name": "Chago",
+        "cultural_significance": "伝統的な食料源であり、食料安全保障に寄与する作物。特定の儀式的意味は薄いが、地域の農文化遺産として重要視されている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類データベース（APG IV）に基づいている。"
+    },
+    "family": {
+      "en": "Four o'clock family",
+      "la": "Nyctaginaceae"
+    },
+    "genus": {
+      "en": "Four o'clock",
+      "la": "Mirabilis"
+    },
+    "species": {
+      "en": "Mauka",
+      "la": "expansa"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "民族植物学的な記録は存在するが、インカ以前の歴史については考古学的証拠が乏しく、多くは状況証拠に基づいている。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "アンデス高地（ペルー、ボリビア、エクアドル）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "高地の厳しい環境下での重要な炭水化物源。収穫後、天日に数日間晒して（soleado）、渋みを抜き甘みを増す伝統的な処理が行われる。主に自給自足用作物。",
+        "seasonal_significance": "乾季に収穫され、貯蔵食料として重要。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "アンデス伝統料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Sancochado (煮込み)",
+          "Pachamanca (石蒸し焼き) の材料として",
+          "Guiso (シチュー)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "焼く",
+          "蒸す",
+          "スープ"
+        ],
+        "cultural_context": "他のアンデス塊茎類（ジャガイモ、オカ、マシュア）と共に、地域の食料主権と生物文化多様性を支える重要な作物。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インカ帝国以前からの栽培が示唆されているが、考古学的証拠は限定的。「失われたインカの作物」の一つとして近年再評価されている。",
+      "trade_routes": "地域内の小規模な交換はあったが、広域な交易路での役割は確認されていない。",
+      "cultural_exchange": "アンデス山脈内のコミュニティ間での知識と遺伝資源の交換を通じて維持されてきた。",
+      "domestication_history": "栽培化の正確な時期と場所は不明。Mirabilis属の他の野生種から分化したと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "高地でのみ可能性あり"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "高冷地、日較差が大きい場所"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑が必要"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高2,700-3,500m、年間平均気温10-14℃、水はけの良い土壌。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "アンデス高地",
+        "planting_season": "雨季の始まり（10月-11月）",
+        "harvest_season": "乾季（5月-7月）",
+        "growing_period_days": 210
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "標高",
+        "土壌肥沃度",
+        "降水量",
+        "日照時間",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ペルー",
+          "production_share": null,
+          "characteristics": "カハマルカ州などで小規模農家による自給的栽培が中心。"
+        },
+        {
+          "country": "ボリビア",
+          "production_share": null,
+          "characteristics": "ラパス県周辺の高地コミュニティで栽培。遺伝資源の多様性が高い。"
+        },
+        {
+          "country": "エクアドル",
+          "production_share": null,
+          "characteristics": "南部山岳地帯で限定的に栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価データは存在するが、品種や栽培条件、処理法による変動に関する研究は少ない。機能性成分に関する詳細な研究は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "135",
+        "protein_g": "2.1",
+        "carbs_g": "31.5",
+        "fat_g": "0.4",
+        "fiber_g": "1.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "58 mg/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "リン",
+          "amount": "40 mg/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "不明",
+        "concentration": "不明",
+        "health_effect": "研究途上"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "高い栄養価と気候変動への適応性に関する研究"
+      ],
+      "safety_considerations": "生の状態では渋み（アストラジェント）があり、えぐみを感じることがあるため、伝統的な処理法（天日干しや茹でこぼし）が推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "調理法に関する民族植物学的記録は豊富だが、風味特性の化学的分析は少ない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アンデス",
+        "methods": [
+          "茹でる",
+          "蒸す",
+          "焼く",
+          "炒める",
+          "スープにする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "他の塊茎類（ジャガイモ、オカ）",
+          "肉（羊、リャマ）",
+          "チーズ",
+          "ハーブ（コリアンダー、ワカタイ）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Soleado（天日干し）",
+        "regions": [
+          "ペルー",
+          "ボリビア"
+        ],
+        "shelf_life": "数週間から数ヶ月（生の状態）",
+        "quality_changes": "渋みが抜け、デンプンが糖に変わり甘みが増す。食感が柔らかくなる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "処理後は、サツマイモやキャッサバに似た、ほんのりとした甘みとナッツのような風味。でんぷん質。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理後はホクホクとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "高地作物としての特性から耐寒性や耐乾性に関する定性的な評価は存在するが、気候変動シナリオ下での応答に関する定量的な実験データは非常に乏しい。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-18°C",
+      "extreme_heat_survival": "25℃以上で生育不良",
+      "cold_tolerance": "軽い霜には耐えるが、-2℃以下で地上部が枯死。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "不明",
+      "hail_damage_recovery": "中程度。塊茎が残れば再生可能。",
+      "rapid_temperature_change": "高地作物として日較差には適応している。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "伝統的な栽培地では病害虫が少ないが、栽培地拡大に伴うリスクは不明。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アンデス高地（2,700-3,500m）",
+        "2050_projection": "栽培適地がより高標高へシフトする可能性が高い。",
+        "2100_projection": "現在の栽培適地の下限が失われ、標高の高い地域でのみ栽培可能になるリスクがある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Mirabilis属内の交雑親和性に関する研究は非常に限定的。遺伝的多様性の評価も始まったばかりで、野生近縁種からの遺伝子導入の可能性は理論的なものに留まる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "色（白、黄、紫など）の異なる在来品種間での交雑は可能と推測される。"
+      ],
+      "interspecific_compatibility": [
+        "Mirabilis jalapa (オシロイバナ) との交雑可能性が指摘されているが、実証されていない。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培地域が限定されているため、全体の遺伝的多様性は低い可能性があるが、地域ごとに特有のランドレースが存在する。",
+      "wild_gene_pool": "野生の祖先種や近縁種との遺伝的関係は完全には解明されていない。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖が中心のため、遺伝的多様性が失われやすいリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、耐病性や異なる環境への適応性を向上させる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "渋みの少ない品種の作出が期待される。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 4
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "マウカに特化したリジェネラティブ農業の研究はない。評価は、伝統的なアンデス農法（混作、輪作）における役割からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "大きな塊茎を形成するが、土壌深くまで根を張るかは不明。",
+      "organic_matter_contribution": "地上部のバイオマスは中程度で、収穫後に土壌に還元される。",
+      "soil_structure_improvement": "塊茎の形成が土壌を膨軟にする可能性がある。",
+      "erosion_control": "不明",
+      "nutrient_cycling_role": "窒素固定能力はない。伝統農法ではマメ科植物と混作されることが多い。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "Mirabilis属の花は夜行性のガなどを引きつけることが知られているが、マウカでの具体的な貢献度は不明。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "不明",
+      "moisture_retention": "不明",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "塊茎に炭素を蓄積するが、土壌炭素としての安定性は不明。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科（ルピナス、ソラマメ）、キヌア、他の塊茎類（オカ、マシュア）との混作が伝統的に行われる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物を組み合わせた伝統的アグロフォレストリーシステムにおいて、生態系の安定性に貢献する。",
+      "stress_tolerance": "高地の厳しい環境への適応性がシステム全体のレジリエンスに寄与する。",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "国際的な関心は高まっているが、商業化は初期段階にある。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高エネルギーで栄養価の高い塊茎として、植物中心の食事に貢献できる。",
+      "food_security_contribution": "気候変動下での高地コミュニティの食料安全保障に貢献する潜在能力を持つ。",
+      "local_food_system_integration": "地域の食文化と生物多様性を維持するための重要な作物。",
+      "alternative_protein_potential": "限定的"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルメ市場",
+        "健康志向食品",
+        "古代作物・スーパーフード市場"
+      ],
+      "value_added_products": [
+        "チップス",
+        "フラワー（粉）",
+        "加工食品の原料"
+      ],
+      "niche_market_value": "「失われた作物」としてのストーリー性が高く、ニッチ市場での価値は高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の消失リスクは指摘されているが、定量的な評価は不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "伝統農法の衰退と土地利用の変化が脅威となっている。",
+    "climate_change_vulnerability": "栽培適地が高地へ追いやられるリスクがある。",
+    "cultural_erosion_risk": "若い世代の食生活の変化により、伝統的な栽培知識と利用法が失われるリスクが高い。",
+    "conservation_actions_needed": [
+      "遺伝資源の収集と域外保全（ジーンバンク）",
+      "域内保全プログラムの支援",
+      "伝統知識の記録と継承",
+      "市場開拓による栽培インセンティブの創出"
+    ],
+    "priority_conservation_regions": [
+      "ボリビア・ラパス県",
+      "ペルー・カハマルカ州"
+    ],
+    "ex_situ_conservation_status": "国際ポテトセンター（CIP）などで限定的に遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "地域の農家やNGOによる小規模な保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ボリビア北部高地",
+      "ペルー北部山岳地帯"
+    ],
+    "knowledge_gaps": [
+      "気候変動応答に関する生理学的データ",
+      "遺伝的多様性の網羅的評価",
+      "機能性成分の同定と評価",
+      "リジェネラティブ農業における定量的効果"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "学術的な品種登録はなく、地域農家による形態的な分類に基づいている。"
+      },
+      "variety_name": "Yellow Mauka (Miso Amarillo)",
+      "local_name": "Miso Amarillo",
+      "origin_region": "ボリビア",
+      "distinctive_characteristics": "塊茎の皮と肉が黄色。収量性が高いとされる。",
+      "cultural_importance": "ボリビアで一般的に栽培されているタイプ。",
+      "climate_adaptation": "不明",
+      "conservation_status": "Not Evaluated"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "学術的な品種登録はなく、地域農家による形態的な分類に基づいている。"
+      },
+      "variety_name": "White Mauka (Miso Blanco)",
+      "local_name": "Miso Blanco",
+      "origin_region": "ボリビア、ペルー",
+      "distinctive_characteristics": "塊茎の皮と肉が白い。風味が良いとされる。",
+      "cultural_importance": "広く栽培されているタイプ。",
+      "climate_adaptation": "不明",
+      "conservation_status": "Not Evaluated"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "International Potato Center (CIP) publications",
+      "FAO reports on neglected and underutilized species",
+      "Ethnobotanical studies in the Andean region"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種との交雑可能性に関する実証研究",
+      "機能性成分の詳細分析"
+    ],
+    "regional_data_coverage": "アンデス地域に集中。他の地域でのデータは皆無。",
+    "missing_information": [
+      "病害虫耐性の詳細",
+      "水利用効率",
+      "CO2濃度変化への応答"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

@@ -1,0 +1,655 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, Tropicos), ethnobotanical studies, and agricultural science reviews. It is a well-studied species, though often from the perspective of being a weed."
+    },
+    "primary_name": "Bracken Fern",
+    "scientific_name": "Pteridium aquilinum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "根"
+    ],
+    "origin_region": "Cosmopolitan (ほぼ全世界)",
+    "wild_relatives": [
+      "The Pteridium aquilinum species complex itself represents a global group of closely related subspecies and varieties."
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are widely documented in linguistic and ethnobotanical literature."
+    },
+    "international": {
+      "en": [
+        "Bracken",
+        "Bracken Fern",
+        "Common Bracken"
+      ],
+      "scientific_common": "Pteridium"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "わらび",
+            "script": "Hiragana/Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "고사리",
+            "script": "Hangul"
+          },
+          {
+            "lang": "zh",
+            "name": "蕨",
+            "script": "Hanzi"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Helecho común",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Fougère-aigle",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Adlerfarn",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Maori (New Zealand)",
+        "name": "rarauhe",
+        "cultural_significance": "The rhizomes (aruhe) were a historically important staple food after extensive processing."
+      },
+      {
+        "community": "Coast Salish (North America)",
+        "name": "不明",
+        "cultural_significance": "Rhizomes were roasted in pits, peeled, and eaten as a source of starch. The knowledge is highly specific to community."
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomy is well-established, though the subspecific classification is complex and subject to revision."
+    },
+    "family": {
+      "en": "Bracken family",
+      "la": "Dennstaedtiaceae"
+    },
+    "genus": {
+      "en": "Bracken",
+      "la": "Pteridium"
+    },
+    "species": {
+      "en": "Common Bracken",
+      "la": "aquilinum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "Pteridium aquilinum subsp. aquilinum"
+      },
+      {
+        "rank": "subsp.",
+        "name": "Pteridium aquilinum subsp. caudatum"
+      },
+      {
+        "rank": "subsp.",
+        "name": "Pteridium aquilinum subsp. latiusculum"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural use is well-documented, showing a strong dichotomy between regions where it is a valued food and regions where it is considered a toxic weed."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "Spring delicacy (sansai/namul) representing the season. Requires careful detoxification (aku-nuki) before consumption. Central to dishes like bibimbap (Korea) and nimono (Japan).",
+        "seasonal_significance": "A primary symbol of spring.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 1,
+        "cultural_roles": [
+          "薬用",
+          "その他"
+        ],
+        "traditional_uses": "Historically used as animal bedding, thatch, and fuel. Food use was rare (e.g., during famines) and generally viewed as a toxic pasture weed harmful to livestock.",
+        "seasonal_significance": "None as a food.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "主食",
+          "薬用"
+        ],
+        "traditional_uses": "Many indigenous peoples consumed the rhizomes as a starch source after complex, multi-day processing to remove toxins. The young fiddleheads were eaten by some groups. This knowledge is now at high risk.",
+        "seasonal_significance": "Varies by community.",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "Japanese (Washoku)",
+        "role": "common",
+        "traditional_dishes": [
+          "Warabi no Nimono (simmered bracken)",
+          "Warabi no Ohitashi (blanched bracken salad)"
+        ],
+        "preparation_methods": [
+          "aku-nuki (detoxification with ash or baking soda)",
+          "boiling",
+          "salting for preservation"
+        ],
+        "cultural_context": "Valued as a 'sansai' (mountain vegetable) that marks the arrival of spring. Its slightly bitter taste is considered a desirable characteristic."
+      },
+      {
+        "cuisine": "Korean (Hansik)",
+        "role": "essential",
+        "traditional_dishes": [
+          "Gosari-namul (bracken side dish)",
+          "Bibimbap",
+          "Yukgaejang (spicy beef soup)"
+        ],
+        "preparation_methods": [
+          "boiling",
+          "drying for long-term storage",
+          "rehydrating and stir-frying"
+        ],
+        "cultural_context": "Dried gosari is a staple in Korean pantries, used year-round. It is an essential component of many ceremonial and everyday dishes."
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "Spores found in archaeological sites indicate its presence and likely use for millennia. Rhizome consumption by various cultures is ancient.",
+      "trade_routes": "Processed (dried/salted) bracken is a significant trade item in East Asia, particularly from China to Japan and Korea.",
+      "cultural_exchange": "The specific techniques for detoxifying and preparing bracken are key pieces of traditional ecological knowledge passed down through generations.",
+      "domestication_history": "Not a domesticated plant. It is managed in wild or semi-wild stands. Some limited cultivation is practiced, but it primarily remains a foraged species."
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "Mountainous or highland areas with distinct seasons."
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "Moist woodlands and clearings."
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "Highly suitable. Thrives in open forests, pastures, and disturbed land with acidic soils."
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "Tolerates cold winters due to deep rhizome system."
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "Generally unsuitable due to high water requirement during growing season."
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "Can grow up to the tree line."
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "N/A (Spreads via rhizomes)",
+        "harvest_season": "Early to mid-spring (April-May in Northern Hemisphere)",
+        "growing_period_days": "N/A (Perennial)"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明 (Highly variable in wild stands)",
+      "factors_affecting_yield": [
+        "Stand density",
+        "Soil moisture",
+        "Spring temperature",
+        "Forest canopy cover"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明 (Largely unrecorded forage)",
+      "major_producers": [
+        {
+          "country": "China",
+          "production_share": "不明",
+          "characteristics": "Largest global exporter of processed (dried, salted) bracken, both foraged and semi-cultivated."
+        },
+        {
+          "country": "Japan",
+          "production_share": "不明",
+          "characteristics": "High domestic consumption, significant foraging, and some local cultivation."
+        },
+        {
+          "country": "South Korea",
+          "production_share": "不明",
+          "characteristics": "High domestic consumption, significant imports from China."
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Basic nutritional data exists. However, the most critical information relates to its toxicity (ptaquiloside, thiaminase), which is well-studied. Traditional processing methods are known to reduce these toxins, but residual levels can be a concern."
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "34",
+        "protein_g": "2.9",
+        "carbs_g": "6.5",
+        "fat_g": "0.4",
+        "fiber_g": "2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Vitamin A",
+          "amount": "High",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "Vitamin C",
+          "amount": "Moderate",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "Potassium",
+          "amount": "High",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Ptaquiloside",
+        "concentration": "Variable, high in young fronds",
+        "health_effect": "Carcinogenic (especially gastric and esophageal cancer) and mutagenic. Water-soluble and breaks down with heat and alkaline conditions."
+      },
+      {
+        "compound": "Thiaminase",
+        "concentration": "High",
+        "health_effect": "Enzyme that destroys thiamine (Vitamin B1), leading to deficiency (beriberi) with high, chronic consumption."
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "Folk medicine",
+        "uses": [
+          "Anthelmintic (to expel parasitic worms)"
+        ],
+        "preparation": "Rhizome decoction."
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "Source of dietary fiber and certain minerals."
+      ],
+      "ongoing_research": [
+        "Investigating antioxidant properties of phenolic compounds, but overshadowed by toxicity."
+      ],
+      "safety_considerations": "MUST be properly processed (e.g., boiling with wood ash or baking soda, extensive soaking) to reduce carcinogens and thiaminase. Raw consumption is dangerous. Chronic consumption of even processed bracken is epidemiologically linked to higher rates of certain cancers."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Culinary use in East Asia is extensively documented in cookbooks and cultural studies. The detoxification process is a critical and universally noted aspect."
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "Boiling with alkaline agent (aku-nuki)",
+          "Stir-frying",
+          "Simmering",
+          "Drying",
+          "Salting",
+          "Pickling"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "Soy sauce",
+          "miso",
+          "sesame oil",
+          "beef",
+          "other vegetables in stir-fries and soups."
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Drying",
+        "regions": [
+          "Korea",
+          "China"
+        ],
+        "shelf_life": "Over a year",
+        "quality_changes": "Intensifies flavor, changes texture to be chewier upon rehydration."
+      },
+      {
+        "method": "Salting (塩蔵)",
+        "regions": [
+          "Japan"
+        ],
+        "shelf_life": "Several months",
+        "quality_changes": "Preserves texture and color, requires de-salting before use."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Earthy, slightly bitter (umami when cooked with dashi/soy sauce)",
+      "aroma_compounds": [
+        "Green, forest-floor notes"
+      ],
+      "texture_characteristics": "Slightly slimy (mucilaginous), tender yet with a distinct bite."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Ecological studies of bracken as an invasive species provide strong qualitative evidence for its resilience. Quantitative data on specific climate stress thresholds is less common."
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "High; rhizomes are protected underground.",
+      "cold_tolerance": "High; fronds die back but rhizomes survive deep freezes."
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "Moderate; deep rhizomes access deeper soil moisture.",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "High (Fronds may be damaged, but plant rapidly regenerates from rhizomes).",
+      "hail_damage_recovery": "High",
+      "rapid_temperature_change": "High"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "Likely positive; as a C3 plant, it may increase growth rate and biomass.",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "High"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "High resistance due to its natural toxicity.",
+      "disease_resistance_stability": "High",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Global temperate and subtropical zones, tropical highlands.",
+        "2050_projection": "Range expansion into higher latitudes and altitudes.",
+        "2100_projection": "Significant range expansion, potentially becoming more problematic as a weed in new areas.",
+        "confidence_level": "High"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "The species complex shows vast genetic diversity, a testament to its adaptive potential. Specific data on hybridization rates and outcomes is academic and not widely compiled."
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "High compatibility between its numerous subspecies and varieties."
+      ],
+      "interspecific_compatibility": [
+        "Limited, as the genus Pteridium is very small."
+      ],
+      "intergeneric_possibility": [
+        "Extremely low to none."
+      ],
+      "successful_natural_hybrids": [
+        "The existing subspecies distribution suggests extensive historical hybridization and sorting."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "N/A (Not a cultivated crop with landraces)",
+      "wild_gene_pool": "The entire species is a massive, globally distributed wild gene pool.",
+      "adaptive_genetic_variation": "Extremely high, evident from its adaptation to diverse global ecosystems.",
+      "inbreeding_depression_risk": "Low, due to spore dispersal and vast clonal networks."
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "Global",
+        "environmental_pressure": "Diverse climates, soil types, fire regimes, grazing pressures.",
+        "adaptive_response": "Evolution of distinct subspecies (e.g., P. aquilinum subsp. aquilinum in Europe, subsp. latiusculum in E. Asia/N. America) adapted to local conditions.",
+        "time_scale": "Evolutionary (millennia)",
+        "mechanism": "Natural selection acting on vast genetic variation."
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "Already high; hybridization could fine-tune local adaptations.",
+      "improved_nutritional_content": "Possible, but reducing toxicity would be the primary goal.",
+      "novel_characteristics": "Possible, but not a focus of research.",
+      "hybrid_vigor_potential": "High"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Low within the species complex.",
+      "chromosome_compatibility": "Generally compatible within the complex.",
+      "fertility_of_hybrids": "Generally high.",
+      "backcrossing_success": "High"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "Fire frequency",
+        "adaptive_traits": "Deep rhizome system for rapid regrowth.",
+        "heritability": "High",
+        "response_to_selection": "Strong"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Most research focuses on bracken as a problem (weed, toxic), not its potential benefits. The following are inferences based on its ecological characteristics."
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Deep, extensive rhizome network that can break up soil pans.",
+      "organic_matter_contribution": "High annual biomass production from fronds contributes to soil organic matter.",
+      "soil_structure_improvement": "Rhizomes can improve soil structure but may also lead to dense root mats.",
+      "erosion_control": "Excellent for stabilizing slopes due to dense ground cover and rhizome network.",
+      "nutrient_cycling_role": "Efficient at scavenging nutrients like phosphorus and potassium from poor soils."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "N/A (Spore-bearing fern)",
+      "beneficial_insect_habitat": "Provides cover, but its allelopathic nature and dense growth can create monocultures, reducing overall plant and insect diversity.",
+      "soil_microorganism_interaction": "Forms associations with arbuscular mycorrhizal fungi.",
+      "above_ground_biodiversity": "Generally negative; outcompetes other plant species."
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "Can improve infiltration initially, but dense rhizome mats may eventually impede it.",
+      "moisture_retention": "Thick litter layer reduces evaporation.",
+      "runoff_reduction": "High",
+      "groundwater_recharge": "Potentially positive."
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "Moderate to high, but transient (dies back annually).",
+      "below_ground_carbon": "Very high potential due to massive and long-lived rhizome systems.",
+      "soil_carbon_enhancement": "High, through litter decomposition and root exudates.",
+      "carbon_sequestration_rate": "Potentially high, especially in the soil and rhizomes."
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Generally none; known for strong allelopathic effects that inhibit the growth of other plants."
+      ],
+      "natural_pest_control": "N/A",
+      "nutrient_sharing": "N/A",
+      "allelopathic_interactions": "Strongly negative; releases chemicals that suppress competitors."
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "Reduces stability by promoting monoculture.",
+      "stress_tolerance": "Very high.",
+      "recovery_capacity": "Very high.",
+      "adaptability": "Very high."
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Modern applications are limited by its toxicity, but its resilience is of scientific interest."
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "Niche product, contingent on safe processing knowledge.",
+      "food_security_contribution": "Limited globally, but regionally significant as a foraged food. Historically important as a famine food (rhizomes).",
+      "local_food_system_integration": "Strong in regions like Japan, where it is a key part of the 'satoyama' (socio-ecological production landscape) concept.",
+      "alternative_protein_potential": "None"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Niche markets for 'wild foods'",
+        "Export of processed products"
+      ],
+      "value_added_products": [
+        "Dried gosari",
+        "Salt-preserved warabi",
+        "Canned or vacuum-packed prepared products"
+      ],
+      "niche_market_value": "High as a seasonal delicacy in East Asian cuisine."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "The biological conservation status is secure (Least Concern). The priority is the conservation of cultural knowledge."
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "None (It is a pioneer species that thrives on disturbance).",
+    "climate_change_vulnerability": "Low",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "Documentation and transmission of traditional ecological knowledge regarding detoxification and preparation.",
+      "Archiving culinary traditions associated with the plant."
+    ],
+    "priority_conservation_regions": [
+      "North America (indigenous rhizome processing knowledge)",
+      "Europe (historical, non-food uses)"
+    ],
+    "ex_situ_conservation_status": "Not a priority; widespread in the wild.",
+    "in_situ_conservation_efforts": "Not required for the species itself. Focus is on conserving cultural landscapes (like Japanese satoyama) where it is managed."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "This evaluation is based on the synthesis of all available data."
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 2,
+    "recommended_study_regions": [
+      "East Asia (culinary traditions)",
+      "Pacific Northwest of North America (rhizome ethnobotany)",
+      "United Kingdom (ecology of invasion)"
+    ],
+    "knowledge_gaps": [
+      "Quantitative toxicological risk assessment of traditionally processed products.",
+      "Carbon sequestration potential of bracken-dominated ecosystems.",
+      "Genetic basis for local adaptation across its global range."
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "These are not cultivars but geographically distinct subspecies often treated as varieties."
+      },
+      "variety_name": "Pteridium aquilinum subsp. latiusculum",
+      "local_name": "わらび (Warabi), 고사리 (Gosari)",
+      "origin_region": "East Asia, North America",
+      "distinctive_characteristics": "The primary subspecies consumed as food in Japan, Korea, and China.",
+      "cultural_importance": "Very high in East Asia.",
+      "climate_adaptation": "Adapted to temperate climates with cold winters.",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "These are not cultivars but geographically distinct subspecies often treated as varieties."
+      },
+      "variety_name": "Pteridium aquilinum subsp. aquilinum",
+      "local_name": "Common Bracken, Adlerfarn",
+      "origin_region": "Europe, Africa, West Asia",
+      "distinctive_characteristics": "Generally considered more toxic or less palatable than the East Asian subspecies, rarely used as food.",
+      "cultural_importance": "Low as food, significant as a weed.",
+      "climate_adaptation": "Adapted to European temperate climates.",
+      "conservation_status": "Least Concern"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Ethnobotanical literature",
+      "Invasive species ecology databases",
+      "Governmental food composition databases",
+      "Taxonomic databases (Kew Gardens)"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative regenerative agriculture metrics (e.g., carbon sequestration rates)",
+      "Climate change response at the subspecies level",
+      "Health risks of long-term, low-level exposure to processed bracken"
+    ],
+    "regional_data_coverage": "Strong for East Asia and Europe; weaker for indigenous uses in the Americas and Africa.",
+    "missing_information": [
+      "Detailed market data (production volumes, trade values)",
+      "Genetic markers for toxicity levels"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

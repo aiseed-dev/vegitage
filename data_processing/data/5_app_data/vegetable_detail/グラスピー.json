@@ -1,0 +1,662 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), agricultural research institutions (ICARDA, ICAR), and ethnobotanical literature. The primary challenge is the variability of data depending on the landrace and growing conditions."
+    },
+    "primary_name": "Grass Pea",
+    "scientific_name": "Lathyrus sativus",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "葉",
+      "鞘"
+    ],
+    "origin_region": "バルカン半島、西アジア",
+    "wild_relatives": [
+      "Lathyrus cicera",
+      "Lathyrus gorgoni"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names gathered from multilingual ethnobotanical databases and regional agricultural reports."
+    },
+    "international": {
+      "en": [
+        "Grass Pea",
+        "Chickling Vetch",
+        "Indian Vetch",
+        "White Vetch"
+      ],
+      "scientific_common": "Lathyrus"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "खेसारी",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "খেসারী",
+            "script": "Bengali"
+          },
+          {
+            "lang": "ne",
+            "name": "खेसरी",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "am",
+            "name": "ጓያ",
+            "script": "Ethiopic"
+          },
+          {
+            "lang": "ti",
+            "name": "Guaya",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Almorta",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Cicerchia",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Gesse commune",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "جلبان",
+            "script": "Arabic"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on standard APG IV classification system."
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Vetchling",
+      "la": "Lathyrus"
+    },
+    "species": {
+      "en": "Grass Pea",
+      "la": "sativus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is well-documented due to the plant's dual role as a resilient food source and a health risk (lathyrism)."
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "飼料"
+        ],
+        "traditional_uses": "主に貧困層の食料、特に他の作物が不作の際の『保険作物』として利用。種子を粉にしてロティ（平パン）や粥にする。家畜の飼料としても重要。",
+        "seasonal_significance": "乾季（ラビ作）に栽培される重要な作物。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "アフリカの角",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物"
+        ],
+        "traditional_uses": "エチオピアやエリトリアで、特に干ばつ時の救荒作物として極めて重要。粉にしてシロ（豆のシチュー）やキタ（パン）を作る。テフの不作を補う役割。",
+        "seasonal_significance": "干ばつ年において食料安全保障を支える。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "地中海地域",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "伝統食材"
+        ],
+        "traditional_uses": "かつてはより広範に栽培されていたが、現在はイタリアやスペインの一部で伝統料理（スープや粥）の食材として地域的に残存。",
+        "seasonal_significance": "伝統的な食文化の継承。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "エチオピア料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "シロ・ウォット (Shiro Wot)",
+          "キタ (Kita)"
+        ],
+        "preparation_methods": [
+          "焙煎",
+          "製粉",
+          "煮込み"
+        ],
+        "cultural_context": "干ばつ時の生命線となる食料。日常食でもあるが、特に食料不安の時期に消費が増える。"
+      },
+      {
+        "cuisine": "インド料理（特にビハール州、マディヤ・プラデーシュ州）",
+        "role": "staple",
+        "traditional_dishes": [
+          "ケサリ・ダル (Khesari Dal)",
+          "サットゥー (Sattu)"
+        ],
+        "preparation_methods": [
+          "製粉",
+          "煮込み"
+        ],
+        "cultural_context": "『貧者のタンパク源』として知られ、安価で入手しやすい。ラチリズムのリスクから政府による規制の歴史がある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "新石器時代から栽培されており、古代エジプト、ギリシャ、ローマでも知られていた。",
+      "trade_routes": "古代の農耕の拡大とともに地中海、中東、南アジアへ伝播したと考えられる。",
+      "cultural_exchange": "救荒作物としての特性が、乾燥・半乾燥地域の農耕文化に深く組み込まれてきた。",
+      "domestication_history": "正確な起源地は不明だが、バルカン半島が有力な候補地の一つ。約8000年前に栽培化された証拠がある。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な乾季に適応。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬作物として最適。冷涼で乾燥した気候を好む。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春播きまたは秋播き。冷涼な気候に適応。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "極端な冬の寒さには弱い。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "非常に高い耐乾性を持ち、年間降水量250mm程度の地域でも栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯（例：インド）",
+        "planting_season": "10月-11月",
+        "harvest_season": "2月-3月",
+        "growing_period_days": "120-150"
+      },
+      {
+        "climate_zone": "熱帯高地（例：エチオピア）",
+        "planting_season": "6月-8月",
+        "harvest_season": "11月-12月",
+        "growing_period_days": "130-160"
+      }
+    ],
+    "productivity": {
+      "yield_range": "800 - 2500 kg/ha",
+      "factors_affecting_yield": [
+        "降水量",
+        "土壌肥沃度",
+        "品種",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "エチオピア",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産国。主要な豆類作物の一つで、国内消費が中心。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "伝統的に大規模な栽培地域であったが、健康リスクのため栽培が制限された歴史がある。"
+        },
+        {
+          "country": "バングラデシュ",
+          "production_share": "不明",
+          "characteristics": "重要な豆類作物であり、特に洪水後の残留水分を利用した栽培が行われる。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要栄養素のデータは豊富だが、微量栄養素の地域変異に関するデータは限定的。神経毒ODAPに関する研究は多数存在する。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "320-340",
+        "protein_g": "20-32",
+        "carbs_g": "50-60",
+        "fat_g": "0.5-1.5",
+        "fiber_g": "15-20"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "鉄",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "亜鉛",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ODAP (β-N-oxalyl-L-α,β-diaminopropionic acid)",
+        "concentration": "0.1% - 2.5%（品種と環境による）",
+        "health_effect": "神経毒性。過剰摂取により不可逆的な下肢麻痺（神経ラチリズム）を引き起こす。"
+      },
+      {
+        "compound": "ホモアルギニン",
+        "concentration": "不明",
+        "health_effect": "ODAPの毒性を緩和する可能性が示唆されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [
+        "高タンパク質源",
+        "必須アミノ酸（リジン）が豊富"
+      ],
+      "ongoing_research": [
+        "ODAPを含まない、または低ODAPの品種開発",
+        "ODAPの毒性を除去する伝統的・現代的な加工法の評価",
+        "気候変動下での食料安全保障作物としての可能性評価"
+      ],
+      "safety_considerations": "最も重要な注意点は神経毒ODAPの存在。数ヶ月にわたり食事の30%以上を占めると、神経ラチリズムを発症するリスクが高まる。低ODAP品種の選択、水に浸す、茹でこぼすなどの伝統的な調理法がリスクを低減する。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栽培地域における料理利用法はよく記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "製粉してダル（豆の煮込み）にする",
+          "粉を水で溶いてロティ（平パン）にする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "スパイス",
+          "米",
+          "他の野菜"
+        ]
+      },
+      {
+        "region": "アフリカの角",
+        "methods": [
+          "焙煎・製粉してシロ（シチュー）にする",
+          "発酵させずにパン（キタ）にする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ベルベレ（スパイスミックス）",
+          "インジェラ（主食のパン）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "適切に乾燥・保管すれば品質は長期間安定。"
+      },
+      {
+        "method": "製粉",
+        "regions": [
+          "南アジア",
+          "アフリカの角"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "酸化しやすくなるため、種子の状態より保存期間は短い。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッツのような風味、やや土臭さ、品種によりわずかな苦味",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理後はクリーミーで滑らか。粉にするとざらつきが残ることがある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐湿性に関する定性的な評価は豊富だが、極端な気象イベントに対する定量的な閾値データは少ない。将来予測は一般的な作物モデルからの類推を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "10-25°C",
+      "extreme_heat_survival": "開花期に35°Cを超えると落花する可能性がある。",
+      "cold_tolerance": "-6°C程度までの霜に耐える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い。深い主根が土壌深層の水分を吸収する。",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "400-650 mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性のため、強風による倒伏リスクがある。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物として、CO2濃度上昇により光合成と成長が促進される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "一般的に多くの病害虫に強いが、アブラムシやサビ病には感受性がある。",
+      "disease_resistance_stability": "遺伝的多様性が高いため、地域レベルでの抵抗性は比較的安定している。",
+      "beneficial_organism_relationships": "根粒菌との共生により窒素を固定する。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "南アジア、アフリカの角、地中海沿岸の半乾燥地域",
+        "2050_projection": "現在よりも乾燥化・温暖化する多くの半乾燥地域で栽培適地が拡大する可能性がある。",
+        "2100_projection": "極端な高温や水不足が深刻化する地域では限界を迎える可能性があるが、全体的には適応範囲が北上・高地化すると予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "主に人為的な育種プログラムに関する情報であり、自然環境下での交雑に関するデータは非常に限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全てのL. sativusの栽培品種・ランドレース間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "L. ciceraなど一部の近縁種とは人工授粉で交雑可能だが、成功率は低い。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告されていない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。特にエチオピアやインドには多様な形質を持つ在来種が豊富に存在する。",
+      "wild_gene_pool": "野生近縁種との遺伝子流動は限定的だが、育種のための遺伝子源として重要。",
+      "adaptive_genetic_variation": "耐乾性、耐湿性、耐病性など、多様なストレス適応に関する遺伝的変異が存在する。",
+      "inbreeding_depression_risk": "自家受粉性があるため、個体群内では近交が進みやすいが、作物全体としての多様性は高い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "バングラデシュの氾濫原",
+        "environmental_pressure": "洪水後の過湿土壌と、その後の急速な乾燥",
+        "adaptive_response": "湛水への耐性と、残留水分を効率的に利用する能力",
+        "time_scale": "数世紀以上",
+        "mechanism": "生理的・形態的適応（通気組織の発達、根系の伸長など）"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁野生種との交雑により、さらなる耐病性や耐塩性を導入できる可能性がある。",
+      "improved_nutritional_content": "低ODAP遺伝子を導入することで、安全性を劇的に向上させることが可能。",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "自家受粉性作物であるため、雑種強勢の利用は限定的。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の交雑では、受精後の胚珠敗退などが障壁となる。",
+      "chromosome_compatibility": "近縁種間でも染色体の構造異変が存在することがある。",
+      "fertility_of_hybrids": "種間雑種はしばしば不稔または稔性低下を示す。",
+      "backcrossing_success": "目的遺伝子を導入するための戻し交配は可能だが、多くの世代を要する。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い根系、気孔閉鎖能力、早期成熟性",
+        "heritability": "中〜高",
+        "response_to_selection": "干ばつ耐性の高い個体群が形成される。"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物としての一般的な特性からの類推が多く、L. sativusに特化したリジェネラティブ農業システムの研究は少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "強力な主根が土壌深くまで伸長し、硬盤層を破砕することがある。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物の供給源となる。",
+      "soil_structure_improvement": "根の活動が土壌の団粒構造を促進する。",
+      "erosion_control": "生育初期の被覆度は低いが、繁茂期には地表を覆い、土壌侵食を軽減する。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を年間50-100 kg/ha固定し、後作物のための化学肥料を削減する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫にとって蜜源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌やアーバスキュラー菌根菌との共生関係を構築する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作るチャネルが水の浸透を助ける。",
+      "moisture_retention": "地表被覆により土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系のため、地下部への炭素蓄積ポテンシャルが高い可能性がある。",
+      "soil_carbon_enhancement": "窒素固定によるバイオマス生産促進を通じて、土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "イネ科作物（小麦、大麦、ソルガム）との混作や輪作。グラスピーが窒素を供給し、イネ科作物が物理的な支持を提供する。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "窒素を土壌に供給し、後作物や混作作物が利用できる。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "作物の多様化に貢献し、特に乾燥地農業生態系の安定性を高める。",
+      "stress_tolerance": "高いストレス耐性により、システム全体の生産失敗リスクを低減する。",
+      "recovery_capacity": "不明",
+      "adaptability": "多様な在来種が存在するため、地域の環境に合わせた品種選択が可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食料安全保障と気候変動の文脈での議論が活発。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク質で、動物性タンパク質の代替源として高いポテンシャルを持つ。",
+      "food_security_contribution": "気候変動が進行する中で、他の作物が失敗するような限界的な環境でも収穫が期待できるため、食料安全保障への貢献が極めて大きい。",
+      "local_food_system_integration": "化学肥料や灌漑への依存が少なく、小規模農家による自給自足的な生産システムに適している。",
+      "alternative_protein_potential": "低ODAP品種が普及すれば、植物性プロテインパウダーや代替肉製品の原料として利用可能。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルテンフリー食品市場",
+        "気候変動適応型作物としての種子市場",
+        "健康志向の消費者に向けた高タンパク質食品"
+      ],
+      "value_added_products": [
+        "低ODAPの豆粉",
+        "パスタ",
+        "スナック菓子"
+      ],
+      "niche_market_value": "イタリアの『Cicerchia』のように、伝統食材として地域ブランド化することで、ニッチ市場での価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の重要性は認識されているが、体系的な保全活動は一部地域に限られる。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "栽培作物であるため、生息地喪失の直接的な脅威は低いが、近代的な単一品種への置き換えが遺伝的多様性を脅かす。",
+    "climate_change_vulnerability": "作物自体は気候変動に強いが、栽培地域の社会経済的変化が栽培放棄につながる可能性がある。",
+    "cultural_erosion_risk": "高い。ラチリズムの汚名により栽培が敬遠され、安全な調理法に関する伝統知識が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "多様な在来種の収集とジーンバンクでの保存（域外保全）",
+      "農家による種子の自家採種と交換を支援するコミュニティ・シードバンクの設立（域内保全）",
+      "低ODAP品種の普及と、在来種の価値再評価を組み合わせた参加型育種"
+    ],
+    "priority_conservation_regions": [
+      "エチオピア",
+      "インド（中央部・東部）",
+      "バングラデシュ",
+      "ネパール"
+    ],
+    "ex_situ_conservation_status": "ICARDAや各国のジーンバンクに多数の系統が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的だが、一部のNGOや研究機関が農家と協力して在来種の保全に取り組んでいる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家として、この作物の多面的な価値と課題を総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "エチオピアの多様な農耕生態系",
+      "インドの半乾燥地域",
+      "バングラデシュの氾濫原"
+    ],
+    "knowledge_gaps": [
+      "多様な在来種の微量栄養素プロファイルの比較分析",
+      "伝統的なデトックス調理法の科学的有効性の定量化",
+      "気候変動下の病害虫パターン変化への応答"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "育種された品種の情報は存在するが、無数のランドレースに関する体系的データは不足している。"
+      },
+      "variety_name": "Ratan",
+      "local_name": "Ratan",
+      "origin_region": "インド",
+      "distinctive_characteristics": "最初の低ODAP品種の一つ（ODAP含有量 < 0.2%）。",
+      "cultural_importance": "グラスピーの安全性向上とイメージ改善に貢献した画期的な品種。",
+      "climate_adaptation": "インド中央部の半乾燥地域に適応。",
+      "conservation_status": "広く普及"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "育種された品種の情報は存在するが、無数のランドレースに関する体系的データは不足している。"
+      },
+      "variety_name": "Mahateora",
+      "local_name": "Mahateora",
+      "origin_region": "インド",
+      "distinctive_characteristics": "高収量で、サビ病への耐性を持つ低ODAP品種。",
+      "cultural_importance": "収量性と安全性を両立させ、農家の収入向上に貢献。",
+      "climate_adaptation": "インド東部の多湿な環境にも比較的適応。",
+      "conservation_status": "広く普及"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "ICARDA (International Center for Agricultural Research in the Dry Areas) publications",
+      "Food and Agriculture Organization (FAO) databases",
+      "Ethnobotanical and crop science academic journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業システムにおける炭素固定能の定量的データ",
+      "気候変動の複合ストレス（高温＋干ばつ）に対する品種レベルでの応答",
+      "在来種の網羅的な遺伝子情報と機能性成分の評価"
+    ],
+    "regional_data_coverage": "南アジアとアフリカの角に偏っており、地中海地域や他地域の情報は限定的。",
+    "missing_information": [
+      "先住民コミュニティによる独自の利用法",
+      "国際貿易に関する正確な統計データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

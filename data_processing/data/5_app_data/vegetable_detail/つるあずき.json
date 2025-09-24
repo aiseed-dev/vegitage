@@ -1,0 +1,677 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な農学・植物学データベース(CGIAR, FAO, Kew Gardens)および民族植物学の文献から情報を統合。野生近縁種に関する遺伝的データは部分的に限定的。"
+    },
+    "primary_name": "Rice bean",
+    "scientific_name": "Vigna umbellata",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "葉",
+      "果実"
+    ],
+    "origin_region": "インド・ビルマ地域（ヒマラヤ山麓）",
+    "wild_relatives": [
+      "Vigna umbellata var. gracilis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アジア地域の言語を中心に、学術文献および各国の農業データベースから名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Rice bean",
+        "Red bean",
+        "Climbing mountain bean"
+      ],
+      "scientific_common": "Rice bean"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ツルアズキ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "赤小豆",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "덩굴팥",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "ถั่วแดงหลวง (Thua daeng luang)",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Đậu nho nhe",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Tapilan",
+            "script": "Latin"
+          },
+          {
+            "lang": "id",
+            "name": "Kacang uci",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "ne",
+            "name": "मास्याङ (Masyang)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "hi",
+            "name": "सूतरी (Sutri)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "ঘাগরা (Ghagra)",
+            "script": "Bengali"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ナガ族（インド北東部）",
+        "name": "不明（複数の現地名が存在）",
+        "cultural_significance": "焼畑農業における重要なタンパク源であり、トウモロコシとの混植による伝統的農法の中核をなす。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づき記載。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Cowpea genus",
+      "la": "Vigna"
+    },
+    "species": {
+      "en": "Rice bean",
+      "la": "Vigna umbellata"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Vigna umbellata var. gracilis (Prain) Maréchal, Mascherpa & Stainier"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "民族植物学的研究は豊富だが、定量的な文化的重要性のデータは少ない。主にアジアの山岳地帯における地域的重要性が高い。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア（特にネパール、インド北東部）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "飼料",
+          "緑肥",
+          "経済作物"
+        ],
+        "traditional_uses": "ダール（豆のスープ）や米との炊き込みご飯として消費。痩せた土地でも育つため、食料安全保障に不可欠な作物。家畜の飼料や土壌改良用の緑肥としても利用される。",
+        "seasonal_significance": "モンスーン期の主要な作物の一つであり、収穫期は地域の祭りと結びつくことがある。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東南アジア（山岳地帯）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "儀式用",
+          "緑肥"
+        ],
+        "traditional_uses": "スープや煮込み料理の具材。一部のコミュニティでは、儀式の際の供物として用いられる。焼畑農業システムにおいて地力を回復させる重要な役割を担う。",
+        "seasonal_significance": "雨季の食料供給を支える補助的な作物。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ネパール料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Masyang ko Dal",
+          "Kwati (九種豆のスープ)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "スープ"
+        ],
+        "cultural_context": "日常食のダールの主要な材料の一つ。特に祭事クワティ・プニマで食べられる栄養豊富なスープ「クワティ」の重要な構成要素。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "数千年前からアジアの山岳地帯で栽培されていたと推定される。",
+      "trade_routes": "主要な交易品ではなかったが、地域内の人々の移動と共に伝播したと考えられる。",
+      "cultural_exchange": "アジアの多様な混植・輪作システムの一部として、栽培技術が文化的に共有されてきた。",
+      "domestication_history": "野生種のVigna umbellata var. gracilisからヒマラヤ山麓で栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地または雨季の栽培に適応。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "最も適した気候帯。温暖で湿潤な夏を好む。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の長い温暖な地域での栽培が可能。霜には弱い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の短さや厳しい冬のため不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い耐乾性を持つが、商業生産には不十分な降水量。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため生育不可。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯（例：ネパール丘陵地帯）",
+        "planting_season": "4月-6月（雨季の始まり）",
+        "harvest_season": "9月-11月（雨季の終わり）",
+        "growing_period_days": "90-150"
+      }
+    ],
+    "productivity": {
+      "yield_range": "300 - 2000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌肥沃度",
+        "降水量",
+        "栽培システム（単作か混植か）",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（多くが自家消費・地域市場向けで統計データがない）",
+      "major_producers": [
+        {
+          "country": "ネパール",
+          "production_share": null,
+          "characteristics": "伝統的な小規模農家による混植栽培が中心。"
+        },
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "北東部の山岳地帯での焼畑農業や段々畑で栽培。"
+        },
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "南部地域で小規模に栽培。薬用としても利用。"
+        },
+        {
+          "country": "ミャンマー",
+          "production_share": null,
+          "characteristics": "他の作物との輪作体系に組み込まれている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分のデータは存在するが、品種や栽培条件による変動に関する研究は限定的。機能性成分に関する研究は増加傾向にある。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "340",
+        "protein_g": "22.0",
+        "carbs_g": "60.0",
+        "fat_g": "1.5",
+        "fiber_g": "10.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "鉄",
+          "amount": "8.5 mg",
+          "daily_value_percent": "47%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "200 mg",
+          "daily_value_percent": "20%"
+        },
+        {
+          "nutrient": "リン",
+          "amount": "400 mg",
+          "daily_value_percent": "40%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、生活習慣病予防"
+      },
+      {
+        "compound": "フィチン酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、ミネラル吸収阻害作用も持つ"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "解毒",
+          "利尿",
+          "浮腫の治療"
+        ],
+        "preparation": "煎じ薬として煮出して服用する。"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "滋養強壮",
+          "消化促進"
+        ],
+        "preparation": "スープや粥として調理し、病中病後の食事として利用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高い抗酸化活性",
+        "血糖値上昇抑制効果の可能性"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "心血管疾患予防効果"
+      ],
+      "safety_considerations": "生豆にはレクチンなどの有害物質が含まれるため、必ず加熱調理が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アジア各国の食文化に関する文献調査に基づき、多様な利用法を確認。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "煮込み（ダール）",
+          "炊き込み",
+          "スープ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "トウモロコシ",
+          "ショウガ",
+          "ニンニク",
+          "ターメリック"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "スープの具",
+          "煮込み料理",
+          "サラダ（若莢）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "豚肉",
+          "香味野菜"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全栽培地域"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "適切に保存すれば品質の変化は少ないが、古くなると硬くなり煮えにくくなる。"
+      },
+      {
+        "method": "発酵",
+        "regions": [
+          "ネパール",
+          "インド北東部"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "風味と栄養価が向上するが、特定の伝統的知識が必要。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "マイルドでわずかにナッツのような風味。アズキに似るが、より素朴な味わい。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理後は柔らかく、やや粉質。皮は比較的しっかりしている。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的な評価は多数存在するが、定量的な生理学的データは限定的。気候変動下の栽培適地予測は、類似のVigna属の作物モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "35°C以上では収量が著しく低下する可能性がある。",
+      "cold_tolerance": "低（霜に非常に弱い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "比較的高い。深い根系が乾燥した土壌から水分を吸収する。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "800-1500 mm（年間）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性のため、支柱がないと強風で倒伏しやすい。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "中程度"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度上昇により光合成効率と収量が増加する可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "原産地が高地であるため、ある程度の紫外線耐性を持つと推測される。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "貯蔵害虫であるマメゾウムシ類への抵抗性が他のVigna属より高いことが知られており、温暖化による害虫増加に対して有利。",
+      "disease_resistance_stability": "黄化ウイルス病などへの耐性を持つ系統が報告されている。",
+      "beneficial_organism_relationships": "根粒菌との共生による窒素固定能力は、土壌劣化が進む環境下で重要性が増す。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アジアの亜熱帯山岳・丘陵地帯",
+        "2050_projection": "現在の栽培地域に加え、より高緯度・高標高の地域へ適地が拡大する可能性がある。",
+        "2100_projection": "低地の熱帯地域では高温ストレスにより適性が低下する可能性がある一方、温帯地域の一部が新たな栽培可能地となる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Vigna属内の交雑親和性に関する育種研究は存在するが、自然環境下での交雑頻度や適応進化に関するデータは少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の在来種が存在し、種内での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Vigna radiata (リョクトウ)",
+        "Vigna angularis (アズキ)",
+        "Vigna mungo (ケツルアズキ)"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は少ないが、栽培地で近縁種と隣接して栽培される場合に自然交雑が起こる可能性は否定できない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地周辺には、種子の色、形、熟期、草姿が異なる多様な在来種が存在する。",
+      "wild_gene_pool": "野生種のV. umbellata var. gracilisが重要な遺伝資源として存在する。",
+      "adaptive_genetic_variation": "耐病性、耐乾性、耐酸性土壌など、ストレス耐性に関する豊富な遺伝的変異を持つ。",
+      "inbreeding_depression_risk": "自家受粉性がある程度高いため、小集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インド北東部",
+        "environmental_pressure": "酸性土壌、低肥沃度、断続的な乾燥",
+        "adaptive_response": "アルミニウム耐性、リン酸吸収効率の高さ、深い根系の発達。",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "地域農家による継続的な種子選抜と、環境圧による自然選択。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐病性の遺伝子をアズキやリョクトウに導入する育種親として高い可能性がある。",
+      "improved_nutritional_content": "高タンパク質や高ミネラルの特性を他の豆類に付与できる可能性がある。",
+      "novel_characteristics": "マメゾウムシ抵抗性などのユニークな形質を導入可能。",
+      "hybrid_vigor_potential": "種間交雑により、生育旺盛な雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種によっては胚珠の敗退など、交雑後の障壁が存在する。",
+      "chromosome_compatibility": "Vigna属の主要栽培種とは染色体数が同じ（2n=22）で、交雑の基本的な条件は満たしている。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "胚培養などの技術を用いることで、戻し交配の成功率を高めることができる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "早期の根系発達、クチクラ層の厚さ",
+        "heritability": "中程度から高い",
+        "response_to_selection": "干ばつ頻度の高い地域では耐乾性の高い系統が選択される。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物としての一般的な特性と、伝統的な混植システムでの役割に関する知見に基づく。リジェネラティブ農業の文脈での定量的な研究はまだ少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深く発達し、土壌の硬盤を破砕し、水や空気の通り道を改善する。",
+      "organic_matter_contribution": "収穫後の残渣が豊富で、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "根の働きと有機物供給により、土壌の団粒構造を促進する。",
+      "erosion_control": "つる性の草姿が地表面を広く覆い、雨滴による土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。後作物の窒素肥料を削減できる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期には蝶や蜂などの花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "テントウムシなどの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "根圏で多様な微生物群集を育み、土壌の生物性を高める。",
+      "above_ground_biodiversity": "混植システムに組み込むことで、農地の生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る隙間と地表被覆により、雨水の土壌への浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて、土壌の保水能力を向上させる。",
+      "runoff_reduction": "地表流出を抑制し、水資源の有効利用に貢献する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。残渣は土壌に還元される。",
+      "below_ground_carbon": "深い根系を通じて、土壌深層に炭素を供給するポテンシャルがある。",
+      "soil_carbon_enhancement": "窒素固定によるバイオマス生産の増加と有機物供給により、土壌炭素貯留を促進する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱となり、ツルアズキは窒素を供給）",
+        "イネ（畦畔栽培）",
+        "ショウガ"
+      ],
+      "natural_pest_control": "多様な植生環境を作ることで、特定の害虫の大発生を抑制する。",
+      "nutrient_sharing": "窒素固定により、混植したトウモロコシなどの作物の生育を助ける。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物との混植により、農業生態系の安定性を高める。",
+      "stress_tolerance": "乾燥や痩せた土地への耐性が高く、システムの生産性を安定させる。",
+      "recovery_capacity": "軽微な気象害からの回復力は比較的高い。",
+      "adaptability": "多様な在来種が存在し、地域の環境に適応した品種を選抜しやすい。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主に学術研究や国際農業開発機関の報告書に基づく将来性の評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク質で栄養価が高く、植物性食品トレンドに適している。",
+      "food_security_contribution": "気候変動の影響を受けやすい脆弱な地域において、安定した食料供給に貢献できる「気候スマート作物」。",
+      "local_food_system_integration": "自家消費や地域市場が中心であり、地域の食料自給と文化の維持に貢献する。",
+      "alternative_protein_potential": "プロテインパウダーや植物肉の原料としての利用ポテンシャルがある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品市場",
+        "エスニック食品市場",
+        "グルテンフリー食品市場"
+      ],
+      "value_added_products": [
+        "豆粉",
+        "スナック",
+        "発酵食品",
+        "機能性食品素材"
+      ],
+      "niche_market_value": "「忘れられた作物」や「伝統作物」としてのストーリー性を活かし、高い付加価値を持つニッチ市場を開拓できる可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の消失リスクに関するFAOやCGIARの報告に基づく。具体的な保全活動の網羅的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "伝統的な焼畑農業の縮小や近代的な単一栽培への転換が生育地を脅かしている。",
+    "climate_change_vulnerability": "栽培適地が変化することで、特定の地域に特化した在来種が絶滅するリスクがある。",
+    "cultural_erosion_risk": "食文化の変化や若い世代の農業離れにより、栽培知識と共に在来種が失われるリスクが高い。",
+    "conservation_actions_needed": [
+      "在来種の収集・評価とジーンバンクでの保存（域外保全）",
+      "農家参加型の品種改良と保全活動（域内保全）",
+      "伝統知識の記録と継承",
+      "市場開拓による栽培インセンティブの創出"
+    ],
+    "priority_conservation_regions": [
+      "インド北東部",
+      "ネパール",
+      "ミャンマー北部",
+      "中国雲南省"
+    ],
+    "ex_situ_conservation_status": "主要な国際ジーンバンク（World Vegetable Center等）には一定数の遺伝資源が保存されているが、網羅性は不十分。",
+    "in_situ_conservation_efforts": "一部のNGOや地域コミュニティによる小規模な種子保存活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報を基にした統合的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "ネパールの中部丘陵地帯",
+      "インドのナガランド州およびマニプール州",
+      "タイ北部の山岳地帯"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2、温度）に対する品種レベルでの生理学的応答の定量的データ",
+      "機能性成分のプロファイルと含有量の品種間差",
+      "伝統的な発酵技術に関する微生物学的研究"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "在来種は多数存在するが、国際的に登録された品種はほとんどなく、情報は断片的。"
+      },
+      "variety_name": "不明（地域在来種群）",
+      "local_name": "Masyang (ネパール)",
+      "origin_region": "ネパール",
+      "distinctive_characteristics": "種子の色は赤、黒、クリーム色など多様。つるの長さや熟期も様々。耐乾性と耐酸性土壌に優れる。",
+      "cultural_importance": "ネパールの伝統的な食文化、特にダールやクワティに不可欠。",
+      "climate_adaptation": "高地の変動しやすい気候や痩せた土地に適応している。",
+      "conservation_status": "遺伝的多様性は高いが、近代品種への代替により脅威にさらされている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAO EcoCrop database",
+      "World Vegetable Center (AVRDC) publications",
+      "Plant Resources of South-East Asia (PROSEA)",
+      "Journal of Ethnobiology and Ethnomedicine"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栽培規模や流通に関する経済データ",
+      "野生近縁種との遺伝子流動の実態"
+    ],
+    "regional_data_coverage": "南アジアと東南アジアに集中しており、アフリカやラテンアメリカでの適応性に関するデータはほぼ皆無。",
+    "missing_information": [
+      "年間生産量の正確な統計",
+      "国際貿易データ",
+      "品種ごとの詳細な栄養価"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

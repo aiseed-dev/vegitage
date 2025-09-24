@@ -1,0 +1,654 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(Kew, GRIN)および農学研究論文からの情報を統合。野生近縁種との関係も明確。"
+    },
+    "primary_name": "Watercress",
+    "scientific_name": "Nasturtium officinale",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "ヨーロッパから中央アジア",
+    "wild_relatives": [
+      "Nasturtium microphyllum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "多言語の植物名データベースおよび各地域の食文化研究から名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Watercress",
+        "Cress"
+      ],
+      "scientific_common": "Nasturtium"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Cresson de fontaine",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Brunnenkresse",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Berro de agua",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Crescione d'acqua",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "クレソン",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ja",
+            "name": "オランダガラシ",
+            "script": "Kanji/Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "西洋菜",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "물냉이",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Agrião d'água",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Watercress",
+      "la": "Nasturtium"
+    },
+    "species": {
+      "en": "Watercress",
+      "la": "Nasturtium officinale"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史文献、民族植物学、食文化研究から情報を集約。古代からの利用記録が豊富。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "サラダ、スープ、サンドイッチに利用。特にフランスの「soupe au cresson」は象徴的。伝統的に壊血病予防や利尿剤として薬用利用された。",
+        "seasonal_significance": "春の訪れを告げるデトックス効果のあるハーブとして重要視された。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "主に加熱してスープ（特に中国広東省の「西洋菜湯」）や炒め物で利用。体を冷やす効果があるとされ、伝統中国医学で肺の熱を取り除くために用いられる。",
+        "seasonal_significance": "秋冬の乾燥した季節に潤いを与える食材として消費されることが多い。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Soupe au cresson",
+          "Salade de cresson"
+        ],
+        "preparation_methods": [
+          "ポタージュ",
+          "生食"
+        ],
+        "cultural_context": "ビストロの定番であり、家庭料理としても親しまれる。ピリッとした辛味が特徴。"
+      },
+      {
+        "cuisine": "広東料理",
+        "role": "common",
+        "traditional_dishes": [
+          "西洋菜豬骨湯 (Sai Yeung Choi Tong)"
+        ],
+        "preparation_methods": [
+          "煮込みスープ"
+        ],
+        "cultural_context": "家庭の滋養スープ（老火湯）の一般的な材料。じっくり煮込むことで苦味が和らぎ、甘みが出る。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャ・ローマ時代から薬用・食用として利用。医聖ヒポクラテスは、患者の治療のために病院の近くの小川でクレソンを栽培したと伝えられる。",
+      "trade_routes": "原産地からヨーロッパ全土へ、その後大航海時代を経て世界中に伝播。特に英国からの移民が北米やオセアニアに持ち込んだ。",
+      "cultural_exchange": "西洋では生食が主だが、東洋では加熱調理が主というように、伝播した先の食文化に適応して利用法が多様化した。",
+      "domestication_history": "古くから野生のものを採集していたが、商業栽培は19世紀初頭にフランスやイギリスで始まった。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "水温が高くなりすぎ、生育不良や病気が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の冷涼な気候で栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて栽培可能だが、特に春と秋が最適。冷涼で清浄な流水がある場所が理想的。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さと夏の高温の両方が生育に不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水が絶対的に必要であり、乾燥地での栽培は極めて困難。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な湧水地帯は生育に適する可能性がある。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "ほぼ通年（夏と冬は生育が鈍る）",
+        "growing_period_days": 40
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 50,000 kg/ha",
+      "factors_affecting_yield": [
+        "水質",
+        "水温",
+        "流速",
+        "日照量",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "イギリス",
+          "production_share": null,
+          "characteristics": "伝統的な水田式栽培が盛ん。ハンプシャー州が有名。"
+        },
+        {
+          "country": "フランス",
+          "production_share": null,
+          "characteristics": "エソンヌ県が歴史的な生産地。高品質なクレソンで知られる。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": null,
+          "characteristics": "フロリダ州やアラバマ州で大規模な商業生産が行われている。"
+        },
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "南部、特に広東省周辺でスープ用に広く栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "USDA等の主要な栄養データベースに基づき、機能性成分に関する科学論文も参照。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "11",
+        "protein_g": "2.3",
+        "carbs_g": "1.3",
+        "fat_g": "0.1",
+        "fiber_g": "0.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "250 mcg",
+          "daily_value_percent": "208%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "43 mg",
+          "daily_value_percent": "48%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "3191 IU",
+          "daily_value_percent": "64%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "120 mg",
+          "daily_value_percent": "9%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート（グルコナストルチイン）",
+        "concentration": "変動あり",
+        "health_effect": "加水分解によりフェネチルイソチオシアネート(PEITC)を生成。PEITCは抗酸化作用、抗がん作用が研究されている。"
+      },
+      {
+        "compound": "ルテイン、ゼアキサンチン",
+        "concentration": "高濃度",
+        "health_effect": "目の健康維持に寄与するカロテノイド。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ療法",
+        "uses": [
+          "利尿",
+          "去痰",
+          "食欲増進",
+          "壊血病予防",
+          "血液浄化"
+        ],
+        "preparation": "生食、ジュース、チンキ剤"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "清熱潤肺（肺の熱を取り除き潤す）",
+          "咳止め"
+        ],
+        "preparation": "スープとして長時間煮込む"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高い抗酸化作用",
+        "DNA損傷の抑制"
+      ],
+      "ongoing_research": [
+        "がん予防効果（特に肺がん、大腸がん）",
+        "心血管疾患リスクの低減"
+      ],
+      "safety_considerations": "ビタミンKを多く含むため、ワルファリン等の抗凝固薬を服用している場合は摂取に注意が必要。汚染された水で育ったものは寄生虫（肝蛭など）のリスクがある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各国の料理書、食文化研究から情報を網羅的に収集。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "欧米",
+        "methods": [
+          "生食（サラダ）",
+          "サンドイッチの具",
+          "スープ（ポタージュ）",
+          "ソース",
+          "付け合わせ"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "卵",
+          "ジャガイモ",
+          "鶏肉",
+          "柑橘類",
+          "ビネグレットソース"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "スープ",
+          "炒め物",
+          "鍋物"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "豚骨",
+          "鶏肉",
+          "干し牡蠣",
+          "ニンニク",
+          "ショウガ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷蔵保存",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "2-4日",
+        "quality_changes": "鮮度が非常に落ちやすく、葉が黄変しやすい。茎を水に浸して立てて保存すると長持ちする。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ピリッとした辛味（ペッパー様）、わずかな苦味、爽やかな青々しさ",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "生の茎はシャキシャキしている。葉は柔らかい。加熱すると辛味が和らぎ、食感も柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "クレソンに特化した気候変動応答の定量的研究は非常に少ない。その生態的特性（冷涼な清流を好む）から、脆弱性は高いと定性的に評価される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-18°C",
+      "extreme_heat_survival": "25°C以上が続くと生育が著しく阻害される。",
+      "cold_tolerance": "軽度の霜には耐えるが、水が凍結すると枯死する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "非常に低い。半水生植物であり、常に水を必要とする。",
+      "flood_tolerance": "高（流水環境に適応しているため）",
+      "optimal_rainfall": "降水量よりも、安定した湧水や清流の存在が重要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。根がしっかり張っていれば流されにくいが、大規模な洪水では栽培床ごと破壊される可能性がある。",
+      "hail_damage_recovery": "葉物野菜のため、雹害には弱い。",
+      "rapid_temperature_change": "弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中程度。日当たりの良い場所を好むが、強すぎる日差しは葉焼けの原因となる。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "水温上昇により、病原菌（軟腐病など）や藻類の発生が増加するリスクがある。",
+      "disease_resistance_stability": "商業栽培ではクローン繁殖が多いため、遺伝的多様性が低く、新たな病害に対して脆弱な可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域の冷涼な湧水地帯",
+        "2050_projection": "高緯度地域や高標高地域への適地の移動、既存適地での栽培可能期間の短縮",
+        "2100_projection": "適地が大幅に縮小する可能性が高い",
+        "confidence_level": "中程度の推定"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "野生集団における近縁種との交雑はよく知られているが、適応形質の遺伝に関する詳細な研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域集団間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Nasturtium microphyllum (コナギ)と容易に交雑する。"
+      ],
+      "intergeneric_possibility": [
+        "低い。"
+      ],
+      "successful_natural_hybrids": [
+        "Nasturtium × sterile (N. officinale × N. microphyllum) は、ヨーロッパの野生集団で一般的に見られる不稔の雑種。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "商業栽培ではクローン繁殖が主だが、野生集団には相当な遺伝的多様性が存在する。",
+      "wild_gene_pool": "野生集団は、病害虫抵抗性や環境ストレス耐性などの有用な遺伝子の供給源となりうる。",
+      "adaptive_genetic_variation": "異なる水質や気候に適応した地域個体群が存在する。",
+      "inbreeding_depression_risk": "クローン繁殖される商業品種ではリスクはないが、小規模な孤立した野生集団では問題となる可能性がある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ヨーロッパ",
+        "environmental_pressure": "異なる水流速度や栄養条件",
+        "adaptive_response": "根の張り方や葉の大きさの変異",
+        "time_scale": "不明",
+        "mechanism": "自然選択による遺伝的適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁種との交雑により、わずかな温度耐性や病害抵抗性が向上する可能性がある。",
+      "improved_nutritional_content": "野生種の遺伝子を取り込むことで、機能性成分の含有量を高める可能性がある。",
+      "novel_characteristics": "葉の形や辛味の強さなどに新たな変異を生み出す可能性がある。",
+      "hybrid_vigor_potential": "雑種強勢が報告されており、特に栄養成長が旺盛になることがある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の交雑障壁は低い。",
+      "chromosome_compatibility": "N. officinaleは2n=32、N. microphyllumは2n=64。雑種は3倍体(2n=48)となり不稔。",
+      "fertility_of_hybrids": "主要な自然雑種は不稔だが、栄養繁殖で広がる。",
+      "backcrossing_success": "不稔のため戻し交配は困難。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水質汚染",
+        "adaptive_traits": "汚染物質耐性、蓄積能力",
+        "heritability": "不明",
+        "response_to_selection": "汚染地域で生き残る個体群の形成"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生態学的機能に関する研究は存在するが、リジェネラティブ農業システムへの組み込みに関する体系的な研究は少ない。その特性からの推定を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "水中に密な繊維状の根を張り、水底の土砂を安定させる。",
+      "organic_matter_contribution": "限定的。主に水生生態系内での貢献。",
+      "soil_structure_improvement": "水底の土壌構造を安定させ、侵食を防ぐ。",
+      "erosion_control": "小川や水路の岸辺の侵食防止に効果がある。",
+      "nutrient_cycling_role": "水中の過剰な栄養塩（窒素、リン）を吸収し、水質を浄化する（フィトレメディエーション）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さな白い花はハナアブやミツバチなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "水中の密な群落は、水生昆虫や甲殻類、小魚の隠れ家や産卵場所となる。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用が栄養吸収に関与している可能性がある。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "直接的な効果は限定的だが、群落が存在することで水の流れが緩やかになり、浸透が促進される可能性がある。",
+      "moisture_retention": "水辺環境の湿度を保つ。",
+      "runoff_reduction": "水路内の流速を緩和する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "成長が早いが、収穫されるため長期的な固定は少ない。",
+      "below_ground_carbon": "水底の堆積物中に有機物を供給することで、炭素を蓄積する可能性がある。",
+      "soil_carbon_enhancement": "水底土壌の有機炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "アクアポニックスシステムでは、魚との共生関係を築く。魚の排泄物を栄養源とし、水を浄化する。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "アブラナ科に共通するアレロパシー効果を持つ可能性があるが、水生環境での詳細は不明。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "水質浄化能力により、水生農業生態系の安定に貢献する。",
+      "stress_tolerance": "水質汚染に対してある程度の耐性を持つ。",
+      "recovery_capacity": "成長が早く、収穫後の回復力が高い。",
+      "adaptability": "栄養繁殖により、環境に適したクローンが素早く広がる。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、健康食品研究、農業技術に関する報告を基に評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養価が非常に高く、「スーパーフード」として植物中心の食生活で重要な役割を果たす。",
+      "food_security_contribution": "単位面積当たりの生産性が高く、水耕栽培やアクアポニックスなど、土地利用の少ないシステムでの生産が可能。",
+      "local_food_system_integration": "鮮度が重要なため、地産地消に適している。都市近郊の垂直農法などでの生産ポテンシャルが高い。",
+      "alternative_protein_potential": "タンパク質含有量は葉物野菜としては高いが、主要なタンパク源とはならない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによるジュース、スムージー、サプリメント市場",
+        "高級レストラン向けのマイクログリーン市場"
+      ],
+      "value_added_products": [
+        "フリーズドライパウダー",
+        "クレソンオイル",
+        "エキス配合の化粧品"
+      ],
+      "niche_market_value": "一般的な葉物野菜よりも高価で、付加価値の高いニッチな作物として確立されている。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでは評価されていないが、生態系の指標種としての重要性から保全の必要性が指摘されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "清浄な湧水や小川の減少、河川改修、水質汚染が野生集団にとって最大の脅威。",
+    "climate_change_vulnerability": "高い。水温上昇と渇水により、自生地が急速に失われる危険性がある。",
+    "cultural_erosion_risk": "低。世界的に広く利用されているため、食文化としての消失リスクは低い。",
+    "conservation_actions_needed": [
+      "自生地である清流や湿地の保全",
+      "水質汚染の監視と防止",
+      "野生集団の遺伝的多様性のモニタリングと種子バンクでの保存"
+    ],
+    "priority_conservation_regions": [
+      "ヨーロッパの石灰岩地帯の湧水地",
+      "遺伝的多様性が残るアジアの山岳地帯"
+    ],
+    "ex_situ_conservation_status": "いくつかの植物園や種子バンクで収集されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "水源保護地域など、生息地の保全活動が間接的にクレソンの保護につながっている例がある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全項目を統合した総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ヨーロッパ（伝統的栽培と野生集団）",
+      "東アジア（伝統医学的利用と食文化）",
+      "気候変動の影響を受けやすい温帯地域の水源地"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に水温上昇とCO2濃度変化）に対する生理学的応答の定量的データ",
+      "野生集団の網羅的な遺伝的多様性評価",
+      "地域ごとの機能性成分の含有量の差異"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "クレソンは品種名がつけられることが少なく、多くは地域系統やクローンとして栽培されているため、品種情報の特定は困難。"
+      },
+      "variety_name": "English Watercress",
+      "local_name": "English Watercress",
+      "origin_region": "イギリス",
+      "distinctive_characteristics": "葉が広く丸みを帯び、辛味がマイルド。茎が太くしっかりしていることが多い。",
+      "cultural_importance": "イギリスの伝統的なサンドイッチやスープに不可欠な食材。",
+      "climate_adaptation": "イギリスの冷涼な気候に適応している。",
+      "conservation_status": "商業的に広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Gardens 'Plants of the World Online'",
+      "USDA FoodData Central",
+      "Ethnobotanical databases",
+      "Peer-reviewed scientific journals on agroecology and nutritional science"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果測定",
+      "世界全体の正確な生産統計"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米、東アジアに関する情報は豊富だが、その他の地域は限定的。",
+    "missing_information": [
+      "世界全体の生産量と貿易額",
+      "先住民コミュニティによる伝統的利用法"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

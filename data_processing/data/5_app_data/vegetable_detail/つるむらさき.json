@@ -1,0 +1,731 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース（KEW, GRIN-Global）および農学研究論文からの情報を統合。野生近縁種との詳細な系統関係は依然として研究途上。"
+    },
+    "primary_name": "Malabar Spinach",
+    "scientific_name": "Basella alba",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "南アジアまたは東南アジア",
+    "wild_relatives": [
+      "Basella paniculata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学データベースおよび多言語の料理文献から収集。先住民コミュニティ固有の名称に関する体系的なデータは限定的。"
+    },
+    "international": {
+      "en": [
+        "Malabar spinach",
+        "Indian spinach",
+        "Ceylon spinach",
+        "Vine spinach"
+      ],
+      "scientific_common": "Basella"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "bn",
+            "name": "পুঁই শাক (Pui shak)",
+            "script": "Bengali"
+          },
+          {
+            "lang": "hi",
+            "name": "पोई (Poi)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "kn",
+            "name": "ಬಸಳೆ ಸೊಪ್ಪು (Basale soppu)",
+            "script": "Kannada"
+          },
+          {
+            "lang": "si",
+            "name": "වෙල් නිවිති (Vel-niviti)",
+            "script": "Sinhala"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Alugbati",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Mồng tơi",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Gendola",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "木耳菜 / 潺菜 (Mù'ěr cài / Shāncài)",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "ツルムラサキ (Tsurumurasaki)",
+            "script": "Japanese"
+          },
+          {
+            "lang": "ko",
+            "name": "말라바시금치 (Mallaba-sigeumchi)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "yo",
+            "name": "Amunututu",
+            "script": "Latin"
+          },
+          {
+            "lang": "ig",
+            "name": "Ndebe",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Bertalha",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Basellaceae",
+      "la": "Basellaceae"
+    },
+    "genus": {
+      "en": "Basella",
+      "la": "Basella"
+    },
+    "species": {
+      "en": "Malabar spinach",
+      "la": "Basella alba"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivar Group",
+        "name": "Basella alba 'Alba' (Green-stemmed)"
+      },
+      {
+        "rank": "Cultivar Group",
+        "name": "Basella alba 'Rubra' (Red-stemmed)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "民族植物学や食文化研究から広く記録されているが、定量的な文化的重要性の評価は困難。特に儀式利用に関する情報は少ない。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "ベンガル料理では魚と共にカレー（Macher Jhol）にするのが象徴的。インド南部では炒め物（Palya）やスープ（Saaru）に利用される。安価で栄養価が高いため、庶民の日常食として不可欠。",
+        "seasonal_significance": "モンスーン期に旺盛に生育し、他の野菜が不足しがちな時期の重要な緑黄色野菜となる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "フィリピンでは酸味のあるスープ（Sinigang）や炒め物に多用される。ベトナムではカニやエビと合わせたスープ（Canh cua mồng tơi）が一般的。粘り気を利用してスープにとろみをつける。",
+        "seasonal_significance": "雨季を通じて収穫できる重要な葉物野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "中国南部や台湾ではスープやニンニク炒めで食される。日本ではおひたしや和え物、炒め物など、夏の葉物野菜として定着している。",
+        "seasonal_significance": "夏の暑さに強い野菜として価値がある。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "アフリカ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "西アフリカ（特にナイジェリア）では、粘り気のあるスープ（'draw soup'）の材料として重要。栄養価が高く、食料安全保障に貢献している。",
+        "seasonal_significance": "年間を通じて栽培可能で、安定した食料供給源。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ベンガル料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Pui Shaak er Chorchori",
+          "Ilish Macher Matha diye Pui Saag"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "炒め物"
+        ],
+        "cultural_context": "日常の家庭料理で頻繁に登場し、特に魚との組み合わせが好まれる。栄養豊富で手に入りやすい庶民の味。"
+      },
+      {
+        "cuisine": "フィリピン料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Sinigang",
+          "Utan Bisaya",
+          "Ginisang Alugbati"
+        ],
+        "preparation_methods": [
+          "スープ",
+          "炒め物"
+        ],
+        "cultural_context": "ホウレンソウやカンコン（空心菜）と同様の扱いで、スープや煮込み料理に緑と栄養を加えるために使われる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インドや東南アジアで古代から食用および薬用として利用されていたと考えられている。",
+      "trade_routes": "明確な記録は少ないが、アラブやヨーロッパの商人による海上交易を通じてアジアからアフリカ、そして新世界へと広まった可能性が高い。",
+      "cultural_exchange": "アジア系移民によって世界中に広まり、各地域の食文化に取り入れられてきた歴史を持つ。",
+      "domestication_history": "栽培化の正確な時期と場所は不明だが、アジアの熱帯地域で始まり、長年の栽培の歴史の中で多くの在来種が生まれたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿（25-35℃）、年間降水量1500mm以上。日当たりが良い場所。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない暖かい季節に生育。夏期の主要な葉物野菜となる。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "一年草として夏期に栽培可能。晩春に播種し、初霜まで収穫できる。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、冬の寒さが厳しいため不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水分要求量が多く、乾燥に弱いため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱いため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "播種後30-45日から継続的に収穫",
+        "growing_period_days": 180
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（5月-6月）",
+        "harvest_season": "夏から初秋（7月-10月）",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 40,000 kg/ha",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水分供給",
+        "土壌肥沃度",
+        "収穫頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "主に国内消費向け。東部および南部で広く栽培。"
+        },
+        {
+          "country": "バングラデシュ",
+          "production_share": null,
+          "characteristics": "重要な日常野菜。家庭菜園から商業栽培まで規模は様々。"
+        },
+        {
+          "country": "フィリピン",
+          "production_share": null,
+          "characteristics": "国内市場向けに広く生産。小規模農家が中心。"
+        },
+        {
+          "country": "ナイジェリア",
+          "production_share": null,
+          "characteristics": "地域市場向けの生産が中心で、食料安全保障に貢献。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "19",
+        "protein_g": "1.8",
+        "carbs_g": "3.4",
+        "fat_g": "0.3",
+        "fiber_g": "2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA (β-カロテン由来)",
+          "amount": "8000 IU",
+          "daily_value_percent": 160
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "102 mg",
+          "daily_value_percent": 170
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.2 mg",
+          "daily_value_percent": 7
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "109 mg",
+          "daily_value_percent": 11
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ルテイン",
+        "concentration": "不明",
+        "health_effect": "眼の健康維持"
+      },
+      {
+        "compound": "ベタシアニン (赤茎種)",
+        "concentration": "不明",
+        "health_effect": "強力な抗酸化作用"
+      },
+      {
+        "compound": "フェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "便秘解消（緩下作用）",
+          "利尿",
+          "解熱"
+        ],
+        "preparation": "葉の搾り汁や調理したものを摂取。"
+      },
+      {
+        "region": "東南アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "皮膚の炎症",
+          "おでき",
+          "火傷"
+        ],
+        "preparation": "生の葉をすり潰して湿布として外用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化活性",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "血糖降下作用",
+        "肝保護作用",
+        "創傷治癒促進効果"
+      ],
+      "safety_considerations": "シュウ酸を少量含むため、腎臓結石のリスクがある人は過剰摂取に注意が必要。通常量の食事では問題ない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理レシピサイトや食文化研究から情報を収集。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アジア全般",
+        "methods": [
+          "炒める (Stir-frying)",
+          "煮る (Boiling)",
+          "蒸す (Steaming)"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ニンニク",
+          "ショウガ",
+          "魚介類（エビ、魚）",
+          "ココナッツミルク"
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "methods": [
+          "煮込み (Stewing)"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "唐辛子",
+          "ヤムイモ",
+          "干し魚",
+          "パーム油"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "湯通し後冷凍",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が柔らかくなるが、栄養価は比較的保たれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "マイルド、わずかに土の風味、ほうれん草に似るが酸味は少ない。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "柔らかく、加熱すると粘液質によるぬめり（MUCILAGINOUS）が出る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、品種レベルでの定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、精度は低い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生育可能",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2500 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つるが損傷しやすいが、回復力は高い。",
+      "hail_damage_recovery": "葉に穴が開くが、新しい葉が次々と出るため回復は早い。",
+      "rapid_temperature_change": "高温への適応は高いが、急激な低温には弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物のため、CO2濃度上昇により光合成と成長が促進される可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "元来強健だが、温暖化による新規害虫の北上・拡大には脆弱な可能性がある。",
+      "disease_resistance_stability": "高温多湿環境での糸状菌病（炭疽病など）のリスクは温暖化で高まる可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯、温帯の夏期",
+        "2050_projection": "現在の栽培適地が緯度・標高ともに拡大。温帯地域での栽培可能期間が延長。",
+        "2100_projection": "さらに栽培適地は拡大するが、一部の熱帯地域では極端な高温や干ばつにより生産性が低下するリスクがある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "種内の交雑は容易だが、野生近縁種との交雑親和性や自然交雑の実例に関する科学的報告は非常に少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "緑茎種と赤茎種は容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "不明"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジアやアフリカの原産地・栽培中心地には、葉の形、色、大きさ、粘性などが異なる多様な在来種が存在する。",
+      "wild_gene_pool": "野生近縁種との遺伝子流動に関する情報は不明。",
+      "adaptive_genetic_variation": "広範な栽培地域に適応した在来種が存在することから、高い適応的遺伝変異が示唆される。",
+      "inbreeding_depression_risk": "自家受粉もするため、隔離された集団ではリスクがあるが、全体としては低い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "在来種の遺伝資源を利用することで、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "栄養価の高い在来種との交配による育種の可能性がある。",
+      "novel_characteristics": "葉の色、形、粘性の度合いなどの形質改変が可能。",
+      "hybrid_vigor_potential": "異なる在来種間の交配により、収量性や生育旺盛さの向上が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑については不明。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "高温、多湿、病害虫圧",
+        "adaptive_traits": "耐暑性、強健性、速い成長速度",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での直接的な研究は乏しい。植物の一般的特性（生育旺盛、高いバイオマス生産）からの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅いが、密なひげ根を張る。",
+      "organic_matter_contribution": "生育が速くバイオマス生産量が多いため、収穫後の残渣は土壌有機物の良い供給源となる。",
+      "soil_structure_improvement": "根系が土壌粒子を繋ぎ、団粒構造の形成を助ける可能性がある。",
+      "erosion_control": "つる性で地表を密に覆うため、雨滴による土壌侵食を防ぐリビングマルチとして機能する。",
+      "nutrient_cycling_role": "窒素固定能力はないが、土壌中の養分を効率的に吸収し、植物バイオマスとして地上部に蓄積する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "目立たないが小さな花を咲かせ、ミツバチやハナアブなどの小型の訪花昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "密な葉は、クモやテントウムシなどの天敵昆虫の隠れ家を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "限定的だが、生垣やフェンスに這わせることで立体的な緑の空間を創出する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により、雨水の地表流出を減らし、土壌への浸透を促進する。",
+      "moisture_retention": "土壌表面を覆うことで、直射日光による水分蒸発を抑制する。",
+      "runoff_reduction": "効果あり",
+      "groundwater_recharge": "限定的ながら貢献の可能性あり。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い。生育が非常に速いため、短期間で多くの炭素を固定する。",
+      "below_ground_carbon": "根系のバイオマスは地上部に比べて少ないため、限定的。",
+      "soil_carbon_enhancement": "残渣の鋤き込みにより土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明だが、熱帯の生育条件下では高いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシやオクラのような背の高い作物の株元を覆うグランドカバーとして利用可能。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "報告なし"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "高温期に他の作物が育ちにくい時期に収穫できるため、食料供給の安定性に貢献する。",
+      "stress_tolerance": "高温ストレスに強い。",
+      "recovery_capacity": "刈り取り後の再生能力が非常に高い。",
+      "adaptability": "多様な土壌条件に適応する。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "フードシステムや市場に関する分析は存在するが、代替タンパク質のような新規用途の研究はまだ初期段階。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラルが豊富で、植物ベースの食事において重要な栄養源となる。",
+      "food_security_contribution": "栽培が容易で生産性が高いため、特に熱帯・亜熱帯地域の小規模農家や家庭菜園において食料安全保障に大きく貢献する。",
+      "local_food_system_integration": "主に地域市場で流通しており、地産地消に適した作物。",
+      "alternative_protein_potential": "タンパク質含有量は高くないため、主要な代替タンパク質源としての可能性は低い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けに「スーパーフード」としてのマーケティング。",
+        "アジア系移民コミュニティ以外へのエスニック野菜としての紹介。",
+        "温暖化に対応する夏場の葉物野菜として、温帯地域での生産拡大。"
+      ],
+      "value_added_products": [
+        "乾燥粉末（スムージーや栄養補助食品向け）",
+        "冷凍野菜",
+        "ベビーフードの原料"
+      ],
+      "niche_market_value": "エスニック食品店やファーマーズマーケットで高い価値を持つ可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "在来種の分布や遺伝的多様性の消失リスクに関する体系的な調査は不足している。評価は一般的な脅威に基づく。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種については生息地の破壊が脅威となる可能性がある。",
+    "climate_change_vulnerability": "栽培種としては低いが、野生種は特定の生態系に依存している場合、脆弱性が高い可能性がある。",
+    "cultural_erosion_risk": "中",
+    "conservation_actions_needed": [
+      "原産地および主要栽培地域における在来種の収集と評価",
+      "遺伝子銀行（ジーンバンク）での種子の長期保存（ex-situ conservation）",
+      "地域コミュニティによる在来種の栽培と利用の奨励（in-situ conservation）"
+    ],
+    "priority_conservation_regions": [
+      "インド東部",
+      "東南アジアの多様性中心地"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンクに一定数の種子サンプルが保存されている。",
+    "in_situ_conservation_efforts": "限定的。主に地域農家によって維持されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた知見に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "南アジア",
+      "東南アジア",
+      "西アフリカ"
+    ],
+    "knowledge_gaps": [
+      "在来種の遺伝的多様性の定量的評価",
+      "気候変動要因（乾燥、CO2濃度）に対する品種レベルでの生理学的応答",
+      "野生近縁種との交雑可能性と遺伝資源としての価値"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種としての情報は多いが、伝統的な在来種の体系的な分類は不十分。"
+      },
+      "variety_name": "Basella alba 'Alba'",
+      "local_name": "Green Malabar Spinach",
+      "origin_region": "アジア",
+      "distinctive_characteristics": "茎と葉脈が緑色。成長が早く、最も一般的に栽培されているタイプ。",
+      "cultural_importance": "世界中の栽培地域で広く利用されている標準的な品種。",
+      "climate_adaptation": "高い耐暑性を持つ。",
+      "conservation_status": "Not Threatened"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種としての情報は多いが、伝統的な在来種の体系的な分類は不十分。"
+      },
+      "variety_name": "Basella alba 'Rubra'",
+      "local_name": "Red Malabar Spinach",
+      "origin_region": "アジア",
+      "distinctive_characteristics": "茎と葉脈が赤紫色。緑茎種よりやや成長が遅いとされる。観賞価値も高い。",
+      "cultural_importance": "料理に彩りを加えるために利用される。ベタシアニン色素を含む。",
+      "climate_adaptation": "高い耐暑性を持つが、緑茎種よりわずかに繊細とされることがある。",
+      "conservation_status": "Not Threatened"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Vegetable Center (AVRDC) databases",
+      "PROTA (Plant Resources of Tropical Africa)",
+      "Ethnobotanical research papers",
+      "Agronomic studies on tropical vegetables"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "在来種の遺伝的多様性と保全状況に関する網羅的データ",
+      "世界的な生産・流通に関する正確な統計データ"
+    ],
+    "regional_data_coverage": "アジアに関するデータは豊富だが、アフリカや南米に関する詳細な情報は比較的少ない。",
+    "missing_information": [
+      "先住民コミュニティにおける固有の利用法",
+      "野生近縁種の詳細な分布と生態"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

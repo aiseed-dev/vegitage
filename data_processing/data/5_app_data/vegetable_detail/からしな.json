@@ -1,0 +1,773 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is well-documented in major botanical and agricultural databases. Its origin as a hybrid is widely accepted."
+    },
+    "primary_name": "Brown Mustard",
+    "scientific_name": "Brassica juncea",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "根",
+      "種子",
+      "花"
+    ],
+    "origin_region": "中央アジア（B. rapaとB. nigraの自然交雑による複二倍体と推定）",
+    "wild_relatives": [
+      "Brassica rapa",
+      "Brassica nigra"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Widespread cultivation has led to numerous local names, well-documented in ethnobotanical literature."
+    },
+    "international": {
+      "en": [
+        "Brown Mustard",
+        "Indian Mustard",
+        "Mustard Greens",
+        "Chinese Mustard"
+      ],
+      "scientific_common": "Juncea Mustard"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "सरसों",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "pa",
+            "name": "ਸਰ੍ਹੋਂ",
+            "script": "Gurmukhi"
+          },
+          {
+            "lang": "bn",
+            "name": "সরিষা",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "芥菜",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "カラシナ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ko",
+            "name": "갓",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "cải bẹ xanh",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ผักกาดเขียว",
+            "script": "Thai"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "am",
+            "name": "ጎመን",
+            "script": "Ethiopic"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "ru",
+            "name": "Горчица сарептская",
+            "script": "Cyrillic"
+          },
+          {
+            "lang": "fr",
+            "name": "Moutarde brune",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomy is well-established within the Brassicaceae family."
+    },
+    "family": {
+      "en": "Mustard Family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Mustard",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Brown Mustard",
+      "la": "juncea"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "crispifolia"
+      },
+      {
+        "rank": "var.",
+        "name": "japonica"
+      },
+      {
+        "rank": "var.",
+        "name": "rugosa"
+      },
+      {
+        "rank": "var.",
+        "name": "tsatsai"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Extensive documentation exists on its culinary and cultural roles across Asia and parts of Africa."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "葉は『サルソン・カ・サーグ』として主要な冬の料理。種子から採れるマスタードオイルは調理油として不可欠。宗教儀式でも油が利用される。",
+        "seasonal_significance": "冬の収穫と食文化に深く結びついている。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "保存食",
+          "薬用"
+        ],
+        "traditional_uses": "中国では茎を漬物（搾菜）に、日本では葉を漬物（高菜漬け）に、韓国ではキムチ（갓김치）にするなど、多様な発酵保存食文化の中核を担う。",
+        "seasonal_significance": "秋から冬にかけての主要な漬物用野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "アフリカ（特にエチオピア）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "『ゴメン』として知られ、他の野菜や豆類と共に煮込み料理（ウォット）に多用される。種子は油糧用としても重要。",
+        "seasonal_significance": "年間を通じて栽培・消費される重要な葉物野菜。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "パンジャーブ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Sarson da Saag"
+        ],
+        "preparation_methods": [
+          "煮込み"
+        ],
+        "cultural_context": "冬の豊穣を祝う象徴的な料理で、マッキ・ディ・ロティ（トウモロコシのパン）と共に食される。"
+      },
+      {
+        "cuisine": "四川料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Zha cai (搾菜)"
+        ],
+        "preparation_methods": [
+          "塩漬け",
+          "圧搾",
+          "発酵",
+          "香辛料漬け"
+        ],
+        "cultural_context": "独特の食感と風味を持つ重要な漬物で、粥の付け合わせや炒め物の具材として広く使われる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "数千年前からアジアで栽培。古代インドのサンスクリット文献にも記述が見られる。",
+      "trade_routes": "シルクロードを通じて東西に伝播し、各地の食文化に適応・分化した。",
+      "cultural_exchange": "東アジアの漬物文化の発展に大きく貢献し、地域ごとに多様な加工技術を生み出した。",
+      "domestication_history": "中央アジアでB. rapaとB. nigraが自然交雑して誕生後、人間による選抜を経て、葉用、種子用、根用、茎用など多様な形態に分化した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な季節に限定。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冷涼で乾燥した冬作が最適。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春作または秋作が最適。夏の高温は生育を阻害。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "短い生育期間を活かした夏作が可能。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑条件下での栽培が必要。乾燥耐性は比較的高い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温に弱い。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋（10月-11月）",
+        "harvest_season": "冬から初春（1月-3月）",
+        "growing_period_days": "葉用は40-60日、種子用は110-140日"
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春（3月-4月）または晩夏（8月-9月）",
+        "harvest_season": "春（5月-6月）または秋（10月-11月）",
+        "growing_period_days": "50-70日"
+      }
+    ],
+    "productivity": {
+      "yield_range": "葉用: 15,000-25,000 kg/ha, 種子用: 1,500-2,500 kg/ha",
+      "factors_affecting_yield": [
+        "播種時期",
+        "施肥",
+        "水管理",
+        "病害虫の発生",
+        "開花期の天候"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（葉用と種子用で統計が分かれているため合計値は困難）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "世界最大の種子生産国の一つ。マスタードオイルの主要供給源。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "葉用、茎用（搾菜）、種子用と多様な品種が大規模に栽培されている。"
+        },
+        {
+          "country": "ネパール",
+          "production_share": "不明",
+          "characteristics": "山間部での重要な油糧作物および葉物野菜。"
+        },
+        {
+          "country": "カナダ",
+          "production_share": "不明",
+          "characteristics": "主に種子用（ブラウンマスタード、オリエンタルマスタード）を輸出向けに生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、多様な品種や調理法による機能性成分の変化に関するデータは限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "27",
+        "protein_g": "2.9",
+        "carbs_g": "4.7",
+        "fat_g": "0.4",
+        "fiber_g": "3.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "257.5 µg",
+          "daily_value_percent": "215%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "3024 IU",
+          "daily_value_percent": "61%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "70 mg",
+          "daily_value_percent": "117%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート（特にシニグリン）",
+        "concentration": "品種、生育段階により変動",
+        "health_effect": "抗酸化作用、抗がん作用の可能性。分解されるとアリルイソチオシアネート（辛味成分）を生成。"
+      },
+      {
+        "compound": "フラボノイド（ケンフェロール、クェルセチン）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "去痰",
+          "消化促進",
+          "血行促進",
+          "鎮痛"
+        ],
+        "preparation": "種子のペーストを湿布として外用、または油をマッサージに使用。"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "肺の気の流れを良くする",
+          "痰を取り除く",
+          "腫れを引かせる"
+        ],
+        "preparation": "種子（芥子）を粉末や丸薬として内服。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高栄養価（ビタミンK, A, C）"
+      ],
+      "ongoing_research": [
+        "グルコシノレートの抗がん作用",
+        "心血管疾患リスク低減効果"
+      ],
+      "safety_considerations": "甲状腺腫誘発物質（ゴイトロゲン）を含むため、甲状腺機能に問題がある場合は生での大量摂取に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の料理本や民族植物学研究で調理法が豊富に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "煮込み（長時間）",
+          "炒め物",
+          "種子を油で熱して香りを出す（テンパリング）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ほうれん草",
+          "バター",
+          "ニンニク",
+          "生姜",
+          "トウモロコシ粉"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "塩漬け",
+          "発酵",
+          "炒め物",
+          "スープ"
+        ],
+        "flavor_role": "香辛料/薬味",
+        "typical_combinations": [
+          "豚肉",
+          "唐辛子",
+          "米",
+          "豆腐"
+        ]
+      },
+      {
+        "region": "アメリカ南部",
+        "methods": [
+          "煮込み（ハムホック等と共に）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "豚肉（ベーコン、ハム）",
+          "玉ねぎ",
+          "酢"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け・乳酸発酵",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "数ヶ月～数年",
+        "quality_changes": "辛味が和らぎ、うま味と酸味が増す。食感が変化する。"
+      },
+      {
+        "method": "搾油",
+        "regions": [
+          "南アジア",
+          "中国"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "種子から特有の辛味と風味を持つ油を抽出。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "葉や種子を保存。風味は変化するが、再水和して使用可能。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ピリッとした辛味、わずかな苦味、加熱すると甘みが出る。",
+      "aroma_compounds": [
+        "アリルイソチオシアネート"
+      ],
+      "texture_characteristics": "生ではシャキシャキ、加熱すると柔らかくなる。漬物にすると独特の歯ごたえが生まれる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "B. napusとの比較研究が多く、耐乾性・耐暑性の優位性が示唆されているが、品種レベルでの定量データは不足している。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "10-22°C",
+      "extreme_heat_survival": "開花期の30°C以上は収量に悪影響。",
+      "cold_tolerance": "-5°C程度まで耐えるが、強い霜には弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "B. napusより高いとされる。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "400-600mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。成熟期の倒伏に注意が必要。",
+      "hail_damage_recovery": "栄養成長期であれば回復力は比較的高い。",
+      "rapid_temperature_change": "中程度の適応性を持つ。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物として、CO2濃度上昇による光合成促進効果が期待される。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によるアブラムシ等の発生時期・量の変化に脆弱な可能性がある。",
+      "disease_resistance_stability": "品種によるが、白さび病など特定の病気には比較的強い品種が存在する。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯、亜熱帯の冬作地域",
+        "2050_projection": "栽培適地が高緯度・高地へ移動する可能性。既存の亜熱帯地域では高温ストレスが増加する。",
+        "2100_projection": "適地の移動がさらに顕著になり、一部地域では栽培が困難になる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "B. juncea自体の起源が自然交雑であり、ウの三角形（U's Triangle）理論で交雑関係がよく研究されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "葉用、種子用、根用など多様な変種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "親種であるB. rapa（カブ、ハクサイ）やB. nigra（クロガラシ）と交雑可能。B. napus（セイヨウアブラナ）とも交雑することがある。"
+      ],
+      "intergeneric_possibility": [
+        "Sinapis（シロガラシ属）など近縁属との交雑も報告されているが、自然界では稀。"
+      ],
+      "successful_natural_hybrids": [
+        "B. juncea自体がB. rapaとB. nigraの自然交雑の成功例。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジアとアフリカに極めて多様な在来品種が存在し、遺伝的多様性の宝庫となっている。",
+      "wild_gene_pool": "親種である野生のB. rapaやB. nigraとの遺伝子流動の可能性がある。",
+      "adaptive_genetic_variation": "乾燥、塩害、病害など様々なストレスに対する適応的遺伝変異が在来種内に存在する。",
+      "inbreeding_depression_risk": "他家受粉性が高いため、通常は低いが、小規模な集団ではリスクがありうる。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インド亜大陸の乾燥地帯",
+        "environmental_pressure": "断続的な干ばつと高温",
+        "adaptive_response": "深い主根の発達、クチクラ層の肥厚、早期開花・成熟",
+        "time_scale": "数百年～数千年",
+        "mechanism": "自然選択による耐乾性・耐暑性関連遺伝子の集積"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性・耐暑性を持つB. junceaと、高収量の他種（B. napusなど）との交雑による新品種開発の可能性がある。",
+      "improved_nutritional_content": "多様な品種間の交雑により、特定のビタミンや機能性成分を強化できる可能性がある。",
+      "novel_characteristics": "B. rapaの根の肥大性やB. nigraの病害抵抗性などを取り込む可能性がある。",
+      "hybrid_vigor_potential": "遠縁の在来種間の交雑により、高い雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑では胚珠の敗退など、交雑後の障壁が存在することがある。",
+      "chromosome_compatibility": "ゲノム構成（AABB）が異なる種（例：B. oleracea CCゲノム）との交雑は困難。",
+      "fertility_of_hybrids": "異数体が生じやすく、雑種の稔性が低下することがある。",
+      "backcrossing_success": "有用遺伝子を導入するための戻し交配は、多くのBrassica種で成功している。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥",
+        "adaptive_traits": [
+          "根の深さ",
+          "水利用効率"
+        ],
+        "heritability": "中程度から高い",
+        "response_to_selection": "比較的速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "カバークロップとしての利用研究は多いが、伝統的な混植システムにおける生態系サービスに関する定量的データは限定的。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く発達する主根が硬盤層を破砕し、土壌の通気性・透水性を改善する。",
+      "organic_matter_contribution": "緑肥として鋤き込むことで、豊富なバイオマスを土壌に供給する。",
+      "soil_structure_improvement": "根の働きと有機物供給により、土壌の団粒構造を促進する。",
+      "erosion_control": "生育初期の被覆性が高く、風食・水食を抑制する。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる（養分ポンプ効果）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "豊富な花蜜と花粉をミツバチなどの訪花昆虫に提供する。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシや寄生蜂の生息地となる。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用についての詳細は不明。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る孔隙によって雨水の土壌浸透を促進する。",
+      "moisture_retention": "有機物供給による土壌の保水性向上に寄与する。",
+      "runoff_reduction": "地表を被覆し、雨水の地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系のため、地下部への炭素蓄積ポテンシャルは比較的高い。",
+      "soil_carbon_enhancement": "緑肥利用により土壌有機炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科作物との輪作で土壌窒素を有効利用する。"
+      ],
+      "natural_pest_control": "バイオフェミゲーション効果。グルコシノレートが分解される際に放出されるイソチオシアネートが、土壌中の病原菌や線虫を抑制する。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "発芽抑制物質を放出することがあり、後作の作物に影響を与える場合がある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで病害虫のサイクルを断ち切り、生態系の安定に貢献する。",
+      "stress_tolerance": "比較的高い。",
+      "recovery_capacity": "中程度。",
+      "adaptability": "高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栄養価、バイオ燃料、ファイトレメディエーションなど多岐にわたる研究が行われている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラルが豊富な緑黄色野菜として価値が高い。",
+      "food_security_contribution": "生育期間が短く、厳しい環境でも比較的栽培しやすいため、小規模農家の食料安全保障に貢献する。",
+      "local_food_system_integration": "世界中の地域食品システムに深く根付いている。",
+      "alternative_protein_potential": "種子から油を搾った後の油粕は、タンパク質が豊富で飼料や食料資源としての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによる「マスタードグリーン」の消費拡大",
+        "機能性成分に着目したスーパーフードとしての展開"
+      ],
+      "value_added_products": [
+        "特色ある漬物（高菜、搾菜）",
+        "高品質なマスタードオイル",
+        "マスタード調味料",
+        "健康補助食品"
+      ],
+      "niche_market_value": "特定の辛味や風味を持つ在来品種は、高級食材として高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の重要性は認識されているが、各地域の在来種の消失リスクに関する体系的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "伝統的な農法の衰退と単一栽培化が遺伝的多様性の生息域を脅かしている。",
+    "climate_change_vulnerability": "特定の地域に適応した在来種は、急激な気候変動に対して脆弱である可能性がある。",
+    "cultural_erosion_risk": "伝統的な食文化や加工技術の喪失は、関連する在来品種の消失に直結する。",
+    "conservation_actions_needed": [
+      "在来種の探索と収集",
+      "ジーンバンクでの種子保存（域外保全）",
+      "参加型育種を通じた農家による種子管理支援（域内保全）",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "ヒマラヤ山麓地域",
+      "中国雲南省",
+      "エチオピア高原"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンクに多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域でNGOや地域コミュニティによる種子保存活動が行われているが、広範ではない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集された情報に基づく専門家としての総合的判断である。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "南アジアの乾燥地帯",
+      "東アジアの発酵文化圏",
+      "アフリカの角地域"
+    ],
+    "knowledge_gaps": [
+      "多様な在来種の気候変動応答に関する定量的データ",
+      "伝統的な混作体系における生態系サービス機能の評価"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "これらの品種は、それぞれの地域で象徴的な存在であり、よく知られている。"
+      },
+      "variety_name": "Zha cai (榨菜)",
+      "local_name": "榨菜",
+      "origin_region": "中国・四川省",
+      "distinctive_characteristics": "肥大した茎を食用とし、特有の突起がある。漬物にすることでコリコリした食感が生まれる。",
+      "cultural_importance": "四川料理を代表する漬物であり、中国全土で広く消費される。",
+      "climate_adaptation": "冷涼な気候を好む。",
+      "conservation_status": "商業的に広く栽培されているが、伝統的な製法とそれに使われる原種は保全が必要。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "これらの品種は、それぞれの地域で象徴的な存在であり、よく知られている。"
+      },
+      "variety_name": "Takana (高菜)",
+      "local_name": "タカナ",
+      "origin_region": "日本・九州地方",
+      "distinctive_characteristics": "幅広で大きな葉が特徴。特有の辛味があり、漬物にすると風味が豊かになる。",
+      "cultural_importance": "九州地方の郷土料理（高菜漬け、高菜チャーハン）に不可欠。",
+      "climate_adaptation": "耐寒性が強く、温暖な地域の冬作に適する。",
+      "conservation_status": "複数の在来系統が存在し、地域ブランドとして保全されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "これらの品種は、それぞれの地域で象徴的な存在であり、よく知られている。"
+      },
+      "variety_name": "Pusa Bold",
+      "local_name": "Pusa Bold",
+      "origin_region": "インド",
+      "distinctive_characteristics": "種子用の高収量品種。耐病性があり、広域適応性を持つ。",
+      "cultural_importance": "インドの緑の革命以降、マスタードオイル生産の基幹をなす重要品種。",
+      "climate_adaptation": "インドの乾燥・半乾燥地帯の気候に適応している。",
+      "conservation_status": "広く普及している改良品種。在来種の多様性を脅かす側面も指摘される。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-10-27",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "World Vegetable Center (AVRDC) database",
+      "CGIAR Genebank Platform",
+      "FAOSTAT",
+      "Ethnobotanical literature reviews",
+      "Peer-reviewed journals on agroecology and plant genetics"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "伝統的栽培システムにおける微生物との相互作用"
+    ],
+    "regional_data_coverage": "アジアに関するデータは豊富だが、アフリカや南米での利用に関するデータは比較的少ない。",
+    "missing_information": [
+      "先住民コミュニティにおける固有の利用法や名称",
+      "小規模な地域在来種の詳細な特性データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

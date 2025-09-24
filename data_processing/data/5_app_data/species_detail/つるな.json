@@ -1,0 +1,692 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew, GRIN）および各国の植物誌から統合。野生近縁種に関する詳細な遺伝的関係は部分的に不明。"
+    },
+    "primary_name": "New Zealand Spinach",
+    "scientific_name": "Tetragonia tetragonoides",
+    "plant_type": "一年草/多年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "オセアニア、東アジア、南米の沿岸地域",
+    "wild_relatives": [
+      "Tetragonia implexicoma",
+      "Tetragonia fruticosa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の植物名データベース、民族植物学の記録から収集。特にオセアニアと東アジアでの呼称は豊富。"
+    },
+    "international": {
+      "en": [
+        "New Zealand Spinach",
+        "Warrigal Greens",
+        "Sea Spinach",
+        "Botany Bay Greens"
+      ],
+      "scientific_common": "Tetragonia"
+    },
+    "regional": [
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "en-AU",
+            "name": "Warrigal Greens",
+            "script": "Latn"
+          },
+          {
+            "lang": "mi",
+            "name": "Kōkihi",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ツルナ",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "番杏",
+            "script": "Hans"
+          },
+          {
+            "lang": "ko",
+            "name": "번행초",
+            "script": "Hang"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Tétragone cornue",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Neuseeländer Spinat",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Māori (New Zealand)",
+        "name": "Kōkihi",
+        "cultural_significance": "伝統的な緑黄色野菜（Rau Rākau）であり、食用および薬用として利用された。"
+      },
+      {
+        "community": "Aboriginal Australians (multiple groups)",
+        "name": "Warrigal",
+        "cultural_significance": "沿岸部の重要な食料源。特に内陸の食料が乏しい時期に利用された。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースからの情報を統合。"
+    },
+    "family": {
+      "en": "Ice Plant Family",
+      "la": "Aizoaceae"
+    },
+    "genus": {
+      "en": "Tetragonia",
+      "la": "Tetragonia"
+    },
+    "species": {
+      "en": "New Zealand Spinach",
+      "la": "tetragonoides"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、歴史的航海記録（ジェームズ・クックの航海日誌など）、地域食文化の研究に基づき評価。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "オセアニア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "マオリ族やアボリジニの伝統的な食料源。特にビタミンC源として重要。生ではなく加熱調理して利用された。",
+        "seasonal_significance": "年間を通じて利用可能だが、特に他の食料が少ない時期の重要な生存食料。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "日本では「ツルナ」として知られ、海岸で自生するものを山菜のように採取し、おひたしや和え物として食されてきた。漢方では薬用としても利用される。",
+        "seasonal_significance": "主に夏から秋にかけて収穫される季節の野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ・北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "18世紀にジェームズ・クックによって紹介され、ホウレンソウの代替品として、特に夏の暑い時期に栽培が広まった。歴史的に壊血病予防に貢献した。",
+        "seasonal_significance": "夏の家庭菜園で重宝される野菜。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "マオリ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Hāngi (地熱蒸し料理)の具材",
+          "Boiled greens"
+        ],
+        "preparation_methods": [
+          "蒸す",
+          "茹でる"
+        ],
+        "cultural_context": "他の根菜や肉と共に調理される重要な緑黄色野菜。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "おひたし",
+          "ごま和え",
+          "味噌汁の具"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒める"
+        ],
+        "cultural_context": "浜辺の幸として、季節感を表す食材。アクが強いため、必ず下茹でして使用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "オセアニアの先住民によって数千年前から利用されていたと推定される。",
+      "trade_routes": "ジェームズ・クックのエンデバー号の航海（1770年）を通じて、オセアニアからヨーロッパへ紹介された。交易品ではなく、船員の食料として伝播した。",
+      "cultural_exchange": "壊血病予防に効果があったことから、大航海時代の食料事情に影響を与え、西洋における新しい野菜として定着した。",
+      "domestication_history": "明確な栽培化の歴史は不明。野生種に近い形で世界中に広まり、各地で栽培されている。品種改良はほとんど進んでいない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌と適度な水分があれば生育可能。高温多湿にも強い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "最も生育に適した気候帯の一つ。年間を通じて栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない季節に旺盛に生育する。夏にホウレンソウが育たない地域での代替として最適。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "強い霜や凍結には耐えられないため、一年草としての栽培のみ可能。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に強いが、沿岸部の湿気や霧を好む。灌漑があれば内陸の乾燥地でも栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（終霜後）",
+        "harvest_season": "初夏から秋（初霜まで）",
+        "growing_period_days": 60
+      },
+      {
+        "climate_zone": "亜熱帯・熱帯",
+        "planting_season": "通年（乾季が最適）",
+        "harvest_season": "通年",
+        "growing_period_days": 50
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産データが乏しい）",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水分供給",
+        "土壌の肥沃度",
+        "収穫頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "オーストラリア",
+          "production_share": null,
+          "characteristics": "小規模農家やレストラン向けの生産が中心。野生採取も行われる。"
+        },
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "一部の農家が伝統野菜として栽培。家庭菜園や直売所での流通が主。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や地域による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "14",
+        "protein_g": "2.5",
+        "carbs_g": "2.1",
+        "fat_g": "0.2",
+        "fiber_g": "1.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "30 mg",
+          "daily_value_percent": 33
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "300 mcg",
+          "daily_value_percent": 250
+        },
+        {
+          "nutrient": "β-カロテン",
+          "amount": "2000 mcg",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.5 mg",
+          "daily_value_percent": 22
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "シュウ酸（Oxalates）",
+        "concentration": "高",
+        "health_effect": "過剰摂取は腎臓結石のリスクを高める可能性がある。加熱により低減可能。"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "中",
+        "health_effect": "抗炎症作用や免疫調節作用が報告されているが、苦味成分でもある。"
+      },
+      {
+        "compound": "フェノール類",
+        "concentration": "中",
+        "health_effect": "抗酸化作用を持つ。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "オセアニア",
+        "medical_system": "マオリ伝統医学",
+        "uses": [
+          "壊血病の予防と治療",
+          "消化促進",
+          "強壮剤"
+        ],
+        "preparation": "葉を茹でたものを食用、または煮汁を飲用。"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学・漢方",
+        "uses": [
+          "解熱",
+          "解毒",
+          "消炎（胃腸炎、皮膚炎）"
+        ],
+        "preparation": "全草を乾燥させて煎じ薬として使用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "血糖値調節作用",
+        "抗菌活性"
+      ],
+      "safety_considerations": "シュウ酸を多く含むため、生食は避けるべきである。腎臓に問題のある人は摂取に注意が必要。必ず茹でるか十分に加熱調理することが推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各国の料理書、食文化研究、民族誌から調理法を収集。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる（おひたし、和え物）",
+          "炒める",
+          "汁物"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "ごま",
+          "味噌",
+          "豆腐"
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "methods": [
+          "蒸す",
+          "茹でる",
+          "炒める",
+          "パイやキッシュの具材"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "バター",
+          "クリーム",
+          "チーズ",
+          "羊肉"
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "ソテー",
+          "クリーム煮",
+          "スープ"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ニンニク",
+          "オリーブオイル",
+          "ナツメグ",
+          "卵"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "湯通し・冷凍",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "6-12ヶ月",
+        "quality_changes": "食感はやや柔らかくなるが、色と栄養価は比較的保たれる。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りは飛ぶが、薬用や保存食として利用される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかな塩味、わずかな苦味、うま味。ホウレンソウに似るが、より野性的でミネラル感が強い。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "肉厚で多肉質。加熱すると柔らかく、ぬめりが少し出る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは少ない。評価は植物の生態的特性（多肉質、沿岸自生）からの類推が主。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上でも生育可能",
+      "cold_tolerance": "0°C以下で地上部が枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い（多肉質の葉に水分を貯蔵）",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地面を這う性質のため、強風による倒伏のリスクは低い）",
+      "hail_damage_recovery": "高（成長が旺盛なため、葉の損傷からの回復が早い）",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的にC3植物として恩恵を受ける可能性）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（沿岸部の強い日差しに適応）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "比較的病害虫に強いが、ナメクジやカタツムリの食害を受けることがある。",
+      "disease_resistance_stability": "高い",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯沿岸部、亜熱帯地域",
+        "2050_projection": "温帯域全般に拡大、特に地中海性気候地域での適性が向上",
+        "2100_projection": "高緯度地域の一部でも夏季栽培が可能になる可能性",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属他種との交雑に関する学術的報告は非常に少ない。遺伝的多様性は、広範な自生分布から高いと推定される。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域エコタイプ間の交雑は可能と推定"
+      ],
+      "interspecific_compatibility": [
+        "不明"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "限定的。主に野生型が栽培されている。",
+      "wild_gene_pool": "非常に広範で多様。太平洋を取り巻く広大な自生地に多様な遺伝子プールが存在する。",
+      "adaptive_genetic_variation": "高い。塩分濃度、土壌、日照条件など、各地の環境に適応したエコタイプが存在する。",
+      "inbreeding_depression_risk": "低い"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界中の沿岸砂丘",
+        "environmental_pressure": "高塩分濃度、強風、乾燥、貧栄養土壌",
+        "adaptive_response": "多肉質の葉、匍匐性の成長、塩分排出能力",
+        "time_scale": "数千年以上",
+        "mechanism": "自然選択による適応進化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生の遺伝子プールを活用することで、さらなる耐乾性・耐塩性の向上が期待できる。",
+      "improved_nutritional_content": "シュウ酸含量の少ない系統の選抜や交配が可能かもしれない。",
+      "novel_characteristics": "葉の形、大きさ、風味の改良。",
+      "hybrid_vigor_potential": "高いと推定"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "塩ストレス",
+        "adaptive_traits": "塩分排出腺、多肉化",
+        "heritability": "高いと推定",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的な研究は少ないが、植物の生態的特性からリジェネラティブ農業への適性を高く評価できる。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅いが、広く張る繊維根を持つ。",
+      "organic_matter_contribution": "旺盛な生育により、収穫残渣が土壌有機物を供給する。",
+      "soil_structure_improvement": "地表を覆うことで雨滴による土壌のクラスト化を防ぐ。",
+      "erosion_control": "匍匐性の成長形態が地面を覆い、風食および水食を効果的に防止する（リビングマルチ）。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さく目立たない花だが、ハナアブや小型のハチなどの在来送粉者を引き寄せる。",
+      "beneficial_insect_habitat": "地表を覆う葉が、クモやテントウムシなどの天敵昆虫の隠れ家となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "地被植物として機能し、小動物の生息環境を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "葉が雨滴の衝撃を和らげ、土壌への水の浸透を助ける。",
+      "moisture_retention": "地面を覆うことで土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "地表流の速度を低下させ、土壌侵食を減らす。",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "リビングマルチとして機能し、土壌有機炭素の維持・向上に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "背の高い作物（トウモロコシ、トマトなど）の下草として利用可能。"
+      ],
+      "natural_pest_control": "雑草を抑制する。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "報告なし"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "地被植物として土壌を保護し、生態系の安定に寄与する。",
+      "stress_tolerance": "高い（特に熱、乾燥、塩分）。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場データは限定的だが、食のトレンドや持続可能性の観点から将来性が評価されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ホウレンソウの代替として、特に気候変動下での安定供給が可能な緑黄色野菜。",
+      "food_security_contribution": "辺境地や条件不利地域（乾燥地、沿岸部）での栽培に適しており、地域の食料安全保障に貢献できる。",
+      "local_food_system_integration": "家庭菜園や小規模農業に適しており、地産地消モデルに適合する。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "気候変動対応型野菜としてのプロモーション",
+        "レストラン向けの高級・珍奇野菜",
+        "民族料理（エスニックフード）市場"
+      ],
+      "value_added_products": [
+        "冷凍野菜",
+        "乾燥ハーブ（薬用）",
+        "調理済み食品（パイ、キッシュなど）"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物学的には絶滅リスクは低いが、文化的利用の多様性と地域ごとの遺伝資源の保全が課題。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "中（自生地である沿岸部の開発による脅威）",
+    "climate_change_vulnerability": "低い（むしろ適応性が高い）",
+    "cultural_erosion_risk": "中（先住民による伝統的知識の喪失リスク）",
+    "conservation_actions_needed": [
+      "各地の野生集団の遺伝的多様性の評価と保全",
+      "先住民コミュニティと連携した伝統的知識の記録と継承",
+      "シードバンクでの地域系統の保存（域外保全）"
+    ],
+    "priority_conservation_regions": [
+      "オーストラリア南東部沿岸",
+      "ニュージーランド沿岸",
+      "日本の南西諸島"
+    ],
+    "ex_situ_conservation_status": "いくつかの主要なシードバンク（例：Svalbard Global Seed Vault）に種子が保存されている。",
+    "in_situ_conservation_efforts": "特定の保護活動は報告されていないが、多くの自生地が国立公園や保護区内に含まれている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロンプトで収集した情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "オセアニア",
+      "東南アジア沿岸部"
+    ],
+    "knowledge_gaps": [
+      "シュウ酸含量の地域変異と低減技術",
+      "同属他種との交雑親和性",
+      "リジェネラティブ農業システムにおける定量的効果"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "商業的な品種分化はほとんどなく、多くは「野生型」または「普通種」として流通している。これは一例としての記載。"
+      },
+      "variety_name": "Common Type",
+      "local_name": "ツルナ / Warrigal Greens",
+      "origin_region": "広域",
+      "distinctive_characteristics": "地面を這うように広がる匍匐性の茎。三角形の多肉質な葉。栽培が容易で、暑さ、乾燥、塩分に強い。",
+      "cultural_importance": "世界各地でホウレンソウの代替として、また伝統野菜として利用される基本種。",
+      "climate_adaptation": "高い耐暑性、耐乾性、耐塩性を持つ。",
+      "conservation_status": "Least Concern (LC)"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens 'Plants of the World Online'",
+      "GRIN-Global Taxonomy",
+      "Ethnobotanical databases",
+      "Peer-reviewed scientific articles on agroecology and plant science"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種・地域系統レベルでの応答の差異",
+      "同属近縁種との交配可能性と育種への応用"
+    ],
+    "regional_data_coverage": "オセアニアと東アジアの情報は豊富だが、南米やアフリカの自生種に関する情報は限定的。",
+    "missing_information": [
+      "商業生産における詳細な収量データ",
+      "香気成分の化学的分析"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

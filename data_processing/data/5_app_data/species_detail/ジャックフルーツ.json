@@ -1,0 +1,692 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is consolidated from major botanical databases (Kew, GRIN), FAO reports, and ethnobotanical studies. Data on wild relatives is well-documented within the genus Artocarpus."
+    },
+    "primary_name": "Jackfruit",
+    "scientific_name": "Artocarpus heterophyllus",
+    "plant_type": "木本",
+    "edible_parts": [
+      "果実",
+      "種子"
+    ],
+    "origin_region": "インド南西部（西ガーツ山脈）",
+    "wild_relatives": [
+      "Artocarpus integer",
+      "Artocarpus altilis",
+      "Artocarpus chaplasha"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical dictionaries and agricultural databases."
+    },
+    "international": {
+      "en": [
+        "Jackfruit",
+        "Jakfruit"
+      ],
+      "scientific_common": "Jack Tree"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "कटहल",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "কাঁঠাল",
+            "script": "Bengali"
+          },
+          {
+            "lang": "ta",
+            "name": "பலா",
+            "script": "Tamil"
+          },
+          {
+            "lang": "si",
+            "name": "කොස්",
+            "script": "Sinhala"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "ขนุน",
+            "script": "Thai"
+          },
+          {
+            "lang": "ms",
+            "name": "Nangka",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Mít",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Langka",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Jaca",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification based on the APG IV system, cross-referenced with major botanical databases."
+    },
+    "family": {
+      "en": "Mulberry family",
+      "la": "Moraceae"
+    },
+    "genus": {
+      "en": "Breadfruit",
+      "la": "Artocarpus"
+    },
+    "species": {
+      "en": "Jackfruit",
+      "la": "heterophyllus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is based on extensive anthropological and culinary history literature covering South and Southeast Asia."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "未熟果は野菜としてカレーに、熟した果物はデザートとして消費される。種子も重要な食料源。バングラデシュの国果であり、ケララ州（インド）の州果でもある。木材は家具や楽器に利用される。",
+        "seasonal_significance": "夏の収穫期には重要な食料となり、地域の祭りと結びつくことが多い。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "インドネシアのジョグジャカルタの伝統料理「グドゥ」に未熟果が不可欠。タイ、ベトナム、フィリピン、マレーシアでもカレー、煮込み料理、デザート、チップスなど多様に利用される。",
+        "seasonal_significance": "乾季から雨季にかけての食料供給源として重要。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "南インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Chakka Puzhukku (マッシュジャックフルーツ)",
+          "Kathal Biryani (ジャックフルーツのビリヤニ)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "炒め物",
+          "カレー"
+        ],
+        "cultural_context": "未熟果は肉の代替として、また主要な炭水化物源として利用される。"
+      },
+      {
+        "cuisine": "インドネシア料理（ジャワ）",
+        "role": "staple",
+        "traditional_dishes": [
+          "Gudeg (ジャックフルーツの甘い煮込み)"
+        ],
+        "preparation_methods": [
+          "煮込み"
+        ],
+        "cultural_context": "ジョグジャカルタ市の象徴的な料理であり、地域のアイデンティティと深く結びついている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インドで3000年から6000年前に栽培が始まったとされる。古代サンスクリット文学にも記述が見られる。",
+      "trade_routes": "古代の海上交易路を通じて、インドから東南アジア、さらには東アフリカへと伝播した。",
+      "cultural_exchange": "仏教僧侶の移動とともに伝播し、各地の食文化に深く根付いた。",
+      "domestication_history": "西ガーツ山脈の野生種から選抜育種され、多様な品種が生まれたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間降水量1000-2400mm、年間平均気温24-28°C、霜が降りない湿潤な低地。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "温暖で霜の少ない地域。成長は遅くなるが結実可能。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱く、生育できない。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さと乾燥に耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度を必要とし、乾燥には弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に耐えられない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "主に雨季（地域により年2回の収穫期がある場合も）",
+        "growing_period_days": 2555
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000-50,000 kg/ha（成熟した果樹園）",
+      "factors_affecting_yield": [
+        "受粉（風媒と虫媒）",
+        "樹齢",
+        "品種",
+        "土壌の肥沃度と水分",
+        "適切な剪定"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": -1,
+          "characteristics": "世界最大の生産国。国内消費が主で、多様な品種が存在する。"
+        },
+        {
+          "country": "バングラデシュ",
+          "production_share": -1,
+          "characteristics": "国果であり、国内で広く栽培・消費されている。"
+        },
+        {
+          "country": "タイ",
+          "production_share": -1,
+          "characteristics": "輸出向けの加工品（缶詰、チップス）生産が盛ん。"
+        },
+        {
+          "country": "インドネシア",
+          "production_share": -1,
+          "characteristics": "国内市場向けに広く栽培され、地域料理に不可欠。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価データは豊富だが、品種や熟度による機能性成分の変動に関する研究は進行中。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "95",
+        "protein_g": "1.7",
+        "carbs_g": "23.2",
+        "fat_g": "0.6",
+        "fiber_g": "1.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "13.8mg",
+          "daily_value_percent": 17
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "448mg",
+          "daily_value_percent": 10
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "0.3mg",
+          "daily_value_percent": 25
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド（アルトカルペチン等）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "カロテノイド（β-カロテン、ルテイン）",
+        "concentration": "不明",
+        "health_effect": "視力保護、抗酸化作用"
+      },
+      {
+        "compound": "レクチン（ジャカリン）",
+        "concentration": "不明",
+        "health_effect": "免疫調節作用（研究段階）"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "樹液の抗炎症作用（外用）",
+          "根の煎じ薬（下痢、喘息）",
+          "葉の抽出物（皮膚病）"
+        ],
+        "preparation": "煎じ薬、湿布、抽出物"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "血糖値上昇抑制効果（未熟果）"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "抗菌作用",
+        "創傷治癒促進効果"
+      ],
+      "safety_considerations": "ラテックスアレルギーやシラカバ花粉アレルギーを持つ人は交差反応を起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本、食文化研究、農業普及資料から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "カレー",
+          "ビリヤニ",
+          "炒め物",
+          "ピクルス"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "スパイス（ターメリック、コリアンダー、クミン）",
+          "ココナッツミルク",
+          "タマネギ",
+          "トマト"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "煮込み",
+          "スープ",
+          "サラダ",
+          "デザート（熟果）",
+          "フライ（チップス）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "パームシュガー",
+          "ガランガル",
+          "レモングラス"
+        ]
+      },
+      {
+        "region": "欧米",
+        "methods": [
+          "煮込み（プルドポーク風）",
+          "タコスフィリング",
+          "ハンバーガーパティ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "バーベキューソース",
+          "スモークパプリカ",
+          "クミン",
+          "チリパウダー"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "缶詰（シロップ漬け、塩水漬け）",
+        "regions": [
+          "タイ",
+          "ベトナム",
+          "フィリピン"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "食感が柔らかくなり、風味が変化する。"
+      },
+      {
+        "method": "乾燥（チップス、フリーズドライ）",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "6ヶ月-1年",
+        "quality_changes": "水分が抜け、風味が凝縮される。"
+      },
+      {
+        "method": "製粉",
+        "regions": [
+          "インド"
+        ],
+        "shelf_life": "約6ヶ月",
+        "quality_changes": "グルテンフリーの小麦粉代替品として利用可能。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "未熟果：中立的、わずかにデンプン質。調理法次第で味を吸収する。熟果：非常に甘く、パイナップル、バナナ、マンゴーを混ぜたような独特の強い芳香。",
+      "aroma_compounds": [
+        "エステル類（酢酸イソアミル、酪酸エチル）"
+      ],
+      "texture_characteristics": "未熟果：しっかりとした繊維質で、加熱するとほぐれやすい（肉に似る）。熟果：柔らかく、ねっとりしているが、品種によってはシャキシャキしたものもある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐性に関する情報は主に栽培経験に基づく定性的記述。定量的な実験データは少ない。将来予測は一般的な気候モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "24-30°C",
+      "extreme_heat_survival": "40°C以上でも短期間なら耐えるが、果実の品質は低下する。",
+      "cold_tolerance": "0°C以下で深刻なダメージを受ける。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1000-2400mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（深い根系を持つが、大きな果実と脆い枝は強風で損傷しやすい）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "低"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として、光合成促進の可能性はある）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により果実穿孔虫やカイガラムシの分布が拡大する可能性がある。",
+      "disease_resistance_stability": "根腐れ病（リゾクトニア菌）は高温多湿で増加する可能性がある。",
+      "beneficial_organism_relationships": "送粉者（昆虫、風）との関係が気候変動で影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯低地",
+        "2050_projection": "現在の亜熱帯地域やより高緯度・高地へ適地が拡大する可能性がある一方、現在の中心地の一部では過度の高温や干ばつがリスクとなる可能性がある。",
+        "2100_projection": "不明",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同属他種との自然交雑の事例は報告されているが、遺伝的多様性の網羅的な評価や適応メカニズムの解明は途上。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の在来品種（ランドレース）が存在し、相互の交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Artocarpus integer (Cempedak)"
+      ],
+      "intergeneric_possibility": [
+        "報告なし"
+      ],
+      "successful_natural_hybrids": [
+        "Nangkadak (Jackfruit x Cempedak)"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地であるインドの西ガーツ山脈や東南アジアには、果実の大きさ、形、色、味、収穫時期が異なる多様な在来品種が存在する。",
+      "wild_gene_pool": "不明",
+      "adaptive_genetic_variation": "地域の気候や土壌に適応した多様な遺伝的変異が存在すると考えられる。",
+      "inbreeding_depression_risk": "自家不和合性を持つ品種が多く、他家受粉が主であるためリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "東南アジア",
+        "environmental_pressure": "多様な気候と土壌条件",
+        "adaptive_response": "果実の特性や生育サイクルが異なる多数の地域品種（ランドレース）の分化",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "自然選択と農家による人為選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁種との交雑により、耐乾性や特定の病害虫への耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "品種改良により、特定のビタミンや機能性成分の含有量を高める可能性がある。",
+      "novel_characteristics": "果実のサイズを小さくしたり、収穫時期を調整したりするなどの新しい特性を獲得できる可能性がある。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致が障壁となることがある。",
+      "chromosome_compatibility": "Artocarpus属内では染色体数が共通（2n=56）している種が多く、交雑は比較的容易。",
+      "fertility_of_hybrids": "種間雑種でも稔性は比較的高い。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アグロフォレストリーシステムでの定性的な利点は広く認識されているが、炭素隔離率などの定量的なデータは限定的。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く強力な主根と広く張る側根を持ち、土壌を安定させる。",
+      "organic_matter_contribution": "大量の落葉により、土壌表面に有機物層（マルチ）を形成し、土壌の肥沃度を高める。",
+      "soil_structure_improvement": "根が土壌深くに侵入し、水や空気の通り道を形成して団粒構造を改善する。",
+      "erosion_control": "樹冠が雨滴による土壌侵食を防ぎ、根系が土壌を保持する。",
+      "nutrient_cycling_role": "深層の養分を吸い上げ、落葉を通じて表層に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "不明",
+      "beneficial_insect_habitat": "樹冠が多様な昆虫や鳥類の生息地となる。",
+      "soil_microorganism_interaction": "根圏で菌根菌と共生し、土壌微生物相を豊かにする。",
+      "above_ground_biodiversity": "果実はコウモリ、サル、リスなどの野生動物の食料源となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌の孔隙性を高め、雨水の浸透を促進する。",
+      "moisture_retention": "落葉マルチが土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "樹冠とマルチ層が地表流出を抑制する。",
+      "groundwater_recharge": "浸透促進により地下水涵養に貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高（大型の永年性樹木であるため、幹、枝、葉に大量の炭素を貯蔵する）",
+      "below_ground_carbon": "高（広範で深い根系に炭素を蓄積する）",
+      "soil_carbon_enhancement": "落葉や根の分解を通じて土壌有機炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "コショウ、カルダモン、コーヒー、カカオ（シェードツリーとして）",
+        "バナナ、パパイヤ（初期の収入源として）"
+      ],
+      "natural_pest_control": "多様な植生が天敵の生息地を提供する。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "アグロフォレストリーシステムの中核樹種として、生態系の安定性に貢献する。",
+      "stress_tolerance": "一度定着すると、ある程度の干ばつや貧栄養土壌にも耐える。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、食品科学、国際開発に関する報告書に基づき、現代的価値を評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "未熟果の食感が肉に似ているため、世界的に植物性代替肉の原料として注目されている。",
+      "food_security_contribution": "1本の木から大量のカロリーが収穫でき、「飢餓を救う木」として熱帯地域の食料安全保障に貢献するポテンシャルが高い。",
+      "local_food_system_integration": "自家消費や地域市場での販売が容易で、小規模農家の収入源となる。",
+      "alternative_protein_potential": "果肉自体はタンパク質が少ないが、種子はタンパク質、ミネラルが豊富で、粉に加工して利用できる。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "植物性代替肉市場",
+        "グルテンフリー食品市場（種子の粉）",
+        "健康志向のスナック市場（チップス）"
+      ],
+      "value_added_products": [
+        "レトルトカレー",
+        "プルドジャックフルーツ（BBQ味など）",
+        "ジャックフルーツ粉",
+        "フリーズドライフルーツ"
+      ],
+      "niche_market_value": "ビーガン、ベジタリアン、グルテンフリーの消費者層に高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNではLeast Concernと評価されているが、在来品種の遺伝的多様性の消失リスクは地域レベルで懸念されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地の西ガーツ山脈における森林伐採が野生種の生息地を脅かしている。",
+    "climate_change_vulnerability": "低（種としては）/中（特定の品種としては）",
+    "cultural_erosion_risk": "中（伝統的な調理法や利用知識が若い世代に継承されないリスク）",
+    "conservation_actions_needed": [
+      "在来品種の収集、評価、およびジーンバンクでの保存（域外保全）",
+      "多様な品種を維持する伝統的農法（ホームガーデン等）の支援（域内保全）",
+      "利用法の多様化と市場開拓による栽培インセンティブの向上"
+    ],
+    "priority_conservation_regions": [
+      "インド（西ガーツ山脈）",
+      "バングラデシュ",
+      "インドネシア（ジャワ島、スマトラ島）"
+    ],
+    "ex_situ_conservation_status": "いくつかの国のジーンバンクや植物園で収集されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "地域コミュニティやNGOによる小規模な保全活動が存在する。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた多角的な情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド（西ガーツ山脈）",
+      "インドネシア",
+      "バングラデシュ"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に干ばつと高温）に対する品種ごとの生理学的応答の定量的データ",
+      "最適なリジェネラティブ農業システム（混植パートナー等）に関する科学的検証",
+      "世界中の在来品種の遺伝的多様性の網羅的マッピング"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は地域的なものが多く、国際的に標準化されていない。"
+      },
+      "variety_name": "Varikka",
+      "local_name": "Varikka",
+      "origin_region": "インド（ケララ州）、スリランカ",
+      "distinctive_characteristics": "熟した果肉が硬く、シャキシャキしている。非常に甘い。調理しても形が崩れにくい。",
+      "cultural_importance": "高品質な食用果実として非常に人気が高い。",
+      "climate_adaptation": "地域の気候によく適応している。",
+      "conservation_status": "広く栽培されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は地域的なものが多く、国際的に標準化されていない。"
+      },
+      "variety_name": "Koozha",
+      "local_name": "Koozha",
+      "origin_region": "インド（ケララ州）、スリランカ",
+      "distinctive_characteristics": "熟した果肉が非常に柔らかく、ねっとりしている。繊維質が多い。",
+      "cultural_importance": "主に調理用やジャムなどの加工品に利用される。",
+      "climate_adaptation": "地域の気候によく適応している。",
+      "conservation_status": "広く栽培されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "World Agroforestry Centre (ICRAF) databases",
+      "Food and Agriculture Organization (FAO) reports",
+      "Purdue University NewCROP database",
+      "Ethnobotanical and anthropological academic journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種の遺伝子プールの詳細な評価"
+    ],
+    "regional_data_coverage": "南アジアと東南アジアは豊富。アフリカ、ラテンアメリカは限定的。",
+    "missing_information": [
+      "年間総生産量の信頼できる統計データ",
+      "品種ごとの詳細な栄養成分分析"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

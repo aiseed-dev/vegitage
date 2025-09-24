@@ -1,0 +1,678 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業研究論文、民族植物学の記録を統合。分類学的にはCapparis spinosa complexとして議論されることがあり、亜種や近縁種との境界は流動的である。"
+    },
+    "primary_name": "Caper",
+    "scientific_name": "Capparis spinosa",
+    "plant_type": "木本",
+    "edible_parts": [
+      "花",
+      "果実",
+      "葉",
+      "茎"
+    ],
+    "origin_region": "地中海沿岸および西アジア・中央アジアの一部",
+    "wild_relatives": [
+      "Capparis ovata",
+      "Capparis sicula",
+      "Capparis aegyptia"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の言語辞書、植物名データベース、料理書から収集。"
+    },
+    "international": {
+      "en": [
+        "Caper",
+        "Caper bush",
+        "Flinders rose"
+      ],
+      "scientific_common": "Caper"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Cappero",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Alcaparra",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Câpre",
+            "script": "Latn"
+          },
+          {
+            "lang": "el",
+            "name": "Κάππαρη",
+            "script": "Grek"
+          },
+          {
+            "lang": "tr",
+            "name": "Gebre Otu",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "قبار",
+            "script": "Arab"
+          },
+          {
+            "lang": "he",
+            "name": "צלף קוצני",
+            "script": "Hebr"
+          },
+          {
+            "lang": "fa",
+            "name": "کبر",
+            "script": "Arab"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "करर",
+            "script": "Deva"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "パンテッレリーア島（イタリア）の住民",
+        "name": "Cappero di Pantelleria",
+        "cultural_significance": "島の経済と食文化の象徴。IGP（地理的表示保護）認定を受けており、独特の栽培法と品質が世代から世代へと受け継がれている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Caper family",
+      "la": "Capparaceae"
+    },
+    "genus": {
+      "en": "Caper",
+      "la": "Capparis"
+    },
+    "species": {
+      "en": "Caper",
+      "la": "spinosa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "spinosa"
+      },
+      {
+        "rank": "subsp.",
+        "name": "rupestris"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史文献、考古学的証拠、現代の料理文化研究に基づく。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物",
+          "景観形成"
+        ],
+        "traditional_uses": "蕾（ケッパー）と果実（ケッパーベリー）を酢漬けや塩漬けにして保存し、魚料理、肉料理、パスタソース、サラダの風味付けに不可欠な食材。古代ローマ時代から薬用としても利用された記録がある。",
+        "seasonal_significance": "夏の収穫期は地域の重要な経済活動であり、共同体作業の対象となることがある。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理（特に南部）",
+        "role": "essential",
+        "traditional_dishes": [
+          "スパゲッティ・アッラ・プッタネスカ",
+          "ヴィテッロ・トンナート",
+          "カポナータ"
+        ],
+        "preparation_methods": [
+          "塩漬け",
+          "酢漬け"
+        ],
+        "cultural_context": "貧しい土地でも育つ強靭さから「貧者のラン」とも呼ばれ、限られた食材に豊かな風味と複雑さを与える重要な役割を果たしてきた。"
+      },
+      {
+        "cuisine": "フランス料理（プロヴァンス）",
+        "role": "common",
+        "traditional_dishes": [
+          "タプナード",
+          "サラダ・ニソワーズ",
+          "ソース・タルタル"
+        ],
+        "preparation_methods": [
+          "酢漬け"
+        ],
+        "cultural_context": "地中海の風味を象徴する食材として、ソースやペーストの酸味と塩味の基盤を形成する。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "シュメールのギルガメシュ叙事詩に記述があるとされ、古代エジプト、ギリシャ、ローマで食用および薬用として広く利用されていた。聖書にも言及がある（解釈には諸説あり）。",
+      "trade_routes": "古代から地中海交易の重要な商品の一つであり、保存性の高さから長距離輸送に適していた。",
+      "cultural_exchange": "アラブ経由でイベリア半島に広まるなど、食文化の伝播において重要な役割を果たした。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、数千年にわたり野生または半野生の状態で利用され、徐々に栽培が広まったと考えられる。特定の地域で優良な系統が選抜されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "過湿と高温多湿を嫌うため不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌と乾季が必要。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "温暖で乾燥した夏と、氷点下にならない冬を持つ地域（地中海性気候）。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "厳しい冬の寒さに耐えられない。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "非常に高い乾燥耐性を持ち、年間降水量200-400mmの地域でも生育可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "地中海性気候",
+        "planting_season": "春",
+        "harvest_season": "晩春から夏（5月から8月）",
+        "growing_period_days": 2190
+      }
+    ],
+    "productivity": {
+      "yield_range": "500 - 3000 kg/ha（成熟したプランテーション）",
+      "factors_affecting_yield": [
+        "株の年齢",
+        "気象条件（特に収穫期の降雨）",
+        "土壌の水はけ",
+        "収穫頻度（手摘み）",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "モロッコ",
+          "production_share": null,
+          "characteristics": "世界最大級の生産国・輸出国。主に大規模栽培。"
+        },
+        {
+          "country": "スペイン",
+          "production_share": null,
+          "characteristics": "大規模な商業生産が盛ん。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": null,
+          "characteristics": "野生および栽培品の重要な供給源。"
+        },
+        {
+          "country": "イタリア",
+          "production_share": null,
+          "characteristics": "パンテッレリーア島やサリーナ島など、高品質なブランド品の生産で知られる。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは酢漬けや塩漬けのものが主で、生の状態のデータは少ない。機能性成分に関する研究は進んでいるが、品種や栽培条件による差異は未解明な点が多い。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "23",
+        "protein_g": "2.4",
+        "carbs_g": "5",
+        "fat_g": "0.9",
+        "fiber_g": "3.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "24.6 µg",
+          "daily_value_percent": 21
+        },
+        {
+          "nutrient": "ナトリウム",
+          "amount": "2964 mg",
+          "daily_value_percent": 129
+        },
+        {
+          "nutrient": "銅",
+          "amount": "0.4 mg",
+          "daily_value_percent": 43
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.7 mg",
+          "daily_value_percent": 9
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ルチン",
+        "concentration": "非常に高い",
+        "health_effect": "強力な抗酸化作用、毛細血管の強化。"
+      },
+      {
+        "compound": "クェルセチン",
+        "concentration": "高い",
+        "health_effect": "抗酸化作用、抗炎症作用、抗アレルギー作用。"
+      },
+      {
+        "compound": "ケンペロール",
+        "concentration": "中程度",
+        "health_effect": "抗酸化作用、抗がん作用の可能性。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "地中海地域",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "利尿",
+          "食欲増進",
+          "リウマチや関節痛の緩和",
+          "消化促進"
+        ],
+        "preparation": "根皮の煎じ薬、蕾の酢漬けの摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗糖尿病効果",
+        "肝保護作用",
+        "抗アレルギー効果",
+        "抗がん作用"
+      ],
+      "safety_considerations": "塩漬けや酢漬けはナトリウム含有量が非常に高いため、高血圧や腎臓疾患のある人は摂取量に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書や食文化研究に基づき、広範な利用法が確認されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "塩抜きして生のまま使用",
+          "ソースで煮込む",
+          "炒める",
+          "揚げる（ケッパーフリット）"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "魚介類（特にサーモン、マグロ、アンチョビ）",
+          "トマト",
+          "オリーブ",
+          "レモン",
+          "鶏肉"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け",
+        "regions": [
+          "イタリア（特に南部）"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "水分が抜け、風味が凝縮され、独特の香りが生まれる。使用前に塩抜きが必要。"
+      },
+      {
+        "method": "酢漬け（ブライン漬け）",
+        "regions": [
+          "世界全般"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "酸味が加わり、より爽やかな風味になる。塩漬けに比べて風味が穏やかとされる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ピリッとした辛味、強い塩味、爽やかな酸味、わずかな苦味、フローラルな香り",
+      "aroma_compounds": [
+        "イソチオシアン酸メチル（マスタードオイルの成分）"
+      ],
+      "texture_characteristics": "塩漬けはしっかりとした歯ごたえ、酢漬けはやや柔らかい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述や栽培実績は豊富だが、制御環境下での定量的な実験データは限られる。将来予測は、本種の生態的ニッチモデルに基づく一般的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C（生育期）",
+      "extreme_heat_survival": "40°C以上でも生存可能",
+      "cold_tolerance": "-5°C程度まで（休眠期）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "非常に高い。深い主根と、気孔を閉じる能力による。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "300-600mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "匍匐性の低木であるため、強風には比較的強い。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "比較的強い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。C3植物であるため、一定の増収効果が期待されるが、研究データは不足。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高いと推定される（原産地の日射量から）。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化による害虫（ケッパーバエなど）の発生期間長期化のリスクがある。",
+      "disease_resistance_stability": "過湿条件での根腐れや真菌性疾患に弱い。乾燥化は病気リスクを低減させる可能性がある。",
+      "beneficial_organism_relationships": "送粉者への依存度が高いため、送粉者の減少は生産性に影響を与える。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海沿岸、中東、中央アジアの乾燥・半乾燥地域",
+        "2050_projection": "現在の栽培地の北限が北上し、内陸のより乾燥した地域への適応可能性が広がる。",
+        "2100_projection": "南地中海の一部地域では過度の乾燥と熱ストレスで生産性が低下する可能性があるが、ヨーロッパ中部・東部の現在より温暖・乾燥化する地域が新たな適地となる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Capparis spinosa種複合体内での交雑は広く知られているが、その適応的意義に関する定量的研究は少ない。遺伝的多様性の評価は進行中である。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "subsp. spinosa",
+        "subsp. rupestris"
+      ],
+      "interspecific_compatibility": [
+        "Capparis ovata",
+        "Capparis sicula"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い"
+      ],
+      "successful_natural_hybrids": [
+        "C. spinosaとC. ovataの自然交雑帯がトルコや中央アジアで報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "地中海の島嶼部（パンテッレリーア、サリーナなど）や各地域に、形態や風味の異なる多様な在来種が存在する。",
+      "wild_gene_pool": "野生集団が広範に存在し、栽培種との遺伝子流動が継続的に起きている。",
+      "adaptive_genetic_variation": "乾燥、塩分、貧栄養土壌に対する高い適応的遺伝変異を持つことが示唆されている。",
+      "inbreeding_depression_risk": "他家受粉性であり、遺伝的多様性が高いためリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "エーゲ海の島々",
+        "environmental_pressure": "強風、塩分、極度の乾燥",
+        "adaptive_response": "匍匐性の樹形、多肉質の葉、深い根系",
+        "time_scale": "数千年",
+        "mechanism": "厳しい環境への自然選択による局所適応。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、さらに高い耐乾性や耐塩性を持つ系統が生まれる可能性がある。",
+      "improved_nutritional_content": "野生種が持つ特有の機能性成分を取り込む可能性がある。",
+      "novel_characteristics": "風味、蕾のサイズ、収量性、棘の有無などの形質改良の可能性がある。",
+      "hybrid_vigor_potential": "高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種複合体内では低い。",
+      "chromosome_compatibility": "種複合体内では高い。",
+      "fertility_of_hybrids": "一般的に高い。",
+      "backcrossing_success": "高いと予想される。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水ストレス",
+        "adaptive_traits": "深い根系、クチクラ層が厚い葉",
+        "heritability": "中〜高",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "本種の生態学的特性からの推定が主であり、リジェネラティブ農業システムでの効果を定量的に測定した研究は少ない。しかし、そのポテンシャルは非常に高いと評価される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "非常に深い主根（数メートルに達する）と広範な側根を持つ。",
+      "organic_matter_contribution": "落葉により土壌表面に有機物を供給する。",
+      "soil_structure_improvement": "深い根が土壌の硬盤を破壊し、水と空気の通り道を改善する。",
+      "erosion_control": "匍匐性の樹形と広範な根系が、特に傾斜地での土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "深層土壌から養分を吸い上げ、落葉を通じて表層土壌に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きく香りの良い花は、ハチ、チョウ、ガなど多様な花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "低木は、捕食性昆虫やクモなどの隠れ家を提供する。",
+      "soil_microorganism_interaction": "根圏で菌根菌との共生関係を形成し、土壌微生物叢の多様性に貢献する可能性がある。",
+      "above_ground_biodiversity": "乾燥地において、鳥類や小動物に避難場所や食料（果実）を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作るチャネルにより、降雨の土壌への浸透を促進する。",
+      "moisture_retention": "植物体が地面を覆うことで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "地表流を遅らせ、土壌侵食を防ぐ。",
+      "groundwater_recharge": "土壌への浸透を助けることで、間接的に地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "多年生の木本植物として、地上部に炭素を固定する。",
+      "below_ground_carbon": "広範で深い根系に大量の炭素を長期間貯留する。",
+      "soil_carbon_enhancement": "根の活動と有機物供給を通じて、土壌有機炭素（SOC）の蓄積を促進する。",
+      "carbon_sequestration_rate": "不明だが、一年生作物よりはるかに高いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "タイム、ローズマリー、ラベンダーなどの乾燥に強いハーブ類",
+        "オリーブやブドウ（アグロフォレストリーシステム）"
+      ],
+      "natural_pest_control": "多様な天敵を誘引することで、周囲の作物の害虫抑制に貢献する可能性がある。",
+      "nutrient_sharing": "菌根ネットワークを介した栄養共有の可能性。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "乾燥や熱波などの気候ストレスに対するシステム全体の緩衝能力を高める。",
+      "stress_tolerance": "個体レベルでの高いストレス耐性が、生態系全体の安定に寄与する。",
+      "recovery_capacity": "干ばつ後も回復する能力が高い。",
+      "adaptability": "痩せ地や荒廃地でも生育可能で、土地利用の選択肢を広げる。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、食品科学、持続可能な農業に関する報告書に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "独特の風味と機能性成分により、植物性食品の魅力を高める重要な要素となる。",
+      "food_security_contribution": "気候変動が進行する中で、他の作物が育たない限界地での食料生産を可能にする作物として価値が高い。",
+      "local_food_system_integration": "地域の気候に適応した多年生作物として、持続可能な地域食料システムの核となりうる。",
+      "alternative_protein_potential": "低い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・サプリメント市場（ルチン、クェルセチン抽出物）",
+        "高品質な地理的表示（GI）産品のプレミアム市場",
+        "気候変動適応型農業・景観再生プロジェクトでの利用"
+      ],
+      "value_added_products": [
+        "ケッパーペースト",
+        "ケッパーソルト",
+        "ケッパーベリーのピクルス",
+        "ケッパーの葉の酢漬け",
+        "化粧品原料（抗酸化成分）"
+      ],
+      "niche_market_value": "非常に高い。特に高品質な塩漬けケッパーや特定の産地のものは、高級食材として取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種のレベルでの絶滅リスクは低いが、遺伝的多様性、特に地域固有の在来種の保全が重要課題である。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生集団は、都市開発や農業の集約化により生息地を脅かされている地域がある。",
+    "climate_change_vulnerability": "低いが、極端な干ばつや熱波は一部の地域の集団に影響を与える可能性がある。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "地域固有の在来種の特定、収集、およびジーンバンクでの保存（ex-situ）",
+      "伝統的な栽培知識を持つ農家の支援と、その知識の記録",
+      "在来種を栽培する農家への経済的インセンティブの提供（GI認証など）",
+      "野生集団の遺伝的多様性モニタリング"
+    ],
+    "priority_conservation_regions": [
+      "パンテッレリーア島、サリーナ島（イタリア）",
+      "エーゲ海の島々（ギリシャ）",
+      "アナトリア高原（トルコ）"
+    ],
+    "ex_situ_conservation_status": "いくつかの植物園やジーンバンクで種子や栄養繁殖体が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "IGP（地理的表示保護）などの制度が、特定の地域での在来種と栽培システムの保全に貢献している。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本レポートの総合的評価に基づく。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海島嶼部（遺伝的多様性と伝統的知識）",
+      "中央アジア（野生種と栽培種の交雑地帯）",
+      "サハラ砂漠周縁部（極限環境での適応メカニズム）"
+    ],
+    "knowledge_gaps": [
+      "気候変動要因（CO2濃度、極端気象）に対する生理学的応答の定量的データ",
+      "根圏微生物叢との相互作用の詳細",
+      "品種・地域ごとの機能性成分含有量の体系的比較"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "専門文献および地理的表示保護（IGP）の公式情報に基づく。"
+      },
+      "variety_name": "Nocellara (Pantelleria)",
+      "local_name": "Cappero di Pantelleria",
+      "origin_region": "パンテッレリーア島（イタリア）",
+      "distinctive_characteristics": "蕾が大きく、固く、球形に近い。風味が濃厚で、フローラルな香りが強い。棘が少ない系統が選抜されている。",
+      "cultural_importance": "島の経済と文化の象徴。IGP認定を受けており、世界で最も高品質なケッパーの一つとされる。",
+      "climate_adaptation": "島の火山性土壌、強風、乾燥した気候に高度に特化している。",
+      "conservation_status": "IGP制度により保護されているが、栽培放棄のリスクがある。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "栽培情報に基づくが、遺伝的特性の詳細は限定的。"
+      },
+      "variety_name": "Inermis",
+      "local_name": "Inermis (Thornless)",
+      "origin_region": "不明（選抜育種）",
+      "distinctive_characteristics": "植物体に棘がほとんどないため、手作業による収穫が容易である。",
+      "cultural_importance": "商業栽培、特に大規模プランテーションでの生産性向上のために重要。",
+      "climate_adaptation": "基本的な耐乾性・耐暑性は原種に準ずる。",
+      "conservation_status": "商業的に広く利用されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Science - Plants of the World Online",
+      "FAO - Ecocrop database",
+      "Journal of Ethnopharmacology",
+      "Journal of Agricultural and Food Chemistry",
+      "Agronomy Journal"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業システムにおける炭素固定能力の定量的評価",
+      "気候変動に対する品種レベルでの生理学的応答の詳細な比較データ",
+      "野生遺伝資源の体系的な評価と保全状況"
+    ],
+    "regional_data_coverage": "地中海地域に関するデータは豊富だが、中央アジアや中東の野生集団や伝統的利用に関するデータは比較的少ない。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "アレルゲンに関する情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

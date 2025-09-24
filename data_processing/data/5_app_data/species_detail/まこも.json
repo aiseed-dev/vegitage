@@ -1,0 +1,592 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース(KEW, GBIF)から統合。食用部位の特殊性に関する情報は農学・民族植物学の文献に基づく。"
+    },
+    "primary_name": "Manchurian Wild Rice",
+    "scientific_name": "Zizania latifolia",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "種子",
+      "根茎"
+    ],
+    "origin_region": "東アジア",
+    "wild_relatives": [
+      "Zizania aquatica",
+      "Zizania palustris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア地域における名称は広く記録されている。その他の地域ではほとんど知られていない。"
+    },
+    "international": {
+      "en": [
+        "Manchurian Wild Rice",
+        "Water Bamboo",
+        "Coba"
+      ],
+      "scientific_common": "Zizania latifolia"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "マコモ",
+            "script": "Katakana/Hiragana"
+          },
+          {
+            "lang": "zh",
+            "name": "茭白",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "줄",
+            "script": "Hangul"
+          },
+          {
+            "lang": "vi",
+            "name": "củ niễng",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "日本の神道文化圏",
+        "name": "真菰 (Makomo)",
+        "cultural_significance": "神が宿る草とされ、出雲大社などの神事で神聖な敷物や飾りとして使用される。穢れを祓う力があると信じられている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類体系はAPG IVに基づき、主要な植物データベースで確認済み。"
+    },
+    "family": {
+      "en": "Grass family",
+      "la": "Poaceae"
+    },
+    "genus": {
+      "en": "Wild rice",
+      "la": "Zizania"
+    },
+    "species": {
+      "en": "Manchurian wild rice",
+      "la": "Zizania latifolia"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "東アジアにおける文化的価値は文献が豊富だが、他地域での認知度はほぼ皆無。データは地域的に偏在している。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "儀式用",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "中国では古代から重要な水生野菜。日本では食材としての利用に加え、出雲大社の真菰神事など神道儀式で神聖な植物として不可欠な役割を果たす。ベトナムでも食材として利用される。",
+        "seasonal_significance": "秋の収穫物として季節感を象徴する食材。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "中華料理",
+        "role": "common",
+        "traditional_dishes": [
+          "油燜茭白 (茭白の油炒め煮)",
+          "茭白肉絲 (茭白と豚肉の細切り炒め)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "煮る",
+          "蒸す"
+        ],
+        "cultural_context": "江南地方を中心に、秋の味覚として親しまれる高級野菜。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "マコモダケの天ぷら",
+          "マコモダケのきんぴら",
+          "マコモダケの炊き込みご飯"
+        ],
+        "preparation_methods": [
+          "揚げる",
+          "炒める",
+          "焼く",
+          "生食"
+        ],
+        "cultural_context": "近年、伝統野菜として再評価が進んでいる。独特の食感とほのかな甘みが特徴。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では周代の文献に記載があり、最も古い栽培野菜の一つ。古くは穀物（菰米）としても利用された。",
+      "trade_routes": "歴史的な国際交易の対象ではなかった。",
+      "cultural_exchange": "東アジア文化圏内で栽培技術や利用法が伝播した。",
+      "domestication_history": "食用部位は黒穂菌（Ustilago esculenta）の寄生により肥大した茎であり、植物と菌類の共生関係を利用したユニークな栽培化の歴史を持つ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や季節的な冷涼期がある地域での栽培が可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "主要な栽培地域。水田や湿地での栽培が盛ん。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育期間が確保できる温暖な地域が適している。霜には弱い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さと乾燥のため不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水生植物であるため、水資源の制約から栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯・温帯",
+        "planting_season": "春 (3-5月)",
+        "harvest_season": "秋 (9-11月)",
+        "growing_period_days": "180-240"
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 40,000 kg/ha",
+      "factors_affecting_yield": [
+        "黒穂菌の感染率と活性",
+        "水管理（水位、水質）",
+        "日照時間",
+        "施肥管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 90,
+          "characteristics": "世界最大の生産国であり消費国。長江デルタ地域が主産地。"
+        },
+        {
+          "country": "台湾",
+          "production_share": 5,
+          "characteristics": "南投県埔里鎮が有名。高品質なマコモが生産される。"
+        },
+        {
+          "country": "日本",
+          "production_share": 1,
+          "characteristics": "小規模な特産品として各地で栽培。地域おこしにも活用される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や地域による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "20",
+        "protein_g": "1.2",
+        "carbs_g": "3.4",
+        "fat_g": "0.2",
+        "fiber_g": "1.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "180 mg",
+          "daily_value_percent": "5"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "5 mg",
+          "daily_value_percent": "8"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ポリフェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "食物繊維",
+        "concentration": "不明",
+        "health_effect": "整腸作用、血糖値上昇抑制"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "利尿作用",
+          "解熱",
+          "便秘解消",
+          "黄疸の治療"
+        ],
+        "preparation": "生食、搾り汁、煎じ薬"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "血糖降下作用",
+        "抗酸化活性",
+        "免疫調節機能"
+      ],
+      "safety_considerations": "一般的に安全な食材とされるが、黒穂菌にアレルギーを持つ人は注意が必要な可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアにおける調理法は多様で、料理本や食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒める",
+          "煮る",
+          "揚げる",
+          "焼く",
+          "生食",
+          "漬物"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豚肉",
+          "鶏肉",
+          "きのこ類",
+          "醤油",
+          "オイスターソース"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷蔵保存",
+        "regions": [
+          "全域"
+        ],
+        "shelf_life": "1-2週間",
+        "quality_changes": "鮮度が落ちると甘みが減り、硬くなる。"
+      },
+      {
+        "method": "漬物",
+        "regions": [
+          "中国",
+          "日本"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が変化し、保存性が高まる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな甘み、エグみが少ない、とうもろこしやアスパラガスに似た風味",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "シャキシャキとした歯切れの良い食感、タケノコに似る"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "水生植物としての特性からの定性的推定が主。気候変動が共生菌に与える影響など、定量的な実験データは非常に少ない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-5°C"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明（水生植物のため概念の適用が困難）",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "湿地環境が維持される水量が必要"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（強風で倒伏する可能性）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "中（特に生育初期に影響を受けやすい）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物のため理論的にはプラス効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により害虫（メイガ類、アブラムシ類）の発生期間が長期化するリスクがある。",
+      "disease_resistance_stability": "共生関係にある黒穂菌の活性が温度変化に影響を受ける可能性があり、これが最大の脆弱性となりうる。",
+      "beneficial_organism_relationships": "湿地生態系に依存するため、水生昆虫や微生物相の変化に影響される。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯・亜熱帯湿地帯",
+        "2050_projection": "栽培可能域が北上する可能性があるが、湿地環境の消失が最大の制約要因となる。",
+        "2100_projection": "水資源管理がより重要になり、適応的な水利システムがない地域では栽培が困難になる可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同属の北米種との交雑可能性は育種研究で示されているが、自然環境下での交雑事例は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "中国、日本、台湾の各在来種間での交雑は可能。"
+      ],
+      "interspecific_compatibility": [
+        "Zizania palustris（アメリカマコモ）"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告例は少ない"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中国に多様な在来品種が存在する。日本の在来種は限定的。",
+      "wild_gene_pool": "東アジアの野生集団が遺伝資源として重要。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、遺伝的多様性が低下しやすいリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "東アジア各地",
+        "environmental_pressure": "異なる日長と温度条件",
+        "adaptive_response": "茎の肥大開始時期や生育サイクルの地域分化",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "地域環境への自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "北米種との交雑により、耐寒性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "穀物利用される近縁種との交雑により、種子の栄養価を改変する可能性がある。",
+      "novel_characteristics": "茎の肥大特性と種子収穫特性を併せ持つハイブリッドの創出可能性。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致が障壁となることがある。",
+      "chromosome_compatibility": "同属内では比較的良好（2n=30）。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下する場合がある。",
+      "backcrossing_success": "可能"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水質（富栄養化）、水位変動",
+        "adaptive_traits": "根系の発達、草丈、茎の強度",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "湿地植物としての生態系サービスに関する一般的な知見に基づく。マコモ栽培に特化したリジェネラティブ農業研究は少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "密なひげ根が水中の土壌を固定し、懸濁物質を捕捉する。",
+      "organic_matter_contribution": "枯死した葉や根が水底に堆積し、有機物豊かな土壌を形成する。",
+      "soil_structure_improvement": "嫌気的な土壌環境（還元状態）を維持する。",
+      "erosion_control": "水流を緩和し、土壌の侵食を防ぐ効果が高い。",
+      "nutrient_cycling_role": "水中の過剰な窒素やリンを吸収し、水質を浄化する（フィトレメディエーション）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "風媒花であり、花粉媒介者への直接的貢献は少ない。",
+      "beneficial_insect_habitat": "水生昆虫（トンボのヤゴなど）、貝類、魚類、両生類の生息・産卵場所を提供する。",
+      "soil_microorganism_interaction": "メタン生成菌など、特有の嫌気性微生物叢を育む。",
+      "above_ground_biodiversity": "水鳥の餌場や隠れ家となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "水田環境が地下水涵養に寄与する。",
+      "moisture_retention": "常に湛水状態を保つ。",
+      "runoff_reduction": "豪雨時に雨水の流出を一時的に貯留し、洪水を緩和する機能を持つ。",
+      "groundwater_recharge": "高い"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い",
+      "below_ground_carbon": "非常に高い。根圏と堆積有機物として大量の炭素を貯留する。",
+      "soil_carbon_enhancement": "湿地土壌は陸上生態系で最も効率的な炭素貯留庫の一つ。",
+      "carbon_sequestration_rate": "高い（ただしメタン排出も伴う）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "アイガモ農法のように、水田内で他の生物（魚、アヒル）と共生させることが可能。"
+      ],
+      "natural_pest_control": "多様な天敵（クモ、カエル、トンボ）の生息地となることで、害虫の発生を抑制する。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "生物多様性が高く、安定した生態系を形成する。",
+      "stress_tolerance": "洪水には強いが、干ばつには極めて弱い。",
+      "recovery_capacity": "地下茎で繁殖するため、地上部が被害を受けても回復しやすい。",
+      "adaptability": "特定の湿地環境への特化度が高い。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代的な利用や市場動向に関する情報は、農業関連ニュースや地域振興の事例から豊富に入手可能。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーで食物繊維が豊富な健康野菜として価値がある。",
+      "food_security_contribution": "主食にはならないが、食の多様性を高め、湿地の有効活用に貢献する。",
+      "local_food_system_integration": "地域の特産品として、地産地消や観光資源化に適している。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向け市場",
+        "エキゾチックなアジア野菜としての欧米市場",
+        "レストラン向けの高級食材"
+      ],
+      "value_added_products": [
+        "マコモ茶",
+        "マコモ粉末（食品添加用）",
+        "ピクルス、漬物",
+        "家畜飼料"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "湿地減少というマクロな脅威は明らかだが、マコモの遺伝資源に特化した保全状況のデータは限定的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "高い（圃場整備、宅地開発、湿地の乾燥化による）",
+    "climate_change_vulnerability": "高い（干ばつ、水資源の枯渇、共生菌との関係変化）",
+    "cultural_erosion_risk": "高い（特に日本における神事での利用や伝統知識の継承）",
+    "conservation_actions_needed": [
+      "在来品種の収集と遺伝資源バンクでの保存",
+      "生息域である湿地生態系の保全と再生",
+      "伝統的知識の記録と継承者の育成"
+    ],
+    "priority_conservation_regions": [
+      "中国の長江デルタ地域",
+      "日本の伝統的な栽培地域（三重県、石川県など）"
+    ],
+    "ex_situ_conservation_status": "一部の遺伝資源バンクで保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "一部の地域でNPOや自治体による保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "中国長江デルタ",
+      "台湾埔里鎮",
+      "日本の出雲地方"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に温度上昇）が黒穂菌との共生関係に与える影響の定量的評価",
+      "在来品種の遺伝的多様性の網羅的解析",
+      "マコモ湿地における炭素収支（隔離とメタン排出のバランス）の詳細な測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "品種名としての確立した情報は少なく、多くは地域名や系統名で呼ばれる。データは限定的。"
+      },
+      "variety_name": "埔里茭白",
+      "local_name": "埔里茭白 (Puli Jiaobai)",
+      "origin_region": "台湾・南投県埔里鎮",
+      "distinctive_characteristics": "茎が白く、柔らかく、甘みが強い。アクが少ないため生食にも向く。「美人腿（美人の脚）」と称される。",
+      "cultural_importance": "台湾におけるマコモの代表的なブランドであり、地域の主要な経済作物。",
+      "climate_adaptation": "亜熱帯気候に適応している。",
+      "conservation_status": "商業的に広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "FAO AquaCrop database",
+      "Ethnobotany research papers on East Asian agriculture",
+      "Chinese and Japanese agricultural ministry reports"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "共生菌Ustilago esculentaの遺伝的多様性と環境応答性"
+    ],
+    "regional_data_coverage": "東アジアに集中しており、他地域は皆無。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "微量栄養素および機能性成分の品種間比較データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

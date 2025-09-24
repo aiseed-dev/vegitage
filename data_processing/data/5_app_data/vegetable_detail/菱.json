@@ -1,0 +1,707 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Data integrated from major botanical databases (Kew, Tropicos) and ethnobotanical literature. The taxonomy of the Trapa genus is complex with numerous synonyms and debated species classifications."
+    },
+    "primary_name": "Water Caltrop",
+    "scientific_name": "Trapa spp.",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子"
+    ],
+    "origin_region": "ユーラシア大陸及びアフリカの温帯・熱帯域",
+    "wild_relatives": [
+      "Trapa natans",
+      "Trapa maximowiczii",
+      "Trapa incisa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names compiled from ethnobotanical records and multilingual plant databases. The common name 'Water Chestnut' is often used but can be confused with Eleocharis dulcis."
+    },
+    "international": {
+      "en": [
+        "Water Caltrop",
+        "Water Chestnut",
+        "Bat Nut",
+        "Devil Pod"
+      ],
+      "scientific_common": "Trapa"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ヒシ",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "菱角",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "마름",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "सिंघाड़ा",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "পানিফল",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Củ ấu",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "กระจับ",
+            "script": "Thai"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Castagna d'acqua",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Châtaigne d'eau",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Wassernuss",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification according to the APG IV system, which places Trapa within the Lythraceae family. Older systems may list it in its own family, Trapaceae."
+    },
+    "family": {
+      "en": "Loosestrife family",
+      "la": "Lythraceae"
+    },
+    "genus": {
+      "en": "Water caltrop",
+      "la": "Trapa"
+    },
+    "species": {
+      "en": "Water caltrop",
+      "la": "Trapa natans L. (and other species)"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Numerous varieties and forms exist based on fruit morphology, e.g., T. natans var. japonica."
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural significance is well-documented in Asia. European importance is largely historical (archaeological findings)."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "中国では中秋節の重要な食べ物。日本では家紋のモチーフや忍者の「マキビシ」の原料としても知られる。古くから食用とされてきた歴史がある。",
+        "seasonal_significance": "秋の収穫を象徴する季節の食材。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "インドでは「シンガラ」と呼ばれ、特にナヴラトリなどの宗教的断食期間中に、穀物の代用品として粉（atta）が広く利用される。",
+        "seasonal_significance": "断食期間と収穫期が重なり、宗教的・季節的重要性を持つ。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "考古学的食料"
+        ],
+        "traditional_uses": "新石器時代には重要な食料源であったことが遺跡から判明しているが、現代ではほとんど食用にされない。一部地域で自生するのみ。",
+        "seasonal_significance": "なし",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "中華料理",
+        "role": "common",
+        "traditional_dishes": [
+          "菱角排骨湯 (ヒシとスペアリブのスープ)",
+          "清炒菱角 (ヒシのあっさり炒め)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒める",
+          "蒸す",
+          "スープ"
+        ],
+        "cultural_context": "中秋節の伝統食。家族団らんの象徴。"
+      },
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Singhare ki Poori (ヒシ粉の揚げパン)",
+          "Singhare ka Halwa (ヒシ粉のハルヴァ)"
+        ],
+        "preparation_methods": [
+          "製粉",
+          "揚げる",
+          "煮る"
+        ],
+        "cultural_context": "ヒンドゥー教の断食期間（Vrat）において、穀物の代替となる神聖な食材。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "ヨーロッパでは新石器時代の遺跡から食用にされた証拠が発見されている。中国では周代から栽培の記録がある。",
+      "trade_routes": "地域内での交易品としては重要だったが、シルクロードのような長距離交易の主要品目ではなかった。",
+      "cultural_exchange": "仏教と共に食文化が伝播した可能性が指摘されている。",
+      "domestication_history": "アジア各地で古くから栽培化され、多様な地方品種が成立した。明確な単一起源地は特定されていない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "水温が高すぎると生育が阻害される可能性があるが、多くの熱帯地域で栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "最も生育に適した気候帯。長い生育期間と温暖な水温が収量を高める。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏に十分な水温が確保できれば栽培可能。生育期間は短くなる。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さと短い夏のため、一年生のサイクルを完了するのが困難。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水生植物であるため、水資源が乏しい乾燥地での栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "水温が低すぎるため生育できない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "春 (4-5月)",
+        "harvest_season": "晩夏から秋 (8-10月)",
+        "growing_period_days": "120-150"
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春 (5-6月)",
+        "harvest_season": "秋 (9-10月)",
+        "growing_period_days": "100-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "4,000 - 10,000 kg/ha",
+      "factors_affecting_yield": [
+        "水深",
+        "水質（富栄養化）",
+        "日照時間",
+        "夏季の水温",
+        "病害虫（ヒシハムシなど）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産国。長江流域が主要産地で、多様な品種が栽培されている。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "北部を中心に広く栽培。特に断食用食材として国内需要が大きい。"
+        },
+        {
+          "country": "ベトナム",
+          "production_share": "不明",
+          "characteristics": "メコンデルタなどで栽培され、国内で広く消費されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分は利用可能だが、品種や栽培条件による変動に関するデータは限定的。機能性成分に関する研究は増加傾向にある。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "97",
+        "protein_g": "2.5",
+        "carbs_g": "21",
+        "fat_g": "0.1",
+        "fiber_g": "3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "450mg",
+          "daily_value_percent": "10%"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.4mg",
+          "daily_value_percent": "17%"
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "0.2mg",
+          "daily_value_percent": "15%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ポリフェノール",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、抗酸化作用"
+      },
+      {
+        "compound": "Trapain",
+        "concentration": "不明",
+        "health_effect": "タンパク質分解酵素阻害活性が報告されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "解熱",
+          "解毒",
+          "下痢止め"
+        ],
+        "preparation": "生食、または乾燥させて粉末にする。"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "冷却作用",
+          "止血",
+          "利尿作用"
+        ],
+        "preparation": "果実の粉末やジュースとして利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "抗菌作用",
+        "血糖値調節作用"
+      ],
+      "safety_considerations": "生食の場合、水中の寄生虫（肝蛭など）のリスクがあるため、加熱調理が推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アジア圏における調理法は多岐にわたり、文献やレシピが豊富に存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる",
+          "蒸す",
+          "炒める",
+          "スープの具"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豚肉",
+          "鶏肉",
+          "キノコ類",
+          "タケノコ"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "製粉して生地にする",
+          "茹でる",
+          "炒める"
+        ],
+        "flavor_role": "主食の代替",
+        "typical_combinations": [
+          "ジャガイモ",
+          "スパイス（クミン、コリアンダー）",
+          "ギー"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・製粉",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "デンプン質が主成分のため、風味の変化は少ない。グルテンフリーの粉として利用される。"
+      },
+      {
+        "method": "塩茹で・冷凍",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感がやや柔らかくなるが、風味は比較的保たれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "デンプン質の穏やかな甘みと、ナッツに似た風味。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "生ではシャキシャキとした食感。加熱するとホクホクとした食感に変わる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "水生植物としての特性からの定性的評価が主。気候変動への具体的な応答に関する定量的研究は非常に少ない。評価は専門的知見に基づく推定を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "35°C以上の水温が続くと生育不良を起こす可能性がある。",
+      "cold_tolerance": "5°C以下で生育停止。一年草であり、種子で越冬する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "該当なし（水生植物）",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "栽培地の水位を維持するための安定した水源が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "水中のCO2濃度上昇により光合成が促進される可能性があるが、研究は不足。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "水温上昇により、病原菌や害虫（ヒシハムシなど）の活動が活発化・長期化するリスクがある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯から熱帯の淡水域",
+        "2050_projection": "栽培可能域がやや高緯度へ移動する可能性があるが、それ以上に水資源の安定性が栽培可否を決定する。",
+        "2100_projection": "水不足が深刻化する地域では栽培が困難になる一方、降水量が増加する地域では新たな適地となる可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Trapa属内の形態的多様性は大きいが、遺伝的交雑に関する詳細な研究は限定的。自然環境下での適応事例は示唆されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Trapa natans内の多くの形態変異種間で交雑可能と推定される。"
+      ],
+      "interspecific_compatibility": [
+        "T. natansとT. japonicaなど、近縁種間での自然交雑が報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "中間的な形態を持つ個体群が各地で確認されており、自然交雑の存在が示唆される。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジア各地に果実の形状、大きさ、棘の数が異なる多様な在来品種が存在する。",
+      "wild_gene_pool": "栽培種と野生種が近接して生育する地域が多く、遺伝子流動が起こりやすい環境にある。",
+      "adaptive_genetic_variation": "高い形態的多様性は、異なる水環境への適応の結果である可能性が高い。",
+      "inbreeding_depression_risk": "自家受粉も行うため、小規模な隔離された個体群ではリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本",
+        "environmental_pressure": "湖沼の富栄養化",
+        "adaptive_response": "富栄養環境に強い系統の選択的繁栄",
+        "time_scale": "数十年",
+        "mechanism": "環境選択による遺伝的組成の変化（推定）。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "異なる地域の系統を交雑させることで、耐暑性や生育期間の異なる品種が生まれる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "果実のサイズや収穫時期、病害虫抵抗性などの新規特性の獲得が期待される。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種によっては存在する可能性があるが、詳細は不明。",
+      "chromosome_compatibility": "基本的には適合性が高いとみられる。",
+      "fertility_of_hybrids": "多くは稔性を持つと推定される。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水深、水流の速さ、富栄養化の度合い",
+        "adaptive_traits": "葉の形状、茎の長さ、果実の棘の有無",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "水生植物としての生態系サービスに関する知見に基づく評価。土壌農業の枠組みとは異なるが、水系の再生に貢献する可能性がある。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "水底の泥に根を張り、底泥の安定化に寄与する。",
+      "organic_matter_contribution": "生育サイクルが短く、枯死した植物体は水底で分解され、有機物（デトリタス）を供給する。",
+      "soil_structure_improvement": "該当なし",
+      "erosion_control": "水底の泥の巻き上げを抑制する可能性がある。",
+      "nutrient_cycling_role": "水中の過剰な栄養塩（窒素、リン）を吸収し、植物体として固定する（水質浄化）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は昆虫によって受粉される。",
+      "beneficial_insect_habitat": "水面に広がる葉は、水生昆虫や魚類の隠れ家や産卵場所を提供する。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用は存在するが詳細は不明。",
+      "above_ground_biodiversity": "水鳥の餌となることがある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "該当なし",
+      "moisture_retention": "水面の葉が水の蒸発を抑制する効果がある。",
+      "runoff_reduction": "該当なし",
+      "groundwater_recharge": "該当なし"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い成長速度でバイオマスを形成する。",
+      "below_ground_carbon": "根と水底に蓄積する枯死体を通じて炭素を底泥に貯留する。",
+      "soil_carbon_enhancement": "底泥の有機炭素量を増加させる。",
+      "carbon_sequestration_rate": "高いと推定されるが、定量的データは不足。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "レンコンや他の水生植物との混植（アクアスケープ）が可能。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "水系を介した栄養循環に寄与する。",
+      "allelopathic_interactions": "他の浮遊植物の繁茂を抑制する可能性が示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "水田や池などの水生生態系における生物多様性を高め、安定性に寄与する。",
+      "stress_tolerance": "富栄養化に対して比較的強い耐性を持つ。",
+      "recovery_capacity": "一年草であり、種子からの再生能力が高い。",
+      "adaptability": "環境への適応性が高い。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代的な利用法、特にグルテンフリー食品としての価値はよく知られている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "炭水化物源として重要。特にグルテンフリーの需要に応える。",
+      "food_security_contribution": "土地を必要としない水面での生産が可能であり、土地利用の多様化に貢献する。",
+      "local_food_system_integration": "アジアの多くの地域で、地域の池や湖沼で小規模に生産され、地産地消されている。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルテンフリー食品市場",
+        "健康志向食品市場（スーパーフードとして）",
+        "エスニック食材市場"
+      ],
+      "value_added_products": [
+        "ヒシ粉（Singhara atta）",
+        "スナック菓子",
+        "缶詰・レトルト食品"
+      ],
+      "niche_market_value": "特に南アジアのディアスポラコミュニティや、グルテンフリー消費者層に高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "保全状況は地域によって大きく異なる。原産地での減少と、移入先での侵略的外来種化という二面性を持つ。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "生息地である湖沼やため池の埋め立て、水質汚染、コンクリート化が最大の脅威。",
+    "climate_change_vulnerability": "水資源の枯渇や極端な水温上昇に脆弱。",
+    "cultural_erosion_risk": "食文化の変化により、伝統的な栽培や利用が減少している地域がある（例：日本）。",
+    "conservation_actions_needed": [
+      "在来品種の遺伝資源の収集と保存（ジーンバンク）",
+      "伝統的な栽培地の保全（ため池の再生など）",
+      "食文化の継承と普及活動"
+    ],
+    "priority_conservation_regions": [
+      "日本、中国の在来種が生育する湖沼",
+      "南アジアの多様な在来品種が栽培される地域"
+    ],
+    "ex_situ_conservation_status": "一部の植物園やジーンバンクで保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "日本では一部の自治体やNPOによるため池の保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "文化的多様性と生態系での役割を総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド北部",
+      "中国長江デルタ",
+      "日本の琵琶湖周辺"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "品種ごとの栄養価と機能性成分の詳細な比較分析",
+      "北米における侵略性とアジアにおける在来種保全の比較生態学的研究"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種の分類は形態に基づくものが多く、遺伝的な裏付けは十分ではない。"
+      },
+      "variety_name": "烏菱 (Wuling)",
+      "local_name": "烏菱 (Wūlíng)",
+      "origin_region": "中国",
+      "distinctive_characteristics": "果実が黒く、両端に鋭い角（ツノ）が発達している。コウモリの形に似ていることからBat Nutとも呼ばれる。",
+      "cultural_importance": "中国南部で広く栽培され、中秋節などで食べられる。",
+      "climate_adaptation": "亜熱帯気候に適応。",
+      "conservation_status": "栽培種として安定"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種の分類は形態に基づくものが多く、遺伝的な裏付けは十分ではない。"
+      },
+      "variety_name": "ヒメビシ",
+      "local_name": "姫菱 (Himebishi)",
+      "origin_region": "日本",
+      "distinctive_characteristics": "小型の果実で、棘が退化しているか非常に小さい。食用よりも、水生植物として観賞用にされることがある。",
+      "cultural_importance": "日本の在来種で、生態学的に重要。",
+      "climate_adaptation": "温帯気候に適応。",
+      "conservation_status": "絶滅危惧（地域による）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Checklist of Vascular Plants (WCVP)",
+      "Ethnobotanical literature on Asian food cultures",
+      "FAO agricultural statistics (proxy data)",
+      "Scientific papers on Trapa ecology and phytochemistry"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動（特にCO2濃度上昇と水温上昇）に対する品種レベルでの応答に関する実験データ",
+      "水生生態系における炭素固定能力の定量的評価",
+      "伝統医学で利用される際の薬理作用の科学的メカニズム"
+    ],
+    "regional_data_coverage": "アジアに関する情報は豊富だが、アフリカやヨーロッパの在来種に関するデータは限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "栽培品種の網羅的な遺伝子情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,794 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cucurbita属は種が非常に多様であり、情報は属全体を包括的に記述する。特定の種や品種に関する情報は別途詳細な分析が必要。"
+    },
+    "primary_name": "Squash/Pumpkin",
+    "scientific_name": "Cucurbita",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "種子",
+      "花",
+      "葉",
+      "茎"
+    ],
+    "origin_region": "南北アメリカ大陸",
+    "wild_relatives": [
+      "Cucurbita fraterna",
+      "Cucurbita texana",
+      "Cucurbita lundelliana"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中で栽培されているため、呼称は極めて多様。主要言語と代表的な地域名を記載。"
+    },
+    "international": {
+      "en": [
+        "Squash",
+        "Pumpkin",
+        "Gourd",
+        "Marrow"
+      ],
+      "scientific_common": "Cucurbits"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Calabaza",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Abóbora",
+            "script": "Latn"
+          },
+          {
+            "lang": "qu",
+            "name": "Sapallu",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Courge",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Zucca",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Kürbis",
+            "script": "Latn"
+          },
+          {
+            "lang": "ru",
+            "name": "Тыква (Tykva)",
+            "script": "Cyrl"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "カボチャ (Kabocha)",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "南瓜 (Nánguā)",
+            "script": "Hans"
+          },
+          {
+            "lang": "ko",
+            "name": "호박 (Hobak)",
+            "script": "Kore"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "कद्दू (Kaddu)",
+            "script": "Deva"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "يقطين (Yaqteen)",
+            "script": "Arab"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Haudenosaunee (Iroquois)",
+        "name": "One of the 'Three Sisters'",
+        "cultural_significance": "トウモロコシ、インゲンマメと共に植えられる三姉妹農法の一員。精神的・物質的な生活の支えとなる重要な作物。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物分類学的に確立された情報。主要な栽培5種が多様性の中心となる。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Squash/Pumpkin",
+      "la": "Cucurbita"
+    },
+    "species": {
+      "en": "Multiple species",
+      "la": "Cucurbita spp."
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivated Species",
+        "name": "C. pepo (ズッキーニ、ハロウィンカボチャ等)"
+      },
+      {
+        "rank": "Cultivated Species",
+        "name": "C. maxima (セイヨウカボチャ、バターカップ等)"
+      },
+      {
+        "rank": "Cultivated Species",
+        "name": "C. moschata (ニホンカボチャ、バターナッツ等)"
+      },
+      {
+        "rank": "Cultivated Species",
+        "name": "C. argyrosperma (ギンカボチャ、クショー等)"
+      },
+      {
+        "rank": "Cultivated Species",
+        "name": "C. ficifolia (クロダネカボチャ)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "コロンブス交換以降、世界中に広まり、各文化に深く根付いている。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南北アメリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "先住民の「三姉妹農法」の中心。ハロウィンや感謝祭など、北米の文化的行事に不可欠な象徴。",
+        "seasonal_significance": "秋の収穫祭の象徴",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "スープ、パイ、詰め物料理など、多様な料理に利用。特にイタリア、フランス、東欧で重要。",
+        "seasonal_significance": "秋から冬にかけての保存食",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "日本の煮物、インドのカレー、中国の炒め物など、日常的な食材。種子は漢方薬としても利用。",
+        "seasonal_significance": "夏から秋にかけての野菜",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "北米料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Pumpkin Pie",
+          "Roasted Butternut Squash"
+        ],
+        "preparation_methods": [
+          "Baking",
+          "Roasting",
+          "Pureeing"
+        ],
+        "cultural_context": "感謝祭やハロウィンなどの祝祭料理の中心。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "カボチャの煮物",
+          "カボチャの天ぷら"
+        ],
+        "preparation_methods": [
+          "Simmering (Nimono)",
+          "Deep-frying (Tempura)"
+        ],
+        "cultural_context": "冬至にカボチャを食べる風習があり、家庭料理の定番。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "1万年以上前から南北アメリカで利用されていた最古級の栽培植物の一つ。",
+      "trade_routes": "15世紀末以降のコロンブス交換により、ヨーロッパ、アフリカ、アジアへ急速に伝播。",
+      "cultural_exchange": "世界中の食文化を豊かにし、各地域で独自の品種と料理を生み出した。",
+      "domestication_history": "南北アメリカの複数の地域で、異なる種が独立して栽培化された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "C. moschataなどの耐湿性・耐暑性のある種が適応。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "多くの種の栽培に最適。長い生育期間を確保できる。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "C. pepoやC. maximaが広く栽培される。霜のない温暖な季節が必要。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "短い夏に適応した早生品種が栽培可能。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "C. argyrospermaなど耐乾性のある種が適応。灌漑が必要な場合が多い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため、栽培は困難。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "夏（夏カボチャ）から秋（冬カボチャ）",
+        "growing_period_days": "50-120"
+      },
+      {
+        "climate_zone": "熱帯・亜熱帯",
+        "planting_season": "雨季の始まり、または年間を通じて可能",
+        "harvest_season": "播種後2-4ヶ月",
+        "growing_period_days": "60-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 40,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "受粉の成功率",
+        "水・肥料管理",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約2,800万トン（カボチャ、スカッシュ、ひょうたん類の合計）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 28,
+          "characteristics": "世界最大の生産国。国内消費が中心。"
+        },
+        {
+          "country": "インド",
+          "production_share": 19,
+          "characteristics": "多様な品種が栽培され、国内で広く消費される。"
+        },
+        {
+          "country": "ウクライナ",
+          "production_share": 5,
+          "characteristics": "ヨーロッパの主要生産国。"
+        },
+        {
+          "country": "ロシア",
+          "production_share": 4,
+          "characteristics": "広大な国土で栽培される主要作物。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価は確立されているが、品種や栽培条件によるカロテノイド等の機能性成分の含有量変動は大きい。伝統的利用法は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "26",
+        "protein_g": "1.0",
+        "carbs_g": "6.5",
+        "fat_g": "0.1",
+        "fiber_g": "0.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA (β-カロテン由来)",
+          "amount": "8513 IU",
+          "daily_value_percent": "170"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "9.0 mg",
+          "daily_value_percent": "15"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "340 mg",
+          "daily_value_percent": "10"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "β-カロテン",
+        "concentration": "高",
+        "health_effect": "抗酸化作用、視機能維持"
+      },
+      {
+        "compound": "ルテイン、ゼアキサンチン",
+        "concentration": "中",
+        "health_effect": "眼の健康維持"
+      },
+      {
+        "compound": "ククルビタシン類",
+        "concentration": "微量（野生種では高濃度）",
+        "health_effect": "抗炎症作用（高濃度では毒性）"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南北アメリカ",
+        "medical_system": "先住民の伝統医学",
+        "uses": [
+          "駆虫（特に種子）",
+          "利尿",
+          "皮膚の火傷や炎症の湿布"
+        ],
+        "preparation": "種子を生食または粉末にして摂取。果肉をすりつぶして湿布として使用。"
+      },
+      {
+        "region": "アジア",
+        "medical_system": "中医学、アーユルヴェーダ",
+        "uses": [
+          "駆虫（種子）",
+          "血糖値降下補助",
+          "脾臓と胃の強化"
+        ],
+        "preparation": "種子を炒って食べる。果肉を調理して摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "視機能保護",
+        "血糖管理のサポート"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "心血管疾患予防"
+      ],
+      "safety_considerations": "観賞用のひょうたんや野生種に含まれる高濃度のククルビタシンは有毒であり、強い苦味がある場合は摂取を避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理で利用されており、調理法は極めて多様。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界全域",
+        "methods": [
+          "ロースト",
+          "スープ",
+          "シチュー",
+          "ピュレ",
+          "蒸し物",
+          "炒め物",
+          "焼き物",
+          "揚げ物"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "シナモン、ナツメグなどのスパイス",
+          "セージ、タイムなどのハーブ",
+          "タマネギ、ニンニク",
+          "クリーム、バター"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し・乾燥",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "数ヶ月〜1年",
+        "quality_changes": "水分が抜け、風味と栄養が凝縮される。"
+      },
+      {
+        "method": "冷暗所での貯蔵（冬カボチャ）",
+        "regions": [
+          "温帯地域"
+        ],
+        "shelf_life": "2〜6ヶ月",
+        "quality_changes": "収穫後、追熟によりデンプンが糖に変わり甘みが増す。"
+      },
+      {
+        "method": "缶詰、瓶詰め",
+        "regions": [
+          "北米、ヨーロッパ"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "加熱処理により食感が柔らかくなる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘い、ナッツのよう、土の香り、クリーミー",
+      "aroma_compounds": [
+        "フラノン類",
+        "ピラジン類"
+      ],
+      "texture_characteristics": "滑らか、粉質、繊維質、水っぽい（品種による）"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "属としての適応性は高いが、品種レベルでの定量的データは限定的。耐乾性・耐暑性を持つ種（C. argyrosperma, C. moschata）の価値が高まると予測される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中〜高",
+      "optimal_temperature_range": "18-27°C",
+      "extreme_heat_survival": "35°C以上では受粉障害や生育不良が起こりやすい。",
+      "cold_tolerance": "0°C以下で枯死。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中〜高",
+      "water_use_efficiency": "深い根系を持つため、ある程度の乾燥には耐えるが、高収量には定期的な水分が必要。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間中に500-750mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物のため強風で葉や茎が傷つきやすいが、地面を覆うことで再生力も示す。",
+      "hail_damage_recovery": "中程度。果実が傷つくと腐敗しやすい。",
+      "rapid_temperature_change": "感受性が高い。特に急な低温に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成が促進される可能性がある。",
+      "ozone_sensitivity": "中程度。オゾンによる葉の損傷が報告されている。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、ウリハムシやカボチャミバエなどの害虫の活動期間が延長・北上するリスクがある。",
+      "disease_resistance_stability": "うどんこ病などの病気は高温多湿で発生しやすく、気候変動でリスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "送粉者であるミツバチやカボチャハナバチの活動が気候変動の影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯、亜熱帯、熱帯",
+        "2050_projection": "栽培適地がより高緯度・高標高へ移動する可能性がある。現在の低緯度乾燥地域では水ストレスが増大。",
+        "2100_projection": "適地の移動がさらに進む。耐暑性・耐乾性品種の重要性が決定的に高まる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "種内の交雑は容易だが、主要栽培5種間の自然交雑は極めて稀。この生殖的隔離が各種の特性を維持してきた。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "同一種内の品種間では容易に交雑する（例：ズッキーニとハロウィンカボチャは共にC. pepoであり交雑する）。"
+      ],
+      "interspecific_compatibility": [
+        "主要栽培5種（pepo, maxima, moschata, argyrosperma, ficifolia）の間では自然交雑はほとんど起こらない。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "野生種C. fraternaと栽培種C. pepoの交雑例がメキシコで報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "極めて高い。原産地の中南米を中心に、世界中に数千の在来品種が存在する。",
+      "wild_gene_pool": "メキシコや米国南西部に現存する野生近縁種は、病害虫抵抗性や環境ストレス耐性の遺伝子供給源として価値が高い。",
+      "adaptive_genetic_variation": "広範な環境に適応した多様な遺伝的変異が蓄積されている。",
+      "inbreeding_depression_risk": "他家受精性のため、自家受粉を続けると近交弱勢が起こりやすい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "メキシコ、米国南西部",
+        "environmental_pressure": "乾燥、高温",
+        "adaptive_response": "深い根系、厚いクチクラ層を持つ葉、休眠性の高い種子。",
+        "time_scale": "数千年",
+        "mechanism": "C. argyrospermaなどの種において、乾燥地帯での人間による選択と自然選択が複合的に作用。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との人為的な交雑により、耐乾性や耐病性を栽培種に導入する可能性がある。",
+      "improved_nutritional_content": "多様な在来品種の中から高カロテンなどの特性を持つ系統を選抜・交配する可能性がある。",
+      "novel_characteristics": "果実の形、色、味、貯蔵性など、膨大な遺伝的多様性から新たな特性を組み合わせる可能性がある。",
+      "hybrid_vigor_potential": "F1ハイブリッド品種では雑種強勢が広く利用されており、高い収量性を示す。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "主要栽培種間には強い生殖的隔離（交雑不和合性）が存在する。",
+      "chromosome_compatibility": "Cucurbita属は基本的に2n=40で染色体数は安定している。",
+      "fertility_of_hybrids": "種間交雑が成功した場合でも、雑種の稔性は低いことが多い。",
+      "backcrossing_success": "胚珠培養などの技術を用いて、種間交雑後の戻し交配が行われることがある。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "根の伸長能力、気孔の制御",
+        "heritability": "中程度",
+        "response_to_selection": "耐乾性の系統が選択される"
+      },
+      {
+        "selection_pressure": "病害圧（ウイルス、うどんこ病）",
+        "adaptive_traits": "抵抗性遺伝子",
+        "heritability": "高（単一遺伝子支配の場合）",
+        "response_to_selection": "抵抗性個体群の増加"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "三姉妹農法など伝統的な実践例は豊富だが、炭素固定や水循環改善に関する定量的な研究は発展途上。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範囲に広がる浅い根と、一部深く伸びる主根を持つ。",
+      "organic_matter_contribution": "収穫後の残渣（つるや葉）は分解されやすく、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "大きな葉が地面を覆うマルチング効果により、土壌の乾燥や硬化を防ぐ。",
+      "erosion_control": "地面を覆うことで雨滴による土壌侵食を効果的に防止する。",
+      "nutrient_cycling_role": "広範な根系が土壌表層の養分を効率的に吸収する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きく開いた花は大量の蜜と花粉を供給し、ミツバチや特にカボチャハナバチ（Peponapis, Xenoglossa）など在来の送粉者にとって重要な食料源となる。",
+      "beneficial_insect_habitat": "大きな葉の陰は、カマキリやクモなどの天敵昆虫に生息場所を提供する。",
+      "soil_microorganism_interaction": "根圏でアーバスキュラー菌根菌と共生し、リン酸吸収を促進する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "葉によるマルチング効果が土壌表面への雨滴の衝撃を和らげ、水の浸透を助ける。",
+      "moisture_retention": "地表を覆うことで土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "侵食防止効果と同様に、地表流の速度を緩め、流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "生育が旺盛で、短期間に大量のバイオマスを生産する。",
+      "below_ground_carbon": "根系のバイオマスは中程度だが、残渣が土壌炭素の源となる。",
+      "soil_carbon_enhancement": "緑肥としての利用や残渣のすき込みにより、土壌炭素貯留に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱）、インゲンマメ（窒素固定）、カボチャ（雑草抑制・保湿）からなる「三姉妹農法」が最も有名。",
+        "ナスタチウムはウリハムシを遠ざける効果が期待される。"
+      ],
+      "natural_pest_control": "三姉妹農法では、多様な植生が害虫の天敵を呼び寄せる。",
+      "nutrient_sharing": "三姉妹農法において、インゲンマメが固定した窒素をトウモロコシとカボチャが利用する。",
+      "allelopathic_interactions": "限定的、または不明。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多作付けシステムに組み込むことで、生態系の安定性を高める。",
+      "stress_tolerance": "品種によっては高い環境ストレス耐性を持つ。",
+      "recovery_capacity": "生育が早く、ある程度のダメージからの回復力がある。",
+      "adaptability": "遺伝的多様性が高く、様々な環境への適応能力を持つ。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界的な主要野菜として、現代の食システムにおいて多様な役割を果たしている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "果肉は低カロリーでビタミン・ミネラルが豊富。種子は良質なタンパク質、脂質、ミネラルの供給源。",
+      "food_security_contribution": "単位面積当たりの収量が高く、貯蔵性にも優れるため、食料安全保障に大きく貢献する。",
+      "local_food_system_integration": "家庭菜園から大規模生産まで対応可能で、ファーマーズマーケットなど地域の食システムに統合しやすい。",
+      "alternative_protein_potential": "カボチャの種子（ペピータ）は、スナックやプロテインパウダーの原料として注目されている。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ユニークな形や色の伝統品種・エアルーム品種のニッチ市場",
+        "機能性食品としての展開"
+      ],
+      "value_added_products": [
+        "ベビーフード",
+        "スープ",
+        "パイフィリング",
+        "種子油",
+        "プロテインパウダー",
+        "スナック菓子"
+      ],
+      "niche_market_value": "オーガニック市場やエアルーム市場では、標準的な品種に比べて高い価格で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "属としては安泰だが、遺伝的多様性の宝庫である在来品種の消失リスクは地域によって非常に高い。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "原産地における野生近縁種の生息地（乾燥林など）が、農地開発や都市化により脅かされている。",
+    "climate_change_vulnerability": "特定の気候に適応した在来品種は、急激な気候変動によって栽培が困難になるリスクがある。",
+    "cultural_erosion_risk": "伝統的な食文化や農法の継承が途絶えることで、それに結びついた在来品種が失われるリスクが高い。",
+    "conservation_actions_needed": [
+      "在来品種の農家による自家採種と栽培の奨励（オンファーム保全）",
+      "ジーンバンクでの種子保存（エクスサイチュ保全）",
+      "野生近縁種の生息地の保護"
+    ],
+    "priority_conservation_regions": [
+      "メキシコ",
+      "中央アメリカ",
+      "アンデス地域"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（USDA, World Vegetable Center等）には多数の系統が保存されているが、網羅性は不完全。",
+    "in_situ_conservation_efforts": "メキシコなどで、農家参加型の保全プロジェクトが実施されているが、規模は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "メキシコ南部（遺伝的多様性の中心地）",
+      "ペルー（高地適応品種の研究）",
+      "アフリカのサヘル地帯（耐乾性品種の導入と適応）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2濃度、異常気象）に対する種・品種レベルでの生理的応答の定量的データ",
+      "土壌微生物との相互作用の詳細",
+      "在来品種に含まれる未解明の機能性成分"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な品種を各種から選定。"
+      },
+      "variety_name": "Butternut Squash",
+      "local_name": "Butternut",
+      "origin_region": "アメリカ合衆国 (C. moschata)",
+      "distinctive_characteristics": "ひょうたん型、滑らかで淡い褐色の皮、甘くナッツのような風味の濃いオレンジ色の果肉、貯蔵性に優れる。",
+      "cultural_importance": "北米やヨーロッパで非常に人気があり、スープやロースト料理に広く使われる。",
+      "climate_adaptation": "耐暑性、耐病性（特にうどんこ病）が他の種より比較的高い。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な品種を各種から選定。"
+      },
+      "variety_name": "Kabocha (e.g., 'Ebisu')",
+      "local_name": "カボチャ (Kabocha)",
+      "origin_region": "日本 (C. maxima)",
+      "distinctive_characteristics": "深緑色の皮、粉質で非常に甘い黄色の果肉。煮物に適する。",
+      "cultural_importance": "日本の食文化に不可欠な野菜。煮物や天ぷらなど、伝統的な家庭料理の象徴。",
+      "climate_adaptation": "冷涼な気候を好むが、日本の夏の高温多湿にも適応している。",
+      "conservation_status": "懸念なし（ただし多様な地方品種は減少傾向）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な品種を各種から選定。"
+      },
+      "variety_name": "Zucchini / Courgette",
+      "local_name": "Zucchini",
+      "origin_region": "イタリア (C. pepo)",
+      "distinctive_characteristics": "未熟な果実を食用にする夏カボチャ。生育が非常に早く、次々と収穫できる。",
+      "cultural_importance": "地中海料理、特にイタリア料理やフランス料理で多用される。",
+      "climate_adaptation": "温暖な気候を好み、急速に成長する。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な品種を各種から選定。"
+      },
+      "variety_name": "Cushaw Green-Striped",
+      "local_name": "Calabaza Bule",
+      "origin_region": "メキシコ、アメリカ南西部 (C. argyrosperma)",
+      "distinctive_characteristics": "首の曲がったひょうたん型、緑と白の縞模様。独特の風味があり、種子も大きい。耐乾性・耐暑性が高い。",
+      "cultural_importance": "アメリカ先住民やメキシコで伝統的に栽培されてきた重要な品種。パイや焼き物に使われる。",
+      "climate_adaptation": "高温乾燥の気候に非常に強く、カボチャキバチへの抵抗性も持つ。",
+      "conservation_status": "在来種として保全活動が必要"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-16",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "Kew Gardens - Plants of the World Online",
+      "Cucurbit Genetics Cooperative Reports",
+      " ethnobotanical studies"
+    ],
+    "major_knowledge_gaps": [
+      "在来品種の栄養価および機能性成分の網羅的データ",
+      "気候変動シナリオに対する各主要種の収量応答モデル",
+      "リジェネラティブ農業システムにおける炭素固定能の定量的評価"
+    ],
+    "regional_data_coverage": "南北アメリカとヨーロッパ、東アジアの情報は豊富だが、アフリカや中央アジアの在来種に関する体系的な情報は限定的。",
+    "missing_information": [
+      "多くの在来品種の遺伝的特性と保全状況",
+      "送粉者とカボチャの共生関係に対する気候変動の影響"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

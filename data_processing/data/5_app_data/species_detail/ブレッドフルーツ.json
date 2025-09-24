@@ -1,0 +1,749 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、Kew Gardens 'Plants of the World Online'、GRIN-Global、および主要な農学・植物学の総説論文に基づいています。野生近縁種との関係も明確に確立されています。"
+    },
+    "primary_name": "Breadfruit",
+    "scientific_name": "Artocarpus altilis",
+    "plant_type": "木本",
+    "edible_parts": [
+      "果実",
+      "種子"
+    ],
+    "origin_region": "ニューギニア、マルク諸島（モルッカ諸島）",
+    "wild_relatives": [
+      "Artocarpus camansi",
+      "Artocarpus mariannensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の民族植物学データベースと言語記録から名称を収集しました。特にオセアニア地域での名称の多様性は文化的重要性を反映しています。"
+    },
+    "international": {
+      "en": [
+        "Breadfruit"
+      ],
+      "scientific_common": "Breadfruit"
+    },
+    "regional": [
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "haw",
+            "name": "'Ulu",
+            "script": "Latin"
+          },
+          {
+            "lang": "smo",
+            "name": "'Ulu",
+            "script": "Latin"
+          },
+          {
+            "lang": "tah",
+            "name": "'Uru",
+            "script": "Latin"
+          },
+          {
+            "lang": "mar",
+            "name": "Mei",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Sukun",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Sukun",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Rimas",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "si",
+            "name": "Del",
+            "script": "Sinhala"
+          },
+          {
+            "lang": "ta",
+            "name": "சீமைப்பலா (Seemaippala)",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Fruta de pan",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Fruta-pão",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ポリネシア文化圏",
+        "name": "'Ulu, 'Uru, Kuru, Mei",
+        "cultural_significance": "主食であり、豊穣、祖先とのつながり、生命の象徴。多くの創世神話や伝説に登場し、社会の基盤をなす植物と見なされている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づいています。"
+    },
+    "family": {
+      "en": "Mulberry family",
+      "la": "Moraceae"
+    },
+    "genus": {
+      "en": "Artocarpus",
+      "la": "Artocarpus"
+    },
+    "species": {
+      "en": "Breadfruit",
+      "la": "altilis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "人類学、歴史学、民族植物学の広範な文献に基づいています。特にオセアニアとカリブ海地域での重要性は詳細に記録されています。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "オセアニア（ポリネシア、ミクロネシア）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "儀式用",
+          "経済作物",
+          "建材",
+          "薬用"
+        ],
+        "traditional_uses": "主要な炭水化物源。果実は焼く、蒸す、発酵させる（マ、マシ、ポイ）など多様な方法で調理される。木材はカヌーや家屋に、樹液は接着剤やコーキング剤として利用される。",
+        "seasonal_significance": "収穫期はコミュニティの重要な時期であり、収穫祭などの儀式と結びついている。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "カリブ海地域",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "経済作物"
+        ],
+        "traditional_uses": "18世紀後半に太平洋から導入され、プランテーションの奴隷労働者のための安価な高カロリー食として普及。現在では地域の食文化に深く根付いている。ロースト、フライ、ボイル、サラダなど多様な料理に利用される。",
+        "seasonal_significance": "主要な収穫期は地域の食料供給において重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "主食ではなく野菜として利用されることが多い。カレーの具材、揚げ菓子（スナック）、デザートなどに使われる。",
+        "seasonal_significance": "他の多くの果物や野菜と同様に、季節の食材として利用される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ポリネシア料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Imu-roasted breadfruit",
+          "Poi 'ulu (fermented paste)",
+          "Masi (fermented paste)"
+        ],
+        "preparation_methods": [
+          "直火焼き",
+          "地中オーブン（Imu）",
+          "発酵",
+          "茹でる"
+        ],
+        "cultural_context": "数世紀にわたり主食として利用され、食料安全保障の基盤。発酵保存技術は、航海や不作の時期を乗り越えるための重要な知恵であった。"
+      },
+      {
+        "cuisine": "カリブ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Oil Down (Grenada)",
+          "Roasted breadfruit",
+          "Breadfruit salad",
+          "Fried breadfruit"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "ロースト",
+          "揚げる",
+          "茹でる"
+        ],
+        "cultural_context": "植民地時代の導入という歴史的背景を持つが、現在ではアフリカ系住民のソウルフードとして、また国民食として広く愛されている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "オーストロネシア語族の移動と共に、数千年前に太平洋全域に拡散した。",
+      "trade_routes": "18世紀、大英帝国による太平洋からカリブ海への移植計画（ウィリアム・ブライ船長のバウンティ号の反乱で有名）は、植民地経済における植物の戦略的重要性を象徴する出来事であった。",
+      "cultural_exchange": "太平洋の伝統作物が、大西洋の食文化と歴史に深く組み込まれた顕著な例。",
+      "domestication_history": "種のある野生種 Artocarpus camansi から、人間の選択によって種のない Artocarpus altilis が数千年前にニューギニア周辺で栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間降雨量1500-3000mm、平均気温21-32℃、高湿度。水はけの良い肥沃な土壌を好む。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜が降りない温暖な沿岸地域に限られる。生育は熱帯地域より遅くなる可能性がある。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に耐えられないため栽培は不可能。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "低温と乾燥のため栽培は不可能。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度と降雨量を必要とするため、乾燥地での栽培は困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため栽培は不可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の初め",
+        "harvest_season": "品種と地域によるが、年に1〜2回の主要な収穫期がある。結実まで3〜5年かかる。",
+        "growing_period_days": 0
+      }
+    ],
+    "productivity": {
+      "yield_range": "10-50 t/ha（成熟した植栽密度による）",
+      "factors_affecting_yield": [
+        "品種",
+        "樹齢",
+        "気候条件（特に降雨量）",
+        "土壌肥沃度",
+        "受粉（種あり品種の場合）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "太平洋諸島（サモア、フィジー、キリバス等）",
+          "production_share": 0,
+          "characteristics": "主に自給自足および地域市場向け。多様な在来品種が栽培されている。"
+        },
+        {
+          "country": "カリブ諸国（ジャマイカ、グレナダ、ハイチ等）",
+          "production_share": 0,
+          "characteristics": "地域消費が主だが、一部は北米やヨーロッパへ輸出される。"
+        },
+        {
+          "country": "インドネシア",
+          "production_share": 0,
+          "characteristics": "国内市場向けに広く栽培されている。"
+        },
+        {
+          "country": "インド",
+          "production_share": 0,
+          "characteristics": "特に南部で栽培され、野菜として消費される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分は確立されているが、数百に及ぶ品種間の栄養価の差異に関する研究は限定的。機能性成分に関する研究は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "103",
+        "protein_g": "1.1",
+        "carbs_g": "27.1",
+        "fat_g": "0.2",
+        "fiber_g": "4.9"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "29 mg",
+          "daily_value_percent": 32
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "490 mg",
+          "daily_value_percent": 10
+        },
+        {
+          "nutrient": "ビタミンB1（チアミン）",
+          "amount": "0.11 mg",
+          "daily_value_percent": 9
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "プレニル化フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用、抗菌作用の可能性が研究されている。"
+      },
+      {
+        "compound": "フェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用が期待される。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "太平洋諸島",
+        "medical_system": "伝統医学",
+        "uses": [
+          "皮膚病（湿疹、真菌感染）の治療",
+          "下痢止め",
+          "喘息の緩和"
+        ],
+        "preparation": "葉や樹液（ラテックス）を外用薬として塗布。葉の煎じ薬を内服。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高カリウムによる血圧調整作用の可能性"
+      ],
+      "ongoing_research": [
+        "血糖値指数（GI）の研究（低GI食品としての可能性）",
+        "プレニル化合物の抗がん作用、抗炎症作用",
+        "パンノキ粉のグルテンフリー食品への応用"
+      ],
+      "safety_considerations": "一般的に安全とされるが、ラテックスアレルギーを持つ人は注意が必要な可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本、民族誌、食文化研究から情報を集約。地域による調理法の多様性が際立っている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "オセアニア",
+        "methods": [
+          "直火焼き",
+          "地中オーブン（Imu）",
+          "茹でる",
+          "発酵"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "魚",
+          "葉物野菜（タロイモの葉など）"
+        ]
+      },
+      {
+        "region": "カリブ海地域",
+        "methods": [
+          "ロースト",
+          "揚げる",
+          "煮込み",
+          "茹でる",
+          "ピクルス"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "塩漬けの魚（コッドフィッシュ）",
+          "スパイス（ナツメグ、クローブ）",
+          "肉（鶏肉、豚肉）",
+          "豆類"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "揚げる（フリッター）",
+          "カレーで煮込む",
+          "蒸す（デザート）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "スパイス（ターメリック、チリ）",
+          "砂糖、パームシュガー"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "発酵（ピットファーメンテーション）",
+        "regions": [
+          "ポリネシア",
+          "ミクロネシア"
+        ],
+        "shelf_life": "数年以上",
+        "quality_changes": "酸味と強い香りが特徴のペースト状になる。デンプンが分解され、消化しやすくなる。"
+      },
+      {
+        "method": "乾燥・製粉",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "数ヶ月〜1年",
+        "quality_changes": "長期保存可能なグルテンフリーの粉になる。パンや焼き菓子に利用可能。"
+      },
+      {
+        "method": "缶詰・冷凍",
+        "regions": [
+          "カリブ海地域",
+          "ハワイ"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "食感はやや柔らかくなるが、風味は比較的保たれる。輸出入に適している。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "未熟果：ジャガイモや焼きたてのパンに似た、中立的でデンプン質な味。熟果：甘く、カスタードやバナナのようなフルーティーな風味。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "未熟果：調理後はしっかりとしていて、ジャガイモのような食感。熟果：柔らかく、クリーミーでカスタード状。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性や耐乾性に関する定性的な評価は多いが、品種レベルでの定量的な耐性限界データは不足している。将来予測は、一般的な樹木作物モデルと熱帯気候予測に基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "21-32°C",
+      "extreme_heat_survival": "約40℃まで耐えるが、生産性は低下する。",
+      "cold_tolerance": "0℃以下で深刻なダメージを受け、霜には全く耐えられない。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-3000 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中〜高。深い根系を持つため比較的倒れにくいが、強いサイクロンでは枝折れや落果の被害を受ける。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "低"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度に陽性の効果が期待される（C3植物として）。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により分布域を広げる可能性のあるミバエやカイガラムシへの脆弱性が懸念される。",
+      "disease_resistance_stability": "品種によるが、一般的に頑健。しかし、高温多湿化は真菌性疾患のリスクを高める可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯および亜熱帯の低地",
+        "2050_projection": "現在の亜熱帯地域のより高緯度・高地へ適地が拡大する可能性がある一方、一部の赤道直下地域では過度の熱ストレスのリスクが高まる。",
+        "2100_projection": "適地の移動がさらに進むと予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "野生近縁種との自然交雑事例はミクロネシアでよく研究されており、適応育種の可能性を示唆している。遺伝的多様性の中心地はニューギニアとフィリピン。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "種なし品種と種あり品種間の交雑は可能。"
+      ],
+      "interspecific_compatibility": [
+        "Artocarpus mariannensis",
+        "Artocarpus camansi"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "ミクロネシアの環礁で見られる A. altilis x A. mariannensis の自然交雑種群。これらは塩害や乾燥への耐性が高い。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "太平洋諸島には数百の在来品種（ランドレース）が存在し、形態、食味、収穫時期が多様。",
+      "wild_gene_pool": "祖先種である A. camansi や近縁種の A. mariannensis は、病害虫抵抗性や環境ストレス耐性などの有用な遺伝子供給源となる。",
+      "adaptive_genetic_variation": "ミクロネシアの交雑種群に見られるように、塩害や土壌条件への適応的遺伝変異が存在する。",
+      "inbreeding_depression_risk": "低。多くの品種は栄養繁殖で維持されるため、個体内の遺伝的変異はないが、品種間の多様性は高い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ミクロネシアの環礁",
+        "environmental_pressure": "高い塩分濃度、サンゴ質土壌（アルカリ性、低栄養）、周期的な干ばつ",
+        "adaptive_response": "A. altilis と A. mariannensis の自然交雑により、塩害と乾燥への耐性が向上したハイブリッドが生まれた。",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "自然交雑と、厳しい環境下での人間による選択。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性、耐塩性、耐病性の向上が期待される。",
+      "improved_nutritional_content": "種のある A. camansi との交雑により、タンパク質や脂肪分が豊富な品種作出の可能性がある。",
+      "novel_characteristics": "果実のサイズ、形状、収穫時期の多様化。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致が障壁となることがある。",
+      "chromosome_compatibility": "A. altilis (2n=56) と A. mariannensis (2n=56) は染色体数が同じで交雑和合性が高い。",
+      "fertility_of_hybrids": "多くは稔性を持つ。",
+      "backcrossing_success": "可能"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "塩害、干ばつ",
+        "adaptive_traits": "塩分排出能力、深い根系、水利用効率",
+        "heritability": "不明",
+        "response_to_selection": "ミクロネシアの事例に見られるように、選択への応答は確認されている。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "伝統的な太平洋のアグロフォレストリーシステムにおける役割から、多くの効果が定性的に知られている。しかし、炭素固定速度などの定量的な研究データは限定的。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範で深い根系を持つ。",
+      "organic_matter_contribution": "大量の落ち葉が分解され、土壌の有機物層（腐植）を豊かにする。",
+      "soil_structure_improvement": "根が土壌を固着させ、団粒構造を促進する。",
+      "erosion_control": "樹冠が雨滴の衝撃を和らげ、根が土壌を保持するため、侵食防止効果が高い。",
+      "nutrient_cycling_role": "深層から養分を吸い上げ、落葉を通じて地表に還元する「養分ポンプ」として機能する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はコウモリや昆虫の蜜源となる。",
+      "beneficial_insect_habitat": "樹冠や幹は多様な昆虫や鳥類の生息地となる。",
+      "soil_microorganism_interaction": "根圏は菌根菌などの土壌微生物と共生関係を築く。",
+      "above_ground_biodiversity": "アグロフォレストリーシステムにおいて、多様な生物の生息空間（ニッチ）を提供する基幹種となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌の孔隙を増やし、雨水の浸透を促進する。",
+      "moisture_retention": "樹冠による日陰と落葉によるマルチング効果で、土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "樹冠と土壌浸透能の向上により、地表流出を大幅に削減する。",
+      "groundwater_recharge": "浸透が促進されることで、地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高。大きな幹、枝、葉に大量の炭素を貯蔵する。",
+      "below_ground_carbon": "高。広範な根系に炭素を貯蔵する。",
+      "soil_carbon_enhancement": "落葉落枝の分解を通じて、土壌有機炭素を増加させる。",
+      "carbon_sequestration_rate": "不明（他の熱帯樹木と同程度と推定される）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "タロイモ",
+        "ヤムイモ",
+        "バナナ",
+        "カカオ",
+        "コーヒー"
+      ],
+      "natural_pest_control": "多様な生物相を育むことで、天敵昆虫を誘引し、害虫の異常発生を抑制する。",
+      "nutrient_sharing": "菌根菌ネットワークを介して、下層の作物と養分を共有する可能性がある。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生の樹木であるため、単年性作物中心のシステムより安定性が高い。",
+      "stress_tolerance": "確立後は干ばつや嵐に対して比較的高い耐性を持つ。",
+      "recovery_capacity": "嵐で枝が折れても、幹から再生する能力が高い。",
+      "adaptability": "多様な品種が存在し、様々な環境に適応したアグロフォレストリーシステムの構築が可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食料安全保障、持続可能な農業、新規食品開発の文脈で、近年注目が高まっている。関連する研究やプロジェクトが多数存在する。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "炭水化物、食物繊維、ビタミン、ミネラルが豊富な自然食品として価値が高い。",
+      "food_security_contribution": "一度植えれば数十年間にわたり高い生産性を維持する多年生作物であり、熱帯地域の食料安全保障に大きく貢献するポテンシャルを持つ。",
+      "local_food_system_integration": "輸入穀物への依存を減らし、地域の食料自給率を高める上で重要な役割を果たす。",
+      "alternative_protein_potential": "果実自体は低タンパク質だが、種あり品種の種子はタンパク質が豊富。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルテンフリー食品市場",
+        "健康志向食品市場",
+        "エスニック食品市場"
+      ],
+      "value_added_products": [
+        "パンノキ粉",
+        "チップス（スナック菓子）",
+        "冷凍食品",
+        "ベビーフード",
+        "醸造酒・蒸留酒の原料"
+      ],
+      "niche_market_value": "グルテンフリーのパンノキ粉は、高付加価値製品として欧米市場で注目されている。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは広く認識されているが、全ての品種の保全状況が評価されているわけではない。太平洋地域での保全活動が進行中。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "伝統的なアグロフォレストリーシステムの単一作物プランテーションへの転換。",
+    "climate_change_vulnerability": "海面上昇による沿岸部の生育地の喪失（特に環礁）。極端な干ばつや嵐の頻発。",
+    "cultural_erosion_risk": "高。食生活の西洋化に伴い、伝統的な品種の栽培・利用知識が失われつつある。",
+    "conservation_actions_needed": [
+      "伝統品種のインベントリ作成と特性評価",
+      "域内保全（オンファーム保全）の推進",
+      "域外保全（ジーンバンク、植物園）の強化",
+      "伝統知識の記録と次世代への継承"
+    ],
+    "priority_conservation_regions": [
+      "ポリネシア",
+      "ミクロネシア",
+      "メラネシア"
+    ],
+    "ex_situ_conservation_status": "米国の国立熱帯植物園（NTBG）が世界最大級のコレクションを保有している。",
+    "in_situ_conservation_efforts": "各地域のコミュニティやNGOによる伝統的アグロフォレストリーの維持・再生プロジェクトが散見される。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本報告書で集約された情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "太平洋諸島（品種多様性と伝統知識）",
+      "ミクロネシア（自然交雑と環境適応）",
+      "カリブ海地域（導入後の社会文化的適応）"
+    ],
+    "knowledge_gaps": [
+      "各品種の正確な気候ストレス（熱、乾燥、塩害）耐性限界値",
+      "リジェネティブ農業における炭素固定量や土壌改良効果の定量的データ",
+      "機能性成分の含有量と健康効果に関する臨床研究"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主要な品種に関する情報はBreadfruit Institute (NTBG)などの専門機関から入手可能。"
+      },
+      "variety_name": "Ma'afala",
+      "local_name": "Ma'afala",
+      "origin_region": "サモア",
+      "distinctive_characteristics": "比較的小型で生育が早く、生産性が高い。果実は小さめで、調理後の食感が優れている。",
+      "cultural_importance": "現代の栽培において最も広く普及している品種の一つ。",
+      "climate_adaptation": "幅広い熱帯環境に適応する。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主要な品種に関する情報はBreadfruit Institute (NTBG)などの専門機関から入手可能。"
+      },
+      "variety_name": "'Ulu fiti",
+      "local_name": "'Ulu fiti",
+      "origin_region": "サモア、フィジー",
+      "distinctive_characteristics": "大型で丸い果実。調理後の質感が良く、多くの用途に適している。",
+      "cultural_importance": "ポリネシアで伝統的に重要な品種の一つ。",
+      "climate_adaptation": "典型的な熱帯気候を好む。",
+      "conservation_status": "地域的に栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主要な品種に関する情報はBreadfruit Institute (NTBG)などの専門機関から入手可能。"
+      },
+      "variety_name": "Meinpadahk (Hybrid)",
+      "local_name": "Meinpadahk",
+      "origin_region": "ミクロネシア（ポンペイ）",
+      "distinctive_characteristics": "Artocarpus altilisとA. mariannensisの自然交雑種。耐塩性、耐乾性が高く、環礁のような厳しい環境でも生育可能。",
+      "cultural_importance": "ミクロネシアの環礁コミュニティの食料安全保障を支える重要な品種。",
+      "climate_adaptation": "高い耐塩性、耐乾性を持つ。",
+      "conservation_status": "地域限定"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Breadfruit Institute (National Tropical Botanical Garden)",
+      "CGIAR Research Programs",
+      "Ethnobotanical literature on Oceania and the Caribbean",
+      "Peer-reviewed agronomic and climate change journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "機能性成分の品種間差異と健康への影響"
+    ],
+    "regional_data_coverage": "オセアニアとカリブ海地域に関するデータは豊富だが、アフリカや南米大陸での利用に関する情報は比較的少ない。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "病害虫に対する各品種の抵抗性プロファイル"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

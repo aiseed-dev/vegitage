@@ -1,0 +1,586 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース（Kew, GRIN-Global）および農学研究論文からの情報を統合。野生近縁種との詳細な関係性は研究途上。"
+    },
+    "primary_name": "Spiny Gourd",
+    "scientific_name": "Momordica dioica",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "果実",
+      "根",
+      "葉",
+      "種子"
+    ],
+    "origin_region": "インド亜大陸",
+    "wild_relatives": [
+      "Momordica charantia",
+      "Momordica cochinchinensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "南アジアでの呼称は豊富に記録されているが、東南アジアの一部地域での呼称は不明確または他種と混同されている可能性がある。指定された『ツンバカラウイラ』はフィリピンでの極めて地域的な呼称の可能性があり、一般的ではない。"
+    },
+    "international": {
+      "en": [
+        "Spiny Gourd",
+        "Teasle Gourd",
+        "Bristly Balsam Pear",
+        "Kantola"
+      ],
+      "scientific_common": "Dioecious Bitter Gourd"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "ककोड़ा / कंटोला",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "কাঁকরোল",
+            "script": "Bengali"
+          },
+          {
+            "lang": "mr",
+            "name": "कर्टुलं / कंटोळी",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "gu",
+            "name": "કંકોડા",
+            "script": "Gujarati"
+          },
+          {
+            "lang": "ta",
+            "name": "பழுபாகல்",
+            "script": "Tamil"
+          },
+          {
+            "lang": "te",
+            "name": "ఆకాకర",
+            "script": "Telugu"
+          },
+          {
+            "lang": "ne",
+            "name": "चठেল",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "fil",
+            "name": "Tumbakara uila",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Momordica",
+      "la": "Momordica"
+    },
+    "species": {
+      "en": "Spiny Gourd",
+      "la": "dioica"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "南アジアでの文化的価値は民族植物学や料理研究で広く文書化されているが、他の地域での情報は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "インド全域でモンスーン期の重要な野菜としてカレーや炒め物（サブジ）に利用される。アーユルヴェーダでは糖尿病、消化器疾患、呼吸器疾患の治療に用いられる。一部の祭りや儀式の際の食事にも含まれることがある。",
+        "seasonal_significance": "雨季の到来を告げる野菜として、食生活の季節性を示す象徴的な存在。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Kantola Sabzi (炒め煮)",
+          "Bharwa Karela (詰め物)",
+          "Kantola Fry (揚げ物)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "揚げる",
+          "煮込む",
+          "詰める"
+        ],
+        "cultural_context": "家庭料理の定番であり、その栄養価の高さから健康的な食材として認識されている。地域によって調理法やスパイス使いが多様。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代インドの文献、特にアーユルヴェーダのテキストに薬用植物としての記述が見られる。",
+      "trade_routes": "主に地域内での交易に留まり、大規模な国際交易の対象ではなかった。",
+      "cultural_exchange": "インド亜大陸内での人の移動に伴い、栽培法や調理法が伝播した。",
+      "domestication_history": "インド亜大陸で野生種から選抜・栽培化されたと考えられているが、詳細な歴史は不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿（25-35℃）、年間降水量1500-2500mmのモンスーン気候。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "温暖で湿度の高い夏を持つ地域。霜には弱い。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "越冬が困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯モンスーン",
+        "planting_season": "モンスーン初期（6月-7月）",
+        "harvest_season": "モンスーン中期から後期（8月-11月）",
+        "growing_period_days": 100
+      }
+    ],
+    "productivity": {
+      "yield_range": "5000-15000 kg/ha",
+      "factors_affecting_yield": [
+        "受粉の成功率（雌雄異株のため）",
+        "土壌の肥沃度と排水性",
+        "灌漑の有無",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "世界最大の生産国であり消費国。国内の多くの州で商業栽培および家庭菜園での栽培が行われている。"
+        },
+        {
+          "country": "バングラデシュ",
+          "production_share": null,
+          "characteristics": "地域市場向けに広く栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変動に関する研究は少ない。機能性に関する研究は進行中だが、多くは基礎研究段階。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "20-30",
+        "protein_g": "2.0-3.5",
+        "carbs_g": "3.0-5.0",
+        "fat_g": "0.1-0.5",
+        "fiber_g": "2.0-4.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "40-100 mg/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "β-カロテン",
+          "amount": "150-400 mcg/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.0-2.5 mg/100g",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "フェノール酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "血糖値降下作用の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "糖尿病管理",
+          "消化促進",
+          "咳や喘息の緩和",
+          "解熱",
+          "皮膚病の治療"
+        ],
+        "preparation": "果実や根のジュース、粉末、煎じ薬として利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗糖尿病効果",
+        "抗酸化活性",
+        "肝保護作用",
+        "抗菌活性"
+      ],
+      "safety_considerations": "一般的に安全とされるが、過剰摂取や薬用利用の際は専門家の指導が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "南アジアの調理法は豊富に記録されているが、他地域での利用法はほとんど知られていない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "炒める（サブジ）",
+          "揚げる（パコラ）",
+          "煮込む（カレー）",
+          "詰める（バルワ）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ジャガイモ",
+          "タマネギ",
+          "トマト",
+          "各種スパイス（クミン、コリアンダー、ターメリック）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ピクルス",
+        "regions": [
+          "インドの一部地域"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が柔らかくなり、酸味と塩味が加わる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほろ苦い、マイルドなウリ科の風味、後味にわずかな甘み",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理すると柔らかくなるが、適度な歯ごたえが残る。種子はカリカリしている。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性や耐乾性に関する定性的な記述は多いが、気候変動シナリオに基づく定量的な実験データやモデル研究は非常に少ない。評価は原産地の気候特性からの類推に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "5°C以下で生育停止"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2500 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低（つるが損傷しやすい）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として理論的には期待）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりウリハムシやアブラムシの発生時期・頻度が変化する可能性。",
+      "disease_resistance_stability": "高温多湿化により、うどんこ病やウイルス病のリスクが増大する可能性。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "インド亜大陸、東南アジアの一部",
+        "2050_projection": "現在の適地内で安定するが、より高緯度や高地の亜熱帯地域へ適地が拡大する可能性。",
+        "2100_projection": "極端な高温や干ばつが増加する地域では生産性が低下するリスクがある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "遺伝的多様性に関する基礎研究は存在するが、自然交雑や種間交雑に関する詳細なデータは乏しい。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多くの在来品種間で交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "Momordica charantia（ニガウリ）との交雑は非常に困難とされる。"
+      ],
+      "intergeneric_possibility": [
+        "確認されていない"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "果実の形、大きさ、棘の密度、色などに多様性を持つ多くの在来品種が存在する。",
+      "wild_gene_pool": "野生集団が存在し、耐病性や環境ストレス耐性の遺伝資源として重要。",
+      "adaptive_genetic_variation": "地域ごとの気候や土壌に適応した遺伝的変異が存在すると考えられる。",
+      "inbreeding_depression_risk": "自家受粉しないため比較的低いが、小規模な集団ではリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種や乾燥地帯の在来種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "品種改良により特定のビタミンや機能性成分を増加させる可能性がある。",
+      "novel_characteristics": "果実のサイズ、収量性、雌雄同株化などの特性導入。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑における生殖的隔離。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "塊茎の発達、深い根系",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化したリジェネラティブ農業の研究はほとんどない。評価はウリ科つる植物の一般的な特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "地下に塊茎を形成し、養分と水分を貯蔵する。根は比較的浅い。",
+      "organic_matter_contribution": "収穫後の残渣が有機物として土壌に還元される。",
+      "soil_structure_improvement": "地表を覆うことで雨滴による土壌構造の破壊を防ぐ。",
+      "erosion_control": "つるが地表を覆う（マルチング効果）ことで、風食・水食を軽減する可能性がある。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "葉や茎が天敵昆虫（クモ、テントウムシなど）の隠れ家を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地被効果により土壌表面の硬化を防ぎ、水の浸透を助ける可能性がある。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "葉や茎が雨水の流出速度を遅らせる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年生の塊茎に炭素を貯蔵するため、一年草作物より貢献度が高い可能性がある。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）、トウモロコシ（支柱として）との混作が考えられる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生であるため、毎年の耕起が不要な農法も可能にし、土壌生態系を安定させる可能性がある。",
+      "stress_tolerance": "塊茎を持つため、ある程度のストレスからの回復力がある。",
+      "recovery_capacity": "中",
+      "adaptability": "中"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場トレンドや食品科学の観点からの分析は存在するが、実際の商業展開は限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "他のウリ科野菜に比べタンパク質含有量が高く、植物性栄養源として価値がある。",
+      "food_security_contribution": "モンスーン期の栄養供給源として、地域の食料安全保障に貢献している。",
+      "local_food_system_integration": "小規模農家にとって重要な現金収入源であり、地域の食品システムに深く根付いている。",
+      "alternative_protein_potential": "限定的だが、栄養補助食品の原料としての可能性はある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けニッチ市場（スーパーフードとして）",
+        "南アジア系移民コミュニティ向けの国際市場",
+        "機能性食品・サプリメント原料"
+      ],
+      "value_added_products": [
+        "フリーズドライパウダー",
+        "ピクルス",
+        "健康飲料"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "遺伝的多様性の消失リスクは指摘されているが、具体的な保全状況の評価は不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生集団は森林伐採や土地開発による生息地の喪失の脅威に晒されている。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高（伝統的な食文化や栽培知識が若い世代に継承されないリスク）",
+    "conservation_actions_needed": [
+      "在来品種の収集と遺伝子バンクでの保存（域外保全）",
+      "農家による種子保存システムの支援（域内保全）",
+      "伝統的知識の記録と普及"
+    ],
+    "priority_conservation_regions": [
+      "インドの西ガーツ山脈地域",
+      "インド北東部の丘陵地帯"
+    ],
+    "ex_situ_conservation_status": "インド国立植物遺伝資源局（NBPGR）などで一部収集されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的。一部のNGOや地域コミュニティによる取り組みがある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた知見に基づく総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "インド",
+      "バングラデシュ",
+      "ネパール"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する品種レベルでの生理的応答",
+      "リジェネラティブ農業システムにおける具体的な効果の定量化",
+      "野生近縁種との遺伝的関係と交雑可能性"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "公的機関による品種情報は存在するが、多様な在来種に関する体系的な記録は少ない。"
+      },
+      "variety_name": "Indira Kankod-1",
+      "local_name": "Indira Kankod-1",
+      "origin_region": "インド、チャッティースガル州",
+      "distinctive_characteristics": "高収量、果実が濃い緑色で大きい。インドの農業大学によって開発された改良品種。",
+      "cultural_importance": "商業栽培の拡大に貢献。",
+      "climate_adaptation": "地域の気候に適応しているが、耐病性などは在来種に劣る場合がある。",
+      "conservation_status": "広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN-Global Taxonomy",
+      "Plants of the World Online (Kew)",
+      "民族植物学に関する学術論文（Journal of Ethnopharmacology等）",
+      "インド農業研究評議会（ICAR）の報告書"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "南アジア以外の地域での文化的・農学的情報"
+    ],
+    "regional_data_coverage": "南アジアに偏っており、他地域の情報は非常に限定的。",
+    "missing_information": [
+      "具体的な機能性成分の含有量",
+      "世界的な生産統計データ",
+      "野生集団の正確な分布と保全状況"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), ethnobotanical research, and agricultural science publications. Wild relative data is well-established."
+    },
+    "primary_name": "Bottle Gourd",
+    "scientific_name": "Lagenaria siceraria",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "葉",
+      "種子"
+    ],
+    "origin_region": "アフリカ",
+    "wild_relatives": [
+      "Lagenaria siceraria subsp. siceraria"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical dictionaries and agricultural glossaries. The list is representative, not exhaustive."
+    },
+    "international": {
+      "en": [
+        "Bottle Gourd",
+        "Calabash",
+        "White-flowered Gourd",
+        "Opo Squash"
+      ],
+      "scientific_common": "Lagenaria"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ユウガオ (夕顔), カンピョウ (干瓢), ヒョウタン (瓢箪)",
+            "script": "Japanese"
+          },
+          {
+            "lang": "zh",
+            "name": "葫芦 (Húlú), 匏瓜 (Páoguā)",
+            "script": "Chinese"
+          },
+          {
+            "lang": "ko",
+            "name": "박 (Bak)",
+            "script": "Korean"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "लौकी (Lauki), घिया (Ghiya)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "লাউ (Lau)",
+            "script": "Bengali"
+          },
+          {
+            "lang": "ta",
+            "name": "சுரைக்காய் (Suraikai)",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Bầu",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Upo",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "น้ำเต้า (Nam Tao)",
+            "script": "Thai"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Buyu",
+            "script": "Latin"
+          },
+          {
+            "lang": "ha",
+            "name": "Duma",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Calabaza de peregrino, Mate",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Cabaça",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "多数のアフリカ、アジア、アメリカ大陸の先住民",
+        "name": "多数存在",
+        "cultural_significance": "水や食物の容器、楽器（シタール、コラ、マラカス）、喫煙具、儀式用の仮面や道具として、人類の文明の黎明期から広く利用されてきた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is based on the APG IV system, widely accepted in botany."
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Calabash Gourd",
+      "la": "Lagenaria"
+    },
+    "species": {
+      "en": "Bottle Gourd",
+      "la": "Lagenaria siceraria"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Lagenaria siceraria subsp. siceraria"
+      },
+      {
+        "rank": "subspecies",
+        "name": "Lagenaria siceraria subsp. asiatica"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural significance is deeply documented in archaeological, anthropological, and historical records across all continents."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "生活用具"
+        ],
+        "traditional_uses": "若い果実は食料。成熟し乾燥させた殻は、水や食料の容器、食器、楽器（コラ、バラフォン）、浮きとして極めて重要。",
+        "seasonal_significance": "乾季に備えるための重要な水容器となる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "インド料理の中心的な野菜の一つ（カレー、サブジ、ハルヴァ）。アーユルヴェーダでは体を冷やす効果があるとされる。シタールなどの楽器の共鳴胴にも使用。",
+        "seasonal_significance": "夏季に体を冷やす食材として重宝される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "加工食品",
+          "象徴"
+        ],
+        "traditional_uses": "日本では主に「かんぴょう」に加工され、寿司（海苔巻き）の具として不可欠。中国では道教において長寿や宇宙の象徴とされる。瓢箪は縁起物。",
+        "seasonal_significance": "夏野菜として栽培され、かんぴょうとして通年利用される。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "アメリカ大陸",
+        "importance_level": 4,
+        "cultural_roles": [
+          "生活用具",
+          "儀式用",
+          "薬用"
+        ],
+        "traditional_uses": "コロンブス以前から存在。主に容器、浮き、楽器（マラカス）、パイプとして利用。南米ではマテ茶を飲むための容器「マテ」として現在も広く使われる。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "かんぴょう巻き",
+          "煮物"
+        ],
+        "preparation_methods": [
+          "乾燥",
+          "煮る",
+          "味付け"
+        ],
+        "cultural_context": "江戸時代から続く伝統食材で、寿司文化に不可欠な要素。栃木県が主産地。"
+      },
+      {
+        "cuisine": "インド料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Lauki Sabzi (カレー)",
+          "Lauki Kofta",
+          "Doodhi Halwa (デザート)"
+        ],
+        "preparation_methods": [
+          "煮る",
+          "炒める",
+          "揚げる",
+          "すりおろす"
+        ],
+        "cultural_context": "日常的な家庭料理で非常にポピュラーな野菜。消化が良く、健康的な食材と見なされている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "1万年以上前から人類に利用されている最古の栽培植物の一つ。アフリカで発祥し、海水に浮く能力によって先史時代にアメリカ大陸やアジアに到達した。",
+      "trade_routes": "古代の交易路を通じて、多様な品種が世界中に拡散した。",
+      "cultural_exchange": "容器や楽器としての利用法が文化間で伝播し、世界中の音楽や生活文化に影響を与えた。",
+      "domestication_history": "アフリカ、アジア、アメリカでそれぞれ独立して、あるいは半独立的に栽培化された可能性が指摘されている。道具としての利用が食用の利用に先行したと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好むが、乾季にも耐える。年間を通じて栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけての温暖な期間が最適。霜には弱い。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏季のみ栽培可能。十分な日照と長い生育期間が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、夏の気温も不安定なため不向き。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑があれば栽培可能。乾燥には比較的強い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "播種後2-4ヶ月",
+        "growing_period_days": 60
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（霜の心配がなくなった後）",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（自家消費が多く、商業データが限定的）",
+      "factors_affecting_yield": [
+        "受粉（夜行性の蛾が主）",
+        "水供給",
+        "日照時間",
+        "土壌肥沃度",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（信頼できる世界統計は存在しない）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "世界最大級の生産・消費国。国内市場向けが主。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "広範な地域で栽培。食用および工芸用。"
+        },
+        {
+          "country": "ナイジェリア",
+          "production_share": "不明",
+          "characteristics": "西アフリカの主要生産国。食用および容器用。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "主に栃木県でかんぴょう用に特化して栽培。生産量は減少傾向。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は広く知られているが、品種や栽培条件による変動に関する研究は少ない。伝統的利用に関する民族植物学的記録は豊富だが、科学的検証は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "14",
+        "protein_g": "0.6",
+        "carbs_g": "3.4",
+        "fat_g": "0.02",
+        "fiber_g": "0.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "10.1 mg",
+          "daily_value_percent": "12%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "26 mg",
+          "daily_value_percent": "2%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "150 mg",
+          "daily_value_percent": "3%"
+        },
+        {
+          "nutrient": "コリン",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "カロテノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、視力保護"
+      },
+      {
+        "compound": "ククルビタシン",
+        "concentration": "品種による（特に苦味のある野生種や観賞用品種に多い）",
+        "health_effect": "高濃度では有毒（嘔吐、胃痙攣）"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "利尿作用",
+          "解熱",
+          "便秘解消",
+          "心臓病の予防"
+        ],
+        "preparation": "ジュース、調理した料理"
+      },
+      {
+        "region": "アフリカ",
+        "medical_system": "伝統医学",
+        "uses": [
+          "解熱",
+          "下剤",
+          "黄疸治療"
+        ],
+        "preparation": "煎じ薬、湿布"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "利尿作用",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗高脂血症効果",
+        "抗糖尿病効果",
+        "心臓保護効果"
+      ],
+      "safety_considerations": "苦味の強い個体は有毒なククルビタシンを含む可能性があるため、食用を避けるべき。ジュースの過剰摂取は胃腸障害を引き起こすことがある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア・東南アジア",
+        "methods": [
+          "煮込み（カレー）",
+          "炒め物",
+          "スープ",
+          "詰め物料理"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "スパイス（クミン、コリアンダー、ターメリック）",
+          "レンズ豆",
+          "玉ねぎ",
+          "トマト"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "乾燥・加工（かんぴょう）",
+          "煮物",
+          "スープ"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "砂糖",
+          "みりん",
+          "出汁",
+          "米"
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "methods": [
+          "煮込み（シチュー）",
+          "スープ",
+          "葉を野菜として利用"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ピーナッツ",
+          "パーム油",
+          "唐辛子",
+          "他の根菜類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（かんぴょう）",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "水分が抜け、保存性が高まる。うま味成分が凝縮される。"
+      },
+      {
+        "method": "天日干し",
+        "regions": [
+          "アフリカ",
+          "南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "スライスして乾燥させ、シチューやスープに後で戻して使用する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "非常に穏やか、ほのかな甘み、ややウリ科特有の青みがある。他の食材の味をよく吸収する。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理すると非常に柔らかく、滑らかになる。品種によってはやや繊維質。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上にも耐えるが、受粉率が低下する可能性がある。",
+      "cold_tolerance": "低（5°C以下で生育停止、霜で枯死）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "中程度。深い根系により土壌深層の水分を利用できる。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1000mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（つる植物のため、強風で損傷しやすいが、地面を這う栽培法では比較的強い）",
+      "hail_damage_recovery": "中（旺盛な生育力により、軽度の損傷からは回復しやすい）",
+      "rapid_temperature_change": "低（急激な低温に弱い）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的にC3植物であるため、一定の増収効果が期待されるが、本種での研究は少ない）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりウリハムシやアブラムシなどの活動期間が延長し、被害が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境でうどんこ病や炭疽病が発生しやすくなる可能性がある。",
+      "beneficial_organism_relationships": "夜行性の送粉者（蛾など）の生態系変化に影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯、温帯の夏季",
+        "2050_projection": "温帯地域での栽培可能期間が延長し、栽培北限が上昇する可能性。",
+        "2100_projection": "現在の亜熱帯・熱帯地域の一部で、極端な高温や干ばつにより生産性が低下するリスクがある一方、高緯度地域が新たな適地となる可能性。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種内の交雑親和性が高いことは広く知られているが、野生種との遺伝子流動に関する定量的データは限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全ての栽培品種（L. siceraria）間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "他のLagenaria属の種とは交雑が困難。"
+      ],
+      "intergeneric_possibility": [
+        "なし（ウリ科の他属、例えばCucurbita属（カボチャ）やCucumis属（キュウリ）とは交雑しない）"
+      ],
+      "successful_natural_hybrids": [
+        "栽培地周辺での品種間の自然交雑は頻繁に起こる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。アフリカ、アジア、アメリカ大陸に、形、大きさ、殻の厚さ、肉質が異なる無数の在来品種が存在する。",
+      "wild_gene_pool": "アフリカに分布する野生種が、耐病性や耐乾性などの有用な遺伝子の供給源となる可能性がある。",
+      "adaptive_genetic_variation": "広範な環境への適応を示す多様な形態が存在し、高い適応的遺伝変異が示唆される。",
+      "inbreeding_depression_risk": "他家受精性のため、自家受粉を続けると近交弱勢が起こりやすい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アフリカのサヘル地帯",
+        "environmental_pressure": "長期的な乾燥",
+        "adaptive_response": "深い主根の発達、硬く厚い殻による水分の保持",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による耐乾性遺伝子の集積"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐暑性の高い野生種や在来種との交雑により、気候耐性をさらに向上させる可能性が高い。",
+      "improved_nutritional_content": "特定の品種が持つ高栄養価の形質を他の品種に導入可能。",
+      "novel_characteristics": "多様な殻の形状や厚さ、肉質を組み合わせることで、食用、工芸用、薬用の新たな特性を持つ品種作出の可能性がある。",
+      "hybrid_vigor_potential": "遺伝的に離れた品種間の交配により、雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほぼ存在しない。",
+      "chromosome_compatibility": "種内では問題ない。",
+      "fertility_of_hybrids": "種内交雑F1は高い稔性を持つ。",
+      "backcrossing_success": "高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、高温、病害虫、人為選択（容器としての形状、食味）",
+        "adaptive_traits": "根系の深さ、気孔の制御、ククルビタシン含量、殻の硬度、果実の形状",
+        "heritability": "多くの形態的形質は高い遺伝率を持つ。",
+        "response_to_selection": "選択に対する応答は速い。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化したリジェネラティブ農業研究は少ない。評価は、その生物学的特性（C3つる植物）と伝統的栽培法からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く広く張る根系が土壌の団粒構造を改善し、水分の浸透を助ける。",
+      "organic_matter_contribution": "収穫後のつるや葉は大量の有機物となり、土壌に還元される。",
+      "soil_structure_improvement": "根が土壌を物理的に耕し、通気性や排水性を向上させる。",
+      "erosion_control": "地面を覆うように生育するため、葉が雨滴による土壌侵食を防ぐマルチング効果を持つ。",
+      "nutrient_cycling_role": "深い根系が土壌深層から養分を吸い上げ、地表に再配分する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きく白い花が夜間に開花し、スズメガなどの夜行性の送粉者にとって重要な蜜源となる。",
+      "beneficial_insect_habitat": "広い葉陰は、クモやカマキリなどの天敵昆虫の生息場所を提供する。",
+      "soil_microorganism_interaction": "根圏で多様な土壌微生物との共生関係を築いている可能性が高い。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る土壌孔隙が水の浸透を促進する。",
+      "moisture_retention": "葉によるマルチング効果が土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "葉や茎が地表水の流出速度を遅らせる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "旺盛に生育し、大きなバイオマスを形成する。",
+      "below_ground_carbon": "深い根系が土壌中に炭素を蓄積する。",
+      "soil_carbon_enhancement": "残渣の分解により土壌有機炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱として利用）、マメ科植物（窒素供給）との混植（アメリカ大陸の伝統的農法）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な機能を持つため、ポリカルチャーシステムにおいて安定性を高める可能性がある。",
+      "stress_tolerance": "耐乾性・耐暑性が高く、システムのストレス耐性を向上させる。",
+      "recovery_capacity": "生育が旺盛で、軽度のダメージからの回復力が高い。",
+      "adaptability": "高い遺伝的多様性により、環境変化への適応能力を持つ。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場トレンドや食品科学の観点からの分析。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーで水分が多く、健康志向の食生活に適している。",
+      "food_security_contribution": "栽培が容易で、厳しい環境でも一定の収穫が見込めるため、特に開発途上国での食料安全保障に貢献する。",
+      "local_food_system_integration": "自家菜園や小規模農家での栽培に適しており、地域の自給率向上に貢献する。",
+      "alternative_protein_potential": "種子はタンパク質と脂肪を含み、地域によっては食用にされる。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エスニック食材として欧米市場での需要増加",
+        "健康食品としてのジュースやサプリメント"
+      ],
+      "value_added_products": [
+        "かんぴょう（日本）",
+        "乾燥野菜チップス",
+        "ピクルス",
+        "工芸品・楽器"
+      ],
+      "niche_market_value": "ユニークな形状のものは観賞用や工芸品として高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "保全状況は地域によって大きく異なる。全体としての種の絶滅リスクは低いが、遺伝的多様性の損失が懸念される。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生種の自生地は開発や気候変動の脅威に晒されている。",
+    "climate_change_vulnerability": "種全体としては低いが、特定の地域適応品種は脆弱である可能性がある。",
+    "cultural_erosion_risk": "高（伝統的な利用知識の喪失が、多様な在来品種の栽培放棄に繋がっている）",
+    "conservation_actions_needed": [
+      "在来品種の収集・評価・保存（ジーンバンク）",
+      "伝統的知識の記録と継承支援",
+      "オンファーム（農家による）保全の奨励"
+    ],
+    "priority_conservation_regions": [
+      "アフリカ（遺伝的多様性の中心地）",
+      "アジア、アメリカ大陸（独自の多様な品種と文化が根付く地域）"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンクに多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部のNGOや地域コミュニティによる保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロジェクトの目的への適合性に関する専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "アフリカ南部（野生種と栽培種の遺伝的関係）",
+      "南米（マテ容器としての利用と品種分化）",
+      "東南アジア（多様な食文化と品種）"
+    ],
+    "knowledge_gaps": [
+      "品種ごとの詳細な栄養価と機能性成分",
+      "気候変動要因（CO2濃度、極端気象）に対する生理的応答の定量的データ",
+      "送粉生態系の詳細"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は地域的なものが多く、国際的に標準化されていない。"
+      },
+      "variety_name": "Maranka (Swan Gourd)",
+      "local_name": "同上",
+      "origin_region": "アフリカ",
+      "distinctive_characteristics": "白鳥のような独特の形状。主に観賞用、工芸用。",
+      "cultural_importance": "世界中の工芸家やガーデナーに愛されている。",
+      "climate_adaptation": "標準的な耐暑性を持つ。",
+      "conservation_status": "栽培下で維持"
+    },
+    {
+      "variety_name": "Pusa Naveen",
+      "local_name": "Pusa Naveen",
+      "origin_region": "インド",
+      "distinctive_characteristics": "円筒形で淡緑色。早生で高収量。食用に特化。",
+      "cultural_importance": "インドで広く栽培されている商業用品種の一つ。",
+      "climate_adaptation": "インドの気候に適応している。",
+      "conservation_status": "商業的に利用"
+    },
+    {
+      "variety_name": "栃木県在来種",
+      "local_name": "かんぴょう",
+      "origin_region": "日本",
+      "distinctive_characteristics": "非常に大きな球形の果実。肉厚でかんぴょう加工に適する。",
+      "cultural_importance": "日本の食文化（寿司）に不可欠な伝統品種。",
+      "climate_adaptation": "日本の夏の気候に適応。",
+      "conservation_status": "生産者減少により危機的"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Vegetable Center (AVRDC) database",
+      "Kew Royal Botanic Gardens 'Plants of the World Online'",
+      "Purdue University's NewCROP database",
+      "Ethnobotanical literature reviews"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界全体の正確な生産統計"
+    ],
+    "regional_data_coverage": "アジアとアフリカに関する情報は豊富だが、南米の先住民利用に関する詳細は限定的。",
+    "missing_information": [
+      "香り成分の化学的分析",
+      "品種ごとの詳細なゲノム情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

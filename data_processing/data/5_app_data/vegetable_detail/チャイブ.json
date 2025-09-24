@@ -1,0 +1,655 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), agricultural encyclopedias, and ethnobotanical literature. The species is well-documented globally."
+    },
+    "primary_name": "Chives",
+    "scientific_name": "Allium schoenoprasum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "花"
+    ],
+    "origin_region": "ヨーロッパ、アジア、北米の温帯域に広く自生する周極分布。",
+    "wild_relatives": [
+      "Allium altaicum",
+      "Allium ledebourianum",
+      "Allium maximowiczii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Common names are well-documented in culinary and botanical sources across multiple languages. Indigenous names are less systematically recorded and data is partial."
+    },
+    "international": {
+      "en": [
+        "Chives"
+      ],
+      "scientific_common": "Schoenoprasum"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "あさつき (Asatsuki), チャイブ (Chives)",
+            "script": "Hiragana/Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "细香葱",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "차이브",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Ciboulette",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Schnittlauch",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Erba cipollina",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Cebollino",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "北米先住民（複数部族）",
+        "name": "不明（地域により多様）",
+        "cultural_significance": "野生のタマネギ類として食用および薬用に利用されていた記録があるが、種を特定した名称の広範な記録は少ない。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is stable and based on modern APG systems."
+    },
+    "family": {
+      "en": "Amaryllis family",
+      "la": "Amaryllidaceae"
+    },
+    "genus": {
+      "en": "Onion",
+      "la": "Allium"
+    },
+    "species": {
+      "en": "Chives",
+      "la": "schoenoprasum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "schoenoprasum"
+      },
+      {
+        "rank": "var.",
+        "name": "sibiricum"
+      },
+      {
+        "rank": "var.",
+        "name": "foliosum"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural roles in European and East Asian cuisines are well-documented. Pre-modern history is somewhat conflated with other Allium species."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬味",
+          "経済作物"
+        ],
+        "traditional_uses": "フランス料理のフィーヌ・ゼルブ（香草束）に不可欠なハーブ。卵料理、スープ、サラダ、ソースに広く利用。ドイツではカードチーズ（Quark）との組み合わせが国民食的地位を持つ。",
+        "seasonal_significance": "春の訪れを告げる最初のハーブの一つとして重要視される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬味",
+          "副菜"
+        ],
+        "traditional_uses": "日本では「あさつき」として、蕎麦、冷奴、刺身などの薬味として繊細な風味を添えるために重要。ワケギやネギとは区別される。中国では餃子の餡や炒め物の香りづけに使われる。",
+        "seasonal_significance": "春先の若く柔らかいものが特に珍重される。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬味"
+        ],
+        "traditional_uses": "主にヨーロッパ由来の料理（ポテト、サワークリーム、サラダドレッシングなど）で利用される。家庭菜園で非常に人気が高い。",
+        "seasonal_significance": "家庭菜園における春の主要な収穫物。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Omelette aux fines herbes",
+          "Sauce béarnaise"
+        ],
+        "preparation_methods": [
+          "生食",
+          "加熱（弱火）"
+        ],
+        "cultural_context": "繊細な香りを加えるための基本ハーブの一つ。加熱しすぎると香りが飛ぶため、仕上げに使われることが多い。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "ざる蕎麦の薬味",
+          "冷奴",
+          "ぬた（和え物）"
+        ],
+        "preparation_methods": [
+          "生食（小口切り）"
+        ],
+        "cultural_context": "「薬味」として、主食材の味を引き立て、爽やかな香りと食感を加える役割。ネギよりも繊細な風味が高く評価される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマ時代から利用されていた可能性があるが、タマネギやリーキなど他のネギ属植物との区別は曖昧。中世ヨーロッパの修道院で薬草として栽培された記録が明確。",
+      "trade_routes": "主要な交易品ではなかったが、種子や株が移住者や旅行者によって大陸間で伝播した。",
+      "cultural_exchange": "ヨーロッパから新世界への植民と共に伝播。世界中の温帯気候の地域で家庭菜園の定番となった。",
+      "domestication_history": "明確な栽培化の中心地は不明。広範な自生地で、各地で野生のものが採集・利用され、そのまま畑で栽培されるようになったと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、休眠が誘導されないため生育不良となることが多い。高地冷涼地では栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬期に栽培可能。夏は生育が停滞または枯死することがある。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最適。冷涼な気候を好み、春と秋に旺盛に生育する。冬は地上部が枯れるが、地下の鱗茎で越冬する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "厳しい冬にも耐える高い耐寒性を持つ。短い夏に急速に成長する。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に弱く、定期的な灌漑が必要。強い日差しと高温も生育を阻害する。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "自生地の一つであり、高地気候によく適応している。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "春から秋",
+        "growing_period_days": 60
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産データは限定的）",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水分供給",
+        "土壌肥沃度",
+        "刈り取り頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "世界各国",
+          "production_share": null,
+          "characteristics": "大規模商業生産は限定的で、主に地域市場向けや加工用（乾燥・冷凍）に生産される。家庭菜園での栽培が非常に多い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は利用可能だが、品種や栽培条件による変動に関するデータは少ない。機能性成分に関する研究は存在するが、他のネギ属植物ほど多くはない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "30",
+        "protein_g": "3.3",
+        "carbs_g": "4.4",
+        "fat_g": "0.7",
+        "fiber_g": "2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "212.7 µg",
+          "daily_value_percent": 177
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "58.1 mg",
+          "daily_value_percent": 65
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "4353 IU",
+          "daily_value_percent": 145
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "105 µg",
+          "daily_value_percent": 26
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "有機硫黄化合物（アリシン等）",
+        "concentration": "不明",
+        "health_effect": "抗菌作用、抗酸化作用、血圧降下作用の可能性"
+      },
+      {
+        "compound": "フラボノイド（ケルセチン、ケンペロール）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "食欲増進",
+          "消化促進",
+          "利尿作用",
+          "風邪の予防"
+        ],
+        "preparation": "生食、または浸出液"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高い抗酸化活性"
+      ],
+      "ongoing_research": [
+        "抗菌・抗真菌作用",
+        "抗がん作用の可能性"
+      ],
+      "safety_considerations": "一般的に安全だが、大量摂取は消化器系の不調を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究で広く記述されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界共通",
+        "methods": [
+          "生食（刻んで薬味・ガーニッシュとして）",
+          "短時間の加熱（オムレツ、ソース）"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "卵",
+          "ジャガイモ",
+          "乳製品（サワークリーム、チーズ、バター）",
+          "魚介類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界共通"
+        ],
+        "shelf_life": "6ヶ月以上",
+        "quality_changes": "香りと食感が最もよく保たれる。解凍後は加熱調理向き。"
+      },
+      {
+        "method": "乾燥（フリーズドライ）",
+        "regions": [
+          "世界共通"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "生の風味は大きく損なわれるが、利便性は高い。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかで繊細なタマネギ様の風味。辛味は少なく、甘みがある。",
+      "aroma_compounds": [
+        "硫化アリル類"
+      ],
+      "texture_characteristics": "柔らかく、シャキシャキとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な気候変動応答データは非常に限定的。評価は、広範な自生地の気候条件とネギ属の一般的特性に基づく定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上で生育が著しく停滞し、休眠に入ることがある。",
+      "cold_tolerance": "-30°C以下でも鱗茎で越冬可能。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm（年間）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒れやすいが、地下茎から再生するため回復力は高い。",
+      "hail_damage_recovery": "高い。葉が損傷しても速やかに再生する。",
+      "rapid_temperature_change": "比較的強い。春先の急な霜にも耐える。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。一般的にC3植物としてポジティブな応答が期待されるが、データはない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中。高山にも自生するため、一定の耐性を持つと推定される。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によるアザミウマやアブラムシの発生増加に対して脆弱になる可能性がある。",
+      "disease_resistance_stability": "高温多湿環境でのさび病やべと病の発生リスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯全域、亜寒帯",
+        "2050_projection": "現在の栽培地の北限が拡大し、南限（特に低地）では夏期の栽培がより困難になる。",
+        "2100_projection": "栽培適地がさらに高緯度・高地へシフトする可能性が高い。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ネギ属内の交雑親和性に関する育種研究は存在するが、自然環境下での交雑事例の報告は限定的。遺伝的多様性に関する評価は、広範な分布域からの推定に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "A. schoenoprasum var. sibiricum",
+        "A. schoenoprasum var. foliosum"
+      ],
+      "interspecific_compatibility": [
+        "Allium nutans",
+        "Allium ledebourianum"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "自生地が重なる近縁種との間で自然交雑体が報告されているが、稀である。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中程度。特に日本（あさつき）やヨーロッパの伝統的な菜園で維持されてきた系統が存在する。",
+      "wild_gene_pool": "非常に広大。周極分布の各地に環境適応した多様な野生集団が存在し、貴重な遺伝資源となっている。",
+      "adaptive_genetic_variation": "高いと推定される。耐寒性、草丈、葉の太さ、開花時期などに大きな変異が見られる。",
+      "inbreeding_depression_risk": "低い。主に栄養繁殖で増えるが、他家受精も行うため遺伝的多様性が維持されやすい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "シベリア・北米北部",
+        "environmental_pressure": "極端な低温、短い生育期間",
+        "adaptive_response": "より大型で強健なvar. sibiricumへの分化。ロゼット形成による越冬。",
+        "time_scale": "氷河期以降",
+        "mechanism": "自然選択による低温適応遺伝子の集積"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐病性や耐乾性の向上が期待できる。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "葉の太さや風味の異なる新品種の創出可能性がある。",
+      "hybrid_vigor_potential": "高い。種内または近縁種との交雑で強勢が期待される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違いが一部の種間交雑で障壁となることがある。",
+      "chromosome_compatibility": "ネギ属 Section Cepa 内では比較的高い。",
+      "fertility_of_hybrids": "組合せによるが、一般的に稔性は維持されることが多い。",
+      "backcrossing_success": "可能"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "低温ストレス",
+        "adaptive_traits": "鱗茎の休眠性、耐凍性",
+        "heritability": "中程度",
+        "response_to_selection": "強い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "定性的な利点はコンパニオンプランツ等の文脈で広く知られているが、土壌改良や炭素固定に関する定量的な研究データは乏しい。評価は生態学的原則からの類推を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "密なひげ根。土壌表層を固め、団粒構造の安定に寄与する。",
+      "organic_matter_contribution": "毎年生育と枯死を繰り返す葉や根が土壌有機物を供給する。",
+      "soil_structure_improvement": "根の活動が土壌の通気性と排水性を改善する。",
+      "erosion_control": "多年草として地表を覆うため、風食・水食を軽減する。",
+      "nutrient_cycling_role": "硫黄など特定のミネラルを土壌から吸収し、生態系内で循環させる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチ、ハナアブ、蝶など多様な花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根圏微生物との共生関係が示唆されているが、詳細は不明。",
+      "above_ground_biodiversity": "花や植物体に訪れる昆虫を通じて、捕食者である鳥などを惹きつける可能性がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌の孔隙を増やし、雨水の浸透を促進する。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "地表流を遅らせ、土壌侵食を防ぐ。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "多年草であるため、根系や鱗茎に炭素を蓄積する。量は少ないが永続的。",
+      "soil_carbon_enhancement": "根の代謝回転と分解を通じて、安定した土壌炭素の形成に寄与する。",
+      "carbon_sequestration_rate": "低いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン（ニンジンサビバエを忌避）",
+        "バラ（アブラムシ、黒星病を抑制）",
+        "トマト",
+        "リンゴ"
+      ],
+      "natural_pest_control": "硫黄化合物を含む特有の香りが、多くの害虫を忌避する効果があるとされる（アレロパシー）。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "強い忌避効果が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草であるため、年間の土壌撹乱が少なく、生態系の安定に貢献する。",
+      "stress_tolerance": "耐寒性が非常に高く、一度定着すれば管理が容易で、生態系に安定性をもたらす。",
+      "recovery_capacity": "刈り取りや軽微なストレスからの回復力が高い。",
+      "adaptability": "多様な土壌条件に適応する。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場動向や食のトレンドに関する情報は広く入手可能。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "風味付けとして、塩分や脂肪の多い調味料の使用を減らすのに役立つ。",
+      "food_security_contribution": "家庭菜園で容易に栽培でき、ビタミン・ミネラルの供給源となるため、小規模な食料安全保障に貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットやCSA（地域支援型農業）で人気の品目。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "フリーズドライ製品",
+        "ハーブソルトや調味オイルなどの加工品",
+        "オーガニック・リジェネラティブ農産物としての付加価値化"
+      ],
+      "value_added_products": [
+        "チャイブ入りクリームチーズ",
+        "サラダドレッシング",
+        "ハーブバター"
+      ],
+      "niche_market_value": "「あさつき」のような特定の料理用途に特化した品種は、高級食材としてニッチな市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストではLeast Concern。しかし、特定の地域個体群や在来品種の保全状況に関するデータは不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生集団は、生息地である草原や湿地の開発・農業転換により脅威に晒されている地域がある。",
+    "climate_change_vulnerability": "高山帯に分布する個体群は、温暖化による植生の変化や低地種の侵入により脆弱性が高い。",
+    "cultural_erosion_risk": "中。伝統的な在来品種（例：日本のあさつき）が、栽培の容易な外来品種に置き換わるリスクがある。",
+    "conservation_actions_needed": [
+      "野生集団の生息域内保全",
+      "多様な遺伝資源（特に野生種や在来種）の種子バンク等での域外保全",
+      "在来品種の栽培と利用を促進する文化的活動の支援"
+    ],
+    "priority_conservation_regions": [
+      "中央アジアおよびシベリアの野生集団多様性中心地",
+      "ヨーロッパアルプス山脈の高山生態系",
+      "日本の在来品種が維持されている地域"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（世界野菜センター、USDA GRIN等）に多数のアクセスが保存されている。",
+    "in_situ_conservation_efforts": "一部の国立公園や保護区で野生集団が保護されているが、特定の種を対象とした活動は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集されたデータ全体の統合的分析に基づく専門家としての判断である。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本（あさつき文化と品種の研究）",
+      "中央アジア（野生種の遺伝的多様性調査）",
+      "アルプス山脈（気候変動影響評価）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温・乾燥）に対する生理学的応答の定量的データ",
+      "地域ごとの在来品種の遺伝的特性と機能性成分の比較分析",
+      "土壌炭素貯留能の定量的評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に商業的な種子カタログや地域農業の記録に基づく。"
+      },
+      "variety_name": "Asatsuki (あさつき)",
+      "local_name": "あさつき",
+      "origin_region": "日本",
+      "distinctive_characteristics": "一般的なチャイブより葉が細く、柔らかい。香りがより繊細で辛味が少ない。夏に休眠する性質が強い。",
+      "cultural_importance": "日本料理において薬味として非常に重要。ワケギやネギとは明確に区別して使用される。",
+      "climate_adaptation": "日本の温帯気候に適応。夏の高温多湿期に休眠することで適応している。",
+      "conservation_status": "在来系統は栽培の減少により遺伝的侵食のリスクがある。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に商業的な種子カタログや地域農業の記録に基づく。"
+      },
+      "variety_name": "Siberian Chives (var. sibiricum)",
+      "local_name": "不明",
+      "origin_region": "シベリア、北米北部、中央アジア",
+      "distinctive_characteristics": "一般的なチャイブより大型で、葉が太く、草丈が高い。より強健で耐寒性が非常に高い。",
+      "cultural_importance": "原産地では野生のものが伝統的に利用される。商業栽培は少ない。",
+      "climate_adaptation": "亜寒帯や大陸性気候の厳しい冬と短い夏に適応している。",
+      "conservation_status": "野生集団として安定しているが、生息地の破壊が脅威となりうる。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Plants of the World Online (Kew Science)",
+      "GRIN-Global Taxonomy",
+      "World Vegetable Center (WorldVeg)",
+      "Ethnobotanical literature",
+      "FAOSTAT"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生集団の遺伝的多様性の網羅的評価"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米、東アジアに関する情報は豊富だが、中央アジアなどの多様性中心地に関する情報は限定的。",
+    "missing_information": [
+      "先住民コミュニティによる伝統的な利用法と名称の詳細",
+      "年間総生産量の信頼できる統計データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

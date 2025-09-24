@@ -1,0 +1,714 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information compiled from major botanical databases (Kew Gardens, GRIN), agricultural organizations (FAO), and ethnobotanical literature. Data on wild relative populations is less complete."
+    },
+    "primary_name": "Leek",
+    "scientific_name": "Allium ampeloprasum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "東地中海地域および中東",
+    "wild_relatives": [
+      "Allium ampeloprasum var. ampeloprasum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names gathered from multilingual dictionaries, ethnobotanical records, and agricultural glossaries."
+    },
+    "international": {
+      "en": [
+        "Leek",
+        "Wild Leek"
+      ],
+      "scientific_common": "Porrum Group"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Poireau",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Porree",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Puerro",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Porro",
+            "script": "Latn"
+          },
+          {
+            "lang": "cy",
+            "name": "Cenhinen",
+            "script": "Latn"
+          },
+          {
+            "lang": "nl",
+            "name": "Prei",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "كراث",
+            "script": "Arab"
+          },
+          {
+            "lang": "tr",
+            "name": "Pırasa",
+            "script": "Latn"
+          },
+          {
+            "lang": "fa",
+            "name": "تره فرنگی",
+            "script": "Arab"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "リーキ",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "韭葱",
+            "script": "Hans"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ウェールズ",
+        "name": "Cenhinen Pedr",
+        "cultural_significance": "ウェールズの国の象徴。聖デイヴィッドのシンボルとして、兵士が識別のために帽子につけたという伝説がある。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on APG IV system of plant classification."
+    },
+    "family": {
+      "en": "Amaryllis family",
+      "la": "Amaryllidaceae"
+    },
+    "genus": {
+      "en": "Onion",
+      "la": "Allium"
+    },
+    "species": {
+      "en": "Wild Leek",
+      "la": "Allium ampeloprasum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Group",
+        "name": "Porrum"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Historical texts, culinary history, and national symbolism provide extensive evidence of cultural value, particularly in Europe."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "文化的シンボル"
+        ],
+        "traditional_uses": "スープ、シチュー、パイの基本的な香味野菜。特にウェールズでは国の象徴とされ、祝祭日に食される。",
+        "seasonal_significance": "主に秋から冬にかけて収穫されるため、冬の料理に不可欠な食材。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "米料理、煮込み料理、スープに使われる。古代エジプトでは食料として広く利用されていた記録がある。",
+        "seasonal_significance": "涼しい季節の野菜として栽培・利用される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Vichyssoise",
+          "Pot-au-feu",
+          "Flamiche aux poireaux"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "ソテー",
+          "ポタージュ"
+        ],
+        "cultural_context": "多くの伝統的な家庭料理やビストロ料理の風味の基盤を形成する、不可欠な香味野菜。"
+      },
+      {
+        "cuisine": "ウェールズ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Cawl",
+          "Leek and potato soup",
+          "Glamorgan sausage"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "スープ"
+        ],
+        "cultural_context": "国の象徴であり、聖デイヴィッドの日（3月1日）の祝祭料理に多用される。歴史とアイデンティティに深く結びついている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプトのピラミッド建設労働者に食料として供給された記録がある。古代ギリシャ・ローマでも栽培され、皇帝ネロは美声のためにリーキを食したと伝えられる。",
+      "trade_routes": "ローマ帝国を通じてヨーロッパ全土に広まった。中世には一般的な野菜として定着。",
+      "cultural_exchange": "ヨーロッパから植民者によって北米へ、また交易を通じて世界各地へ伝播した。",
+      "domestication_history": "地中海沿岸に自生する野生種 A. ampeloprasum var. ampeloprasum から数千年前に栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き。高地冷涼地では栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しい乾季に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育適温は15-20℃。冷涼な気候を好み、軽い霜にも耐える。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さが厳しくない地域で栽培可能。冬の耐寒性を持つ品種がある。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な灌漑があれば栽培可能だが、乾燥には弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため、高地での栽培は困難。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春（屋内）または春（屋外）",
+        "harvest_season": "秋から冬、または翌春",
+        "growing_period_days": "120-180"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 50,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌の肥沃度",
+        "水分供給",
+        "栽植密度",
+        "品種",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約220万トン（2020年頃の推定）",
+      "major_producers": [
+        {
+          "country": "インドネシア",
+          "production_share": 25.0,
+          "characteristics": "高地での栽培が中心。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": 10.0,
+          "characteristics": "国内消費およびヨーロッパへの輸出が盛ん。"
+        },
+        {
+          "country": "フランス",
+          "production_share": 7.0,
+          "characteristics": "高品質なリーキの生産で知られ、多様な品種が栽培されている。"
+        },
+        {
+          "country": "ベルギー",
+          "production_share": 6.0,
+          "characteristics": "集約的な生産が行われ、ヨーロッパ市場への主要供給国。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、品種や栽培条件による機能性成分の変動に関するデータは限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "61",
+        "protein_g": "1.5",
+        "carbs_g": "14.2",
+        "fat_g": "0.3",
+        "fiber_g": "1.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "47 µg",
+          "daily_value_percent": "39"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "83 µg RAE",
+          "daily_value_percent": "9"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.5 mg",
+          "daily_value_percent": "21"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "12 mg",
+          "daily_value_percent": "13"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ケンペロール",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用、抗炎症作用。血管保護効果の可能性が研究されている。"
+      },
+      {
+        "compound": "含硫化合物（アリシン等）",
+        "concentration": "ニンニクより少ない",
+        "health_effect": "抗菌作用、抗酸化作用、心血管系保護作用。"
+      },
+      {
+        "compound": "プレバイオティクス（イヌリン）",
+        "concentration": "可変",
+        "health_effect": "腸内善玉菌の増殖を助け、腸内環境を改善する。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "利尿作用",
+          "喉の痛みの緩和",
+          "咳止め"
+        ],
+        "preparation": "スープや煎じ薬として摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "心血管疾患予防",
+        "特定のがんリスク低減",
+        "腸内フローラ改善"
+      ],
+      "safety_considerations": "一般的に安全。一部の人に鼓腸を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究で広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "煮込み",
+          "ポタージュ",
+          "ロースト",
+          "グラタン",
+          "ソテー"
+        ],
+        "flavor_role": "主味/副味",
+        "typical_combinations": [
+          "ジャガイモ",
+          "クリーム",
+          "鶏肉",
+          "魚介類",
+          "チーズ"
+        ]
+      },
+      {
+        "region": "中東",
+        "methods": [
+          "煮込み",
+          "炒め物",
+          "詰め物"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "米",
+          "ひき肉",
+          "トマト",
+          "豆類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "6-12ヶ月",
+        "quality_changes": "食感が柔らかくなるが、風味は比較的保たれる。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "風味が凝縮される。スープや粉末製品に利用される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "タマネギやニンニクよりもマイルドで甘い風味。加熱するとさらに甘みが増す。",
+      "aroma_compounds": [
+        "ジプロピルジスルフィド",
+        "アリルプロピルジスルフィド"
+      ],
+      "texture_characteristics": "生ではシャキシャキしているが、加熱すると柔らかく、とろりとした食感になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リーキに特化した気候変動適応研究は非常に少ない。評価は、一般的な冷涼地野菜の知見と栽培要件からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "13-24°C",
+      "extreme_heat_survival": "30°C以上が続くと生育不良や品質低下を起こす。",
+      "cold_tolerance": "-10°C（品種による）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "普通。定期的な水分供給が必要。",
+      "flood_tolerance": "低。根腐れを起こしやすい。",
+      "optimal_rainfall": "年間600-1200mmの範囲で均等に分布"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。葉は折れやすいが、本体は比較的強い。",
+      "hail_damage_recovery": "低い。葉の損傷は回復しにくい。",
+      "rapid_temperature_change": "比較的強い。特に寒さへの順応性は高い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。他のC3植物同様、限定的な生育促進効果が期待される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、ネギハモグリバエやアザミウマなどの害虫の発生期間が長期化・深刻化する可能性がある。",
+      "disease_resistance_stability": "高温多湿はさび病やべと病の発生を助長するため、抵抗性の安定性が低下する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "ヨーロッパ中・北部、北米の温帯地域、アジアの高地",
+        "2050_projection": "栽培適地がより高緯度・高地へ移動。南ヨーロッパでの夏場の栽培が困難になる可能性。",
+        "2100_projection": "適地の移動がさらに顕著になる。耐暑性品種の育種が不可欠になる。",
+        "confidence_level": "中程度の推定"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同種内の交雑は容易。野生近縁種との交雑ポテンシャルは高いが、自然環境での詳細な研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "エレファントガーリック (A. ampeloprasum var. ampeloprasum)",
+        "クラット (A. ampeloprasum var. kurrat)"
+      ],
+      "interspecific_compatibility": [
+        "A. cepa (タマネギ)や A. sativum (ニンニク)との交雑は困難だが、実験的には可能。"
+      ],
+      "intergeneric_possibility": [
+        "ほぼ不可能"
+      ],
+      "successful_natural_hybrids": [
+        "地中海地域の野生集団内での遺伝子流動が確認されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパや中東には、地域の気候に適応した多様な在来品種が存在する。",
+      "wild_gene_pool": "原産地である地中海沿岸の野生集団は、病害虫抵抗性や環境ストレス耐性の貴重な遺伝資源である。",
+      "adaptive_genetic_variation": "高い。広範な地理的分布と多様な栽培環境が遺伝的多様性を維持してきた。",
+      "inbreeding_depression_risk": "商業品種では中程度のリスクがあるが、全体としては低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "地中海沿岸",
+        "environmental_pressure": "夏の乾燥と高温",
+        "adaptive_response": "休眠性の獲得、深い根系の発達",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による遺伝的適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる高い可能性がある。",
+      "improved_nutritional_content": "野生種から機能性成分（抗酸化物質など）を導入できる可能性がある。",
+      "novel_characteristics": "新しい風味、形状、成長習性の獲得。",
+      "hybrid_vigor_potential": "高い。特に遠縁の在来種間や野生種との交雑で期待される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑には胚珠培養などの技術が必要な場合がある。",
+      "chromosome_compatibility": "同種内では問題ない。異種間では倍数性の違いが障壁となりうる。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "野生種からの有用遺伝子導入において、戻し交配は重要な技術となる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、病害虫、土壌条件",
+        "adaptive_traits": "根の深さ、クチクラ層の厚さ、抗菌性化合物の生産",
+        "heritability": "中〜高",
+        "response_to_selection": "中程度"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リーキに特化したリジェネラティブ農業の研究はほとんどない。評価はネギ属の一般的特性と根系からの推測に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く広く張る繊維状の根系を持つ。",
+      "organic_matter_contribution": "収穫後の残渣が土壌有機物となる。",
+      "soil_structure_improvement": "根が土壌の団粒構造を形成・安定させる助けとなる。",
+      "erosion_control": "不明",
+      "nutrient_cycling_role": "土壌深層からの養分を吸収する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花させると、ミツバチや他の訪花昆虫にとって魅力的な蜜源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌と共生し、リン酸吸収を助ける。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根の活動が土壌の孔隙を増やし、水の浸透を助ける可能性がある。",
+      "moisture_retention": "土壌有機物の増加を通じて間接的に貢献する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系のため、地下部への炭素蓄積ポテンシャルは比較的高い。",
+      "soil_carbon_enhancement": "根の分泌物や残渣を通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン（ネギの匂いがニンジンの害虫を、ニンジンの匂いがネギの害虫を遠ざけるとされる）",
+        "レタス、キャベツ類"
+      ],
+      "natural_pest_control": "含硫化合物が特定の害虫や土壌病原菌を抑制する効果を持つ可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "限定的"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌病害のサイクルを断ち切るのに役立つ。",
+      "stress_tolerance": "中程度",
+      "recovery_capacity": "中程度",
+      "adaptability": "中程度"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、栄養学、食品科学の分野で広く議論されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "植物中心の食事において、風味と栄養価の両面で重要な役割を果たす。",
+      "food_security_contribution": "温帯地域において、特に冬場のビタミン供給源として重要。",
+      "local_food_system_integration": "ファーマーズマーケットやCSA（地域支援型農業）で人気の品目。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "付加価値の高いベビーリーキ",
+        "利便性の高いカット済み・冷凍製品",
+        "健康志向の消費者向け機能性表示"
+      ],
+      "value_added_products": [
+        "乾燥リーキパウダー",
+        "スープベース",
+        "グルメ惣菜"
+      ],
+      "niche_market_value": "特定の伝統品種や有機栽培品は、ニッチ市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商業品種の保全状況は良好だが、在来種や野生近縁種の情報は断片的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の自生地である地中海沿岸の開発や気候変動による生息地の喪失が懸念される。",
+    "climate_change_vulnerability": "高い。特に低緯度地域の在来品種は高温・乾燥ストレスに脆弱。",
+    "cultural_erosion_risk": "低い。主要な栽培地域では食文化に深く根付いている。",
+    "conservation_actions_needed": [
+      "野生近縁種および在来品種の体系的な収集と評価",
+      "ジーンバンクでの種子・遺伝資源の長期保存（域外保全）",
+      "農家による在来品種の栽培を支援する仕組み作り（域内保全）"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸地域",
+      "中東"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（例：World Vegetable Center, USDA GRIN）に多数の品種が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域で、小規模農家や保全団体による在来品種の維持活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海沿岸（野生種と栽培種の遺伝子流動）",
+      "ウェールズ（文化的象徴性の深層研究）",
+      "トルコ（在来品種の多様性評価）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温・乾燥）に対する品種レベルでの生理学的応答",
+      "リジェネラティブ農業システムにおける具体的な効果の定量的データ",
+      "機能性成分の含有量に影響を与える栽培条件"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸カタログや品種データベースから情報を集約。"
+      },
+      "variety_name": "Musselburgh",
+      "local_name": "Musselburgh Leek",
+      "origin_region": "スコットランド",
+      "distinctive_characteristics": "太く短い茎、非常に優れた耐寒性、豊かな風味。",
+      "cultural_importance": "19世紀から栽培される歴史的な品種で、イギリスの家庭菜園で人気が高い。",
+      "climate_adaptation": "寒冷な気候に非常に強く、冬越し栽培に適している。",
+      "conservation_status": "広く利用可能"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸カタログや品種データベースから情報を集約。"
+      },
+      "variety_name": "Bleu de Solaise",
+      "local_name": "Poireau Bleu de Solaise",
+      "origin_region": "フランス",
+      "distinctive_characteristics": "寒さに当たると葉が青紫色になるのが特徴。非常に耐寒性が高く、風味も良い。",
+      "cultural_importance": "フランスの伝統的な冬用リーキの代表格。",
+      "climate_adaptation": "極めて高い耐寒性を持ち、冬の厳しい気候に適応している。",
+      "conservation_status": "広く利用可能"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸カタログや品種データベースから情報を集約。"
+      },
+      "variety_name": "American Flag",
+      "local_name": "American Flag Leek",
+      "origin_region": "アメリカ",
+      "distinctive_characteristics": "長く白い茎、マイルドな風味で育てやすい。",
+      "cultural_importance": "北米で広く栽培されている標準的な品種。",
+      "climate_adaptation": "幅広い気候に適応するが、特に温帯気候で良く育つ。",
+      "conservation_status": "広く利用可能"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Plants of the World Online (Kew Science)",
+      "GRIN-Global Taxonomy",
+      "FAOSTAT",
+      "Relevant ethnobotanical and agricultural research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "在来品種の栄養価および機能性成分の比較分析"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に関するデータは豊富だが、アジアやアフリカの在来種に関する情報は限定的。",
+    "missing_information": [
+      "先住民コミュニティにおける伝統的な薬用利用の詳細",
+      "気候変動による栽培適地の定量的予測モデル"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

@@ -1,0 +1,622 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業研究機関の報告書、民族植物学の文献から情報を統合。野生近縁種に関する系統発生学的な詳細は限定的。"
+    },
+    "primary_name": "Guar",
+    "scientific_name": "Cyamopsis tetragonoloba",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "種子"
+    ],
+    "origin_region": "インド亜大陸（推定）、祖先種はアフリカのサヘル地域に由来する可能性",
+    "wild_relatives": [
+      "Cyamopsis senegalensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "南アジアでの呼称は豊富に存在するが、他の地域では主に商業名「Guar」が使用される。"
+    },
+    "international": {
+      "en": [
+        "Cluster Bean",
+        "Guar"
+      ],
+      "scientific_common": "Guar"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "ग्वार",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "gu",
+            "name": "ગુવાર",
+            "script": "Gujarati"
+          },
+          {
+            "lang": "mr",
+            "name": "गवार",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "கொத்தவரை",
+            "script": "Tamil"
+          },
+          {
+            "lang": "te",
+            "name": "గోరుచిక్కుడు",
+            "script": "Telugu"
+          },
+          {
+            "lang": "ur",
+            "name": "گوار",
+            "script": "Arabic"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Guar",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Cyamopsis",
+      "la": "Cyamopsis"
+    },
+    "species": {
+      "en": "Guar",
+      "la": "tetragonoloba"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "南アジアの食文化に関する文献は豊富。他の地域では主に工業原料としての価値に限定される。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "家畜飼料",
+          "緑肥"
+        ],
+        "traditional_uses": "インド、パキスタン、ネパール、スリランカで重要な夏野菜。特に乾燥地帯のラジャスタン州やグジャラート州では、厳しい環境で育つ貴重な食料源。若い莢はカレーや炒め物に、乾燥させた豆は家畜飼料や緑肥として利用される。",
+        "seasonal_significance": "モンスーン期（カリフ期）に栽培される主要な作物の一つ。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "主にテキサス州でグアーガム生産のために栽培される工業作物。食文化としての重要性はほぼない。",
+        "seasonal_significance": "夏季作物",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Gawar ki Sabzi",
+          "Kothavarangai Poriyal",
+          "Guar aur Aloo ki Sabzi"
+        ],
+        "preparation_methods": [
+          "炒め物",
+          "煮込み（カレー）",
+          "蒸し物",
+          "天日干し"
+        ],
+        "cultural_context": "日常的な家庭料理の食材であり、特に乾燥地域では重要な栄養源。アーユルヴェーダでは健康に良い野菜とされる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インド亜大陸で古くから栽培されている。",
+      "trade_routes": "歴史的には地域内での交易が中心。20世紀半ば以降、グアーガムの需要拡大に伴い国際的な交易品となった。",
+      "cultural_exchange": "不明",
+      "domestication_history": "アフリカ原産の野生種Cyamopsis senegalensisからインド亜大陸で栽培化されたと考えられているが、正確な時期や場所は特定されていない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温で日照時間が長い環境。雨季に栽培されることが多い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高温で日照時間が長い環境。主要な栽培地帯。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、低温に弱いため商業栽培には不向き。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の低温が障害となる。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "非常に高い乾燥耐性を持つ。年間降水量300-800mmの地域で栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため栽培不可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯/亜熱帯",
+        "planting_season": "雨季の始まり（例：インドでは6-7月）",
+        "harvest_season": "播種後2-3ヶ月",
+        "growing_period_days": "80-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "500 - 2,000 kg/ha（種子）",
+      "factors_affecting_yield": [
+        "降雨量と時期",
+        "品種（野菜用 vs ガム用）",
+        "土壌肥沃度",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約3,000,000トン（グアー豆）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "80",
+          "characteristics": "世界最大の生産・輸出国。特にラジャスタン州、グジャラート州、ハリヤナ州が主産地。"
+        },
+        {
+          "country": "パキスタン",
+          "production_share": "15",
+          "characteristics": "世界第2位の生産国。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "3",
+          "characteristics": "主にテキサス州で工業（シェールガス採掘）用途に栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価データは存在するが、品種や栽培条件による変動に関する研究は限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "16",
+        "protein_g": "3.2",
+        "carbs_g": "3.4",
+        "fat_g": "0.2",
+        "fiber_g": "2.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "57 mg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.08 mg",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ガラクトマンナン（グアーガム）",
+        "concentration": "種子に高濃度で含有",
+        "health_effect": "水溶性食物繊維。血糖値上昇抑制、コレステロール低下、整腸作用。"
+      },
+      {
+        "compound": "ポリフェノール",
+        "concentration": "莢に含有",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "消化促進",
+          "便秘解消",
+          "血糖管理"
+        ],
+        "preparation": "野菜として調理して摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖コントロール改善",
+        "血中コレステロール低下",
+        "便通改善"
+      ],
+      "ongoing_research": [
+        "食品の物性改良剤としての応用",
+        "肥満予防効果"
+      ],
+      "safety_considerations": "グアーガムの過剰摂取は腹部膨満感やガスの原因となることがある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "南アジアの料理法に関する情報は豊富。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "炒める（サブジ）",
+          "煮込む（カレー）",
+          "蒸して和える（ポリヤル）"
+        ],
+        "flavor_role": "副菜の主役",
+        "typical_combinations": [
+          "ジャガイモ",
+          "トマト",
+          "タマネギ",
+          "ココナッツ",
+          "各種スパイス"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し（Vathal）",
+        "regions": [
+          "南インド"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "風味が凝縮される。水で戻したり、油で揚げて食される。"
+      },
+      {
+        "method": "製粉（グアーガム）",
+        "regions": [
+          "インド",
+          "パキスタン",
+          "アメリカ合衆国"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "種子から胚乳を分離・粉砕し、増粘安定剤として利用。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "独特の青臭さと、わずかな苦味。調理により甘みが増す。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "若い莢は加熱するとシャキシャキ感が残る。成長しすぎると筋張って硬くなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的な評価は多数存在するが、極端気象への耐性に関する定量的な実験データは少ない。将来予測は、本種の生理的特性に基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "45°C以上の高温にも一定期間耐えることができる。",
+      "cold_tolerance": "15°C以下で生育が著しく阻害される。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い。深い主根が土壌深層の水分を吸収する。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "300-800 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。草丈が低いため、強風による倒伏のリスクは比較的低い。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "高温への適応力は高いが、急激な低温には弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成効率が向上し、バイオマスが増加する可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により害虫の発生パターンが変化する可能性があるが、元々が乾燥地帯の作物であるため一定の耐性を持つ。",
+      "disease_resistance_stability": "品種によるが、細菌性葉枯病など特定の病害に脆弱な場合がある。",
+      "beneficial_organism_relationships": "根粒菌との共生により、痩せた土地でも生育可能。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "インド亜大陸の乾燥・半乾燥地域、米国の南西部",
+        "2050_projection": "現在の栽培適地が北上・拡大する可能性がある。一部の温帯地域が亜熱帯化することで栽培可能になる。",
+        "2100_projection": "さらに拡大するが、極端な干ばつや熱波の頻発が収量を不安定にする可能性もある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "主に人為的な育種に関する情報が中心。自然環境下での交雑や適応に関する詳細な生態学的研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "野生種のCyamopsis senegalensisとの交雑は可能であり、育種の親として利用される。"
+      ],
+      "intergeneric_possibility": [
+        "不明"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告はない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "インド、パキスタンには多様な在来種が存在し、耐乾性や莢の形質に幅広い変異が見られる。",
+      "wild_gene_pool": "アフリカの野生種は、さらなる耐乾性や病害抵抗性の遺伝子源として重要。",
+      "adaptive_genetic_variation": "高い。乾燥、高温、貧栄養土壌への適応に関連する遺伝的変異が豊富に存在する。",
+      "inbreeding_depression_risk": "自家受粉性があるため、在来種では遺伝的多様性が地域ごとに分化している可能性がある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インド、ラジャスタン州",
+        "environmental_pressure": "極度の乾燥、高温、貧栄養土壌",
+        "adaptive_response": "深い主根の発達、短い生育期間、高温下での着果能力",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "農家による長年の選抜と自然選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "野菜用品種とガム用品種の交配による特性改良が可能。",
+      "novel_characteristics": "莢のサイズ、柔らかさ、ガム含有量などの改良。",
+      "hybrid_vigor_potential": "高い可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑では、雑種不和合性が見られることがある。",
+      "chromosome_compatibility": "C. tetragonolobaとC. senegalensisは共に2n=14であり、交雑は可能。",
+      "fertility_of_hybrids": "一般的に稔性は保たれる。",
+      "backcrossing_success": "育種プログラムで一般的に行われる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水ストレス",
+        "adaptive_traits": "早期成熟、深い根系、気孔制御",
+        "heritability": "中〜高",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物としての一般的な特性（窒素固定など）はよく知られているが、クラスタマメに特化したリジェネラティブ農業システムでの定量的研究は途上にある。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "強力な主根が土壌深くまで伸び、硬盤層を破砕し、土壌の通気性と透水性を改善する。",
+      "organic_matter_contribution": "収穫後の残渣が豊富な有機物として土壌に還元される。緑肥としても利用される。",
+      "soil_structure_improvement": "根系の活動と有機物供給により、土壌の団粒構造を促進する。",
+      "erosion_control": "生育期には地表を覆い、風食や水食を防ぐ。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。後作の収量を増加させる効果がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫にとって蜜源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌をはじめとする多様な土壌微生物との共生関係を構築する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る孔隙により、雨水の土壌浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて、土壌の保水能力を向上させる。",
+      "runoff_reduction": "地表被覆により、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系により、土壌深層への炭素貯留に貢献する可能性がある。",
+      "soil_carbon_enhancement": "窒素固定によるバイオマス生産の増加と有機物還元により、土壌炭素を増やす効果が高い。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ソルガム、ミレット、トウモロコシなどの穀物との間作で、土壌肥沃度を維持し、システム全体の生産性を高める。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "固定した窒素を後作や間作物が利用できる。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "窒素固定能力と耐乾性により、化学肥料や灌漑への依存を減らし、農業生態系の安定性を高める。",
+      "stress_tolerance": "高い",
+      "recovery_capacity": "中程度",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "グアーガムの工業的応用に関する情報は極めて豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食物繊維と植物性タンパク質が豊富で、健康志向の食品として価値がある。",
+      "food_security_contribution": "乾燥・半乾燥地域の厳しい環境で栽培できるため、気候変動下での食料安全保障への貢献が期待される。",
+      "local_food_system_integration": "伝統的な栽培地域では、地域の食料システムに深く根付いている。",
+      "alternative_protein_potential": "種子からタンパク質を抽出する研究も進められている。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グアーガムの食品、化粧品、医薬品、工業用途での需要拡大",
+        "健康食品（グルテンフリー食品、高繊維食品）としての市場"
+      ],
+      "value_added_products": [
+        "グアーガム（増粘安定剤）",
+        "グアーミール（高タンパク家畜飼料）",
+        "機能性表示食品"
+      ],
+      "niche_market_value": "エスニック食材店や健康食品市場で、野菜としてのニッチな価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の重要性は認識されているが、体系的な保全活動の現状に関する情報は断片的。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種の生息地（アフリカ・サヘル地域）は砂漠化の脅威に晒されている。",
+    "climate_change_vulnerability": "栽培種自体の脆弱性は低いが、栽培地域の極端な気候変動は生産を不安定にする可能性がある。",
+    "cultural_erosion_risk": "工業用品種の普及により、食文化と結びついた多様な在来種が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "原産地（インド、パキスタン）での在来種の収集・評価・保存",
+      "野生近縁種の生息域内保全",
+      "地域コミュニティによる種子保存システムの支援"
+    ],
+    "priority_conservation_regions": [
+      "インド・ラジャスタン州",
+      "パキスタン・シンド州",
+      "アフリカ・サヘル地域（野生近縁種）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（ICRISAT、NBPGRなど）で多数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部のNGOや地域コミュニティによる活動が見られる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査に基づく総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド・ラジャスタン州（在来種の多様性と伝統的農法）",
+      "アフリカ・サヘル地域（野生近縁種の生態と遺伝的多様性）"
+    ],
+    "knowledge_gaps": [
+      "極端気象（洪水、熱波）に対する生理的応答の定量的データ",
+      "多様な在来種の栄養価および機能性成分の比較分析",
+      "リジェネラティブ農業システムにおける炭素隔離能力の定量化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主にインドの農業研究機関の報告に基づく。"
+      },
+      "variety_name": "Pusa Navbahar",
+      "local_name": "Pusa Navbahar",
+      "origin_region": "インド",
+      "distinctive_characteristics": "野菜用品種。莢は長く、柔らかく、無毛。分枝が多く収量性が高い。春作・夏作の両方に適する。",
+      "cultural_importance": "インドで広く栽培されている代表的な野菜用品種の一つ。",
+      "climate_adaptation": "耐暑性が高い。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主にインドの農業研究機関の報告に基づく。"
+      },
+      "variety_name": "RGC-936 (Maru Guar)",
+      "local_name": "Maru Guar",
+      "origin_region": "インド（ラジャスタン州）",
+      "distinctive_characteristics": "ガムおよび種子用の主要品種。耐乾性が非常に高く、直立性で分枝が少ない。早生。",
+      "cultural_importance": "インドのグアーガム産業を支える重要な商業品種。",
+      "climate_adaptation": "極度の乾燥条件に非常に強い。",
+      "conservation_status": "広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "World Vegetable Center reports",
+      "Indian Council of Agricultural Research (ICAR) publications",
+      "Journal of Arid Legumes",
+      "Ethnobiology and Conservation"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種の遺伝的多様性の詳細な評価"
+    ],
+    "regional_data_coverage": "南アジアに関するデータは豊富だが、アフリカや他の地域に関する情報は限定的。",
+    "missing_information": [
+      "先住民コミュニティによる独自の利用法",
+      "自然交雑の実例に関する生態学的データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

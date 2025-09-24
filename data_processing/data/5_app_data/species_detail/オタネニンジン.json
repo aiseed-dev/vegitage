@@ -1,0 +1,578 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物学、民族植物学、農学の主要データベースからの情報を統合。野生個体群に関するデータは限られているが、栽培種に関する情報は豊富。"
+    },
+    "primary_name": "Asian Ginseng",
+    "scientific_name": "Panax ginseng",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "葉",
+      "果実"
+    ],
+    "origin_region": "東アジア（満州、朝鮮半島、ロシア沿海州）の山岳森林地帯",
+    "wild_relatives": [
+      "Panax quinquefolius",
+      "Panax notoginseng",
+      "Panax japonicus",
+      "Panax vietnamensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の主要言語における名称は確立されている。先住民名というよりは、主要な文明圏での伝統名として定着している。"
+    },
+    "international": {
+      "en": [
+        "Asian Ginseng",
+        "Korean Ginseng",
+        "Chinese Ginseng"
+      ],
+      "scientific_common": "Ginseng"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "人参",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "인삼",
+            "script": "Hangul"
+          },
+          {
+            "lang": "ja",
+            "name": "オタネニンジン (御種人参)",
+            "script": "Kana/Kanji"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースで確認済み。"
+    },
+    "family": {
+      "en": "Aralia family",
+      "la": "Araliaceae"
+    },
+    "genus": {
+      "en": "Ginseng",
+      "la": "Panax"
+    },
+    "species": {
+      "en": "Asian Ginseng",
+      "la": "Panax ginseng"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアの古典医学書から現代の民族植物学研究まで、豊富な文献が存在する。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "経済作物",
+          "儀式用",
+          "贈答品"
+        ],
+        "traditional_uses": "伝統中国医学や韓医学において「万能薬」とされ、気を補い、活力を増進させる最上級の生薬として数千年にわたり利用されてきた。皇帝への献上品や重要な贈答品としての価値も高い。",
+        "seasonal_significance": "秋に収穫され、冬の健康維持のための滋養強壮剤として利用されることが多い。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "韓国料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "参鶏湯 (Samgyetang)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "茶",
+          "酒漬け"
+        ],
+        "cultural_context": "主に薬膳料理の重要な食材として扱われる。特に夏の滋養強壮食として参鶏湯は象徴的な存在。"
+      },
+      {
+        "cuisine": "中華料理",
+        "role": "common",
+        "traditional_dishes": [
+          "人参鶏湯 (Renshen Jītāng)"
+        ],
+        "preparation_methods": [
+          "薬膳スープ",
+          "蒸し物"
+        ],
+        "cultural_context": "食材というよりは薬材としてスープや煮込み料理に加えられ、料理全体に薬効をもたらすと考えられている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国最古の薬物書『神農本草経』（紀元前）に記載があり、2000年以上の利用史を持つ。",
+      "trade_routes": "古くからシルクロードなどを通じて高価な交易品として扱われ、東洋の神秘的な薬草として西洋にも知られた。",
+      "cultural_exchange": "東アジア文化圏における健康思想や自然観を象徴する植物として、文化交流の媒体となった。",
+      "domestication_history": "野生種の乱獲により減少し、数百年前に韓国や中国で栽培化が始まった。特に土壌を選ぶため、栽培には高度な技術と長い年月を要する。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に極めて弱く、栽培不可能。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "高地の冷涼な一部地域を除き、栽培は困難。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏は冷涼で、年間を通じて適度な降雨があり、水はけの良い森林土壌。特に生育期には70-80%の遮光が必要。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冬の厳しい寒さには耐えるが、夏の高温と乾燥が栽培の制限要因となる。森林の微気候が重要。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱く、栽培不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高地には自生するが、生育期間が短すぎるため商業栽培は困難。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯/冷温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "秋",
+        "growing_period_days": "1460-2190"
+      }
+    ],
+    "productivity": {
+      "yield_range": "1500-2500 kg/ha (乾燥根、6年栽培後)",
+      "factors_affecting_yield": [
+        "栽培年数 (最低4-6年)",
+        "土壌の質と連作障害",
+        "遮光管理",
+        "病害（特に根腐れ病）の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約80,000トン（推定）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 70,
+          "characteristics": "吉林省が主産地。大規模生産が多い。"
+        },
+        {
+          "country": "韓国",
+          "production_share": 25,
+          "characteristics": "高品質な高麗人参としてブランド化。加工技術が発達。"
+        },
+        {
+          "country": "カナダ",
+          "production_share": 3,
+          "characteristics": "主にアメリカ人参だが、一部アジア人参も栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "機能性成分であるジンセノサイドに関する研究は膨大。栄養成分は二次的な情報として扱われる。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ジンセノサイド (Ginsenosides)",
+        "concentration": "乾燥根の1-6%",
+        "health_effect": "適応促進（アダプトゲン）、抗疲労、免疫調節、認知機能改善、抗炎症作用など多様な薬理活性を持つ。"
+      },
+      {
+        "compound": "ポリアセチレン",
+        "concentration": "不明",
+        "health_effect": "抗がん作用、抗血小板作用などが報告されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "伝統中国医学 (TCM), 韓医学",
+        "uses": [
+          "滋養強壮",
+          "疲労回復",
+          "食欲不振改善",
+          "精神安定",
+          "老化防止"
+        ],
+        "preparation": "乾燥根を煎じる、粉末にする、アルコールに漬ける、料理に加える。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "ストレス応答の調節（アダプトゲン効果）",
+        "肉体的・精神的パフォーマンスの向上",
+        "免疫機能のサポート",
+        "血糖値調節の補助"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "神経保護作用（アルツハイマー病など）",
+        "心血管系保護作用"
+      ],
+      "safety_considerations": "高血圧、不眠、妊娠中の使用には注意が必要。ワルファリンなど特定の薬剤との相互作用が報告されている。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "薬膳料理としての利用法は確立されており、多くの文献やレシピが存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "煮込み（スープ）",
+          "蒸し物",
+          "煎じ（茶）",
+          "アルコール抽出（薬用酒）"
+        ],
+        "flavor_role": "主味/薬味",
+        "typical_combinations": [
+          "鶏肉",
+          "ナツメ",
+          "ニンニク",
+          "栗",
+          "もち米"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "紅参 (Red Ginseng)",
+        "regions": [
+          "韓国",
+          "中国"
+        ],
+        "shelf_life": "10年以上",
+        "quality_changes": "生のまま収穫した水参を蒸して乾燥させる製法。ジンセノサイドの種類と量が増加し、保存性も向上する。"
+      },
+      {
+        "method": "白参 (White Ginseng)",
+        "regions": [
+          "韓国",
+          "中国"
+        ],
+        "shelf_life": "2-3年",
+        "quality_changes": "皮を剥いで天日乾燥させる製法。成分変化は紅参ほどではない。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い土の香り、独特の苦味、後からくる微かな甘み",
+      "aroma_compounds": [
+        "パナキシノール",
+        "β-エレメン"
+      ],
+      "texture_characteristics": "生のものはシャキシャキ、加熱すると柔らかくなる。乾燥品は非常に硬い。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培条件の厳しさから気候変動に脆弱であることは広く認識されているが、品種レベルでの定量的な耐性データは乏しい。栽培適地の変化予測は進行中。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "18-25°C",
+      "extreme_heat_survival": "30°C以上が続くと葉焼けや生育停止のリスクが高い。",
+      "cold_tolerance": "-20°C以下（休眠期）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1000-1500mm (年間)"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "遮光施設が破損するリスクがある。",
+      "hail_damage_recovery": "葉が損傷すると光合成が阻害され、根の肥大に深刻な影響が出る。",
+      "rapid_temperature_change": "感受性が高い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "低（本来、森林の下層植物であるため）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、これまで見られなかった病害虫の発生リスクが増加。",
+      "disease_resistance_stability": "連作障害や根腐れ病への抵抗性が低く、気候変動による土壌環境の変化でさらに悪化する可能性がある。",
+      "beneficial_organism_relationships": "土壌菌根菌との共生が重要だが、気候変動がそのバランスを崩す可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "中国東北部、朝鮮半島、ロシア沿海州の特定地域",
+        "2050_projection": "現在の主産地での栽培ストレスが増加し、より高緯度・高標高地域へ適地が移動する可能性。",
+        "2100_projection": "現在の主産地の多くが栽培不適格地になるリスク。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "近縁種との交雑は育種研究で行われているが、自然環境下での交雑事例は限定的。野生個体群の遺伝的多様性に関するデータは緊急の課題。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の栽培品種間で交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "Panax quinquefolius (アメリカ人参)"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告は稀"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培化の歴史が長く、地域ごとの在来系統が存在するが、近代育種により多様性は減少しつつある。",
+      "wild_gene_pool": "野生個体群は絶滅の危機に瀕しており、遺伝子プールは極めて脆弱。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "高"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "アメリカ人参との交雑により、耐病性や異なる環境への適応性を導入できる可能性がある。",
+      "improved_nutritional_content": "特定のジンセノサイドを多く含む品種の作出が可能。",
+      "novel_characteristics": "生育速度の向上や形状の改良。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑では胚珠の敗退などが起こりうる。",
+      "chromosome_compatibility": "Panax属内では染色体数（2n=48）が比較的安定している。",
+      "fertility_of_hybrids": "一般的に稔性は維持される。",
+      "backcrossing_success": "可能"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "森林伐採、気候変動（温暖化、乾燥化）",
+        "adaptive_traits": "耐陰性、特定の土壌微生物との共生能力",
+        "heritability": "不明",
+        "response_to_selection": "適応速度は非常に遅い。"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での研究は少ない。アグロフォレストリー（森林農業）のモデルとしては高いポテンシャルを持つが、定量的データは不足。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "太い直根と多数のひげ根が深く張るが、土壌を積極的に団粒化するタイプではない。",
+      "organic_matter_contribution": "栽培期間が長いため、落葉による有機物供給は継続的に行われる。",
+      "soil_structure_improvement": "長期間耕起しないため、土壌構造と菌類ネットワークの維持に貢献する。",
+      "erosion_control": "遮光下のマルチングや林床植生が侵食を防止する。",
+      "nutrient_cycling_role": "特定の養分を土壌から吸収するため、収穫後は土壌養分が枯渇しやすい（連作障害の一因）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "地味な花で、自家受粉が主だが、一部の昆虫が訪れる。",
+      "beneficial_insect_habitat": "アグロフォレストリー環境は多様な昆虫の生息地を提供する。",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌との共生が成長に不可欠。",
+      "above_ground_biodiversity": "森林農業システムとして導入した場合、鳥類や他の生物の生息地となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "長期間不耕起のため、土壌の浸透能は高い。",
+      "moisture_retention": "マルチングや腐植層が土壌水分を保持する。",
+      "runoff_reduction": "林床と同様の環境が地表流出を抑制する。",
+      "groundwater_recharge": "貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "小さい。",
+      "below_ground_carbon": "根のバイオマスは大きいが、全体の炭素蓄積量は樹木に劣る。",
+      "soil_carbon_enhancement": "長期間の不耕起と有機物マルチにより、土壌炭素の安定的な蓄積に貢献する可能性がある。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "落葉広葉樹（遮光と落葉供給）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "連作障害（自家中毒）が強く、アレロパシーの関与が示唆される。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な生物が共存するアグロフォレストリーシステムとして設計すれば安定性は高い。",
+      "stress_tolerance": "個体としてのストレス耐性は低い。",
+      "recovery_capacity": "低い。",
+      "adaptability": "低い。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康食品、サプリメント市場に関するデータは豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "機能性食品・スーパーフードとしての価値が高い。",
+      "food_security_contribution": "主食ではないが、高付加価値作物として小規模農家の収入向上に貢献し、経済的な食料安全保障に寄与する。",
+      "local_food_system_integration": "アグロフォレストリーを通じて、持続可能な土地利用と地域経済を統合するモデルになりうる。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性表示食品",
+        "ウェルネス・ツーリズム（人参畑観光）",
+        "化粧品原料"
+      ],
+      "value_added_products": [
+        "濃縮エキス",
+        "カプセル・錠剤",
+        "機能性飲料",
+        "石鹸・化粧品"
+      ],
+      "niche_market_value": "非常に高い。品質や年数によって価格が大きく変動する。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "IUCNレッドリストやCITESの指定など、保全の必要性に関する国際的なコンセンサスがある。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "原生林の伐採が野生個体群の生息地を破壊している。",
+    "climate_change_vulnerability": "高い。生息適地の縮小が予測される。",
+    "cultural_erosion_risk": "低（文化的重要性は維持されている）",
+    "conservation_actions_needed": [
+      "野生個体群の生息域内（in-situ）保全",
+      "遺伝子資源の域外（ex-situ）保全（ジーンバンク）",
+      "持続可能な収穫と利用の推進",
+      "栽培における遺伝的多様性の維持"
+    ],
+    "priority_conservation_regions": [
+      "長白山脈（中国・北朝鮮国境）",
+      "ロシア沿海州の森林地帯"
+    ],
+    "ex_situ_conservation_status": "主要な生産国でジーンバンクが整備されている。",
+    "in_situ_conservation_efforts": "一部地域で自然保護区が設定されているが、密猟のリスクは依然として高い。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集されたデータに基づく総合的な専門家判断である。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "長白山脈",
+      "朝鮮半島非武装地帯（DMZ）"
+    ],
+    "knowledge_gaps": [
+      "野生個体群の正確な分布と遺伝的多様性",
+      "気候変動に対する生理的応答の定量的データ",
+      "土壌微生物叢との相互作用の詳細なメカニズム"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に韓国の育種機関から得られるが、中国の在来系統に関する体系的な情報は限定的。"
+      },
+      "variety_name": "Gumpoong (금풍)",
+      "local_name": "금풍",
+      "origin_region": "韓国",
+      "distinctive_characteristics": "高収量で根の形状が良い。ジンセノサイド含有量が高い。",
+      "cultural_importance": "韓国における主要な栽培品種の一つ。",
+      "climate_adaptation": "標準的な栽培条件下での生育に最適化されている。",
+      "conservation_status": "栽培品種として維持"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に韓国の育種機関から得られるが、中国の在来系統に関する体系的な情報は限定的。"
+      },
+      "variety_name": "Jilin Ginseng (吉林人参)",
+      "local_name": "吉林人参",
+      "origin_region": "中国吉林省",
+      "distinctive_characteristics": "長白山麓の気候風土に適応した在来系統群。多様な形状と特性を持つ。",
+      "cultural_importance": "中国における人参の代名詞的存在で、品質が高いとされる。",
+      "climate_adaptation": "冷涼な大陸性気候に適応。",
+      "conservation_status": "在来系統として栽培・保全"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      "PubMed",
+      "FAOSTAT",
+      "Journal of Ginseng Research"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生遺伝資源の包括的な評価"
+    ],
+    "regional_data_coverage": "東アジアに集中しており、他の地域でのデータは乏しい。",
+    "missing_information": [
+      "標準的な食品成分表に基づく栄養価データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

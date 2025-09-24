@@ -1,0 +1,777 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), FAOSTAT, and ethnobotanical literature. The wild progenitor is widely accepted as A. longicuspis, although this is sometimes debated."
+    },
+    "primary_name": "Garlic",
+    "scientific_name": "Allium sativum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "茎",
+      "葉"
+    ],
+    "origin_region": "中央アジア",
+    "wild_relatives": [
+      "Allium longicuspis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are sourced from multilingual ethnobotanical databases and linguistic analyses. Indigenous names for a crop this ancient and widespread are often subsumed into regional languages."
+    },
+    "international": {
+      "en": [
+        "Garlic"
+      ],
+      "scientific_common": "Cultivated Garlic"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Ajo",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Ail",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Knoblauch",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Aglio",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "ثوم",
+            "script": "Arabic"
+          },
+          {
+            "lang": "he",
+            "name": "שום",
+            "script": "Hebrew"
+          },
+          {
+            "lang": "tr",
+            "name": "Sarımsak",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "लहसुन",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "রসুন",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "大蒜",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "ニンニク",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "마늘",
+            "script": "Hangul"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "古代エジプト",
+        "name": "不明",
+        "cultural_significance": "ヒエログリフに記録され、ピラミッド建設の労働者に強壮剤として与えられたとされる。ミイラの防腐処理にも使用された。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification according to APG IV system. Historically placed in Liliaceae, now in Amaryllidaceae."
+    },
+    "family": {
+      "en": "Amaryllis family",
+      "la": "Amaryllidaceae"
+    },
+    "genus": {
+      "en": "Onion",
+      "la": "Allium"
+    },
+    "species": {
+      "en": "Garlic",
+      "la": "sativum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Subgroup",
+        "name": "Ophioscorodon (Hardneck)"
+      },
+      {
+        "rank": "Subgroup",
+        "name": "Sativum (Softneck)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Garlic's cultural significance is documented in ancient texts, folklore, and culinary traditions worldwide."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "料理の風味付けの基礎（ソフリットなど）。生、加熱、ローストなど多様な調理法で使用。民間療法で抗菌剤として利用。",
+        "seasonal_significance": "夏の収穫祭と関連付けられることがある。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "炒め物、スープ、漬物（キムチなど）に不可欠。中医学では体を温め、解毒作用があるとされる。黒ニンニクは健康食品として価値が高い。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "カレーやマサラのベースとなるショウガとのペーストは必須。アーユルヴェーダでは消化促進や強壮剤として使用される。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Aglio e Olio",
+          "Sofritto base",
+          "Pesto"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "ローストする",
+          "生食"
+        ],
+        "cultural_context": "風味の基盤であり、シンプルながらも料理の魂を決定づける要素。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "キムチ",
+          "サムギョプサル",
+          "ナムル"
+        ],
+        "preparation_methods": [
+          "漬ける",
+          "生食",
+          "すりおろし"
+        ],
+        "cultural_context": "辛味と風味の源泉。一人当たりの消費量が世界で最も多い国の一つであり、国民食に深く根付いている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "5000年以上前から栽培。古代エジプト、ギリシャ、ローマ、中国、インドの記録に登場する。",
+      "trade_routes": "シルクロードを通じて東西に伝播し、世界中の食文化に影響を与えた主要な香辛料の一つ。",
+      "cultural_exchange": "薬効と風味から、交易品としてだけでなく、文化的・医学的知識の交換媒体としても機能した。",
+      "domestication_history": "中央アジアの野生種Allium longicuspisから栽培化されたと考えられている。無性生殖が主であるため、人間の選択が多様な品種を生み出した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地または乾季に栽培。ソフトネック系の品種が適する。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しい冬に栽培。ソフトネック系が主流。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最も適した気候帯。秋に植え付け、夏に収穫。ハードネック、ソフトネック両方が栽培可能。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "厳しい冬に耐えるハードネック系が適する。冬の寒さが鱗茎の分化に必要。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。乾燥は病害を抑制するが、鱗茎肥大期には十分な水分が必要。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高の低い地域や、短い生育期間に適応した品種で栽培可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "秋",
+        "harvest_season": "初夏から夏",
+        "growing_period_days": 240
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "晩秋から冬",
+        "harvest_season": "春",
+        "growing_period_days": 150
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 20,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "植え付け時期",
+        "土壌の肥沃度と排水性",
+        "灌漑",
+        "日長",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約30,000,000トン",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 75,
+          "characteristics": "世界最大の生産国および輸出国。圧倒的な生産規模を誇る。"
+        },
+        {
+          "country": "インド",
+          "production_share": 10,
+          "characteristics": "国内消費が主。多様な地域品種が存在する。"
+        },
+        {
+          "country": "バングラデシュ",
+          "production_share": 1.5,
+          "characteristics": "南アジアの主要生産国の一つ。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栄養成分はUSDA FoodData Central等から。機能性成分に関する科学的研究は多数存在するが、品種や調理法による含有量の変動が大きい。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "149",
+        "protein_g": "6.36",
+        "carbs_g": "33.06",
+        "fat_g": "0.5",
+        "fiber_g": "2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "31.2 mg",
+          "daily_value_percent": 35
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "1.235 mg",
+          "daily_value_percent": 95
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "1.672 mg",
+          "daily_value_percent": 73
+        },
+        {
+          "nutrient": "セレン",
+          "amount": "14.2 µg",
+          "daily_value_percent": 26
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アリシン",
+        "concentration": "切ったり潰したりした際に生成。不安定で変化しやすい。",
+        "health_effect": "強力な抗菌・抗ウイルス・抗真菌作用、血圧降下、コレステロール低下作用。"
+      },
+      {
+        "compound": "S-アリルシステイン",
+        "concentration": "熟成ニンニク（特に黒ニンニク）に豊富。",
+        "health_effect": "高い抗酸化作用、心血管保護効果。"
+      },
+      {
+        "compound": "ジアリルジスルフィド",
+        "concentration": "ニンニクオイルに含有。",
+        "health_effect": "抗がん作用、抗炎症作用が研究されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "世界中",
+        "medical_system": "民間療法",
+        "uses": [
+          "風邪の予防と治療",
+          "感染症対策",
+          "消化促進",
+          "寄生虫駆除"
+        ],
+        "preparation": "生食、蜂蜜漬け、オイル抽出、湿布。"
+      },
+      {
+        "region": "中国",
+        "medical_system": "中医学 (TCM)",
+        "uses": [
+          "解毒",
+          "殺菌",
+          "消化不良の改善"
+        ],
+        "preparation": "食材として、または他の生薬と組み合わせて使用。"
+      },
+      {
+        "region": "インド",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "強壮剤",
+          "消化器系の浄化",
+          "関節炎の緩和"
+        ],
+        "preparation": "調理、または牛乳で煮出して薬用として摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "心血管疾患リスクの低減",
+        "血圧降下作用",
+        "抗菌・抗ウイルス作用",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "特定のがんに対する予防効果",
+        "免疫機能の調節",
+        "認知機能改善"
+      ],
+      "safety_considerations": "過剰摂取は消化器系の不調や口臭を引き起こす。血液凝固を阻害する可能性があるため、手術前や抗凝固薬服用者は注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本、食文化研究から情報を集約。ニンニクの利用法はほぼ普遍的。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "炒める（オリーブオイルで）",
+          "ローストする",
+          "生でサラダやソースに"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "トマト",
+          "オリーブオイル",
+          "ハーブ（バジル、オレガノ）"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒める（香味油として）",
+          "煮込む",
+          "漬ける（醤油、酢）",
+          "すりおろす（薬味として）"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "生姜",
+          "ネギ",
+          "醤油",
+          "ごま油"
+        ]
+      },
+      {
+        "region": "ラテンアメリカ",
+        "methods": [
+          "炒める（ソフリートのベース）",
+          "マッシュする（モホソース）",
+          "マリネに使用"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "玉ねぎ",
+          "ピーマン",
+          "コリアンダー",
+          "柑橘果汁"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（パウダー、フレーク）",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "新鮮なものより香りがマイルドになるが、保存性が非常に高い。"
+      },
+      {
+        "method": "酢漬け・油漬け",
+        "regions": [
+          "地中海地域",
+          "東アジア"
+        ],
+        "shelf_life": "数ヶ月から1年",
+        "quality_changes": "辛味が和らぎ、食感が変化する。風味が付加される。"
+      },
+      {
+        "method": "発酵（黒ニンニク）",
+        "regions": [
+          "東アジア発祥、現在世界中"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "辛味がなくなり、甘くフルーティーな風味に変化。機能性成分が増加する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生：刺激的、辛い、硫黄様。加熱：甘い、ナッツ様、香ばしい、うま味。",
+      "aroma_compounds": [
+        "アリシン",
+        "ジアリルジスルフィド",
+        "アホエン"
+      ],
+      "texture_characteristics": "生：シャキシャキ、硬い。加熱：柔らかい、クリーミー。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "広範な気候適応性から定性的な評価は可能だが、特定の気候変動シナリオに対する品種レベルでの定量的な応答データは限定的。予測は一般的な作物モデルに基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "12-24°C",
+      "extreme_heat_survival": "高温は鱗茎の肥大を阻害し、休眠を誘導する。",
+      "cold_tolerance": "-15°C以下（ハードネック系はより強い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "中程度。鱗茎肥大期には十分な水分が必要。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "450-750mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。葉の損傷は鱗茎のサイズに影響する。",
+      "hail_damage_recovery": "中程度。回復は可能だが収量は減少する。",
+      "rapid_temperature_change": "品種による。急激な温暖化は休眠打破を不完全にすることがある。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "ポジティブな効果が期待されるが、他の栄養素とのバランスが重要。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりネギハモグリバエやネダニなどの害虫の活動期間が延長する可能性がある。",
+      "disease_resistance_stability": "高温多湿は白色疫病などの土壌病害の発生を助長する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯および亜熱帯地域",
+        "2050_projection": "栽培適地がやや高緯度・高地にシフト。一部の低緯度地域ではソフトネック系への転換が必要になる可能性。",
+        "2100_projection": "さらなる高緯度へのシフト。冬の寒さを必要とするハードネック系は、温暖な地域での栽培が困難になる可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ほとんどの栽培品種は不稔性で無性生殖するため自然交雑は稀。しかし、稔性のある系統や野生近縁種との交雑研究が進んでおり、ポテンシャルは存在する。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "稔性のある栽培品種間での交雑は可能だが限定的。"
+      ],
+      "interspecific_compatibility": [
+        "Allium longicuspis（野生祖先種）との交雑が可能。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "自然環境下での報告は非常に稀。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中央アジアからコーカサス地域にかけて、多様な在来品種が存在する。",
+      "wild_gene_pool": "野生種A. longicuspisは、病害虫抵抗性や環境ストレス耐性など、有用な遺伝子の供給源として重要。",
+      "adaptive_genetic_variation": "クローン繁殖が主であるため、新たな遺伝的変異は突然変異に依存する。しかし、世界中の多様な環境で選抜されてきたクローンの多様性は存在する。",
+      "inbreeding_depression_risk": "無性生殖のため、近交弱勢のリスクはないが、遺伝的多様性の欠如が脆弱性につながる。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界各地",
+        "environmental_pressure": "異なる日長、温度、土壌条件",
+        "adaptive_response": "各地域に適した在来品種（ランドレース）の成立（例：耐寒性の強いハードネック、温暖地向きのソフトネック）。",
+        "time_scale": "数千年",
+        "mechanism": "人間の選択による適応クローンの選抜と栄養繁殖。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "機能性成分の含有量を高める育種の可能性がある。",
+      "novel_characteristics": "稔性の回復、新しい風味や形状の導入。",
+      "hybrid_vigor_potential": "有性生殖が可能になれば、雑種強勢を利用した高収量品種の開発が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "多くの品種で花粉の不稔性、胚珠の退化が見られる。",
+      "chromosome_compatibility": "種内、および近縁野生種とは基本的に適合。",
+      "fertility_of_hybrids": "稔性は低い場合が多いが、回復させる研究が進んでいる。",
+      "backcrossing_success": "成功例は研究レベルで存在する。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫（特にウイルス）",
+        "adaptive_traits": "ウイルスフリーのクローンが選択的に生き残り、農家によって維持される。",
+        "heritability": "無性生殖のため100%（突然変異を除く）",
+        "response_to_selection": "非常に速い（適応した個体を選んで植えるだけ）。"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "コンパニオンプランツとしての利用は広く知られているが、土壌改良や炭素固定に関する定量的な研究は他の作物に比べて少ない。評価は定性的な知見に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い繊維状の根系を持つ。",
+      "organic_matter_contribution": "中程度。収穫後の残渣が有機物として供給される。",
+      "soil_structure_improvement": "限定的。しかし、輪作体系に組み込むことで土壌病害を抑制する効果がある。",
+      "erosion_control": "限定的。",
+      "nutrient_cycling_role": "硫黄を土壌から吸収し、植物体内に蓄積する。その硫黄化合物は生物燻蒸効果（バイオフミゲーション）を持つ。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花を咲かせるハードネック種は、ハチやアブなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "特筆すべき点はない。",
+      "soil_microorganism_interaction": "抗菌・抗真菌作用を持つ化合物が土壌微生物叢に影響を与える可能性がある。",
+      "above_ground_biodiversity": "限定的。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "限定的。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。",
+      "below_ground_carbon": "中程度。収穫される鱗茎に炭素が蓄積される。",
+      "soil_carbon_enhancement": "限定的。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "バラ（アブラムシ忌避）",
+        "ニンジン（ニンジンサビバエ忌避）",
+        "トマト",
+        "ナス科植物"
+      ],
+      "natural_pest_control": "強い香りが多くのアブラムシ、ハエ、ダニを忌避する。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "硫黄化合物が一部の土壌病原菌の増殖を抑制する。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物との混植により、生態系の安定性に貢献する。",
+      "stress_tolerance": "中程度。",
+      "recovery_capacity": "中程度。",
+      "adaptability": "高い（広範な栽培地域）。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、健康食品業界、食品科学の研究から情報を統合。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "世界中の植物性料理において、風味の基盤として不可欠。",
+      "food_security_contribution": "高収量で保存性が高く、小規模農家でも栽培が容易なため、食料安全保障と収入向上に貢献する。",
+      "local_food_system_integration": "世界中の地域食品システムに深く組み込まれている。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性を強調した健康食品市場（黒ニンニク、熟成ニンニクエキス）",
+        "特定の風味を持つ在来品種やオーガニック製品のニッチ市場"
+      ],
+      "value_added_products": [
+        "黒ニンニク",
+        "ガーリックオイル",
+        "ガーリックパウダー",
+        "漬物",
+        "サプリメント"
+      ],
+      "niche_market_value": "特定の原産地や品種（例：フランスのピンクガーリック）は高値で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNなどでの絶滅リスク評価はないが、農業生物多様性の観点から遺伝資源の消失が懸念されている。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生祖先種(A. longicuspis)の自生地である中央アジアの環境破壊。",
+    "climate_change_vulnerability": "特定の気候に適応した在来品種が、急激な気候変動によって栽培困難になるリスク。",
+    "cultural_erosion_risk": "在来品種の栽培と利用に関する伝統的知識が、商業的な均一品種の普及によって失われるリスク。",
+    "conservation_actions_needed": [
+      "原産地（中央アジア）での野生近縁種の生息域内保全",
+      "世界中の在来品種の収集とジーンバンクでの域外保全",
+      "在来品種の栽培を維持する農家への支援"
+    ],
+    "priority_conservation_regions": [
+      "中央アジア",
+      "コーカサス地方"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（例：World Vegetable Center）に多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的だが、一部地域で農家による在来品種の保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報を基にした総合評価。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中央アジア（遺伝的多様性の中心地）",
+      "地中海地域（多様な利用法の研究）",
+      "東アジア（加工技術と育種の研究）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する品種ごとの生理学的応答の定量的データ",
+      "野生近縁種との交雑による有用遺伝子の探索と導入",
+      "土壌微生物叢との相互作用の詳細な解明"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸学の標準的な分類に基づく。"
+      },
+      "variety_name": "Silverskin (Softneck)",
+      "local_name": "Silverskin",
+      "origin_region": "不明（ヨーロッパで発展）",
+      "distinctive_characteristics": "柔らかい茎で編みやすい。保存期間が非常に長い。風味はマイルドから中程度。",
+      "cultural_importance": "世界で最も商業的に栽培されているタイプ。長期保存できるため、スーパーマーケットで一般的。",
+      "climate_adaptation": "温暖な気候に適応。冬の寒さをあまり必要としない。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸学の標準的な分類に基づく。"
+      },
+      "variety_name": "Rocambole (Hardneck)",
+      "local_name": "Rocambole",
+      "origin_region": "不明（中央アジア起源の可能性）",
+      "distinctive_characteristics": "硬い花茎（スケープ）が立つ。鱗片が大きく剥きやすい。複雑で豊かな風味を持つ。",
+      "cultural_importance": "グルメ市場や家庭菜園で人気。花茎も食用にされる。",
+      "climate_adaptation": "寒冷な気候に適応。冬の低温期間を必要とする。",
+      "conservation_status": "広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "USDA FoodData Central",
+      "Plants of the World Online (Kew)",
+      "World Vegetable Center Genebank",
+      "Ethnobotanical literature reviews"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生祖先種の生態と保全状況に関する詳細情報"
+    ],
+    "regional_data_coverage": "世界的に良好だが、中央アジアの在来品種に関するデータは限定的。",
+    "missing_information": [
+      "先住民コミュニティ固有の名称と利用法",
+      "特定の気候変動シナリオ下での収量予測モデル"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

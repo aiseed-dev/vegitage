@@ -1,0 +1,697 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GBIF), ethnobotanical literature, and agricultural science reviews. It is one of the most well-documented cosmopolitan plants."
+    },
+    "primary_name": "Shepherd's Purse",
+    "scientific_name": "Capsella bursa-pastoris",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "花",
+      "果実",
+      "種子",
+      "根"
+    ],
+    "origin_region": "東ヨーロッパ、小アジア",
+    "wild_relatives": [
+      "Capsella rubella",
+      "Capsella grandiflora",
+      "Capsella orientalis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual botanical and ethnobotanical dictionaries. Its cosmopolitan nature has resulted in a vast number of local names."
+    },
+    "international": {
+      "en": [
+        "Shepherd's Purse",
+        "Mother's Heart",
+        "Witch's Pouches"
+      ],
+      "scientific_common": "Capsella"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ナズナ (Nazuna), ぺんぺん草 (Penpengusa)",
+            "script": "Katakana/Hiragana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "荠菜 (jì cài)",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "냉이 (naengi)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Hirtentäschelkraut",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Bourse-à-pasteur",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Bolsa de pastor",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Borsa del pastore",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "tr",
+            "name": "Çoban çantası",
+            "script": "Latin"
+          },
+          {
+            "lang": "fa",
+            "name": "کیسه کشیش (Kiseh-keshish)",
+            "script": "Perso-Arabic"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic information is based on the APG IV system and World Flora Online."
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Shepherd's purse",
+      "la": "Capsella"
+    },
+    "species": {
+      "en": "Shepherd's purse",
+      "la": "bursa-pastoris"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural importance varies dramatically by region. Data is rich for East Asia and Europe but scarcer for other regions."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "春の若菜として食用にされる最も重要な野生植物の一つ。日本では正月七日に七草粥として食し、一年の無病息災を祈る。中国や韓国では春の訪れを告げる食材として餃子、スープ、ナムルなどに広く利用される。",
+        "seasonal_significance": "春の象徴",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "薬用",
+          "副菜"
+        ],
+        "traditional_uses": "歴史的に止血剤としての薬用利用が主。特に産後の出血や月経過多に用いられた。食用としては飢饉時の食料や、現代では一部のフォーレージング（野生採集）愛好家に利用される程度。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 1,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "ヨーロッパからの移入種であり、先住民による伝統的な利用は限定的。一部でヨーロッパと同様の薬用利用が見られる。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "七草粥 (Nanakusa-gayu)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "刻む"
+        ],
+        "cultural_context": "正月七日の「人日の節句」に食される儀式食。春の七草の一つ。"
+      },
+      {
+        "cuisine": "中華料理",
+        "role": "common",
+        "traditional_dishes": [
+          "荠菜馄饨 (Jìcài húntun - なずなワンタン)",
+          "荠菜豆腐羹 (Jìcài dòufu gēng - なずなと豆腐のスープ)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "茹でる",
+          "蒸す"
+        ],
+        "cultural_context": "春節や清明節の時期に特に好まれる季節の味覚。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "common",
+        "traditional_dishes": [
+          "냉이 된장찌개 (Naengi doenjang-jjigae - なずな味噌チゲ)",
+          "냉이무침 (Naengi-muchim - なずな和え)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "和える"
+        ],
+        "cultural_context": "春先に独特の香りとほろ苦さを楽しむ食材として非常に人気が高い。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "新石器時代の遺跡からも種子が発見されており、古代から人類の活動範囲に存在していたことが示唆される。薬用としての利用は古代ギリシャ・ローマ時代から記録がある。",
+      "trade_routes": "特定の交易品ではなかったが、人間の移動に伴い、意図せずして世界中に伝播した「コメンサル植物（人間共生植物）」の典型例。",
+      "cultural_exchange": "東アジアでは重要な食文化を形成し、ヨーロッパでは薬草文化の重要な一員であった。文化圏による利用法の違いが顕著。",
+      "domestication_history": "正式な栽培化はされておらず、主に野生のものを採集して利用する。半栽培的な形で畑の隅などで維持されることはある。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地の涼しい季節に限定される。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬から春にかけて生育。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "ほぼ通年で生育可能。春と秋に最も繁茂する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "春と秋に生育。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑があれば生育可能。乾燥に比較的強い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "低標高地で生育可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "秋または早春",
+        "harvest_season": "春（ロゼット葉）",
+        "growing_period_days": 60
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照",
+        "水分",
+        "土壌肥沃度",
+        "雑草競合"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "世界各地",
+          "production_share": null,
+          "characteristics": "商業生産は極めて限定的。主に野生採集（フォーレージング）または家庭菜園レベルでの栽培に依存する。中国では市場での流通量が多いが、統計データは存在しない。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分は分析されているが、地域や生育条件による変動に関するデータは限定的。伝統的薬効に関する記述は豊富だが、臨床研究は少ない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "20-30",
+        "protein_g": "2.5",
+        "carbs_g": "3-5",
+        "fat_g": "0.5",
+        "fiber_g": "2-3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "非常に豊富",
+          "daily_value_percent": ">100%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "豊富",
+          "daily_value_percent": ">50%"
+        },
+        {
+          "nutrient": "ビタミンA (β-カロテン)",
+          "amount": "豊富",
+          "daily_value_percent": ">30%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "豊富",
+          "daily_value_percent": ">20%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "中程度",
+          "daily_value_percent": ">10%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド (ルチン, ディオスミン)",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、血管保護作用"
+      },
+      {
+        "compound": "グルコシノレート",
+        "concentration": "不明",
+        "health_effect": "抗がん作用の可能性"
+      },
+      {
+        "compound": "シナピン酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ療法",
+        "uses": [
+          "止血 (特に産後出血、月経過多、鼻血)",
+          "利尿",
+          "傷の治療"
+        ],
+        "preparation": "チンキ剤、煎じ薬、湿布"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "止血",
+          "利尿",
+          "目の充血改善",
+          "高血圧"
+        ],
+        "preparation": "煎じ薬、食材として摂取"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "止血作用と子宮収縮作用に関する一部の薬理学的証拠"
+      ],
+      "ongoing_research": [
+        "抗酸化、抗炎症、抗がん作用に関する基礎研究"
+      ],
+      "safety_considerations": "子宮収縮作用があるため、妊娠中の大量摂取は避けるべきとされる。アブラナ科植物に一般的な甲状腺腫誘発物質（ゴイトロゲン）を含むため、甲状腺疾患のある場合は注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアの料理本や食文化研究で広く記述されている。西洋ではフォーレージング関連の文献に記載がある。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる",
+          "炒める",
+          "スープ",
+          "蒸し物（点心）",
+          "和え物"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豚肉",
+          "豆腐",
+          "卵",
+          "ごま油",
+          "味噌"
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "生食（サラダ）",
+          "ソテー",
+          "ペスト"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "レモン",
+          "オリーブオイル",
+          "ニンニク",
+          "ナッツ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け",
+        "regions": [
+          "中国",
+          "韓国"
+        ],
+        "shelf_life": "数週間〜数ヶ月",
+        "quality_changes": "食感が柔らかくなり、風味が増す。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "ヨーロッパ（薬用）",
+          "アジア"
+        ],
+        "shelf_life": "一年以上",
+        "quality_changes": "香りが凝縮されるが、ビタミンCは減少する。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "風味と栄養価を比較的良好に保つ。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかな辛味、ほのかな甘み、軽い苦味、青々しい香り",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "若葉は柔らかく、加熱するととろみが出る。茎はわずかに歯ごたえがある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "定量的な実験データは少ないが、その広範な分布と雑草としての性質から、高い適応性が強く示唆される。評価は生態学的特性に基づく類推が中心。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "10-20°C",
+      "extreme_heat_survival": "夏の暑さで地上部は枯れるが、種子は休眠して生き残る。",
+      "cold_tolerance": "ロゼット状態で越冬可能。-15°C程度まで耐える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "400-1200mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地面を這うロゼット状のため、風害に強い。",
+      "hail_damage_recovery": "成長点が低いため、葉が傷ついても回復しやすい。",
+      "rapid_temperature_change": "温度変化への適応性が高い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度上昇により光合成が促進される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "広範な害虫・病原菌に晒されてきた歴史から、特定の脅威に対する脆弱性は低いと考えられる。",
+      "disease_resistance_stability": "遺伝的多様性が高いため、安定していると推定される。",
+      "beneficial_organism_relationships": "多様な訪花昆虫を引き寄せる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "極地を除くほぼ全世界",
+        "2050_projection": "現在の分布域を維持、または高緯度・高地へさらに拡大する可能性が高い。",
+        "2100_projection": "同上",
+        "confidence_level": "高"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Capsella属は進化生物学のモデル生物であり、種分化と交雑に関する研究が豊富である。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "種内のエコタイプ間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "C. rubellaなどの近縁種と交雑可能。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い。"
+      ],
+      "successful_natural_hybrids": [
+        "本種自体がC. grandifloraとC. orientalisの祖先種の間の異質四倍体交雑に由来する。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培品種は存在しないが、世界中の個体群に膨大な遺伝的多様性が存在する。",
+      "wild_gene_pool": "本種自体が野生の遺伝子プールそのものである。",
+      "adaptive_genetic_variation": "非常に高い。様々な環境に適応したローカルなエコタイプが存在する。",
+      "inbreeding_depression_risk": "主に自家受精するが、他家受精も起こる。広大な個体群のためリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界各地",
+        "environmental_pressure": "除草剤、耕起、気候変動など",
+        "adaptive_response": "除草剤耐性の獲得、生活環の短縮化など",
+        "time_scale": "数十年",
+        "mechanism": "自然選択による遺伝子頻度の変化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "既に高い耐性を持つが、近縁種との交雑によりさらに向上する可能性がある。",
+      "improved_nutritional_content": "野生集団内に栄養価に関する多様な遺伝子が存在すると考えられる。",
+      "novel_characteristics": "その異質四倍体起源自体が、新規特性獲得の成功例である。",
+      "hybrid_vigor_potential": "種内交雑においてもヘテロシスが観察される可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "近縁種との間には一部存在するが、克服可能。",
+      "chromosome_compatibility": "異質四倍体(2n=32)であり、二倍体の近縁種(2n=16)との交雑は複雑。",
+      "fertility_of_hybrids": "交雑の組み合わせによる。",
+      "backcrossing_success": "可能。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "人間の土地利用（農耕、都市化）",
+        "adaptive_traits": "早い開花、種子の休眠性、小型化",
+        "heritability": "中〜高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的な研究は少ないが、アブラナ科の雑草としての生態学的特性から多くの利点が推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "直根性の主根と多数の側根を持ち、土壌の団粒構造を改善する可能性がある。",
+      "organic_matter_contribution": "短い生活環で生育と分解を繰り返し、土壌有機物を供給する。",
+      "soil_structure_improvement": "根が土壌の硬盤を穿孔する可能性がある。",
+      "erosion_control": "ロゼット葉が地面を覆い、雨滴による土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "アブラナ科植物は土壌深層から養分を吸い上げる能力（ダイナミック・アキュムレーター）を持つとされる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "早春に開花し、ハナアブや小型のハチなどの多様な訪花昆虫に蜜と花粉を提供する。",
+      "beneficial_insect_habitat": "テントウムシや寄生バチなどの天敵昆虫の隠れ家や代替餌資源となる。",
+      "soil_microorganism_interaction": "根圏で多様な微生物と共生関係を築く。",
+      "above_ground_biodiversity": "アブラナ科を食害する特定の昆虫の餌となり、食物連鎖の基盤を支える。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作るチャンネルが水の浸透を助ける。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "葉や茎が地表流を遅らせる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "小さい",
+      "below_ground_carbon": "根系バイオマスは小さいが、回転が速いため土壌炭素への貢献はあり得る。",
+      "soil_carbon_enhancement": "根からの分泌物や残渣分解を通じて土壌有機炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "低いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "リビングマルチとして利用可能"
+      ],
+      "natural_pest_control": "天敵昆虫の誘引、おとり植物としての機能の可能性。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を抑制するアレロパシー効果を持つ可能性が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "撹乱された土地にいち早く定着し、生態系の回復（遷移）の初期段階を担うパイオニア植物。",
+      "stress_tolerance": "高い",
+      "recovery_capacity": "高い",
+      "adaptability": "非常に高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主に食文化や健康志向の文脈で議論されており、産業応用は限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン・ミネラルが豊富な緑黄色野菜として価値が高い。",
+      "food_security_contribution": "最小限の資源で生育するため、食料供給が不安定な地域での栄養補助源となるポテンシャルを持つ。",
+      "local_food_system_integration": "フォーレージングや地産地消に適した食材。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "野生野菜・山菜市場",
+        "エスニック食品市場",
+        "健康食品市場"
+      ],
+      "value_added_products": [
+        "乾燥ハーブ（茶、サプリメント）",
+        "冷凍野菜",
+        "ハーブソルト"
+      ],
+      "niche_market_value": "フォーレージング文化の普及や、伝統食への関心の高まりに伴い、ニッチ市場での価値が増加している。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "IUCNレッドリストや生態学的研究に基づく評価。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "人間の活動圏に依存するため、生息地の喪失リスクは極めて低い。",
+    "climate_change_vulnerability": "低い",
+    "cultural_erosion_risk": "高（特に西洋文化圏において、食用・薬用としての知識の喪失が懸念される）",
+    "conservation_actions_needed": [
+      "生物学的保全は不要",
+      "食文化や伝統的知識の記録と伝承"
+    ],
+    "priority_conservation_regions": [
+      "東アジア（食文化の保全）",
+      "ヨーロッパ（薬草文化の保全）"
+    ],
+    "ex_situ_conservation_status": "多くのシードバンクに収集されている。",
+    "in_situ_conservation_efforts": "不要。自生環境で非常に繁栄している。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIの総合的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "低優先（既に対応済みのため研究対象としての優先度は高い）",
+    "research_urgency": "中（文化的利用法の記録と、適応メカニズムの解明）",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "東アジア",
+      "地中海地域",
+      "中央アジア"
+    ],
+    "knowledge_gaps": [
+      "地域ごとの栄養成分の差異",
+      "気候変動因子（CO2, 温度）に対する生理学的応答の定量的データ",
+      "栽培技術の体系化"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "本種は作物化されていないため、正式な栽培品種は存在しない。以下は生態学的変異の例を示す。"
+      },
+      "variety_name": "エコタイプ（Ecotyope）",
+      "local_name": "不定",
+      "origin_region": "世界各地",
+      "distinctive_characteristics": "本種は正式な品種を持たないが、各地の環境に適応した無数の『エコタイプ』が存在する。例えば、高緯度地域では生活環が短く、乾燥地域では根が深いなど、形態的・生理的な変異に富む。",
+      "cultural_importance": "地域コミュニティは、食味や収穫時期が最適な特定のエコタイプを経験的に知っている場合がある。",
+      "climate_adaptation": "各エコタイプは、その地域の気候に高度に最適化されている。",
+      "conservation_status": "未評価（Not Evaluated）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "World Flora Online",
+      "Plants of the World Online (Kew)",
+      "Ethnobotany of Europe",
+      "Traditional Chinese Medicine databases",
+      "Journal of Ecology",
+      "Molecular Ecology"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネrative農業における定量的な生態系サービス評価",
+      "気候変動シナリオ下での生産性変化に関するモデル研究",
+      "栽培化に向けた遺伝資源評価"
+    ],
+    "regional_data_coverage": "東アジアとヨーロッパは豊富、他の地域は断片的。",
+    "missing_information": [
+      "商業生産に関する統計データ",
+      "南半球の先住民による利用記録"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

@@ -1,0 +1,727 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew, USDA GRIN）およびFAOの報告書から統合。野生近縁種の情報は網羅的ではないが、主要なものは特定可能。"
+    },
+    "primary_name": "Prickly Pear Cactus",
+    "scientific_name": "Opuntia ficus-indica",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "果実"
+    ],
+    "origin_region": "メキシコ中央部",
+    "wild_relatives": [
+      "Opuntia streptacantha",
+      "Opuntia megacantha",
+      "Opuntia tomentosa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の名称は、民族植物学の文献および多言語データベースから収集。"
+    },
+    "international": {
+      "en": [
+        "Prickly Pear",
+        "Indian Fig Opuntia",
+        "Nopal Cactus"
+      ],
+      "scientific_common": "Indian Fig"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Tuna (fruit), Nopal (pad)",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "es-MX",
+            "name": "Nopal (plant/pad), Tuna (fruit)",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "地中海地域",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Fico d'India",
+            "script": "Latn"
+          },
+          {
+            "lang": "el",
+            "name": "Frangosyko",
+            "script": "Grek"
+          }
+        ]
+      },
+      {
+        "region": "中東・北アフリカ",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "صبار التين الهندي (Sabbar al-teen al-hindi)",
+            "script": "Arab"
+          },
+          {
+            "lang": "he",
+            "name": "צבר מצוי (Tzabar Matzui)",
+            "script": "Hebr"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ウチワサボテン",
+            "script": "Jpan"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ナワ族（アステカ）",
+        "name": "Nōpalli (plant), Nōchtli (fruit)",
+        "cultural_significance": "メキシコの国章にも描かれる建国神話の中心的存在。食料、飲料、薬、染料（コチニールカイガラムシの宿主として）の源であり、生命と豊穣の象徴。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な分類体系（APG IV）に基づいている。"
+    },
+    "family": {
+      "en": "Cactus",
+      "la": "Cactaceae"
+    },
+    "genus": {
+      "en": "Prickly Pear",
+      "la": "Opuntia"
+    },
+    "species": {
+      "en": "Indian Fig",
+      "la": "ficus-indica"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "人類学、歴史学、民族植物学の文献から広範な情報を入手可能。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "メソアメリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "儀式用",
+          "経済作物",
+          "文化的象徴"
+        ],
+        "traditional_uses": "若い茎節（ノパル）は野菜として、果実（トゥナ）は生食や加工品として利用。古代から飢饉時の救荒作物、家畜の飼料、生垣としても重要。",
+        "seasonal_significance": "トゥナは夏の重要な果物。ノパルは通年利用可能。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "地中海地域",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "景観形成"
+        ],
+        "traditional_uses": "特にシチリア島やマルタで夏の果物として広く消費される。ジャム、リキュールにも加工。乾燥地での生垣や防風林として利用されてきた歴史がある。",
+        "seasonal_significance": "夏の風物詩としての果実。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北アフリカ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物",
+          "飼料"
+        ],
+        "traditional_uses": "乾燥地域における重要な食料および水分補給源。果実は市場で広く販売され、茎節は家畜の重要な飼料となる。",
+        "seasonal_significance": "乾季における貴重な食料・飼料源。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "メキシコ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Nopales asados (焼きノパル)",
+          "Ensalada de nopales (ノパルのサラダ)",
+          "Nopales con huevo (ノパルと卵の炒め物)"
+        ],
+        "preparation_methods": [
+          "焼く",
+          "茹でる",
+          "煮る",
+          "炒める",
+          "生食（ピクルス）"
+        ],
+        "cultural_context": "日常食から祝祭の料理まで幅広く使われる国民的食材。地域のアイデンティティと深く結びついている。"
+      },
+      {
+        "cuisine": "シチリア料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Fico d'India fresco (生食)",
+          "Marmellata di fichi d'India (ジャム)",
+          "Liquore di fico d'India (リキュール)"
+        ],
+        "preparation_methods": [
+          "生食",
+          "加工（ジャム、ジュース、リキュール）"
+        ],
+        "cultural_context": "夏のデザートとして定着。島の風景を象徴する植物の一つ。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "メキシコで約8,000年前に栽培化された証拠がある。アステカ文明では神聖な植物とされた。",
+      "trade_routes": "16世紀にコロンブス交換を通じてスペイン人によりヨーロッパへ伝播。その後、大航海時代の船乗りによって壊血病予防として世界中の寄港地へ広められた。",
+      "cultural_exchange": "新大陸から旧大陸へ渡り、地中海や北アフリカの食文化と農業景観に不可欠な要素となった代表例。",
+      "domestication_history": "メキシコ中央高原の野生種から、より大きく、棘の少ない、食味の良い品種が数千年にわたり選抜されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "乾季と雨季が明瞭な地域が望ましい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "生育に最適。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "温暖で霜の少ない沿岸地域。冬季の低温と湿度が制約要因。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "厳しい冬の寒さに耐えられない。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "極めて高い適性を持つ。年間降水量200mm以上で栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため生育不可。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯・乾燥地",
+        "planting_season": "春または雨季の始まり",
+        "harvest_season": "茎節（ノパル）は通年。果実（トゥナ）は夏から秋。",
+        "growing_period_days": 730
+      }
+    ],
+    "productivity": {
+      "yield_range": "果実: 10,000-25,000 kg/ha, 茎節（飼料用）: 100,000-400,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "栽植密度",
+        "土壌肥沃度",
+        "降水量",
+        "病害虫（特にコチニールカイガラムシ）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（多くが国内消費や非公式経済のため）",
+      "major_producers": [
+        {
+          "country": "メキシコ",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産国であり消費国。食用、飼料用、加工用と多様な品種が栽培されている。"
+        },
+        {
+          "country": "ブラジル",
+          "production_share": "不明",
+          "characteristics": "主に北東部の乾燥地帯で飼料用として大規模に栽培（Forragem Palma）。"
+        },
+        {
+          "country": "イタリア",
+          "production_share": "不明",
+          "characteristics": "ヨーロッパ最大の生産国。特にシチリア島での果実生産が盛ん。"
+        },
+        {
+          "country": "エチオピア",
+          "production_share": "不明",
+          "characteristics": "ティグレ州などで食料安全保障に貢献する重要な作物。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "茎節と果実の基本的な栄養価は確立されているが、品種や生育条件による変動が大きい。機能性成分に関する研究は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "17 (茎節), 41 (果実)",
+        "protein_g": "1.3 (茎節), 0.7 (果実)",
+        "carbs_g": "3.3 (茎節), 9.6 (果実)",
+        "fat_g": "0.1 (茎節), 0.5 (果実)",
+        "fiber_g": "2.2 (茎節), 3.6 (果実)"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "9.3mg (茎節), 14mg (果実)",
+          "daily_value_percent": "10-15%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "164mg (茎節)",
+          "daily_value_percent": "13%"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "46mg (茎節), 85mg (果実)",
+          "daily_value_percent": "11-20%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ベタレイン色素",
+        "concentration": "果実の色による",
+        "health_effect": "強力な抗酸化作用、抗炎症作用。"
+      },
+      {
+        "compound": "ポリフェノール（ケルセチン等）",
+        "concentration": "茎節・果実に含有",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      },
+      {
+        "compound": "水溶性食物繊維（ムシレージ）",
+        "concentration": "茎節に豊富",
+        "health_effect": "血糖値上昇抑制、コレステロール低下作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "メキシコ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "2型糖尿病の管理",
+          "高コレステロール血症の改善",
+          "消化促進",
+          "火傷や切り傷の湿布"
+        ],
+        "preparation": "生の茎節をジュースにする、または焼いて食べる。外用にはスライスして患部に貼る。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖降下作用",
+        "血中脂質改善作用",
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "神経保護作用",
+        "肥満抑制効果"
+      ],
+      "safety_considerations": "微細な棘（グロキッド）は皮膚や消化器を刺激する可能性があるため、調理前に完全に除去する必要がある。過剰摂取は下痢を引き起こすことがある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "メキシコ料理を中心に、世界各地の料理本や食文化研究で詳細に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "メキシコ",
+        "methods": [
+          "焼く",
+          "茹でる",
+          "炒める",
+          "煮込む",
+          "ピクルスにする",
+          "ジュースにする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "卵",
+          "トマト",
+          "タマネギ",
+          "コリアンダー",
+          "チーズ",
+          "牛肉"
+        ]
+      },
+      {
+        "region": "地中海地域",
+        "methods": [
+          "生食（果実）",
+          "ジャム・リキュールに加工"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "レモン汁",
+          "他の夏の果物"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "瓶詰め・缶詰（ピクルス）",
+        "regions": [
+          "メキシコ",
+          "アメリカ"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "食感が柔らかくなり、酸味が付加される。"
+      },
+      {
+        "method": "乾燥・粉末化",
+        "regions": [
+          "世界中（健康食品として）"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "栄養素が濃縮されるが、風味は変化する。"
+      },
+      {
+        "method": "果実の濃縮加工（Miel de Tuna, Queso de Tuna）",
+        "regions": [
+          "メキシコ",
+          "南米"
+        ],
+        "shelf_life": "数ヶ月から1年",
+        "quality_changes": "糖度が非常に高くなり、保存性が向上する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "茎節：アスパラガスやインゲンに似た、爽やかでわずかに酸味のある味。果実：スイカや洋ナシに似た、甘くジューシーな味。",
+      "aroma_compounds": [
+        "ヘキサナール（青臭さ）",
+        "エステル類（フルーティーな香り）"
+      ],
+      "texture_characteristics": "茎節：シャキシャキ感と、加熱すると出るぬめり（ムシレージ）。果実：柔らかい果肉と、硬く食べられる多数の種子。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的評価は高いが、CO2濃度変化や極端気象への定量的応答データは限定的。CAM植物としての生理学的特性からの類推が多い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "18-35°C",
+      "extreme_heat_survival": "45°C以上でも生存可能",
+      "cold_tolerance": "-5°Cから-10°C（品種による）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "非常に高い（CAM光合成による）",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "200-800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（強風で茎節が折れることがある）",
+      "hail_damage_recovery": "高（損傷部から新しい茎節が再生する）",
+      "rapid_temperature_change": "中程度"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "ポジティブ（水利用効率がさらに向上すると予測される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりコチニールカイガラムシやサボテンヨトウガの分布域が拡大するリスクがある。",
+      "disease_resistance_stability": "高温多湿環境では真菌性疾患のリスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "送粉者との関係は比較的安定している。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "世界の亜熱帯・乾燥・半乾燥地域",
+        "2050_projection": "現在の栽培適地が北上・南下し、サヘル地域やオーストラリア内陸部などで適性が向上する可能性。",
+        "2100_projection": "さらに適地が拡大するが、一部地域では極端な高温が限界を超える可能性も指摘される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Opuntia属内での交雑のしやすさは広く知られているが、特定の自然交雑事例の遺伝的解析は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "食用、果樹用、飼料用など多数の品種間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Opuntia属の多くの他種と交雑し、稔性のある雑種を形成する。"
+      ],
+      "intergeneric_possibility": [
+        "近縁属（例：Nopalea）との属間交雑の報告がある。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培地域と野生種の分布が重なるメキシコや米国南西部で多数の自然雑種が観察されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地メキシコには膨大な数の在来品種が存在し、遺伝的多様性の宝庫となっている。",
+      "wild_gene_pool": "野生近縁種との遺伝子流動が現在も起きており、適応のための新たな遺伝子供給源となっている。",
+      "adaptive_genetic_variation": "耐乾性、耐病性、果実の形質などに関して大きな遺伝的変異が存在する。",
+      "inbreeding_depression_risk": "栄養繁殖が容易なため、単一クローンの大規模栽培ではリスクがあるが、種子繁殖でのリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "オーストラリア",
+        "environmental_pressure": "新たな環境への侵入と定着",
+        "adaptive_response": "旺盛な繁殖力と広範な環境適応により、侵略的外来種となった歴史がある。",
+        "time_scale": "約100年",
+        "mechanism": "栄養繁殖と種子散布による迅速な個体群拡大。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐寒性の高い種との交雑により、より高緯度での栽培可能な品種作出の可能性がある。",
+      "improved_nutritional_content": "特定の機能性成分を多く含む種との交雑による栄養価向上が期待される。",
+      "novel_characteristics": "棘なし、特定の果実色、加工適性などの形質を導入する可能性がある。",
+      "hybrid_vigor_potential": "種間交雑により、バイオマス生産性が向上する雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性が多様（2n, 4n, 6n, 8n）であり、倍数性の違いが交雑障壁となりうる。",
+      "chromosome_compatibility": "属内では染色体の適合性は比較的高い。",
+      "fertility_of_hybrids": "多くの場合、雑種は稔性を持つ。",
+      "backcrossing_success": "戻し交配も可能で、育種プログラムで利用されている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、草食動物による食害",
+        "adaptive_traits": "CAM光合成、多肉化、棘の発達",
+        "heritability": "高い",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "リジェネラティブ農業のモデル作物として注目されているが、炭素隔離速度などの定量的データは研究途上。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広く張る根系を持つ。",
+      "organic_matter_contribution": "脱落した茎節が分解され、土壌有機物となる。",
+      "soil_structure_improvement": "根が土壌粒子を結合させ、団粒構造を安定させる。",
+      "erosion_control": "地表面を覆い、根系が土壌を保持するため、風食・水食の防止効果が非常に高い。",
+      "nutrient_cycling_role": "乾燥地の貧栄養土壌から効率的に養分を吸収する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きな花はハチ、甲虫、ハチドリなど多様な送粉者を引き寄せる。",
+      "beneficial_insect_habitat": "植物体がアリや他の昆虫の生息地となる。",
+      "soil_microorganism_interaction": "根圏微生物叢との共生関係がある。",
+      "above_ground_biodiversity": "果実は鳥類や哺乳類の食料となり、植物体は小動物の隠れ家となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "植栽により土壌のクラスト形成を防ぎ、雨水の浸透を促進する。",
+      "moisture_retention": "植物体が日射を遮り、土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "茎節の列が障害物となり、地表水の流出速度を遅らせる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い（多年生で作物が継続的に成長するため）。",
+      "below_ground_carbon": "中程度（根系は浅いが、継続的に更新される）。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "推定値：5-15トン CO2/ha/年（生育条件による）。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（アグロフォレストリーシステム内での窒素供給）",
+        "一年生作物（日陰を提供し、過度な蒸発を防ぐ）"
+      ],
+      "natural_pest_control": "生垣として利用することで、害虫の物理的な侵入を防ぐ。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "乾燥や土地劣化といったストレス要因に対して、生態系の安定性を高める。",
+      "stress_tolerance": "非常に高い。",
+      "recovery_capacity": "損傷からの回復力が高い。",
+      "adaptability": "広範な環境に適応する能力が高い。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食品科学、農業経済、材料科学の分野で多くの研究と商業的応用が進んでいる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食物繊維、ビタミン、ミネラルが豊富なホールフードとして価値が高い。",
+      "food_security_contribution": "気候変動で耕作が困難になる乾燥・半乾燥地域での未来の食料源として極めて重要。",
+      "local_food_system_integration": "小規模農家でも容易に栽培でき、地域の食料自給率向上に貢献する。",
+      "alternative_protein_potential": "不明"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けスーパーフード市場",
+        "植物由来の機能性成分市場",
+        "ビーガンレザーなどの非食品市場"
+      ],
+      "value_added_products": [
+        "ノパル粉末",
+        "健康飲料",
+        "化粧品原料（オイル）",
+        "バイオ燃料",
+        "植物由来レザー"
+      ],
+      "niche_market_value": "「未来の作物」としてのブランド価値が高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としては広く分布するが、遺伝的多様性（特に在来品種）の保全状況に関するデータは断片的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の自生地であるメキシコの乾燥生態系は、開発や土地利用の変化による脅威に晒されている。",
+    "climate_change_vulnerability": "種全体としては低いが、特定の在来品種は局所的な環境変化に脆弱な可能性がある。",
+    "cultural_erosion_risk": "中",
+    "conservation_actions_needed": [
+      "メキシコにおける在来品種のインベントリ作成とインシチュ（生息域内）保全の強化",
+      "多様な遺伝資源のジーンバンクでのエクスシチュ（生息域外）保全"
+    ],
+    "priority_conservation_regions": [
+      "メキシコ中央高原"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには一部の品種が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "メキシコの小規模農家による伝統的な栽培が、事実上のインシチュ保全となっているが、組織的な取り組みは限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本報告書で集約した情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "メキシコ（遺伝的多様性と伝統的知識）",
+      "サヘル地域（気候変動適応策としての導入ポテンシャル）",
+      "インド（新たな乾燥地農業モデルの構築）"
+    ],
+    "knowledge_gaps": [
+      "リジェネラティブ農業における炭素隔離能力の定量的評価",
+      "多様な品種のゲノム情報と環境ストレス応答の関連付け",
+      "気候変動シナリオ下での病害虫ダイナミクスの変化予測"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種に関する情報は地域に偏りがあり、学術的な特性評価が不十分なものも多い。"
+      },
+      "variety_name": "Rossa",
+      "local_name": "Rossa",
+      "origin_region": "イタリア、シチリア島",
+      "distinctive_characteristics": "赤紫色の果肉を持つ大果品種。糖度が高い。",
+      "cultural_importance": "シチリアの果物生産の主要品種。",
+      "climate_adaptation": "地中海性気候に高い適応性を示す。",
+      "conservation_status": "商業的に広く栽培。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種に関する情報は地域に偏りがあり、学術的な特性評価が不十分なものも多い。"
+      },
+      "variety_name": "Milpa Alta",
+      "local_name": "Nopal de Milpa Alta",
+      "origin_region": "メキシコ、ミルパ・アルタ",
+      "distinctive_characteristics": "食用茎節（ノパル）生産に特化した品種。柔らかく、風味が良い。",
+      "cultural_importance": "メキシコシティの主要なノパル生産地で栽培される伝統品種。",
+      "climate_adaptation": "高地（2,500m以上）の気候に適応。",
+      "conservation_status": "地域的に重要だが、他の地域への普及は限定的。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種に関する情報は地域に偏りがあり、学術的な特性評価が不十分なものも多い。"
+      },
+      "variety_name": "Burbank Spineless",
+      "local_name": "Burbank Spineless",
+      "origin_region": "アメリカ（育種）",
+      "distinctive_characteristics": "ルーサー・バーバンクによって育種された、棘がほとんどない品種。飼料用に開発された。",
+      "cultural_importance": "飼料用サボテンの普及に貢献した歴史的品種。",
+      "climate_adaptation": "耐乾性は高いが、耐寒性は他の品種に劣る場合がある。",
+      "conservation_status": "世界中の乾燥地で飼料用として導入されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAO (Food and Agriculture Organization) reports on cactus pear",
+      "Ethnobotanical databases (e.g., Native American Ethnobotany Database)",
+      "Peer-reviewed scientific literature on agroecology, nutrition, and botany",
+      "International Center for Agricultural Research in the Dry Areas (ICARDA) publications"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ（特に炭素隔離速度）",
+      "気候変動に対する品種レベルでの生理学的応答の詳細なメカニズム",
+      "伝統的在来品種の網羅的な遺伝的特性評価"
+    ],
+    "regional_data_coverage": "メキシコと地中海地域に関するデータは豊富。アフリカやアジアでの利用に関する学術的データは比較的少ない。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "多くの在来品種の栄養価プロファイル"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

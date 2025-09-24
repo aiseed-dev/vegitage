@@ -1,0 +1,654 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is based on major botanical databases (Kew, GRIN) and agricultural research portals (FAO, CGIAR). The distinction from Colocasia (Old World Taro) is critical and maintained throughout."
+    },
+    "primary_name": "Yautia",
+    "scientific_name": "Xanthosoma sagittifolium (L.) Schott and other Xanthosoma species",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎",
+      "葉"
+    ],
+    "origin_region": "熱帯アメリカ（新世界熱帯）",
+    "wild_relatives": [
+      "Xanthosoma undipes",
+      "Xanthosoma robustum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from ethnobotanical records and multilingual agricultural glossaries. The term 'Cocoyam' is often used ambiguously for both Xanthosoma and Colocasia in Africa."
+    },
+    "international": {
+      "en": [
+        "Yautia",
+        "Malanga",
+        "Tannia",
+        "Cocoyam",
+        "New World Taro"
+      ],
+      "scientific_common": "Arrowleaf Elephant Ear"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Ocumo",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Taioba",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Uncucha",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "カリブ海地域",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Yautía",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Malanga",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Chou caraïbe",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Cocoyam",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Macabo",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "American Taro",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ユカタン半島のマヤ系先住民",
+        "name": "Macal",
+        "cultural_significance": "伝統的なアグロフォレストリーシステム（ミルパ）でトウモロコシや豆と共に栽培される重要な食料源。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic information is based on the World Checklist of Selected Plant Families (WCSP) and Tropicos database."
+    },
+    "family": {
+      "en": "Arum family",
+      "la": "Araceae"
+    },
+    "genus": {
+      "en": "Yautia",
+      "la": "Xanthosoma"
+    },
+    "species": {
+      "en": "Arrowleaf elephant's ear",
+      "la": "Xanthosoma sagittifolium"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information synthesized from anthropological and ethnobotanical literature, with a focus on its role as a staple crop in the Neotropics and West/Central Africa."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "カリブ海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "プエルトリコの『パステレス』やキューバの『フリトゥーラ・デ・マランガ』など、祝祭料理に不可欠な食材。主要な炭水化物源。",
+        "seasonal_significance": "年間を通じて収穫可能だが、雨季に最も成長する。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "西アフリカ・中央アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物"
+        ],
+        "traditional_uses": "ヤムイモやキャッサバの代替または補完として導入され、主要な食料安全保障作物となった。『フフ』などの主食の原料となる。",
+        "seasonal_significance": "雨季に栽培される主要作物。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南米（アマゾン地域）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "先住民コミュニティのアグロフォレストリーシステムにおける重要な構成要素。根茎は食料、葉は野菜として利用される。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "カリブ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Sancocho (stew)",
+          "Pasteles",
+          "Alcapurrias"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "すり潰し",
+          "揚げ物"
+        ],
+        "cultural_context": "日常食から祝祭料理まで幅広く利用される、文化の根幹をなす食材。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "コロンブス以前の時代から熱帯アメリカの先住民によって栽培されていた。",
+      "trade_routes": "大航海時代、特に奴隷貿易を通じてアフリカに導入され、急速に普及した。",
+      "cultural_exchange": "新世界から旧世界への作物伝播（コロンブス交換）の重要な事例。",
+      "domestication_history": "南米北部または中央アメリカで、複数の野生種から独立して栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間降水量1500mm以上、平均気温20-30℃、高湿度。水はけの良い肥沃な土壌。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない地域。成長期間が短くなる可能性がある。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜害に非常に弱いため、商業栽培は不可能。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑設備があっても、低湿度が成長を阻害する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に耐えられない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯雨林気候",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "植え付けから9-11ヶ月後",
+        "growing_period_days": 270
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000-25,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌肥沃度",
+        "水分供給",
+        "ウイルス病",
+        "栽培密度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ナイジェリア",
+          "production_share": "不明",
+          "characteristics": "FAOの統計ではColocasiaと合算されているが、世界最大の生産国の一つ。"
+        },
+        {
+          "country": "ガーナ",
+          "production_share": "不明",
+          "characteristics": "国内の主要な食料安全保障作物。"
+        },
+        {
+          "country": "キューバ",
+          "production_share": "不明",
+          "characteristics": "国内市場向けの重要な作物。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、品種や栽培条件による変動に関するデータは限定的。伝統的薬用利用は民族植物学的記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "112",
+        "protein_g": "1.5",
+        "carbs_g": "26.5",
+        "fat_g": "0.2",
+        "fiber_g": "4.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "591mg",
+          "daily_value_percent": "17%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "4.5mg",
+          "daily_value_percent": "8%"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "33mg",
+          "daily_value_percent": "8%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "シュウ酸カルシウム",
+        "concentration": "高",
+        "health_effect": "生食すると口内や喉に刺激を与える。加熱により分解される。"
+      },
+      {
+        "compound": "フェノール化合物",
+        "concentration": "中",
+        "health_effect": "抗酸化作用を持つ可能性がある。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "湿布剤として腫れ物や皮膚炎に利用",
+          "消化促進"
+        ],
+        "preparation": "生の根茎をすり潰して外用、または調理した根茎を内服。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "グルテンフリーの炭水化物源",
+        "豊富な食物繊維による消化器系健康のサポート"
+      ],
+      "ongoing_research": [
+        "デンプンの消化性（難消化性デンプン）",
+        "抗酸化能"
+      ],
+      "safety_considerations": "必ず加熱調理すること。シュウ酸カルシウムの結晶が毒性を持つため。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理データベースと食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "カリブ海地域",
+        "methods": [
+          "煮込み",
+          "揚げ物",
+          "マッシュ",
+          "スープ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豚肉",
+          "豆類",
+          "ココナッツミルク",
+          "ピーマン"
+        ]
+      },
+      {
+        "region": "西アフリカ",
+        "methods": [
+          "搗き混ぜ（フフ）",
+          "煮込み",
+          "ロースト"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "パーム油",
+          "魚の燻製",
+          "オクラ",
+          "唐辛子"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "製粉",
+        "regions": [
+          "西アフリカ",
+          "南米"
+        ],
+        "shelf_life": "6-12ヶ月",
+        "quality_changes": "香りが弱まる可能性がある。"
+      },
+      {
+        "method": "天日干し（チップス）",
+        "regions": [
+          "アフリカ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "栄養価が一部失われる可能性がある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッツのような風味、土の香り、クリーミーでデンプン質",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "品種により、もっちりしたものからホクホクしたものまで多様。Colocasiaより粘り気は少ない傾向。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する定性的情報は多いが、品種レベルでの定量的な閾値データは非常に限定的。将来予測は一般的な作物モデルからの類推。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "5-10°Cで成長停止、0°C以下で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2500 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が大きいため強風で倒伏しやすい。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、ポジティブな効果が期待されるが、実証データは少ない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Colocasiaを襲うタロイモ葉枯病（Phytophthora colocasiae）に耐性を持つ種が多く、気候変動下で有利な形質。",
+      "disease_resistance_stability": "根腐れ病（Pythium spp.）には感受性があり、土壌水分の増加でリスクが高まる。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯の湿潤地域",
+        "2050_projection": "栽培可能地域の緯度・標高がわずかに北上・上昇する可能性があるが、降雨パターンの変化に大きく左右される。",
+        "2100_projection": "干ばつが深刻化する地域では栽培が困難になる一方、温暖化で新たな栽培可能地域が出現する可能性。",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "育種プログラムにおける交雑データは存在するが、自然環境下での交雑頻度やメカニズムに関する情報は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多くの栽培品種間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "X. sagittifolium と X. undipes など、一部の種間交雑が報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "Colocasia属など他の属との交雑は不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "自然交雑の事例は十分に文書化されていない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である熱帯アメリカには、形態や特性が異なる多数の在来種が存在し、高い遺伝的多様性を持つ。",
+      "wild_gene_pool": "栽培種の遺伝的基盤を広げるための重要な遺伝子資源となる野生近縁種が多数存在する。",
+      "adaptive_genetic_variation": "多様な環境に適応した地域品種が存在することから、高い適応的遺伝変異が示唆される。",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、特定のクローンに依存すると遺伝的多様性が低下し、病害への脆弱性が高まるリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アフリカ",
+        "environmental_pressure": "新たな病害虫、異なる土壌条件",
+        "adaptive_response": "導入後、農家による選抜を通じて地域の環境に適応した多数の地方品種が成立した。",
+        "time_scale": "数百年",
+        "mechanism": "体細胞突然変異と農家による人為選抜。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "特定の微量栄養素を多く含む品種との交雑による栄養価改善の可能性がある。",
+      "novel_characteristics": "根茎の形状、大きさ、調理特性など新しい形質の導入が可能。",
+      "hybrid_vigor_potential": "高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致、花粉の稔性の低さなどが交配の障壁となることがある。",
+      "chromosome_compatibility": "種間で倍数性が異なる場合があり、交雑の成功を妨げる。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "耐病性（特にウイルス病、根腐れ病）",
+        "adaptive_traits": "抵抗性遺伝子、強健な根系",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アグロフォレストリーシステムでの役割から定性的に評価。定量的な土壌改良効果や炭素固定能のデータは少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い根系だが、密に広がる。",
+      "organic_matter_contribution": "大きな葉が落葉し、地表を覆うことで有機物を供給し、土壌水分を保持する。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "広い葉が雨滴による土壌侵食を防ぐマルチング効果を持つ。",
+      "nutrient_cycling_role": "カリウムを多く要求し、土壌から吸収する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "限定的。主に栄養繁殖で増える。",
+      "beneficial_insect_habitat": "大きな葉が日陰を作り、多様な昆虫や土壌生物の生息地を提供する。",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌との共生が報告されている。",
+      "above_ground_biodiversity": "アグロフォレストリーシステムにおいて、他の作物や樹木との混植が可能。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "キャノピーが雨滴の衝撃を和らげ、土壌への水の浸透を助ける。",
+      "moisture_retention": "葉のマルチング効果により、土壌表面からの水分蒸発を抑制する。",
+      "runoff_reduction": "地被率が高いため、表面流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。葉と茎に炭素を貯蔵する。",
+      "below_ground_carbon": "主食となる根茎に大量の炭素を固定する。",
+      "soil_carbon_enhancement": "落葉による有機物供給を通じて土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "バナナ、カカオ、コーヒー、ヤムイモ"
+      ],
+      "natural_pest_control": "多様な植生環境を作ることで、特定の害虫の蔓延を防ぐ。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多品目栽培システムに組み込むことで、生態系の安定性と生産性の両方に貢献する。",
+      "stress_tolerance": "日陰に強い特性は、多層的なアグロフォレストリーシステムにおいて重要なニッチを占める。",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンドと食品科学研究からの情報を統合。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "エネルギー効率の良い炭水化物源として価値が高い。",
+      "food_security_contribution": "熱帯地域の小規模農家にとって重要な自給自足作物であり、現金収入源でもある。",
+      "local_food_system_integration": "地産地消に適しており、地域の食料システムを強化する。",
+      "alternative_protein_potential": "低い。タンパク質含有量は少ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルテンフリー食品市場",
+        "エスニック食品市場"
+      ],
+      "value_added_products": [
+        "チップス",
+        "フラワー（製粉）",
+        "冷凍食品"
+      ],
+      "niche_market_value": "低アレルギー性食品としての可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "保全状況は地域によって大きく異なり、体系的なグローバル評価は不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "原産地である熱帯アメリカの森林伐採により、野生近縁種の生息地が脅かされている。",
+    "climate_change_vulnerability": "中程度。干ばつと異常気象が主な脅威。",
+    "cultural_erosion_risk": "食生活の西洋化により、伝統的な栽培・利用知識が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来品種の収集・評価・保存（ジーンバンク）",
+      "農家によるオンファーム保全活動の支援",
+      "野生近縁種の生息域内保全"
+    ],
+    "priority_conservation_regions": [
+      "南米アマゾン上流域",
+      "中央アメリカ"
+    ],
+    "ex_situ_conservation_status": "国際熱帯農業センター（CIAT）などのジーンバンクで一部の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "先住民コミュニティや小規模農家による伝統的な農法の中での保全が中心。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロンプトで収集した情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "コロンビア、エクアドル、ペルー（遺伝的多様性の中心地）",
+      "カメルーン、ナイジェリア（アフリカでの適応と利用の中心地）"
+    ],
+    "knowledge_gaps": [
+      "品種ごとの気候変動（特に干ばつ、高温）への定量的応答データ",
+      "野生近縁種の遺伝子プールの網羅的な評価",
+      "リジェネラティブ農業における土壌への貢献に関する定量的データ"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種に関する体系的な国際データベースは存在しない。情報は地域的な報告に基づく。"
+      },
+      "variety_name": "Malanga Amarilla",
+      "local_name": "Yautía Amarilla",
+      "origin_region": "カリブ海地域",
+      "distinctive_characteristics": "肉質が黄色で、ナッツのような風味が強く、調理後も形が崩れにくい。",
+      "cultural_importance": "煮込み料理（Sancocho）やマッシュポテトのように利用される。",
+      "climate_adaptation": "地域の気候によく適応しているが、特定の耐性については不明。",
+      "conservation_status": "地域的に栽培されているが、公式な保全状況は不明。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "CGIAR Research Program on Roots, Tubers and Bananas (RTB)",
+      "Kew Plants of the World Online",
+      "Ethnobotanical literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "グローバルな生産統計（Colocasiaと混同）"
+    ],
+    "regional_data_coverage": "熱帯アメリカと西アフリカに偏っており、アジアやオセアニアの情報は少ない。",
+    "missing_information": [
+      "自然交雑の頻度とメカニズム",
+      "特定の機能性成分に関する詳細な研究"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

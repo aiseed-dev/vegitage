@@ -1,0 +1,731 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, USDA GRIN), agricultural statistics (FAOSTAT), and historical texts. The direct wild progenitor is well-established."
+    },
+    "primary_name": "Lettuce",
+    "scientific_name": "Lactuca sativa L.",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "種子"
+    ],
+    "origin_region": "地中海東部および中東",
+    "wild_relatives": [
+      "Lactuca serriola"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual dictionaries, ethnobotanical records, and FAO naming conventions. Indigenous names for the cultivated form are rare due to its ancient and widespread dissemination."
+    },
+    "international": {
+      "en": [
+        "Lettuce",
+        "Garden Lettuce"
+      ],
+      "scientific_common": "Cultivated Lettuce"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Laitue",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Lechuga",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Gartensalat",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Lattuga",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "生菜",
+            "script": "Hans"
+          },
+          {
+            "lang": "ja",
+            "name": "レタス, チシャ",
+            "script": "Jpan"
+          },
+          {
+            "lang": "ko",
+            "name": "상추",
+            "script": "Hang"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "خس",
+            "script": "Arab"
+          },
+          {
+            "lang": "tr",
+            "name": "Marul",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "सलाद",
+            "script": "Deva"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "古代エジプト",
+        "name": "不明",
+        "cultural_significance": "豊穣神ミンの聖なる植物であり、多産と性的能力の象徴とされた。種子から油を採取した可能性もある。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification follows the APG IV system, widely accepted in modern botany."
+    },
+    "family": {
+      "en": "Aster/Daisy/Composite Family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Lettuce",
+      "la": "Lactuca"
+    },
+    "species": {
+      "en": "Cultivated Lettuce",
+      "la": "Lactuca sativa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Variety group",
+        "name": "Capitata (Head lettuces: Crisphead, Butterhead)"
+      },
+      {
+        "rank": "Variety group",
+        "name": "Longifolia (Romaine/Cos lettuce)"
+      },
+      {
+        "rank": "Variety group",
+        "name": "Crispa (Leaf lettuces)"
+      },
+      {
+        "rank": "Variety group",
+        "name": "Augustana (Stem lettuce/Celtuce)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is based on historical, archaeological, and culinary anthropology records. Risk assessment is qualitative."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ・北米",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "サラダの主材料として生食が基本。サンドイッチやハンバーガーの具材としても不可欠。",
+        "seasonal_significance": "春と初夏を象徴する野菜だが、現在は周年供給される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "加熱調理（炒め物、鍋物）が一般的。韓国では焼肉を包む「サンチュ（쌈）」として、中国では茎を食べる「萵筍（ウォスン）」として重要。",
+        "seasonal_significance": "冷涼な気候を好むため、伝統的には春と秋の野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東・地中海",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "歴史的作物"
+        ],
+        "traditional_uses": "サラダ（ファットゥーシュなど）やディップの付け合わせとして生食。古代ローマでは食事の終わりに消化を助け、眠りを誘うものとして食べられた。",
+        "seasonal_significance": "冬から春にかけての重要な緑黄色野菜。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "西洋料理全般",
+        "role": "essential",
+        "traditional_dishes": [
+          "シーザーサラダ",
+          "グリーンサラダ",
+          "BLTサンドイッチ"
+        ],
+        "preparation_methods": [
+          "生食"
+        ],
+        "cultural_context": "新鮮さ、軽さ、健康志向の象徴。食事の付け合わせや前菜として広く利用される。"
+      },
+      {
+        "cuisine": "中華料理",
+        "role": "common",
+        "traditional_dishes": [
+          "蠔油生菜 (レタスのオイスターソース炒め)",
+          "清炒萵筍 (セルタスの炒め物)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "茹でる"
+        ],
+        "cultural_context": "シャキシャキとした食感を活かした加熱料理が中心。縁起物として食べられることもある（生菜は「生財」と同音）。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前2700年頃の古代エジプトで栽培されていた証拠がある。当初は種子から油を採るため、後に葉を食用にするために栽培された。",
+      "trade_routes": "ローマ帝国によってヨーロッパ全土に広まった。大航海時代にコロンブスによって新大陸に持ち込まれ、世界中に伝播した。",
+      "cultural_exchange": "栽培化されたレタスが各地の食文化に適応し、西洋では葉菜、東洋では茎菜としての利用法が発展するなど、文化交流の産物である。",
+      "domestication_history": "野生種のLactuca serriolaから、苦味の減少、抽苔（トウ立ち）の遅延、葉の大型化、結球性などの形質が選択されて栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地または乾季の冷涼な時期に限定。耐暑性品種の利用が必須。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "秋から春にかけての冷涼な時期が栽培適期。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春と秋が最適な栽培シーズン。夏は高温により抽苔しやすい。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "霜の危険がなくなった春から初夏、および夏の終わりから秋にかけて栽培。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。高温と強い日差しによるストレス管理が重要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、低温のため商業栽培には不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春、晩夏",
+        "harvest_season": "晩春、秋",
+        "growing_period_days": "45-90"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋",
+        "harvest_season": "冬、早春",
+        "growing_period_days": "50-100"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 40,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "栽培時期",
+        "温度（高温による抽苔）",
+        "水管理",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約2,700万トン（2020年, FAOSTAT）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 59.0,
+          "characteristics": "圧倒的な世界一の生産国。国内消費が主で、多様な品種（結球、非結球、茎レタス）を生産。"
+        },
+        {
+          "country": "アメリカ",
+          "production_share": 12.0,
+          "characteristics": "カリフォルニア州とアリゾナ州に生産が集中。結球レタスとロメインレタスが中心。"
+        },
+        {
+          "country": "スペイン",
+          "production_share": 4.0,
+          "characteristics": "ヨーロッパ最大の生産国・輸出国。冬期の生産で欧州市場を支える。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データはUSDA FoodData Central等で豊富だが、品種や栽培条件による機能性成分の変動に関するデータは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "15",
+        "protein_g": "1.4",
+        "carbs_g": "2.9",
+        "fat_g": "0.2",
+        "fiber_g": "1.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "126.3 µg",
+          "daily_value_percent": 105
+        },
+        {
+          "nutrient": "ビタミンA (RAE)",
+          "amount": "370 µg",
+          "daily_value_percent": 41
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "38 µg",
+          "daily_value_percent": 10
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ラクチュコピクリン",
+        "concentration": "品種と生育段階により変動",
+        "health_effect": "苦味成分。鎮静、鎮痛作用の可能性が示唆されている。"
+      },
+      {
+        "compound": "ルテイン、ゼアキサンチン",
+        "concentration": "色の濃い品種に多い",
+        "health_effect": "目の健康維持に寄与する抗酸化物質。"
+      },
+      {
+        "compound": "β-カロテン",
+        "concentration": "色の濃い品種に多い",
+        "health_effect": "体内でビタミンAに変換されるプロビタミン。抗酸化作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ（古代ローマ・ギリシャ）",
+        "medical_system": "ヒポクラテス医学、ガレノス医学",
+        "uses": [
+          "催眠",
+          "鎮静",
+          "利尿"
+        ],
+        "preparation": "生の葉の摂取、または茎から抽出した乳液（lactucarium）の利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "ビタミンKによる血液凝固作用と骨の健康維持",
+        "ビタミンAによる視力維持と免疫機能のサポート"
+      ],
+      "ongoing_research": [
+        "ラクチュコピクリンなどのセスキテルペンラクトン類の抗炎症・鎮静効果",
+        "フェノール化合物による抗酸化作用"
+      ],
+      "safety_considerations": "一般的に安全。ビタミンKを多く含むため、ワルファリン等の抗凝固薬を服用している場合は摂取量に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本、食文化研究、レシピデータベースから情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "西洋",
+        "methods": [
+          "生食（サラダ、サンドイッチ）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "トマト",
+          "キュウリ",
+          "チーズ",
+          "鶏肉",
+          "ビネグレットドレッシング"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒める",
+          "茹でる",
+          "煮る（鍋物）",
+          "生食（包み菜）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ニンニク",
+          "生姜",
+          "オイスターソース",
+          "豚肉",
+          "味噌"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "カット野菜（MAP包装）",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "5-10日",
+        "quality_changes": "カット断面の褐変、鮮度の低下。"
+      },
+      {
+        "method": "漬物（萵筍）",
+        "regions": [
+          "中国"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感の変化、風味の付加。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘み、わずかな苦味、瑞々しさ。品種により異なり、アイスバーグは甘みが強く、ロメインはわずかな苦味がある。",
+      "aroma_compounds": [
+        "ヘキセナール（青葉アルデヒド、草の香り）"
+      ],
+      "texture_characteristics": "クリスピー、シャキシャキ、柔らかい、しなやか。品種によって大きく異なる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する評価は、主に定性的な栽培ガイドや育種目標に基づいている。気候変動モデルによる定量的な適地変化予測は、品種レベルの解像度では利用できない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30°C以上で抽苔、チップバーン、苦味の増加など生理障害が多発する。",
+      "cold_tolerance": "-2°C程度まで耐えるが、品種による差が大きい。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。浅い根系と高い蒸散率のため、定期的な灌漑が不可欠。",
+      "flood_tolerance": "低。根腐れを起こしやすい。",
+      "optimal_rainfall": "栽培期間中、週に25-40mm相当の水分が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い。葉が傷つきやすく、品質が著しく低下する。",
+      "hail_damage_recovery": "低い。物理的損傷からの回復は困難。",
+      "rapid_temperature_change": "中程度。急激な高温は抽苔を誘発する。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。C3植物であるため光合成が促進される可能性があるが、高温ストレスがそれを相殺する可能性が高い。",
+      "ozone_sensitivity": "中程度。品種による感受性の差が報告されている。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシなどの活動期間が延長し、被害が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿はべと病などの病害の発生を助長する。育種による抵抗性品種の開発が重要。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯および亜熱帯の冷涼期",
+        "2050_projection": "高緯度地域や高地への適地シフト、または施設栽培への移行が進むと予測される。",
+        "2100_projection": "露地栽培の適地はさらに限定され、水資源の制約が生産の大きなボトルネックになると予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "野生近縁種との交雑親和性に関する育種研究は豊富だが、自然環境下での適応事例の体系的な記録は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全てのLactuca sativa品種群間で容易に交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Lactuca serriola（野生種）とは非常に容易に交雑し、稔性のある雑種を生じる。",
+        "Lactuca saligna",
+        "Lactuca virosa"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "農地周辺でL. sativaとL. serriolaの自然交雑による雑草化した個体群が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "世界中のジーンバンクに数千の在来種や品種が保存されているが、商業栽培では少数の品種に集中しており、遺伝的多様性は低い。",
+      "wild_gene_pool": "L. serriolaの野生集団は、病害抵抗性（特にべと病）、耐乾性、耐塩性などの有用な遺伝子の宝庫である。",
+      "adaptive_genetic_variation": "野生近縁種との遺伝子移入により、栽培レタスの適応能力を向上させる大きなポテンシャルがある。",
+      "inbreeding_depression_risk": "自家受粉性植物であるため、商業育種では近交弱勢が問題になることがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界中の農地生態系",
+        "environmental_pressure": "除草剤、機械的撹乱",
+        "adaptive_response": "L. sativaからL. serriolaへの遺伝子移入により、種子の休眠性や発芽タイミングが変化した雑草型が出現。",
+        "time_scale": "数世代",
+        "mechanism": "自然交雑と自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種から耐暑性や耐乾性遺伝子を導入する育種が進行中。",
+      "improved_nutritional_content": "野生種には抗酸化物質などの機能性成分を高濃度に含む系統があり、栄養価改善の可能性がある。",
+      "novel_characteristics": "病害虫抵抗性の導入は育種における主要な目標である。",
+      "hybrid_vigor_potential": "他家受粉を誘導することで雑種強勢を利用するハイブリッド品種が開発されている。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "L. sativaと一部の遠縁野生種との間には交雑不和合性が存在する。",
+      "chromosome_compatibility": "L. sativaと主要な野生近縁種（L. serriolaなど）は染色体数が同じ（2n=18）で適合性が高い。",
+      "fertility_of_hybrids": "L. sativa x L. serriolaの雑種は高い稔性を持つ。",
+      "backcrossing_success": "戻し交配は育種で一般的に用いられ、成功率は高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "べと病（Bremia lactucae）",
+        "adaptive_traits": "抵抗性遺伝子（Dm遺伝子）",
+        "heritability": "高い（単一優性遺伝子が多い）",
+        "response_to_selection": "病原菌のレース分化が激しく、抵抗性と病原性の共進化（いたちごっこ）が見られる。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "レタス自体のリジェネラティブ効果に関する直接的な研究は非常に少ない。評価は、一般的な一年生葉菜類の特性と、リジェネラティブな「システム」に組み込まれた場合の潜在的な役割に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、繊維状の根系。土壌の深層改良効果は限定的。",
+      "organic_matter_contribution": "低い。収穫後の残渣は分解が早いが、バイオマス量が少ない。",
+      "soil_structure_improvement": "限定的。しかし、不耕起栽培やマルチングとの組み合わせで土壌表層の保護には貢献できる。",
+      "erosion_control": "生育中は地表を覆うため、ある程度の侵食防止効果がある。",
+      "nutrient_cycling_role": "窒素などの養分要求性が高いが、収穫までの期間が短いため、輪作体系における養分捕捉作物として機能しうる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "通常は開花前に収穫されるため、花粉媒介者への貢献は限定的。採種圃場では貢献する。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシやヒラタアブなどを惹きつけることがある。",
+      "soil_microorganism_interaction": "不明。一般的な根圏微生物との相互作用はあると考えられる。",
+      "above_ground_biodiversity": "多様な作物を混植するポリカルチャーシステムの一要素として利用可能。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "地表を覆うマルチとしての効果はあるが、植物自体の保水効果は低い。",
+      "runoff_reduction": "被覆作物としての効果により、緩やかな流出削減効果が期待できる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。",
+      "below_ground_carbon": "非常に低い。根のバイオマスが少ないため。",
+      "soil_carbon_enhancement": "単体での効果は低いが、堆肥や緑肥を投入するリジェネラティブなシステム内では土壌炭素の増加に貢献できる。",
+      "carbon_sequestration_rate": "無視できるレベル。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン（ニンジンの根を狙う害虫をレタスの匂いが混乱させる）",
+        "タマネギ・ニンニク（アブラムシを忌避）",
+        "マリーゴールド（線虫忌避）"
+      ],
+      "natural_pest_control": "コンパニオンプランツとの組み合わせで害虫被害を軽減できる可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "レタス自身が他の植物の生育を阻害するアレロパシー効果を持つことが報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "単作では低いが、多様な輪作や間作システムに組み込むことで、生態系の安定性に貢献する。",
+      "stress_tolerance": "低い。環境ストレスに脆弱。",
+      "recovery_capacity": "低い。",
+      "adaptability": "低い。"
+    },
+    "regenerative_score": 4
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場動向、食品科学、農業技術に関する公開情報に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーでビタミン・ミネラルを含むため、植物中心の食生活で重要な役割を果たす。",
+      "food_security_contribution": "栽培期間が短く、単位面積あたりの生産性が高いため、特に都市近郊農業や施設栽培において食料供給に貢献する。",
+      "local_food_system_integration": "鮮度が重要なため、地産地消に適した作物。ファーマーズマーケットやCSA（地域支援型農業）で人気が高い。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "植物工場や垂直農法による都市部での安定生産",
+        "高機能性成分（抗酸化物質など）を強化した新品種の開発",
+        "ユニークな食感や色を持つ多様な品種のニッチ市場"
+      ],
+      "value_added_products": [
+        "カット野菜・サラダミックス",
+        "スムージー用冷凍野菜",
+        "レタス由来の健康補助食品"
+      ],
+      "niche_market_value": "オーガニック、ベビーリーフ、マイクログリーン、伝統品種などは高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNの評価はないが、遺伝資源の消失リスクは国際機関（Crop Trustなど）によって認識されている。地域レベルの保全状況のデータは断片的。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種（L. serriola等）の生息地である地中海沿岸の自然・半自然環境は、開発や気候変動の脅威に晒されている。",
+    "climate_change_vulnerability": "高い。栽培適地の減少と野生近縁種の生息地への脅威。",
+    "cultural_erosion_risk": "中。特定の地域料理で使われる在来品種が、商業品種に置き換わることで失われるリスクがある。",
+    "conservation_actions_needed": [
+      "野生近縁種の生息地の域内保全（In-situ conservation）",
+      "世界中の在来品種の網羅的な収集と特性評価",
+      "オンファーム（農家による）保全活動の支援"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸",
+      "中東（肥沃な三日月地帯）",
+      "コーカサス地方"
+    ],
+    "ex_situ_conservation_status": "良好。世界の主要なジーンバンク（米・蘭など）やスヴァールバル世界種子貯蔵庫に多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部の保護区で野生近縁種の保全が行われているが、体系的な取り組みは十分ではない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本JSON内の全データを総合的に評価した専門家としての判断。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中国（茎レタスの多様性と利用法）",
+      "中東（野生種と栽培種の遺伝的関係）",
+      "韓国（包み菜文化とそれに特化した品種）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温・乾燥）に対する多様な品種の生理学的応答に関する定量的データ",
+      "リジェネラティブ農業システムにおけるレタスの具体的な貢献度の評価",
+      "多くの在来品種の栄養価および機能性成分のプロファイリング"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Celtuce / Stem Lettuce (Lactuca sativa var. augustana)",
+      "local_name": "萵筍 (wōsǔn), 萵苣 (wōjù)",
+      "origin_region": "中国",
+      "distinctive_characteristics": "葉ではなく、肥大した多肉質の茎を食用とする。シャキシャキとした食感と独特の風味を持つ。",
+      "cultural_importance": "中華料理で非常に重要な野菜。炒め物、漬物、和え物など、調理法が多様。",
+      "climate_adaptation": "比較的耐暑性がある品種も存在するが、基本的には冷涼な気候を好む。",
+      "conservation_status": "商業的に広く栽培されているが、地方の在来品種は保全が必要。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Romaine / Cos (Lactuca sativa var. longifolia)",
+      "local_name": "Laitue romaine (fr), Lattuga romana (it)",
+      "origin_region": "地中海地域（ギリシャのコス島が由来とされる）",
+      "distinctive_characteristics": "長くしっかりとした葉が、緩く縦長の頭を形成する。葉脈がはっきりしており、食感が良い。",
+      "cultural_importance": "シーザーサラダに不可欠な食材として世界的に認知されている。栄養価が他のレタスより高い。",
+      "climate_adaptation": "結球レタスよりやや耐暑性がある。",
+      "conservation_status": "広く栽培されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Iceberg / Crisphead (Lactuca sativa var. capitata)",
+      "local_name": "Iceberg lettuce",
+      "origin_region": "アメリカ（1894年開発）",
+      "distinctive_characteristics": "固く結球し、キャベツのような形状。水分が多く、非常にクリスピーな食感。淡色。",
+      "cultural_importance": "20世紀の物流革命を象徴する野菜。日持ちがするため長距離輸送が可能となり、世界中のファストフードやレストランで利用されるようになった。",
+      "climate_adaptation": "特定の冷涼な気候帯での大規模生産に特化しており、適応の幅は狭い。",
+      "conservation_status": "保全の対象外。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "USDA FoodData Central",
+      "Plants of the World Online (Kew)",
+      "GRIN-Global (USDA-ARS)",
+      "Crop Trust"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "在来品種の民族植物学的利用法に関する体系的記録"
+    ],
+    "regional_data_coverage": "北米、ヨーロッパ、東アジアは豊富。アフリカ、南米、中央アジアに関するデータは限定的。",
+    "missing_information": [
+      "先住民コミュニティによる伝統的利用法（栽培化以前の野生種を含む）",
+      "小規模農家が栽培する在来品種の正確な分布と遺伝的多様性"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

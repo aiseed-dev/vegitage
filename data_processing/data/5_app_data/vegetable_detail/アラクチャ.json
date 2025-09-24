@@ -1,0 +1,613 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is consolidated from major botanical and agricultural databases (e.g., FAO, CGIAR, Kew Gardens). Data on wild relatives is less detailed."
+    },
+    "primary_name": "Arracacha",
+    "scientific_name": "Arracacia xanthorrhiza",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "茎"
+    ],
+    "origin_region": "アンデス山脈地域（コロンビア、エクアドル、ペルー、ボリビア）",
+    "wild_relatives": [
+      "Arracacia tolucensis",
+      "Arracacia elata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from ethnobotanical records and agricultural glossaries across its cultivation range."
+    },
+    "international": {
+      "en": [
+        "Arracacha",
+        "White Carrot",
+        "Peruvian Parsnip"
+      ],
+      "scientific_common": "Arracacha"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "arracacha, racacha, apio criollo, virraca",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt-BR",
+            "name": "mandioquinha, batata-baroa, batata-salsa",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "イモゼリ",
+            "script": "Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ケチュア語圏（アンデス）",
+        "name": "rakacha, laqachu",
+        "cultural_significance": "伝統的な主食作物であり、栄養価の高さから離乳食や病後の食事として重用される。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification follows the APG IV system, widely accepted in modern botany."
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Arracacia",
+      "la": "Arracacia"
+    },
+    "species": {
+      "en": "Arracacha",
+      "la": "xanthorrhiza"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is derived from anthropological and ethnobotanical studies in the Andean region and Brazil."
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "アンデス地域（コロンビア、ペルー、エクアドル）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物",
+          "離乳食"
+        ],
+        "traditional_uses": "スープ（sancocho）、ピューレ、シチューの主原料。消化しやすいため、乳幼児、高齢者、病人向けの食事として非常に重要。",
+        "seasonal_significance": "主要な収穫期は地域の食料供給の基盤となる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ブラジル",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ピューレ（purê de mandioquinha）、スープ、フライとして広く消費される。特に南東部で人気が高い。",
+        "seasonal_significance": "市場で通年利用可能だが、品質は季節により変動する。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "アンデス料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Sancocho de arracacha",
+          "Puré de arracacha"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "蒸し",
+          "マッシュ"
+        ],
+        "cultural_context": "ジャガイモやトウモロコシと並ぶ、伝統的な高地農業の根幹をなす作物。家族の健康を支える食材と見なされている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インカ帝国以前からアンデス地域で栽培されていた証拠がある。",
+      "trade_routes": "主にアンデス山脈内の地域的な交易品であり、広域な交易路での役割は限定的。",
+      "cultural_exchange": "19世紀から20世紀にかけてブラジルや他の中南米諸国に導入され、新たな食文化を形成した。",
+      "domestication_history": "アンデス北部で栽培化されたと考えられているが、詳細な起源は不明な点が多い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "低地の熱帯気候には適さない。高温多湿下では塊根が形成されず、病害が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高地の亜熱帯気候が最適。ブラジルの栽培地域がこれに該当する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温帯高地に適応。生育期間が長い（10ヶ月以上）ため、温暖な季節が続く必要がある。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "厳しい冬や夏の極端な高温には耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "栽培には安定した水分供給が必要であり、乾燥地には適さない。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高1,500mから2,500mのアンデス山麓が原産地であり、冷涼な高地気候に特化している。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "アンデス高地",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "10-14ヶ月後",
+        "growing_period_days": "300-420"
+      },
+      {
+        "climate_zone": "ブラジル南東部",
+        "planting_season": "雨季（9月-11月）",
+        "harvest_season": "7-10ヶ月後",
+        "growing_period_days": "210-300"
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 15,000 kg/ha",
+      "factors_affecting_yield": [
+        "標高",
+        "土壌の肥沃度と水はけ",
+        "品種",
+        "ウイルス病の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（推定数10万トン）",
+      "major_producers": [
+        {
+          "country": "ブラジル",
+          "production_share": 60,
+          "characteristics": "商業生産が最も盛ん。品種改良も進んでいる。"
+        },
+        {
+          "country": "コロンビア",
+          "production_share": 25,
+          "characteristics": "伝統的な小規模農家による生産が中心。多様な在来種が維持されている。"
+        },
+        {
+          "country": "エクアドル",
+          "production_share": 5,
+          "characteristics": "国内消費が主で、アンデス地域の伝統農法で栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分は分析されているが、品種や栽培条件による機能性成分の変動に関する研究は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "109",
+        "protein_g": "1.4",
+        "carbs_g": "25.2",
+        "fat_g": "0.2",
+        "fiber_g": "1.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "21 mg",
+          "daily_value_percent": 2
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "品種による（黄肉種に多い）",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "17 mg",
+          "daily_value_percent": 28
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "デンプン",
+        "concentration": "高",
+        "health_effect": "デンプン粒子が非常に小さく、消化吸収されやすい。離乳食や介護食に適する。"
+      },
+      {
+        "compound": "カロテノイド",
+        "concentration": "黄肉種に多い",
+        "health_effect": "抗酸化作用、ビタミンA前駆体。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アンデス地域",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "消化促進",
+          "胃腸の不調改善",
+          "滋養強壮"
+        ],
+        "preparation": "調理した塊根をそのまま、あるいはスープとして摂取する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "消化性の高いエネルギー源"
+      ],
+      "ongoing_research": [
+        "デンプンの物理化学的特性と食品加工への応用",
+        "抗酸化物質の品種間差異"
+      ],
+      "safety_considerations": "一般的に安全な食品とされる。特筆すべき毒性やアレルギー報告は少ない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "料理法に関する情報は、栽培地域での一般的な食文化に基づいており、広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南米（アンデス）",
+        "methods": [
+          "煮込み",
+          "スープ",
+          "ピューレ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "鶏肉",
+          "牛肉",
+          "コリアンダー",
+          "タマネギ"
+        ]
+      },
+      {
+        "region": "南米（ブラジル）",
+        "methods": [
+          "ピューレ",
+          "フライ",
+          "スープ",
+          "ニョッキ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "乾燥肉（カルネ・セカ）",
+          "チーズ",
+          "パセリ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し（粉末化）",
+        "regions": [
+          "アンデス地域"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "風味が凝縮されるが、ビタミンの一部は失われる可能性がある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッツのような風味と、セロリ、ニンジン、ジャガイモを混ぜたような独特の甘みと香り。",
+      "aroma_compounds": [
+        "ミリスチシン",
+        "α-ピネン"
+      ],
+      "texture_characteristics": "調理後は滑らかでクリーミー。繊維質は少ない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動への具体的な応答に関する定量的研究は非常に少ない。評価は、その栽培適地の気候特性からの定性的な推測に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "14-20°C",
+      "extreme_heat_survival": "25°C以上が続くと生育が著しく阻害される。",
+      "cold_tolerance": "0°C（霜に非常に弱い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "600-1,200 mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地上部は倒れるが、地下部は保護される）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "低（急激な変化に弱い）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（高地原産のため、ある程度の耐性を持つと推定される）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、低地から新たな病害虫が侵入するリスクがある。",
+      "disease_resistance_stability": "特にウイルス病に弱く、温暖化は媒介昆虫の活動を活発化させる可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アンデス山脈の標高1500-2500m地帯、ブラジル南部の高原",
+        "2050_projection": "栽培適地がより高緯度、より高標高へ移動する可能性が高い。",
+        "2100_projection": "現在の主要栽培地の多くで、栽培が困難になるリスクがある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同属の野生種に関する情報は存在するが、自然交雑の実例や遺伝的親和性に関する詳細な研究は限られている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多様な在来種（ランドレース）間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "いくつかの野生種（Arracacia spp.）との人工交配の可能性は示唆されているが、自然交雑の頻度は不明。"
+      ],
+      "intergeneric_possibility": [
+        "ニンジンやパセリなど、同科の他属との交雑は極めて困難。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告はない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地のアンデス地域には、色、形、生育期間が異なる多様な在来種が存在し、高い遺伝的多様性が維持されている。",
+      "wild_gene_pool": "アンデスには複数の野生近縁種が分布しており、これらは耐病性や環境ストレス耐性の遺伝子供給源となる可能性がある。",
+      "adaptive_genetic_variation": "各地域の微気候に適応した在来種が存在することから、高い適応的遺伝変異が示唆される。",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、ウイルス病の蓄積や遺伝的多様性の喪失リスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス山脈",
+        "environmental_pressure": "標高、土壌、降水量の違い",
+        "adaptive_response": "生育期間、塊根の色や形状、耐寒性の異なる多様な在来種の分化",
+        "time_scale": "数百年～数千年",
+        "mechanism": "地域農家による人為選択と自然選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐病性や耐乾性を向上させる可能性がある。",
+      "improved_nutritional_content": "野生種が持つ特有の機能性成分を取り込む可能性がある。",
+      "novel_characteristics": "収穫期間の短縮や新たな風味の獲得。",
+      "hybrid_vigor_potential": "高い可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致、花粉の稔性の問題が報告されている。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "霜、干ばつ、特定の土壌病害",
+        "adaptive_traits": "早熟性、塊根の休眠性、病害抵抗性",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈で本種を扱った研究はほぼない。評価は、植物の一般的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "大きな貯蔵根と広範囲に広がるひげ根を持ち、土壌を団粒化する可能性がある。",
+      "organic_matter_contribution": "収穫後の地上部残渣が多く、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "塊根の成長が土壌の物理性を改善する可能性があるが、収穫時の土壌攪乱は大きい。",
+      "erosion_control": "生育期間中は密な葉で地面を覆うため、表土の侵食を抑制する効果がある。",
+      "nutrient_cycling_role": "カリウム要求量が高いとされる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "セリ科特有の散形花序は多様な訪花昆虫（ハチ、ハエなど）を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の活動が土壌の浸透能を向上させる可能性がある。",
+      "moisture_retention": "地上部の被覆が土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "塊根に大量の炭素を蓄積するが、収穫により大部分が土壌系から除去される。",
+      "soil_carbon_enhancement": "根の残渣や分泌物による土壌炭素の増加ポテンシャルはあるが、定量的データはない。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "アンデスの伝統農法では、トウモロコシやインゲンマメとの混植が見られる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "伝統的な多品目混植システムに組み込むことで、生態系の安定性に貢献する。",
+      "stress_tolerance": "特定の環境（冷涼な高地）に特化しており、それ以外のストレスには弱い。",
+      "recovery_capacity": "不明",
+      "adaptability": "遺伝的多様性は高いが、個体の適応性は低い。"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場での利用は確立されているが、新しい応用分野の研究は発展途上。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "消化しやすい炭水化物源として価値が高い。",
+      "food_security_contribution": "山間地の小規模農家の重要な収入源であり、地域の食料安全保障に貢献している。",
+      "local_food_system_integration": "原産地では地域市場との結びつきが非常に強い。",
+      "alternative_protein_potential": "低い（主成分は炭水化物）。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルテンフリー食品市場（デンプン原料）",
+        "エスニック食品市場",
+        "ベビーフード市場"
+      ],
+      "value_added_products": [
+        "チップス",
+        "冷凍ピューレ",
+        "デンプン粉",
+        "インスタントスープ"
+      ],
+      "niche_market_value": "南米系移民コミュニティや健康志向の消費者の間で高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の重要性は認識されているが、体系的な保全活動は限定的。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種は、アンデス地域の土地開発や気候変動による生息地の喪失脅威に直面している。",
+    "climate_change_vulnerability": "栽培適地が狭く、温暖化に対して非常に脆弱であるため、リスクは高い。",
+    "cultural_erosion_risk": "市場価値の高い単一品種への集中や、若者の農業離れにより、伝統的な栽培知識と共に多様な在来種が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来種の収集・評価・保存（ジーンバンク）",
+      "域内保全（インサイチュ）活動の支援",
+      "伝統知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "コロンビア、エクアドル、ペルーのアンデス山脈地域"
+    ],
+    "ex_situ_conservation_status": "国際ポテトセンター（CIP）などのジーンバンクで一部の系統が保存されている。",
+    "in_situ_conservation_efforts": "地域の農家が主体となった保全活動が散発的に行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価は、本調査で収集したデータに基づく専門家としての判断。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "コロンビアのボヤカ県とクンディナマルカ県",
+      "ペルー北部",
+      "ブラジルのミナスジェライス州"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、CO2濃度上昇）に対する生理学的応答",
+      "野生近縁種との遺伝的関係と交雑可能性",
+      "土壌微生物叢との相互作用"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種に関する体系的な情報は限られており、多くは地域的な呼称に基づく。"
+      },
+      "variety_name": "Amarilla",
+      "local_name": "Arracacha Amarilla",
+      "origin_region": "コロンビア",
+      "distinctive_characteristics": "塊根が黄色で、風味が豊か。最も商業的に栽培されている品種の一つ。",
+      "cultural_importance": "スープやピューレとして広く好まれる。",
+      "climate_adaptation": "中程度の標高に適応。",
+      "conservation_status": "低懸念"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種に関する体系的な情報は限られており、多くは地域的な呼称に基づく。"
+      },
+      "variety_name": "Blanca",
+      "local_name": "Arracacha Blanca",
+      "origin_region": "ペルー",
+      "distinctive_characteristics": "塊根が白く、デンプン質が多い。加工用（粉）に適する。",
+      "cultural_importance": "伝統的な家庭料理で利用される。",
+      "climate_adaptation": "より高い標高に適応する傾向がある。",
+      "conservation_status": "情報不足"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAO (Food and Agriculture Organization of the United Nations)",
+      "CIP (International Potato Center)",
+      "Ethnobotanical studies in the Andean region",
+      "Brazilian Agricultural Research Corporation (Embrapa)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種の遺伝資源としての評価"
+    ],
+    "regional_data_coverage": "南米に偏っており、その他の地域でのデータはほぼ皆無。",
+    "missing_information": [
+      "具体的な病害虫抵抗性メカニズム",
+      "水利用効率の定量的データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

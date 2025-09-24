@@ -1,0 +1,585 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（KEW, GBIF）および生薬学の標準的文献から統合。野生近縁種の情報も確立されている。"
+    },
+    "primary_name": "Tōki",
+    "scientific_name": "Angelica acutiloba",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "葉",
+      "茎"
+    ],
+    "origin_region": "日本",
+    "wild_relatives": [
+      "Angelica acutiloba var. sugiyamae"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "東アジアでの名称は確立されているが、それ以外の地域ではほとんど知られていないため、名称は存在しない。先住民による名称は確認されていない。"
+    },
+    "international": {
+      "en": [
+        "Japanese Angelica",
+        "Tōki"
+      ],
+      "scientific_common": "Angelica acutiloba"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "当帰",
+            "script": "漢字"
+          },
+          {
+            "lang": "ja-Hira",
+            "name": "とうき",
+            "script": "ひらがな"
+          },
+          {
+            "lang": "zh",
+            "name": "东当归",
+            "script": "简体字"
+          },
+          {
+            "lang": "ko",
+            "name": "왜당귀",
+            "script": "ハングル"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースから情報を取得。"
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Angelica",
+      "la": "Angelica"
+    },
+    "species": {
+      "en": "Japanese Angelica",
+      "la": "acutiloba"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Angelica acutiloba var. sugiyamae"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主に東アジアの伝統医学（特に日本の漢方）における重要性に関する文献が豊富。食文化としての情報は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "主に日本の漢方医学において、婦人科系の疾患、血行促進、鎮痛を目的とした主要な生薬として利用される。中国や韓国でも日本からの輸入品や国内栽培品が利用される。根を乾燥させ、煎じ薬や粉末、丸薬として処方する。",
+        "seasonal_significance": "秋に収穫された根が最も薬効が高いとされ、冬の間の健康維持に用いられることが多い。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本の郷土料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "当帰の葉の天ぷら",
+          "薬膳鍋",
+          "薬用酒"
+        ],
+        "preparation_methods": [
+          "揚げる",
+          "煮込む",
+          "漬け込む"
+        ],
+        "cultural_context": "根は主に薬用だが、春先の若い葉や茎は山菜として一部地域で食用にされる。独特の強い香りを持ち、嗜好性が高い。食薬同源の思想に基づき、健康維持のために料理に取り入れられることがある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本の奈良時代（8世紀）にはすでに薬草として栽培・利用されていた記録がある。正倉院の薬物中に「当帰」が見られる。",
+      "trade_routes": "歴史的には主に日本国内で流通。近代以降、漢方薬の原料として東アジア内で限定的に交易されている。",
+      "cultural_exchange": "中国の『神農本草経』に記載される「当帰」（Angelica sinensis）の代用品または日本独自の発展形として位置づけられ、日本の漢方医学の発展に不可欠な役割を果たした。",
+      "domestication_history": "日本で古くから栽培化され、特に奈良県の大和当帰や北海道の北海当帰など、地域に適応した優良な栽培品種が選抜・維持されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に極めて弱く、栽培は不可能。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "高冷地を除き、栽培は困難。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼で夏期に気温が上がりすぎず、湿度が高い山間地が最適。年平均気温10-14℃程度。水はけの良い土壌を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏季が冷涼な高地であれば栽培可能。強い霜や凍結には注意が必要。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱く、栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "亜高山帯の冷涼な気候に適応する。強い紫外線と昼夜の寒暖差が品質を高める可能性がある。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（冷涼地）",
+        "planting_season": "春または秋",
+        "harvest_season": "播種から2-3年後の秋から初冬",
+        "growing_period_days": 730
+      }
+    ],
+    "productivity": {
+      "yield_range": "3000-4000 kg/ha (乾燥根)",
+      "factors_affecting_yield": [
+        "連作障害（非常に起きやすい）",
+        "病害虫（白絹病、軟腐病、アブラムシ）",
+        "夏季の高温",
+        "土壌の水はけ"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": 90,
+          "characteristics": "奈良県、北海道、和歌山県などが主産地。品質管理が徹底された伝統的な栽培が行われている。"
+        },
+        {
+          "country": "中国",
+          "production_share": 10,
+          "characteristics": "一部地域で日本から導入された品種が栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "機能性成分に関する研究は豊富だが、食品としての栄養成分データは非常に限定的。本項目は生薬としての機能性を中心に記述。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンE",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "リグスチリド (Ligustilide)",
+        "concentration": "産地や品種により変動",
+        "health_effect": "鎮痙、鎮痛、血管拡張作用"
+      },
+      {
+        "compound": "ブチリデンフタリド (Butylidenephthalide)",
+        "concentration": "産地や品種により変動",
+        "health_effect": "鎮静、鎮痙作用"
+      },
+      {
+        "compound": "デクルシン (Decursin)",
+        "concentration": "産地や品種により変動",
+        "health_effect": "抗がん作用、抗炎症作用、神経保護作用"
+      },
+      {
+        "compound": "フェルラ酸 (Ferulic acid)",
+        "concentration": "産地や品種により変動",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "漢方（日本）、中医学",
+        "uses": [
+          "月経不順",
+          "月経痛",
+          "冷え性",
+          "貧血",
+          "産前産後の不調",
+          "更年期障害",
+          "腹痛",
+          "頭痛"
+        ],
+        "preparation": "根をスライスして乾燥させ、他の生薬と共に煎じて服用する（例：当帰芍薬散、四物湯）。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血行促進作用",
+        "抗炎症作用",
+        "鎮痛作用",
+        "子宮平滑筋の収縮調整作用"
+      ],
+      "ongoing_research": [
+        "神経保護作用による認知症予防",
+        "抗がん作用",
+        "免疫調節作用"
+      ],
+      "safety_considerations": "妊娠中の使用には注意が必要。光線過敏症を引き起こすフロクマリン類を含むため、過剰摂取後は日光を避けるべき。ワルファリンなど抗凝固薬との併用は禁忌。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "薬用利用が主であり、料理利用は限定的なため情報量は少ない。日本の山菜文化の文脈で語られることが多い。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "揚げる（天ぷら）",
+          "茹でる（おひたし）",
+          "煮込む（薬膳スープ）",
+          "漬け込む（薬用酒）"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "鶏肉",
+          "豚肉",
+          "キノコ類",
+          "他の山菜"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "2-3年",
+        "quality_changes": "適切に乾燥・保管すれば有効成分は長期間安定するが、香りは徐々に失われる。吸湿と虫害に注意が必要。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強いセロリ様の芳香、甘み、わずかな苦味と辛味",
+      "aroma_compounds": [
+        "リグスチリド",
+        "ブチリデンフタリド"
+      ],
+      "texture_characteristics": "根は乾燥すると硬く木質化する。若い葉や茎はシャキシャキとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動への直接的な影響を研究した文献は極めて少ない。本評価は、栽培条件に関する既存の知見と一般的な気候変動予測モデルに基づく定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30℃以上が続くと生育不良や枯死のリスクが高まる。",
+      "cold_tolerance": "-10°C"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1200-1800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（茎が太いが、花茎は倒れやすい）",
+      "hail_damage_recovery": "低（葉の損傷は光合成能力を著しく低下させる）",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中（高地に適応しているため、ある程度の耐性を持つ可能性がある）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により南方系の病害虫（例：ネコブセンチュウ）の発生域が北上し、新たな脅威となる可能性がある。",
+      "disease_resistance_stability": "高温多湿条件で白絹病などの土壌病害が多発しやすくなり、抵抗性が低下する恐れがある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の冷涼な山間地（奈良県、北海道など）",
+        "2050_projection": "現在の栽培地では標高がより高い場所へ移動。北海道での適地は維持または拡大する可能性がある。",
+        "2100_projection": "本州の伝統的な産地では栽培が困難になる可能性が高い。より高緯度地域への適地移動が予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同属近縁種との交雑親和性に関する育種学的な知見は存在するが、自然環境下での交雑事例に関する報告は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Angelica acutiloba var. sugiyamae (北海当帰)"
+      ],
+      "interspecific_compatibility": [
+        "Angelica sinensis (中国当帰)",
+        "Angelica gigas (シシウド)"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は少ないが、栽培地周辺の近縁種と自然交雑する可能性は否定できない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "「大和当帰」や「北海当帰」など、長年の選抜によって形成された遺伝的に分化した在来品種が存在し、多様性は中程度。",
+      "wild_gene_pool": "野生集団は日本国内に限定的に存在し、遺伝子プールとして重要だが、生息地の減少が懸念される。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖（株分け）による増殖が可能なため、特定の優良系統に依存すると近交弱勢のリスクが高まる。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他のAngelica属（例：より広範な気候に適応する種）との交雑により、耐暑性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "有効成分（リグスチリド等）の含有量が異なる種との交雑により、薬効成分のプロファイルを改変できる可能性がある。",
+      "novel_characteristics": "生育速度の向上や、特定の病害虫への抵抗性獲得。",
+      "hybrid_vigor_potential": "種間交雑により、生育旺盛な雑種強勢を示す可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致が交雑障壁となりうる。",
+      "chromosome_compatibility": "同属内では染色体数が共通することが多く、交雑は比較的容易な場合がある。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "夏季の高温",
+        "adaptive_traits": "高温耐性、気孔の開閉制御能力",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "当帰をリジェネラティブ農業の文脈で評価した研究は皆無。本評価はセリ科植物の一般的な特性と、その栽培法からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "太い直根が地中深くまで伸びるため、土壌の硬盤を破砕し、通水性・通気性を改善する可能性がある。",
+      "organic_matter_contribution": "収穫後の地上部残渣は土壌有機物として還元される。",
+      "soil_structure_improvement": "根系の発達により土壌団粒構造の形成を促進する可能性がある。",
+      "erosion_control": "不明",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "セリ科特有の散形花序は、ハナアブ、ハチ、甲虫など多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "捕食寄生性の天敵昆虫（寄生バチなど）の蜜源植物（バンカープランツ）として機能する可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "多様な昆虫相を育むことで、農地生態系の生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "深根性により水の浸透を促進する可能性がある。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "主根が大きく発達するため、地下部への炭素蓄積ポテンシャルは比較的高い可能性がある。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）",
+        "他の薬草類との混植（ポリカルチャー）"
+      ],
+      "natural_pest_control": "天敵昆虫を誘引することで、アブラムシなどの害虫を抑制する可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "セリ科植物にはアレロパシー効果を持つものが知られているが、当帰については不明。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "生物多様性を高めることで、生態系の安定に貢献する可能性がある。",
+      "stress_tolerance": "連作障害を起こしやすく、単作ではシステムとしてのレジリエンスは低い。",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康・ウェルネス市場における伝統生薬の価値に関する情報は豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食品としての利用は限定的だが、機能性食品やサプリメントとしての価値が高い。",
+      "food_security_contribution": "直接的な貢献は低いが、高付加価値作物として農家の収入を安定させ、地域経済に貢献する。",
+      "local_food_system_integration": "伝統的な栽培地では、地域の文化と経済に深く根付いている。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "欧米におけるハーブ・サプリメント市場",
+        "機能性表示食品としての応用",
+        "化粧品（血行促進、抗酸化）原料"
+      ],
+      "value_added_products": [
+        "標準化エキス",
+        "チンキ剤",
+        "エッセンシャルオイル",
+        "薬用入浴剤",
+        "健康茶"
+      ],
+      "niche_market_value": "高品質な日本産当帰（特に大和当帰）は、漢方市場でブランド価値が非常に高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "野生種の絶滅リスクに関する情報は環境省レッドリスト等で確認できるが、栽培品種の遺伝的多様性の減少に関する定量的データは少ない。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生種の自生地は開発や環境変化により脅威にさらされている。",
+    "climate_change_vulnerability": "高（冷涼な気候を好むため、温暖化の影響を強く受ける）",
+    "cultural_erosion_risk": "高（栽培農家の高齢化と後継者不足により、伝統的な栽培技術の継承が危ぶまれている）",
+    "conservation_actions_needed": [
+      "遺伝資源（種子、系統）のジーンバンクでの保存（域外保全）",
+      "自生地の保全とモニタリング（域内保全）",
+      "伝統的栽培技術の記録と継承支援",
+      "気候変動に適応可能な新品種の育成"
+    ],
+    "priority_conservation_regions": [
+      "奈良県五條市周辺（大和当帰）",
+      "北海道（北海当帰）",
+      "その他野生種の自生地"
+    ],
+    "ex_situ_conservation_status": "日本の農研機構ジーンバンク等で種子や栄養体が保存されている。",
+    "in_situ_conservation_efforts": "一部の自治体や研究機関で自生地の保護活動が行われているが、限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本（奈良、北海道）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果と相互作用",
+      "栽培品種および野生集団の網羅的な遺伝的多様性評価"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の生薬市場における代表的な品種に関する情報は確立されている。"
+      },
+      "variety_name": "Yamato Tōki",
+      "local_name": "大和当帰",
+      "origin_region": "日本・奈良県",
+      "distinctive_characteristics": "根が太く、香りが強く、品質が非常に高いとされる。有効成分のバランスに優れる。",
+      "cultural_importance": "日本の漢方市場で最高級品として扱われ、伝統的な栽培方法が継承されている。",
+      "climate_adaptation": "冷涼な山間地の気候に特化しているため、温暖化への脆弱性が高い。",
+      "conservation_status": "栽培品種として維持されているが、生産者の高齢化が課題。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の生薬市場における代表的な品種に関する情報は確立されている。"
+      },
+      "variety_name": "Hokkai Tōki",
+      "local_name": "北海当帰",
+      "origin_region": "日本・北海道",
+      "distinctive_characteristics": "大和当帰に比べ耐寒性が強く、根がやや細いが収量性が高い。成分プロファイルが若干異なる。学術的には変種（var. sugiyamae）として扱われることがある。",
+      "cultural_importance": "北海道の気候に適応した重要な栽培品種。国内需要の多くを担う。",
+      "climate_adaptation": "耐寒性が高く、冷涼な気候に適応している。温暖化により栽培適地がさらに北上する可能性がある。",
+      "conservation_status": "安定して栽培されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "Japanese Pharmacopoeia",
+      "Ethnobotanical studies on Kampo medicine",
+      "Reports from Japanese agricultural research institutes"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "土壌微生物との相互作用"
+    ],
+    "regional_data_coverage": "東アジア（特に日本）に偏っており、その他の地域に関するデータはほぼ存在しない。",
+    "missing_information": [
+      "標準的な食品栄養成分表",
+      "CO2濃度変化への応答に関する実験データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

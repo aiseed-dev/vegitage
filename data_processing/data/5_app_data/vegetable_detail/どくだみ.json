@@ -1,0 +1,690 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物学的な基本情報は、主要な植物データベース（KEW, GBIF等）で確立されている。野生近縁種に関する情報は限定的で、本属は単型属とされることが多い。"
+    },
+    "primary_name": "Fish Mint",
+    "scientific_name": "Houttuynia cordata",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "根"
+    ],
+    "origin_region": "東アジア、東南アジア",
+    "wild_relatives": [
+      "Houttuynia cordataの野生集団"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア、東南アジアにおける名称は広く記録されている。その他の地域では園芸名が主。"
+    },
+    "international": {
+      "en": [
+        "Fish Mint",
+        "Chameleon Plant",
+        "Heartleaf",
+        "Fishwort",
+        "Bishop's Weed"
+      ],
+      "scientific_common": "Houttuynia"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ドクダミ、十薬（ジュウヤク）",
+            "script": "漢字、カタカナ"
+          },
+          {
+            "lang": "zh",
+            "name": "鱼腥草 (yú xīng cǎo)",
+            "script": "漢字"
+          },
+          {
+            "lang": "ko",
+            "name": "어성초 (eoseongcho)",
+            "script": "ハングル"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "diếp cá, giấp cá",
+            "script": "ラテン文字"
+          },
+          {
+            "lang": "th",
+            "name": "ผักคาวตอง (phak khao tong)",
+            "script": "タイ文字"
+          },
+          {
+            "lang": "lo",
+            "name": "ຜັກຄາວທອງ (phak khao thong)",
+            "script": "ラーオ文字"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "mni",
+            "name": "Toningkhok",
+            "script": "ラテン文字"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な分類。"
+    },
+    "family": {
+      "en": "Lizard's tail family",
+      "la": "Saururaceae"
+    },
+    "genus": {
+      "en": "Houttuynia",
+      "la": "Houttuynia"
+    },
+    "species": {
+      "en": "Heart-leaved houttuynia",
+      "la": "cordata"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学的研究や各国の食文化に関する文献が豊富に存在する。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（日本、中国、韓国）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "健康茶"
+        ],
+        "traditional_uses": "伝統中国医学や日本の漢方で解毒、抗炎症、利尿作用を目的として広く利用。「十薬」の名が示す通り、多様な薬効を持つとされる。主に乾燥させてお茶として飲用される。",
+        "seasonal_significance": "初夏に花が咲き、薬草としての収穫期とされる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東南アジア（ベトナム、タイ、ラオス）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬味",
+          "薬用"
+        ],
+        "traditional_uses": "非常にポピュラーな生ハーブとして、サラダ、春巻き、グリル料理の付け合わせに多用される。独特の魚のような風味が特徴で、食文化に不可欠な存在。",
+        "seasonal_significance": "年間を通じて利用されるが、雨季に最も繁茂する。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア（インド北東部）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "チャツネやサラダなどの料理に利用されるほか、伝統医療で消化器系の不調や皮膚病の治療に用いられる。",
+        "seasonal_significance": "モンスーン期に豊富に得られる。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ベトナム料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Gỏi cuốn (生春巻き)",
+          "Bún bò Huế (フエの牛肉麺)",
+          "Bánh xèo (ベトナム風お好み焼き)の付け合わせ"
+        ],
+        "preparation_methods": [
+          "生食"
+        ],
+        "cultural_context": "熱を冷ます効果があると信じられており、スパイシーで油分の多い料理のバランスをとるための重要な薬味として機能する。"
+      },
+      {
+        "cuisine": "日本料理・健康文化",
+        "role": "rare",
+        "traditional_dishes": [
+          "ドクダミ茶",
+          "天ぷら"
+        ],
+        "preparation_methods": [
+          "乾燥・焙煎",
+          "揚げる"
+        ],
+        "cultural_context": "主に食用ではなく健康維持のための飲料として消費される。独特の香りを和らげる調理法が選択される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国最古の薬物書の一つである「名医別録」に記載されており、2000年以上の利用史がある。",
+      "trade_routes": "地域内での交易品としての役割は限定的だが、仏教医学や漢方医学の伝播と共に利用法が広まった。",
+      "cultural_exchange": "東アジアの薬用文化と東南アジアの食文化という、同じ植物に対する異なる文化的価値観の形成を示す好例。",
+      "domestication_history": "明確な栽培化の歴史は不明。野生または半野生状態での利用が長く続き、栽培は主に薬用や自家消費目的で行われてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "十分な水分と半日陰があれば生育可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "非常に適しており、旺盛に生育する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "湿潤な環境を好む。冬期は地上部が枯れるが、地下茎で越冬する。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さと夏の乾燥に弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱く、生育できない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "初夏から秋",
+        "growing_period_days": 180
+      },
+      {
+        "climate_zone": "亜熱帯・熱帯",
+        "planting_season": "通年",
+        "harvest_season": "通年",
+        "growing_period_days": 365
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "土壌水分",
+        "日照（半日陰を好む）",
+        "気温"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "薬用および食用（特に南西部）として大規模な栽培と野生採取が行われている。"
+        },
+        {
+          "country": "ベトナム",
+          "production_share": null,
+          "characteristics": "主に小規模農家や家庭菜園で栽培され、国内の生鮮市場で大量に流通している。"
+        },
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "主に健康茶の原料として契約栽培されている。野生のものも多く利用される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な機能性成分に関する研究は多いが、標準的な食品成分表データは限定的。地域や収穫時期による成分変動が大きい。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約22",
+        "protein_g": "約2.5",
+        "carbs_g": "約3.2",
+        "fat_g": "約0.4",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "豊富",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "豊富",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "豊富",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Quercetin (およびその配糖体 Quercitrin, Isoquercitrin)",
+        "concentration": "高い",
+        "health_effect": "抗酸化、抗炎症作用"
+      },
+      {
+        "compound": "Decanoyl acetaldehyde",
+        "concentration": "可変",
+        "health_effect": "抗菌作用、特有の香りの主成分"
+      },
+      {
+        "compound": "Rutin",
+        "concentration": "中程度",
+        "health_effect": "毛細血管強化、抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "伝統中国医学 (TCM), 漢方",
+        "uses": [
+          "清熱解毒 (熱を冷まし毒を排出する)",
+          "排膿 (膿を排出する)",
+          "利尿",
+          "肺炎、気管支炎の治療"
+        ],
+        "preparation": "乾燥させた全草を煎じて内服、または新鮮な葉をすりつぶして外用。"
+      },
+      {
+        "region": "東南アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "解熱",
+          "消化促進",
+          "皮膚疾患の治療"
+        ],
+        "preparation": "新鮮な葉のジュースを飲む、またはペースト状にして塗布。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗炎症作用",
+        "抗ウイルス作用（インフルエンザ、SARS-CoVなど）",
+        "抗菌作用",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "免疫調節機能",
+        "アレルギー抑制効果"
+      ],
+      "safety_considerations": "腎機能障害のある患者には注意が必要との報告がある（アリストロキア酸類は通常含まれないが、誤同定や汚染のリスクが指摘されることがある）。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "利用地域の料理本や民族植物学の記録に詳細な記述が多い。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東南アジア（特にベトナム）",
+        "methods": [
+          "生食"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "グリルした肉や魚",
+          "米麺",
+          "ライスペーパー",
+          "ミント、コリアンダー等の他のハーブ"
+        ]
+      },
+      {
+        "region": "中国（雲南省、四川省）",
+        "methods": [
+          "生食（和え物）",
+          "炒め物"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "唐辛子",
+          "ニンニク",
+          "醤油",
+          "酢"
+        ]
+      },
+      {
+        "region": "日本",
+        "methods": [
+          "乾燥・焙煎（お茶）",
+          "揚げる（天ぷら）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "天ぷら粉",
+          "他の山菜"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "東アジア全域"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りが弱まり、薬効成分が濃縮される。魚臭さはほぼなくなる。"
+      },
+      {
+        "method": "塩漬け・酢漬け",
+        "regions": [
+          "中国"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が良くなり、独特の風味がマイルドになる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い魚のような、またはコリアンダーに似た風味、わずかな苦味と辛味、後味に爽快感。",
+      "aroma_compounds": [
+        "Decanoyl acetaldehyde",
+        "Myrcene",
+        "Linalool"
+      ],
+      "texture_characteristics": "生の葉は柔らかく、やや多肉質。茎はシャキシャキしている。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応研究は非常に少ない。評価は、その生態的特性（湿潤地を好む、強健な性質など）からの定性的な推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上では水分供給がなければ枯死のリスク",
+      "cold_tolerance": "-5°C程度（地上部は枯れるが地下茎は生存）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "1000-2000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒れるが、地下茎からの再生能力が高い。",
+      "hail_damage_recovery": "高い回復力を持つ。",
+      "rapid_temperature_change": "中程度の適応性"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的なC3植物として、一定の増収効果が期待されるが、データはない）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中（半日陰を好むため、強い紫外線には弱い可能性がある）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "含有する化学成分により、多くの害虫に対して強い抵抗性を持つ。温暖化による新規害虫への耐性は不明だが、 baselineは高い。",
+      "disease_resistance_stability": "非常に高い。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジア、東南アジアの湿潤な温帯・亜熱帯地域",
+        "2050_projection": "栽培適地は高緯度・高標高地域へ移動する可能性がある。乾燥化が進む地域では適地が減少する。",
+        "2100_projection": "乾燥化のリスクがさらに高まり、水資源の確保が栽培の鍵となる。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本属は単型属とされ、交雑に関する研究はほとんどない。評価は遺伝的多様性に関する一般的な知見に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "斑入り品種（'Chameleon'など）が存在し、種内での変異は認められる。"
+      ],
+      "interspecific_compatibility": [
+        "不明（近縁種がほぼ存在しないため、可能性は極めて低い）"
+      ],
+      "intergeneric_possibility": [
+        "可能性はほぼない"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "東アジアから東南アジアの広範な自生・栽培地域に、化学成分や形態が異なる多様な地域集団が存在すると推定される。",
+      "wild_gene_pool": "野生集団と栽培集団の境界は曖昧であり、野生遺伝子プールは豊富に存在する。",
+      "adaptive_genetic_variation": "広範な気候帯に分布していることから、高い適応的遺伝変異を持つことが示唆される。",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、地域集団内では遺伝的多様性が低い可能性があるが、全体としてはリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "東アジアから東南アジア",
+        "environmental_pressure": "気候（温度、湿度）、土壌、病害虫圧の地理的勾配",
+        "adaptive_response": "化学成分（精油、フラボノイド）の組成や量の変化、形態的変異（葉の大きさ、色など）",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域ごとの適応分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "種内交配により、異なる地域の系統が持つ耐暑性や耐寒性を組み合わせることは理論的に可能。",
+      "improved_nutritional_content": "機能性成分の含有量が異なる系統間の交配により、高含有系統の作出が可能かもしれない。",
+      "novel_characteristics": "斑入り品種のように、新しい観賞価値や、異なる風味プロファイルを持つ品種が生まれる可能性がある。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "草食動物による食害",
+        "adaptive_traits": "抗菌・殺虫作用のある化学成分の生産",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈で本種を評価した研究はない。評価はその生態的特性（地下茎による繁殖、密な群落形成）からの類推である。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、広範囲に広がる密な地下茎（rhizome）ネットワークを形成する。",
+      "organic_matter_contribution": "毎年生育・枯死を繰り返すことで、土壌に有機物を供給する。",
+      "soil_structure_improvement": "地下茎が土壌を保持し、団粒構造の形成を助ける可能性がある。",
+      "erosion_control": "地表を密に覆うため、特に傾斜地や水路脇での土壌侵食防止効果が非常に高い。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "白い苞が目立つ花は、ハナアブなどの小型の昆虫を引きつける。",
+      "beneficial_insect_habitat": "密な群落は、クモやテントウムシなどの天敵昆虫の隠れ家を提供する。",
+      "soil_microorganism_interaction": "不明だが、特有の化学成分が土壌微生物叢に影響を与える可能性がある。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により雨滴の衝撃を和らげ、土壌への水の浸透を促進する。",
+      "moisture_retention": "地表を覆うことで土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "高い地表被覆率により、表面流出を大幅に削減する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。草本としては密度が高い。",
+      "below_ground_carbon": "密な地下茎ネットワークにより、地下部への炭素蓄積ポテンシャルが高い。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "果樹園の下草として利用し、雑草抑制と土壌侵食防止に役立つ可能性がある。"
+      ],
+      "natural_pest_control": "強い香りが特定の害虫を忌避する効果（アレロパシー）を持つ可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を抑制する可能性が示唆されており、雑草管理に役立つ一方、混植には注意が必要。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生であり、一度定着すると安定した地表被覆を提供する。",
+      "stress_tolerance": "湛水や物理的なダメージに対する耐性が高い。",
+      "recovery_capacity": "地下茎からの再生能力が非常に高く、回復力が強い。",
+      "adaptability": "様々な湿潤環境に適応する能力がある。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "健康食品や化粧品原料としての利用は増えているが、持続可能な食料システム全体での位置づけに関する議論はまだ少ない。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "微量栄養素と機能性成分が豊富なハーブとして価値がある。",
+      "food_security_contribution": "栽培が容易で繁殖力が強いため、小規模な自給自足システムにおいて安定した食料・薬草源となりうる。",
+      "local_food_system_integration": "アジアの多くの地域で既にローカルフードシステムに深く根付いている。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性飲料（健康茶、ジュース）市場",
+        "エスニック料理の食材としての国際市場",
+        "自然派化粧品・スキンケア製品の原料"
+      ],
+      "value_added_products": [
+        "エキス、パウダー、エッセンシャルオイル",
+        "ハーブティーブレンド",
+        "石鹸、ローション"
+      ],
+      "niche_market_value": "アジアンハーブ、薬草、スーパーフードといったニッチ市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物種としての絶滅リスクは低いが、遺伝的多様性や伝統的知識の消失リスクに関するデータは乏しい。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "湿地や水辺など、本種の生育に適した環境の開発による自生地の減少。",
+    "climate_change_vulnerability": "乾燥化が進む地域での自生地の減少が懸念される。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "各地域の在来系統（ランドレース）の遺伝資源としての収集・保存",
+      "薬用・食用に関する伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "中国南西部からインドシナ半島にかけての遺伝的多様性が高いと推定される地域"
+    ],
+    "ex_situ_conservation_status": "多くの植物園やジーンバンクで保存されているが、網羅的なコレクションは不明。",
+    "in_situ_conservation_efforts": "特定の保全活動は知られていないが、里山などの半自然環境で維持されていることが多い。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロジェクトの目的に照らし合わせた総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ベトナム",
+      "中国雲南省",
+      "日本"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に乾燥）に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果（炭素隔離、土壌改良）の測定",
+      "地域系統間の遺伝的多様性と機能性成分の関連性"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種以外の学術的な品種分類は確立されていない。"
+      },
+      "variety_name": "標準種 (Common type)",
+      "local_name": "ドクダミ、diếp cá",
+      "origin_region": "東アジア、東南アジア",
+      "distinctive_characteristics": "緑色のハート型の葉。強い特有の香りを持つ。",
+      "cultural_importance": "薬用および食用として最も広く利用される。",
+      "climate_adaptation": "湿潤な温帯から熱帯にかけて広く適応。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種として広く知られている。"
+      },
+      "variety_name": "'Chameleon' (Houttuynia cordata 'Chameleon')",
+      "local_name": "五色ドクダミ",
+      "origin_region": "園芸品種",
+      "distinctive_characteristics": "緑、黄、ピンク、赤の斑が入る美しい葉。香りは標準種よりマイルド。",
+      "cultural_importance": "主に観賞用のグラウンドカバーとして利用される。食用も可能。",
+      "climate_adaptation": "標準種に準じるが、やや耐寒性が劣る場合がある。",
+      "conservation_status": "園芸市場で広く流通"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      " ethnobotanical studies",
+      " scientific papers on phytochemistry and pharmacology"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界的な生産・流通に関する統計データ"
+    ],
+    "regional_data_coverage": "東アジアと東南アジアに偏っており、南アジアやその他の地域に関する情報は限定的。",
+    "missing_information": [
+      "大規模栽培における収量データ",
+      "種子繁殖に関する詳細データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

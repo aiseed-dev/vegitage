@@ -1,0 +1,700 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information compiled from major botanical databases (Kew, GRIN), ethnobotanical studies, and culinary history records. Distinction between 'French' and 'Russian' tarragon is critical and noted throughout."
+    },
+    "primary_name": "Tarragon",
+    "scientific_name": "Artemisia dracunculus",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "シベリア、中央アジア",
+    "wild_relatives": [
+      "Artemisia campestris",
+      "Artemisia absinthium"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names sourced from multilingual dictionaries and ethnobotanical databases. The distinction between French (non-seed) and Russian (seed-propagated) varieties is often reflected in naming."
+    },
+    "international": {
+      "en": [
+        "Tarragon",
+        "Dragon's-wort"
+      ],
+      "scientific_common": "Estragon"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Estragon",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Estragon",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Estragón",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Dragoncello",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Тархун (Tarkhun)",
+            "script": "Cyrillic"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "fa",
+            "name": "ترخون (Tarkhoon)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "ar",
+            "name": "الطرخون (al-tarkhun)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "tr",
+            "name": "Tarhun",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "タラゴン (Taragon), エストラゴン (Esutoragon)",
+            "script": "Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ユーラシア遊牧民（推定）",
+        "name": "不明",
+        "cultural_significance": "原産地での古代の利用法は主に薬用であったと推定されるが、具体的な民族名や利用法の記録は乏しい。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic information is well-established. The subspecific rank is crucial for distinguishing culinary types."
+    },
+    "family": {
+      "en": "Daisy family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Mugwort",
+      "la": "Artemisia"
+    },
+    "species": {
+      "en": "Tarragon",
+      "la": "dracunculus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "sativa (French Tarragon)"
+      },
+      {
+        "rank": "var.",
+        "name": "inodora (Russian Tarragon)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural importance varies significantly by region, with a peak in French culinary arts."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "フランス・西ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "副菜"
+        ],
+        "traditional_uses": "フランス料理の基本ハーブ「フィーヌ・ゼルブ」の一つ。ベアルネーズソース、鶏肉・魚料理の香りづけに不可欠。",
+        "seasonal_significance": "春から初夏にかけての新鮮なハーブとして珍重される。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東ヨーロッパ・ロシア・コーカサス",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ピクルスやマリネの香りづけ。特にジョージアの炭酸飲料「タルフン」の原料として象徴的。",
+        "seasonal_significance": "夏の保存食作りには欠かせないハーブ。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東（特にイラン）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "サブジ（ハーブの盛り合わせ）の一員として生食されるほか、煮込み料理や漬物にも利用される。",
+        "seasonal_significance": "春の訪れを告げるハーブの一つ。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Béarnaise sauce",
+          "Poulet à l'estragon",
+          "Fines herbes omelette"
+        ],
+        "preparation_methods": [
+          "生食",
+          "加熱（ソース）",
+          "酢に漬ける"
+        ],
+        "cultural_context": "フランスのガストロノミーを象徴する洗練された香りのハーブとして位置づけられる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャで薬用として利用。名前の由来は根が龍に似ていることから「drakon」（龍）とされる説がある。",
+      "trade_routes": "中世にアラブ商人を通じてヨーロッパに伝播。当初は薬用植物として修道院などで栽培された。",
+      "cultural_exchange": "十字軍遠征などを通じて西欧に定着し、16世紀頃からフランスで料理用ハーブとしての地位を確立した。",
+      "domestication_history": "料理用のフレンチタラゴン（var. sativa）は、野生種からの突然変異を選抜した栄養繁殖系のクローンと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に極めて弱く、根腐れを起こしやすい。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "冬の休眠が不十分で、夏季の高温で衰弱する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌で、夏が暑すぎず乾燥した気候が最適。冬には地上部が枯れて休眠する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さと冬の寒さに耐えるが、極端な乾燥や寒冷には保護が必要。原産地に近く適性が高い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥にはある程度耐えるが、灌漑なしでの栽培は困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "初夏から秋",
+        "growing_period_days": "多年草のため通年（冬期休眠）"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "品種（フレンチ/ロシアン）",
+        "日照",
+        "排水性",
+        "夏季の気温",
+        "株の更新頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "高品質なフレンチタラゴンの主要生産地。"
+        },
+        {
+          "country": "アメリカ",
+          "production_share": "不明",
+          "characteristics": "主に国内市場向けに生産。"
+        },
+        {
+          "country": "オランダ",
+          "production_share": "不明",
+          "characteristics": "施設栽培によるヨーロッパ市場への供給。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分は利用可能だが、機能性成分の含有量は品種、栽培条件、収穫時期により大きく変動する。主成分エストラゴールの安全性については議論がある。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "295",
+        "protein_g": "22.8",
+        "carbs_g": "50.2",
+        "fat_g": "7.2",
+        "fiber_g": "7.4"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA",
+          "amount": "4,200 IU",
+          "daily_value_percent": "84"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "50 mg",
+          "daily_value_percent": "83"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "8.0 mg",
+          "daily_value_percent": "400"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "32.3 mg",
+          "daily_value_percent": "179"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "エストラゴール (メチルカビコール)",
+        "concentration": "精油の60-80%",
+        "health_effect": "特徴的な香りの主成分。抗痙攣、抗菌作用が報告されているが、高濃度での肝毒性の懸念も指摘されている。"
+      },
+      {
+        "compound": "ポリフェノール類",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中東・ペルシャ",
+        "medical_system": "伝統ペルシャ医学",
+        "uses": [
+          "消化促進",
+          "食欲増進",
+          "口臭予防",
+          "歯痛止め"
+        ],
+        "preparation": "生葉の咀嚼、ハーブティー"
+      },
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "駆風剤",
+          "利尿作用",
+          "月経促進"
+        ],
+        "preparation": "チンキ剤、ハーブティー"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗菌作用"
+      ],
+      "ongoing_research": [
+        "血糖値調節作用",
+        "抗炎症作用"
+      ],
+      "safety_considerations": "主成分エストラゴールには遺伝毒性と発がん性の懸念があり、欧州委員会は食品への使用を規制している。通常の食事での摂取量は安全とされるが、サプリメント等での過剰摂取は避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "料理への利用法は世界中の料理本や食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "フランス",
+        "methods": [
+          "ソースに加える",
+          "ビネガーに漬ける",
+          "生のまま刻んで使う"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "鶏肉",
+          "魚介類",
+          "卵",
+          "酢",
+          "マスタード",
+          "クリーム"
+        ]
+      },
+      {
+        "region": "東ヨーロッパ",
+        "methods": [
+          "ピクルス液に加える",
+          "マリネに使う",
+          "飲料の香りづけ"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "キュウリ",
+          "キャベツ",
+          "キノコ",
+          "ウォッカ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "香りの主成分であるエストラゴールが揮発しやすいため、風味は著しく劣化する。"
+      },
+      {
+        "method": "ビネガー漬け",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りが酢に移り、爽やかな風味のハーブビネガーとなる。葉自体は色が悪くなる。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "約6ヶ月",
+        "quality_changes": "フレッシュに近い香りを比較的良く保つことができる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘く爽やかなアニス様の香りと、わずかな苦味、胡椒のようなスパイシーさ。",
+      "aroma_compounds": [
+        "エストラゴール",
+        "メチルカビコール",
+        "フェランドレン",
+        "オシメン"
+      ],
+      "texture_characteristics": "柔らかく繊細な葉。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な気候変動耐性データは極めて限定的。栽培適地からの定性的推測が主。特にフレンチタラゴンは遺伝的多様性がなく脆弱性が高いと推定される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上が続くと生育が著しく阻害される。",
+      "cold_tolerance": "-15°C程度（休眠期）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-800mm（年間、水はけの良い土壌）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部が柔らかいため、強風や雹で傷つきやすい。",
+      "hail_damage_recovery": "根茎が健全であれば再生する可能性がある。",
+      "rapid_temperature_change": "急激な高温には弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。一般的にC3植物として光合成促進の可能性はある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によるアブラムシやハダニの増加に対して脆弱な可能性がある。",
+      "disease_resistance_stability": "フレンチタラゴンは遺伝的に均一なため、特定の病気（特に根腐れ病）の蔓延リスクが高い。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域（フランス、北イタリア、アメリカ北部など）",
+        "2050_projection": "現在の栽培適地は高温ストレスが増加し、より高緯度地域（北ヨーロッパ、カナダなど）へ適地が移動する可能性。",
+        "2100_projection": "適地の北上傾向がさらに顕著になる。",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "フレンチタラゴンは不稔性のため交雑能力がない。しかし、ロシアンタラゴンを含む種全体としては、倍数性が多様で交雑ポテンシャルを持つ。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "ロシアンタラゴン（A. dracunculus var. inodora）の様々な地理的系統間での交雑は可能。"
+      ],
+      "interspecific_compatibility": [
+        "同属のArtemisia種（ヨモギ、ニガヨモギ等）との自然交雑の可能性は報告されているが、稀である。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "フレンチタラゴン自体が自然の突然変異または雑種に由来する可能性が示唆されているが、詳細は不明。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ロシアンタラゴンには広大な原産地由来の多様なランドレースが存在する。",
+      "wild_gene_pool": "シベリアから中央アジアにかけての野生集団は、耐乾性や耐寒性などの有用な遺伝子資源の宝庫である。",
+      "adaptive_genetic_variation": "フレンチタラゴンには存在しない。ロシアンタラゴンには高い適応的遺伝変異が存在する。",
+      "inbreeding_depression_risk": "フレンチタラゴンはクローンのため該当しないが、病害への脆弱性が高い。ロシアンタラゴンは他家受精性のためリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "シベリア・中央アジアのステップ気候地帯",
+        "environmental_pressure": "極端な温度差（夏冬、昼夜）、乾燥",
+        "adaptive_response": "休眠、深い根系、化学防御物質の生産",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域生態型への分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "ロシアンタラゴンの持つ耐乾性・耐寒性をフレンチタラゴンの風味と組み合わせる育種が目標となる（ただし、不稔性の克服が課題）。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "香気成分の異なる新たなフレーバータイプの作出可能性。",
+      "hybrid_vigor_potential": "種内交雑（ロシアンタラゴンの系統間）では期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "フレンチタラゴンの不稔性（花粉・胚珠の異常）が最大の障壁。",
+      "chromosome_compatibility": "A. dracunculusは倍数性（2n=18, 36, 54, 72）が複雑で、倍数性の違いが交雑障壁となりうる。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "フレンチタラゴンを親とした戻し交配は不可能。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "草食動物による食害",
+        "adaptive_traits": "精油（エストラゴールなど）の生産",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業システムにおけるタラゴンの役割に関する直接的な研究はほとんどない。多年草であることやArtemisia属の一般的特性からの類推が主。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根と地下茎からなる根系を持つ。特に野生種に近いものは深く根を張り、土壌の物理性を改善する可能性がある。",
+      "organic_matter_contribution": "冬に地上部が枯れるため、有機物として土壌に還元される。",
+      "soil_structure_improvement": "多年生草本として、根が土壌粒子を団粒化し、安定させる効果が期待できる。",
+      "erosion_control": "一度定着すれば、根系が土壌を保持し、風食・水食を軽減する。",
+      "nutrient_cycling_role": "深い根が土壌深層から養分を吸い上げ、地表に還元する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "ロシアンタラゴンは開花し、アブやハチなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "株元がテントウムシなどの天敵昆虫の越冬場所となる可能性がある。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用については不明だが、Artemisia属はAM菌と共生することが知られている。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が水の浸透を促進する。",
+      "moisture_retention": "地上部のマルチ効果により土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的",
+      "below_ground_carbon": "多年草であるため、根系を通じて地下に炭素を蓄積するポテンシャルがある。",
+      "soil_carbon_enhancement": "継続的な有機物供給により土壌炭素の増加に寄与する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トマト",
+        "キャベツ類"
+      ],
+      "natural_pest_control": "Artemisia属特有の香りが一部の害虫（コナガなど）を忌避する効果があるとされる（アレロパシー）。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を阻害する可能性も報告されており、注意が必要。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草として、一年草作物より生態系を安定させる。",
+      "stress_tolerance": "乾燥には比較的強いが、高温と過湿には弱い。",
+      "recovery_capacity": "地下茎が残れば、地上部が損傷しても再生する。",
+      "adaptability": "フレンチタラゴンは低い。ロシアンタラゴンは高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場動向と科学的研究に基づき評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "調味料としての役割が主で、主要栄養素源ではない。",
+      "food_security_contribution": "限定的だが、地域の食文化の多様性を維持する上で重要。",
+      "local_food_system_integration": "家庭菜園や小規模農家で栽培しやすく、地域のレストランやマーケットで価値を発揮する。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "クラフトカクテル用のシロップ",
+        "ハーブビネガー",
+        "ノンアルコール飲料"
+      ],
+      "value_added_products": [
+        "精油（エッセンシャルオイル）",
+        "ハーブソルト",
+        "タラゴンマスタード"
+      ],
+      "niche_market_value": "グルメ食品市場において、代替の効かない独特の風味を持つハーブとして高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "保全状況は、栽培品種と野生種で大きく異なる。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生種の自生地である中央アジアのステップ地帯は、過放牧や開発による脅威に晒されている。",
+    "climate_change_vulnerability": "栽培品種（特にフレンチタラゴン）は高温に弱く、気候変動に対する脆弱性が高い。",
+    "cultural_erosion_risk": "伝統的な食文化がグローバル化する中で、タラゴンを使った料理の知識が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "フレンチタラゴンの遺伝資源のバックアップ（組織培養など）",
+      "野生近縁種のジーンバンクでの系統的収集と評価",
+      "伝統的利用法に関する知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "中央アジア（野生種の遺伝的多様性センター）",
+      "フランス（伝統的栽培品種の保全）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクにはロシアンタラゴンの種子が保存されているが、フレンチタラゴンの生体コレクションは限定的。",
+    "in_situ_conservation_efforts": "不明"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家AIとしての総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "フランス（栽培文化と遺伝資源）",
+      "ジョージア（飲料文化と地域品種）",
+      "カザフスタン（野生種の生態と多様性）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温・CO2）に対する生理学的応答",
+      "フレンチタラゴンの不稔性の遺伝的メカニズム",
+      "野生種の遺伝的多様性と有用形質の評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種間の違いは明確で、よく記録されている。"
+      },
+      "variety_name": "French Tarragon (Artemisia dracunculus var. sativa)",
+      "local_name": "Estragon français",
+      "origin_region": "不明（ヨーロッパで選抜）",
+      "distinctive_characteristics": "豊かで甘いアニス様の香り。種子をつけない（不稔性）ため、挿し木や株分けで増やす。",
+      "cultural_importance": "フランス料理において最高品質とされ、料理用としてはほぼこの品種を指す。",
+      "climate_adaptation": "高温多湿に弱く、耐寒性もロシアンタラゴンに劣る。",
+      "conservation_status": "栽培下で維持されているが、遺伝的に均一なクローンのため病害に脆弱。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種間の違いは明確で、よく記録されている。"
+      },
+      "variety_name": "Russian Tarragon (Artemisia dracunculus var. inodora)",
+      "local_name": "Estragon de Russie",
+      "origin_region": "シベリア",
+      "distinctive_characteristics": "香りはフレンチタラゴンより弱く、やや苦味がある。頑健で育てやすく、種子で繁殖可能。",
+      "cultural_importance": "東ヨーロッパやロシアでピクルスや飲料によく使われる。栽培の容易さから家庭菜園でも人気。",
+      "climate_adaptation": "耐寒性、耐暑性、耐乾性のいずれもフレンチタラゴンより優れる。",
+      "conservation_status": "広範な遺伝的多様性を持つ野生種として安定している。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew",
+      "USDA GRIN Global",
+      "World Flora Online",
+      "Ethnobotanical literature",
+      "Culinary history archives"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの応答の定量的データ",
+      "リジェネラティブ農業における土壌・生態系への貢献度の実証的研究",
+      "フレンチタラゴンの起源と不稔性のメカニズム"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米の情報は豊富だが、原産地である中央アジアでの文化的・遺伝的多様性に関する情報は比較的少ない。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "野生集団の保全状況に関する詳細データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

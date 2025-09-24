@@ -1,0 +1,614 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本的な植物学情報は確立されているが、野生近縁種との詳細な関係性については研究が進行中。"
+    },
+    "primary_name": "Black Salsify",
+    "scientific_name": "Scorzonera hispanica",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "葉",
+      "花"
+    ],
+    "origin_region": "南ヨーロッパ、近東",
+    "wild_relatives": [
+      "Scorzonera humilis",
+      "Scorzonera parviflora"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパ言語圏での名称は広く記録されているが、他の地域での名称は限定的。"
+    },
+    "international": {
+      "en": [
+        "Black Salsify",
+        "Spanish Salsify",
+        "Viper's Grass"
+      ],
+      "scientific_common": "Scorzonera"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Scorsonère",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Schwarzwurzel",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Escorzonera",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Scorzonera",
+            "script": "Latn"
+          },
+          {
+            "lang": "nl",
+            "name": "Schorseneer",
+            "script": "Latn"
+          },
+          {
+            "lang": "ru",
+            "name": "Скорцонера испанская",
+            "script": "Cyrl"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物分類学的情報は国際的なデータベースで確立されている。"
+    },
+    "family": {
+      "en": "Daisy family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Scorzonera",
+      "la": "Scorzonera"
+    },
+    "species": {
+      "en": "Spanish salsify",
+      "la": "hispanica"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ヨーロッパでの歴史的・料理的価値は記録されているが、それ以外の地域での文化的重要性の情報は乏しい。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ（特にフランス、ベルギー、オランダ、ドイツ）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "主に冬野菜として利用される。かつては薬草として、特に蛇の咬傷に対する解毒剤として信じられていた（Viper's Grassの由来）。現在は美食家向けの野菜としての価値が高い。",
+        "seasonal_significance": "秋から冬にかけて収穫され、冬の食卓を豊かにする根菜として重要。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理、ベルギー料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Scorsonères à la crème (クリーム煮)",
+          "Salsifis frits (フリット)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "蒸す",
+          "炒める",
+          "揚げる",
+          "ロースト"
+        ],
+        "cultural_context": "伝統的な冬の野菜であり、近年ではその繊細な風味から高級レストランで再評価されている。「貧者のアスパラガス」とも呼ばれた歴史がある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中世から薬用及び食用として知られていた。16世紀頃にスペインで栽培が始まり、ヨーロッパ各地に広まった。",
+      "trade_routes": "不明",
+      "cultural_exchange": "スペインからフランス、イタリア、低地諸国へと伝播し、各地域の料理文化に取り入れられた。",
+      "domestication_history": "南ヨーロッパ原産の野生種から選抜育種され、栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不適。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "冬が温暖すぎると根の生育が不十分になる可能性がある。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な気候を好み、特に夏の終わりから秋にかけての気温低下が根の肥大を促す。深く、石のない、水はけの良い砂質土壌が最適。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さに注意が必要だが、耐寒性が高く、冬越しが可能。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "原産地が地中海性気候であるため、乾燥には比較的強いが、生育期には適切な灌漑が必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3月～5月）",
+        "harvest_season": "秋～冬（10月～翌3月）",
+        "growing_period_days": "120-180"
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 20,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌の深さと質",
+        "石の有無",
+        "播種時期",
+        "雑草管理",
+        "水管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ベルギー",
+          "production_share": null,
+          "characteristics": "高品質な製品で知られ、主要な輸出国。"
+        },
+        {
+          "country": "フランス",
+          "production_share": null,
+          "characteristics": "国内消費が多く、伝統的な栽培地域が存在する。"
+        },
+        {
+          "country": "オランダ",
+          "production_share": null,
+          "characteristics": "近代的な栽培技術で生産されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分は分析されているが、機能性成分に関する詳細な研究は限定的。伝統的薬用利用は民族植物学的記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "82",
+        "protein_g": "3.3",
+        "carbs_g": "18.6",
+        "fat_g": "0.2",
+        "fiber_g": "3.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "380mg",
+          "daily_value_percent": 8
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "3.3mg",
+          "daily_value_percent": 18
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "8mg",
+          "daily_value_percent": 9
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "60mg",
+          "daily_value_percent": 5
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "イヌリン",
+        "concentration": "高い",
+        "health_effect": "プレバイオティクス効果（腸内環境改善）、血糖値上昇抑制"
+      },
+      {
+        "compound": "ポリフェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "蛇の咬傷の治療",
+          "利尿作用",
+          "食欲増進",
+          "肝臓・胆嚢の不調改善"
+        ],
+        "preparation": "根の煎じ薬や湿布として利用された。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "プレバイオティクス効果による腸内フローラの改善"
+      ],
+      "ongoing_research": [
+        "血糖コントロールへの影響",
+        "抗酸化能"
+      ],
+      "safety_considerations": "一般的に安全とされるが、キク科アレルギーを持つ人は注意が必要な場合がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパの料理文化における利用法は広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "茹でる",
+          "蒸す",
+          "ロースト",
+          "ソテー",
+          "フリット",
+          "ピューレ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "クリームソース",
+          "バター",
+          "パセリ",
+          "ナツメグ",
+          "レモン",
+          "肉料理の付け合わせ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "瓶詰め、缶詰",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "食感が柔らかくなり、風味が若干変化する。"
+      },
+      {
+        "method": "土中貯蔵",
+        "regions": [
+          "ヨーロッパの家庭菜園"
+        ],
+        "shelf_life": "数ヶ月（冬の間）",
+        "quality_changes": "収穫直後の品質を保つことができる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "カキ（オイスター）に似た風味、ナッツのような香り、アーティチョークやアスパラガスを思わせる繊細な甘みとほのかな土の香り。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理後は柔らかく、滑らか。繊維質は少ない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐乾性や耐寒性は経験的に知られているが、気候変動シナリオ下での定量的データは非常に少ない。評価は主に植物の特性と原産地の気候からの類推に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-10°C以下"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い（深根性のため）",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地上部は倒れる可能性があるが、地下部は影響を受けにくい）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "高い（特に耐寒性）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明",
+      "disease_resistance_stability": "比較的病害虫に強いとされるが、温暖化による新規病害虫への耐性は不明。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "ヨーロッパ中西部、南ヨーロッパ",
+        "2050_projection": "栽培適地が北上し、北ヨーロッパやスカンジナビア南部での栽培可能性が高まる。南ヨーロッパでは夏の高温と干ばつが課題となる可能性。",
+        "2100_projection": "北上傾向がさらに顕著になる可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Scorzonera属の種多様性は高いが、S. hispanicaと他種との自然交雑に関する具体的な研究は限定的。評価は属の特性に基づくポテンシャルの推定。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多様な欧州の在来品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Scorzonera属の他の多くの種と交雑する可能性が指摘されている。"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパ各地に在来品種が存在したが、商業化により多様性は減少傾向にある。",
+      "wild_gene_pool": "原産地である南ヨーロッパや近東に存在する野生の近縁種が重要な遺伝子プールとなる。",
+      "adaptive_genetic_variation": "野生集団には高い適応的遺伝変異が存在すると推定される。",
+      "inbreeding_depression_risk": "商業品種では中程度のリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、耐乾性や耐病性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "栄養価や機能性成分の含有量を高める可能性がある。",
+      "novel_characteristics": "根の形状、大きさ、風味などの新しい形質を獲得する可能性がある。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "Scorzonera属内で倍数性が報告されており、染色体適合性が課題となる場合がある。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ、土壌塩分、病害虫",
+        "adaptive_traits": "深根性、浸透圧調整能力、二次代謝産物生産",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "リジェネラティブ農業システムでの役割に関する直接的な研究は少ないが、植物の生物学的特性から高いポテンシャルが推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "非常に長い主根（タップルート）を持ち、土壌の硬盤層を穿孔する能力（バイオドリリング）がある。",
+      "organic_matter_contribution": "収穫後、細根や地上部残渣が土壌有機物となる。",
+      "soil_structure_improvement": "深根が土壌に孔隙を作り、通気性や水はけを改善する。",
+      "erosion_control": "不明",
+      "nutrient_cycling_role": "土壌深層から養分を吸い上げ、表層に還元する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "キク科の黄色い花は、ハチやアブなど多様な花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根圏で多様な微生物群集と共生していると推定される。",
+      "above_ground_biodiversity": "開花時に訪花昆虫を増やすことで貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作ったチャンネルが水の浸透を促進する。",
+      "moisture_retention": "土壌構造改善により、土壌の保水性を高める可能性がある。",
+      "runoff_reduction": "水の浸透を促進することで、地表流出を減らす可能性がある。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深根性のため、土壌深層への炭素貯留ポテンシャルが高い。",
+      "soil_carbon_enhancement": "根の分解物や根圏堆積物を通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "不明"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "土壌構造の改善と生物多様性の向上を通じて、システムの安定性に貢献する。",
+      "stress_tolerance": "深根性により干ばつなどのストレスに対するシステムの緩衝能力を高める。",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食トレンドや市場における位置づけは、食文化関連のメディアで広く議論されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食物繊維（特にイヌリン）が豊富で、腸内環境を整える健康的な野菜として価値が高い。",
+      "food_security_contribution": "冬期の食料供給源（ウィンタークロップ）として、また気候変動下での安定生産が期待される作物として貢献しうる。",
+      "local_food_system_integration": "家庭菜園や小規模農家での栽培に適しており、地域の食の多様性を高める。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向け市場",
+        "高級レストラン・ガストロノミー市場",
+        "忘れられた野菜（forgotten vegetables）のトレンド"
+      ],
+      "value_added_products": [
+        "プレバイオティクス食品の原料（イヌリン抽出）",
+        "ベビーフード",
+        "冷凍野菜",
+        "スープ"
+      ],
+      "niche_market_value": "ユニークな風味と歴史的背景から、ニッチ市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としての絶滅リスクは低いが、遺伝的多様性、特に地域在来品種の消失リスクが懸念される。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の生息地は、開発や土地利用の変化による脅威に晒されている。",
+    "climate_change_vulnerability": "野生集団は気候変動の影響を受ける可能性がある。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "地域在来品種の収集・保存（ジーンバンク）",
+      "伝統的な栽培知識の記録と継承",
+      "オンファーム（農家による）保全の推進"
+    ],
+    "priority_conservation_regions": [
+      "南ヨーロッパ",
+      "コーカサス",
+      "近東"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには種子が保存されているが、在来品種の網羅性は不十分。",
+    "in_situ_conservation_efforts": "限定的"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本分析に基づき、総合的な評価を実施。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "南ヨーロッパ",
+      "ベルギー、フランスの伝統的栽培地域"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、CO2濃度上昇）に対する生理学的応答の定量的データ",
+      "野生近縁種との交雑親和性と遺伝子移入の可能性",
+      "リジェネラティブ農業システムにおける具体的な生態系サービス（炭素貯留量、水循環改善効果など）の測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に商業種子カタログや園芸書に基づいている。"
+      },
+      "variety_name": "Hoffmanns Schwarzer Pfahl",
+      "local_name": "Hoffmanns Schwarzer Pfahl",
+      "origin_region": "ドイツ",
+      "distinctive_characteristics": "非常に長く、滑らかで均一な黒い根。高い収量性。",
+      "cultural_importance": "ドイツ語圏で広く栽培されている標準的な品種。",
+      "climate_adaptation": "温帯気候に適応。",
+      "conservation_status": "商業的に利用可能"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に商業種子カタログや園芸書に基づいている。"
+      },
+      "variety_name": "Lange Jan",
+      "local_name": "Lange Jan",
+      "origin_region": "オランダ",
+      "distinctive_characteristics": "名前の通り非常に長い（'Long John'）根を持つ。生育が旺盛。",
+      "cultural_importance": "オランダやベルギーで人気の品種。",
+      "climate_adaptation": "冷涼な海洋性気候に適応。",
+      "conservation_status": "商業的に利用可能"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "品種情報は主に商業種子カタログや園芸書に基づいている。"
+      },
+      "variety_name": "Géante de Russie",
+      "local_name": "Géante de Russie",
+      "origin_region": "不明（名称はロシアを示唆）",
+      "distinctive_characteristics": "太く、大きな根を形成する。耐寒性が強いとされる。",
+      "cultural_importance": "一部の愛好家や種子交換ネットワークで維持されている。",
+      "climate_adaptation": "寒冷地に適応している可能性がある。",
+      "conservation_status": "希少"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "Plants for a Future (PFAF)",
+      "Royal Botanic Gardens, Kew",
+      "USDA National Nutrient Database",
+      "ethnobiological journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種との遺伝的関係性"
+    ],
+    "regional_data_coverage": "ヨーロッパに偏っており、他の地域に関するデータは非常に少ない。",
+    "missing_information": [
+      "アジア、アフリカ、アメリカ大陸での栽培・利用実績",
+      "先住民コミュニティによる利用例"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

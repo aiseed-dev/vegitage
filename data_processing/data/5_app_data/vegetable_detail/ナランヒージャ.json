@@ -1,0 +1,605 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew, GRIN-Global）および農業研究機関の刊行物から統合。野生近縁種に関する情報は専門的な文献に依存する。"
+    },
+    "primary_name": "Naranjilla",
+    "scientific_name": "Solanum quitoense Lam.",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "果実"
+    ],
+    "origin_region": "南米アンデス山脈地域（コロンビア、エクアドル、ペルー）",
+    "wild_relatives": [
+      "Solanum pectinatum",
+      "Solanum vestissimum",
+      "Solanum hirtum",
+      "Solanum sessiliflorum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の呼称は民族植物学の記録と国際食品データベースから収集。先住民言語の記録は限定的。"
+    },
+    "international": {
+      "en": [
+        "Naranjilla",
+        "Lulo"
+      ],
+      "scientific_common": "Quito orange"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Naranjilla",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Lulo",
+            "script": "Latin"
+          },
+          {
+            "lang": "qu",
+            "name": "lulum",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アンデス地域のケチュア語話者コミュニティ",
+        "name": "Lulo",
+        "cultural_significance": "名称自体が先住民の言語に由来し、地域の食文化と深く結びついていることを示す。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類情報は国際的な植物分類体系（APG IV）に基づいている。"
+    },
+    "family": {
+      "en": "Nightshade family",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Nightshade",
+      "la": "Solanum"
+    },
+    "species": {
+      "en": "Naranjilla",
+      "la": "quitoense"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "quitoense (有棘種)"
+      },
+      {
+        "rank": "var.",
+        "name": "septentrionale (無棘種)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アンデス地域での文化的重要性に関する情報は豊富だが、それ以外の地域では情報が乏しい。歴史的伝播の詳細な記録は少ない。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南米（アンデス地域）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "飲料原料"
+        ],
+        "traditional_uses": "主にフレッシュジュース（Jugo de Lulo/Naranjilla）として消費され、地域のアイデンティティを象徴する味となっている。アイスクリーム、デザート、ソースの原料としても不可欠。",
+        "seasonal_significance": "年間を通じて収穫可能だが、雨季に生産量が増加し、日常的な飲料として消費が盛んになる。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "コロンビア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Lulada",
+          "Jugo de Lulo",
+          "Champús"
+        ],
+        "preparation_methods": [
+          "ジュース化",
+          "ブレンド"
+        ],
+        "cultural_context": "特にカリ市周辺では「Lulada」という飲み物が地域の象徴であり、人々の集いや祝祭に欠かせない。"
+      },
+      {
+        "cuisine": "エクアドル料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Jugo de Naranjilla",
+          "Canelazo（風味付け）",
+          "Helado de Paila"
+        ],
+        "preparation_methods": [
+          "ジュース化",
+          "シロップ化"
+        ],
+        "cultural_context": "国民的なジュースとして広く飲まれ、伝統的な市場や家庭の食卓で日常的に提供される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "先コロンブス期からアンデス地域で利用されていたと考えられているが、考古学的証拠は限定的。",
+      "trade_routes": "歴史的に広域交易の対象ではなく、地域内で消費されるローカルな作物であった。",
+      "cultural_exchange": "不明",
+      "domestication_history": "栽培化の正確な起源は不明だが、コロンビア南部からエクアドル北部のアンデス山麓が原産地とされ、そこで栽培化されたと推定されている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "低地熱帯では高温と病害虫のため栽培不可。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "標高1,200-2,400mの冷涼な亜熱帯山地気候。年間平均気温17-20℃、高い空中湿度、年間降水量1,500mm以上。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱いため、温帯での露地栽培は困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "気温の年較差が大きく、乾燥する大陸性気候には適さない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度を必要とするため、乾燥地での栽培は不可。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "アンデス山脈の高地（熱帯高山気候）が原産地であり、栽培適地である。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯高地",
+        "planting_season": "通年",
+        "harvest_season": "植え付け後6-12ヶ月で開始し、その後1-2年間継続",
+        "growing_period_days": 365
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000-15,000 kg/ha",
+      "factors_affecting_yield": [
+        "ネコブセンチュウによる被害",
+        "フザリウム萎凋病",
+        "炭疽病",
+        "受粉率",
+        "土壌の排水性"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "コロンビア",
+          "production_share": null,
+          "characteristics": "国内消費が主。ルロ（Lulo）として知られ、ジュース産業が盛ん。"
+        },
+        {
+          "country": "エクアドル",
+          "production_share": null,
+          "characteristics": "国内消費が主。ナランヒラ（Naranjilla）として知られ、生ジュースとしての人気が高い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変動に関する科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づくもので、科学的検証は十分ではない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "25",
+        "protein_g": "0.6",
+        "carbs_g": "5.7",
+        "fat_g": "0.1",
+        "fiber_g": "1.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "30-70 mg/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンA (β-カロテン)",
+          "amount": "600 IU/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "0.5 mg/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "リン",
+          "amount": "40 mg/100g",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール化合物",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "ルテイン",
+        "concentration": "不明",
+        "health_effect": "目の健康維持"
+      },
+      {
+        "compound": "ソラソジン（未熟果）",
+        "concentration": "不明",
+        "health_effect": "毒性アルカロイドであり注意が必要。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米アンデス地域",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "利尿剤",
+          "高血圧の緩和",
+          "コレステロール低下"
+        ],
+        "preparation": "果実をジュースにして飲用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化活性",
+        "抗炎症作用"
+      ],
+      "safety_considerations": "未熟果や植物の他の部分に含まれるステロイドアルカロイド（ソラソジン等）には毒性があるため、完熟した果実のみを食用とすべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "調理法に関する情報は、原産地の料理文化において非常によく記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南米",
+        "methods": [
+          "ジュース化",
+          "スムージー",
+          "ジャム",
+          "アイスクリーム",
+          "カクテル",
+          "肉料理用ソース"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "砂糖",
+          "水",
+          "牛乳",
+          "アグアルディエンテ（蒸留酒）",
+          "シナモン"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍果肉",
+        "regions": [
+          "コロンビア",
+          "エクアドル",
+          "北米（輸入品）"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "風味は比較的よく保持されるが、新鮮なものとはわずかに異なる。"
+      },
+      {
+        "method": "濃縮果汁",
+        "regions": [
+          "コロンビア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "加熱処理により香りが変化することがある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い酸味と爽やかな香り。パイナップルとルバーブ、またはキウイとライムを混ぜたような独特の風味。",
+      "aroma_compounds": [
+        "メチルブチレート",
+        "エチルブチレート"
+      ],
+      "texture_characteristics": "果肉はゼリー状で、多数の小さな種子を含む。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動への応答に関する定量的な実験データは非常に少ない。評価は、栽培適地の気候条件と病害虫の生態に基づく専門家の定性的推定に大きく依存している。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "17-20°C",
+      "extreme_heat_survival": "30°C以上で生育不良、落花",
+      "cold_tolerance": "0°C以下で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2500 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が脆く、強風で折れやすい。",
+      "hail_damage_recovery": "葉や果実が傷つきやすく、回復力は低い。",
+      "rapid_temperature_change": "適応力は低いと推定される。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高地原産であるため、ある程度のUV耐性はあると推定されるがデータはない。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、ネコブセンチュウや病害を媒介する昆虫の生息域が標高の高い栽培適地に拡大するため、被害の深刻化が懸念される。",
+      "disease_resistance_stability": "既存の病害に対する抵抗性が低いため、環境変化による新たな病原菌の出現に脆弱である。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アンデス山脈の標高1,200-2,400m地帯",
+        "2050_projection": "現在の栽培地の下限標高が上昇し、より高地へ移動する可能性が高い。全体的な適地は縮小すると予測される。",
+        "2100_projection": "適地の大幅な縮小が予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 2
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "人為的な交配（育種）に関する研究は存在するが、自然環境下での交雑事例に関する情報は限定的。近縁種との交雑親和性データは育種プログラムから得られたものが多い。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "var. quitoense",
+        "var. septentrionale"
+      ],
+      "interspecific_compatibility": [
+        "Solanum sessiliflorum (cocona)",
+        "Solanum hirtum",
+        "Solanum candidum",
+        "Solanum macranthum"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "コロンビア、エクアドルの原産地には形態的多様性を持つ在来品種が存在するが、病害により多くが失われつつある。",
+      "wild_gene_pool": "近縁野生種は病害虫抵抗性遺伝子の供給源として重要視されている。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "自家不和合性の傾向があり、他家受粉が主であるためリスクは低いが、栽培地域の断片化が遺伝的多様性を低下させる可能性がある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "近縁種との交雑により、ネコブセンチュウ抵抗性、フザリウム萎凋病抵抗性を導入する育種が進められている。",
+      "hybrid_vigor_potential": "種間雑種において雑種強勢が報告されている。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部の種間交雑では、胚珠の敗退など交雑後の障壁が見られる。",
+      "chromosome_compatibility": "Solanum属Lasiocarpa節内の種とは染色体適合性が比較的高い。",
+      "fertility_of_hybrids": "S. quitoense x S. sessiliflorum のF1雑種は稔性を持つ。",
+      "backcrossing_success": "抵抗性導入のための戻し交配が育種プログラムで実施されている。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈で本種を直接研究したデータはほぼ存在しない。評価は、植物の一般的特性と伝統的な栽培法からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、繊維状の根系。土壌の深層改良効果は低い。",
+      "organic_matter_contribution": "落葉による有機物供給がある。有機質に富んだ土壌を好むため、堆肥やマルチングとの相性が良い。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "常緑の低木であるため、年間を通じて土壌表面を被覆し、降雨による侵食を軽減する効果がある。",
+      "nutrient_cycling_role": "特筆すべき能力は知られていない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はマルハナバチなどの在来ハチ類によって受粉され、地域の送粉者生態系を支える。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "伝統的なアグロフォレストリーシステムでは、多様な生物の生息地の一部となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "不明",
+      "moisture_retention": "マルチングと組み合わせることで土壌水分保持に貢献する可能性がある。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "小規模な木本植物として炭素を固定するが、大規模な樹木に比べると量は少ない。",
+      "below_ground_carbon": "根系が浅いため、地下部への炭素貯留能力は限定的。",
+      "soil_carbon_enhancement": "有機物施用を前提とするため、土壌炭素の増加に間接的に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "伝統的にコーヒーやバナナ、他の果樹の樹冠下で栽培される（アグロフォレストリー）。"
+      ],
+      "natural_pest_control": "多様な作物を混植することで、特定の病害虫の大発生を抑制する効果が期待される。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "単作栽培では非常に脆弱。アグロフォレストリーのような多様なシステムに組み込むことで、生態系の安定性に貢献する。",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "低い",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 4
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場性に関する情報は存在するが、食料安全保障への貢献に関する分析は少ない。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "独特の風味を持つ果物として、植物性食品の多様性を高める。",
+      "food_security_contribution": "主食ではないが、アンデス地域の小規模農家にとって重要な現金収入源となり、生計向上に貢献する。",
+      "local_food_system_integration": "原産地では地域の食文化と市場に深く統合されている。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エキゾチックフルーツジュース市場",
+        "グルメ食品（ソース、ジャム）",
+        "クラフトカクテル原料"
+      ],
+      "value_added_products": [
+        "冷凍果肉",
+        "濃縮果汁",
+        "フレーバーシロップ"
+      ],
+      "niche_market_value": "ユニークな風味プロファイルにより、ニッチ市場での高い価値を持つ可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の喪失リスクは指摘されているが、定量的な評価は不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "栽培適地である山地森林の伐採が脅威となる。",
+    "climate_change_vulnerability": "高",
+    "cultural_erosion_risk": "栽培の困難さから農家が栽培を放棄し、伝統的な利用法や品種が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来品種の生息域内（in-situ）保全の推進",
+      "種子および組織培養による生息域外（ex-situ）保全の強化",
+      "病害虫抵抗性を持つ品種の育種と普及",
+      "伝統的アグロフォレストリーシステムの維持支援"
+    ],
+    "priority_conservation_regions": [
+      "コロンビア南部のアンデス地域",
+      "エクアドル北部のアンデス地域"
+    ],
+    "ex_situ_conservation_status": "いくつかの国際的・国内的ジーンバンクで種子が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的。主に小規模農家によって維持されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家の視点に基づく統合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "コロンビア・バジェ・デル・カウカ県",
+      "エクアドル・インバブーラ県"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオに対する生理学的応答の定量的データ",
+      "土壌微生物叢との相互作用",
+      "在来品種の遺伝的多様性の網羅的評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "明確に定義された商業品種は少なく、主に形態的な変種や地域のランドレースとして区別される。"
+      },
+      "variety_name": "Solanum quitoense var. quitoense",
+      "local_name": "Naranjilla común",
+      "origin_region": "エクアドル、ペルー",
+      "distinctive_characteristics": "植物全体が紫色の硬い棘で覆われている。",
+      "cultural_importance": "伝統的な栽培形態と考えられている。",
+      "climate_adaptation": "不明",
+      "conservation_status": "栽培が困難なため減少しつつある。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "明確に定義された商業品種は少なく、主に形態的な変種や地域のランドレースとして区別される。"
+      },
+      "variety_name": "Solanum quitoense var. septentrionale",
+      "local_name": "Lulo de Castilla, Naranjilla sin espinas",
+      "origin_region": "コロンビア",
+      "distinctive_characteristics": "植物全体に棘がないため、栽培管理や収穫が容易。",
+      "cultural_importance": "商業栽培で主流となっている。",
+      "climate_adaptation": "不明",
+      "conservation_status": "広く栽培されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Germplasm Resources Information Network (GRIN-Global)",
+      "World Flora Online",
+      "CGIAR research publications",
+      "Ethnobotanical studies on Andean crops"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの定量的応答データ",
+      "リジェネラティブ農業システムにおける生態系サービス機能の評価",
+      "在来品種の網羅的な遺伝子解析と保全状況"
+    ],
+    "regional_data_coverage": "南米アンデス地域に集中しており、その他の地域に関するデータはほぼ皆無。",
+    "missing_information": [
+      "年間総生産量の信頼できる統計データ",
+      "自然環境下での交雑事例",
+      "土壌改良効果に関する実証データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

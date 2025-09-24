@@ -1,0 +1,764 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、FAOSTAT、国際熱帯農業センター(CIAT)の情報を統合。学術文献で広く裏付けられている。"
+    },
+    "primary_name": "Cassava",
+    "scientific_name": "Manihot esculenta",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "葉"
+    ],
+    "origin_region": "南米（ブラジル南西部のアマゾン川流域と推定）",
+    "wild_relatives": [
+      "Manihot esculenta ssp. flabellifolia"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学データベースおよび各地域の言語資料から収集。"
+    },
+    "international": {
+      "en": [
+        "Cassava",
+        "Manioc",
+        "Yuca",
+        "Tapioca plant"
+      ],
+      "scientific_common": "Manioc"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Yuca",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Mandioca",
+            "script": "Latn"
+          },
+          {
+            "lang": "qu",
+            "name": "Rumu",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Muhogo",
+            "script": "Latn"
+          },
+          {
+            "lang": "yo",
+            "name": "Ègè",
+            "script": "Latn"
+          },
+          {
+            "lang": "ig",
+            "name": "Akpụ",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Manioc",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Singkong",
+            "script": "Latn"
+          },
+          {
+            "lang": "ms",
+            "name": "Ubi kayu",
+            "script": "Latn"
+          },
+          {
+            "lang": "tl",
+            "name": "Kamoteng kahoy",
+            "script": "Latn"
+          },
+          {
+            "lang": "th",
+            "name": "มันสำปะหลัง",
+            "script": "Thai"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "ta",
+            "name": "Maravalli kizhangu",
+            "script": "Taml"
+          },
+          {
+            "lang": "ml",
+            "name": "Kappa",
+            "script": "Mlym"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "トゥピ族（ブラジル）",
+        "name": "Mani'oca",
+        "cultural_significance": "創造神話に登場し、'マニの家'を意味する。毒抜き（シアン化合物除去）の技術は、重要な文化的知識として伝承されている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Spurge family",
+      "la": "Euphorbiaceae"
+    },
+    "genus": {
+      "en": "Manihot",
+      "la": "Manihot"
+    },
+    "species": {
+      "en": "Cassava",
+      "la": "Manihot esculenta"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Manihot esculenta subsp. flabellifolia"
+      },
+      {
+        "rank": "subspecies",
+        "name": "Manihot esculenta subsp. peruviana"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "文化人類学、民族植物学、農業史の文献に基づき評価。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "サハラ以南アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "飢饉対策作物"
+        ],
+        "traditional_uses": "発酵させて作るフフやガリは数億人の主食。茎は植え付け用の苗として、葉は貴重なタンパク源の野菜として利用される。食料安全保障の要。",
+        "seasonal_significance": "年間を通じて収穫可能であるため、他の作物の収穫が少ない時期の食料を保障する「飢饉の友」として重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南米",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "原産地であり、数千年前から栽培。ファリーニャ（焙煎した粉）やタピオカの原料。先住民文化では、発酵させて作る飲料（カウイン）が儀式で用いられる。",
+        "seasonal_significance": "伝統的な焼畑農業システムにおいて、土壌の再生サイクルと密接に関連している。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "加工食品原料"
+        ],
+        "traditional_uses": "主食としての重要度は米に次ぐが、菓子やデザートの材料として広く利用。タピオカパールや工業用デンプンの主要原料であり、経済的に重要。",
+        "seasonal_significance": "乾季に強い特性から、米作が困難な土地や時期の代替作物として栽培される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "西アフリカ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Fufu",
+          "Gari",
+          "Eba"
+        ],
+        "preparation_methods": [
+          "発酵",
+          "すりおろし",
+          "乾燥",
+          "焙煎",
+          "茹でる"
+        ],
+        "cultural_context": "共同での調理プロセスがコミュニティの結束を強める。食事の中心であり、エネルギー源として不可欠。"
+      },
+      {
+        "cuisine": "ブラジル料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Farofa",
+          "Pão de queijo",
+          "Tucupi"
+        ],
+        "preparation_methods": [
+          "製粉",
+          "焙煎",
+          "圧搾",
+          "発酵"
+        ],
+        "cultural_context": "国民食であるフェイジョアーダに添えるファロファは必須。先住民の食文化から国民全体に広がった代表例。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前7000年頃にはアマゾン川流域で栽培化が始まったとされる。",
+      "trade_routes": "16世紀にポルトガル人によってアフリカに導入され、その後アジアへ伝播。奴隷貿易と密接に関連し、安価な食料として世界中に広まった。",
+      "cultural_exchange": "キャッサバの毒抜き加工技術は、南米先住民の高度な植物知識の証であり、その技術が作物とともに世界に伝わった。",
+      "domestication_history": "野生種のManihot esculenta ssp. flabellifoliaから、数千年かけて人間の選択圧により塊根が大きく、毒性の少ない品種が選抜されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間平均気温25-29℃、年間降水量1000-2000mm。高温多湿を好む。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜が降りない地域。生育期間が長くなるが栽培可能。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱く、生育できない。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の低温と霜により栽培不可能。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "極めて高い耐乾性を持つが、収量は水分に依存する。年間降水量500mm程度でも生存可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため栽培不可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "年間を通じて可能（雨季の初めが最適）",
+        "harvest_season": "植え付け後8-24ヶ月で、年間を通じて収穫可能",
+        "growing_period_days": 240
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 40,000 kg/ha（品種や栽培条件による）",
+      "factors_affecting_yield": [
+        "品種",
+        "土壌肥沃度",
+        "降水量",
+        "病害虫（特にキャッサバモザイク病）",
+        "栽培管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約3億3000万トン（2022年, FAO）",
+      "major_producers": [
+        {
+          "country": "ナイジェリア",
+          "production_share": 20.0,
+          "characteristics": "世界最大の生産国。国内消費が中心で、小規模農家が主体。"
+        },
+        {
+          "country": "コンゴ民主共和国",
+          "production_share": 12.0,
+          "characteristics": "食料安全保障の基幹作物。生産性の向上が課題。"
+        },
+        {
+          "country": "タイ",
+          "production_share": 9.0,
+          "characteristics": "輸出志向型生産。デンプンやタピオカ製品への加工が盛ん。"
+        },
+        {
+          "country": "ガーナ",
+          "production_share": 7.0,
+          "characteristics": "国内消費と地域市場への供給が中心。"
+        },
+        {
+          "country": "ブラジル",
+          "production_share": 5.0,
+          "characteristics": "原産国の一つ。食用および工業用として多様な利用が進んでいる。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "塊根の基本的な栄養価は広く知られているが、数千に及ぶ品種ごとの詳細な栄養価や機能性成分のデータは限定的。葉の栄養価データも同様。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "160",
+        "protein_g": "1.4",
+        "carbs_g": "38.1",
+        "fat_g": "0.3",
+        "fiber_g": "1.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "20.6 mg",
+          "daily_value_percent": 23
+        },
+        {
+          "nutrient": "チアミン (B1)",
+          "amount": "0.087 mg",
+          "daily_value_percent": 7
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "271 mg",
+          "daily_value_percent": 6
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "シアノグリコシド（リナマリン、ロタウストラリン）",
+        "concentration": "品種により大きく異なる（15-400 mg/kg）",
+        "health_effect": "毒性。不適切な処理はシアン中毒（コンゾ）を引き起こす。適切に処理すれば無害化される。"
+      },
+      {
+        "compound": "カロテノイド（β-カロテン）",
+        "concentration": "黄色種の品種に豊富",
+        "health_effect": "プロビタミンAとして機能し、視力維持や免疫機能に寄与。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米",
+        "medical_system": "アマゾン先住民の伝統医療",
+        "uses": [
+          "下痢止め",
+          "解熱",
+          "皮膚病の湿布"
+        ],
+        "preparation": "生の塊根の搾り汁を外用、または特定の部位を煎じて内服（注意深く使用）。"
+      },
+      {
+        "region": "アフリカ",
+        "medical_system": "民間療法",
+        "uses": [
+          "赤痢の治療",
+          "解熱",
+          "腫れ物の治療"
+        ],
+        "preparation": "葉の煎じ薬や、塊根をすりおろした湿布。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "優れたエネルギー源",
+        "グルテンフリー食品の原料"
+      ],
+      "ongoing_research": [
+        "バイオ強化品種（ビタミンA、鉄、亜鉛）の開発",
+        "難消化性デンプンによる腸内環境改善効果",
+        "バイオエタノール原料としての効率化"
+      ],
+      "safety_considerations": "全ての品種が生の状態で有毒なシアノグリコシドを含むため、必ず皮をむき、水にさらし、加熱、発酵などの適切な毒抜き処理が必要。特に苦味種は毒性が強い。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の食文化に関する文献やレシピデータベースから情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アフリカ",
+        "methods": [
+          "茹でて搗く",
+          "発酵させてペースト状にする",
+          "乾燥・焙煎して粉にする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "スープ",
+          "シチュー",
+          "葉物野菜"
+        ]
+      },
+      {
+        "region": "南米",
+        "methods": [
+          "揚げる",
+          "茹でる",
+          "ローストする",
+          "製粉してパンやケーキにする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "肉料理",
+          "豆料理",
+          "チーズ"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "蒸す",
+          "茹でる",
+          "揚げる",
+          "デザートの材料にする"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "砂糖",
+          "パンダンリーフ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "発酵・乾燥（ガリ製造）",
+        "regions": [
+          "西アフリカ"
+        ],
+        "shelf_life": "数ヶ月から1年以上",
+        "quality_changes": "酸味と香ばしい風味が付与され、保存性が劇的に向上。シアン化合物が除去される。"
+      },
+      {
+        "method": "製粉（ファリーニャ製造）",
+        "regions": [
+          "ブラジル"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "水分が除去され、香ばしくなり、保存性が向上。シアン化合物が除去される。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中（商業流通）"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "収穫後の劣化を止め、利便性を高める。風味や食感の変化は少ない。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘味種は淡白でわずかに甘く、ナッツのような風味。苦味種は苦みが強い。加工後はデンプン由来のニュートラルな味が主体。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "生の状態では硬く、加熱すると品種によりホクホク（粉質）またはモチモチ（粘質）になる。繊維質が多い。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的評価は多数存在するが、極端気象への耐性やCO2濃度変化への応答に関する定量的な品種レベルの研究は進行中。将来予測は広域モデルに基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-29°C",
+      "extreme_heat_survival": "40℃を超える高温にも一定期間耐えることができるが、成長は阻害される。",
+      "cold_tolerance": "5-10°C以下で生育が停止し、霜に当たると枯死する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "C3植物としては高い。乾燥時には気孔を閉じ、葉を落として水分の蒸散を抑える戦略をとる。",
+      "flood_tolerance": "低。土壌が湛水状態になると数日で根腐れを起こしやすい。",
+      "optimal_rainfall": "1000-1500 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。茎はしなやかだが、非常に強い風で折れることがある。しかし、残った茎から再生可能。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "あり。CO2濃度の上昇により光合成効率が向上し、塊根の収量が増加することが実験で示されている。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりコナジラミやハダニなどの害虫の発生地域が拡大するリスクがある。",
+      "disease_resistance_stability": "キャッサバモザイク病や褐色条斑病などのウイルス病が深刻であり、温暖化がウイルスの媒介昆虫の活動を活発化させる懸念がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯の低地",
+        "2050_projection": "アフリカ南部や南米の一部の亜熱帯地域で栽培適地が拡大する可能性がある。一方で、一部の熱帯地域では過度の高温や降雨パターンの変化により収量が不安定になる可能性も指摘されている。",
+        "2100_projection": "不明",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種の遺伝的多様性と野生近縁種に関する研究は進んでいるが、自然環境下での交雑実例に関する具体的な報告は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "数千の在来種や改良品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "ブラジルには100種近い野生のManihot属が存在し、M. glazioviiなど一部の種とは人為的な交雑が可能で、耐病性などの有用遺伝子が導入されている。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "野生種との自然交雑の事例は明確には報告されていないが、遺伝子移入の可能性は指摘されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。特に南米の原産地センターでは、形態、毒性、調理特性などが異なる多様な在来種が維持されている。",
+      "wild_gene_pool": "南米に分布する野生近縁種は、耐病性、耐乾性、栄養価など、栽培種の改良に役立つ貴重な遺伝子資源の宝庫である。",
+      "adaptive_genetic_variation": "南米からアフリカ、アジアへと伝播する過程で、各地の多様な環境に適応してきた歴史があり、高い適応的遺伝変異を持つ。",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、単一クローンの大規模栽培では遺伝的多様性が低くなるリスクがあるが、種子繁殖も可能。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アフリカ",
+        "environmental_pressure": "キャッサバモザイク病（CMD）の大流行",
+        "adaptive_response": "農家が自然実生の中からCMDに耐性を示す個体を選抜し、栽培することで、地域レベルでの耐性が広がった事例がある。",
+        "time_scale": "数十年",
+        "mechanism": "農家による無意識的な選抜（ファーマー・セレクション）と、有性生殖による遺伝子再編。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、さらなる耐乾性や耐暑性の向上が期待される。",
+      "improved_nutritional_content": "β-カロテンや鉄、亜鉛を多く含む品種の育種が進行中。",
+      "novel_characteristics": "耐病性（特にウイルス病）、デンプン質の改良など。",
+      "hybrid_vigor_potential": "高い。異種間の交雑では強い雑種強勢が観察される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部の野生種とは交雑不和合性が存在する。",
+      "chromosome_compatibility": "多くのManihot属は染色体数が共通しており（2n=36）、交雑は比較的容易。",
+      "fertility_of_hybrids": "種間雑種でも稔性は比較的高いことが多い。",
+      "backcrossing_success": "育種プログラムで広く利用されている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫（ウイルス病）",
+        "adaptive_traits": "ウイルス抵抗性遺伝子",
+        "heritability": "中程度から高い",
+        "response_to_selection": "抵抗性品種の普及により確認されている。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "キャッサバをリジェネラティブ農業の文脈で評価した研究は非常に少ない。以下の評価は、植物の一般的特性とアグロエコロジーの原則からの類推を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く広がる塊根と吸収根を持つが、土壌を固結させる傾向は少ない。収穫時に土壌を大きく攪乱する。",
+      "organic_matter_contribution": "落葉や収穫後の茎を土壌に還元すれば、大量の有機物を供給可能。",
+      "soil_structure_improvement": "限定的。むしろ単作栽培では土壌からの養分収奪が問題となる。",
+      "erosion_control": "生育初期は土壌被覆が遅いが、繁茂後は広い葉が雨滴による侵食を防ぐ。",
+      "nutrient_cycling_role": "カリウム要求量が非常に多く、土壌から養分を収奪しやすい。マメ科作物との混作が養分循環を改善する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は咲くが、虫媒花としての魅力は他の作物に比べて低い。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌との共生関係があり、リン酸吸収を助ける。",
+      "above_ground_biodiversity": "単作栽培では低いが、伝統的なアグロフォレストリーシステムでは多様な生物を支える。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "中程度。土壌被覆が完成すれば改善する。",
+      "moisture_retention": "土壌を覆う葉が蒸発を抑制する効果がある。",
+      "runoff_reduction": "キャノピーが発達すれば効果がある。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。茎や葉のバイオマスは大きい。",
+      "below_ground_carbon": "高い。巨大な塊根（デンプン）は大量の炭素を蓄積する。多年生作物としてポテンシャルがある。",
+      "soil_carbon_enhancement": "収穫残渣を土壌に還元し、不耕起栽培と組み合わせることで土壌炭素の増加に貢献できる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ",
+        "インゲンマメ",
+        "カボチャ"
+      ],
+      "natural_pest_control": "マメ科との混作は土壌病害を抑制することがある。",
+      "nutrient_sharing": "マメ科植物との混作により、窒素が供給される。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "単作では不安定だが、多様な作物が混植される伝統的アグロエコシステムでは安定性の基盤となる。",
+      "stress_tolerance": "高い耐乾性と貧栄養土壌への適応性が、システムのストレス耐性を高める。",
+      "recovery_capacity": "高い。茎から容易に再生できる。",
+      "adaptability": "遺伝的多様性が高く、さまざまな環境に適応する能力がある。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場調査レポート、食品科学、バイオテクノロジー関連の文献に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリーの炭水化物源として重要性が増している。",
+      "food_security_contribution": "気候変動下で他の主要穀物の生産が不安定になる中、その強靭性から将来の食料安全保障への貢献が期待される。",
+      "local_food_system_integration": "加工が容易で、地域の小規模な食品産業を支えることができる。",
+      "alternative_protein_potential": "葉はタンパク質が豊富（乾燥重量で20-30%）であり、適切に処理すれば有望なタンパク質源となる。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルテンフリー食品市場",
+        "健康志向スナック",
+        "生分解性プラスチック原料",
+        "バイオエタノール"
+      ],
+      "value_added_products": [
+        "タピオカ粉・パール",
+        "高品質キャッサバ粉（HQCF）",
+        "加工済み冷凍キャッサバ",
+        "醸造酒・蒸留酒"
+      ],
+      "niche_market_value": "特定の伝統料理（例：ブラジルのPão de queijo）の材料として、国際的なエスニック食品市場で価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "CIATやIITAなどの国際研究機関の報告書に基づくが、全在来種の網羅的な評価は未了。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "原産地センターにおける森林破壊が野生近縁種の生息地を脅かしている。",
+    "climate_change_vulnerability": "作物自体は強靭だが、特定の在来種は限定的な環境に適応しているため、気候変動で失われるリスクがある。",
+    "cultural_erosion_risk": "高い。近代的な高収量品種の導入により、伝統的な知識と共に多様な在来種が消失しつつある。",
+    "conservation_actions_needed": [
+      "在来種の収集・評価とジーンバンクでの域外保全",
+      "農家が在来種を栽培し続けることを支援する域内保全プログラム",
+      "野生近縁種の生息地保護"
+    ],
+    "priority_conservation_regions": [
+      "南米のアマゾン川流域",
+      "アフリカのキャッサバ栽培地域における多様性ホットスポット"
+    ],
+    "ex_situ_conservation_status": "CIAT（コロンビア）やIITA（ナイジェリア）などの国際ジーンバンクに世界最大級のコレクションが保存されている。",
+    "in_situ_conservation_efforts": "一部の地域で、コミュニティ・シードバンクや参加型育種プロジェクトが実施されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本レポート全体の分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 10,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ブラジル（遺伝的多様性と先住民の知恵）",
+      "ナイジェリア（大規模生産と社会経済的役割）",
+      "コンゴ民主共和国（紛争地域における食料安全保障）",
+      "タイ（産業化と環境への影響）"
+    ],
+    "knowledge_gaps": [
+      "リジェネラティブ農業システムにおけるキャッサバの役割に関する定量的データ",
+      "気候変動に対する数千の在来品種の応答の違い",
+      "伝統的な加工方法が栄養価や機能性に与える影響の詳細な科学的解明"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種の分類は複雑で、地域ごとに呼称が異なるため、代表例を記載。"
+      },
+      "variety_name": "Sweet Cassava (Aipim/Macaxera)",
+      "local_name": "Aipim (Brazil)",
+      "origin_region": "南米",
+      "distinctive_characteristics": "シアン化合物含有量が低く（<100 mg/kg）、毒抜き処理が比較的容易。茹でたり揚げたりして直接食べられることが多い。肉質は粉質でホクホクしている。",
+      "cultural_importance": "家庭菜園や小規模農家で栽培され、日常の食材として広く利用される。",
+      "climate_adaptation": "一般的なキャッサバの特性に準じるが、商業的な苦味種より多様な環境で栽培される傾向がある。",
+      "conservation_status": "多数の地域在来種が存在するが、一部は消失の危機にある。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種の分類は複雑で、地域ごとに呼称が異なるため、代表例を記載。"
+      },
+      "variety_name": "Bitter Cassava (Mandioca-brava)",
+      "local_name": "Mandioca-brava (Brazil)",
+      "origin_region": "南米",
+      "distinctive_characteristics": "シアン化合物含有量が高く（>100 mg/kg）、生食は致命的。すりおろし、圧搾、水洗い、加熱などの徹底した加工が必須。デンプン収量が高い。",
+      "cultural_importance": "ファリーニャやタピオカなどの加工品の主要原料。毒を安全な食料に変える技術は文化の核心。",
+      "climate_adaptation": "一般的に害虫や病気に強く、より厳しい環境でも生育できる傾向がある。",
+      "conservation_status": "商業的・伝統的加工のために広く栽培されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "CIAT (International Center for Tropical Agriculture)",
+      "IITA (International Institute of Tropical Agriculture)",
+      "Scientific literature on agroecology and ethnobotany"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "伝統的発酵プロセスに関わる微生物叢の機能解明"
+    ],
+    "regional_data_coverage": "アフリカと南米の情報は豊富だが、アジアの特定の地域における在来種の文化的重要性に関する情報は比較的少ない。",
+    "missing_information": [
+      "特定の香り成分の化学的同定",
+      "極端気象（雹害など）からの回復力に関するデータ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

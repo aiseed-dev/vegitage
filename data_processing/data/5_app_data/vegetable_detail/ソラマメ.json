@@ -1,0 +1,759 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is consolidated from major botanical and agricultural databases (Kew, FAOSTAT, GRIN). The exact wild progenitor remains unidentified, which is a significant research gap."
+    },
+    "primary_name": "Fava Bean",
+    "scientific_name": "Vicia faba",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "果実",
+      "葉"
+    ],
+    "origin_region": "近東（肥沃な三日月地帯）",
+    "wild_relatives": [
+      "Vicia faba var. paucijuga",
+      "Vicia narbonensis (近縁だが交雑は困難)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names gathered from ethnobotanical records and multilingual dictionaries. Script information included where relevant."
+    },
+    "international": {
+      "en": [
+        "Fava Bean",
+        "Broad Bean",
+        "Horse Bean",
+        "Field Bean"
+      ],
+      "scientific_common": "Faba Bean"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Fava",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Haba",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Fève",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Ackerbohne",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "فول",
+            "script": "Arabic"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "蚕豆",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "ソラマメ",
+            "script": "Katakana/Kanji"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "am",
+            "name": "ባቄላ",
+            "script": "Ge'ez"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Haba",
+            "script": "Latin"
+          },
+          {
+            "lang": "qu",
+            "name": "Hawas",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アンデス山脈のケチュア語話者",
+        "name": "Hawas",
+        "cultural_significance": "高地での重要なタンパク源であり、伝統的な作物輪作システム（イモ類、穀物との組み合わせ）の不可欠な要素。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on the APG IV system of plant classification."
+    },
+    "family": {
+      "en": "Pea family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Vetch",
+      "la": "Vicia"
+    },
+    "species": {
+      "en": "Fava Bean",
+      "la": "Vicia faba"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "Vicia faba var. major"
+      },
+      {
+        "rank": "var.",
+        "name": "Vicia faba var. equina"
+      },
+      {
+        "rank": "var.",
+        "name": "Vicia faba var. minor"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information compiled from anthropological, historical, and ethnobotanical literature. The dualistic perception (staple vs. taboo) in ancient cultures is notable."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "中東・北アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "文化的象徴"
+        ],
+        "traditional_uses": "エジプトの国民食「フル・メダンメス」の主原料。ラマダン期間中の重要な栄養源。",
+        "seasonal_significance": "地域により異なるが、主に冬から春にかけての重要な作物。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "地中海地域",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "儀式用",
+          "季節の食材"
+        ],
+        "traditional_uses": "春の訪れを告げる食材として、パスタやサラダに多用される。一部地域（シチリアなど）では聖ヨセフの日の祭壇に供えられる。",
+        "seasonal_significance": "春",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "加工食品原料",
+          "経済作物"
+        ],
+        "traditional_uses": "未熟豆は塩茹でや炒め物、スナックとして消費。熟成豆は四川料理の豆板醤など、発酵調味料の主原料となる。",
+        "seasonal_significance": "初夏",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "アンデス地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "生存戦略作物"
+        ],
+        "traditional_uses": "高地の厳しい環境で育つ重要なタンパク源。スープ、シチュー、または炒ってスナックとして消費される。",
+        "seasonal_significance": "雨季に栽培、乾季に収穫・保存。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "エジプト料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Ful Medames",
+          "Ta'ameya (Falafel)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "ペースト化",
+          "揚げ物"
+        ],
+        "cultural_context": "朝食の定番であり、全ての社会階層にわたって消費される国民食。"
+      },
+      {
+        "cuisine": "四川料理（中国）",
+        "role": "essential",
+        "traditional_dishes": [
+          "Doubanjiang (豆板醤)"
+        ],
+        "preparation_methods": [
+          "発酵",
+          "熟成"
+        ],
+        "cultural_context": "多くの四川料理の味の基盤となる、不可欠な発酵調味料の原料。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前6000年頃には中東で栽培されていた最古の作物の一つ。古代エジプト、ギリシャ、ローマで広く消費された。",
+      "trade_routes": "シルクロードや地中海交易を通じて、旧世界全体に広く伝播した。",
+      "cultural_exchange": "古代ギリシャのピタゴラス教団では、輪廻転生との関連から食べることを禁忌とされるなど、哲学や宗教的思索の対象となった。",
+      "domestication_history": "肥沃な三日月地帯で栽培化。野生の祖先種は絶滅したか未発見であり、栽培化の正確な経緯は不明な点が多い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不適。開花期の高温は落花を引き起こす。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬作物として栽培される。冷涼で乾燥した冬が最適。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "主要な栽培地域。春に播種し夏に収穫、または穏やかな地域では秋に播種し越冬させる。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "春播きが一般的。夏の極端な高温はリスクとなる。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "限定的な灌漑下で栽培可能。耐乾性を持つ品種が存在する。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "アンデスやエチオピア高原などの高地に適応。低温と短い生育期間に耐える。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3-4月）または秋（10-11月）",
+        "harvest_season": "夏（6-8月）または初夏（5-6月）",
+        "growing_period_days": "90-150"
+      },
+      {
+        "climate_zone": "亜熱帯（冬作）",
+        "planting_season": "秋（10-12月）",
+        "harvest_season": "春（3-5月）",
+        "growing_period_days": "120-180"
+      }
+    ],
+    "productivity": {
+      "yield_range": "2000-6000 kg/ha (乾燥種子)",
+      "factors_affecting_yield": [
+        "水分供給（特に開花期）",
+        "受粉（ハナバチ類）",
+        "病害（チョコレート病、さび病）",
+        "日長",
+        "気温"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約540万トン (FAOSTAT, 2022年)",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 35.0,
+          "characteristics": "世界最大の生産国。国内消費が主で、加工品（豆板醤）原料としても重要。"
+        },
+        {
+          "country": "エチオピア",
+          "production_share": 18.0,
+          "characteristics": "主要な輸出作物であり、小規模農家の重要な現金収入源。高地での栽培が中心。"
+        },
+        {
+          "country": "オーストラリア",
+          "production_share": 7.0,
+          "characteristics": "大規模機械化農業。主に中東への輸出向けに生産。"
+        },
+        {
+          "country": "イギリス",
+          "production_share": 6.0,
+          "characteristics": "動物飼料用（フィールドビーン）と食用（ブロードビーン）の両方を生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栄養価はUSDA FoodData Central等から。ファビズムに関する情報は医学的に確立されているが、一般の認知度は地域差が大きい。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "341 (乾燥種子)",
+        "protein_g": "26.1",
+        "carbs_g": "58.3",
+        "fat_g": "1.5",
+        "fiber_g": "25.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸",
+          "amount": "423 µg",
+          "daily_value_percent": "106%"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "1.6 mg",
+          "daily_value_percent": "70%"
+        },
+        {
+          "nutrient": "銅",
+          "amount": "0.8 mg",
+          "daily_value_percent": "91%"
+        },
+        {
+          "nutrient": "リン",
+          "amount": "421 mg",
+          "daily_value_percent": "34%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "4.9 mg",
+          "daily_value_percent": "27%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "L-DOPA (レボドパ)",
+        "concentration": "品種により変動",
+        "health_effect": "パーキンソン病の症状を緩和するドーパミンの前駆体。"
+      },
+      {
+        "compound": "Vicine, Convicine",
+        "concentration": "品種により変動",
+        "health_effect": "G6PD欠損症の人が摂取すると、溶血性貧血（ファビズム）を引き起こす酸化ストレス物質。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "利尿作用",
+          "鎮咳作用"
+        ],
+        "preparation": "花の煎じ薬"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高タンパク・高繊維による満腹感の持続と体重管理",
+        "葉酸による胎児の神経管閉鎖障害リスク低減"
+      ],
+      "ongoing_research": [
+        "腸内細菌叢への影響",
+        "L-DOPAの天然供給源としての利用",
+        "低ビシン・コンビシン品種の開発"
+      ],
+      "safety_considerations": "G6PD欠損症（ソラマメ中毒、ファビズム）を持つ個人にとっては致命的となりうるため、摂取は厳禁。この遺伝的素因は地中海、アフリカ、アジアの一部地域でより一般的。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海・中東",
+        "methods": [
+          "煮込み",
+          "ピューレ",
+          "サラダ",
+          "シチュー"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "レモン",
+          "ニンニク",
+          "オリーブオイル",
+          "パセリ",
+          "ディル"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "塩茹で",
+          "炒め物",
+          "発酵",
+          "揚げ物"
+        ],
+        "flavor_role": "主味/副味",
+        "typical_combinations": [
+          "唐辛子",
+          "山椒",
+          "醤油",
+          "ニンニク",
+          "生姜"
+        ]
+      },
+      {
+        "region": "南米（アンデス）",
+        "methods": [
+          "スープ",
+          "シチュー",
+          "炒り豆"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ジャガイモ",
+          "キヌア",
+          "トウモロコシ",
+          "コリアンダー"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "風味と栄養素が凝縮される。調理前に水で戻す必要がある。"
+      },
+      {
+        "method": "発酵（豆板醤）",
+        "regions": [
+          "中国（特に四川省）"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "タンパク質が分解され、うま味成分（アミノ酸）が生成される。独特の辛味と香りが付与される。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "北米、ヨーロッパ"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "新鮮な状態の食感と色を比較的よく保つ。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッツのような風味、わずかな甘み、クリーミーな食感。若い豆はより青々しい風味を持つ。",
+      "aroma_compounds": [
+        "ヘキサナール（青臭さ）",
+        "ピラジン類（加熱による香ばしさ）"
+      ],
+      "texture_characteristics": "調理後は柔らかく、粉っぽい（starchy）食感。皮は品種や成熟度により硬さが異なる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性の低さは広く認識されているが、品種間の耐性差に関する定量データは限定的。将来予測は一般的な作物モデルに基づくもので、地域的な適応策を考慮していない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30°C以上、特に開花期に継続すると著しく収量が低下する。",
+      "cold_tolerance": "-5°Cから-10°C（越冬性の品種）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "中程度。深い根系を持つが、開花期と莢の肥大期には安定した水分を必要とする。",
+      "flood_tolerance": "低。土壌の過湿と酸素不足に非常に弱い。",
+      "optimal_rainfall": "650-1000 mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。草丈が高くなる品種は倒伏しやすい。",
+      "hail_damage_recovery": "中。生育初期であれば回復可能だが、開花期以降の被害は大きい。",
+      "rapid_temperature_change": "低い。特に開花期の急激な高温は落花を招く。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。C3植物として光合成が促進される可能性があるが、高温ストレスによって相殺される可能性が高い。",
+      "ozone_sensitivity": "中程度。他のマメ科作物と同様に感受性があるとされる。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシなどの害虫の発生時期が早まり、多発するリスクがある。",
+      "disease_resistance_stability": "高温多湿はチョコレート病やさび病の発生を助長する可能性がある。",
+      "beneficial_organism_relationships": "送粉者であるマルハナバチ等の活動が気候変動により影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯、亜熱帯（冬作）、高地",
+        "2050_projection": "栽培適地がより高緯度、高地へ移動する可能性。現在の主産地の一部では熱ストレスによる減収リスクが増大。",
+        "2100_projection": "適地の移動がさらに進行。地中海地域などでは水ストレスが深刻化し、栽培が困難になる地域が増えると予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種内の遺伝的多様性は非常に高いが、近縁野生種との交雑が極めて困難なため、新たな遺伝子導入は主に突然変異や種内交配に依存する。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の栽培品種やランドレース間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Vicia narbonensisなどの近縁種との交雑は試みられているが、成功率は極めて低い。"
+      ],
+      "intergeneric_possibility": [
+        "可能性はほぼない。"
+      ],
+      "successful_natural_hybrids": [
+        "種間の自然交雑の確かな報告はない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。世界各地の伝統的農業システムで多様なランドレースが維持されている。",
+      "wild_gene_pool": "直接の野生祖先種が不明なため、野生遺伝子プールの利用は困難。",
+      "adaptive_genetic_variation": "高地、乾燥地、寒冷地など、様々な環境に適応した遺伝的変異がランドレース内に豊富に存在する。",
+      "inbreeding_depression_risk": "自家和合性が高いため、小規模な集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "エチオピア高原",
+        "environmental_pressure": "高地、低温、病害（チョコレート病など）",
+        "adaptive_response": "小粒で、病害耐性を持ち、短い生育期間で成熟するランドレース群が成立。",
+        "time_scale": "数千年",
+        "mechanism": "農家による長年の種子選抜と、地域環境への自然選択。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "種内の多様な遺伝資源を交配することで、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "低ビシン・コンビシン含量の品種や、高L-DOPA含量の品種の育種が可能。",
+      "novel_characteristics": "莢のサイズ、種子の色、草姿などの形質改変が可能。",
+      "hybrid_vigor_potential": "他家受精率が一定あるため、F1ハイブリッド品種の開発により雑種強勢を利用できる可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の交雑には強力な生殖的隔離機構が存在する。",
+      "chromosome_compatibility": "Vicia faba (2n=12) は他のVicia属 (多くは2n=14) と染色体数・構造が大きく異なる。",
+      "fertility_of_hybrids": "仮に種間雑種が作出できても、不稔となる可能性が非常に高い。",
+      "backcrossing_success": "種間交雑後の戻し交配は極めて困難。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い根系、気孔の開閉制御、早期成熟性",
+        "heritability": "中程度",
+        "response_to_selection": "ランドレースの選抜により耐乾性が向上した事例がある。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "マメ科植物としての窒素固定能力は広く研究されており、カバークロップとしての利用は確立された技術。定量的データも豊富。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深く伸び、硬盤層を破砕することがある。多数の側根が土壌を団粒化する。",
+      "organic_matter_contribution": "緑肥としてすき込むことで、大量の有機物を土壌に供給する。",
+      "soil_structure_improvement": "根系の活動と有機物供給により、土壌の通気性・保水性を改善する。",
+      "erosion_control": "カバークロップとして利用することで、地表面を覆い、風食・水食を抑制する。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定（70-200 kg N/ha/年）。後作の窒素肥料を削減する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はマルハナバチやミツバチにとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシやヒラタアブなどを誘引する。",
+      "soil_microorganism_interaction": "根粒菌やアーバスキュラー菌根菌など、多様な土壌微生物と共生関係を築く。",
+      "above_ground_biodiversity": "農地に構造的な複雑さを加え、鳥類や他の生物の生息地を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "土壌構造の改善により、雨水の浸透を促進する。",
+      "moisture_retention": "土壌有機物量の増加を通じて、土壌の保水能力を高める。",
+      "runoff_reduction": "地表面の被覆により、地表流出を減少させる。",
+      "groundwater_recharge": "浸透の促進は地下水涵養に貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "品種や栽培条件によるが、3-8 t/haのバイオマスを生産。",
+      "below_ground_carbon": "深い根系が土壌深くに炭素を供給する。",
+      "soil_carbon_enhancement": "残渣や根の分解を通じて、土壌有機炭素（SOC）を増加させる。",
+      "carbon_sequestration_rate": "不明。輪作体系に組み込むことで、システム全体の炭素収支を改善する。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "穀物（小麦、大麦）：ソラマメが窒素を供給し、穀物が物理的な支柱となる。伝統的な混作システム。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "菌根菌ネットワークを通じて、リンなどの栄養素を他の植物と共有する可能性がある。",
+      "allelopathic_interactions": "限定的。後作物への影響は主に栄養供給によるもの。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作に組み込むことで、土壌肥沃度を維持し、病害虫のサイクルを断ち切る。",
+      "stress_tolerance": "土壌の健康を改善することで、干ばつなどの環境ストレスに対するシステム全体の緩衝能力を高める。",
+      "recovery_capacity": "窒素固定により、外部からの肥料投入がなくても地力の回復を助ける。",
+      "adaptability": "多様な品種が存在するため、様々な輪作体系や気候条件に組み込むことが可能。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物性タンパク質市場の動向と食品科学の研究に基づき評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高品質な植物性タンパク質源として、肉の代替品、乳製品代替品、プロテインパウダーなどに利用される。",
+      "food_security_contribution": "窒素固定能力により、低投入で栽培可能なため、発展途上国の食料安全保障と栄養改善に貢献する。",
+      "local_food_system_integration": "世界中の多様な気候で栽培可能なため、地域の食料システムに容易に組み込むことができる。",
+      "alternative_protein_potential": "アレルギー性が比較的低く（大豆と比較して）、ニュートラルな風味が特徴のタンパク質分離物（FPI）の原料として需要が急増している。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "植物性食品市場",
+        "グルテンフリー食品市場",
+        "機能性食品市場"
+      ],
+      "value_added_products": [
+        "タンパク質分離物・濃縮物",
+        "植物性ミルク",
+        "パスタ",
+        "スナック菓子",
+        "L-DOPA抽出物"
+      ],
+      "niche_market_value": "特定の伝統品種（ランドレース）や、春の初物としての生鮮ソラマメは、高級食材市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の消失リスクは指摘されているが、全球的なモニタリングデータは不足している。保全は各国のジーンバンクと地域コミュニティに依存。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "直接の野生種は不明だが、多様性の中心地である伝統的農業景観の喪失がリスクとなる。",
+    "climate_change_vulnerability": "栽培適地の変化により、特定の地域に適応したランドレースが失われるリスクがある。",
+    "cultural_erosion_risk": "高。伝統的な食文化や農法の喪失に伴い、関連するランドレースが栽培されなくなるリスク。",
+    "conservation_actions_needed": [
+      "ランドレースの網羅的な収集と特性評価",
+      "参加型育種による地域コミュニティでの保全と利用の促進",
+      "ジーンバンクにおける長期保存"
+    ],
+    "priority_conservation_regions": [
+      "エチオピア高原",
+      "アンデス山脈",
+      "地中海沿岸",
+      "中国南西部"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（ICARDAなど）に多数の系統が保存されているが、網羅性は不完全。",
+    "in_situ_conservation_efforts": "一部地域で、農家が主体となった保全活動や、伝統的農業システムの保護プロジェクトが実施されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本レポートの全体的な評価に基づく総合判断。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "エチオピア",
+      "ペルー",
+      "ボリビア",
+      "エジプト",
+      "中国四川省"
+    ],
+    "knowledge_gaps": [
+      "野生祖先種の特定",
+      "ファビズムを引き起こす化合物の遺伝的多様性と環境要因",
+      "気候変動に対するランドレースの応答の定量的評価"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "代表的な品種タイプの一例。多くのランドレースが存在する。"
+      },
+      "variety_name": "Aguadulce",
+      "local_name": "Aguadulce",
+      "origin_region": "スペイン",
+      "distinctive_characteristics": "大莢で、種子も大きい。耐寒性が高く、ヨーロッパで広く栽培される秋播き品種。",
+      "cultural_importance": "ヨーロッパの家庭菜園や市場で非常にポピュラーな品種。",
+      "climate_adaptation": "冷涼な温帯気候に適応。耐寒性が高い。",
+      "conservation_status": "商業的に広く利用可能。遺伝的侵食のリスクは低い。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "KEW Plants of the World Online",
+      "USDA FoodData Central",
+      "ICARDA Genebank",
+      "学術論文（農業生態学、民族植物学）"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動（特に熱ストレス）に対する品種レベルでの定量的応答データ",
+      "伝統的ランドレースの栄養・機能性成分の網羅的解析",
+      "土壌炭素隔離能力の長期的定量的評価"
+    ],
+    "regional_data_coverage": "生産量や栽培方法は全球的にカバーされているが、文化的な詳細や遺伝的多様性の情報は多様性の中心地（中東、エチオピア、アンデス）に偏在している。",
+    "missing_information": [
+      "直接の野生祖先種に関する情報",
+      "先住民コミュニティにおける詳細な儀礼的利用法"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

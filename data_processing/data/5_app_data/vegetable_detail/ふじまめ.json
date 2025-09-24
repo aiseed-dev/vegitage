@@ -1,0 +1,797 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), agricultural research institutions (CGIAR), and ethnobotanical literature. The primary origin is well-established, though secondary centers of diversity are also significant."
+    },
+    "primary_name": "Hyacinth Bean",
+    "scientific_name": "Lablab purpurea",
+    "plant_type": "Perennial (often grown as an annual)",
+    "edible_parts": [
+      "種子",
+      "果実",
+      "葉",
+      "花",
+      "根"
+    ],
+    "origin_region": "Africa (likely Ethiopia or East Africa)",
+    "wild_relatives": [
+      "Lablab purpureus subsp. uncinatus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual plant databases and regional ethnobotanical studies. The list is representative, not exhaustive."
+    },
+    "international": {
+      "en": [
+        "Hyacinth Bean",
+        "Lablab Bean",
+        "Bonavist Bean",
+        "Dolichos Bean",
+        "Egyptian Bean"
+      ],
+      "scientific_common": "Lablab"
+    },
+    "regional": [
+      {
+        "region": "Africa",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Fiwi",
+            "script": "Latn"
+          },
+          {
+            "lang": "am",
+            "name": "አማርኛ",
+            "script": "Ethi"
+          },
+          {
+            "lang": "ha",
+            "name": "Waken-masar",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "South Asia",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "सेम",
+            "script": "Deva"
+          },
+          {
+            "lang": "ta",
+            "name": "அவரை",
+            "script": "Taml"
+          },
+          {
+            "lang": "kn",
+            "name": "ಅವರೆಕಾಯಿ",
+            "script": "Knda"
+          },
+          {
+            "lang": "bn",
+            "name": "শিম",
+            "script": "Beng"
+          }
+        ]
+      },
+      {
+        "region": "Southeast Asia",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Batáw",
+            "script": "Latn"
+          },
+          {
+            "lang": "vi",
+            "name": "Đậu ván",
+            "script": "Latn"
+          },
+          {
+            "lang": "ms",
+            "name": "Kacang kara",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "East Asia",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "フジマメ",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "扁豆",
+            "script": "Hans"
+          }
+        ]
+      },
+      {
+        "region": "South America",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Feijão-de-lablab",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Frijol de jacinto",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Various communities in East Africa",
+        "name": "Multiple local names",
+        "cultural_significance": "A traditional staple, source of protein, and forage crop, deeply integrated into subsistence farming systems. It is considered a famine-prevention crop due to its resilience."
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic information follows the World Flora Online (WFO) and GRIN-Global databases."
+    },
+    "family": {
+      "en": "Pea Family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Lablab",
+      "la": "Lablab"
+    },
+    "species": {
+      "en": "Hyacinth Bean",
+      "la": "purpurea"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "L. purpureus subsp. purpureus (cultivated)"
+      },
+      {
+        "rank": "subspecies",
+        "name": "L. purpureus subsp. uncinatus (wild)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural importance is well-documented in agricultural and anthropological literature, especially for South Asia and Africa."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "South Asia",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "Essential protein source in vegetarian diets. Immature pods, mature seeds, and flowers are used. In Karnataka, India, 'Avarekai' season is a major cultural event with dedicated food festivals.",
+        "seasonal_significance": "Winter crop, associated with harvest festivals like Sankranti.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "Africa",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "飼料"
+        ],
+        "traditional_uses": "Crucial subsistence crop, valued for its drought resistance. Used as a 'famine crop'. Intercropped with cereals like sorghum and maize to improve soil fertility and provide food security.",
+        "seasonal_significance": "Dry season crop, providing food when other crops fail.",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "Southeast Asia",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "観賞用"
+        ],
+        "traditional_uses": "Young pods and beans are common ingredients in stir-fries and soups. Valued as an ornamental vine for its vibrant flowers.",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "South Indian (especially Karnataka)",
+        "role": "essential",
+        "traditional_dishes": [
+          "Avarekalu Sambar",
+          "Avarekalu Upma",
+          "Hitikida Avarekalu Saaru"
+        ],
+        "preparation_methods": [
+          "Boiling",
+          "Currying",
+          "Frying"
+        ],
+        "cultural_context": "A central ingredient in winter cuisine, symbolizing harvest and abundance."
+      },
+      {
+        "cuisine": "East African Subsistence Farming",
+        "role": "staple",
+        "traditional_dishes": [
+          "Bean stews (often with maize or sorghum)",
+          "Boiled beans"
+        ],
+        "preparation_methods": [
+          "Boiling",
+          "Stewing"
+        ],
+        "cultural_context": "A reliable protein source, often stored dry for year-round consumption, critical for household food security."
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "Cultivated in India for over 3000 years and in ancient Egypt.",
+      "trade_routes": "Spread from Africa to Asia via ancient trade, likely through India and then to China.",
+      "cultural_exchange": "Its journey reflects the exchange of agricultural knowledge between African and Asian civilizations.",
+      "domestication_history": "Domesticated from its wild progenitor in Africa, with significant secondary diversification in India, leading to a wide array of landraces."
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "High humidity, temperatures between 18-30°C."
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "Warm seasons, well-drained soils."
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "Grown as a summer annual, requires long growing season, frost-sensitive."
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "Short growing seasons and harsh winters are unsuitable."
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "Highly drought-tolerant once established, but requires initial moisture. Suited for semi-arid regions."
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "Low temperatures and short seasons are unsuitable."
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "Tropical/Subtropical",
+        "planting_season": "Beginning of rainy season or year-round in some areas.",
+        "harvest_season": "3-6 months after planting.",
+        "growing_period_days": "90-180"
+      },
+      {
+        "climate_zone": "Temperate",
+        "planting_season": "Late spring, after last frost.",
+        "harvest_season": "Late summer to autumn.",
+        "growing_period_days": "120-200"
+      }
+    ],
+    "productivity": {
+      "yield_range": "500 - 4,000 kg/ha (dry grain), highly variable.",
+      "factors_affecting_yield": [
+        "Variety (grain vs. forage type)",
+        "Water availability",
+        "Soil fertility",
+        "Pest and disease pressure",
+        "Day length sensitivity in some varieties"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明 (Largely grown for local consumption, not tracked in global statistics).",
+      "major_producers": [
+        {
+          "country": "India",
+          "production_share": "不明",
+          "characteristics": "Largest producer with immense genetic diversity, both for vegetable and grain use."
+        },
+        {
+          "country": "Sudan",
+          "production_share": "不明",
+          "characteristics": "Important forage and food crop."
+        },
+        {
+          "country": "Kenya",
+          "production_share": "不明",
+          "characteristics": "Key component of smallholder farming systems."
+        },
+        {
+          "country": "Brazil",
+          "production_share": "不明",
+          "characteristics": "Primarily used as a cover crop and for forage."
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "General nutritional data for mature seeds is available. However, data varies significantly by variety and part of the plant consumed. Information on bioactive compounds is from specific scientific studies."
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "344",
+        "protein_g": "23.9",
+        "carbs_g": "60.7",
+        "fat_g": "1.7",
+        "fiber_g": "25.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Iron",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "Magnesium",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "Zinc",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "L-DOPA",
+        "concentration": "Variable",
+        "health_effect": "Precursor to dopamine, potential neurological effects."
+      },
+      {
+        "compound": "Phytic acid",
+        "concentration": "Variable",
+        "health_effect": "Antinutrient, can reduce mineral absorption but also has antioxidant properties."
+      },
+      {
+        "compound": "Cyanogenic glycosides",
+        "concentration": "Variable, higher in dark-seeded varieties",
+        "health_effect": "Toxic if consumed raw, must be cooked thoroughly."
+      },
+      {
+        "compound": "Trypsin inhibitors",
+        "concentration": "Variable",
+        "health_effect": "Antinutrient, denatured by cooking."
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "South Asia",
+        "medical_system": "Ayurveda",
+        "uses": [
+          "Aphrodisiac",
+          "Stomachic",
+          "Anthelmintic"
+        ],
+        "preparation": "Decoctions of seeds or roots."
+      },
+      {
+        "region": "East Asia",
+        "medical_system": "Traditional Chinese Medicine",
+        "uses": [
+          "Treating diarrhea",
+          "Strengthening the spleen"
+        ],
+        "preparation": "Dried beans used in herbal formulas."
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "High protein and fiber source",
+        "Potential hypoglycemic effects"
+      ],
+      "ongoing_research": [
+        "Antimicrobial properties",
+        "Antioxidant activities of phenolic compounds"
+      ],
+      "safety_considerations": "Raw mature seeds are toxic due to cyanogenic glycosides and trypsin inhibitors. They must be boiled thoroughly in multiple changes of water before consumption. Varieties with white flowers and seeds are generally considered safer."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Culinary uses are widely documented in regional cookbooks and ethnobotanical records."
+    },
+    "global_cooking_methods": [
+      {
+        "region": "South Asia",
+        "methods": [
+          "Boiling",
+          "Stewing (Curries)",
+          "Frying",
+          "Sprouting"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Coconut",
+          "Tamarind",
+          "Spices (cumin, coriander, turmeric)",
+          "Rice"
+        ]
+      },
+      {
+        "region": "Africa",
+        "methods": [
+          "Boiling",
+          "Mashing",
+          "Stewing"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Maize",
+          "Sorghum",
+          "Root vegetables"
+        ]
+      },
+      {
+        "region": "Southeast Asia",
+        "methods": [
+          "Stir-frying",
+          "Steaming"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "Shrimp paste",
+          "Garlic",
+          "Chilies",
+          "Other vegetables"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Drying (seeds)",
+        "regions": [
+          "Worldwide"
+        ],
+        "shelf_life": "Over a year",
+        "quality_changes": "Hardens texture, requires soaking and extended cooking."
+      },
+      {
+        "method": "Salting/Pickling (pods)",
+        "regions": [
+          "South Asia"
+        ],
+        "shelf_life": "Several weeks",
+        "quality_changes": "Alters texture and flavor, preserves nutrients."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Young pods are crisp and green-tasting. Mature seeds have a nutty, starchy, and slightly bitter flavor that becomes creamy when cooked.",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "Young pods: crisp. Cooked dry seeds: mealy to creamy depending on variety."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Qualitative assessments of heat and drought tolerance are strong and widely reported. Quantitative data on specific temperature thresholds or CO2 response is scarce and likely variety-dependent. Future projections are qualitative inferences."
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "18-30°C",
+      "extreme_heat_survival": "Can tolerate short periods above 35°C, though flower drop may occur.",
+      "cold_tolerance": "Very low, killed by frost."
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "High, due to a deep taproot system that accesses soil moisture from lower profiles.",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-900 mm annually."
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "Medium, as a vine it can be damaged by strong winds unless well-supported.",
+      "hail_damage_recovery": "Medium, can regrow from nodes if not completely destroyed.",
+      "rapid_temperature_change": "Medium, sensitive to sudden frost."
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "Likely positive (as a C3 plant), but specific studies are lacking.",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Moderately resilient but susceptible to aphids, pod borers, and nematodes, which may increase with warming.",
+      "disease_resistance_stability": "Good genetic diversity offers potential for resistance to new disease strains.",
+      "beneficial_organism_relationships": "Strong symbiosis with nitrogen-fixing rhizobia."
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Tropics, subtropics, warm temperate summers.",
+        "2050_projection": "Potential expansion into higher latitudes/altitudes as growing seasons lengthen. Increased stress in existing equatorial regions due to extreme heat.",
+        "2100_projection": "Similar trend to 2050, with significant risk to production in currently optimal zones without adaptive breeding for extreme heat.",
+        "confidence_level": "Low"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Information is based on the known genetic structure of the genus. While interspecific hybridization is not feasible, the intraspecific diversity (among landraces) is extremely high and is the primary source of adaptive potential."
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "High compatibility among different landraces of L. purpurea."
+      ],
+      "interspecific_compatibility": [
+        "None, Lablab is a monospecific genus."
+      ],
+      "intergeneric_possibility": [
+        "Extremely unlikely."
+      ],
+      "successful_natural_hybrids": [
+        "Extensive outcrossing occurs naturally, leading to high local diversity."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "Extremely high, with vast variation in seed color, size, growth habit, and maturity period.",
+      "wild_gene_pool": "The wild subspecies (uncinatus) is a valuable source of genes for stress tolerance and disease resistance.",
+      "adaptive_genetic_variation": "High, demonstrated by its successful cultivation across diverse agro-ecological zones.",
+      "inbreeding_depression_risk": "Low due to a moderate rate of natural outcrossing."
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "African Sahel",
+        "environmental_pressure": "Drought, poor soil",
+        "adaptive_response": "Selection for deep rooting, rapid maturation, and heat tolerance.",
+        "time_scale": "Centuries to millennia",
+        "mechanism": "Farmer selection and natural selection acting on local landraces."
+      },
+      {
+        "region": "Indian subcontinent",
+        "environmental_pressure": "Diverse culinary uses, varied climates",
+        "adaptive_response": "Huge diversification in seed/pod type, flavor, and plant architecture.",
+        "time_scale": "Centuries to millennia",
+        "mechanism": "Intense farmer selection for specific culinary and agronomic traits."
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "High potential by crossing drought-tolerant African landraces with high-yielding Indian varieties.",
+      "improved_nutritional_content": "Possible to select for lower anti-nutrient levels.",
+      "novel_characteristics": "Potential for developing varieties with specific traits for cover cropping, forage, or vegetable use.",
+      "hybrid_vigor_potential": "High."
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Low within the species.",
+      "chromosome_compatibility": "High within the species (2n=22).",
+      "fertility_of_hybrids": "High.",
+      "backcrossing_success": "High."
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "Drought",
+        "adaptive_traits": [
+          "Deep taproot",
+          "Stomatal control",
+          "Early maturity"
+        ],
+        "heritability": "Medium to High",
+        "response_to_selection": "High"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Assessment is based on well-established characteristics of vigorous, deep-rooted, nitrogen-fixing legumes. Species-specific quantitative data on carbon sequestration or soil organic matter contribution is limited."
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Strong, deep taproot that can break up soil compaction and access nutrients and water from lower soil layers.",
+      "organic_matter_contribution": "High biomass production (when used as a cover crop) contributes significantly to soil organic matter when incorporated.",
+      "soil_structure_improvement": "Improves soil aggregation and porosity.",
+      "erosion_control": "Provides excellent ground cover, reducing wind and water erosion.",
+      "nutrient_cycling_role": "Biological nitrogen fixation can supply 50-150 kg N/ha to the agroecosystem."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "Flowers attract a wide range of bees and other beneficial insects.",
+      "beneficial_insect_habitat": "Provides habitat for predatory insects and spiders.",
+      "soil_microorganism_interaction": "Forms a strong symbiotic relationship with nitrogen-fixing rhizobia and arbuscular mycorrhizal fungi.",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "Improves soil structure, leading to better water infiltration rates.",
+      "moisture_retention": "Increases soil organic matter, enhancing water holding capacity.",
+      "runoff_reduction": "Dense canopy cover intercepts rainfall and reduces surface runoff.",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "High, especially in forage varieties.",
+      "below_ground_carbon": "High, due to its extensive and deep root system.",
+      "soil_carbon_enhancement": "High potential through root exudates and biomass incorporation.",
+      "carbon_sequestration_rate": "不明 (quantitative data lacking)."
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Maize",
+        "Sorghum",
+        "Millet (provides nitrogen, suppresses weeds)"
+      ],
+      "natural_pest_control": "Can act as a trap crop for some pests, protecting the main crop.",
+      "nutrient_sharing": "Provides nitrogen to companion cereal crops.",
+      "allelopathic_interactions": "Some evidence of weed suppression."
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "Enhances stability through soil building and nitrogen input.",
+      "stress_tolerance": "High tolerance to drought and heat increases overall system resilience.",
+      "recovery_capacity": "Good.",
+      "adaptability": "High."
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Potential applications are widely discussed in literature on sustainable agriculture and food security."
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "Excellent source of plant-based protein and fiber.",
+      "food_security_contribution": "High potential for improving food security in marginal, arid environments due to its resilience.",
+      "local_food_system_integration": "Already deeply integrated in many local food systems; can be further promoted.",
+      "alternative_protein_potential": "High, can be processed into flours and protein concentrates."
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Gluten-free flours",
+        "Plant-based protein products",
+        "Climate-resilient cover crop seed market"
+      ],
+      "value_added_products": [
+        "Canned beans",
+        "Snack foods (e.g., roasted beans)"
+      ],
+      "niche_market_value": "High potential in health food and sustainable agriculture markets."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "The species itself is not threatened, but the genetic diversity of its landraces is at risk. This assessment focuses on the conservation of this intraspecific diversity."
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "Threat to wild relatives in Africa due to deforestation and agricultural expansion.",
+    "climate_change_vulnerability": "Low for the species, but high for specific landraces adapted to narrow ecological niches.",
+    "cultural_erosion_risk": "High, as traditional farming systems are replaced by monocultures of modern crop varieties.",
+    "conservation_actions_needed": [
+      "Systematic collection and characterization of landraces",
+      "Establishment of community seed banks",
+      "Promotion of in-situ conservation by supporting traditional farming systems"
+    ],
+    "priority_conservation_regions": [
+      "East Africa (center of origin)",
+      "Indian subcontinent (center of diversity)"
+    ],
+    "ex_situ_conservation_status": "Well-represented in international gene banks (e.g., ICRISAT, ILRI), but many local landraces may be uncollected.",
+    "in_situ_conservation_efforts": "Limited, often dependent on small-scale farmers and local NGOs."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "This is a summary evaluation based on the data compiled in this document."
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "Ethiopia",
+      "Sudan",
+      "Karnataka (India)"
+    ],
+    "knowledge_gaps": [
+      "Quantitative data on climate stress thresholds for different landraces",
+      "Bioactive compound profiles across varieties",
+      "Specific carbon sequestration rates"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "Information on specific, globally recognized varieties is available, particularly for commercial forage and garden types."
+      },
+      "variety_name": "Rongai",
+      "local_name": "Rongai",
+      "origin_region": "Kenya (selected in Australia)",
+      "distinctive_characteristics": "Late-maturing, vigorous vine with white flowers and light brown seeds. Primarily used for forage and as a cover crop. Not day-length sensitive.",
+      "cultural_importance": "Commercially important in modern tropical agriculture systems.",
+      "climate_adaptation": "Excellent drought tolerance.",
+      "conservation_status": "Commercially maintained."
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "Information on specific, globally recognized varieties is available, particularly for commercial forage and garden types."
+      },
+      "variety_name": "Highworth",
+      "local_name": "Highworth",
+      "origin_region": "India (selected in Australia)",
+      "distinctive_characteristics": "Early-maturing, black-seeded variety. Also used for forage and cover cropping. More vigorous in early growth than Rongai.",
+      "cultural_importance": "Commercially important in modern tropical agriculture systems.",
+      "climate_adaptation": "Good drought tolerance.",
+      "conservation_status": "Commercially maintained."
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "Countless unnamed landraces exist with distinct properties. 'Hebbal Avare' is a representative name for a group of landraces."
+      },
+      "variety_name": "Hebbal Avare",
+      "local_name": "ಹೆಬ್ಬಾಳ ಅವರೆ",
+      "origin_region": "Karnataka, India",
+      "distinctive_characteristics": "A group of landraces known for their large, flavorful beans. Highly prized for culinary use, particularly after the pods are shelled (Hitikida Avarekalu).",
+      "cultural_importance": "Extremely high local cultural and economic importance.",
+      "climate_adaptation": "Adapted to local South Indian climate.",
+      "conservation_status": "Maintained by farmers (in-situ), but at risk of genetic erosion."
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Plants of the World Online",
+      "USDA GRIN Global",
+      "ICRISAT Genebank",
+      "Prota4U",
+      "Ethnobotanical literature"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative data on regenerative agriculture metrics (e.g., carbon sequestration rate)",
+      "Response of diverse landraces to combined climate stressors (heat and drought)",
+      "Detailed profiling of bioactive compounds and anti-nutrients across varieties"
+    ],
+    "regional_data_coverage": "Strong for South Asia and East Africa; moderate for Southeast Asia and Australia; weaker for the Americas.",
+    "missing_information": [
+      "Global production statistics",
+      "Detailed micronutrient profiles"
+    ],
+    "update_priority": "High",
+    "quality_score": 9
+  }
+}

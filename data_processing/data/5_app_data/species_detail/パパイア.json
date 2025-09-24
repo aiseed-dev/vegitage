@@ -1,0 +1,655 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is based on major botanical databases (Kew, GRIN), FAO statistics, and ethnobotanical research. Wild relative information is well-documented but relationships are complex."
+    },
+    "primary_name": "Papaya",
+    "scientific_name": "Carica papaya",
+    "plant_type": "木本",
+    "edible_parts": [
+      "果実",
+      "葉",
+      "種子",
+      "花"
+    ],
+    "origin_region": "メソアメリカ（中央アメリカ南部、メキシコ南部）",
+    "wild_relatives": [
+      "Vasconcellea cundinamarcensis",
+      "Vasconcellea parviflora",
+      "Jacaratia mexicana"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are widely documented in linguistic and botanical databases. Indigenous names are from specialized ethnobotanical literature."
+    },
+    "international": {
+      "en": [
+        "Papaya",
+        "Pawpaw"
+      ],
+      "scientific_common": "Papaya"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Lechosa",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt-BR",
+            "name": "Mamão",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "पपीता (Papita)",
+            "script": "Deva"
+          },
+          {
+            "lang": "bn",
+            "name": "পেঁপে (Pepe)",
+            "script": "Beng"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "มะละกอ (Malakor)",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Đu đủ",
+            "script": "Latn"
+          },
+          {
+            "lang": "ms",
+            "name": "Betik",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Nahuatl (Mesoamerica)",
+        "name": "Chichihualxochitl",
+        "cultural_significance": "不明"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established according to APG IV system."
+    },
+    "family": {
+      "en": "Papaya family",
+      "la": "Caricaceae"
+    },
+    "genus": {
+      "en": "Papaya",
+      "la": "Carica"
+    },
+    "species": {
+      "en": "Papaya",
+      "la": "Carica papaya"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "The cultural and historical significance of papaya is extensively documented due to its role in the Columbian Exchange and its pan-tropical importance."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "主食",
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "未熟果はサラダ（タイのソムタム、ベトナムのゴイ・ドゥドゥ）や煮込み料理の主役。熟果はデザートとして消費される。葉はデング熱の民間療法に用いられる。",
+        "seasonal_significance": "通年利用可能だが、雨季に特に重宝される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ラテンアメリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "熟果は朝食やジュースとして広く消費される。未熟果も料理に使われる。伝統医学では消化促進や寄生虫駆除に種子が利用される。",
+        "seasonal_significance": "通年で生活に密着している。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "未熟果はカレーや炒め物に利用される。アーユルヴェーダでは消化器系の不調を整えるために用いられる。",
+        "seasonal_significance": "通年で入手可能な重要な野菜・果物。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "タイ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ソムタム（青パパイアのサラダ）"
+        ],
+        "preparation_methods": [
+          "千切り",
+          "叩く",
+          "和える"
+        ],
+        "cultural_context": "タイの国民食であり、地域のアイデンティティを象徴する料理。屋台から高級レストランまで広く提供される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "メソアメリカで先コロンブス期から栽培・利用されていた。",
+      "trade_routes": "16世紀にスペインとポルトガルの探検家によりカリブ海、フィリピン、インドへ伝播。その後、大航海時代の交易路に沿って世界中の熱帯地域へ急速に拡大した。",
+      "cultural_exchange": "コロンブス交換の象徴的な作物の一つ。新大陸から旧大陸へ渡り、各地の食文化に革命的な影響を与えた。",
+      "domestication_history": "中央アメリカ南部からメキシコ南部で栽培化されたと考えられているが、正確な野生祖先種は特定されていない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて温暖で湿度が高く、霜が降りない地域。水はけの良い土壌が必須。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜害のない沿岸部や温暖な地域。冬期の低温は生育を阻害する可能性がある。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱いため、屋外での越冬は不可能。温室栽培は可能。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑が必須だが、高温乾燥は花や果実の成長に悪影響を与える。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "植え付け後9-12ヶ月から通年",
+        "growing_period_days": 270
+      }
+    ],
+    "productivity": {
+      "yield_range": "30,000-100,000 kg/ha",
+      "factors_affecting_yield": [
+        "パパイア輪点ウイルス（PRSV）などの病害",
+        "水ストレス（過剰・不足）",
+        "受粉",
+        "台風などの強風"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約1,390万トン（2020年, FAOSTAT）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": 43.0,
+          "characteristics": "世界最大の生産国。国内消費が中心。"
+        },
+        {
+          "country": "ブラジル",
+          "production_share": 8.7,
+          "characteristics": "大規模な商業生産。輸出も多い。"
+        },
+        {
+          "country": "インドネシア",
+          "production_share": 7.3,
+          "characteristics": "国内消費と地域市場への供給が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栄養成分データはUSDA FoodData Central等で標準化されている。機能性成分に関する研究も豊富だが、含有量は品種や成熟度により大きく変動する。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "43",
+        "protein_g": "0.5",
+        "carbs_g": "10.8",
+        "fat_g": "0.3",
+        "fiber_g": "1.7"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "60.9 mg",
+          "daily_value_percent": 73
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "950 IU",
+          "daily_value_percent": 19
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "37 µg",
+          "daily_value_percent": 9
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "パパイン",
+        "concentration": "未熟果の乳液に高濃度",
+        "health_effect": "タンパク質分解酵素。消化促進、食肉軟化作用。"
+      },
+      {
+        "compound": "リコピン",
+        "concentration": "赤肉品種に豊富",
+        "health_effect": "強力な抗酸化作用。"
+      },
+      {
+        "compound": "β-クリプトキサンチン",
+        "concentration": "橙肉品種に豊富",
+        "health_effect": "プロビタミンA活性を持つカロテノイド。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東南アジア",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "デング熱の血小板減少症に対する治療補助"
+        ],
+        "preparation": "新鮮な葉をすり潰してジュースとして飲用する。"
+      },
+      {
+        "region": "ラテンアメリカ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "消化不良の改善",
+          "腸内寄生虫の駆除"
+        ],
+        "preparation": "熟果を食す（消化不良）。種子を乾燥・粉砕して摂取する（寄生虫）。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "消化促進作用（パパイン）",
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "デング熱に対する葉の抽出物の効果",
+        "創傷治癒促進効果"
+      ],
+      "safety_considerations": "乳液はアレルギー反応を引き起こすことがある。パパインの過剰摂取は食道に損傷を与える可能性。妊娠中の未熟果の摂取は子宮収縮を誘発する可能性があるため避けるべきとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理での利用法は広く記録されており、特に東南アジアとラテンアメリカの食文化において重要である。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東南アジア",
+        "methods": [
+          "生食（サラダ）",
+          "炒め物",
+          "スープ",
+          "煮込み"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "唐辛子",
+          "ライム",
+          "ナンプラー",
+          "干しエビ",
+          "ニンニク"
+        ]
+      },
+      {
+        "region": "ラテンアメリカ",
+        "methods": [
+          "生食（熟果）",
+          "ジュース",
+          "スムージー",
+          "ジャム"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ライム",
+          "チリパウダー",
+          "他の熱帯果物"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が変わり、甘みが凝縮される。"
+      },
+      {
+        "method": "ピクルス（漬物）",
+        "regions": [
+          "南アジア",
+          "東南アジア"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "酸味と塩味が加わり、シャキシャキした食感になる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "熟果：甘く、独特のムスク香。未熟果：淡白でわずかに苦味があり、シャキシャキした食感。",
+      "aroma_compounds": [
+        "リナロール",
+        "ベンジルイソチオシアネート"
+      ],
+      "texture_characteristics": "熟果：柔らかく、バターのよう。未熟果：硬く、歯ごたえがある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性や耐乾性に関する定性的な知見は多いが、品種レベルでの定量的なデータは限定的。将来予測は広域モデルに基づく一般的な推定であり、地域や品種ごとの詳細な予測は困難。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "21-33°C",
+      "extreme_heat_survival": "40°C以上では花が落ち、果実の品質が低下する。",
+      "cold_tolerance": "0°C以下で深刻なダメージを受ける。霜に極めて弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "年間1000-2000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低。幹が中空で根が浅いため、強風で倒れやすい。",
+      "hail_damage_recovery": "中。葉や果実に傷がつくが、生育が早いため回復も比較的早い。",
+      "rapid_temperature_change": "低。急激な低温に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成が促進される可能性があるが、研究は限定的。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりパパイア輪点ウイルス（PRSV）を媒介するアブラムシの分布域が拡大するリスクがある。",
+      "disease_resistance_stability": "PRSV耐性品種が開発されているが、ウイルスの変異により抵抗性が破られる可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯の霜が降りない地域",
+        "2050_projection": "現在の亜熱帯地域の栽培可能期間が延長される可能性がある一方、一部の熱帯地域では高温ストレスで生産性が低下する可能性。",
+        "2100_projection": "栽培適地がより高緯度・高標高へシフトする可能性があるが、霜害のリスクが最大の制約要因となる。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Carica papaya内の交雑は容易だが、近縁属との自然交雑は稀。人為的な種間・属間交雑は育種目的で研究が進んでいる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全ての栽培品種間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "近縁属のVasconcellea属の種と人為的な交雑が可能（胚珠培養などが必要）。"
+      ],
+      "intergeneric_possibility": [
+        "困難だが、育種プログラムでは実施されている。"
+      ],
+      "successful_natural_hybrids": [
+        "自然環境下での属間交雑の報告は極めて稀。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地であるメソアメリカには多様な在来種が存在するが、商業栽培の拡大により遺伝的多様性は減少傾向にある。",
+      "wild_gene_pool": "近縁属（特にVasconcellea）が、耐病性（PRSV）や耐寒性などの重要な遺伝資源の供給源となっている。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "自家受粉が可能な品種では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "Vasconcellea属との交雑により、耐寒性を向上させる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "パパイア輪点ウイルス（PRSV）への耐病性は、属間交雑によって導入された。",
+      "hybrid_vigor_potential": "F1品種では雑種強勢がみられ、収量性や均一性が向上する。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Carica属とVasconcellea属の間には強い交雑障壁（受精後の胚の崩壊）が存在する。",
+      "chromosome_compatibility": "染色体数は同じ（2n=18）だが、構造的な違いが交雑を困難にする。",
+      "fertility_of_hybrids": "属間雑種はしばしば不稔または稔性が低い。",
+      "backcrossing_success": "戻し交配は可能だが、有用形質を導入するには複数世代を要する。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的なリジェネラティブ農業に関する研究は少ないが、その生育特性からアグロフォレストリーシステムでの役割についての知見は豊富。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深いが、大部分は浅い根系を持つ。",
+      "organic_matter_contribution": "生育が早く、大きな葉が頻繁に落葉するため、土壌表面に大量の有機物（マルチ）を供給する。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "大きな葉がキャノピーを形成し、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "カリウム要求量が高い。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はハチやガなどの昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌と共生する。",
+      "above_ground_biodiversity": "果実は鳥や哺乳類の食料となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "キャノピーによる土壌保護が浸透を助ける。",
+      "moisture_retention": "落葉マルチが土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "キャノピーが雨の勢いを弱め、流出を減らす。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "生育が早いため、短期間で多くのバイオマスを蓄積する。",
+      "below_ground_carbon": "短命な植物であるため、長期的な地下部炭素蓄積は限定的。",
+      "soil_carbon_enhancement": "落葉による有機物供給が土壌炭素の増加に寄与する。",
+      "carbon_sequestration_rate": "高い（短期間）。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科のカバークロップと混植することで、土壌の窒素固定と雑草抑制に役立つ。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "報告されていない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "アグロフォレストリーやホームガーデンにおいて、短期間で収穫をもたらし、生態系の垂直構造を形成する重要な構成要素となる。",
+      "stress_tolerance": "個体としてのストレス耐性は低いが、生育が早いためシステム全体の回復力を高める。",
+      "recovery_capacity": "高い。",
+      "adaptability": "中程度。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "パパイアの商業的価値と応用は広く研究・実用化されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミンとミネラルが豊富な果物として、植物中心の食事に大きく貢献する。",
+      "food_security_contribution": "熱帯地域の小規模農家にとって、自家消費と現金収入の両面で重要な食料安全保障作物。",
+      "local_food_system_integration": "多くの熱帯国で、地域の市場に安定して供給される基本的な果物・野菜。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによるスーパーフードとしての需要増",
+        "機能性成分（パパイン）の医薬品・化粧品への応用拡大"
+      ],
+      "value_added_products": [
+        "乾燥パパイア",
+        "ジュース",
+        "パパイン酵素サプリメント",
+        "パパイア葉茶",
+        "化粧品原料"
+      ],
+      "niche_market_value": "オーガニックやフェアトレード認証のパパイアには高い付加価値がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商業品種の保全状況は良好だが、原産地における在来種や野生近縁種の遺伝的多様性の消失が懸念されている。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "メソアメリカの原産地における森林伐採や農地転換が、野生近縁種の生息地を脅かしている。",
+    "climate_change_vulnerability": "中。栽培適地の変化や異常気象の増加が在来種の存続に影響を与える可能性がある。",
+    "cultural_erosion_risk": "中。伝統的な多様な利用法（葉、種子）に関する知識が、商業的な果実利用に偏ることで失われつつある。",
+    "conservation_actions_needed": [
+      "原産地における在来種のインベントリ作成と生息域内保全",
+      "ジーンバンクにおける種子や組織の生息域外保全",
+      "伝統知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "メソアメリカ（特にメキシコ南部、グアテマラ）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数の品種が保存されている。",
+    "in_situ_conservation_efforts": "限定的であり、更なる取り組みが必要。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "メソアメリカ（遺伝的多様性と伝統的利用法）",
+      "東南アジア（料理文化と気候変動影響）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する多様な品種の生理学的応答",
+      "在来種の遺伝的多様性の定量的評価",
+      "伝統的な薬用利用の科学的検証"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な商業品種に関する情報は豊富。"
+      },
+      "variety_name": "Solo",
+      "local_name": "Hawaiian Papaya",
+      "origin_region": "ハワイ（バルバドス原産）",
+      "distinctive_characteristics": "小型（一人で食べきれるサイズ）で洋ナシ型。甘みが強く、香りが良い。果肉は黄色または橙色。",
+      "cultural_importance": "ハワイの主要な輸出農産物であり、世界的に「トロピカルフルーツ」のイメージを確立した品種。",
+      "climate_adaptation": "PRSVに感受性。耐寒性は低い。",
+      "conservation_status": "絶滅危機になし"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な商業品種に関する情報は豊富。"
+      },
+      "variety_name": "Maradol",
+      "local_name": "Maradol",
+      "origin_region": "キューバ",
+      "distinctive_characteristics": "大型で細長い。果肉は赤橙色で厚い。日持ちが良く、輸送性に優れる。",
+      "cultural_importance": "メキシコや中米で最も広く栽培されている商業品種。国際市場で主流。",
+      "climate_adaptation": "比較的丈夫だが、PRSVには感受性。",
+      "conservation_status": "絶滅危機になし"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "Kew Gardens 'Plants of the World Online'",
+      "USDA FoodData Central",
+      "CABI Compendium"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業における定量的な生態系サービス評価",
+      "気候変動に対する多様な在来種の応答メカニズム",
+      "先住民コミュニティにおける詳細な文化的利用法と知識体系"
+    ],
+    "regional_data_coverage": "ラテンアメリカと東南アジアは豊富。アフリカのデータは比較的少ない。",
+    "missing_information": [
+      "アフリカの多様な在来種とその利用法に関する体系的情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

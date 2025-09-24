@@ -1,0 +1,672 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical and agricultural databases (e.g., FAO, GRIN-Global, Kew Gardens). Its primary role as a forage crop is well-documented, while its use as a human food source is more niche but also recorded."
+    },
+    "primary_name": "Alfalfa",
+    "scientific_name": "Medicago sativa",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "種子",
+      "葉"
+    ],
+    "origin_region": "近東および中央アジア（メソポタミア、ペルシャ高原）",
+    "wild_relatives": [
+      "Medicago sativa subsp. falcata",
+      "Medicago sativa subsp. glomerata",
+      "Medicago sativa subsp. caerulea"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical and agricultural glossaries. The Arabic root of 'Alfalfa' and Latin root of 'Lucerne' reflect its major historical dissemination pathways."
+    },
+    "international": {
+      "en": [
+        "Alfalfa",
+        "Lucerne"
+      ],
+      "scientific_common": "Lucerne"
+    },
+    "regional": [
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "البرسيم الحجازي",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "یونجه",
+            "script": "Perso-Arabic"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Alfalfa",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Luzerne",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Luzerne",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Erba medica",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "紫花苜蓿",
+            "script": "Han"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification is based on the APG IV system, cross-referenced with major taxonomic databases."
+    },
+    "family": {
+      "en": "Pea family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Medick",
+      "la": "Medicago"
+    },
+    "species": {
+      "en": "Alfalfa",
+      "la": "sativa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "sativa"
+      },
+      {
+        "rank": "subspecies",
+        "name": "falcata"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "The cultural value of alfalfa is overwhelmingly as a foundational forage crop that enabled the development of civilizations through animal husbandry. Its role as a direct human food ('vegetable') is historically minor and geographically limited, with a recent surge in Western health food culture."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "中東・中央アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "「すべての食物の父」と称され、特にペルシャ帝国では軍馬の飼料として戦略的に重要だった。これにより軍事力と交易網が支えられた。一部地域では若葉を食用とした。",
+        "seasonal_significance": "多年生作物として年間を通じて家畜の飼料を安定供給する基盤。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "ローマ時代に「メディア（ペルシャ）の草」として伝来。中世以降、窒素固定能力と高い栄養価から、農業革命における輪作体系の重要な要素となり、家畜生産性を飛躍的に向上させた。",
+        "seasonal_significance": "夏季の主要な牧草であり、干し草として冬の飼料を確保する上で重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "経済作物",
+          "副菜"
+        ],
+        "traditional_uses": "19世紀に導入され、酪農および畜産業の基幹飼料作物として定着。20世紀後半からは、健康食品としてスプラウト（もやし）の形で人間が直接消費する文化が広まった。",
+        "seasonal_significance": "広大な農業地帯における主要な夏作物。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "現代西洋健康食",
+        "role": "common",
+        "traditional_dishes": [
+          "サラダ",
+          "サンドイッチ"
+        ],
+        "preparation_methods": [
+          "生食（スプラウト）"
+        ],
+        "cultural_context": "1970年代以降の健康・自然食品ブームの中で、栄養価の高さと生の食感から人気を博した。伝統的な料理法ではなく、新しい食文化の産物。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前5世紀にはペルシャで軍馬の飼料として栽培されていた記録がある。ギリシャ・ローマ世界にも伝播。",
+      "trade_routes": "シルクロードを通じて中国へ伝播。大航海時代にはスペイン人によってアメリカ大陸へもたらされた。",
+      "cultural_exchange": "家畜飼育技術と農業システムの革新（輪作）を世界中に広める媒体となった。",
+      "domestication_history": "約2500年以上前にイラン高原とその周辺で栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿と病害により不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬作や灌漑栽培が可能。休眠しない品種が利用される。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最も適した気候帯。十分な日照と水はけの良い土壌で生育旺盛。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の高温と冬の低温に耐える。耐寒性の高い品種が重要。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須だが、深い根系により乾燥に非常に強い。主要な生産地。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または初秋",
+        "harvest_season": "初夏から秋（年に数回）",
+        "growing_period_days": "180"
+      },
+      {
+        "climate_zone": "亜熱帯（灌漑）",
+        "planting_season": "秋",
+        "harvest_season": "冬から春（年に数回）",
+        "growing_period_days": "240"
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 25,000 kg/ha (乾物)",
+      "factors_affecting_yield": [
+        "水利用可能性（灌漑）",
+        "土壌のpHと排水性",
+        "栽培品種",
+        "刈り取り頻度と時期",
+        "受粉昆虫の活動"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（飼料としての生産量が膨大で、正確な世界統計が困難）",
+      "major_producers": [
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産国の一つ。特にカリフォルニア、ウィスコンシン州。大規模な酪農・畜産業を支える。"
+        },
+        {
+          "country": "アルゼンチン",
+          "production_share": "不明",
+          "characteristics": "パンパ地域で広範囲に栽培され、肉牛生産の基盤となっている。"
+        },
+        {
+          "country": "オーストラリア",
+          "production_share": "不明",
+          "characteristics": "灌漑を利用した高品質な干し草生産が盛んで、中東やアジアへ輸出されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アルファルファスプラウトの栄養価データは豊富だが、葉やその他の部位の人間向けデータは少ない。伝統的薬用利用は民族植物学の記録に基づくが、臨床的エビデンスは限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "23",
+        "protein_g": "4.0",
+        "carbs_g": "2.1",
+        "fat_g": "0.7",
+        "fiber_g": "1.9"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "30.5 mcg",
+          "daily_value_percent": "25"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "8.2 mg",
+          "daily_value_percent": "9"
+        },
+        {
+          "nutrient": "銅",
+          "amount": "0.2 mg",
+          "daily_value_percent": "18"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "36 mcg",
+          "daily_value_percent": "9"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "サポニン",
+        "concentration": "可変",
+        "health_effect": "コレステロール吸収抑制、抗炎症作用の可能性"
+      },
+      {
+        "compound": "クメストロール（植物エストロゲン）",
+        "concentration": "可変",
+        "health_effect": "ホルモン様作用。更年期障害の緩和などが研究されているが、過剰摂取には注意が必要。"
+      },
+      {
+        "compound": "L-カナバニン",
+        "concentration": "種子とスプラウトに含有",
+        "health_effect": "非タンパク性アミノ酸。全身性エリテマトーデス（SLE）などの自己免疫疾患を悪化させる可能性が報告されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "関節炎",
+          "浮腫",
+          "消化不良"
+        ],
+        "preparation": "種子の粉末や葉の煎じ薬"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "消化器系の調整",
+          "腎臓の強壮"
+        ],
+        "preparation": "葉を調理または乾燥させて使用"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "血中コレステロール低下作用",
+        "抗酸化作用",
+        "血糖コントロール"
+      ],
+      "safety_considerations": "L-カナバニンを含むため、自己免疫疾患を持つ人は摂取を避けるべき。また、生の種子やスプラウトは細菌汚染のリスクがある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "人間向けの料理利用は、現代のアルファルファスプラウトに情報が集中している。伝統的な葉の利用法に関する体系的な記録は少ない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "北米・ヨーロッパ",
+        "methods": [
+          "生食（スプラウト）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "サラダグリーン",
+          "アボカド",
+          "トマト",
+          "チーズ"
+        ]
+      },
+      {
+        "region": "中央アジア",
+        "methods": [
+          "炒める",
+          "茹でる"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "羊肉",
+          "穀物（パン、麺）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "発芽（スプラウティング）",
+        "regions": [
+          "全世界（商業的に）"
+        ],
+        "shelf_life": "約1週間（冷蔵）",
+        "quality_changes": "栄養価が向上するが、微生物汚染のリスクが高まる。"
+      },
+      {
+        "method": "乾燥（干し草）",
+        "regions": [
+          "全世界（飼料用）"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "水分が除去され長期保存が可能になるが、一部のビタミンは減少する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "スプラウト：穏やかでナッツのような風味、わずかな苦味、青々しい香り。葉：豆類特有の青臭さと苦味。",
+      "aroma_compounds": [
+        "ヘキサナール",
+        "ヘキセノール"
+      ],
+      "texture_characteristics": "スプラウト：シャキシャキとした食感。調理した葉：柔らかい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性や耐暑性に関する定性的な評価は豊富だが、これは主に飼料生産の文脈での研究。極端気象やCO2濃度変化に対する品種レベルでの定量データは限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "40°C以上でも休眠状態で生存可能",
+      "cold_tolerance": "-25°C以下（耐寒性品種）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "非常に効率的。深い根系が地下の水分を吸収するため。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒伏しやすいが、根がしっかりしているため再生能力は高い。",
+      "hail_damage_recovery": "高い。刈り取られた場合と同様に再生する。",
+      "rapid_temperature_change": "中程度。急激な霜には弱い場合がある。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "あり。C3植物として、CO2濃度の上昇は光合成とバイオマス生産を促進する傾向がある。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンは葉の損傷を引き起こす可能性がある。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により害虫（アルファルファタコゾウムシなど）の発生地域や世代数が増加するリスクがある。",
+      "disease_resistance_stability": "多様な遺伝資源が存在するため、新しい病害に対応する育種のポテンシャルは高い。",
+      "beneficial_organism_relationships": "送粉者への依存度が高いため、送粉者の減少は種子生産に影響を与える。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯・乾燥帯",
+        "2050_projection": "栽培限界がより高緯度・高地に移動する可能性。乾燥地域での重要性が増す。",
+        "2100_projection": "不明",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アルファルファの育種と遺伝学は広範に研究されている。 Medicago sativa-falcata complex 内の交雑は、その適応性の源泉としてよく知られている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "世界中の多数の栽培品種、エコタイプ、ランドレース"
+      ],
+      "interspecific_compatibility": [
+        "Medicago sativa subsp. falcata"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "Medicago x varia (M. sativa と M. falcata の自然交雑種)"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。原産地周辺には多様なランドレースが存在する。",
+      "wild_gene_pool": "野生の M. sativa subsp. falcata や他の近縁種が、耐病性や環境ストレス耐性の遺伝子供給源として重要。",
+      "adaptive_genetic_variation": "個体群内に大きな遺伝的変異を保持しており、地域環境への適応能力が高い。",
+      "inbreeding_depression_risk": "他家受精性植物であるため、近交弱勢が顕著に現れる。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北アメリカ",
+        "environmental_pressure": "厳しい冬の凍結",
+        "adaptive_response": "M. falcataとの自然交雑を通じて耐寒性遺伝子が導入され、北方の気候に適応した品種群が形成された。",
+        "time_scale": "数十年〜1世紀",
+        "mechanism": "遺伝子移入と自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐寒性、耐乾性、土壌適応性の向上が可能。",
+      "improved_nutritional_content": "飼料品質（タンパク質含有量、消化率）の改善が可能。",
+      "novel_characteristics": "匍匐性、根の形態、病害虫抵抗性などの新しい形質を獲得できる。",
+      "hybrid_vigor_potential": "高い。ハイブリッド品種は収量性が大幅に向上する。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "自家不和合性があるため、交配には注意が必要。",
+      "chromosome_compatibility": "基本的には同質四倍体(2n=4x=32)だが、二倍体の近縁種も存在する。",
+      "fertility_of_hybrids": "種内および近縁亜種間では高い稔性を持つ。",
+      "backcrossing_success": "高い。育種プログラムで一般的に利用される。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "放牧圧",
+        "adaptive_traits": "再生能力、匍匐性の成長形態",
+        "heritability": "中〜高",
+        "response_to_selection": "適応的"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アルファルファはリジェネラティブ農業や持続可能な農業システムにおけるモデル的なマメ科作物であり、その生態系サービスに関する研究は豊富である。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "非常に深い主根（最大15m以上に達する）と広範な側根を持つ。",
+      "organic_matter_contribution": "地上部の残渣と毎年更新される根系が、土壌有機物を豊富に供給する。",
+      "soil_structure_improvement": "深い根が硬盤層を破壊し、土壌の団粒構造を促進し、通気性と排水性を改善する。",
+      "erosion_control": "多年生で地表を密に覆うため、風食および水食を効果的に防止する。",
+      "nutrient_cycling_role": "根が深層からカリウムやリンなどの養分を吸い上げ、土壌表層に再配分する（バイオロジカル・リフティング）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "豊富な花蜜を提供し、マルハナバチやアルファルファハキリバチなど多様な送粉者の重要な食料源となる。",
+      "beneficial_insect_habitat": "カメムシやテントウムシなどの天敵昆虫に生息地を提供する。",
+      "soil_microorganism_interaction": "根粒菌と共生して大気中の窒素を固定する。菌根菌との共生も活発。",
+      "above_ground_biodiversity": "鳥類や小型哺乳類のシェルターとなる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る孔隙が水の浸透を大幅に改善する。",
+      "moisture_retention": "土壌有機物の増加を通じて、土壌の保水能力を高める。",
+      "runoff_reduction": "密な植生が地表水の流出を遅らせ、土壌侵食を防ぐ。",
+      "groundwater_recharge": "土壌への水の浸透を促進し、地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "頻繁に刈り取られるが、バイオマス生産量は高い。",
+      "below_ground_carbon": "非常に高い。巨大で深くまで達する根系に大量の炭素を蓄積する。",
+      "soil_carbon_enhancement": "土壌有機炭素（SOC）を効果的に増加させる。",
+      "carbon_sequestration_rate": "高い。特に造成初期の数年間。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（アルファルファが窒素を供給）",
+        "果樹（下草として雑草を抑制し、土壌を肥沃にする）"
+      ],
+      "natural_pest_control": "天敵昆虫を誘引することで、周辺作物の害虫を抑制することがある。",
+      "nutrient_sharing": "窒素固定により、後作や混植作物のための窒素肥料を削減する。",
+      "allelopathic_interactions": "自家中毒（アレロパシー）作用があり、アルファルファの古い畑では新しいアルファルファの生育が阻害されることがある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "土壌の肥沃度と構造を改善し、生態系全体の安定性を高める。",
+      "stress_tolerance": "高い干ばつ耐性により、乾燥した年でも生産性が維持されやすい。",
+      "recovery_capacity": "刈り取りや軽度のストレスからの回復力が高い。",
+      "adaptability": "多様な気候や土壌条件に適応する能力がある。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代におけるアルファルファの価値は、持続可能な食料システムと健康志向の食品市場の両方で認識されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "スプラウトはビタミンとミネラルが豊富な植物性食品。葉からは高タンパク質の濃縮物（リーフプロテイン）を製造する技術も開発されている。",
+      "food_security_contribution": "間接的だが極めて重要。持続可能な家畜生産を支えることで、世界のタンパク質供給に貢献している。",
+      "local_food_system_integration": "輪作体系に組み込むことで、地域の土壌肥沃度を維持し、化学肥料への依存を減らす。",
+      "alternative_protein_potential": "葉から抽出されるタンパク質は、代替肉や植物性ミルクの原料としての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・サプリメント市場",
+        "植物性タンパク質市場",
+        "リジェネラティブ農業向け緑肥・カバークロップ市場"
+      ],
+      "value_added_products": [
+        "アルファルファスプラウト",
+        "アルファルファ茶",
+        "栄養補助食品（錠剤、粉末）",
+        "葉タンパク質濃縮物"
+      ],
+      "niche_market_value": "オーガニックや非遺伝子組み換えの飼料として高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種としてのアルファルファ自体に絶滅の危機はないが、特定の地域に適応したランドレースや野生近縁種の遺伝的多様性は、生息地の破壊や近代品種への置き換えによって脅かされている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地の中央アジアや中東における野生近縁種の生息地（草原）が、過放牧や都市化によって脅かされている。",
+    "climate_change_vulnerability": "野生個体群は、気候変動による生息地の変化に対して脆弱である可能性がある。",
+    "cultural_erosion_risk": "伝統的なランドレースとその利用知識が、近代的な単一品種の普及によって失われるリスクがある。",
+    "conservation_actions_needed": [
+      "野生近縁種およびランドレースの体系的な探索と収集",
+      "ジーンバンクにおける種子（ex-situ）の長期保存",
+      "原産地における生息域内（in-situ）保全地域の設立と農家による種子保存の支援"
+    ],
+    "priority_conservation_regions": [
+      "イラン高原",
+      "コーカサス地方",
+      "アナトリア高原",
+      "中央アジアのステップ地帯"
+    ],
+    "ex_situ_conservation_status": "主要な国際ジーンバンク（ICARDA、USDAなど）に多数のアクセスが保存されているが、網羅性は完全ではない。",
+    "in_situ_conservation_efforts": "一部地域で進行中だが、より広範な取り組みが必要。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "N/A",
+      "confidence_level": "high",
+      "source_comment": "これは本AIによる専門的評価です。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中央アジア",
+      "地中海沿岸"
+    ],
+    "knowledge_gaps": [
+      "伝統的な人間による食用利用の民族植物学的記録",
+      "気候変動シナリオ下での送粉者との相互作用の変化",
+      "多様なランドレースの機能性成分の比較分析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に育種会社の資料に基づく。伝統的なランドレースに関する詳細な情報は限定的。"
+      },
+      "variety_name": "Vernal",
+      "local_name": "Vernal",
+      "origin_region": "アメリカ合衆国（ウィスコンシン州）",
+      "distinctive_characteristics": "優れた耐寒性と萎凋病への耐性を持つ。北米の寒冷地におけるアルファルファ生産の基礎を築いた。",
+      "cultural_importance": "20世紀半ばの北米における酪農・畜産業の拡大を支えた画期的な品種。",
+      "climate_adaptation": "寒冷気候に非常に強い。",
+      "conservation_status": "広く利用されているが、より新しい品種に代替されつつある。"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "ランドレースに関する学術的情報は断片的。"
+      },
+      "variety_name": "Arabian Alfalfa (Landrace group)",
+      "local_name": "Hegazi",
+      "origin_region": "アラビア半島",
+      "distinctive_characteristics": "非休眠性で、温暖な冬の間も成長を続ける。耐乾性と耐塩性が比較的高い。",
+      "cultural_importance": "中東の伝統的なオアシス農業や家畜飼育を支えてきた。",
+      "climate_adaptation": "亜熱帯および乾燥地の温暖な冬に適応。",
+      "conservation_status": "遺伝的浸食のリスクがある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAO (Food and Agriculture Organization of the United Nations)",
+      "GRIN-Global Taxonomy",
+      "USDA National Nutrient Database",
+      "Ethnobotanical literature reviews"
+    ],
+    "major_knowledge_gaps": [
+      "多様なランドレースの気候変動応答に関する定量的データ",
+      "人間が食用とする際の伝統的調理法と文化的背景の詳細",
+      "リジェネラティブ農業システムにおける炭素隔離能力の長期的定量的評価"
+    ],
+    "regional_data_coverage": "北米、ヨーロッパ、オーストラリアのデータは豊富。原産地である中央アジア・中東のランドレースに関する体系的データは比較的少ない。",
+    "missing_information": [
+      "先住民コミュニティによる伝統的名称や利用法",
+      "小規模農家レベルでの栽培・利用実態"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

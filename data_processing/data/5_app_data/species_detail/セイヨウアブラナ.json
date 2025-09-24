@@ -1,0 +1,722 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Brassica napus is a major global crop with extensive scientific literature. Its origin as a hybrid is well-established, though the exact time and place are inferred. Wild populations are typically feral escapes."
+    },
+    "primary_name": "Rapeseed",
+    "scientific_name": "Brassica napus",
+    "plant_type": "Annual/Biennial",
+    "edible_parts": [
+      "種子",
+      "根",
+      "葉",
+      "花"
+    ],
+    "origin_region": "ヨーロッパまたは地中海沿岸（Brassica rapaとBrassica oleraceaの自然交雑により成立）",
+    "wild_relatives": [
+      "Brassica rapa",
+      "Brassica oleracea",
+      "Brassica juncea",
+      "Sinapis arvensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names vary significantly depending on the cultivar group (oilseed vs. root vegetable)."
+    },
+    "international": {
+      "en": [
+        "Rapeseed",
+        "Canola",
+        "Rutabaga",
+        "Swede",
+        "Swedish turnip"
+      ],
+      "scientific_common": "Rapeseed"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Colza",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Raps",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Colza",
+            "script": "Latn"
+          },
+          {
+            "lang": "sv",
+            "name": "Raps (oilseed), Kålrot (rutabaga)",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "セイヨウアブラナ (Seiyō aburana)",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "欧洲油菜 (Ōuzhōu yóucài)",
+            "script": "Hans"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "सरसों (Sarson) - Note: often conflated with Brassica juncea",
+            "script": "Deva"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Canola (for edible oil varieties), Rutabaga",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "該当なし",
+        "name": "該当なし",
+        "cultural_significance": "Brassica napus is a relatively recent hybrid species and lacks deep pre-colonial indigenous names or uses distinct from its parent species."
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomy is well-established based on the 'Triangle of U' theory by Woo Jang-choon."
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Mustard",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Rapeseed",
+      "la": "Brassica napus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "napus"
+      },
+      {
+        "rank": "var.",
+        "name": "napus (oilseed rape)"
+      },
+      {
+        "rank": "var.",
+        "name": "napobrassica (rutabaga, swede)"
+      },
+      {
+        "rank": "var.",
+        "name": "pabularia (Siberian kale)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural value differs starkly between its forms: an industrial oilseed crop versus a traditional root vegetable."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "副菜"
+        ],
+        "traditional_uses": "Historically used for lamp oil. Rutabaga (swede) is a traditional winter staple in Northern Europe (e.g., Scotland, Scandinavia), especially during times of hardship. Rapeseed oil is a primary cooking oil.",
+        "seasonal_significance": "Rutabaga is a key winter vegetable. Rapeseed flowers are an iconic sign of spring.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "Dominated by 'Canola' (a Canadian-developed variety) as a major source of edible oil and animal feed. Rutabaga is a minor traditional vegetable, part of European immigrant foodways.",
+        "seasonal_significance": "Major spring-planted crop in the prairies.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "Primarily cultivated as a major oilseed crop, especially in China. Its parent species (B. rapa) has a much deeper cultural and culinary history in the region.",
+        "seasonal_significance": "Winter crop in southern China, providing spring tourism with vast flower fields.",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "北欧・英国料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Neeps and tatties (Scotland)",
+          "Rotmos (Sweden)",
+          "Cornish pasty (England)"
+        ],
+        "preparation_methods": [
+          "Boiling",
+          "Mashing",
+          "Roasting"
+        ],
+        "cultural_context": "Rutabaga/Swede is a historical root vegetable valued for its storage qualities and providing sustenance through long winters."
+      },
+      {
+        "cuisine": "国際現代料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "N/A (as an ingredient)"
+        ],
+        "preparation_methods": [
+          "Frying",
+          "Baking",
+          "Salad dressing"
+        ],
+        "cultural_context": "Canola/rapeseed oil is a globally ubiquitous, neutral-flavored cooking oil used across countless cuisines."
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "Parent species were used in antiquity. B. napus itself is more recent, with widespread cultivation beginning in the Middle Ages.",
+      "trade_routes": "Rapeseed oil was an important commodity for lighting in Europe from the 13th century onwards.",
+      "cultural_exchange": "The development of 'Canola' in Canada in the 1970s transformed it from an industrial/animal feed crop into a global edible oil, a major 20th-century agricultural innovation.",
+      "domestication_history": "Originated as a spontaneous allopolyploid hybrid between cultivated B. rapa and B. oleracea. It was then selected for various traits (high oil content, root size, low anti-nutrients)."
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "Requires vernalization (a cool period) for many varieties, making it unsuitable for tropical climates."
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "Can be grown as a winter crop in subtropical regions."
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "Optimal zone. Cool, moist conditions. Growing season temperatures of 12-20°C are ideal."
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "Spring-sown varieties are well-adapted to continental climates with cold winters and warm summers, like the Canadian Prairies."
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "High water requirement, not suitable for arid conditions without irrigation."
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "Growing season is too short and temperatures are too low."
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯 (冬作)",
+        "planting_season": "秋 (8-9月)",
+        "harvest_season": "初夏 (6-7月)",
+        "growing_period_days": "280-320"
+      },
+      {
+        "climate_zone": "大陸性/冷涼温帯 (春作)",
+        "planting_season": "春 (4-5月)",
+        "harvest_season": "晩夏 (8-9月)",
+        "growing_period_days": "90-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "2,000 - 5,000 kg/ha (oilseed)",
+      "factors_affecting_yield": [
+        "Sowing date",
+        "Water availability during flowering",
+        "Heat stress during flowering",
+        "Nitrogen and sulfur fertilization",
+        "Pest and disease pressure",
+        "Pollination"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約7,000万 - 8,000万トン (Rapeseed)",
+      "major_producers": [
+        {
+          "country": "カナダ",
+          "production_share": 25,
+          "characteristics": "World's largest exporter, primarily spring-sown Canola varieties, highly mechanized."
+        },
+        {
+          "country": "欧州連合",
+          "production_share": 25,
+          "characteristics": "Primarily winter-sown varieties, major producers are Germany and France."
+        },
+        {
+          "country": "中国",
+          "production_share": 20,
+          "characteristics": "Large domestic consumption, primarily winter-sown in the Yangtze River basin."
+        },
+        {
+          "country": "インド",
+          "production_share": 10,
+          "characteristics": "Grown as a winter 'Rabi' crop, often grouped with other mustards under 'rapeseed-mustard'."
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Extensive data exists for Canola oil and Rutabaga. Nutritional content varies by cultivar, growing conditions, and plant part."
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "37 (Rutabaga, raw) / 884 (Canola Oil)",
+        "protein_g": "1.1 (Rutabaga) / 0 (Oil)",
+        "carbs_g": "8.6 (Rutabaga) / 0 (Oil)",
+        "fat_g": "0.2 (Rutabaga) / 100 (Oil)",
+        "fiber_g": "2.3 (Rutabaga) / 0 (Oil)"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Vitamin C (Rutabaga)",
+          "amount": "25 mg/100g",
+          "daily_value_percent": 28
+        },
+        {
+          "nutrient": "Potassium (Rutabaga)",
+          "amount": "305 mg/100g",
+          "daily_value_percent": 6
+        },
+        {
+          "nutrient": "Omega-3 (ALA) (Canola Oil)",
+          "amount": "9.1 g/100g",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "Omega-6 (LA) (Canola Oil)",
+          "amount": "18.6 g/100g",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Glucosinolates",
+        "concentration": "High in traditional rapeseed, low in Canola and rutabaga cultivars",
+        "health_effect": "Precursors to isothiocyanates (e.g., sulforaphane) with potential anti-cancer properties. High levels are anti-nutritional."
+      },
+      {
+        "compound": "Erucic Acid",
+        "concentration": "High in traditional rapeseed (>40%), very low in Canola (<2%)",
+        "health_effect": "High intake linked to heart issues in animal studies; bred out of edible varieties."
+      },
+      {
+        "compound": "Tocopherols (Vitamin E)",
+        "concentration": "Present in oil",
+        "health_effect": "Antioxidant."
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "Folk medicine",
+        "uses": [
+          "Poultice for coughs and colds (from mustard family properties)",
+          "Diuretic (rutabaga)"
+        ],
+        "preparation": "Crushed seeds or boiled root preparations. Use is largely historical."
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "Canola oil's fatty acid profile (low saturated fat, high monounsaturated fat, source of omega-3) is associated with reduced risk of cardiovascular disease."
+      ],
+      "ongoing_research": [
+        "Health effects of isothiocyanates from Brassica vegetables",
+        "Use of rapeseed meal as a source of bioactive peptides"
+      ],
+      "safety_considerations": "Consumption of high-erucic acid, high-glucosinolate traditional rapeseed is not recommended. Modern edible varieties (Canola, rutabaga) are safe."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Culinary uses are distinct and well-documented for oil and root forms."
+    },
+    "global_cooking_methods": [
+      {
+        "region": "グローバル (Oil)",
+        "methods": [
+          "Sautéing",
+          "Frying",
+          "Baking",
+          "Roasting",
+          "Dressing"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Virtually all ingredients due to its neutral flavor and high smoke point."
+        ]
+      },
+      {
+        "region": "北ヨーロッパ (Root)",
+        "methods": [
+          "Boiling",
+          "Mashing",
+          "Roasting",
+          "Stewing"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "Potatoes",
+          "Carrots",
+          "Butter",
+          "Black pepper",
+          "Lamb",
+          "Beef"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Oil Extraction and Refining",
+        "regions": [
+          "グローバル"
+        ],
+        "shelf_life": "1-2 years",
+        "quality_changes": "Refining removes impurities and creates a neutral flavor and high smoke point. Cold-pressing preserves more flavor and nutrients but has a shorter shelf life."
+      },
+      {
+        "method": "Root Cellaring",
+        "regions": [
+          "温帯地域"
+        ],
+        "shelf_life": "3-6 months",
+        "quality_changes": "Rutabagas can be stored in cool, dark, humid conditions. Some are waxed to prevent moisture loss."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Oil (Canola): Neutral, bland. Root (Rutabaga): Mildly sweet, earthy, slightly peppery (turnip-like).",
+      "aroma_compounds": [
+        "Isothiocyanates (contribute to peppery notes in root)",
+        "Dimethyl sulfide"
+      ],
+      "texture_characteristics": "Oil: Liquid. Root: Firm, dense when raw; soft, tender when cooked."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Extensive research exists due to its economic importance, but it focuses on current climate stresses. Future projections are based on models and show significant vulnerability."
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "12-20°C",
+      "extreme_heat_survival": "Temperatures >30°C during flowering cause significant flower abortion and yield loss.",
+      "cold_tolerance": "-5°C (spring varieties) to -15°C (winter varieties, with snow cover)"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "Moderate. It has a deep taproot but high water demand, especially during flowering and pod fill.",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1000 mm annually"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "Moderate to Low. Prone to lodging (stem breakage) in high winds and heavy rain.",
+      "hail_damage_recovery": "Poor, especially if it occurs during flowering or pod development.",
+      "rapid_temperature_change": "Sensitive, especially late spring frosts which can destroy flowers."
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "Positive. As a C3 plant, elevated CO2 can increase biomass and yield, but this is often negated by heat and drought stress.",
+      "ozone_sensitivity": "Moderate",
+      "uv_radiation_tolerance": "Moderate"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Highly vulnerable. Warming winters allow pests like cabbage stem flea beetle to expand their range and population, causing major damage.",
+      "disease_resistance_stability": "Breeding programs constantly work on resistance to diseases like blackleg and Sclerotinia, but new pathogen races can emerge under climate change.",
+      "beneficial_organism_relationships": "Reliant on pollinators; pollinator decline poses a significant risk."
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Temperate zones of North America, Europe, China, Australia.",
+        "2050_projection": "Shift poleward. Southern parts of current zones (e.g., Southern Australia, Southern Europe) become marginal. Increased suitability in parts of Russia, Scandinavia, and Northern Canada.",
+        "2100_projection": "Further poleward shift. Significant yield instability predicted in many current core production regions due to increased frequency of heatwaves and droughts during critical growth stages.",
+        "confidence_level": "Medium"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "The hybridization potential of Brassica napus is one of the most studied subjects in crop science, particularly regarding gene flow from GM varieties."
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Freely crosses between oilseed, root, and fodder types."
+      ],
+      "interspecific_compatibility": [
+        "Brassica rapa (parent)",
+        "Brassica juncea",
+        "Brassica carinata",
+        "Sinapis arvensis (Wild Mustard)"
+      ],
+      "intergeneric_possibility": [
+        "Possible with Raphanus (radish) through advanced techniques, but rare naturally."
+      ],
+      "successful_natural_hybrids": [
+        "Hybrids with B. rapa are common in co-occurring feral populations."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "Moderate. Significant diversity exists in rutabaga and fodder types, but oilseed production is dominated by a narrow base of modern cultivars.",
+      "wild_gene_pool": "Its primary gene pool consists of the vast diversity within its parent species, B. rapa and B. oleracea.",
+      "adaptive_genetic_variation": "Moderate. Breeding has focused on yield and quality, but landraces and parent species hold adaptive traits for stress tolerance.",
+      "inbreeding_depression_risk": "Low. It is primarily an outcrossing species."
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "カナダ、ヨーロッパ",
+        "environmental_pressure": "Herbicide application",
+        "adaptive_response": "Evolution of herbicide-resistant feral populations through gene flow from GM herbicide-tolerant cultivars and stacking of different resistance genes.",
+        "time_scale": "5-10 years",
+        "mechanism": "Gene flow via pollen, seed spill, and hybridization with wild relatives."
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "High potential by crossing with drought/heat tolerant relatives like B. carinata or specific B. rapa/oleracea landraces.",
+      "improved_nutritional_content": "The basis of Canola development (reducing erucic acid/glucosinolates) and ongoing work to improve oil profiles (e.g., high omega-3).",
+      "novel_characteristics": "Disease resistance, pest resistance, and herbicide tolerance are frequently introduced via hybridization and genetic engineering.",
+      "hybrid_vigor_potential": "High. Hybrid varieties dominate commercial production due to significant heterosis for yield."
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Low with many related species, which is a major concern for transgene containment.",
+      "chromosome_compatibility": "As an allotetraploid (AACC genomes), it has complex compatibility with its diploid parents (B. rapa AA, B. oleracea CC).",
+      "fertility_of_hybrids": "Often fertile, especially with closely related species, facilitating gene flow.",
+      "backcrossing_success": "High, used extensively in breeding programs."
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "Pest pressure",
+        "adaptive_traits": "Glucosinolate levels, physical defenses (hairs)",
+        "heritability": "Moderate to high",
+        "response_to_selection": "Can be rapid"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "While its role as a break crop is well-known, quantitative data on its benefits within holistic regenerative systems is emerging but not yet comprehensive."
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Deep taproot (up to 2 meters) that can break through compacted soil layers ('biodrilling'), improving water infiltration and soil structure.",
+      "organic_matter_contribution": "High biomass production provides significant residue that can be incorporated into the soil.",
+      "soil_structure_improvement": "Taproot creates macropores, enhancing aeration and drainage.",
+      "erosion_control": "Winter-sown varieties provide excellent ground cover during winter months, reducing wind and water erosion.",
+      "nutrient_cycling_role": "Effective at scavenging residual nitrogen left from previous cereal crops, preventing leaching."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "Massive flowering provides an essential early-season nectar and pollen source for bees and other pollinators. However, pesticide use in conventional systems can turn it into an ecological trap.",
+      "beneficial_insect_habitat": "Can host beneficial insects, but also major pests.",
+      "soil_microorganism_interaction": "Glucosinolates in root exudates have a 'biofumigant' effect, suppressing some soil-borne pathogens, which is a key benefit in crop rotation.",
+      "above_ground_biodiversity": "In monoculture, it supports low biodiversity. In diversified systems (e.g., intercropping), it can be beneficial."
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "Improved due to deep rooting channels.",
+      "moisture_retention": "Increased soil organic matter from crop residues enhances water holding capacity.",
+      "runoff_reduction": "Good canopy cover reduces raindrop impact and surface runoff.",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "Moderate to High",
+      "below_ground_carbon": "High, due to the deep and extensive root system.",
+      "soil_carbon_enhancement": "Effective as a break crop in no-till systems to build soil organic carbon.",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Often used in rotation with cereals (wheat, barley) to break disease cycles.",
+        "Can be intercropped with legumes (clover, vetch) as a cover crop."
+      ],
+      "natural_pest_control": "Limited. It is susceptible to many pests.",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "Minor effects reported."
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "Its primary role is enhancing stability through rotation, not as a standalone resilient crop.",
+      "stress_tolerance": "Low tolerance to climate stresses (heat, drought) limits its contribution to system resilience under climate change.",
+      "recovery_capacity": "Poor",
+      "adaptability": "High at the genetic level (breeding), low at the individual plant level."
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "As a major commodity, its modern applications are extensive and well-documented."
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "Canola oil is a key plant-based fat. The protein-rich meal is a primary animal feed, reducing reliance on other protein sources.",
+      "food_security_contribution": "One of the world's top four sources of vegetable oil, critical for global food security.",
+      "local_food_system_integration": "Rutabagas and specialty rapeseed oils (cold-pressed) can be important components of local food systems in temperate climates.",
+      "alternative_protein_potential": "High. Research is underway to develop rapeseed/canola protein isolates for human consumption, competing with soy and pea protein."
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Plant-based protein for human food",
+        "Biofuels and biolubricants",
+        "High-oleic and other specialty oils"
+      ],
+      "value_added_products": [
+        "Cold-pressed culinary oils",
+        "Canola protein isolates",
+        "Fortified oils"
+      ],
+      "niche_market_value": "High for artisanal, single-origin, cold-pressed rapeseed oils and for heirloom rutabaga varieties."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Focus is on ex-situ conservation of genetic resources for breeding. In-situ and cultural conservation receive less attention."
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "Threat applies to its wild parent species (B. rapa, B. oleracea), whose coastal and disturbed habitats are under pressure.",
+    "climate_change_vulnerability": "High, due to its sensitivity to heat and drought during flowering.",
+    "cultural_erosion_risk": "High for traditional rutabaga varieties and their associated foodways, which are being replaced by more globally common vegetables.",
+    "conservation_actions_needed": [
+      "Ex-situ conservation of all landraces and crop wild relatives in gene banks.",
+      "On-farm conservation of traditional rutabaga and fodder varieties.",
+      "In-situ conservation of wild B. rapa and B. oleracea populations."
+    ],
+    "priority_conservation_regions": [
+      "Mediterranean (center of diversity for parent species)",
+      "Northern Europe (center of diversity for rutabaga landraces)"
+    ],
+    "ex_situ_conservation_status": "Good. Major gene banks hold extensive collections.",
+    "in_situ_conservation_efforts": "Limited. Primarily focused on the wild relatives within protected areas."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Evaluation based on its complex role as a global industrial crop and a traditional vegetable facing climate and cultural pressures."
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 10,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "Canadian Prairies (climate change impacts on spring canola)",
+      "Northern Europe (conservation of rutabaga diversity)",
+      "Australia (breeding for heat and drought tolerance)"
+    ],
+    "knowledge_gaps": [
+      "Quantitative impacts on soil health in diverse regenerative systems.",
+      "Interactions between heat, drought, and elevated CO2 on yield in field conditions.",
+      "Socio-economic value of rutabaga landraces in local food systems."
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Canola",
+      "local_name": "Canola",
+      "origin_region": "カナダ",
+      "distinctive_characteristics": "Genetically defined as having less than 2% erucic acid in its oil and less than 30 μmol/g of glucosinolates in its meal. This makes it safe and palatable for human and animal consumption.",
+      "cultural_importance": "A cornerstone of the Canadian agricultural economy and a globally significant source of edible oil.",
+      "climate_adaptation": "Varieties are bred for specific latitudes (spring vs. winter types), but generally have low tolerance for heat and drought stress.",
+      "conservation_status": "Not applicable (commercial category)"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": ""
+      },
+      "variety_name": "American Purple Top",
+      "local_name": "Rutabaga",
+      "origin_region": "ヨーロッパ (widely grown in North America)",
+      "distinctive_characteristics": "Large, spherical root, yellow flesh with a purple crown. Sweet, mild flavor. Good storage qualities.",
+      "cultural_importance": "A traditional, common variety of rutabaga, important in North American and European home gardening and traditional cuisine.",
+      "climate_adaptation": "Well-adapted to cool, temperate climates. Requires a long growing season.",
+      "conservation_status": "Low risk"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "Plants of the World Online (Kew)",
+      "Scientific literature reviews on Brassica genetics and climate change",
+      "Crop Trust Genebank databases"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative data on ecosystem services (e.g., carbon sequestration rate) in real-world regenerative farming systems.",
+      "Climate change adaptation potential of specific landraces vs. commercial hybrids.",
+      "Documentation of cultural knowledge associated with rutabaga landraces."
+    ],
+    "regional_data_coverage": "Excellent for North America and Europe; good for China and Australia; moderate for India and South America.",
+    "missing_information": [
+      "Detailed ethnobotanical information on rutabaga and fodder types.",
+      "Comprehensive data on allele diversity for climate adaptation traits across all landraces."
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

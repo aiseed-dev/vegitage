@@ -1,0 +1,656 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is well-documented in major botanical and horticultural databases. The distinction from Cichorium intybus (chicory/Belgian endive) is a common point of confusion."
+    },
+    "primary_name": "Endive",
+    "scientific_name": "Cichorium endivia",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉"
+    ],
+    "origin_region": "地中海地域",
+    "wild_relatives": [
+      "Cichorium pumilum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Names are well-documented in European languages. Names in other regions are often loanwords or non-specific. Indigenous names outside the center of origin are not well-documented as it's an introduced crop."
+    },
+    "international": {
+      "en": [
+        "Endive",
+        "Escarole",
+        "Frisée"
+      ],
+      "scientific_common": "Endive"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Chicorée frisée, Scarole",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Indivia riccia, Scarola",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Escarola",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Endivie, Frisée",
+            "script": "Latin"
+          },
+          {
+            "lang": "nl",
+            "name": "Andijvie",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Endive, Escarole, Frisée",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "アンディーブ, ニガヂシャ",
+            "script": "Katakana, Hiragana, Kanji"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is stable and well-established."
+    },
+    "family": {
+      "en": "Daisy family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Chicory",
+      "la": "Cichorium"
+    },
+    "species": {
+      "en": "Endive",
+      "la": "Cichorium endivia"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "crispum (Curled Endive / Frisée)"
+      },
+      {
+        "rank": "var.",
+        "name": "latifolium (Broad-leaved Endive / Escarole)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural history is well-documented, particularly within European culinary traditions since antiquity."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "サラダ、スープ、煮込み料理、グリルなど、生食と加熱調理の両方で広く利用される。特にイタリア南部では冬の重要な野菜。",
+        "seasonal_significance": "秋から冬にかけての重要な葉物野菜",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "西ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "フランス料理では、フリゼ・オ・ラルドン（ベーコンとポーチドエッグのサラダ）が象徴的。オランダではスタンポット（マッシュポテトとの煮込み）に使われる。",
+        "seasonal_significance": "秋・冬の野菜",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Insalata di scarola",
+          "Scarola 'mbuttunata' (stuffed escarole)"
+        ],
+        "preparation_methods": [
+          "生食",
+          "煮込み",
+          "ソテー"
+        ],
+        "cultural_context": "特に南部イタリアのクチーナ・ポーヴェラ（貧者の料理）において、栄養価が高く風味豊かな冬野菜として重要な役割を果たしてきた。"
+      },
+      {
+        "cuisine": "フランス料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Frisée aux lardons",
+          "Salade Lyonnaise"
+        ],
+        "preparation_methods": [
+          "生食（サラダ）"
+        ],
+        "cultural_context": "ビストロ料理の定番であり、フリゼのほろ苦さと食感が、ベーコンの脂や卵の濃厚さと絶妙なコントラストを生む。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト、ギリシャ、ローマ時代から栽培・利用されていた記録がある。大プリニウスの『博物誌』にも記述が見られる。",
+      "trade_routes": "ローマ帝国を通じてヨーロッパ全土に広まった。大航海時代以降、新大陸へも伝播した。",
+      "cultural_exchange": "地中海食文化の象徴的な食材の一つとして、世界中の食文化に影響を与えた。",
+      "domestication_history": "地中海東部原産の野生種Cichorium pumilumから栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿では生育不良や病気が発生しやすく、栽培は困難。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の涼しい時期に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春と秋の冷涼な気候が最適。生育適温は15-20℃。夏の高温は抽苔（とうだち）を誘発する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の短い冷涼な地域で栽培可能。厳しい冬の前には収穫が必要。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑設備があれば栽培可能だが、水ストレスは苦味を増大させる。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温のため栽培は困難。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春、晩夏",
+        "harvest_season": "初夏、秋から初冬",
+        "growing_period_days": "60-90"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋",
+        "harvest_season": "冬から早春",
+        "growing_period_days": "70-100"
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "気温（高温による抽苔）",
+        "日長",
+        "土壌水分",
+        "施肥管理",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "多様な品種が栽培され、国内消費、輸出ともに盛ん。"
+        },
+        {
+          "country": "イタリア",
+          "production_share": "不明",
+          "characteristics": "特に南部で伝統的に栽培されており、地域料理に不可欠。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "カリフォルニア州やアリゾナ州で商業生産が行われている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "17",
+        "protein_g": "1.3",
+        "carbs_g": "3.4",
+        "fat_g": "0.2",
+        "fiber_g": "3.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "231 µg",
+          "daily_value_percent": "193"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "2167 IU",
+          "daily_value_percent": "43"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "142 µg",
+          "daily_value_percent": "36"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.4 mg",
+          "daily_value_percent": "18"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "セスキテルペンラクトン（ラクチュシン、ラクチュコピクリン）",
+        "concentration": "不明",
+        "health_effect": "苦味成分であり、消化促進、鎮静、鎮痛作用の可能性が示唆されている。"
+      },
+      {
+        "compound": "ケンペロール",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用を持つフラボノイド。"
+      },
+      {
+        "compound": "イヌリン",
+        "concentration": "少量",
+        "health_effect": "プレバイオティクスとして腸内環境を改善する水溶性食物繊維。（同属のチコリの根ほど多くはない）"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "食欲増進",
+          "消化不良の改善",
+          "肝機能の補助",
+          "緩下剤"
+        ],
+        "preparation": "生の葉のジュース、または葉の煎じ薬として利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高栄養価（特にビタミンK）",
+        "食物繊維による消化器系への好影響"
+      ],
+      "ongoing_research": [
+        "セスキテルペンラクトンの薬理効果",
+        "抗酸化物質の健康への寄与"
+      ],
+      "safety_considerations": "一般的に安全な食品だが、キク科アレルギーを持つ人は注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "調理法は世界の料理本や食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "生食（サラダ）",
+          "ソテー",
+          "煮込み",
+          "グリル",
+          "スープの具"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ニンニク",
+          "オリーブオイル",
+          "アンチョビ",
+          "レーズン",
+          "松の実",
+          "チーズ"
+        ]
+      },
+      {
+        "region": "フランス・ベネルクス",
+        "methods": [
+          "生食（サラダ）",
+          "煮込み（マッシュポテトと）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ベーコン（ラルドン）",
+          "ポーチドエッグ",
+          "クルミ",
+          "ブルーチーズ",
+          "ジャガイモ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷蔵保存",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-2週間",
+        "quality_changes": "湿らせたペーパータオルに包み、ビニール袋に入れると鮮度が長持ちする。時間と共にしなび、苦味が増すことがある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほろ苦さ（приятная горечь）、わずかな甘み、ナッツのような風味",
+      "aroma_compounds": [
+        "セスキテルペンラクトン類"
+      ],
+      "texture_characteristics": "フリゼ種はシャキシャキして歯ごたえがある。エスカル種はより柔らかく、しなやか。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、気候変動シナリオ下での定量的実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "25℃以上が続くと抽苔し、品質が著しく低下する。",
+      "cold_tolerance": "-5°C程度までの軽い霜には耐える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間中、定期的で適度な降雨（または灌漑）が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が傷つきやすいが、株自体は比較的頑丈。",
+      "hail_damage_recovery": "低い。葉の商品価値が失われる。",
+      "rapid_temperature_change": "急激な高温は抽苔を誘発する。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。他のC3植物と同様に、限定的な生育促進効果が期待されるが、高温ストレスがそれを上回る可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやヨトウムシなどの害虫の発生期間が長期化する可能性がある。",
+      "disease_resistance_stability": "高温多湿は軟腐病や菌核病のリスクを高める。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯、亜熱帯（冬季）",
+        "2050_projection": "温帯域の高緯度地域への栽培適地の北上。地中海地域では冬作に限定される可能性が高まる。",
+        "2100_projection": "北ヨーロッパやカナダ南部などが新たな栽培適地となる可能性がある。現在の主要産地では栽培が困難になるリスクがある。",
+        "confidence_level": "低い"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "近縁種であるチコリとの交雑親和性が高いことは育種学的に知られている。自然環境下での交雑事例の記録は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "var. crispum と var. latifolium は容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Cichorium intybus (チコリ)"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "C. endivia と C. intybus の自然交雑は、両種が近接して栽培されている地域で起こりうる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である地中海地域には、多様な地方品種（ランドレース）が存在し、耐病性や環境適応性に関する貴重な遺伝資源となっている。",
+      "wild_gene_pool": "野生近縁種 C. pumilum との遺伝的交流の可能性は、耐乾性などのストレス耐性形質の導入源として価値がある。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "自家不和合性が弱いため、自家受粉による近交弱勢のリスクは中程度。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "C. intybus が持つより強い根系や耐乾性を導入できる可能性がある。",
+      "improved_nutritional_content": "C. intybus の根に含まれる高濃度のイヌリンを葉に発現させるなどの改変の可能性がある。",
+      "novel_characteristics": "葉の形、色、苦味の程度の新しい組み合わせが生まれる可能性がある（例：ラディッキオとの交雑による赤色エンダイブ）。",
+      "hybrid_vigor_potential": "高い。種間雑種は強健な生育を示すことがある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "C. endivia と C. intybus の間には顕著な交雑障壁はない。",
+      "chromosome_compatibility": "両種ともに 2n=18 であり、染色体適合性は高い。",
+      "fertility_of_hybrids": "雑種第一代（F1）は通常、稔性を持つ。",
+      "backcrossing_success": "戻し交配は育種プログラムで一般的に行われる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い根系、クチクラ層の発達",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "エンダイブに特化したリジェネラティブ農業の研究はほとんどない。評価は、キク科葉物野菜の一般的な特性と根系の特徴からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "レタスよりは深いが、比較的浅い直根性の根系を持つ。軽度の土壌硬盤を貫通する可能性がある。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物として貢献する。",
+      "soil_structure_improvement": "根が土壌に孔隙を作り、団粒構造の形成を助ける。",
+      "erosion_control": "生育中は地表を覆うことで、風雨による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "土壌表層から養分を吸収する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期（抽苔後）には、青い美しい花がミツバチや他の花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の働きにより、土壌への水の浸透をわずかに促進する。",
+      "moisture_retention": "被覆作物として土壌水分の蒸発を抑える効果がある。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い。一年草であり、根のバイオマスは限定的。",
+      "soil_carbon_enhancement": "残渣の鋤き込みにより、土壌炭素の増加にわずかに貢献する。",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン、キュウリ、タマネギ"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物を輪作に組み込むことで、生態系の安定性に貢献する。",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "中",
+      "adaptability": "中"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食文化における位置づけは、料理雑誌や市場調査でよく議論されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラル、食物繊維が豊富で、植物中心の食事において重要な役割を果たす。",
+      "food_security_contribution": "冷涼な季節に栽培できるため、年間を通じた食料供給の多様化に貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットやCSA（地域支援型農業）で人気があり、地域食品システムに適している。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "サラダミックスの高級食材としての需要増",
+        "健康志向の高まりによる「苦味野菜」への関心"
+      ],
+      "value_added_products": [
+        "カット済み洗浄済みサラダパック",
+        "レストラン向けのベビーリーフ"
+      ],
+      "niche_market_value": "グルメ市場や高級レストランにおいて、その独特の風味と食感が評価されている。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な商業品種の保全状況は良好だが、地中海地域の地方品種の消失リスクに関するデータは断片的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の生息地は、地中海地域の開発や気候変動によって脅かされている。",
+    "climate_change_vulnerability": "高い。特に高温に対する脆弱性がリスクとなる。",
+    "cultural_erosion_risk": "中。伝統的な食文化が均質化する中で、地方品種やそれを用いた料理が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "地中海地域の地方品種の探索と収集",
+      "ジーンバンクでの種子保存（域外保全）",
+      "伝統的栽培農家と連携したオンファーム保全（域内保全）"
+    ],
+    "priority_conservation_regions": [
+      "イタリア南部",
+      "ギリシャ",
+      "トルコ沿岸部"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数の品種が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域でスローフード運動などを通じて保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集された情報に基づく総合的な判断である。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "地中海地域（遺伝的多様性と伝統的利用法）",
+      "高緯度温帯地域（気候変動下での新たな栽培適地）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、CO2濃度）に対する品種レベルでの生理的応答の定量的データ",
+      "地方品種が持つストレス耐性遺伝子の特定",
+      "リジェネラティブ農業システムにおける具体的な土壌・生態系への貢献度評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種情報は園芸学的に広く知られている。"
+      },
+      "variety_name": "Frisée (C. endivia var. crispum)",
+      "local_name": "Chicorée frisée (フランス), Indivia riccia (イタリア)",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "細かく縮れたレース状の葉。中心部は白っぽく、外葉は緑色。強い苦味とシャキシャキした食感が特徴。",
+      "cultural_importance": "フランスのビストロサラダの象徴的な食材。",
+      "climate_adaptation": "高温で抽苔しやすく、苦味が強くなりすぎる傾向がある。",
+      "conservation_status": "広く栽培されており、リスクは低い。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種情報は園芸学的に広く知られている。"
+      },
+      "variety_name": "Escarole (C. endivia var. latifolium)",
+      "local_name": "Scarole (フランス), Scarola (イタリア)",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "幅広で、わずかに波打つ葉。フリゼよりも苦味が穏やかで、肉厚で柔らかい。加熱調理に向く。",
+      "cultural_importance": "イタリア料理、特に南部のスープや煮込み料理に不可欠。",
+      "climate_adaptation": "フリゼよりもわずかに耐暑性があるとされる品種もある。",
+      "conservation_status": "広く栽培されており、リスクは低い。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "FAOSTAT (for general production trends)",
+      "Various ethnobotanical and horticultural research papers",
+      "USDA FoodData Central"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "非ヨーロッパ文化圏での伝統的利用法"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に偏っており、他の地域に関する情報は限定的。",
+    "missing_information": [
+      "正確な世界総生産量",
+      "野生近縁種との自然交雑の頻度と影響",
+      "各品種の具体的なストレス耐性の閾値"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

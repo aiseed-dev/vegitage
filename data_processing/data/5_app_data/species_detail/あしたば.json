@@ -1,0 +1,577 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is well-documented in Japanese botanical and agricultural databases. Wild relative information is based on phylogenetic studies of the Angelica genus."
+    },
+    "primary_name": "Ashitaba",
+    "scientific_name": "Angelica keiskei",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "日本（伊豆諸島、房総半島などの太平洋沿岸）",
+    "wild_relatives": [
+      "Angelica japonica",
+      "Angelica edulis",
+      "Angelica polymorpha"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "Names are well-documented for its native region but limited internationally due to its localized cultivation."
+    },
+    "international": {
+      "en": [
+        "Ashitaba",
+        "Tomorrow's Leaf"
+      ],
+      "scientific_common": "Angelica keiskei"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "明日葉",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ja",
+            "name": "アシタバ",
+            "script": "Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "伊豆諸島住民",
+        "name": "アシタバ",
+        "cultural_significance": "「今日摘んでも明日には新しい芽が出る」ほどの強い生命力を象徴し、長寿と健康の源とされる伝統食材。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established in global botanical databases like Kew and NCBI."
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Angelica",
+      "la": "Angelica"
+    },
+    "species": {
+      "en": "Ashitaba",
+      "la": "keiskei"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Cultural value is extremely high and well-documented within Japan, but almost non-existent elsewhere. The evaluation reflects this dichotomy."
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "日本（特に伊豆諸島）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物",
+          "文化的象徴"
+        ],
+        "traditional_uses": "若葉・茎をおひたし、天ぷら、和え物、汁物などで食す。健康維持のための青汁の原料として飲用。江戸時代には「不老長寿の薬草」として珍重された歴史を持つ。",
+        "seasonal_significance": "春に最も柔らかい新芽が収穫されるが、温暖な気候ではほぼ通年収穫可能。生命力の象徴。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（郷土料理）",
+        "role": "essential",
+        "traditional_dishes": [
+          "明日葉の天ぷら",
+          "明日葉のおひたし",
+          "明日葉の胡麻和え",
+          "青汁"
+        ],
+        "preparation_methods": [
+          "揚げる",
+          "茹でる",
+          "炒める",
+          "生食（ジュース）"
+        ],
+        "cultural_context": "伊豆諸島の厳しい自然環境で生きる人々の健康を支えてきた「薬食同源」を体現する食材。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "江戸時代の貝原益軒『大和本草』に記載があり、古くから薬草として認識されていた。",
+      "trade_routes": "限定的な地域産品であり、歴史的な広域交易の対象ではなかった。",
+      "cultural_exchange": "近年、健康食品として東アジアや欧米に紹介され、新たな文化交流の要素となっている。",
+      "domestication_history": "野生種の利用から始まり、伊豆諸島を中心に栽培化が進んだ。明確な栽培化の年代は不明だが、地域内での選抜育種が行われてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、生育不良となる。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季に栽培可能だが、夏季の高温期は生育が停滞する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "海洋性の温暖な気候が最適。冬の霜や夏の酷暑を嫌う。年間平均気温15℃前後、水はけの良い土壌。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さに耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱く、生育期間が確保できない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（海洋性）",
+        "planting_season": "春または秋",
+        "harvest_season": "ほぼ通年（最盛期は春）",
+        "growing_period_days": "180-365"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照条件（半日陰を好む）",
+        "水分",
+        "土壌の水はけ",
+        "収穫頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（推定数千トン）",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": 99,
+          "characteristics": "東京都（八丈島、三宅島）、千葉県、神奈川県などが主産地。伝統的な小規模栽培が多い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栄養成分、特に機能性成分カルコン類に関する科学的研究が豊富に存在する。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "33",
+        "protein_g": "2.9",
+        "carbs_g": "5.6",
+        "fat_g": "0.3",
+        "fiber_g": "3.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "5300 µg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "500 µg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "540 mg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "41 mg",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "キサントアンゲロール",
+        "concentration": "茎の分泌液に高濃度",
+        "health_effect": "強力な抗酸化作用、抗がん作用、抗炎症作用、抗菌作用"
+      },
+      {
+        "compound": "4-ヒドロキシデリシン",
+        "concentration": "茎の分泌液に高濃度",
+        "health_effect": "インスリン抵抗性改善、抗糖尿病作用、抗肥満作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "日本",
+        "medical_system": "民間療法（本草学）",
+        "uses": [
+          "滋養強壮",
+          "利尿作用",
+          "高血圧予防",
+          "便通改善"
+        ],
+        "preparation": "生葉を食す、または乾燥させてお茶として飲用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用",
+        "血糖値上昇抑制作用",
+        "内臓脂肪蓄積抑制作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用（特に皮膚がん、肺がん）",
+        "アルツハイマー病予防効果",
+        "細胞のオートファジー促進作用"
+      ],
+      "safety_considerations": "セリ科アレルギーを持つ人は注意が必要。光感作を引き起こすフロクマリン類を含むため、過剰摂取には注意。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "日本の料理文化における利用法は広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "揚げる（天ぷら）",
+          "茹でる（おひたし）",
+          "和える（胡麻和え）",
+          "炒める",
+          "ジュースにする（青汁）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "ごま",
+          "鰹節",
+          "油"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・粉末化",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "色や一部の揮発性香気成分は失われるが、主要な機能性成分であるカルコン類は比較的安定している。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "約6ヶ月",
+        "quality_changes": "食感はやや損なわれるが、風味や栄養価は比較的保たれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "独特の苦味とセリ科特有の爽やかな香り。春の新芽は苦味が少なくマイルド。",
+      "aroma_compounds": [
+        "ピネン",
+        "リモネン",
+        "テルピノレン"
+      ],
+      "texture_characteristics": "シャキシャキとした食感。加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "明日葉に特化した気候変動適応研究は非常に少ない。評価は、その栽培適地の気候特性とセリ科植物の一般的性質に基づく定性的推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30°C以上が続くと生育が著しく悪化する",
+      "cold_tolerance": "0°C（軽い霜には耐えるが、凍結には弱い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "1500-2500 mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（根がしっかり張るため倒伏しにくいが、強い潮風による塩害を受けやすい）",
+      "hail_damage_recovery": "高（再生力が非常に強いため、葉の損傷からの回復は早い）",
+      "rapid_temperature_change": "中程度"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中（原産地は日照が強い環境だが、強すぎる直射日光は好まない）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、南方系の害虫（アザミウマ類、ハダニ類）の被害増加が懸念される。",
+      "disease_resistance_stability": "高温多湿環境では軟腐病や白絹病のリスクが高まる可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の太平洋沿岸の一部（伊豆諸島、房総半島など）",
+        "2050_projection": "現在の主産地での夏場の生育不良リスク増大。栽培適地がより北の沿岸部へわずかに移動する可能性。",
+        "2100_projection": "伊豆諸島などの伝統的産地では栽培が困難になるリスク。東北地方の太平洋沿岸部などが新たな適地候補となる可能性。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "明日葉の自然交雑に関する研究はほとんどない。評価はAngelica属の一般的特性に基づく推定。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "青茎系、赤茎系などの品種間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "ハマウド（A. japonica）など、日本に自生する近縁種との交雑可能性は理論的に存在するが、自然界での報告は稀。"
+      ],
+      "intergeneric_possibility": [
+        "非常に低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "伊豆諸島の各島で独自の系統が維持されており、一定の遺伝的多様性が存在する。",
+      "wild_gene_pool": "野生集団が遺伝子資源として重要だが、生息地の減少が懸念される。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栽培品種では中程度のリスクあり。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他の耐暑性・耐寒性を持つAngelica属との交雑により、気候耐性が向上する可能性がある。",
+      "improved_nutritional_content": "カルコン含量など、有用成分の含有量を高める育種の可能性がある。",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "高い可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "近縁種間でも開花時期のずれなどが交雑障壁となりうる。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "潮風、病害虫、日照条件",
+        "adaptive_traits": "耐塩性、再生能力、病害虫抵抗性",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 5
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的な研究は少ないが、多年生であることやセリ科の特性から、高いポテンシャルが推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "太い直根と多数の側根を持ち、土壌を深く耕し団粒構造を促進する可能性がある。",
+      "organic_matter_contribution": "収穫後の残渣や枯死した根が土壌有機物を供給する。",
+      "soil_structure_improvement": "根系の活動による土壌の物理性改善。",
+      "erosion_control": "多年生作物として年間を通じて土壌を被覆し、特に傾斜地での土壌侵食を防ぐ効果が期待できる。",
+      "nutrient_cycling_role": "深い根が土壌深層から養分を吸い上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "セリ科特有の散形花序は、ハナアブ、ハチ、甲虫など多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "捕食寄生性の天敵昆虫（寄生蜂など）の蜜源・隠れ家となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "アゲハチョウの幼虫の食草となるなど、特定の昆虫との関係がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る土壌孔隙が水の浸透を助ける。",
+      "moisture_retention": "地上部の被覆が土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "高い",
+      "groundwater_recharge": "貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年生であるため、一年生作物より地下部への炭素蓄積量が多い。",
+      "soil_carbon_enhancement": "高いポテンシャルを持つ。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "不明"
+      ],
+      "natural_pest_control": "天敵昆虫を誘引することで、周囲の作物の害虫抑制に貢献する可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として生態系に安定性をもたらす。",
+      "stress_tolerance": "一度定着すれば、その再生力により一定のストレスからの回復が早い。",
+      "recovery_capacity": "高い",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康食品市場での動向はよく報告されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラル、食物繊維が豊富で、特に機能性成分が注目される。",
+      "food_security_contribution": "限定的だが、厳しい環境の島嶼部における重要な栄養源。",
+      "local_food_system_integration": "伊豆諸島では地域の食文化と経済に深く根付いている。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康・ウェルネス市場",
+        "スーパーフード市場",
+        "機能性表示食品"
+      ],
+      "value_added_products": [
+        "青汁粉末",
+        "サプリメント",
+        "健康茶",
+        "化粧品原料"
+      ],
+      "niche_market_value": "非常に高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の評価は進行中だが、生息地の脆弱性は明らか。"
+    },
+    "genetic_erosion_risk": "中（栽培品種の均一化と野生集団の生息地破壊による）",
+    "habitat_loss_threat": "沿岸開発や気候変動による海面上昇、異常気象。",
+    "climate_change_vulnerability": "高い",
+    "cultural_erosion_risk": "高（食生活の変化、生産者の高齢化による伝統的知識・利用法の喪失）",
+    "conservation_actions_needed": [
+      "野生集団の生息域内保全",
+      "各島の在来系統の遺伝資源としての収集・保存（域外保全）",
+      "伝統的栽培技術と食文化の記録・継承"
+    ],
+    "priority_conservation_regions": [
+      "伊豆諸島全域",
+      "房総半島"
+    ],
+    "ex_situ_conservation_status": "一部の農業試験場やジーンバンクで系統が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "これは専門家としての総合的評価です。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先（適応性が低いため、保全と適応策の研究が急務）",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "伊豆諸島（特に八丈島、三宅島、大島）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "野生集団の遺伝的多様性の網羅的評価",
+      "近縁種との交雑親和性"
+    ],
+    "global_dictionary_compatibility": 7
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "明確な品種登録は少なく、系統として区別されることが多い。"
+      },
+      "variety_name": "八丈島系（青茎）",
+      "local_name": "青茎アシタバ",
+      "origin_region": "日本・八丈島",
+      "distinctive_characteristics": "茎が緑色で、苦味が少なく、葉が柔らかい。成長が旺盛で収量性が高いとされる。",
+      "cultural_importance": "八丈島を代表する特産品で、島の経済と文化に不可欠。",
+      "climate_adaptation": "島の温暖な海洋性気候に特化している。",
+      "conservation_status": "栽培下で維持"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "明確な品種登録は少なく、系統として区別されることが多い。"
+      },
+      "variety_name": "三宅島系（赤茎）",
+      "local_name": "赤茎アシタバ",
+      "origin_region": "日本・三宅島",
+      "distinctive_characteristics": "茎が赤紫色を帯びる。香りが強く、苦味も強い。カルコン類の含有量が多いとされる。",
+      "cultural_importance": "野生種に近い特徴を残し、薬効が高いと伝統的に考えられている。",
+      "climate_adaptation": "火山性土壌など、三宅島の特異な環境に適応している可能性がある。",
+      "conservation_status": "栽培下で維持、野生集団あり"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "農研機構データベース",
+      "学術論文（PubMed, CiNii）",
+      "地方自治体の農業技術情報"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "自然交雑の実態"
+    ],
+    "regional_data_coverage": "日本に極度に集中しており、他地域でのデータは皆無に近い。",
+    "missing_information": [
+      "世界的な生産・流通統計",
+      "定量的収量データ",
+      "交雑和合性に関する詳細な研究"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

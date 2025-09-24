@@ -1,0 +1,621 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, Tropicos), ethnobotanical literature, and agricultural research publications."
+    },
+    "primary_name": "Stevia",
+    "scientific_name": "Stevia rebaudiana",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉"
+    ],
+    "origin_region": "南米パラグアイ・ブラジル国境地帯（アマンバイ山脈）",
+    "wild_relatives": [
+      "Stevia eupatoria",
+      "Stevia plummerae",
+      "Stevia salicifolia"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are sourced from ethnobotanical records, multilingual dictionaries, and commercial product databases."
+    },
+    "international": {
+      "en": [
+        "Stevia",
+        "Sweetleaf",
+        "Sugarleaf"
+      ],
+      "scientific_common": "Stevia"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Estevia",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Estévia",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ステビア",
+            "script": "Kana"
+          },
+          {
+            "lang": "zh",
+            "name": "甜菊",
+            "script": "Hans"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "グアラニー族（パラグアイ、ブラジル）",
+        "name": "ka'a he'ê",
+        "cultural_significance": "「甘いハーブ」を意味し、マテ茶の甘味料や薬として数百年にわたり利用されてきた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on standard APG IV classification system."
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Stevia",
+      "la": "Stevia"
+    },
+    "species": {
+      "en": "Candyleaf",
+      "la": "rebaudiana"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural importance is assessed based on historical records, ethnobotanical studies, and modern market analysis."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南米（原産地）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "グアラニー族がマテ茶や苦い薬の甘味料として伝統的に利用。消化促進や軽度の強心剤としても使用された。",
+        "seasonal_significance": "年間を通じて利用されるが、特に伝統的な儀式で重要。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東アジア（特に日本）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "1970年代に世界で初めて商業利用を開始。伝統的な利用はないが、近代の食文化（低カロリー・無糖食品）において不可欠な存在となっている。",
+        "seasonal_significance": "なし",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米・ヨーロッパ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "2000年代後半以降に食品添加物として認可され、急速に普及。健康志向の消費者向け製品の主要甘味料。",
+        "seasonal_significance": "なし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "グアラニー伝統飲料",
+        "role": "essential",
+        "traditional_dishes": [
+          "マテ茶 (Yerba Maté)"
+        ],
+        "preparation_methods": [
+          "乾燥葉の浸出"
+        ],
+        "cultural_context": "飲み物の苦味を和らげ、薬効を高めるために不可欠な要素。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "グアラニー族による数世紀にわたる利用の歴史がある。",
+      "trade_routes": "近代まで地域限定的であったが、20世紀後半からグローバルな商品作物として世界中に拡散。",
+      "cultural_exchange": "先住民の知恵がグローバルな食品産業に変革をもたらした代表例。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、長年にわたる選択的利用が行われてきた。近代的な育種は20世紀後半から始まった。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高湿度と十分な降雨が必要。水はけの良い土壌が不可欠。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "最適。温暖な冬と長く湿度の高い夏。日長が甘味成分の蓄積に影響。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "一年草として栽培可能。霜に非常に弱いため、無霜期間での栽培に限られる。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さが厳しく、生育期間が短すぎるため不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度を好むため、乾燥地での栽培は灌漑があっても困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "春",
+        "harvest_season": "晩夏から秋（開花直前が最も甘い）",
+        "growing_period_days": "90-120"
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "初秋（初霜前）",
+        "growing_period_days": "100-140"
+      }
+    ],
+    "productivity": {
+      "yield_range": "1,500 - 3,500 kg/ha (乾燥葉)",
+      "factors_affecting_yield": [
+        "日長",
+        "気温",
+        "土壌の水はけ",
+        "収穫時期",
+        "栽培品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 80,
+          "characteristics": "世界最大の生産国および抽出物輸出国。大規模な商業栽培。"
+        },
+        {
+          "country": "パラグアイ",
+          "production_share": 5,
+          "characteristics": "原産国であり、伝統的な栽培方法と有機栽培が特徴。"
+        },
+        {
+          "country": "ケニア",
+          "production_share": 4,
+          "characteristics": "新しい主要生産国の一つ。小規模農家による契約栽培が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "甘味成分に関するデータは豊富だが、葉全体の微量栄養素に関する研究は限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "0 (抽出物)",
+        "protein_g": "0",
+        "carbs_g": "0 (非吸収性)",
+        "fat_g": "0",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "微量",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "微量",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ステビオール配糖体 (Steviol Glycosides)",
+        "concentration": "乾燥葉重量の4-20%",
+        "health_effect": "砂糖の200-400倍の甘味を持つ非カロリー甘味料。血糖値に影響を与えない。"
+      },
+      {
+        "compound": "レバウディオサイドA (Rebaudioside A)",
+        "concentration": "配糖体中の主要成分の一つ",
+        "health_effect": "苦味が少なく、最も甘味が強いとされる成分の一つ。"
+      },
+      {
+        "compound": "ステビオシド (Stevioside)",
+        "concentration": "配糖体中の主要成分の一つ",
+        "health_effect": "強い甘味を持つが、やや苦味の後味があるとされる。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米",
+        "medical_system": "グアラニー族の伝統医学",
+        "uses": [
+          "消化促進",
+          "胸やけ治療",
+          "高血圧の緩和"
+        ],
+        "preparation": "生の葉を噛む、または乾燥葉を煎じて飲む。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖値上昇抑制効果",
+        "非う蝕性（虫歯の原因にならない）"
+      ],
+      "ongoing_research": [
+        "血圧降下作用",
+        "抗炎症作用",
+        "抗酸化作用"
+      ],
+      "safety_considerations": "主要な国際機関（FDA, EFSAなど）により安全性が確認されているが、高純度抽出物の使用が前提。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "伝統的利用は民族植物学、現代的利用は食品科学の文献に基づいている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南米（伝統的）",
+        "methods": [
+          "浸出"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "マテ茶",
+          "薬草茶"
+        ]
+      },
+      {
+        "region": "世界（現代的）",
+        "methods": [
+          "食品添加（粉末、液体）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "飲料",
+          "ヨーグルト",
+          "菓子",
+          "卓上甘味料"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "適切な乾燥により甘味成分は安定するが、光や湿度で劣化する可能性がある。"
+      },
+      {
+        "method": "水抽出・精製",
+        "regions": [
+          "主要生産国"
+        ],
+        "shelf_life": "2年以上",
+        "quality_changes": "特定のステビオール配糖体を高純度で抽出・結晶化させ、安定した品質の製品とする。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "非常に強い、クリーンな甘さ。品種や抽出純度によっては、わずかな苦味やリコリス様の後味を伴うことがある。",
+      "aroma_compounds": [
+        "β-カリオフィレン",
+        "スパツレノール"
+      ],
+      "texture_characteristics": "抽出物は食品のテクスチャーにほとんど影響を与えない。砂糖のようなボリュームやカラメル化特性はない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "亜熱帯植物としての一般的な特性からの類推が多い。品種レベルでの定量的な耐性データは不足している。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上で生育阻害",
+      "cold_tolerance": "0°C以下で地上部は枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "普通",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1400-1500 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が細く、強風で倒伏しやすい。",
+      "hail_damage_recovery": "葉が商品価値を持つため、雹害には弱い。",
+      "rapid_temperature_change": "敏感"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "バイオマス増加の可能性が示唆されているが、甘味成分への影響は不明。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやハダニなどの害虫の発生が増加する可能性がある。",
+      "disease_resistance_stability": "セプトリアリーフスポットなどの真菌性疾患は、多湿な環境で問題となる。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "亜熱帯地域",
+        "2050_projection": "現在の栽培適地が北上・南下し、温帯の一部が新たな適地となる可能性がある。ただし、降雨パターンの変化が制約要因となる。",
+        "2100_projection": "水ストレスと熱ストレスの増大により、現在の主要生産地の一部で適性が低下する可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "人為的な交配育種に関するデータは多いが、自然環境下での交雑に関する記録は非常に限定的である。ポテンシャルは同属種の多様性から推定。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "S. eupatoriaなど、一部の近縁種との交雑が人為的に成功している。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告例なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地のパラグアイには多様な在来種（クリオージャ）が存在するが、遺伝的浸食が懸念される。",
+      "wild_gene_pool": "200種以上の野生種が存在し、耐病性や異なる甘味プロファイルなど、有用な遺伝子資源の宝庫である。",
+      "adaptive_genetic_variation": "原産地の多様な微気候に適応した遺伝的変異が存在すると考えられる。",
+      "inbreeding_depression_risk": "商業栽培はクローン繁殖が主流であるため、遺伝的多様性が極めて低く、リスクは高い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "甘味成分プロファイル（例：レバウディオサイドMの比率向上）の改善が主目的となる。",
+      "novel_characteristics": "新しい風味特性や成長習性の獲得。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種によっては不和合性が存在する。",
+      "chromosome_compatibility": "倍数性が種によって異なる場合がある。",
+      "fertility_of_hybrids": "種間雑種では不稔性を示すことがある。",
+      "backcrossing_success": "育種プログラムで一般的に利用される。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "草食動物による食害",
+        "adaptive_traits": "ステビオール配糖体の生産（摂食阻害物質として機能）",
+        "heritability": "中〜高",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業システムにおけるステビアの役割に関する直接的な研究は少ない。多年草としての一般的な特性からの推定が主。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的深い主根と広範なひげ根を持つ。",
+      "organic_matter_contribution": "多年草として栽培する場合、根の分解を通じて土壌有機物を増加させる可能性がある。",
+      "soil_structure_improvement": "根系が土壌団粒構造の形成を助ける。",
+      "erosion_control": "地表を覆うことで、風食や水食を抑制する。",
+      "nutrient_cycling_role": "特筆すべき能力は報告されていない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さな白い花は、ハナアブや小型のハチなど多様な送粉者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌との共生が報告されている。",
+      "above_ground_biodiversity": "アグロフォレストリーシステムに組み込むことで、多様性を高める可能性がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌の浸透性を改善する。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "地被率が高いため、表面流出を低減する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年草として栽培した場合、一年草作物より高い炭素蓄積ポテンシャルを持つ。",
+      "soil_carbon_enhancement": "可能性があるが、定量的データは不足。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）",
+        "ミント類（害虫忌避）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草としての利用は、土壌を安定させ、システムの安定性に貢献する。",
+      "stress_tolerance": "中程度",
+      "recovery_capacity": "根が生き残れば、霜害などからの回復は可能。",
+      "adaptability": "中程度"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場調査レポートと公衆衛生関連の文献に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "砂糖の代替として、植物由来の健康的な食生活に貢献する。",
+      "food_security_contribution": "糖尿病や肥満といった非伝染性疾患の世界的流行への対策として重要。砂糖生産（サトウキビ、テンサイ）より少ない土地と水で同等の甘味を生産できる可能性がある。",
+      "local_food_system_integration": "小規模農家向けの換金作物として、多様な気候帯で栽培可能。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "製菓",
+        "飲料",
+        "医薬品",
+        "化粧品"
+      ],
+      "value_added_products": [
+        "高純度レバウディオサイド抽出物",
+        "酵素処理ステビア",
+        "卓上甘味料"
+      ],
+      "niche_market_value": "オーガニック、フェアトレード認証製品に高い価値がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "保全状況はIUCNの評価や地域研究に基づいているが、体系的なグローバル評価は不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "原産地であるパラグアイ・ブラジルの森林伐採や農地転換が最大の脅威。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "野生種および在来種の生息域内保全",
+      "ジーンバンクでの生息域外保全",
+      "伝統的知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "パラグアイ・アマンバイ県",
+      "ブラジル・マットグロッソ・ド・スル州"
+    ],
+    "ex_situ_conservation_status": "いくつかの国のジーンバンクで種子や組織が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的であり、保護区の設定や地域コミュニティによる保全活動が求められる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本レポート全体の分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "パラグアイ・ブラジル国境地帯（遺伝的多様性と伝統的利用）",
+      "ケニア（小規模農家システムへの導入事例）"
+    ],
+    "knowledge_gaps": [
+      "野生種の生態と遺伝的多様性の全容解明",
+      "気候変動に対する品種レベルでの応答の定量的評価",
+      "リジェネラティブ農業システムにおける具体的な効果測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "伝統的な品種の体系的な記録は乏しい。近代品種は多数存在するが、ここでは代表例を挙げる。"
+      },
+      "variety_name": "Criolla (Landrace)",
+      "local_name": "Criolla",
+      "origin_region": "パラグアイ",
+      "distinctive_characteristics": "遺伝的に多様な集団。環境への適応性が高いが、甘味成分の量や質は不均一。",
+      "cultural_importance": "グアラニー族によって伝統的に利用されてきた原型。",
+      "climate_adaptation": "高い（遺伝的多様性による）",
+      "conservation_status": "絶滅の危機（遺伝的浸食）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "近代育種品種の代表例。"
+      },
+      "variety_name": "Morita II",
+      "local_name": "Morita II",
+      "origin_region": "日本で開発された品種の子孫",
+      "distinctive_characteristics": "高いレバウディオサイドA含有量と高い収量性。商業栽培で広く利用される。",
+      "cultural_importance": "ステビアの世界的普及を可能にした商業品種の典型。",
+      "climate_adaptation": "中程度（特定の栽培環境に最適化）",
+      "conservation_status": "懸念なし"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      "Ethnobotany of the Guaraní",
+      "FAOSTAT",
+      "Journal of Agricultural and Food Chemistry"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種の遺伝子資源の体系的評価"
+    ],
+    "regional_data_coverage": "南米と東アジアは比較的豊富だが、アフリカなど新しい生産地のデータは限定的。",
+    "missing_information": [
+      "自然交雑の実例",
+      "炭素隔離能力の定量データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

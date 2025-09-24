@@ -1,0 +1,623 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物学的基本情報は、世界の主要な植物データベース（Kew Gardens, Flora of Chinaなど）から統合。栽培化の歴史や野生近縁種に関する詳細な遺伝的データは限定的。"
+    },
+    "primary_name": "Solomon's Seal",
+    "scientific_name": "Polygonatum odoratum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎",
+      "若芽"
+    ],
+    "origin_region": "ユーラシア大陸の温帯域",
+    "wild_relatives": [
+      "Polygonatum multiflorum",
+      "Polygonatum falcatum",
+      "Polygonatum sibiricum",
+      "Polygonatum cyrtonema"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物誌、民族植物学の記録、商業データベースから名称を収集。先住民コミュニティ固有の名称に関する体系的なデータは不足している。"
+    },
+    "international": {
+      "en": [
+        "Solomon's Seal",
+        "Scented Solomon's Seal",
+        "Angular Solomon's Seal"
+      ],
+      "scientific_common": "Fragrant Solomon's Seal"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "アマドコロ",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "玉竹",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "둥굴레",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Wohlriechende Weißwurz",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Sceau de Salomon odorant",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、Kew GardensのPlants of the World Onlineを参照。分類は安定している。"
+    },
+    "family": {
+      "en": "Asparagus family",
+      "la": "Asparagaceae"
+    },
+    "genus": {
+      "en": "Solomon's Seal",
+      "la": "Polygonatum"
+    },
+    "species": {
+      "en": "Scented Solomon's Seal",
+      "la": "odoratum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Polygonatum odoratum var. pluriflorum"
+      },
+      {
+        "rank": "variety",
+        "name": "Polygonatum odoratum var. thunbergii"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "東アジアでの文化的価値に関する文献は豊富。ヨーロッパでは主に園芸植物としての歴史が中心で、食文化としての情報は少ない。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "健康食品"
+        ],
+        "traditional_uses": "中国では伝統医学（中医学）の生薬「玉竹」として、肺を潤し咳を鎮めるために利用。韓国では根茎を焙煎した「ドゥングレ茶」が日常的な健康茶として広く飲用される。日本では若芽を山菜としておひたしや和え物で食す。",
+        "seasonal_significance": "春の若芽は季節の訪れを告げる山菜として珍重される。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "儀式用",
+          "薬用"
+        ],
+        "traditional_uses": "中世ヨーロッパでは「シグネチャー論（形態表示説）」に基づき、根茎の傷跡が骨折を治す印とされ、湿布薬として利用された歴史がある。現代では主に観賞用の園芸植物。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "韓国料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ドゥングレ茶（둥굴레차）"
+        ],
+        "preparation_methods": [
+          "焙煎",
+          "煮出し"
+        ],
+        "cultural_context": "カフェインフリーの健康茶として、日常的に家庭や飲食店で飲まれる。香ばしい風味が特徴。"
+      },
+      {
+        "cuisine": "日本料理（山菜料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "アマドコロのおひたし",
+          "天ぷら",
+          "胡麻和え"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "揚げる",
+          "和える"
+        ],
+        "cultural_context": "春の訪れを告げる山菜の一つとして、料亭や家庭で季節料理に用いられる。ほのかな甘みが特徴。"
+      },
+      {
+        "cuisine": "中国薬膳",
+        "role": "common",
+        "traditional_dishes": [
+          "玉竹湯（Yuzhu Tang）"
+        ],
+        "preparation_methods": [
+          "煮込み"
+        ],
+        "cultural_context": "乾燥させた根茎を豚肉や鶏肉と共に煮込み、体を潤す効能を期待する薬膳スープとして利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国最古の薬物書の一つ『神農本草経』に上品（無毒で長期服用可能な養命薬）として記載されている。",
+      "trade_routes": "主に地域内での利用が中心で、シルクロードのような大規模な交易路での主要品目ではなかった。",
+      "cultural_exchange": "仏教の伝来と共に、薬草としての知識が中国から日本や朝鮮半島に伝播した可能性がある。",
+      "domestication_history": "明確な栽培化の歴史は不明。多くは半野生状態での栽培や野生採集に依存してきた。近年、中国や韓国で薬用・食用としての商業栽培が拡大している。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "冬季の低温期間がなく、生育に適さない。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "高地など冬季に冷涼な地域でのみ栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "落葉樹林下のような半日陰で、腐植質に富む湿潤な土壌。冬季に地上部が枯れ、休眠する気候が最適。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "耐寒性が強く、冷涼な気候に適応するが、夏の極端な乾燥と高温には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱く、生育できない。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "亜高山帯の林縁などにも自生するが、標高が高すぎると生育期間が短くなる。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "秋または早春（根茎分割）",
+        "harvest_season": "春（若芽）、秋（根茎）",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照条件（半日陰が最適）",
+        "土壌水分",
+        "土壌有機物含量",
+        "植え付けからの年数"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "薬用（玉竹）としての生産が主。湖南省、浙江省などが主産地。"
+        },
+        {
+          "country": "韓国",
+          "production_share": null,
+          "characteristics": "ドゥングレ茶の原料としての生産が盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "薬効成分に関する研究は多いが、標準的な食品成分表としてのデータは限定的。特に若芽の栄養価データは少ない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "アスパラギン酸",
+          "amount": "豊富",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Polygonatum-Oligosaccharide",
+        "concentration": "不明",
+        "health_effect": "血糖降下作用、免疫調節作用"
+      },
+      {
+        "compound": "ステロイドサポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "滋陰潤肺（陰を補い肺を潤す）",
+          "養胃生津（胃を養い体液を生む）",
+          "燥咳（空咳）の治療",
+          "糖尿病の補助治療"
+        ],
+        "preparation": "根茎を乾燥させ、生薬「玉竹」として煎じ薬や薬膳スープに用いる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖降下作用",
+        "抗酸化作用",
+        "免疫調節作用",
+        "抗疲労作用"
+      ],
+      "ongoing_research": [
+        "骨粗鬆症予防効果",
+        "心血管保護作用",
+        "抗腫瘍作用"
+      ],
+      "safety_considerations": "通常の使用量では安全とされるが、過剰摂取に関するデータは少ない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアの料理文化における利用法は、多くの料理書や民族植物学の記録で詳述されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる",
+          "炒める",
+          "揚げる",
+          "煮込む",
+          "焙煎"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "ごま",
+          "豚肉",
+          "鶏肉",
+          "ナツメ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "中国",
+          "韓国"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "水分が抜け、糖分が凝縮される。漢方薬特有の香りが強まる。"
+      },
+      {
+        "method": "焙煎",
+        "regions": [
+          "韓国"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "香ばしい香り（ピラジン類）が生成され、甘みが増す。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "若芽：アスパラガスに似たほのかな甘みと旨味。根茎：生のものはエグミがあるが、加熱するとユリ根のような甘みとデンプン質の食感。焙煎後：ナッツのような香ばしさと穀物様の甘み。",
+      "aroma_compounds": [
+        "2,5-ジメチルピラジン（焙煎後）"
+      ],
+      "texture_characteristics": "若芽：シャキシャキとした食感。根茎：ホクホク、ねっとりとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動応答実験のデータはほぼ存在しない。評価は自生地の生態学的特性からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "30°C以上が続くと生育不良",
+      "cold_tolerance": "-20°C以下（休眠期）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "800-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（林床植物のため強風の影響を受けにくい）",
+      "hail_damage_recovery": "中（地下茎からの再生は可能だが、その年の成長は阻害される）",
+      "rapid_temperature_change": "休眠期は強いが、生育期の急な霜には弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的にC3植物は効果があるとされる）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "低（日陰を好むため）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、 Solomon's seal sawfly (Phymatocera aterrima) の発生時期や回数が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境では根茎腐敗病のリスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯の落葉樹林帯",
+        "2050_projection": "栽培適地がより高緯度・高標高へ移動する可能性が高い。",
+        "2100_projection": "現在の適地の多くで、夏の高温ストレスにより栽培が困難になる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アマドコロ属内での自然交雑や園芸交配は知られているが、適応進化に繋がる自然交雑の動態に関する研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "var. pluriflorum と var. thunbergii 間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Polygonatum multiflorum との自然交雑種 P. × hybridum が知られており、交雑和合性は高い。"
+      ],
+      "intergeneric_possibility": [
+        "非常に低い、または不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "Polygonatum × hybridum"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中国の薬用栽培地域には、収量や成分の異なる複数の地方系統が存在すると考えられる。",
+      "wild_gene_pool": "ユーラシア大陸に広範に分布しており、地域ごとに分化した多様な遺伝子プールが存在する。",
+      "adaptive_genetic_variation": "広範な分布域は、様々な気候への適応的遺伝変異が存在することを示唆する。",
+      "inbreeding_depression_risk": "栄養繁殖が容易なため、単一クローンでの栽培ではリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ユーラシア大陸全域",
+        "environmental_pressure": "緯度と標高に応じた気候勾配（冬の寒さ、生育期間の長さ）",
+        "adaptive_response": "開花時期、休眠開始時期、耐寒性の地域的分化",
+        "time_scale": "数千年〜数万年",
+        "mechanism": "自然選択による地域的エコタイプの形成"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐暑性が高い近縁種（例：乾燥地に生息する種）との交雑により、気候耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "薬用成分（サポニン等）含量の高い系統との交雑による機能性向上。",
+      "novel_characteristics": "観賞用の斑入り葉など、園芸分野では多くの新品種が作出されている。",
+      "hybrid_vigor_potential": "種間交雑により、生育旺盛な雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種によっては開花時期のずれや倍数性の違いが障壁となりうる。",
+      "chromosome_compatibility": "属内では染色体数に変異があり、適合性が問題になる場合がある。",
+      "fertility_of_hybrids": "P. × hybridum のように稔性のある雑種も存在する。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "夏の高温・乾燥",
+        "adaptive_traits": "クチクラ層の厚さ、根の深さ、気孔の開閉制御",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "本種をリジェネラティブ農業システムに組み込んだ実証研究は存在しない。評価は、植物の生態学的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く横に広がる根茎（Rhizome）を持ち、表土を固定する。",
+      "organic_matter_contribution": "毎年地上部が枯れて落葉となり、土壌表面に有機物を供給する。",
+      "soil_structure_improvement": "根茎のネットワークが土壌団粒構造の形成を助ける可能性がある。",
+      "erosion_control": "地被植物として機能し、林床の土壌侵食を防ぐ効果が高い。",
+      "nutrient_cycling_role": "落葉の分解を通じて、土壌表層での栄養循環に貢献する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "春に咲く筒状の花は、マルハナバチなどの長吻のハチにとって重要な蜜源となる。",
+      "beneficial_insect_habitat": "地上部の葉は、様々な昆虫の生息場所や食草となる。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係が示唆されるが、詳細は不明。",
+      "above_ground_biodiversity": "林床に中層の植生を提供し、構造的な多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表を覆うことで雨滴による土壌の固結を防ぎ、水の浸透を促進する。",
+      "moisture_retention": "落葉層がマルチング効果を持ち、土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表流を遅らせ、土壌侵食を軽減する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的（毎年枯れるため）。",
+      "below_ground_carbon": "多年生の根茎に炭素を長期間貯留する。これが炭素隔離の主要な貢献。",
+      "soil_carbon_enhancement": "有機物の供給を通じて、土壌炭素（腐植）の増加に寄与する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "樹木、シダ類、ギボウシ、フウチソウなど、他の耐陰性植物との混植に適している。"
+      ],
+      "natural_pest_control": "特筆すべき効果は知られていない。",
+      "nutrient_sharing": "菌根菌ネットワークを介した栄養共有の可能性はあるが、未解明。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "アグロフォレストリー（森林農業）システムにおいて、地被層を形成し生態系の安定に貢献する。",
+      "stress_tolerance": "日陰や寒さには強いが、乾燥や高温には弱い。",
+      "recovery_capacity": "地下茎により、地上部が食害や霜害を受けても再生する能力が高い。",
+      "adaptability": "特定の環境（冷涼な半日陰）への適応性は高いが、環境変化への可塑性は低い可能性がある。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジアでの商業的価値は高いが、グローバルな食品市場での認知度は低い。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "山菜として、季節的な野菜摂取の多様化に貢献する。",
+      "food_security_contribution": "アグロフォレストリーや家庭菜園で栽培可能な多年生作物として、食料システムのレジリエンスを高める可能性がある。",
+      "local_food_system_integration": "道の駅やファーマーズマーケットで、地域の特産山菜として流通している。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりを背景とした、ドゥングレ茶の国際市場への展開。",
+        "高級レストラン向けの季節の高級食材（山菜）としての供給。"
+      ],
+      "value_added_products": [
+        "健康茶",
+        "薬膳スープの素",
+        "機能性食品素材（エキス、パウダー）",
+        "化粧品原料"
+      ],
+      "niche_market_value": "山菜、薬草、観賞用植物として高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでの評価は行われていないが、地域によっては過剰採取や生息地破壊が報告されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "温帯落葉樹林の開発や管理放棄による生息地の破壊・質の低下が脅威となっている。",
+    "climate_change_vulnerability": "高い。温暖化による夏の高温・乾燥は自生地の縮小を招く可能性がある。",
+    "cultural_erosion_risk": "中。山菜を利用する伝統文化の継承者減少がリスクとなっている。",
+    "conservation_actions_needed": [
+      "持続可能な採取ルールの策定と普及",
+      "自生地である森林の保全",
+      "多様な遺伝資源の収集と域外保全（ジーンバンク）"
+    ],
+    "priority_conservation_regions": [
+      "薬用としての需要が高い中国の野生個体群",
+      "気候変動の影響を受けやすい分布南限域の個体群"
+    ],
+    "ex_situ_conservation_status": "多くの植物園で観賞用として栽培・保存されているが、遺伝的多様性を網羅した体系的な収集は不十分。",
+    "in_situ_conservation_efforts": "一部の国立公園や保護区で自生地が保護されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家AIとしての統合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "中国（薬用栽培と野生資源）",
+      "韓国（茶文化と栽培）",
+      "日本（山菜文化と地域変異）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果（炭素隔離、水循環改善）の測定",
+      "栽培品種・系統ごとの栄養価および機能性成分の比較分析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種の情報は豊富だが、伝統的な在来品種に関する学術的記述は少ない。"
+      },
+      "variety_name": "Polygonatum odoratum var. pluriflorum 'Variegatum'",
+      "local_name": "斑入りアマドコロ",
+      "origin_region": "園芸由来（日本）",
+      "distinctive_characteristics": "葉の縁に白い斑が入る。観賞価値が高い。",
+      "cultural_importance": "世界中の温帯域でシェードガーデンの定番植物として広く栽培されている。",
+      "climate_adaptation": "原種に準じるが、やや日焼けに弱い傾向がある。",
+      "conservation_status": "栽培下で広く維持されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Gardens, Plants of the World Online",
+      "Flora of China",
+      "Traditional Chinese Medicine Integrated Database (TCMID)",
+      " ethnobotanical research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栽培品種の網羅的な栄養分析"
+    ],
+    "regional_data_coverage": "東アジアの情報は豊富だが、ヨーロッパや中央アジアの情報は限定的。",
+    "missing_information": [
+      "年間生産量の統計データ",
+      "国際貿易データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

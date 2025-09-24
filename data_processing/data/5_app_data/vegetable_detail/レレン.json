@@ -1,0 +1,568 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, USDA GRIN）から統合。野生近縁種に関する詳細な系統関係は情報が限定的。"
+    },
+    "primary_name": "Leren",
+    "scientific_name": "Goeppertia allouia",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎"
+    ],
+    "origin_region": "南米北部、カリブ海諸島",
+    "wild_relatives": [
+      "不明"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学の文献および各地域の農業データベースから名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Leren",
+        "Topi-tambu",
+        "Guinea arrowroot",
+        "Sweet corn root"
+      ],
+      "scientific_common": "Calathea allouia (旧学名)"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Llerén",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Dale dale",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Ariá",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Củ lùn",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "カリブ海地域",
+        "languages": [
+          {
+            "lang": "fr-GP",
+            "name": "Topinambour",
+            "script": "Latin"
+          },
+          {
+            "lang": "en-TT",
+            "name": "Topi-tambo",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "カリブ海地域の先住民族（推定）",
+        "name": "不明",
+        "cultural_significance": "コロンブス以前から重要なデンプン源として栽培されていた歴史を持つが、特定の先住民コミュニティにおける現代での伝統名は特定困難。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Arrowroot family",
+      "la": "Marantaceae"
+    },
+    "genus": {
+      "en": "Goeppertia",
+      "la": "Goeppertia"
+    },
+    "species": {
+      "en": "Leren",
+      "la": "Goeppertia allouia"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主にカリブ海地域と南米北部の民族植物学的記録に依存。他地域での文化的価値に関する情報は少ない。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "カリブ海地域",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "プエルトリコやトリニダード・トバゴなどで、主にクリスマスシーズンのご馳走として、他の根菜と共に煮込み料理や副菜として利用される。加熱しても失われないシャキシャキとした食感が特徴。",
+        "seasonal_significance": "クリスマスや祝祭料理",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "南米北部",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "地域食料"
+        ],
+        "traditional_uses": "ベネズエラ、コロンビアなどで伝統的な根菜として栽培・消費される。スープやシチューの具材として利用されることが多い。",
+        "seasonal_significance": "乾季の収穫物",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "カリブ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Sancocho (スープ)",
+          "Boiled ground provisions"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "煮込む"
+        ],
+        "cultural_context": "祝祭や家族の集まりで消費される特別な食材としての位置づけ。より一般的なキャッサバやヤムイモとは異なるユニークな食感で珍重される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "南米とカリブ海の先住民によってコロンブス以前から栽培されていた、最も古い作物の一つ。",
+      "trade_routes": "限定的な地域内交易はあったと推定されるが、世界的な交易路での役割はほぼない。",
+      "cultural_exchange": "カリブ海から東南アジアなど、他の熱帯地域へ人の移動と共に伝播した。",
+      "domestication_history": "正確な栽培化の歴史は不明だが、南米北部が起源地とされ、長年にわたる栄養繁殖を通じて維持されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿。年間降水量1500mm以上、平均気温20-30℃。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な地域。生育期間が長くなる傾向がある。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱く、屋外での越冬は不可能。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度と水分を要求するため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "乾季",
+        "growing_period_days": "270-365"
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000-15,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌の肥沃度",
+        "水分供給",
+        "栽培期間",
+        "雑草管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "プエルトリコ",
+          "production_share": "不明",
+          "characteristics": "小規模農家による伝統的栽培が中心。国内消費向け。"
+        },
+        {
+          "country": "ベネズエラ",
+          "production_share": "不明",
+          "characteristics": "アンデス山麓地域での伝統的な根菜作物。"
+        },
+        {
+          "country": "ベトナム",
+          "production_share": "不明",
+          "characteristics": "一部地域で導入され、地域市場向けに生産されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分データは存在するが、微量栄養素や機能性成分に関する詳細な研究は少ない。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約90",
+        "protein_g": "1-2",
+        "carbs_g": "約20",
+        "fat_g": "0.1",
+        "fiber_g": "約1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "約20mg/100g",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "リン",
+          "amount": "約170mg/100g",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "利尿作用"
+        ],
+        "preparation": "根茎の煮汁を飲む。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "デンプンの物理化学的特性"
+      ],
+      "safety_considerations": "一般的に安全な食材として認識されているが、過剰摂取に関するデータはない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "カリブ海地域を中心とした料理本や食文化研究から情報を収集。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "カリブ海地域",
+        "methods": [
+          "茹でる",
+          "煮込む",
+          "スープに入れる"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "ヤムイモ",
+          "キャッサバ",
+          "プランテン",
+          "肉（豚肉、牛肉）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷蔵保存",
+        "regions": [
+          "全栽培地域"
+        ],
+        "shelf_life": "数週間",
+        "quality_changes": "徐々に水分が失われ、しなびる。"
+      },
+      {
+        "method": "冷凍保存",
+        "regions": [
+          "全栽培地域"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "皮をむき、茹でてから冷凍することで食感をある程度保つことができる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "マイルド、わずかに甘い、ナッツのような風味",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "加熱後もクリスピーでシャキシャキした食感（ウォーターチェスナッツに似る）"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な実験データはほぼ存在しない。熱帯作物としての一般的特性からの定性的推定が中心。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "5°C以下で生育停止、霜害に非常に弱い"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部が倒れても地下の根茎は生き残る可能性がある。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "低い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により線虫や根腐れ病のリスクが増大する可能性がある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯の湿潤地域",
+        "2050_projection": "栽培可能地域の緯度・標高がわずかに上昇する可能性があるが、干ばつの頻発により多くの現行適地が不適となるリスクがある。",
+        "2100_projection": "水資源の確保が可能な地域に極度に限定される可能性がある。",
+        "confidence_level": "低い"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属の観賞用植物（カラテア類）での育種は行われているが、本種に関する交雑データは皆無に等しい。ポテンシャルは属の多様性からの推定。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域ごとの在来種間での交雑は可能と推定される。"
+      ],
+      "interspecific_compatibility": [
+        "Goeppertia属の他種との交雑可能性は理論的には存在するが、実例はない。"
+      ],
+      "intergeneric_possibility": [
+        "非常に低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である南米北部とカリブ海地域には形態的変異が見られ、一定の遺伝的多様性が存在すると考えられる。",
+      "wild_gene_pool": "不明",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "主に栄養繁殖で増殖されるため、遺伝的多様性が地域レベルで低い場合、リスクは中程度。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐病性を持つ近縁種との交雑による向上は理論的に可能だが、未検証。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 3
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "直接的な研究データはなく、多年生根菜作物としての一般的特性や伝統的な混植栽培からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い根茎とひげ根を持つ。",
+      "organic_matter_contribution": "収穫後の地上部バイオマスは土壌有機物として貢献できる。",
+      "soil_structure_improvement": "多年生作物として栽培されることで、不耕起期間が長くなり土壌構造を維持する。",
+      "erosion_control": "広い葉が地面を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は咲くが、主要な蜜源植物ではない。",
+      "beneficial_insect_habitat": "地上部の葉が多様な昆虫の生息地を提供する可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "伝統的なアグロフォレストリーや混植システムの一部として栽培されることで、全体の生物多様性に貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により水の浸透を助ける。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年生であるため、根茎と根系を通じて炭素を土壌に蓄積するポテンシャルがある。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "バナナ",
+        "キャッサバ",
+        "ヤムイモなどの他の作物との混植"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物を組み合わせた伝統的農法において、生態系の安定性に寄与する。",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "中程度",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ニッチ市場での動向や食品科学の観点からの情報。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ユニークな食感を持つグルテンフリーの炭水化物源として価値がある。",
+      "food_security_contribution": "地域レベルでの食料多様化に貢献するが、収量の低さから主要作物にはなり得ない。",
+      "local_food_system_integration": "地域の食文化と強く結びついており、地産地消システムでの価値が高い。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エスニック食材市場",
+        "高級レストラン向けの珍しい食材"
+      ],
+      "value_added_products": [
+        "冷凍加工品",
+        "チップスなどのスナック（研究段階）"
+      ],
+      "niche_market_value": "伝統的な市場や特定のコミュニティでは、他の根菜よりも高値で取引されることがある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "FAOやCGIARの報告書、地域の農業研究機関からの情報に基づく評価。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "中程度。主に栽培環境の喪失が脅威。",
+    "climate_change_vulnerability": "高い。特に干ばつに対する脆弱性が懸念される。",
+    "cultural_erosion_risk": "非常に高い。若い世代への栽培技術や食文化の継承が途絶えつつある。",
+    "conservation_actions_needed": [
+      "在来品種の収集と遺伝子バンクでの域外保全",
+      "栽培を続ける農家への支援を通じた域内保全",
+      "食文化の記録と普及活動"
+    ],
+    "priority_conservation_regions": [
+      "プエルトリコ",
+      "トリニダード・トバゴ",
+      "ベネズエラ",
+      "コロンビア"
+    ],
+    "ex_situ_conservation_status": "いくつかの国際的な遺伝子バンク（CIATなど）で少数のアクセッションが保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的。主に個々の農家や小規模なコミュニティによって維持されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報に基づく総合的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "プエルトリコ",
+      "ベネズエラ"
+    ],
+    "knowledge_gaps": [
+      "遺伝的多様性の定量的評価",
+      "気候変動（特に干ばつ）に対する生理学的応答",
+      "機能性成分の同定と評価",
+      "近縁野生種との系統関係と交雑可能性"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "正式な品種登録はなく、地域ごとのランドレース（在来種）として区別されるが、その特性に関する科学的記述は非常に少ない。"
+      },
+      "variety_name": "在来種（名称なし）",
+      "local_name": "Leren/Topi-tambu",
+      "origin_region": "カリブ海地域",
+      "distinctive_characteristics": "明確な品種分化は報告されていない。地域間で根茎の大きさや形状に若干の変異が見られる程度。",
+      "cultural_importance": "地域の伝統食文化に不可欠な存在。",
+      "climate_adaptation": "地域の気候に伝統的に適応しているが、近年の気候変動への耐性は低い。",
+      "conservation_status": "脆弱"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Checklist of Selected Plant Families (WCSP), Kew",
+      "GRIN-Global, USDA Agricultural Research Service",
+      "Ethnobotanical literature on Caribbean and South American food crops",
+      "FAO reports on underutilized crops"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動適応性に関する定量的データ",
+      "リジェネrative農業適性に関する実証的研究",
+      "遺伝的多様性および育種のポテンシャル"
+    ],
+    "regional_data_coverage": "カリブ海地域に偏っており、南米や東南アジアでの情報は限定的。",
+    "missing_information": [
+      "近縁野生種との関係",
+      "詳細な栄養成分プロファイル",
+      "病害虫抵抗性のメカニズム"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

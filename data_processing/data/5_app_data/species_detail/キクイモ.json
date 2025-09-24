@@ -1,0 +1,688 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is consolidated from major botanical databases (Kew, USDA GRIN) and agricultural research literature. Wild relative data is well-documented for the Helianthus genus."
+    },
+    "primary_name": "Jerusalem Artichoke",
+    "scientific_name": "Helianthus tuberosus",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根"
+    ],
+    "origin_region": "北米東部",
+    "wild_relatives": [
+      "Helianthus annuus",
+      "Helianthus pauciflorus",
+      "Helianthus grosseserratus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical and agricultural dictionaries. Indigenous names are documented but often specific to linguistic groups."
+    },
+    "international": {
+      "en": [
+        "Jerusalem Artichoke",
+        "Sunchoke",
+        "Topinambour",
+        "Earth Apple"
+      ],
+      "scientific_common": "Sunchoke"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Topinambour",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Topinambur",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Topinambur",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Tupinambo",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "キクイモ (Kikuimo)",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "菊芋 (Júyù)",
+            "script": "Hans"
+          },
+          {
+            "lang": "ko",
+            "name": "뚱딴지 (ttungttanji)",
+            "script": "Kore"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Sunchoke",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "クリー族（Cree）など複数のアルゴンキン語族",
+        "name": "askipaw",
+        "cultural_significance": "「生の物」を意味し、デンプン質の塊茎を指す。重要な食料源であり、栽培・管理されていた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on standard botanical classification systems like APG IV."
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Sunflower",
+      "la": "Helianthus"
+    },
+    "species": {
+      "en": "Jerusalem artichoke",
+      "la": "tuberosus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Historical and anthropological records document its journey from North America to Europe and beyond. Modern resurgence is well-covered in food and health media."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "北米（原産地）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "先住民族によって主食として栽培・採集された。飢饉時の食料としても重要。ヨーロッパ人入植者にとっても初期の重要な食料源であった。",
+        "seasonal_significance": "秋から冬にかけて収穫される重要な越冬食料。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "家畜飼料"
+        ],
+        "traditional_uses": "17世紀に導入され、一時はジャガイモの競合相手となったが、後に人気が低下。現在は健康志向のニッチな食材として再評価されている。特にフランス料理でスープなどに利用される。",
+        "seasonal_significance": "冬野菜として認識されている。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "主に健康食品として認識されており、特に血糖値管理に関心のある層に消費される。漬物（味噌漬け、粕漬けなど）としての利用が日本で特徴的。",
+        "seasonal_significance": "秋の収穫物。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Crème de topinambours (キクイモのポタージュ)"
+        ],
+        "preparation_methods": [
+          "スープ",
+          "ピュレ",
+          "ロースト"
+        ],
+        "cultural_context": "第二次世界大戦中、ジャガイモが不足した際の代用食として多用されたため、高齢層には貧しい時代の食べ物というイメージが残る一方、現代の高級料理ではその独特の風味が見直されている。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "キクイモの味噌漬け",
+          "きんぴら"
+        ],
+        "preparation_methods": [
+          "漬物",
+          "炒め物",
+          "生食（スライス）"
+        ],
+        "cultural_context": "伝統野菜というよりは、戦後に健康機能性に着目して普及した側面が強い。家庭料理や健康志向のレストランで利用されることが多い。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "数千年前から北米の先住民族によって利用・栽培されていた証拠がある。",
+      "trade_routes": "17世紀初頭にサミュエル・ド・シャンプランによってフランスへ紹介され、ヨーロッパ全土へ急速に広まった。",
+      "cultural_exchange": "北米大陸の食文化がヨーロッパへ伝播した初期の代表例の一つ。",
+      "domestication_history": "北米のミシシッピ川流域で、ヒマワリなどと共に先住民族によって半栽培化または完全栽培化されたと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "塊茎の形成が不十分になることが多い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しい冬がある地域で栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最適。長い生育期間と寒冷な冬が塊茎の品質を高める。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さと冬の寒さに強く、非常に適している。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため不向き。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高の低い地域では可能だが、生育期間の短さが収量を制限する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春（3月-4月）",
+        "harvest_season": "晩秋から冬（10月-翌年2月）",
+        "growing_period_days": "120-150"
+      }
+    ],
+    "productivity": {
+      "yield_range": "30,000 - 50,000 kg/ha",
+      "factors_affecting_yield": [
+        "日長（短日条件で塊茎形成が促進）",
+        "土壌水分",
+        "窒素施肥量",
+        "収穫時期"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（多くの国で統計が取られていない）",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "ヨーロッパにおける主要生産国の一つ。食用および飼料用。"
+        },
+        {
+          "country": "ドイツ",
+          "production_share": "不明",
+          "characteristics": "主にバイオエタノール原料や蒸留酒（Topinamburbrand）の製造に利用。"
+        },
+        {
+          "country": "アメリカ",
+          "production_share": "不明",
+          "characteristics": "ニッチな市場向けに生産。健康食品として人気。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "近年、イヌリン抽出や健康食品原料としての生産が増加。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主成分であるイヌリンに関する研究は多数存在する。微量栄養素のデータも一般的だが、品種差に関する情報は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "73",
+        "protein_g": "2",
+        "carbs_g": "17.4",
+        "fat_g": "0.01",
+        "fiber_g": "1.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "429 mg",
+          "daily_value_percent": "9%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "3.4 mg",
+          "daily_value_percent": "19%"
+        },
+        {
+          "nutrient": "チアミン (ビタミンB1)",
+          "amount": "0.2 mg",
+          "daily_value_percent": "13%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "イヌリン",
+        "concentration": "乾燥重量の75-80%",
+        "health_effect": "プレバイオティクス効果（腸内善玉菌の増殖促進）、血糖値上昇抑制、便通改善。"
+      },
+      {
+        "compound": "フェノール酸（クロロゲン酸など）",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "北米",
+        "medical_system": "先住民の伝統医学",
+        "uses": [
+          "糖尿病様の症状の緩和",
+          "滋養強壮"
+        ],
+        "preparation": "生食または調理して摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖値コントロールの改善",
+        "腸内環境の改善（プレバイオティクス効果）",
+        "ミネラル吸収の促進"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "肝保護作用",
+        "免疫調整機能"
+      ],
+      "safety_considerations": "イヌリンの過剰摂取は、一部の人に鼓腸（ガス）や腹部膨満感を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究で広く記述されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ・北米",
+        "methods": [
+          "ロースト",
+          "スープ",
+          "ピュレ",
+          "グラタン",
+          "生食（スライスしてサラダに）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "タイム",
+          "ニンニク",
+          "クリーム",
+          "ナッツ",
+          "ベーコン"
+        ]
+      },
+      {
+        "region": "東アジア（特に日本）",
+        "methods": [
+          "漬物（味噌漬け、粕漬け）",
+          "きんぴら",
+          "天ぷら",
+          "チップス"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "ごま油",
+          "唐辛子"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "漬物",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "シャキシャキした食感が保たれ、発酵による風味が加わる。"
+      },
+      {
+        "method": "乾燥・粉末化",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "イヌリンが濃縮され、健康食品や機能性食品原料として利用される。"
+      },
+      {
+        "method": "土中貯蔵",
+        "regions": [
+          "温帯地域"
+        ],
+        "shelf_life": "冬の間",
+        "quality_changes": "収穫せず土の中に残すことで、新鮮な状態を保つ伝統的な方法。寒さに当たると甘みが増す。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな甘みとナッツのような風味。アーティチョークの芯やヒマワリの種に似た香りを持つ。",
+      "aroma_compounds": [
+        "セスキテルペン類"
+      ],
+      "texture_characteristics": "生ではシャキシャキとして瑞々しい。加熱すると滑らかでクリーミーになるが、煮崩れしにくい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性や強健さに関する定性的記述は多いが、気候変動シナリオ下での定量的モデル研究は少ない。特性からの推定が中心となる。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "18-26°C",
+      "extreme_heat_survival": "地上部は枯れるが地下塊茎は生存可能。",
+      "cold_tolerance": "-30°C（土壌中の塊茎）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "中程度。深い根系により土壌深層の水分を利用できる。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1400mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎は倒れやすいが、地下塊茎は影響を受けにくく、再生力が高い。",
+      "hail_damage_recovery": "高い。生育期間中であれば再生する能力がある。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。C3植物として光合成とバイオマス生産の増加が見込まれる。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "比較的強健だが、温暖化により菌核病（Sclerotinia sclerotiorum）の発生地域が拡大する可能性がある。",
+      "disease_resistance_stability": "遺伝的多様性が高いため、地域レベルでの抵抗性は比較的安定している。",
+      "beneficial_organism_relationships": "開花期が遅いため、秋の訪花昆虫にとって重要な蜜源となる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯全域",
+        "2050_projection": "栽培適地がやや高緯度・高標高へ移動する可能性。",
+        "2100_projection": "現在の温帯南部の適性が低下し、北方での栽培可能性が拡大する。",
+        "confidence_level": "中程度の推定"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Helianthus属の交雑親和性はよく研究されており、特に商業作物であるヒマワリとの関係が重要視されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "品種間の交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Helianthus annuus (ヒマワリ)など、多くのHelianthus属野生種と交雑可能。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い。"
+      ],
+      "successful_natural_hybrids": [
+        "Helianthus × laetiflorus は H. tuberosus と H. pauciflorus の自然交雑種とされる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "北米の原産地には多様な在来種（栄養繁殖クローン）が存在する。",
+      "wild_gene_pool": "多数の野生近縁種との遺伝子移入の可能性があり、広範な遺伝子プールを持つ。",
+      "adaptive_genetic_variation": "高い。広範な分布域と異種交雑の歴史が多様な適応遺伝子をもたらしている。",
+      "inbreeding_depression_risk": "低い。自家不和合性が強く、他家受精が基本。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北米・プレーリー地帯",
+        "environmental_pressure": "乾燥、温度変動、草食動物からの食害",
+        "adaptive_response": "深い根系、強健な栄養繁殖、多様な二次代謝産物の生産。",
+        "time_scale": "数千年",
+        "mechanism": "自然選択と、先住民族による人為選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐病性や耐乾性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "ヒマワリとの交雑により、油分を含む塊茎や多年生の穀物ヒマワリの開発研究が進められている。",
+      "hybrid_vigor_potential": "高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "多倍数性（H. tuberosusは六倍体、H. annuusは二倍体）が交雑後の稔性を低下させる障壁となることがある。",
+      "chromosome_compatibility": "属内では比較的高いが、倍数性の違いを克服する必要がある。",
+      "fertility_of_hybrids": "種間雑種ではしばしば低下する。",
+      "backcrossing_success": "可能であり、育種プログラムで利用されている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "塊茎の休眠性、深い根系",
+        "heritability": "中程度",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "多くの特性はリジェネラティブ農業の原則と合致するが、この文脈での体系的な研究はまだ発展途上。特性からの類推が多い。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く広範な繊維状の根系を持ち、土壌の団粒構造を改善し、硬盤を破壊する可能性がある。",
+      "organic_matter_contribution": "地上部のバイオマスが非常に多く、緑肥として土壌に還元することで有機物量を大幅に増加させる。",
+      "soil_structure_improvement": "優れている。",
+      "erosion_control": "生育期間中は密な群落を形成し、地表を覆うことで風食・水食を効果的に防ぐ。",
+      "nutrient_cycling_role": "深い根系が土壌深層から養分を吸い上げ、地表に再循環させる（養分ポンプ）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "晩夏から秋にかけて開花し、マルハナバチやミツバチなど多様な送粉者にとって貴重な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "高い草丈と密な葉は、テントウムシやカマキリなどの天敵昆虫に隠れ家を提供する。",
+      "soil_microorganism_interaction": "根圏から分泌される糖類が多様な土壌微生物群集を育む。",
+      "above_ground_biodiversity": "鳥類の営巣場所や採餌場所となることがある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る土壌孔隙が水の浸透を促進する。",
+      "moisture_retention": "地上部の被覆が土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "高い。",
+      "groundwater_recharge": "貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "非常に高い。",
+      "below_ground_carbon": "塊茎と根系により、相当量の炭素を地下に蓄積する。",
+      "soil_carbon_enhancement": "高いバイオマス還元により、土壌炭素貯留量を増加させるポテンシャルが高い。",
+      "carbon_sequestration_rate": "定量的データは少ないが、多年生作物として高い潜在能力を持つ。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシの風よけとして利用されることがある。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を抑制するアレロパシー効果が報告されており、混植には注意が必要。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物であるため、毎年の耕起が不要で土壌生態系を安定させる。",
+      "stress_tolerance": "高い。",
+      "recovery_capacity": "非常に高い。栄養繁殖力が旺盛で、攪乱からの回復が早い。",
+      "adaptability": "高い。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康食品、バイオ燃料、機能性素材としての応用研究が活発に行われている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "プレバイオティクス食品として、腸の健康を重視する現代の栄養トレンドに合致する。",
+      "food_security_contribution": "痩せ地でも栽培可能で収量が高いため、辺境地や低投入農業システムにおける食料安全保障に貢献する可能性がある。",
+      "local_food_system_integration": "栽培が容易で冬期に収穫できるため、地域の食料自給率向上に貢献できる。",
+      "alternative_protein_potential": "低いが、イヌリン抽出後の残渣を飼料として利用できる。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品市場",
+        "グルテンフリー食品市場",
+        "糖尿病患者向け食品市場"
+      ],
+      "value_added_products": [
+        "イヌリンパウダー",
+        "キクイモチップス",
+        "健康茶",
+        "漬物",
+        "蒸留酒（スピリッツ）",
+        "バイオエタノール"
+      ],
+      "niche_market_value": "高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としての絶滅リスクは低いが、在来品種や関連する先住民の知の保全に関する評価は限定的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の生息地である北米のプレーリーや河川敷の環境破壊が脅威となる。",
+    "climate_change_vulnerability": "低いが、特定の生態型は脆弱な可能性がある。",
+    "cultural_erosion_risk": "高。特に、北米先住民族が維持してきた在来品種とその利用法、栽培知識の消失が懸念される。",
+    "conservation_actions_needed": [
+      "北米の在来品種の収集・評価・保存（ジーンバンク）",
+      "先住民コミュニティによる域内保全活動の支援",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "北米ミシシッピ川・ミズーリ川流域"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的だが、一部の先住民コミュニティや保全団体によって行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "N/A",
+      "confidence_level": "high",
+      "source_comment": "本分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "北米（先住民の伝統的栽培システム）",
+      "中央アジア（乾燥地適応性の評価）"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオに対する品種レベルでの応答の定量的データ",
+      "リジェネラティブ農業システムにおける炭素隔離能力の長期モニタリングデータ"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名は存在するが、遺伝的に明確に区別された栽培品種体系はジャガイモほど確立されていない。"
+      },
+      "variety_name": "Fuseau",
+      "local_name": "Fuseau",
+      "origin_region": "フランス",
+      "distinctive_characteristics": "塊茎が細長く滑らかで、皮が剥きやすい。調理用に人気。",
+      "cultural_importance": "ヨーロッパで広く栽培されている代表的な品種。",
+      "climate_adaptation": "温帯気候に適応。",
+      "conservation_status": "安定"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "先住民の品種は多くが未記録または地域限定的。"
+      },
+      "variety_name": "不明（多数の在来系統）",
+      "local_name": "askipaw (Cree)",
+      "origin_region": "北米",
+      "distinctive_characteristics": "形状、色、大きさが多様。地域の気候や土壌に高度に適応している。",
+      "cultural_importance": "先住民コミュニティにとって食料、交易品、文化的に重要な植物。",
+      "climate_adaptation": "高い地域適応性を持つ。",
+      "conservation_status": "一部は絶滅の危機"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Plants of the World Online",
+      "USDA GRIN Global",
+      "FAOSTAT",
+      "Ethnobotany of the Americas (Scholarly Articles)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "先住民が保有する在来品種の網羅的な遺伝的・形態的評価"
+    ],
+    "regional_data_coverage": "北米とヨーロッパは豊富だが、アジアやアフリカでの利用に関するデータは限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "各地域での栽培品種の分布図"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

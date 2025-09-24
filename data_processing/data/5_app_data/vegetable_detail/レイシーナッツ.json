@@ -1,0 +1,593 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な植物学データベース(KEW, GBIF)と民族植物学研究からの情報を統合。栽培化が進んでいないため、商業生産や品種に関するデータは極めて乏しい。"
+    },
+    "primary_name": "Lacy Nut",
+    "scientific_name": "Hodgsonia macrocarpa",
+    "plant_type": "木本",
+    "edible_parts": [
+      "種子"
+    ],
+    "origin_region": "東ヒマラヤ、東南アジア大陸部、中国南部",
+    "wild_relatives": [
+      "Hodgsonia heteroclita (しばしばH. macrocarpaのシノニムとされる)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "学術文献および地域の民族植物学調査から収集。全ての地域名を網羅しているわけではない。"
+    },
+    "international": {
+      "en": [
+        "Lacy Nut",
+        "Chinese Lard Fruit",
+        "Kadam Nut"
+      ],
+      "scientific_common": "Hodgsonia"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "油渣果",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "มะกอกเลื่อม",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Cây Ké",
+            "script": "Latin"
+          },
+          {
+            "lang": "my",
+            "name": "Gwe-dauk",
+            "script": "Burmese"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "as",
+            "name": "Te-bou",
+            "script": "Assamese"
+          },
+          {
+            "lang": "bn",
+            "name": "Makal",
+            "script": "Bengali"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ナガ族（インド北東部）",
+        "name": "Thebou",
+        "cultural_significance": "重要な食用油の供給源であり、伝統的な食生活に不可欠な栄養価の高いナッツ。"
+      },
+      {
+        "community": "ミゾ族（インド北東部）",
+        "name": "Khaum",
+        "cultural_significance": "焼いてスナックとして消費される他、ペーストにして料理に使われる伝統食材。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "The World Flora Online (WFO) および Plants of the World Online (POWO) に基づく標準的な分類。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Hodgsonia",
+      "la": "Hodgsonia"
+    },
+    "species": {
+      "en": "Lacy Nut",
+      "la": "Hodgsonia macrocarpa"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "民族植物学的研究に強く依存しており、定量的データは乏しい。主に先住民コミュニティでの重要性が報告されている。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア（インド北東部）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "種子を焙煎して食用にするほか、高品質な食用油を抽出して調理に利用する。一部のコミュニティでは重要な現金収入源となっている。",
+        "seasonal_significance": "乾季の食料源として重要。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東南アジア（ミャンマー、タイ北部、ラオス）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "種子を食用にする。葉や茎を伝統医療で解熱剤として利用することがある。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ナガ料理（インド）",
+        "role": "essential",
+        "traditional_dishes": [
+          "Smoked Pork with Thebou Paste",
+          "Roasted Thebou Kernels"
+        ],
+        "preparation_methods": [
+          "焙煎",
+          "煮込み",
+          "ペースト化",
+          "搾油"
+        ],
+        "cultural_context": "ナガ族の食文化において、脂肪とタンパク質の重要な供給源。肉料理の風味付けやコク出しに欠かせない。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "文書記録は少ないが、何世紀にもわたって地域の民族によって利用されてきたと推定される。",
+      "trade_routes": "地域内のローカルな交易品としては流通していたが、大規模な交易路での役割は知られていない。",
+      "cultural_exchange": "不明",
+      "domestication_history": "明確な栽培化の歴史はなく、主に野生または半野生の状態で利用されている。栽培の試みは限定的。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間降水量1500mm以上の湿潤な熱帯雨林気候。明確な乾季があることが結実を促す可能性がある。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "湿潤な亜熱帯モンスーン気候。霜が降りない地域。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱く、適さない。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "低温および乾燥に適さない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高地の低温に適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯/亜熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "乾季の終わりから次の雨季の始まり",
+        "growing_period_days": "不明（多年生植物）"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "受粉の成功率",
+        "樹齢",
+        "気候条件（特に降雨）",
+        "森林伐採による生息地の悪化"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（商業生産はほぼ皆無）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "主に北東部の州で地域コミュニティにより野生採集されている。"
+        },
+        {
+          "country": "ミャンマー",
+          "production_share": "不明",
+          "characteristics": "野生採集が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種子の主要栄養素に関する研究は存在するが、微量栄養素や地域変異に関するデータは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約700-750",
+        "protein_g": "約25-30",
+        "carbs_g": "約8-12",
+        "fat_g": "約50-60",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "オレイン酸",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "リノール酸",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンE",
+          "amount": "含有",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "トコフェロール",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "ククルビタシン",
+        "concentration": "果肉に含有（有毒）",
+        "health_effect": "種子以外の部位は有毒である可能性が高い。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東南アジア",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "解熱",
+          "解毒"
+        ],
+        "preparation": "葉や茎を煎じて使用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "食用油としての特性評価",
+        "栄養成分分析"
+      ],
+      "safety_considerations": "果肉には有毒成分が含まれるため、食用は種子（仁）のみに限定する必要がある。生食の安全性は不明であり、伝統的に加熱調理される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "利用法は特定の地域に限定されており、民族誌的記録から情報を収集。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア（インド北東部）",
+        "methods": [
+          "焙煎",
+          "煮込み",
+          "ペースト化",
+          "搾油"
+        ],
+        "flavor_role": "主味/副味",
+        "typical_combinations": [
+          "豚肉（特に燻製）",
+          "発酵大豆",
+          "唐辛子",
+          "タケノコ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "南アジア",
+          "東南アジア"
+        ],
+        "shelf_life": "数ヶ月以上",
+        "quality_changes": "適切に乾燥させないと油分が酸化しやすい。"
+      },
+      {
+        "method": "搾油",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "伝統的な方法で抽出された油は、精製油に比べて保存期間が短い可能性がある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "加熱するとナッツのような香ばしさと豊かなコクがあり、クリーミー。わずかに甘みを感じる。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "加熱後は柔らかく、ペースト状にしやすい。焙煎するとカリッとした食感になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "直接的な実験データは皆無。自生地の気候特性からの定性的な推定に基づく。将来予測は広域モデルに基づくものであり、精度は低い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "5°C以下で生育障害の可能性"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "1500-2500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（つる性植物のため、支持物に依存）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東ヒマラヤ、東南アジアの湿潤林",
+        "2050_projection": "降雨量が維持される地域では、より高緯度・高標高へ移動する可能性。干ばつが頻発する地域では適地が縮小。",
+        "2100_projection": "降雨パターンの変化に大きく依存し、予測は困難。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "遺伝的多様性や交雑に関する体系的な研究は行われていない。情報は主に植物分類学的な類推に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間の交雑は可能と推定される"
+      ],
+      "interspecific_compatibility": [
+        "H. macrocarpaとH. heteroclita間の交雑可能性（シノニムでない場合）"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培化されていないため、ランドレースは存在しないが、地域ごとに遺伝的に分化したエコタイプが存在する可能性が高い。",
+      "wild_gene_pool": "現在利用されているものが野生遺伝子プールそのものである。",
+      "adaptive_genetic_variation": "高いと推定されるが、未調査。",
+      "inbreeding_depression_risk": "不明"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 4
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "直接的な研究データはない。多年生のつる性木本という生態学的特性からの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範な根系を持つと推定され、土壌の安定化に寄与する可能性がある。",
+      "organic_matter_contribution": "落葉により土壌有機物を供給する。",
+      "soil_structure_improvement": "根の活動が土壌団粒構造を促進する可能性がある。",
+      "erosion_control": "地表を被覆し、林床の土壌侵食を抑制する可能性がある。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に循環させる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "夜間に開花し、蛾などの夜行性昆虫に蜜や花粉を提供する可能性がある。",
+      "beneficial_insect_habitat": "立体的な構造が多様な昆虫の生息地となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "アグロフォレストリーシステムにおいて、他の生物の生息地を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が土壌の浸透性を高める可能性がある。",
+      "moisture_retention": "土壌被覆により水分の蒸発を防ぐ。",
+      "runoff_reduction": "葉や茎が雨滴の衝撃を和らげ、地表流出を減らす。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "木質化したつるとして、炭素を長期的に貯留する。",
+      "below_ground_carbon": "多年生のため、根系に炭素を蓄積する。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "アグロフォレストリーシステムにおける高木層の樹木"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、農業生態系の永続性と安定性に貢献する可能性がある。",
+      "stress_tolerance": "湿潤環境には強いが、乾燥には弱い。",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ポテンシャルに関する議論が主であり、実用化に向けた研究は初期段階にもない。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク質・高脂質（良質な不飽和脂肪酸）であり、栄養価の高い植物性食品としての価値が高い。",
+      "food_security_contribution": "辺境地の地域コミュニティにとって重要な食料安全保障資源となりうる。",
+      "local_food_system_integration": "アグロフォレストリーを通じて持続可能な地域食品システムに統合できる可能性がある。",
+      "alternative_protein_potential": "代替プロテインや植物性ミルクの原料としてのポテンシャルがある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級ナッツ市場",
+        "植物性オイル市場",
+        "スーパーフード市場"
+      ],
+      "value_added_products": [
+        "ローストナッツ",
+        "ナッツバター",
+        "コールドプレスオイル",
+        "プロテインパウダー"
+      ],
+      "niche_market_value": "ユニークなストーリー性と高い栄養価から、ニッチ市場で高い価値を持つ可能性があるが、栽培技術の確立が最大の課題。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストには未掲載だが、生息地の森林減少が深刻な脅威であることは広く認識されている。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "森林伐採、焼畑農業の拡大による自生地の破壊が最大の脅威。",
+    "climate_change_vulnerability": "干ばつへの脆弱性が気候変動によるリスクを高める。",
+    "cultural_erosion_risk": "高（若い世代が伝統的な食文化から離れることで、利用と知識が失われる危険性がある）",
+    "conservation_actions_needed": [
+      "自生地の保全（特に保護区の設定）",
+      "地域コミュニティと連携した持続可能な利用法の確立",
+      "遺伝的多様性の評価と生息域外保全（ジーンバンク）",
+      "伝統知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "インド北東部",
+      "ミャンマー北部",
+      "中国雲南省"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクでの保存はほとんどない。",
+    "in_situ_conservation_efforts": "限定的、または報告なし。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本調査に基づく総合的な評価。多くの項目でデータが不足しているため、将来の研究が待たれる。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド、ナガランド州",
+      "インド、ミゾラム州",
+      "ミャンマー、カチン州"
+    ],
+    "knowledge_gaps": [
+      "栽培技術",
+      "遺伝的多様性",
+      "気候変動に対する生理学的応答",
+      "微量栄養素と機能性成分の定量分析",
+      "受粉生態"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "none",
+        "confidence_level": "high",
+        "source_comment": "栽培化が進んでいないため、確立された品種は存在しない。以下は地域エコタイプの概念的な記述。"
+      },
+      "variety_name": "地域エコタイプ（総称）",
+      "local_name": "地域ごとに異なる（例：Thebou）",
+      "origin_region": "東ヒマラヤから東南アジアの各地",
+      "distinctive_characteristics": "主に野生または半野生の状態で利用される。果実の大きさ、種子の油分含有量、風味などに地域的な変異が存在すると考えられるが、体系的には調査されていない。",
+      "cultural_importance": "各地域コミュニティの食文化と密接に結びついている。",
+      "climate_adaptation": "それぞれの自生地の微気候に適応している。",
+      "conservation_status": "未評価（生息地の減少により脅威に晒されている）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Plants of the World Online (Kew Science)",
+      "Ethnobotanical research papers on Northeast India and Southeast Asia",
+      "PROSEA (Plant Resources of South-East Asia) database"
+    ],
+    "major_knowledge_gaps": [
+      "定量的データ全般（収量、栽培適性、気候変動応答）",
+      "リジェネラティブ農業への具体的な貢献度の測定",
+      "遺伝資源の体系的な評価"
+    ],
+    "regional_data_coverage": "南アジア（インド北東部）と一部の東南アジアに偏在。アフリカ、アメリカ、ヨーロッパの情報は皆無。",
+    "missing_information": [
+      "栽培マニュアル",
+      "病害虫リスト",
+      "商業生産データ",
+      "詳細な栄養分析"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

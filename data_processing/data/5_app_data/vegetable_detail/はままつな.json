@@ -1,0 +1,581 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（KEW, GBIF）から統合。野生近縁種に関する詳細な遺伝的関係は限定的。"
+    },
+    "primary_name": "Alkali Seepweed",
+    "scientific_name": "Suaeda glauca",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "東アジアの沿岸部および内陸塩性地",
+    "wild_relatives": [
+      "Suaeda maritima",
+      "Suaeda salsa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア地域での名称は広く認知されている。英語名は属名に由来するものが一般的。"
+    },
+    "international": {
+      "en": [
+        "Alkali Seepweed",
+        "Seablite"
+      ],
+      "scientific_common": "Suaeda"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ハママツナ",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "ja",
+            "name": "浜松菜",
+            "script": "Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "碱蓬",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "나문재",
+            "script": "Hangul"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースから情報を取得。"
+    },
+    "family": {
+      "en": "Amaranth family",
+      "la": "Amaranthaceae"
+    },
+    "genus": {
+      "en": "Seepweed",
+      "la": "Suaeda"
+    },
+    "species": {
+      "en": "Alkali Seepweed",
+      "la": "glauca"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジアの食文化に関する記録は存在するが、儀式的な利用に関する情報は極めて少ない。主に地域的な野生植物として利用される。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "救荒植物"
+        ],
+        "traditional_uses": "主に日本、中国、韓国の沿岸地域で、春の若芽を摘み、おひたし、和え物、炒め物として利用されてきた。塩抜きしてから調理するのが一般的。歴史的には食料が乏しい時期の貴重な食料源（救荒植物）であった。",
+        "seasonal_significance": "春の訪れを告げる山菜・浜菜として季節感を持つ食材。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（郷土料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "ハママツナのおひたし",
+          "ハママツナの胡麻和え"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "水にさらす（塩抜き）",
+          "和える"
+        ],
+        "cultural_context": "沿岸部のコミュニティで伝統的に消費されてきた季節の野菜。商業的な流通は少なく、主に自家消費や直売所で取引される。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "common",
+        "traditional_dishes": [
+          "나문재무침 (Namunjae-muchim)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "和える"
+        ],
+        "cultural_context": "ナムルの一種として、他の野菜と同様に調理され、常備菜として食される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古くから東アジアの沿岸地域で自生植物として食用にされてきた記録があるが、正確な年代は不明。",
+      "trade_routes": "主要な交易品としての役割は確認されていない。",
+      "cultural_exchange": "不明",
+      "domestication_history": "明確な栽培化の歴史はなく、主に野生種の採集に依存してきた。近年、一部で栽培の試みが行われている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "沿岸部の塩性土壌で良好に生育。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "自生地域であり最適。特に沿岸の砂地や塩性湿地。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "内陸の塩湖周辺など、塩性土壌であれば生育可能。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "塩性で乾燥した土壌に適応。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "春〜初夏",
+        "growing_period_days": 60
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "土壌塩分濃度",
+        "日照",
+        "水分"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "小規模な自家消費および地域市場向けの生産が中心。"
+        },
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "野生種の採集が主。一部で塩類土壌の緑化や修復目的で利用。"
+        },
+        {
+          "country": "韓国",
+          "production_share": null,
+          "characteristics": "沿岸部での野生採集が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "詳細な栄養分析データは乏しい。一般的な緑黄色野菜と塩生植物の特性からの類推を含む。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "高いと推定",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "高いと推定",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "高いと推定",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ベータカロテン",
+          "amount": "豊富と推定",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ベタレイン色素",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "多様な生理活性が報告されている"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "解熱",
+          "利尿"
+        ],
+        "preparation": "煎じて飲む、または食用にする。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "塩ストレス耐性メカニズム",
+        "ファイトレメディエーション（土壌浄化）への応用"
+      ],
+      "safety_considerations": "シュウ酸を含む可能性があるため、アク抜き（茹でこぼし）が推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジアでの伝統的な調理法はよく知られているが、世界的な応用例はほとんどない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる",
+          "炒める",
+          "和える",
+          "漬物にする"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "ごま",
+          "酢"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が柔らかくなり、塩味が増す。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "不明"
+        ],
+        "shelf_life": "不明",
+        "quality_changes": "不明"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな塩味、うま味、わずかなえぐみ",
+      "aroma_compounds": [
+        "青葉アルコール"
+      ],
+      "texture_characteristics": "シャキシャキとした食感"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "定量的な実験データは少ないが、塩生植物としての生態学的特性から高い耐性を持つと強く推定される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "中"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高いと推定",
+      "flood_tolerance": "高（特に塩水による冠水）",
+      "optimal_rainfall": "低〜中"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（草丈が低いため風害は受けにくい）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高いと推定"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "過酷な環境に自生するため、一般的な農作物より病害虫に強いと推定される。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "世界の温帯・亜熱帯の沿岸塩性地および内陸塩類平原",
+        "2050_projection": "海面上昇や不適切な灌漑による土壌塩類化地域の拡大に伴い、潜在的な生育可能地は拡大する可能性が高い。",
+        "2100_projection": "同上。特にデルタ地帯や乾燥地域での重要性が増す可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Suaeda属内の交雑に関する情報は多いが、S. glauca種に特化した自然交雑の研究は限定的。ポテンシャルは高いと推定される。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "東アジアの広範な地域に分布するため、多くの地域的エコタイプ（変異）が存在すると考えられる。"
+      ],
+      "interspecific_compatibility": [
+        "同属のSuaeda maritimaなど、同じ生息域に分布する近縁種との交雑可能性が指摘されている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い。"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培化されていないため、明確な在来品種は存在しないが、地域個体群間の遺伝的多様性は高いと推定される。",
+      "wild_gene_pool": "野生集団がそのまま遺伝子プールとなっており、非常に広大で多様。",
+      "adaptive_genetic_variation": "塩分濃度、乾燥、温度など、多様な環境ストレスに適応した遺伝的変異が豊富に存在すると考えられる。",
+      "inbreeding_depression_risk": "低い"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "東アジアの多様な塩性環境",
+        "environmental_pressure": "土壌塩分濃度、冠水頻度、乾燥度",
+        "adaptive_response": "浸透圧調節能力、イオン蓄積機構、形態的多様性",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域的エコタイプの分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "極度の耐塩性、耐乾性遺伝子を他の作物に導入する遺伝資源としての可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "高いと推定"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "土壌塩分濃度",
+        "adaptive_traits": "イオンの区画化能力、適合溶質の合成",
+        "heritability": "不明",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "塩生植物の一般的特性とファイトレメディエーションに関する研究からの類推が主。定量データは不足。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く、広く張る根系を持つと推定される。",
+      "organic_matter_contribution": "枯死体が分解され、塩性土壌の有機物含量を増加させる。",
+      "soil_structure_improvement": "根が土壌粒子を結合し、団粒構造を促進する可能性がある。",
+      "erosion_control": "地表を覆うことで、風食や水食を防ぐ。",
+      "nutrient_cycling_role": "土壌中の過剰な塩類（特にナトリウム）を吸収・蓄積し、土壌から除去する（ファイトレメディエーション）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "風媒花であり、花粉媒介者への貢献は少ない。",
+      "beneficial_insect_habitat": "過酷な塩性地において、昆虫や他の小動物に生息地や食料を提供する。",
+      "soil_microorganism_interaction": "根圏微生物との共生により、塩ストレス耐性を高めている可能性がある。",
+      "above_ground_biodiversity": "沿岸生態系の重要な構成要素。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "不明",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "塩水環境で生育するため、淡水の地下水涵養への直接的貢献は限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "高いポテンシャルを持つ。塩性湿地（ブルーカーボン生態系）の構成種として重要。",
+      "soil_carbon_enhancement": "有機物の供給を通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "他の耐塩性植物との混植により、塩性地の生態系を豊かにする可能性がある。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "塩類集積した土地を生産的に利用し、農業生態系の多様化と安定化に貢献する。",
+      "stress_tolerance": "極めて高い（塩、乾燥）",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": " saline agricultureの文脈でのポテンシャルは高いが、商業的応用はまだ初期段階。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ミネラル豊富な野菜としての価値。",
+      "food_security_contribution": "気候変動により増加する塩類集積地や限界地での食料生産を可能にする（Saline Agriculture）。",
+      "local_food_system_integration": "地域の未利用資源を活用し、地産地消を促進する。",
+      "alternative_protein_potential": "不明"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "気候変動適応型作物",
+        "グルメ野菜・レストラン向け食材",
+        "健康食品"
+      ],
+      "value_added_products": [
+        "乾燥野菜",
+        "ピクルス",
+        "健康茶",
+        "天然塩"
+      ],
+      "niche_market_value": "「海の野菜」「サステナブル野菜」としてのブランド価値が高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としては広域分布で絶滅リスクは低いが、食文化と結びついた地域個体群は生息地の開発により脅威に晒されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "沿岸部の埋め立て、開発、汚染による自生地の減少。",
+    "climate_change_vulnerability": "海面上昇による生息地の水没リスクはあるが、種全体としては適応性が高い。",
+    "cultural_erosion_risk": "高。伝統的な食文化の継承者減少による利用の断絶。",
+    "conservation_actions_needed": [
+      "伝統的知識の記録と継承",
+      "自生地である沿岸生態系の保全",
+      "地域個体群の遺伝資源としての収集・保存"
+    ],
+    "priority_conservation_regions": [
+      "日本の沿岸干潟",
+      "黄河デルタ",
+      "韓国の西海岸"
+    ],
+    "ex_situ_conservation_status": "一部のジーンバンクで種子が保存されている可能性があるが、体系的な収集は行われていない。",
+    "in_situ_conservation_efforts": "沿岸の自然保護区設定などが間接的な保全に繋がっている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家AIとして、収集した情報に基づき総合的に評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "東アジアの沿岸地域",
+      "中央アジアの乾燥塩類地"
+    ],
+    "knowledge_gaps": [
+      "品種・地域個体群ごとの栄養価の定量的データ",
+      "気候変動要因（CO2濃度、温度上昇）に対する生理的応答の詳細な研究",
+      "栽培技術の確立"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "本種は商業的に栽培される品種が確立しておらず、野生の地域個体群（エコタイプ）として存在する。"
+      },
+      "variety_name": "地域個体群（エコタイプ）",
+      "local_name": "ハママツナ、나문재、碱蓬",
+      "origin_region": "東アジア各地の塩性地",
+      "distinctive_characteristics": "生育する環境の塩分濃度や土壌条件に応じて、草丈、葉の厚さ、色合い（緑〜赤紫色）などに変異が見られる。",
+      "cultural_importance": "それぞれの地域で伝統的に採集・利用されてきた食文化の担い手。",
+      "climate_adaptation": "各地域の微気候や土壌条件に高度に局所適応している。",
+      "conservation_status": "未評価（Not Evaluated）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GBIF (Global Biodiversity Information Facility)",
+      "KEW Plants of the World Online",
+      "FAO AquaCrop database",
+      "Ethnobiology and agroecology academic papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種・エコタイプごとの応答",
+      "詳細な栄養成分と機能性成分の分析"
+    ],
+    "regional_data_coverage": "東アジアに偏っており、他地域での情報は非常に少ない。",
+    "missing_information": [
+      "商業生産データ",
+      "育種に関する研究",
+      "国際貿易データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

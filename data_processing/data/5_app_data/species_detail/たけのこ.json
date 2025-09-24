@@ -1,0 +1,618 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), agroecological literature, and ethnobotanical studies focusing on East Asia. Wild relative specifics are based on the Flora of China."
+    },
+    "primary_name": "Moso Bamboo Shoot",
+    "scientific_name": "Phyllostachys edulis",
+    "plant_type": "木本",
+    "edible_parts": [
+      "茎"
+    ],
+    "origin_region": "Southern China",
+    "wild_relatives": [
+      "Phyllostachys nuda",
+      "Phyllostachys bambusoides",
+      "Other species within the Phyllostachys genus in China"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual botanical dictionaries and culinary glossaries. Indigenous names are not typically applied as this is a species of major state-level agricultural civilizations."
+    },
+    "international": {
+      "en": [
+        "Moso bamboo",
+        "Edible bamboo shoot",
+        "Tortoise-shell bamboo"
+      ],
+      "scientific_common": "Moso Bamboo"
+    },
+    "regional": [
+      {
+        "region": "East Asia",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "孟宗竹 (Moso-chiku) / 筍 (Takenoko)",
+            "script": "Kanji/Hiragana"
+          },
+          {
+            "lang": "zh",
+            "name": "毛竹 (Máo zhú)",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "맹종죽 (Maengjongjuk)",
+            "script": "Hangeul"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is based on the World Checklist of Vascular Plants (WCVP) and GRIN Taxonomy."
+    },
+    "family": {
+      "en": "Grass family",
+      "la": "Poaceae"
+    },
+    "genus": {
+      "en": "Bamboo",
+      "la": "Phyllostachys"
+    },
+    "species": {
+      "en": "Moso bamboo",
+      "la": "edulis"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Synonym",
+        "name": "Phyllostachys heterocycla f. pubescens"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is drawn from anthropological studies, culinary history, and art history of East Asia. Its significance outside this region is minimal and primarily horticultural."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "East Asia",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "文化的象徴"
+        ],
+        "traditional_uses": "A quintessential symbol of spring in Japanese, Chinese, and Korean cuisine. Valued for its crisp texture and delicate flavor. The mature plant is a critical material for construction, crafts, and art, symbolizing integrity, resilience, and simplicity, particularly in Zen and Taoist philosophy.",
+        "seasonal_significance": "Represents the arrival of spring; its harvest is a significant seasonal culinary event.",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "North America / Europe",
+        "importance_level": 1,
+        "cultural_roles": [
+          "観賞用植物",
+          "ニッチ食材"
+        ],
+        "traditional_uses": "Primarily grown as an ornamental plant in gardens. Culinary use is limited to canned or processed shoots in Asian cuisine, with little cultural significance attached to the fresh plant.",
+        "seasonal_significance": "None",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "Japanese Cuisine (Washoku)",
+        "role": "essential",
+        "traditional_dishes": [
+          "Takenoko Gohan (bamboo rice)",
+          "Chikuzenni (simmered chicken and vegetables)",
+          "Wakatake-ni (simmered with wakame seaweed)"
+        ],
+        "preparation_methods": [
+          "Simmering",
+          "Grilling",
+          "Steaming",
+          "Deep-frying (Tempura)"
+        ],
+        "cultural_context": "Celebrates the fleeting nature of seasons. The process of removing bitterness ('aku-nuki') using rice bran is a key traditional culinary skill."
+      },
+      {
+        "cuisine": "Chinese Cuisine",
+        "role": "common",
+        "traditional_dishes": [
+          "Braised Winter Bamboo Shoots",
+          "Stir-fried Pork with Bamboo Shoots",
+          "Hot and Sour Soup"
+        ],
+        "preparation_methods": [
+          "Stir-frying",
+          "Braising",
+          "Boiling",
+          "Pickling"
+        ],
+        "cultural_context": "Used widely across regional cuisines (e.g., Sichuan, Zhejiang). Valued for its texture which absorbs the flavors of other ingredients. Both fresh and dried forms are essential."
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "Utilized for food and material in China for several millennia. Mentioned in ancient texts and poetry.",
+      "trade_routes": "Not a major trade item historically in its fresh form due to perishability. Processed forms (dried) were locally traded.",
+      "cultural_exchange": "Introduced from China to Japan in the 18th century, where it became deeply integrated into Japanese culture and cuisine.",
+      "domestication_history": "Long history of selection and management in Southern China, leading to the current productive Moso bamboo groves."
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "Too hot and potentially unsuitable day length for proper rhizome development."
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "Warm, humid summers with ample rainfall (1000-2000mm annually) and mild winters. This is its ideal climate."
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "Can tolerate cold down to -20°C, but shoot production is best in warmer temperate zones. Requires protection from harsh, dry winter winds."
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "Extreme temperature fluctuations and dry conditions are unsuitable."
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "Insufficient water availability. This is a major limiting factor."
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "Too cold, short growing season."
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "Temperate/Subtropical (Northern Hemisphere)",
+        "planting_season": "Spring/Autumn (via transplants)",
+        "harvest_season": "Spring (March-May)",
+        "growing_period_days": 2190
+      }
+    ],
+    "productivity": {
+      "yield_range": "4,000-15,000 kg/ha for shoots",
+      "factors_affecting_yield": [
+        "Grove age and density",
+        "Soil fertility and moisture",
+        "Thinning of old culms",
+        "Timing of harvest"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明 (estimated in millions of tons)",
+      "major_producers": [
+        {
+          "country": "China",
+          "production_share": 80,
+          "characteristics": "Dominates global production of both shoots for food and culms for industrial use. Extensive managed bamboo forests."
+        },
+        {
+          "country": "Japan",
+          "production_share": 5,
+          "characteristics": "Significant production for the domestic fresh market. Facing challenges from aging farmers and abandonment of groves."
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "General nutritional data is widely available. However, specific data on phytochemical variation between landraces is scarce. Traditional medicinal uses are well-documented in ethnobotanical literature but lack extensive clinical validation."
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "27",
+        "protein_g": "2.6",
+        "carbs_g": "5.2",
+        "fat_g": "0.3",
+        "fiber_g": "2.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Potassium",
+          "amount": "533mg",
+          "daily_value_percent": "11"
+        },
+        {
+          "nutrient": "Manganese",
+          "amount": "0.3mg",
+          "daily_value_percent": "13"
+        },
+        {
+          "nutrient": "Vitamin B6",
+          "amount": "0.2mg",
+          "daily_value_percent": "12"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Phenolic acids (e.g., ferulic, caffeic)",
+        "concentration": "Variable",
+        "health_effect": "Antioxidant activity"
+      },
+      {
+        "compound": "Cyanogenic glycosides (Taxiphyllin)",
+        "concentration": "High in raw shoots",
+        "health_effect": "Toxic, must be degraded by cooking to be safe for consumption."
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "East Asia",
+        "medical_system": "Traditional Chinese Medicine (TCM)",
+        "uses": [
+          "Clearing heat and transforming phlegm",
+          "Relieving coughing",
+          "Promoting diuresis"
+        ],
+        "preparation": "Decoction of dried shavings (Zhuru) or consumption of cooked shoots."
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "High dietary fiber content aids digestion and promotes satiety."
+      ],
+      "ongoing_research": [
+        "Antioxidant properties",
+        "Potential anti-cancer effects of bamboo extracts",
+        "Cholesterol-lowering effects"
+      ],
+      "safety_considerations": "Raw bamboo shoots are toxic and must be thoroughly cooked before consumption to eliminate cyanogenic glycosides and bitter compounds."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Culinary use is extensively documented in cookbooks, food blogs, and academic papers on East Asian food culture."
+    },
+    "global_cooking_methods": [
+      {
+        "region": "East Asia",
+        "methods": [
+          "Boiling",
+          "Simmering",
+          "Stir-frying",
+          "Grilling",
+          "Steaming",
+          "Pickling",
+          "Fermenting"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Soy sauce",
+          "Miso",
+          "Sake",
+          "Mirin",
+          "Pork",
+          "Chicken",
+          "Seaweed (wakame, kombu)"
+        ]
+      },
+      {
+        "region": "Global (outside East Asia)",
+        "methods": [
+          "Used from cans in stir-fries, soups, and salads"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "Coconut milk (in Southeast Asian style curries)",
+          "Various vegetables in stir-fries"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Canning (in water or brine)",
+        "regions": [
+          "Global"
+        ],
+        "shelf_life": "1-2 years",
+        "quality_changes": "Loss of delicate fresh flavor and aroma; texture becomes softer."
+      },
+      {
+        "method": "Drying",
+        "regions": [
+          "East Asia"
+        ],
+        "shelf_life": "Over 1 year",
+        "quality_changes": "Flavor becomes concentrated and deeply umami; requires rehydration."
+      },
+      {
+        "method": "Fermenting/Lacto-fermentation",
+        "regions": [
+          "East Asia (e.g., for Menma in Japan)"
+        ],
+        "shelf_life": "Months to a year",
+        "quality_changes": "Develops savory, pungent, and complex flavors."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Subtly sweet, earthy, with a hint of umami. Can be bitter if not prepared correctly.",
+      "aroma_compounds": [
+        "Grassy notes",
+        "Faintly sweet, corn-like aroma when fresh"
+      ],
+      "texture_characteristics": "Crisp, crunchy, and succulent when fresh. Becomes more tender with cooking."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Quantitative data on specific tolerances of P. edulis is limited. This assessment is based on its known ecological niche, general characteristics of fast-growing grasses, and qualitative observations. Future suitability projections are speculative."
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-26°C",
+      "extreme_heat_survival": "Tolerates >35°C with sufficient moisture but growth may stall.",
+      "cold_tolerance": "-20°C"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "Low; requires high water input for productivity.",
+      "flood_tolerance": "Low to medium; tolerates short-term waterlogging but not stagnant water.",
+      "optimal_rainfall": "1000-2000 mm/year"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "High (flexible culms)",
+      "hail_damage_recovery": "High (rapid regrowth from rhizomes)",
+      "rapid_temperature_change": "Medium"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "High (expected to increase biomass production significantly)",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "High"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Moderate risk; warming could expand range of pests like bamboo mites.",
+      "disease_resistance_stability": "High; generally a very robust plant.",
+      "beneficial_organism_relationships": "Strong relationship with mycorrhizal fungi."
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Subtropical and warm temperate East Asia, Southeastern USA",
+        "2050_projection": "Potential northern expansion of viable cultivation zones.",
+        "2100_projection": "Significant northward shift; southern range may become water-limited.",
+        "confidence_level": "Low"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Bamboo flowering events are rare, long-cycle phenomena, making natural hybridization difficult to study. Potential is inferred from taxonomy and sporadic reports, not systematic research."
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Limited documented varieties, mainly landraces."
+      ],
+      "interspecific_compatibility": [
+        "Possible with other Phyllostachys species during mass flowering events."
+      ],
+      "intergeneric_possibility": [
+        "Extremely low to none."
+      ],
+      "successful_natural_hybrids": [
+        "Few documented cases due to infrequent flowering."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "Moderate in its center of origin (China), low in introduced regions (often single clones).",
+      "wild_gene_pool": "Connected to the broader Phyllostachys gene pool in China.",
+      "adaptive_genetic_variation": "Low within clonal populations, dependent on rare sexual reproduction for novelty.",
+      "inbreeding_depression_risk": "Low due to predominantly vegetative propagation."
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "Japan",
+        "environmental_pressure": "Different climate and soil conditions compared to origin in China.",
+        "adaptive_response": "Successful establishment and naturalization, suggesting phenotypic plasticity.",
+        "time_scale": "Centuries",
+        "mechanism": "Primarily vegetative selection and somatic mutation."
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "Possible but unproven; hybridization could introduce traits like greater cold hardiness from other species.",
+      "improved_nutritional_content": "Unknown.",
+      "novel_characteristics": "Possible changes in shoot size, flavor, or culm properties.",
+      "hybrid_vigor_potential": "High, if successful crosses can be made."
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Extremely long and unpredictable flowering cycles (60+ years).",
+      "chromosome_compatibility": "Polyploidy (hexaploid) can create barriers with diploid species.",
+      "fertility_of_hybrids": "Often low or sterile.",
+      "backcrossing_success": "Extremely difficult to achieve."
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "Climate (cold/heat), water availability, pests.",
+        "adaptive_traits": "Rhizome depth, culm strength, disease resistance.",
+        "heritability": "High for clonally propagated traits, but new variation is rare.",
+        "response_to_selection": "Slow for novel traits, fast for selection among existing clones."
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Data is primarily from forestry and soil science studies on bamboo's ecological impact. Direct studies within a 'regenerative agriculture' framework are emerging but not comprehensive."
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Dense, shallow network of rhizomes and fine roots.",
+      "organic_matter_contribution": "High; annual shedding of leaves and sheaths creates a thick litter layer.",
+      "soil_structure_improvement": "Excellent; the rhizome network binds soil particles.",
+      "erosion_control": "Exceptional; one of the best plants for stabilizing slopes.",
+      "nutrient_cycling_role": "Efficient scavenger of nutrients, particularly silica."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "Low (wind-pollinated, infrequent flowering).",
+      "beneficial_insect_habitat": "Can provide shelter, but monoculture stands may reduce overall insect diversity compared to mixed forests.",
+      "soil_microorganism_interaction": "Strong symbiotic relationship with arbuscular mycorrhizal fungi.",
+      "above_ground_biodiversity": "Provides habitat for birds and small mammals."
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "High, due to the porous litter layer and root channels.",
+      "moisture_retention": "High in the topsoil due to mulch.",
+      "runoff_reduction": "Very high.",
+      "groundwater_recharge": "Contributes positively by reducing surface runoff."
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "Very high and rapidly accumulating.",
+      "below_ground_carbon": "High, with a significant portion in the extensive rhizome system.",
+      "soil_carbon_enhancement": "High, through decomposition of leaf litter.",
+      "carbon_sequestration_rate": "Among the highest of any terrestrial plant system."
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Not typically used in companion planting systems due to its aggressive, spreading nature."
+      ],
+      "natural_pest_control": "Unknown.",
+      "nutrient_sharing": "Competes aggressively for nutrients.",
+      "allelopathic_interactions": "Potential allelopathic effects that suppress other plants."
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "High once established, but can lead to a low-diversity monoculture.",
+      "stress_tolerance": "High resilience to physical damage (e.g., cutting, fire).",
+      "recovery_capacity": "Very high; rapidly regrows from rhizomes.",
+      "adaptability": "High phenotypic plasticity."
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is based on current market trends, food industry reports, and research into sustainable materials."
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "Provides unique texture and fiber in plant-based diets.",
+      "food_security_contribution": "Highly productive perennial crop requiring relatively low inputs once established.",
+      "local_food_system_integration": "Excellent for local food systems due to its seasonality and high productivity in suitable climates.",
+      "alternative_protein_potential": "Low."
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Value-added products like bamboo shoot pickles, fermented products (menma), and gluten-free flour.",
+        "Promotion as a fresh, seasonal delicacy in Western markets."
+      ],
+      "value_added_products": [
+        "Canned shoots",
+        "Dried shoots",
+        "Vacuum-packed pre-cooked shoots",
+        "Bamboo powder",
+        "Fermented condiments"
+      ],
+      "niche_market_value": "High for fresh, locally harvested shoots in gourmet markets."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "The species is not threatened. The risk is to the genetic diversity of landraces and the cultural knowledge associated with their management and use."
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "Low; it is an aggressively expanding species.",
+    "climate_change_vulnerability": "Medium; vulnerable to changes in water availability.",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "Documentation and preservation of traditional grove management techniques.",
+      "Establishment of living collections (germplasm banks) for diverse landraces from its center of origin."
+    ],
+    "priority_conservation_regions": [
+      "Rural areas in Southern China (e.g., Zhejiang, Fujian) where landrace diversity is highest.",
+      "Rural communities in Japan with long-standing cultivation history."
+    ],
+    "ex_situ_conservation_status": "Some varieties are held in botanical gardens, but a comprehensive collection is lacking.",
+    "in_situ_conservation_efforts": "Focused on managing existing productive forests rather than conserving genetic diversity."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "N/A",
+      "confidence_level": "high",
+      "source_comment": "This is a summary evaluation based on the data compiled."
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "Zhejiang, China",
+      "Kyoto Prefecture, Japan"
+    ],
+    "knowledge_gaps": [
+      "Quantitative response to combined heat and drought stress.",
+      "Genetic diversity of landraces in China.",
+      "Impacts of elevated CO2 on shoot quality and nutritional value."
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "Formal variety names are not common as in fruit crops. Distinctions are often based on region and subtle morphological traits."
+      },
+      "variety_name": "Kyoto-dake",
+      "local_name": "京筍 (Kyo-takenoko)",
+      "origin_region": "Kyoto, Japan",
+      "distinctive_characteristics": "Prized for its pale color, soft texture, and exceptional sweetness with very little bitterness. Grown in specially managed, soft-earthed fields.",
+      "cultural_importance": "Considered the highest grade of bamboo shoot in Japan, used in high-end traditional restaurants (ryotei).",
+      "climate_adaptation": "Adapted to the specific temperate climate and cultivation methods of the Kyoto basin.",
+      "conservation_status": "Vulnerable due to high labor costs and aging farmers."
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Flora of China",
+      "World Bamboo Organization reports",
+      "Ethnobotanical studies on East Asian food culture",
+      "FAO agricultural statistics"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative data on regenerative agriculture metrics (e.g., specific carbon sequestration rates)",
+      "Climate change response at the landrace level",
+      "Comprehensive genetic diversity assessment"
+    ],
+    "regional_data_coverage": "High for East Asia, low for other regions.",
+    "missing_information": [
+      "Systematic data on interspecific hybridization events and outcomes.",
+      "Detailed phytochemical profiles of different landraces."
+    ],
+    "update_priority": "High, especially for climate change adaptation and regenerative agriculture sections.",
+    "quality_score": 8
+  }
+}

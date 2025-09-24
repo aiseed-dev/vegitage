@@ -1,0 +1,638 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、国際ポテトセンター（CIP）や王立植物園（キュー）などの主要な植物学データベース、及び民族植物学の文献から統合。野生近縁種に関する系統発生学的な詳細は現在も研究中。"
+    },
+    "primary_name": "オカ",
+    "scientific_name": "Oxalis tuberosa",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "塊茎",
+      "葉",
+      "茎",
+      "花"
+    ],
+    "origin_region": "南米アンデス中央高地（ペルー、ボリビア、エクアドル）",
+    "wild_relatives": [
+      "Oxalis picchensis",
+      "Oxalis petrophila"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栽培地域と導入地域における名称を網羅。先住民言語における名称は、その文化的重要性を反映している。"
+    },
+    "international": {
+      "en": [
+        "Oca",
+        "New Zealand yam"
+      ],
+      "scientific_common": "Andean wood sorrel"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Oca, Papa oca, Ibias",
+            "script": "Latn"
+          },
+          {
+            "lang": "qu",
+            "name": "Oqa",
+            "script": "Latn"
+          },
+          {
+            "lang": "ay",
+            "name": "Apilla",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "New Zealand yam",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ケチュア族（アンデス）",
+        "name": "Oqa",
+        "cultural_significance": "数千年にわたる主食の一つ。ジャガイモ、ウルコ、マシュアと共にアンデスの食料主権と農業文化の中核をなす。多様な品種が微気候や用途に応じて使い分けられる。"
+      },
+      {
+        "community": "アイマラ族（アンデス）",
+        "name": "Apilla",
+        "cultural_significance": "ケチュア族と同様に、伝統的な農業生態系と食文化に不可欠な作物。儀式やコミュニティの祝祭でも重要な役割を果たす。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV（被子植物系統分類）体系に基づく標準的な分類。"
+    },
+    "family": {
+      "en": "Wood-sorrel family",
+      "la": "Oxalidaceae"
+    },
+    "genus": {
+      "en": "Wood sorrel",
+      "la": "Oxalis"
+    },
+    "species": {
+      "en": "Oca",
+      "la": "Oxalis tuberosa"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アンデス地域における文化的重要性に関する民族植物学的研究は豊富。他の地域ではニッチな作物としての位置づけ。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "アンデス地域（ペルー、ボリビア、エクアドル）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "儀式用",
+          "文化的アイデンティティ"
+        ],
+        "traditional_uses": "日常の食事として茹でたり焼いたりする他、天日で乾燥させて「カヤ（Khaya）」や「カウィ（Cawi）」と呼ばれる甘い保存食に加工する。これは飢饉に備える重要な技術。祝祭料理「パチャマンカ（土中蒸し焼き）」にも不可欠。",
+        "seasonal_significance": "収穫期はコミュニティの重要な祝祭と結びついている。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "オセアニア（特にニュージーランド）",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "家庭菜園作物"
+        ],
+        "traditional_uses": "19世紀に導入され、「New Zealand yam」として定着。主にローストやボイルでジャガイモの代替として利用される。伝統的な文化的意味合いは薄い。",
+        "seasonal_significance": "秋に収穫される季節の野菜。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "アンデス料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Pachamanca",
+          "Sopa de Oca",
+          "Cawi/Khaya"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "焼く",
+          "蒸す",
+          "天日干し",
+          "発酵"
+        ],
+        "cultural_context": "農業サイクル、土地への敬意、コミュニティの結束と密接に関連。品種の多様性が料理の多様性を生み出している。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "プレ・インカ時代からの栽培の歴史があり、数千年前の考古学的証拠が存在する。",
+      "trade_routes": "アンデス内の異なる標高のコミュニティ間で交易される「垂直群島」システムにおける重要品目であった。",
+      "cultural_exchange": "19世紀にヨーロッパに導入されたが、ジャガイモほど普及しなかった。近年、生物多様性や伝統食への関心から世界的に再評価されている。",
+      "domestication_history": "アンデス高地で野生のOxalis種から栽培化された。クローン繁殖により、極めて高い遺伝的多様性を持つ在来品種群が形成された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "低地の高温多湿には適さない。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "高地サブトロピカル気候（熱帯高山気候）であれば栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "海洋性気候など夏が涼しい冷涼な温帯気候。塊茎形成には短日条件（日が短くなること）が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さに弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に弱く、一定の湿度が必要。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地である標高2,500mから4,000mのアンデス高地が最適。霜には弱いが冷涼な気候を好む。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "アンデス高地",
+        "planting_season": "雨季の始まり（10月〜11月）",
+        "harvest_season": "乾季の始まり（5月〜6月）",
+        "growing_period_days": 200
+      },
+      {
+        "climate_zone": "温帯（北半球）",
+        "planting_season": "晩霜後（4月〜5月）",
+        "harvest_season": "初霜後（10月〜11月）",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 70,000 kg/ha",
+      "factors_affecting_yield": [
+        "短日条件（塊茎形成に必須）",
+        "品種",
+        "土壌肥沃度",
+        "水分供給",
+        "霜害"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ペルー",
+          "production_share": null,
+          "characteristics": "世界最大の生産国であり、遺伝的多様性の中心地。主に国内の自給自足および地域市場向け。"
+        },
+        {
+          "country": "ボリビア",
+          "production_share": null,
+          "characteristics": "ペルーに次ぐ主要生産国。伝統的な栽培システムが維持されている。"
+        },
+        {
+          "country": "ニュージーランド",
+          "production_share": null,
+          "characteristics": "アンデス地域外で最も商業生産が盛ん。ニッチ市場向けの作物として定着。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は知られているが、数千に及ぶ品種ごとの詳細な栄養分析は不足している。機能性成分に関する研究は進行中。シュウ酸含有量に注意が必要。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "61",
+        "protein_g": "1.0",
+        "carbs_g": "14.0",
+        "fat_g": "0.6",
+        "fiber_g": "1.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "38 mg",
+          "daily_value_percent": 42
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "350 mg",
+          "daily_value_percent": 7
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.6 mg",
+          "daily_value_percent": 9
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "シュウ酸（Oxalic acid）",
+        "concentration": "可変（品種と調理法による）",
+        "health_effect": "独特の酸味の元。過剰摂取は腎臓結石のリスクを高める可能性がある。日光に当てるか加熱することで減少する。"
+      },
+      {
+        "compound": "アントシアニン、カロテノイド",
+        "concentration": "有色品種に豊富",
+        "health_effect": "強力な抗酸化作用を持つ。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アンデス",
+        "medical_system": "伝統アンデス医学",
+        "uses": [
+          "止血",
+          "抗炎症",
+          "腫れ物の治療"
+        ],
+        "preparation": "生の塊茎をすりつぶして湿布として使用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "有色品種における高い抗酸化活性"
+      ],
+      "ongoing_research": [
+        "品種ごとの栄養価と機能性成分のプロファイリング",
+        "シュウ酸低減技術の開発"
+      ],
+      "safety_considerations": "腎臓結石、痛風、関節リウマチの既往がある者はシュウ酸含有量のため摂取に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アンデス地域での伝統的利用法は非常によく記録されている。新しい地域での応用も進んでいる。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アンデス",
+        "methods": [
+          "茹でる",
+          "焼く",
+          "土中蒸し（パチャマンカ）",
+          "スープ",
+          "天日干し（カウィ）"
+        ],
+        "flavor_role": "主食",
+        "typical_combinations": [
+          "他の塊茎類（ジャガイモ、ウルコ）",
+          "キヌア",
+          "リャマやアルパカの肉",
+          "トウモロコシ"
+        ]
+      },
+      {
+        "region": "欧米・オセアニア",
+        "methods": [
+          "ロースト",
+          "ボイル",
+          "マッシュ",
+          "スライスしてサラダに（生食）"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "ローストチキンやビーフ",
+          "ハーブ（ローズマリー、タイム）",
+          "他の根菜（ニンジン、パースニップ）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し（カウィ/Khaya）",
+        "regions": [
+          "アンデス高地"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "シュウ酸が減少し、デンプンが糖に変わることで非常に甘くなる。食感はチューイーになる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生の状態では、品種によりレモンのような強い酸味がある。加熱すると酸味は和らぎ、ナッツのような風味や、品種によってはサツマイモのような甘みが出る。天日干ししたものはイチジクのように濃厚な甘さになる。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "生ではシャキシャキしている。加熱すると、品種によりホクホクした粉質系から、しっとりした粘質系まで多様。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "オカの気候変動応答に関する定量的な研究は極めて限定的。評価は原産地の気候特性と一般的な作物生理学からの定性的推論に基づく。品種間の耐性差は大きいと予想されるが未解明。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-18°C",
+      "extreme_heat_survival": "25°C以上が続くと生育が阻害され、塊茎形成が停止する。",
+      "cold_tolerance": "地上部は-2°Cで枯死するが、土中の塊茎は凍結しなければ生存可能。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1000 mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部が比較的低いため、強風による倒伏のリスクは低い。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "適応力は低いと推測される。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（原産地の高地は紫外線が強いため、高い耐性を持つと推測される）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アンデスポテトゾウムシなどの害虫の活動域が標高の高い場所へ拡大し、被害が増加するリスクがある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アンデス高地（2500-4000m）、冷涼な温帯の一部",
+        "2050_projection": "アンデスでは栽培適地がさらに高標高へ移動。温帯高緯度地域（北欧、カナダ南部など）で栽培可能地域が拡大する可能性。",
+        "2100_projection": "アンデスでの伝統的な栽培地域が大幅に縮小するリスク。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "オカは高次倍数体（八倍体）であり、有性生殖による交配は困難で稔性も低い。遺伝的多様性は主に体細胞突然変異とクローン選抜によって維持されてきた。自然交雑に関する報告は非常に少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "品種間の交配は可能だが、結実率や種子の発芽率は極めて低い。"
+      ],
+      "interspecific_compatibility": [
+        "野生近縁種との交雑は研究レベルで試みられているが、成功例は限定的。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "極めて高い。アンデスには数千の在来品種が存在し、色、形、味、調理特性が多様。",
+      "wild_gene_pool": "野生の近縁種が遺伝資源として存在するが、その利用は交雑障壁のため困難。",
+      "adaptive_genetic_variation": "長年の農家による選抜を通じて、地域の微気候に適応した多様な遺伝的変異が蓄積されている。",
+      "inbreeding_depression_risk": "クローン繁殖が主であるため、典型的ではない。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス",
+        "environmental_pressure": "標高、土壌、降水量などの微気候の違い",
+        "adaptive_response": "各コミュニティがそれぞれの環境に最適化した多様な在来品種を栽培・選抜。",
+        "time_scale": "数千年",
+        "mechanism": "農家によるクローン選抜と体細胞突然変異の蓄積。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "既存の多様な在来品種の中から、特定のストレス（乾燥、低温など）に耐性のある系統を選抜する可能性の方が高い。",
+      "improved_nutritional_content": "同様に、多様な在来品種の中から高栄養価の系統を選抜・利用する可能性がある。",
+      "novel_characteristics": "自然交雑による新規特性の獲得可能性は低い。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "高次倍数性、自家不和合性、低い稔性。",
+      "chromosome_compatibility": "複雑な倍数性のため困難。",
+      "fertility_of_hybrids": "極めて低いと予想される。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 4
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "「リジェネラティブ農業」としての直接的な研究は少ないが、オカが栽培される伝統的なアンデス農法は、多品種混作、段々畑、有機物循環など、リジェネラティブ農業の原則を多く含んでいる。評価はこれらの伝統的システムからの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる繊維状の根が土壌表層を保持する。",
+      "organic_matter_contribution": "収穫後に地上部が土壌に還元される。",
+      "soil_structure_improvement": "伝統的な混作体系の中で土壌構造の維持に貢献。",
+      "erosion_control": "アンデスの段々畑（アンデネス）での栽培は、土壌侵食防止に決定的な役割を果たす。",
+      "nutrient_cycling_role": "マメ科植物（ソラマメなど）との輪作や混作により、栄養循環が促進される。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は昆虫を引き寄せるが、結実は稀。",
+      "beneficial_insect_habitat": "多様な作物が混在する伝統的畑は、天敵昆虫などの生息地となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "数千の品種を栽培すること自体が、作物の遺伝的多様性を保全する上で極めて重要。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "段々畑システムが水の浸透を助け、急斜面での流出を管理する。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "段々畑での栽培が主要な貢献。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "塊茎として炭素を貯蔵する。",
+      "soil_carbon_enhancement": "伝統的な有機物循環農法において土壌炭素の維持に貢献。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ジャガイモ、ウルコ、マシュア（他の塊茎類との混作）",
+        "キヌア",
+        "ソラマメ（窒素固定）",
+        "トウモロコシ"
+      ],
+      "natural_pest_control": "多様な作物の混植は、特定の害虫の大発生を抑制する効果がある（害虫の混乱効果）。",
+      "nutrient_sharing": "異なる根の深さを持つ作物との混作は、土壌養分の効率的な利用を可能にする。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な品種と作物を組み合わせることで、特定の病害虫や気象不順による全滅リスクを分散し、農業生態系全体の安定性を高める。",
+      "stress_tolerance": "システム全体として高い。",
+      "recovery_capacity": "高い。",
+      "adaptability": "高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界のシェフや持続可能な食に関心を持つ消費者からの関心が高まっている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "多様な色と栄養プロファイルを持つ塊茎として、植物中心の食事を豊かにする。",
+      "food_security_contribution": "ジャガイモへの過度な依存を減らし、冷涼な気候における食料生産を多様化させる作物として貢献できる。",
+      "local_food_system_integration": "家庭菜園や小規模農家向けの作物として、地域の食料システムに組み込みやすい。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "欧米の高級レストランやファーマーズマーケット",
+        "健康志向の消費者向けのスーパーフードとして",
+        "家庭菜園家向けの種芋市場"
+      ],
+      "value_added_products": [
+        "カラフルなポテトチップス",
+        "グルテンフリーの粉",
+        "ユニークな蒸留酒の原料"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際機関（CIP）や各国の研究機関が遺伝資源の消失リスクを警告している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "気候変動による栽培適地の縮小・移動。",
+    "climate_change_vulnerability": "高",
+    "cultural_erosion_risk": "高（市場経済の浸透や若者の都市部への流出により、伝統的な栽培・利用知識が失われつつある）",
+    "conservation_actions_needed": [
+      "伝統農家による域内保全（in-situ）活動への支援",
+      "国際ポテトセンター（CIP）などの遺伝子バンクでの域外保全（ex-situ）の強化",
+      "伝統知識の記録と次世代への継承",
+      "オカの価値に関する啓蒙と市場創出"
+    ],
+    "priority_conservation_regions": [
+      "ペルー中央・南部アンデス",
+      "ボリビアのアルティプラーノ高原"
+    ],
+    "ex_situ_conservation_status": "国際ポテトセンター（CIP）が世界最大のコレクションを保有している。",
+    "in_situ_conservation_efforts": "ペルーの「ポテトパーク」のような、地域コミュニティが主導する遺伝的多様性保全の取り組みが存在する。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "ペルー、ボリビア（遺伝的多様性と伝統的利用法）",
+      "ニュージーランド（原産地外での適応と商業化）"
+    ],
+    "knowledge_gaps": [
+      "各品種の正確な栄養価と機能性成分",
+      "気候変動（特に高温・乾燥）に対する品種レベルでの耐性評価",
+      "倍数性の壁を越えるための現代的な育種技術の応用可能性"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名はケチュア語の色の名称に基づいた代表例。実際の品種名は地域やコミュニティによってさらに細分化される。"
+      },
+      "variety_name": "Puka Oqa",
+      "local_name": "Puka Oqa (赤オカ)",
+      "origin_region": "ボリビア",
+      "distinctive_characteristics": "皮が鮮やかな赤色で、果肉は黄色。加熱するとやや粉質になる。アントシアニンが豊富。",
+      "cultural_importance": "スープや煮込み料理によく使われる。見た目の美しさから祝祭の料理にも好まれる。",
+      "climate_adaptation": "比較的高地に適応している。",
+      "conservation_status": "地域内で栽培されているが、市場性の高い品種に押され気味。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名はケチュア語の色の名称に基づいた代表例。実際の品種名は地域やコミュニティによってさらに細分化される。"
+      },
+      "variety_name": "Q'illu Oqa",
+      "local_name": "Q'illu Oqa (黄オカ)",
+      "origin_region": "ペルー",
+      "distinctive_characteristics": "皮も果肉も黄色。粘質で煮崩れしにくい。甘みが強い傾向がある。",
+      "cultural_importance": "日常的な茹でオカやスープに最も一般的に使われる品種群の一つ。",
+      "climate_adaptation": "幅広い標高で栽培されている。",
+      "conservation_status": "広く栽培されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名はケチュア語の色の名称に基づいた代表例。実際の品種名は地域やコミュニティによってさらに細分化される。"
+      },
+      "variety_name": "Yuraq Oqa",
+      "local_name": "Yuraq Oqa (白オカ)",
+      "origin_region": "エクアドル",
+      "distinctive_characteristics": "皮が白またはクリーム色。味がマイルドで、酸味が少ない。天日干し（カウィ）にすると非常に甘くなる。",
+      "cultural_importance": "加工用、特に甘い保存食を作るのに適しているとされる。",
+      "climate_adaptation": "不明",
+      "conservation_status": "地域限定で栽培。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "International Potato Center (CIP) genebank data",
+      "National Research Council (1989). 'Lost Crops of the Incas: Little-Known Plants of the Andes with Promise for Worldwide Cultivation.'",
+      "Academic papers on ethnobotany and crop genetics (e.g., from journals like 'Economic Botany', 'Genetic Resources and Crop Evolution')"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの定量的応答データ",
+      "リジェネラティブ農業システムにおける具体的な貢献（炭素固定率、水循環改善効果など）の定量的評価",
+      "自然交雑および人為的交配の成功率とメカニズム"
+    ],
+    "regional_data_coverage": "アンデス地域に非常に偏っており、他の地域でのデータは限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "品種ごとの詳細な栄養成分プロファイル"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

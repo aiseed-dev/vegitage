@@ -1,0 +1,679 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース(KEW, GRIN)および農学文献から統合。野生近縁種との関係性については継続的な研究分野。"
+    },
+    "primary_name": "Bell Pepper",
+    "scientific_name": "Capsicum annuum",
+    "plant_type": "多年草（温帯では一年草として栽培）",
+    "edible_parts": [
+      "果実",
+      "種子"
+    ],
+    "origin_region": "メソアメリカ（メキシコ、中央アメリカ）",
+    "wild_relatives": [
+      "Capsicum annuum var. glabriusculum (Chiltepin)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界主要言語での名称は広く記録されている。先住民の名称に関する体系的なデータは限定的。"
+    },
+    "international": {
+      "en": [
+        "Bell Pepper",
+        "Sweet Pepper",
+        "Capsicum"
+      ],
+      "scientific_common": "Capsicum annuum Grossum Group"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ピーマン",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "甜椒 (tiánjiāo)",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "피망 (pimang)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Pimiento",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Poivron",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Peperone",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Paprika",
+            "script": "Latin"
+          },
+          {
+            "lang": "hu",
+            "name": "Paprika",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "शिमला मिर्च (Shimla Mirch)",
+            "script": "Devanagari"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ナワ族（メキシコ）",
+        "name": "Chīlli (広義の唐辛子を指す語源)",
+        "cultural_significance": "原種は古代から栽培され、食用および薬用として重要だった。甘味種の分化は後の時代。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Nightshade",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Pepper",
+      "la": "Capsicum"
+    },
+    "species": {
+      "en": "Pepper",
+      "la": "Capsicum annuum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivar Group",
+        "name": "Grossum Group"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "コロンブス交換後の世界的伝播に関する歴史的記録は豊富。各地域の食文化への統合も広く文書化されている。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "イタリア料理（ペペロナータ）、スペイン料理（ピスト）、ギリシャ料理（ゲミスタ）など、煮込み、ロースト、詰め物料理に不可欠な食材。",
+        "seasonal_significance": "夏の野菜として、季節の食卓を彩る象徴的な存在。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "日本料理（チンジャオロース）、中華料理（炒め物）、韓国料理で広く利用。肉や他の野菜との組み合わせで彩りと食感を加える。",
+        "seasonal_significance": "近代に導入されたが、現在は通年で利用される一般的な野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ラテンアメリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "主食の一部"
+        ],
+        "traditional_uses": "原産地であり、辛味のない品種もソフリート（香味ベース）やサルサ、詰め物料理（Chiles Rellenos）などに広く利用される。",
+        "seasonal_significance": "多様な在来種が存在し、地域ごとの食文化に根付いている。",
+        "cultivation_decline_risk": "中（在来種の多様性に関して）"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ハンガリー料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "グヤーシュ (Goulash)",
+          "レチョー (Lecsó)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "パウダー化（パプリカ）"
+        ],
+        "cultural_context": "国民食の味と色を定義する上で中心的な役割を果たす。特に乾燥させ粉末にしたパプリカはハンガリー料理の魂とされる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前7500年頃からメソアメリカで利用されていた証拠がある。",
+      "trade_routes": "16世紀にスペインとポルトガルによって旧世界へ伝播。シルクロードや海洋交易路を通じてアジア、アフリカへ急速に広まった。",
+      "cultural_exchange": "コロンブス交換の象徴的な作物。世界の食文化、特にヨーロッパとアジアの料理を劇的に変化させた。",
+      "domestication_history": "メキシコ中央部東部で最初に栽培化されたと考えられている。辛味種から非辛味種への選抜が各地で行われた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿には強いが、病害リスクが高まる。排水の良い土壌が必要。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "栽培に非常に適している。温暖な気候と長い生育期間が収量を高める。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の危険がなくなった後の夏作物として栽培。ビニールハウス等での栽培が一般的。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、夏の高温が極端になるため商業栽培には不向き。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。乾燥は病害を抑制するが、水ストレスは収量低下を招く。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため栽培は困難。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（終霜後）",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": 90
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋または早春",
+        "harvest_season": "冬から初夏",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 60,000 kg/ha（露地栽培 vs 施設栽培）",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水分供給",
+        "受粉成功率",
+        "土壌肥沃度",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約3,800万トン（2022年、チリ・ピーマン類合計）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 50,
+          "characteristics": "世界最大の生産国。国内消費および加工品輸出が中心。"
+        },
+        {
+          "country": "メキシコ",
+          "production_share": 8,
+          "characteristics": "多様な品種を生産し、主に米国へ輸出。"
+        },
+        {
+          "country": "インドネシア",
+          "production_share": 7,
+          "characteristics": "国内消費が中心。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": 7,
+          "characteristics": "国内消費およびヨーロッパ、中東への輸出。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栄養成分に関するデータは豊富。機能性成分に関する研究も多数存在するが、品種や成熟度による変動が大きい。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "20-31",
+        "protein_g": "1.0",
+        "carbs_g": "4.6-6.0",
+        "fat_g": "0.2-0.3",
+        "fiber_g": "1.7-2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "80-200 mg",
+          "daily_value_percent": "90-220%"
+        },
+        {
+          "nutrient": "ビタミンA (βカロテン由来)",
+          "amount": "300-4000 IU",
+          "daily_value_percent": "6-80%"
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "0.3 mg",
+          "daily_value_percent": "23%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "カロテノイド（ルテイン、ゼアキサンチン、β-クリプトキサンチン）",
+        "concentration": "色により変動（赤・黄に多い）",
+        "health_effect": "抗酸化作用、眼の健康維持"
+      },
+      {
+        "compound": "フラボノイド（ケルセチン、ルテオリン）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中央アメリカ（原産地）",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "消化促進",
+          "血行促進",
+          "鎮痛（辛味種が主）"
+        ],
+        "preparation": "生食、湿布"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "強力な抗酸化作用",
+        "免疫機能のサポート",
+        "眼の健康維持"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "心血管疾患予防",
+        "認知機能改善"
+      ],
+      "safety_considerations": "ナス科アレルギーを持つ人は注意が必要な場合がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の料理における利用法は広く知られており、レシピや料理本に多数の記録がある。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界全域",
+        "methods": [
+          "生食（サラダ）",
+          "炒め物",
+          "グリル",
+          "ロースト",
+          "煮込み",
+          "詰め物料理"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "タマネギ",
+          "トマト",
+          "ニンニク",
+          "オリーブオイル",
+          "各種肉類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "食感は柔らかくなるが、風味と栄養価は比較的保たれる。"
+      },
+      {
+        "method": "ピクルス",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "酸味が加わり、食感が変化する。"
+      },
+      {
+        "method": "乾燥・粉末化（パプリカ）",
+        "regions": [
+          "ハンガリー",
+          "スペイン"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "風味が凝縮され、着色料・香辛料として利用される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘い、わずかに草の香り、フルーティー（成熟度による）。苦味は品種や未熟度による。",
+      "aroma_compounds": [
+        "ピラジン類（青臭さの元）",
+        "エステル類（フルーティーな香り）"
+      ],
+      "texture_characteristics": "生ではシャキシャキ、加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性や耐乾性に関する研究は進んでいるが、多くは特定の品種や条件下での実験データ。極端気象への複合的な耐性評価は発展途上。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "21-29°C",
+      "extreme_heat_survival": "35°C以上で花が落ち、受粉率が著しく低下する。",
+      "cold_tolerance": "5°C以下で生育停止、0°Cで枯死。耐霜性はない。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "中程度。収量と品質維持には安定した水分供給が不可欠。",
+      "flood_tolerance": "低。根が酸素不足に弱く、過湿な土壌では根腐れを起こしやすい。",
+      "optimal_rainfall": "600-1250 mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低。茎が折れやすく、果実が傷つきやすい。支柱が必要。",
+      "hail_damage_recovery": "中。被害の程度によるが、生育点が生きていれば回復可能。",
+      "rapid_temperature_change": "ストレスを受けやすく、生育不良の原因となる。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。CO2濃度の上昇は光合成を促進し収量を増加させる可能性があるが、高温や水ストレスが相殺する。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンは葉に斑点を生じさせ、生育を阻害する。",
+      "uv_radiation_tolerance": "中。強い紫外線は果実の日焼け（サンゴード）を引き起こす。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシ、コナジラミ、アザミウマなどの害虫の発生期間が長期化し、被害が増加する傾向。",
+      "disease_resistance_stability": "高温多湿はうどんこ病や炭疽病などの病害を助長する。多くの耐病性品種が開発されているが、新たな病原菌レースの出現リスクがある。",
+      "beneficial_organism_relationships": "農薬使用の削減により、天敵昆虫（テントウムシ、寄生蜂）の活動を促進できる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯南部、亜熱帯、熱帯高地",
+        "2050_projection": "栽培適地が高緯度地域へ移動。既存の産地では高温ストレスと水不足が深刻化する可能性。",
+        "2100_projection": "適地の移動がさらに進行。水資源の確保が栽培の最大の制約要因となる可能性が高い。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "トウガラシ属の交雑親和性に関する研究は育種学の基本であり、データは豊富。自然交雑の事例もよく知られている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "C. annuum内の全ての品種（辛味種、甘味種、観賞用）と容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "C. frutescens, C. chinense, C. baccatum, C. pubescensとは交雑可能だが、種によって親和性に差があり、雑種不稔が起こる場合がある。"
+      ],
+      "intergeneric_possibility": [
+        "知られていない。"
+      ],
+      "successful_natural_hybrids": [
+        "農家の畑で辛いピーマンができるのは、辛味種との自然交雑の典型例。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地のメソアメリカには、形、色、大きさ、生態的適応性の異なる多様な在来種が多数存在する。",
+      "wild_gene_pool": "野生種のチルテピン（C. annuum var. glabriusculum）は、耐病性やストレス耐性の遺伝子供給源として極めて重要。",
+      "adaptive_genetic_variation": "広い地理的範囲に分布し、様々な環境に適応した遺伝子型が存在する。",
+      "inbreeding_depression_risk": "自家受粉も可能だが、他家受粉が主であり、商業品種でない限り近交弱勢のリスクは比較的小さい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "メキシコ",
+        "environmental_pressure": "乾燥、高温、病害虫圧",
+        "adaptive_response": "多様な在来種が、それぞれの地域の微気候や土壌条件に適応した特性（根系、葉の形状、耐病性）を進化させてきた。",
+        "time_scale": "数千年",
+        "mechanism": "自然選択と農家による人為選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種や耐性を持つ在来種との交雑により、耐暑性、耐乾性を向上させる高いポテンシャルがある。",
+      "improved_nutritional_content": "他の品種との交雑により、ビタミンCやカロテノイドなどの含有量を高めることが可能。",
+      "novel_characteristics": "辛味、香り、色、形など、新しい特性を導入することが比較的容易。",
+      "hybrid_vigor_potential": "F1品種で広く利用されており、収量性や均一性において雑種強勢が認められる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "C. annuumとC. pubescensなどの遠縁種間では、胚珠の発育不全などの交雑障壁が存在する。",
+      "chromosome_compatibility": "主要栽培5種（C. annuum, frutescens, chinense, baccatum, pubescens）はいずれも染色体数が2n=24で基本的には適合する。",
+      "fertility_of_hybrids": "種間交雑では、F1世代の稔性が低下することがある。",
+      "backcrossing_success": "戻し交配は、特定の遺伝子を導入するために育種で一般的に用いられる成功率の高い手法。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水ストレス",
+        "adaptive_traits": "深い根系、クチクラ層の発達、気孔の開閉制御",
+        "heritability": "中から高",
+        "response_to_selection": "適応可能"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ピーマン単体でのリジェネラティブ効果に関する定量的研究は少ない。多くは、多様な作物を組み合わせたアグロエコロジーシステム全体としての評価に基づく類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い直根と多数の側根を持つ。土壌の圧密を部分的に緩和する。",
+      "organic_matter_contribution": "収穫後の残渣を土壌に還元することで有機物を供給する。",
+      "soil_structure_improvement": "限定的。カバークロップや不耕起栽培との組み合わせが重要。",
+      "erosion_control": "キャノピーが形成されると、雨滴による土壌侵食をある程度防ぐ。",
+      "nutrient_cycling_role": "窒素固定能力はない。土壌中の養分を効率的に吸収するが、収奪的になりやすい側面もある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチやマルハナバチなど多くの訪花昆虫を引きつけ、受粉を助ける。",
+      "beneficial_insect_habitat": "アブラムシを捕食するテントウムシや寄生蜂などの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "根圏微生物叢（特にアーバスキュラー菌根菌）との共生関係を持ち、リン酸吸収を助ける。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "マルチングやカバークロップと組み合わせることで土壌表面の構造を保ち、水の浸透を助ける。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。一年生作物としてのバイオマス量は限定的。",
+      "below_ground_carbon": "根系のバイオマスが少ないため、地下部への炭素蓄積は限定的。",
+      "soil_carbon_enhancement": "不耕起栽培や堆肥投入と組み合わせることで土壌炭素の増加に貢献できる。",
+      "carbon_sequestration_rate": "低いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "バジル（アザミウマを遠ざける）、マリーゴールド（ネマトーダを抑制）、タマネギ（アブラムシを遠ざける）"
+      ],
+      "natural_pest_control": "特定のコンパニオンプランツが害虫を忌避したり、天敵を誘引したりする効果が報告されている。",
+      "nutrient_sharing": "限定的。マメ科植物との混植は、間接的に窒素供給を受ける可能性がある。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物との輪作や混植システムに組み込むことで、生態系全体の安定性に貢献する。",
+      "stress_tolerance": "単作栽培ではストレスに弱いが、多様な生態系内では緩衝効果が期待できる。",
+      "recovery_capacity": "不明",
+      "adaptability": "遺伝的多様性が高いため、システムへの適応性は高い。"
+    },
+    "regenerative_score": 4
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界的な食料市場と健康トレンドに関するデータは豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーでビタミン、ミネラル、抗酸化物質が豊富なため、植物中心の食生活において重要な役割を果たす。",
+      "food_security_contribution": "世界中で栽培可能な重要野菜の一つとして、特にビタミンCの供給源として食料安全保障に貢献する。",
+      "local_food_system_integration": "家庭菜園や小規模農家でも栽培しやすく、地域の食品システムに容易に組み込める。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "カラフルなミニピーマン",
+        "スナック用ピーマン",
+        "オーガニック市場"
+      ],
+      "value_added_products": [
+        "冷凍カット野菜",
+        "ローストピーマンの瓶詰め",
+        "パプリカパウダー",
+        "ソース類"
+      ],
+      "niche_market_value": "在来種や特定の機能性成分を強化した品種は、高付加価値のニッチ市場を開拓する可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の重要性は認識されているが、特に原産地における在来種の消失リスクに関する定量的なデータは限定的。"
+    },
+    "genetic_erosion_risk": "高（在来種に関して）",
+    "habitat_loss_threat": "野生近縁種（チルテピン）は、生息地である乾燥林の破壊によって脅威に晒されている。",
+    "climate_change_vulnerability": "栽培品種は気候変動に脆弱な側面があり、適応のための遺伝資源が不可欠。",
+    "cultural_erosion_risk": "伝統的な栽培知識や利用法が、近代農業の普及により失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来種の収集・評価・保存",
+      "野生近縁種の生息域内保全",
+      "参加型育種による地域コミュニティの支援",
+      "ジーンバンクでの種子保存"
+    ],
+    "priority_conservation_regions": [
+      "メキシコ",
+      "中央アメリカ",
+      "アンデス地域"
+    ],
+    "ex_situ_conservation_status": "世界中の多くのジーンバンク（例：World Vegetable Center）で多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "一部の保護区や、地域コミュニティによるオンファーム保全活動が行われているが、規模は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本項目の評価は、収集された情報に基づく専門家としての総合的判断。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "メキシコ（オアハカ州、ユカタン半島）",
+      "ハンガリー",
+      "スペイン"
+    ],
+    "knowledge_gaps": [
+      "気候変動の複合ストレス（高温＋乾燥）に対する品種間差の定量的データ",
+      "土壌微生物との相互作用が植物の強健性に与える影響",
+      "先住民コミュニティにおける非辛味種の伝統的利用と知識体系"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "商業的に重要な品種に関する情報は豊富。"
+      },
+      "variety_name": "California Wonder",
+      "local_name": "カリフォルニア・ワンダー",
+      "origin_region": "アメリカ合衆国",
+      "distinctive_characteristics": "肉厚でブロック状の大きな果実。緑から赤に熟す。病気に強く、作りやすい。",
+      "cultural_importance": "20世紀の世界標準となった品種。ピーマンの典型的なイメージを形成した。",
+      "climate_adaptation": "温帯気候に適応しているが、極端な高温には弱い。",
+      "conservation_status": "広く普及"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "地域品種に関する学術的情報は商業品種に比べて限定的。"
+      },
+      "variety_name": "Pimiento de Padrón",
+      "local_name": "ピメント・デ・パドロン",
+      "origin_region": "スペイン、ガリシア州パドロン",
+      "distinctive_characteristics": "小さく緑色で、素揚げにして食べる。ほとんどは甘いが、時々非常に辛いものが混じる（「Unos pican y otros no」）。",
+      "cultural_importance": "スペインのタパス文化に不可欠な食材。原産地名称保護（DOP）を受けている。",
+      "climate_adaptation": "スペイン北西部の冷涼で湿潤な気候に適応している。",
+      "conservation_status": "地域的に保護・栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "World Vegetable Center (AVRDC) database",
+      "GRIN Global",
+      "Scientific literature on agroecology and ethnobotany"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "先住民コミュニティにおける伝統知識の体系的記録"
+    ],
+    "regional_data_coverage": "北米、ヨーロッパ、東アジアは豊富。アフリカ、南米の在来種に関するデータは相対的に少ない。",
+    "missing_information": [
+      "特定の土壌タイプとの相互作用",
+      "地域ごとの受粉生態系の詳細"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

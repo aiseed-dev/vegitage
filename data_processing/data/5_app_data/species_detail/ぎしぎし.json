@@ -1,0 +1,561 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物学的な基本情報は、主要な植物データベース（KEW, GBIF）および東アジアの植物相に関する文献から統合。野生近縁種の情報も豊富。"
+    },
+    "primary_name": "Japanese Dock",
+    "scientific_name": "Rumex japonicus",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "根",
+      "種子"
+    ],
+    "origin_region": "東アジア（日本、朝鮮半島、中国）",
+    "wild_relatives": [
+      "Rumex acetosa",
+      "Rumex crispus",
+      "Rumex obtusifolius",
+      "Rumex longifolius"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジア地域での名称は明確だが、国際的な共通名は限定的。先住民の名称はスイバ属全般を指す可能性があり、特定が困難な場合がある。"
+    },
+    "international": {
+      "en": [
+        "Japanese Dock",
+        "Sheep's Sorrel (incorrect but sometimes used)"
+      ],
+      "scientific_common": "Rumex japonicus"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ギシギシ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ja",
+            "name": "羊蹄",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "참소리쟁이",
+            "script": "Hangul"
+          },
+          {
+            "lang": "zh",
+            "name": "羊蹄",
+            "script": "Hanzi"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アイヌ（日本）",
+        "name": "キナ (kina)",
+        "cultural_significance": "スイバ属の植物全般を指す名称。葉は食用、茎は子供の玩具、根は薬用として利用された歴史がある。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースから情報を取得。"
+    },
+    "family": {
+      "en": "Buckwheat family",
+      "la": "Polygonaceae"
+    },
+    "genus": {
+      "en": "Dock / Sorrel",
+      "la": "Rumex"
+    },
+    "species": {
+      "en": "Japanese Dock",
+      "la": "japonicus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本における文化的価値に関する情報は豊富だが、他の地域での利用は限定的または記録が少ない。食文化としての利用は減少傾向にある。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "救荒植物"
+        ],
+        "traditional_uses": "日本の山菜文化において、春先の若葉を食用にする。根は「羊蹄根（ようていこん）」として漢方や民間薬で皮膚病や便秘の治療に用いられてきた。飢饉の際には重要な食料源（救荒植物）であった歴史を持つ。",
+        "seasonal_significance": "春の訪れを告げる山菜の一つとして重要。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（山菜料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "ギシギシのおひたし",
+          "ギシギシの胡麻和え",
+          "ギシギシの天ぷら",
+          "ギシギシご飯"
+        ],
+        "preparation_methods": [
+          "茹でる（アク抜き）",
+          "炒める",
+          "揚げる"
+        ],
+        "cultural_context": "かつては農村部で広く利用された日常的な食材。現代では伝統食や郷土料理として、その価値が見直されつつある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古くから日本で薬草および食草として認識されていた。具体的な年代の特定は困難だが、民間薬としての利用は数世紀にわたる。",
+      "trade_routes": "漢方薬の原料として地域的な交易はあった可能性があるが、国際交易路での主要品目ではない。",
+      "cultural_exchange": "不明",
+      "domestication_history": "栽培化はされておらず、野生の個体群を採集・利用してきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "標高の高い冷涼な地域で生育可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日本、朝鮮半島、中国の温帯域が自生地。湿潤な土壌を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冬の寒さにも耐えるが、極端な乾燥には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥地帯には適さない。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "亜高山帯の下部まで分布する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "（自生のため該当なし、春または秋に発芽）",
+        "harvest_season": "春（若葉）、秋（根）",
+        "growing_period_days": 0
+      }
+    ],
+    "productivity": {
+      "yield_range": "（商業栽培されないためデータなし）",
+      "factors_affecting_yield": [
+        "日照条件",
+        "土壌水分",
+        "競合植生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "（商業生産はほぼ皆無）",
+      "major_producers": []
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な栄養素に関するデータは存在するが、微量栄養素や機能性成分の定量的な分析データは限定的。薬用利用は伝統医学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "22",
+        "protein_g": "2.1",
+        "carbs_g": "3.8",
+        "fat_g": "0.3",
+        "fiber_g": "1.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "40-60mg/100g",
+          "daily_value_percent": "67"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "300-400mg/100g",
+          "daily_value_percent": "10"
+        },
+        {
+          "nutrient": "シュウ酸",
+          "amount": "高濃度",
+          "daily_value_percent": 0
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントラキノン誘導体（クリソファノール、エモジン）",
+        "concentration": "根に多い",
+        "health_effect": "緩下作用、抗菌作用"
+      },
+      {
+        "compound": "タンニン",
+        "concentration": "根、葉",
+        "health_effect": "収斂作用"
+      },
+      {
+        "compound": "シュウ酸",
+        "concentration": "葉に多い",
+        "health_effect": "過剰摂取は結石のリスクを高める"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア（日本、中国）",
+        "medical_system": "漢方、中医学、民間療法",
+        "uses": [
+          "皮膚疾患（たむし、湿疹）の治療",
+          "便秘解消",
+          "利尿作用",
+          "止血"
+        ],
+        "preparation": "根を乾燥させて粉末にし、軟膏として外用するか、煎じて内服する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗菌活性",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗酸化活性",
+        "抗がん作用の可能性"
+      ],
+      "safety_considerations": "シュウ酸を多く含むため、生食は避けるべき。必ずアク抜き（茹でこぼし）が必要。腎臓疾患を持つ人は摂取に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本の伝統料理に関する情報は豊富だが、国際的な利用例はほぼない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "茹でる（Blanching）",
+          "和える（Dressing）",
+          "炒める（Stir-frying）",
+          "揚げる（Deep-frying）",
+          "炊き込み（Cooking with rice）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "ごま",
+          "鰹節"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け",
+        "regions": [
+          "日本の一部地域"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が柔らかくなり、酸味が和らぐ。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い酸味、わずかな苦味、土の香り",
+      "aroma_compounds": [
+        "ヘキセナール（青葉アルコール）"
+      ],
+      "texture_characteristics": "加熱すると柔らかく、少しぬめりが出る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Rumex japonicus種に特化した気候変動適応性の定量的データは非常に少ない。評価は、近縁種や雑草としての一般的な生態的特性からの類推に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C以上では生育が阻害される可能性",
+      "cold_tolerance": "-15°C"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "800-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒れやすいが、地下の根から再生する能力が高い。",
+      "hail_damage_recovery": "高い再生能力を持つ。",
+      "rapid_temperature_change": "多年草であり、季節的な温度変化への適応力は高い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物としてポジティブな応答が期待されるが、競合種との関係による。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "在来種として多様な病害虫に対する防御機構を持つが、新たな外来種への脆弱性は未知数。",
+      "disease_resistance_stability": "遺伝的多様性が高いため、比較的安定していると推測される。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯域",
+        "2050_projection": "現在の分布域がやや北上し、高緯度・高標高地域へ拡大する可能性",
+        "2100_projection": "北上傾向がさらに進む可能性がある",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Rumex属が種間交雑しやすいことは広く知られているが、R. japonicusが関与する特定の自然交雑に関する詳細な研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "日本各地の地域個体群間で交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "Rumex crispus",
+        "Rumex obtusifolius"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "ナガバギシギシとの雑種（アイノコギシギシ R. x hybridus）などが報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "（栽培種ではないため該当なし）",
+      "wild_gene_pool": "日本全土に広く分布し、高い遺伝的多様性を持つと推定される。",
+      "adaptive_genetic_variation": "様々な環境（都市部、河川敷、山地）に適応した生態型が存在する。",
+      "inbreeding_depression_risk": "低い"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本の都市部",
+        "environmental_pressure": "踏圧、除草、汚染",
+        "adaptive_response": "小型化、早熟化",
+        "time_scale": "数十年",
+        "mechanism": "環境選択による遺伝的浮動"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐塩性を持つ近縁種との交雑により、ストレス耐性が向上する可能性がある。",
+      "improved_nutritional_content": "シュウ酸含量の少ない近縁種（スイバなど）との交雑による食味改善の可能性。",
+      "novel_characteristics": "生育旺盛さの向上など。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "低い",
+      "chromosome_compatibility": "近縁種間では比較的高い。",
+      "fertility_of_hybrids": "雑種はしばしば稔性が低下するが、栄養繁殖で維持されることがある。",
+      "backcrossing_success": "可能"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "除草剤耐性",
+        "adaptive_traits": "代謝機構の変化",
+        "heritability": "中",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ギシギシをリジェネラティブ農業システムに組み込んだ研究はほぼない。評価は、その植物学的特性（特に根系）からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "太く長い直根が地中深くに伸び、硬盤を破砕する。",
+      "organic_matter_contribution": "地上部の枯死と根の分解により、土壌有機物を供給する。",
+      "soil_structure_improvement": "根が土壌に孔隙を作り、通気性・透水性を改善する。",
+      "erosion_control": "密な根系が土壌を保持する。",
+      "nutrient_cycling_role": "深層のミネラルを地表に引き上げる「ダイナミック・アキュムレーター」としての可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "風媒花であり、花粉媒介者への貢献は限定的。",
+      "beneficial_insect_habitat": "特定の昆虫（ギシギシゾウムシなど）の食草となり、生態系の一部を構成する。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用が期待される。",
+      "above_ground_biodiversity": "限定的"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて保水性を高める可能性がある。",
+      "runoff_reduction": "地上部が地表を覆い、雨滴による侵食と流出を軽減する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年草であり、大きな直根を持つため、地下部への炭素貯留能力は比較的高いと期待される。",
+      "soil_carbon_enhancement": "根の分解物を通じて土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "不明"
+      ],
+      "natural_pest_control": "特定の害虫を引きつけることで、主要作物から遠ざけるトラップクロップとしての利用可能性が考えられる。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を阻害する可能性も報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "土壌の健全性を高めることで、システム全体の安定性に寄与する可能性がある。",
+      "stress_tolerance": "雑草としての強健さが、システム全体のストレス耐性を向上させる可能性がある。",
+      "recovery_capacity": "高い再生能力を持つ。",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な応用はまだ限定的だが、野草や機能性食品への関心の高まりからポテンシャルが議論されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン・ミネラルが豊富な伝統的葉物野菜としての価値。",
+      "food_security_contribution": "栽培が容易で強健なため、気候変動下のレジリエントな食料源としての潜在力を持つ。",
+      "local_food_system_integration": "「地産地消」や「フォレージング（野生採集）」の文脈で再評価される可能性がある。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級レストラン向けのニッチな山菜食材",
+        "健康志向の消費者向けの機能性食品・サプリメント原料"
+      ],
+      "value_added_products": [
+        "ハーブティー",
+        "ピクルス",
+        "健康補助食品（根由来）"
+      ],
+      "niche_market_value": "高いポテンシャルを持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "生物学的な保全状況はIUCN等で評価されているが、文化的価値の保全については地域コミュニティの動向に依存する。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "生息地（河川敷、野原）の開発による減少はあるが、広範に分布するため種全体の脅威は低い。",
+    "climate_change_vulnerability": "低い",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "食文化としての利用法の記録と伝承",
+      "伝統的知識（薬用利用など）の保全",
+      "地域ごとの遺伝的多様性のモニタリング"
+    ],
+    "priority_conservation_regions": [
+      "伝統的な山菜文化が残る日本の農山村地域"
+    ],
+    "ex_situ_conservation_status": "一部の植物園やジーンバンクで種子が保存されている可能性がある。",
+    "in_situ_conservation_efforts": "特定の保全活動は行われていないが、里山保全活動などが間接的に生息地の維持に貢献している。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "提供された全情報を基にした総合的評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 4,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "日本",
+      "韓国"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な役割と効果",
+      "地域個体群間の遺伝的多様性と機能性成分の差異"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "ギシギシは栽培化されておらず、明確な品種は存在しない。以下は地域的な生態型の一例として記述する。"
+      },
+      "variety_name": "（該当なし - 地域生態型）",
+      "local_name": "（特になし）",
+      "origin_region": "日本各地",
+      "distinctive_characteristics": "河川敷の個体群は大型化し、山地の個体群は小型化するなど、生育環境に応じた形態的な変異が見られる。",
+      "cultural_importance": "地域によってアクの強さや好まれる生育段階が異なるなど、ローカルな知識が存在する。",
+      "climate_adaptation": "各地域の気候に適応した遺伝的特性を持つと考えられる。",
+      "conservation_status": "未評価"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "GBIF (Global Biodiversity Information Facility)",
+      "日本の野生植物（平凡社）",
+      "民族植物学関連の学術論文"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種・生態型レベルでの応答",
+      "シュウ酸含量の変動要因と低減技術"
+    ],
+    "regional_data_coverage": "東アジアに偏っており、特に日本の情報が中心となっている。",
+    "missing_information": [
+      "商業生産データ",
+      "国際貿易データ",
+      "詳細な栄養成分分析"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

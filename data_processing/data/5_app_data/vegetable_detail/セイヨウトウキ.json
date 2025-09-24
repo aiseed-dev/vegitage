@@ -1,0 +1,675 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "学名、科属、原産地に関する情報は、主要な植物学データベース（Kew's Plants of the World Online, GRIN-Global）に基づき、広く合意されている。"
+    },
+    "primary_name": "Garden Angelica",
+    "scientific_name": "Angelica archangelica L.",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "茎",
+      "葉",
+      "種子"
+    ],
+    "origin_region": "北欧、東欧、シベリア、ヒマラヤ",
+    "wild_relatives": [
+      "Angelica sylvestris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパの主要言語での名称は広く記録されている。特にスカンジナビアでの文化的名称は民族植物学の記録が豊富。"
+    },
+    "international": {
+      "en": [
+        "Garden Angelica",
+        "Wild Celery",
+        "Norwegian Angelica"
+      ],
+      "scientific_common": "Archangel Angelica"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Echte Engelwurz",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Angélique officinale",
+            "script": "Latin"
+          },
+          {
+            "lang": "sv",
+            "name": "Kvanne",
+            "script": "Latin"
+          },
+          {
+            "lang": "no",
+            "name": "Kvann",
+            "script": "Latin"
+          },
+          {
+            "lang": "fi",
+            "name": "Väinönputki",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "セイヨウトウキ",
+            "script": "Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "サーミ（北スカンジナビア）",
+        "name": "Boska / Fádnu",
+        "cultural_significance": "伝統的な食料、薬、交易品として極めて重要。ビタミンC源として壊血病予防に利用された歴史を持つ。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類体系はAPG IVシステムに基づき確立されている。シノニムとしてArchangelica officinalis Hoffm.が知られている。"
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Angelica",
+      "la": "Angelica"
+    },
+    "species": {
+      "en": "Garden Angelica",
+      "la": "archangelica"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Angelica archangelica subsp. archangelica"
+      },
+      {
+        "rank": "subspecies",
+        "name": "Angelica archangelica subsp. litoralis"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパ、特に北欧での文化的・歴史的役割に関する文献は豊富。修道院での薬草としての利用史も詳細に記録されている。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "北欧（スカンジナビア）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "ヴァイキングの時代から野菜、薬草として栽培。サーミ文化では神聖な植物とされ、食料、薬として不可欠。茎は生食、葉は魚料理に、根は薬用に用いられた。",
+        "seasonal_significance": "春先の重要なビタミン源",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "中央・西ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "中世の修道院で薬草として栽培され、「天使のハーブ」としてペスト予防に使われた伝説がある。現在はリキュール（シャルトリューズ、ベネディクティン）の香りづけや、茎を砂糖漬けにした菓子（アンジェリカ）の原料として重要。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス菓子",
+        "role": "essential",
+        "traditional_dishes": [
+          "Fruits confits (砂糖漬けフルーツ)",
+          "Galette des Rois（飾りとして）"
+        ],
+        "preparation_methods": [
+          "砂糖漬け（コンフィ）"
+        ],
+        "cultural_context": "伝統的な菓子作りにおける独特の風味と緑色を添えるための重要な材料。"
+      },
+      {
+        "cuisine": "ヨーロッパのリキュール製造",
+        "role": "essential",
+        "traditional_dishes": [
+          "シャルトリューズ",
+          "ベネディクティン",
+          "クラフトジン"
+        ],
+        "preparation_methods": [
+          "蒸留",
+          "浸漬"
+        ],
+        "cultural_context": "多くのハーブリキュールの複雑な風味を構成する上で不可欠なボタニカル（香味植物）の一つ。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "ヴァイキングの時代から栽培・利用されていた記録がある。中世ヨーロッパでは修道院を中心に薬草として広く普及した。",
+      "trade_routes": "ヴァイキングによって北欧からヨーロッパ各地へ交易品として運ばれた可能性がある。",
+      "cultural_exchange": "修道士による薬草知識の伝播を通じて、ヨーロッパ全土の薬草学に影響を与えた。",
+      "domestication_history": "明確な栽培化の起源は不明だが、北欧で古くから半栽培的な形で利用され、その後ヨーロッパの修道院で選抜・栽培が進んだと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に極めて弱く、栽培は不可能。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "夏季の高温により生育不良となるため、栽培は困難。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼で湿潤な海洋性気候または高地の気候が最適。水はけの良い肥沃な土壌を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏季が冷涼な地域に限られる。冬季の低温には強いが、夏の極端な高温と乾燥には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱く、栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "亜高山帯の湿った草地は自生地に近く、栽培に適している。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "冷涼温帯",
+        "planting_season": "秋または早春",
+        "harvest_season": "根は1年目の秋または2年目の春。種子は2年目の夏。",
+        "growing_period_days": "540-730"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "土壌水分",
+        "夏季の気温",
+        "日照条件（半日陰を好む）",
+        "害虫（アブラムシ類）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": null,
+          "characteristics": "リキュールおよび製菓用の高品質な原料生産が中心。"
+        },
+        {
+          "country": "ドイツ",
+          "production_share": null,
+          "characteristics": "薬用およびリキュール用の栽培が多い。"
+        },
+        {
+          "country": "ポーランド",
+          "production_share": null,
+          "characteristics": "ハーブ製品向けの商業栽培が行われている。"
+        },
+        {
+          "country": "ベルギー",
+          "production_share": null,
+          "characteristics": "小規模ながら伝統的な栽培が継続している。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性成分に関する研究は多いが、標準的な食品としての栄養成分データは限定的。伝統的利用は民族薬理学の文献に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "歴史的に壊血病予防に利用されたことから、葉や茎に豊富と推定される",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アンゲリシン（Angelicin）",
+        "concentration": "根に多い",
+        "health_effect": "抗炎症、鎮痙作用、光毒性"
+      },
+      {
+        "compound": "ベルガプテン（Bergapten）",
+        "concentration": "全草",
+        "health_effect": "抗炎症作用、光感作作用"
+      },
+      {
+        "compound": "精油（α-ピネン、フェランドレン等）",
+        "concentration": "根、種子に多い",
+        "health_effect": "芳香、駆風作用、抗菌作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ療法",
+        "uses": [
+          "消化促進",
+          "食欲増進",
+          "去痰",
+          "強壮",
+          "発汗・解熱"
+        ],
+        "preparation": "根のチンキ剤、煎じ薬、ハーブティー"
+      },
+      {
+        "region": "北欧（サーミ文化）",
+        "medical_system": "伝統知識",
+        "uses": [
+          "風邪",
+          "咳",
+          "壊血病予防"
+        ],
+        "preparation": "生の茎を食べる、葉を茶にする"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗不安作用",
+        "抗けいれん作用",
+        "抗菌・抗ウイルス作用",
+        "抗がん作用の可能性"
+      ],
+      "safety_considerations": "フロクマリン類を含むため、多量摂取や皮膚への接触は光線過敏症（光毒性）を引き起こす可能性がある。妊娠中・授乳中の使用は避けるべきとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "製菓、リキュール製造における利用法は確立されており、料理本や専門書に多くの記録がある。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "フランス、イギリス",
+        "methods": [
+          "砂糖漬け"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ケーキ",
+          "ペストリー",
+          "アイスクリーム"
+        ]
+      },
+      {
+        "region": "ヨーロッパ全域",
+        "methods": [
+          "蒸留",
+          "浸漬"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "ジン",
+          "ベルモット",
+          "リキュール（シャルトリューズ等）"
+        ]
+      },
+      {
+        "region": "北欧",
+        "methods": [
+          "生食",
+          "加熱調理（ハーブとして）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "魚料理（特にサーモン）",
+          "ルバーブのジャム"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "ヨーロッパ全域"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "根や種子の精油成分が凝縮されるが、揮発しやすいため密閉保存が必要。"
+      },
+      {
+        "method": "砂糖漬け",
+        "regions": [
+          "フランス"
+        ],
+        "shelf_life": "数ヶ月以上",
+        "quality_changes": "水分が糖に置き換わり、保存性が向上。独特の食感と風味が生まれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強く、複雑で、麝香（ムスク）のような香り。わずかに苦味と甘味があり、セロリ、アニス、ジュニパーベリーを合わせたような独特の風味を持つ。",
+      "aroma_compounds": [
+        "α-ピネン",
+        "β-フェランドレン",
+        "リモネン"
+      ],
+      "texture_characteristics": "生の茎はシャキシャキしている。砂糖漬けにすると柔らかく、わずかに繊維質になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動影響の定量的研究は非常に少ない。評価は、その生態的ニッチ（冷涼・湿潤）と一般的な気候モデルに基づく定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "28°C以上が続くと生育が著しく阻害されると推定される。",
+      "cold_tolerance": "-20°C以下にも耐える（特に根）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "800mm以上（年間）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（背が高いため強風で倒れる可能性がある）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的にC3植物として一定の応答が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシ類の発生時期が早まり、被害が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境では根腐れ病のリスクが増大すると考えられる。",
+      "beneficial_organism_relationships": "温暖化による送粉者の活動時期とのミスマッチ（フェノロジーのずれ）が懸念される。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "北欧、中央ヨーロッパの山岳地帯、アルプス",
+        "2050_projection": "栽培適地がより北方へ、またより高標高へ移動する。中央ヨーロッパの低地では栽培が困難になる可能性。",
+        "2100_projection": "北欧やシベリアの一部が主要な栽培可能地域となり、伝統的な栽培地の大半が失われるリスクがある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Angelica属内での交雑は知られているが、A. archangelicaの自然交雑に関する具体的な研究は限定的。ポテンシャルは属の特性からの類推を含む。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "subsp. archangelicaとsubsp. litoralisは容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Angelica sylvestris（ワイルドアンジェリカ）との自然交雑の可能性が報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "A. archangelica × A. sylvestrisの雑種が自然界で観察された例がある。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培の歴史は長いが、商業品種は少なく、地域ごとの在来系統の多様性は十分に調査されていない。",
+      "wild_gene_pool": "ヨーロッパ北部に広範な野生集団が存在し、遺伝的多様性の重要なリソースとなっている。",
+      "adaptive_genetic_variation": "沿岸型（subsp. litoralis）と内陸型（subsp. archangelica）の分化は、異なる環境への適応を示唆する。",
+      "inbreeding_depression_risk": "自家不和合性が強く、他家受粉が主であるため、近交弱勢のリスクは比較的低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ヨーロッパ沿岸部",
+        "environmental_pressure": "塩分、強風",
+        "adaptive_response": "subsp. litoralisは、より背が低く、頑丈な茎を持つ傾向がある。",
+        "time_scale": "不明",
+        "mechanism": "自然選択による遺伝的分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁の野生種との交雑により、耐病性や異なる土壌への適応性を導入できる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "精油成分の組成が異なる新たな系統が生まれる可能性がある。",
+      "hybrid_vigor_potential": "種内亜種間や近縁種との交雑で雑種強勢が期待できる可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "Angelica属の多くは2n=22であり、染色体適合性は比較的高いと推測される。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "夏季の気温上昇",
+        "adaptive_traits": "高温耐性、蒸散抑制能力",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種をリジェネラティブ農業の構成要素として評価した直接的な研究はない。評価は、セリ科植物の一般的な特性と生態的役割からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "太く深い主根を持ち、土壌の硬盤を破砕し、通気性や排水性を改善する可能性がある。",
+      "organic_matter_contribution": "大きなバイオマスを形成し、収穫後の残渣が土壌有機物の供給源となる。",
+      "soil_structure_improvement": "根系の活動により土壌団粒構造の形成を促進する可能性がある。",
+      "erosion_control": "不明",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きな散形花序は、ハナアブ、ミツバチ、甲虫類など多種多様な花粉媒介者や天敵昆虫にとって極めて魅力的な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "捕食性カメムシや寄生蜂などの天敵昆虫の生息地を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "アグロフォレストリーシステムにおいて、林床の多様性を高める可能性がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "深根性により水の浸透を促進する可能性がある。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "大きな根系を持つため、地下部への炭素蓄積ポテンシャルは比較的高いと推測される。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "果樹園や菜園に植えることで、多様な送粉者を呼び寄せる。"
+      ],
+      "natural_pest_control": "天敵昆虫の誘引により、アブラムシなどの害虫を抑制する効果が期待される。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "生物多様性を高めることで、生態系の安定性に貢献する。",
+      "stress_tolerance": "個体レベルでの気候ストレス耐性は低いが、生態系サービス提供者としての役割は高い。",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現在の商業的利用、特にニッチ市場での価値は明確に文書化されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "主要な栄養源ではないが、風味付けや機能性食品としての価値を持つ。",
+      "food_security_contribution": "限定的だが、冷涼な気候の地域における食文化の多様性に貢献する。",
+      "local_food_system_integration": "北欧では、地域の食文化と結びついたローカルフードとして再評価の動きがある。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "クラフトジン市場の拡大に伴うボタニカルとしての需要増",
+        "自然派・オーガニック化粧品への精油利用",
+        "機能性ハーブティーやサプリメント市場"
+      ],
+      "value_added_products": [
+        "精油（エッセンシャルオイル）",
+        "乾燥根（ハーブ原料）",
+        "砂糖漬け（製菓材料）",
+        "チンキ剤"
+      ],
+      "niche_market_value": "ニッチ市場では非常に高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでの評価はないが、気候変動による脅威は複数の生態学的研究で指摘されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "自生地である河川沿いの湿地や山岳草地の開発・改変が脅威となる可能性がある。",
+    "climate_change_vulnerability": "高",
+    "cultural_erosion_risk": "高（特にサーミ文化圏など、伝統的利用が薄れている地域）",
+    "conservation_actions_needed": [
+      "野生集団の遺伝的多様性評価とモニタリング",
+      "気候変動に適応可能な系統の探索と保全",
+      "伝統的知識の記録と継承支援",
+      "シードバンクでの遺伝資源の域外保全"
+    ],
+    "priority_conservation_regions": [
+      "スカンジナビア半島",
+      "アルプス山脈",
+      "アイスランド",
+      "グリーンランド"
+    ],
+    "ex_situ_conservation_status": "いくつかの植物園やシードバンク（例：スヴァールバル世界種子貯蔵庫）で種子が保存されている。",
+    "in_situ_conservation_efforts": "特定の保護区内での自生地保全は行われているが、種に特化した大規模な活動は不明。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集された情報全体を統合し、専門家としての視点から総合的に判断したものである。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "北欧（サーミ文化圏での民族植物学的調査）",
+      "アルプス（気候変動による垂直分布の変化に関する生態学的調査）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する生理学的応答の定量的データ",
+      "栽培品種・野生集団全体の遺伝的多様性",
+      "リジェネラティブ農業システムにおける具体的な効果測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "亜種の分類は植物学的に確立されている。"
+      },
+      "variety_name": "Angelica archangelica subsp. archangelica",
+      "local_name": "Inland Angelica",
+      "origin_region": "ヨーロッパ内陸部、山岳地帯",
+      "distinctive_characteristics": "より背が高く、茎が紫色を帯びることが多い。精油の含有量が高いとされる。",
+      "cultural_importance": "薬用やリキュール用に主に利用される系統。",
+      "climate_adaptation": "内陸性の気候に適応している。",
+      "conservation_status": "Not Evaluated"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "亜種の分類は植物学的に確立されている。"
+      },
+      "variety_name": "Angelica archangelica subsp. litoralis",
+      "local_name": "Coastal Angelica",
+      "origin_region": "ヨーロッパ沿岸部",
+      "distinctive_characteristics": "subsp. archangelicaより背が低く、頑丈。葉の裂片がより広い。果実の形状に違いがある。",
+      "cultural_importance": "北欧で野菜として利用されるのは主にこちらの系統。",
+      "climate_adaptation": "塩分や強風など、沿岸の環境に適応している。",
+      "conservation_status": "Not Evaluated"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Plants of the World Online",
+      "GRIN-Global Taxonomy",
+      "European ethnobotanical literature",
+      "Journal of Ethnopharmacology"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種・系統レベルでの応答に関する実験的データ",
+      "世界全体の正確な生産量"
+    ],
+    "regional_data_coverage": "ヨーロッパに偏っており、アジアの自生地域に関する情報は限定的。",
+    "missing_information": [
+      "詳細な栄養成分分析",
+      "栽培における収量データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

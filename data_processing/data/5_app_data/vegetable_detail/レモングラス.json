@@ -1,0 +1,746 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is consolidated from major botanical databases (Kew, GRIN) and ethnobotanical literature. The exact wild progenitor is unknown, as C. citratus is a sterile cultigen."
+    },
+    "primary_name": "Lemongrass",
+    "scientific_name": "Cymbopogon citratus",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "東南アジア（海洋部）",
+    "wild_relatives": [
+      "Cymbopogon nardus",
+      "Cymbopogon flexuosus",
+      "The Cymbopogon genus contains over 50 species, many of which are aromatic grasses."
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names gathered from multilingual ethnobotanical databases and culinary resources. Spelling variations are common."
+    },
+    "international": {
+      "en": [
+        "Lemongrass",
+        "West Indian Lemongrass",
+        "Oil Grass"
+      ],
+      "scientific_common": "West Indian Lemongrass"
+    },
+    "regional": [
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "ตะไคร้",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Sả",
+            "script": "Latin"
+          },
+          {
+            "lang": "id",
+            "name": "Sereh",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Serai",
+            "script": "Latin"
+          },
+          {
+            "lang": "km",
+            "name": "ស្លឹកគ្រៃ",
+            "script": "Khmer"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "si",
+            "name": "සේර",
+            "script": "Sinhala"
+          },
+          {
+            "lang": "ta",
+            "name": "கற்பூரப் புல்",
+            "script": "Tamil"
+          },
+          {
+            "lang": "hi",
+            "name": "गंधतृण",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "香茅",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Hierba de limón",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Capim-cidreira",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Citronnelle",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明",
+        "name": "不明",
+        "cultural_significance": "While central to many traditional cultures in Southeast Asia for cuisine, medicine (e.g., Jamu in Indonesia), and insect repellent, specific pre-colonial indigenous names are not well-documented in global databases."
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification is stable and widely accepted in botanical taxonomy."
+    },
+    "family": {
+      "en": "Grass family",
+      "la": "Poaceae"
+    },
+    "genus": {
+      "en": "Lemongrass",
+      "la": "Cymbopogon"
+    },
+    "species": {
+      "en": "West Indian Lemongrass",
+      "la": "citratus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information based on extensive culinary and ethnobotanical literature."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "Indispensable aromatic in soups, curries, and salads. Used in traditional medicine for fevers and digestive issues. Stalks are used as ceremonial incense and cleansing agents.",
+        "seasonal_significance": "Year-round availability and use.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "Used in Sri Lankan and South Indian cuisine. A key herb in Ayurvedic medicine for treating digestive, respiratory, and nervous system disorders.",
+        "seasonal_significance": "Grown in warmer seasons.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "Primarily consumed as a medicinal tea ('té de limón') for calming nerves, aiding sleep, and reducing fever and blood pressure.",
+        "seasonal_significance": "Year-round in tropical areas.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "アフリカ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "Widely used as a 'fever tea' to treat malaria and other fevers. Also used as an insect repellent.",
+        "seasonal_significance": "Dependent on rainy season in many areas.",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "タイ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Tom Yum Goong",
+          "Green Curry",
+          "Larb"
+        ],
+        "preparation_methods": [
+          "Bruised stalks for infusion",
+          "Finely sliced for salads"
+        ],
+        "cultural_context": "Defines the characteristic aroma and flavor profile of central Thai cuisine."
+      },
+      {
+        "cuisine": "ベトナム料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Bún bò Huế",
+          "Gà Nướng Sả"
+        ],
+        "preparation_methods": [
+          "Minced for marinades",
+          "Stalks used for skewers"
+        ],
+        "cultural_context": "Provides a bright, citrus counterpoint in rich, savory dishes."
+      },
+      {
+        "cuisine": "インドネシア料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Bebek Betutu",
+          "Rendang"
+        ],
+        "preparation_methods": [
+          "Bruised stalks tied in a knot for stews",
+          "Ground into spice pastes (bumbu)"
+        ],
+        "cultural_context": "A foundational aromatic in many complex spice pastes across the archipelago."
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "Use in Southeast Asia dates back centuries, integrated into traditional medicine and cuisine.",
+      "trade_routes": "Disseminated globally from Southeast Asia through maritime spice routes and colonial-era botanical transfers.",
+      "cultural_exchange": "Adopted into Latin American and African herbal medicine traditions, where it became a popular remedy for fever.",
+      "domestication_history": "Believed to be an ancient sterile hybrid, propagated clonally for millennia. Its exact origin and domestication process are unknown."
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "High humidity, full sun, well-drained soil, consistent moisture. Temperature range 25-30°C."
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "Grows well during warm, wet summers. May go dormant or die back with light frost but regrows from roots."
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "Can be grown as an annual during the summer or overwintered indoors in containers. Requires protection from frost."
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "Cannot survive hard freezes."
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "Tolerates dry spells once established but requires regular irrigation for productive growth."
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "Too cold."
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "Year-round",
+        "harvest_season": "Year-round",
+        "growing_period_days": 90
+      },
+      {
+        "climate_zone": "亜熱帯・温帯",
+        "planting_season": "Spring (after last frost)",
+        "harvest_season": "Summer to Autumn (before first frost)",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000-20,000 kg/ha (fresh herb); 100-200 kg/ha (essential oil)",
+      "factors_affecting_yield": [
+        "Water availability",
+        "Sunlight exposure",
+        "Soil fertility",
+        "Harvesting frequency"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明 (Data often combined with other Cymbopogon species)",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "Major producer of essential oil, primarily from C. flexuosus but also C. citratus."
+        },
+        {
+          "country": "インドネシア",
+          "production_share": null,
+          "characteristics": "Large scale production for fresh domestic market and essential oil."
+        },
+        {
+          "country": "タイ",
+          "production_share": null,
+          "characteristics": "Extensive cultivation for its national cuisine and fresh export market."
+        },
+        {
+          "country": "グアテマラ",
+          "production_share": null,
+          "characteristics": "Significant producer of essential oil for the international market."
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "General nutritional data is available, but varies with growing conditions. Bioactive compound research is extensive, but traditional uses are based on ethnobotanical records, not always clinical trials."
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "99",
+        "protein_g": "1.8",
+        "carbs_g": "25.3",
+        "fat_g": "0.5",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Manganese",
+          "amount": "5.2 mg",
+          "daily_value_percent": "227%"
+        },
+        {
+          "nutrient": "Iron",
+          "amount": "8.2 mg",
+          "daily_value_percent": "45%"
+        },
+        {
+          "nutrient": "Potassium",
+          "amount": "723 mg",
+          "daily_value_percent": "15%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Citral (Geranial and Neral)",
+        "concentration": "65-85% of essential oil",
+        "health_effect": "Strong antimicrobial, anti-inflammatory, and insect-repellent properties. Responsible for the characteristic lemon aroma."
+      },
+      {
+        "compound": "Myrcene",
+        "concentration": "Variable",
+        "health_effect": "Analgesic and anti-inflammatory effects."
+      },
+      {
+        "compound": "Geraniol",
+        "concentration": "Variable",
+        "health_effect": "Antioxidant and antiseptic properties."
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東南アジア",
+        "medical_system": "Jamu, Traditional Thai Medicine",
+        "uses": [
+          "Fever reduction",
+          "Digestive aid",
+          "Improving circulation",
+          "Postpartum recovery"
+        ],
+        "preparation": "Infusion (tea), decoction, steam inhalation, topical poultice."
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "Stomach cramps",
+          "Cough and cold",
+          "Rheumatism",
+          "Headaches"
+        ],
+        "preparation": "Decoction, oil infusion."
+      },
+      {
+        "region": "南米",
+        "medical_system": "Folk medicine",
+        "uses": [
+          "Anxiety and insomnia",
+          "High blood pressure",
+          "Gastrointestinal spasms",
+          "Fever"
+        ],
+        "preparation": "Infusion (tea)."
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "Antimicrobial activity",
+        "Antifungal activity",
+        "Anti-inflammatory effects",
+        "Antioxidant properties"
+      ],
+      "ongoing_research": [
+        "Anxiolytic (anti-anxiety) effects",
+        "Anticancer properties",
+        "Blood sugar regulation"
+      ],
+      "safety_considerations": "Essential oil is highly concentrated and should not be ingested without professional guidance. Can cause skin irritation if applied undiluted. Generally recognized as safe (GRAS) as a food."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Culinary uses are well-documented globally."
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東南アジア",
+        "methods": [
+          "Infusion (bruised stalks in soups/curries)",
+          "Slicing (thinly for salads)",
+          "Pounding (into spice pastes)"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Galangal",
+          "Chili",
+          "Kaffir lime leaves",
+          "Fish sauce",
+          "Coconut milk"
+        ]
+      },
+      {
+        "region": "世界（飲料）",
+        "methods": [
+          "Steeping (leaves for herbal tea)"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Ginger",
+          "Mint",
+          "Honey"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界"
+        ],
+        "shelf_life": "6-12 months",
+        "quality_changes": "Significant loss of volatile aromatic compounds (citral). Flavor becomes more woody and less bright."
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界"
+        ],
+        "shelf_life": "Over 1 year",
+        "quality_changes": "Excellent preservation of aroma and flavor. Minor texture changes (becomes softer)."
+      },
+      {
+        "method": "ペースト化",
+        "regions": [
+          "世界"
+        ],
+        "shelf_life": "Varies (weeks to months, depending on preservation method)",
+        "quality_changes": "Good flavor retention, convenient for use in cooking."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Bright, citrusy, and herbaceous with notes of lemon, mint, and ginger. Not sour like a lemon, but purely aromatic.",
+      "aroma_compounds": [
+        "Citral (Geranial, Neral)",
+        "Myrcene",
+        "Limonene"
+      ],
+      "texture_characteristics": "Very fibrous and tough. The inner core of the lower stalk is tender enough to be sliced finely and eaten raw, but the rest must be removed after infusion."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "High heat and moderate drought tolerance are well-observed in cultivation, but quantitative data from controlled climate change experiments is scarce. Future projections are based on general principles of C4 grass physiology and climate models."
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "24-30°C",
+      "extreme_heat_survival": "Tolerates temperatures above 40°C with sufficient water.",
+      "cold_tolerance": "Intolerant of frost. Foliage dies at 0°C, roots may survive light frosts."
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "Moderate. As a C4 grass, it has higher water use efficiency than C3 plants, but thrives with consistent moisture.",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "700-2500 mm per year"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "Moderate. Flexible stalks resist breaking in wind, but intense storms can cause lodging.",
+      "hail_damage_recovery": "High. As a grass, it recovers quickly from foliage damage by sending up new shoots.",
+      "rapid_temperature_change": "Low. Sudden frosts are lethal."
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明 (Theoretically positive, as with many C4 plants, but not specifically studied for lemongrass).",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高 (Adapted to full sun in tropical regions)."
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Resistant to many pests due to its essential oils. However, warming climates may expand the range of fungal pathogens like rust.",
+      "disease_resistance_stability": "Vulnerable due to low genetic diversity. A novel pathogen could be devastating to the clonally propagated crop.",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Tropics and Subtropics",
+        "2050_projection": "Potential expansion into lower temperate zones, but increased drought stress in some equatorial regions.",
+        "2100_projection": "Further poleward expansion possible, but viability in current core production areas may depend heavily on irrigation.",
+        "confidence_level": "Medium"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "C. citratus is largely sterile and clonally propagated, making natural hybridization extremely rare. The potential exists within the broader Cymbopogon genus, not this specific cultigen. Information is based on botanical characteristics."
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Virtually none, due to sterility and clonal propagation."
+      ],
+      "interspecific_compatibility": [
+        "Theoretically possible with other Cymbopogon species if flowering can be induced, but does not occur naturally."
+      ],
+      "intergeneric_possibility": [
+        "Extremely unlikely."
+      ],
+      "successful_natural_hybrids": [
+        "C. citratus itself is thought to be an ancient, stable hybrid, but no modern natural hybrids involving it are documented."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "Very low. Most cultivated C. citratus worldwide is genetically uniform.",
+      "wild_gene_pool": "The species itself has no wild gene pool. The broader Cymbopogon genus holds significant diversity that could be used in formal breeding programs.",
+      "adaptive_genetic_variation": "Extremely low due to asexual reproduction.",
+      "inbreeding_depression_risk": "Not applicable due to clonal propagation."
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "Possible through controlled breeding with other Cymbopogon species (e.g., more drought-tolerant relatives).",
+      "improved_nutritional_content": "Not a primary goal for this aromatic herb.",
+      "novel_characteristics": "Could create variations in citral content or other aromatic compounds.",
+      "hybrid_vigor_potential": "High, if successful interspecific crosses could be made."
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Sterility is the primary barrier.",
+      "chromosome_compatibility": "Varies across the Cymbopogon genus.",
+      "fertility_of_hybrids": "Likely to be low or sterile.",
+      "backcrossing_success": "Unknown."
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 2
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Benefits are inferred from its characteristics as a perennial C4 grass and its use in agroecological systems (e.g., push-pull technology). Quantitative data on soil carbon sequestration is limited."
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Dense, fibrous, and deep root system.",
+      "organic_matter_contribution": "High. Leaves can be used as mulch ('chop and drop').",
+      "soil_structure_improvement": "Excellent. Root system binds soil, creates channels for water and air.",
+      "erosion_control": "Very effective, especially when planted on contours.",
+      "nutrient_cycling_role": "Efficient at scavenging nutrients from the soil profile."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "Low (rarely flowers).",
+      "beneficial_insect_habitat": "Provides shelter for some ground-dwelling predators. Repels certain pests.",
+      "soil_microorganism_interaction": "Contributes to a healthy soil food web through root exudates and biomass.",
+      "above_ground_biodiversity": "Limited."
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "High, due to root system improving soil structure.",
+      "moisture_retention": "High, when leaves are used as mulch.",
+      "runoff_reduction": "High, due to dense planting and soil binding.",
+      "groundwater_recharge": "Contributes positively by improving infiltration."
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "Moderate to high, with regular harvesting.",
+      "below_ground_carbon": "High potential due to perennial root system.",
+      "soil_carbon_enhancement": "High, through decomposition of roots and mulch.",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Tomatoes, peppers (repels whiteflies)",
+        "Maize (used in 'push-pull' systems to repel stem borers)"
+      ],
+      "natural_pest_control": "Its strong scent can confuse or repel many insect pests.",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "Some evidence of allelopathic effects that suppress weeds."
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "Contributes to stability through soil conservation and pest management.",
+      "stress_tolerance": "High tolerance to heat and moderate drought.",
+      "recovery_capacity": "Recovers quickly from cutting or damage.",
+      "adaptability": "Adaptable to a range of soil types, though not to cold climates."
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Market trends and applications are well-documented."
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "Used as a natural flavoring agent, reducing the need for artificial additives.",
+      "food_security_contribution": "A hardy, low-input crop for smallholders, providing both culinary and medicinal resources, as well as a cash crop (essential oil).",
+      "local_food_system_integration": "Easily grown in home gardens and integrated into local markets worldwide.",
+      "alternative_protein_potential": "Not applicable."
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Growth in global demand for Southeast Asian cuisine",
+        "Natural and plant-based cosmetic and aromatherapy markets",
+        "Functional beverages (teas, kombucha)"
+      ],
+      "value_added_products": [
+        "Essential oil",
+        "Hydrosols",
+        "Dried tea blends",
+        "Frozen stalks",
+        "Culinary pastes",
+        "Natural cleaning products"
+      ],
+      "niche_market_value": "High value in organic, natural, and specialty food markets."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Conservation status is based on its biological characteristics (low genetic diversity) and threats to its wild relatives."
+    },
+    "genetic_erosion_risk": "高 (for C. citratus itself, due to clonality)",
+    "habitat_loss_threat": "高 (for the wild Cymbopogon gene pool in Southeast Asia)",
+    "climate_change_vulnerability": "中 (Vulnerable to novel diseases and extreme drought in certain regions)",
+    "cultural_erosion_risk": "中 (Risk of losing specific traditional medicinal knowledge)",
+    "conservation_actions_needed": [
+      "In-situ conservation of wild Cymbopogon habitats",
+      "Ex-situ conservation of the entire Cymbopogon genus in gene banks",
+      "Research to induce flowering and fertility for breeding programs"
+    ],
+    "priority_conservation_regions": [
+      "東南アジア",
+      "南アジア"
+    ],
+    "ex_situ_conservation_status": "Some accessions are held in international gene banks, but coverage of the entire genus's diversity is incomplete.",
+    "in_situ_conservation_efforts": "Protected areas in its native range indirectly conserve wild relatives."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "This is a summary evaluation based on the data compiled in this document."
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高 (for genetic diversity and climate resilience)",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "東南アジア (for cultural uses and wild relatives)",
+      "南米 (for ethnobotanical and medicinal evolution)"
+    ],
+    "knowledge_gaps": [
+      "Quantitative response to elevated CO2 and other climate variables",
+      "Genetic makeup and origin of C. citratus",
+      "Mechanisms to overcome sterility for breeding"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "True varieties of C. citratus are rare due to clonal propagation. The entry below describes a closely related but distinct species often confused with it, which serves as the primary 'variety' in commercial trade for specific uses."
+      },
+      "variety_name": "East Indian Lemongrass (a different species)",
+      "local_name": "不明",
+      "origin_region": "南アジア (India, Sri Lanka, Thailand)",
+      "distinctive_characteristics": "Scientifically Cymbopogon flexuosus. Generally has a higher citral content, making it preferred for essential oil distillation. Stems are often reddish-purple.",
+      "cultural_importance": "Primarily an industrial and medicinal crop for oil, less central to cuisine than C. citratus.",
+      "climate_adaptation": "Similar heat and moderate drought tolerance to C. citratus.",
+      "conservation_status": "Cultivated, not threatened."
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Plants of the World Online",
+      "USDA GRIN Global",
+      "Ethnobotanical literature",
+      "FAO agricultural publications"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative data on regenerative agriculture benefits (e.g., carbon sequestration rates)",
+      "Physiological response of C. citratus to specific climate change scenarios (e.g., elevated CO2, combined heat/drought stress)",
+      "Genetic analysis of existing clonal lines to identify any somatic variation"
+    ],
+    "regional_data_coverage": "High for Southeast Asia, moderate for Latin America and Africa.",
+    "missing_information": [
+      "Specific indigenous community names and uses",
+      "Comprehensive global production statistics (often aggregated)"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

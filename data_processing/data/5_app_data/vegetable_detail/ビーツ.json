@@ -1,0 +1,655 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "情報は主要な植物学、農学データベース、FAOSTATから統合。栽培品種に関する情報が豊富に存在する。"
+    },
+    "primary_name": "Beetroot",
+    "scientific_name": "Beta vulgaris",
+    "plant_type": "二年草",
+    "edible_parts": [
+      "根",
+      "葉"
+    ],
+    "origin_region": "地中海沿岸",
+    "wild_relatives": [
+      "Beta vulgaris subsp. maritima"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパ言語圏での名称は広く記録されているが、他の地域での土着名は限定的。"
+    },
+    "international": {
+      "en": [
+        "Beetroot",
+        "Table Beet",
+        "Garden Beet",
+        "Beet"
+      ],
+      "scientific_common": "Beet"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Betterave",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Rote Bete",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Remolacha",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Barbabietola",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Свёкла",
+            "script": "Cyrillic"
+          },
+          {
+            "lang": "pl",
+            "name": "Burak",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "شمندر",
+            "script": "Arabic"
+          },
+          {
+            "lang": "he",
+            "name": "סלק",
+            "script": "Hebrew"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。かつてはヒユ科(Chenopodiaceae)に分類されていた。"
+    },
+    "family": {
+      "en": "Amaranth family",
+      "la": "Amaranthaceae"
+    },
+    "genus": {
+      "en": "Beet",
+      "la": "Beta"
+    },
+    "species": {
+      "en": "Beet",
+      "la": "Beta vulgaris"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Subspecies",
+        "name": "Beta vulgaris subsp. vulgaris"
+      },
+      {
+        "rank": "Cultivar Group",
+        "name": "Conditiva Group"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "特にヨーロッパ文化圏における歴史的・食文化的価値に関する記録は豊富。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東ヨーロッパ・ロシア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ボルシチの主材料として不可欠であり、日常食から祝祭の料理まで幅広く利用される。ザワークラウトと同様に発酵させて保存食とする文化も根強い。",
+        "seasonal_significance": "冬の間の重要なビタミン・ミネラル源として歴史的に価値が高い。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "西ヨーロッパ・北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ピクルス（酢漬け）としての利用が非常に一般的。近年は健康志向の高まりから、サラダ、ロースト、ジュースとしての利用が急増している。",
+        "seasonal_significance": "秋の収穫物としての季節感があるが、貯蔵や加工により通年利用される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "東欧料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Borscht (Борщ)",
+          "Vinegret (Винегрет)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "茹でる",
+          "発酵"
+        ],
+        "cultural_context": "国民食の魂とも言える食材であり、家庭の味を象徴する。特にボルシチは地域や家庭ごとにレシピが異なり、文化的アイデンティティの一部となっている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマ時代には葉が食用とされ、根の利用は中世以降に広まった。古代ギリシャではデルフォイのアポロン神殿に奉納された記録がある。",
+      "trade_routes": "ヨーロッパ内での交易を通じて各地に伝播。特に19世紀に砂糖生産用のシュガービートが開発されて以降、経済的重要性が増大した。",
+      "cultural_exchange": "東欧から西欧への移民を通じて、ボルシチなどの料理が世界的に知られるようになった。",
+      "domestication_history": "地中海沿岸の野生種シービート（Beta vulgaris subsp. maritima）から葉を利用する目的で栽培化が始まり、その後、肥大した根を持つ系統が選抜された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿では根の肥大が悪く、病害も多いため不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の冷涼な気候を利用して栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育適温は15-21℃。冷涼な気候を好み、品質の良い根が収穫できる最も適した気候帯。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の寒暖差が大きい大陸性気候にも適応。ロシアや東欧の主要生産地はこの気候帯に属する。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑施設があれば栽培可能。乾燥は糖度を高めるが、水分不足は根の肥大を妨げる。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（霜の危険がなくなった後）または初夏",
+        "harvest_season": "夏から秋",
+        "growing_period_days": 50
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 60,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌pH（弱アルカリ性を好む）",
+        "ホウ素欠乏",
+        "適切な水分供給",
+        "日照時間"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ロシア",
+          "production_share": "不明",
+          "characteristics": "シュガービート生産が主だが、テーブルビートも大規模に生産され、国内消費が非常に多い。"
+        },
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "ヨーロッパにおける主要生産国の一つ。加工用（真空パックや瓶詰め）の生産が盛ん。"
+        },
+        {
+          "country": "ドイツ",
+          "production_share": "不明",
+          "characteristics": "シュガービートと共に重要な根菜。国内市場向けの生産が中心。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "ウィスコンシン州やニューヨーク州が主要産地。加工用と生鮮市場向けに生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栄養価に関するデータは豊富。特にベタライン色素と硝酸塩に関する機能性研究が進んでいる。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "43",
+        "protein_g": "1.6",
+        "carbs_g": "9.6",
+        "fat_g": "0.2",
+        "fiber_g": "2.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸 (Folate)",
+          "amount": "109 µg",
+          "daily_value_percent": "27%"
+        },
+        {
+          "nutrient": "マンガン (Manganese)",
+          "amount": "0.3 mg",
+          "daily_value_percent": "16%"
+        },
+        {
+          "nutrient": "カリウム (Potassium)",
+          "amount": "325 mg",
+          "daily_value_percent": "9%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ベタレイン (Betalains)",
+        "concentration": "品種によるが、最大1400 mg/kg",
+        "health_effect": "強力な抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "無機硝酸塩 (Inorganic Nitrates)",
+        "concentration": "土壌条件によるが、最大2500 mg/kg",
+        "health_effect": "体内で一酸化窒素に変換され、血管拡張、血圧降下、運動パフォーマンス向上に寄与する可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "血液浄化",
+          "肝臓強壮",
+          "便秘解消"
+        ],
+        "preparation": "ジュースにして飲用、または調理して食す。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血圧降下作用",
+        "運動持久力の向上",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "認知機能改善",
+        "抗がん作用",
+        "腸内環境改善"
+      ],
+      "safety_considerations": "シュウ酸を多く含むため、腎臓結石のリスクがある人は過剰摂取に注意が必要。尿や便が赤くなることがあるが、これは無害（ビーツリア）。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理での利用法が広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東ヨーロッパ",
+        "methods": [
+          "煮込み",
+          "スープ",
+          "発酵",
+          "ピクルス"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "キャベツ",
+          "ジャガイモ",
+          "サワークリーム",
+          "ディル"
+        ]
+      },
+      {
+        "region": "北米・西ヨーロッパ",
+        "methods": [
+          "ロースト",
+          "サラダ（生または加熱）",
+          "ジュース",
+          "チップス"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ヤギのチーズ",
+          "クルミ",
+          "バルサミコ酢",
+          "柑橘類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ピクルス（酢漬け）",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "食感が柔らかくなり、酸味が加わる。色は鮮やかに保たれる。"
+      },
+      {
+        "method": "真空調理・パック",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "調理済みですぐに使える利便性がある。風味や栄養素の損失が少ない。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い土の香り（Earthy）、甘み",
+      "aroma_compounds": [
+        "ゲオスミン (Geosmin)"
+      ],
+      "texture_characteristics": "生では硬くシャキシャキ、加熱すると柔らかく滑らかになる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な情報は多いが、品種レベルでの定量的なデータは限定的。野生近縁種の高い耐性から、育種による適応ポテンシャルは高いと評価される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-21°C",
+      "extreme_heat_survival": "高温下では根が木質化し、早期抽苔（ボルティング）のリスクが高まる。",
+      "cold_tolerance": "-4°C程度までの霜には耐えるが、強い凍結は根にダメージを与える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "中程度。深い主根を持つため、ある程度の乾燥には耐えるが、高品質な根を形成するには安定した水分が必要。",
+      "flood_tolerance": "低。土壌の過湿は根腐れの原因となる。",
+      "optimal_rainfall": "生育期間中に600-700mm相当"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉は損傷しやすいが、地下部にある根は比較的保護される。",
+      "hail_damage_recovery": "葉が損傷しても、生育点が生きていれば回復可能。",
+      "rapid_temperature_change": "急激な高温はボルティングを引き起こす可能性がある。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成が促進され、バイオマスが増加する可能性がある。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンは葉の損傷を引き起こす可能性がある。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、テンサイモザイクウイルスを媒介するアブラムシや、ネコブセンチュウの活動が活発化・北上するリスクがある。",
+      "disease_resistance_stability": "褐斑病など、高温多湿で発生しやすい病気への抵抗性が将来的に重要になる。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域（北緯40-60度）",
+        "2050_projection": "栽培適地がより高緯度地域（北ヨーロッパ、カナダ、ロシア北部）へシフトする可能性。",
+        "2100_projection": "現在の主要産地の一部では、夏の高温により栽培が困難になるリスクが増大。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Beta vulgaris種内の交雑は非常に容易であり、育種の歴史も長い。野生祖先種との交雑和合性も高い。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "シュガービート",
+        "フダンソウ（チャード）",
+        "飼料用ビート"
+      ],
+      "interspecific_compatibility": [
+        "Beta vulgaris subsp. maritima (シービート)"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない"
+      ],
+      "successful_natural_hybrids": [
+        "栽培ビートと野生のシービートとの間での自然交雑は、特に種子生産地帯で頻繁に観察される。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパ各地に多様な在来品種が存在するが、商業的なF1品種の普及により遺伝的多様性は減少しつつある。",
+      "wild_gene_pool": "野生祖先種であるシービート(B. v. subsp. maritima)は、塩害、乾燥、病害への耐性遺伝子を豊富に持つ非常に重要な遺伝子プールである。",
+      "adaptive_genetic_variation": "シービートは海岸線の厳しい環境に適応しており、その遺伝子群は気候変動適応育種の鍵となる。",
+      "inbreeding_depression_risk": "自家不和合性を持つため、他家受粉が主であり、近交弱勢のリスクは自然条件下では低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ヨーロッパ沿岸部",
+        "environmental_pressure": "塩害、乾燥、強風",
+        "adaptive_response": "シービートは多肉質の葉、深い根系、低い草丈といった形質を発達させた。",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による適応進化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "シービートとの交雑により、耐塩性や耐乾性を栽培品種に導入する可能性が非常に高い。",
+      "improved_nutritional_content": "野生種から新たな機能性成分や高栄養価の形質を導入できる可能性がある。",
+      "novel_characteristics": "根の形状、色、風味の多様化。",
+      "hybrid_vigor_potential": "異なる遺伝的背景を持つ系統間の交雑により、強い雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Beta vulgaris種内および亜種間には交雑障壁はほとんどない。",
+      "chromosome_compatibility": "染色体数は2n=18で、種内で完全に和合性がある。",
+      "fertility_of_hybrids": "雑種は通常、高い稔性を持つ。",
+      "backcrossing_success": "戻し交配は育種で一般的に用いられ、成功率は高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い根系、気孔の制御能力",
+        "heritability": "中程度から高い",
+        "response_to_selection": "比較的早い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "根菜類としての一般的な土壌への影響に関する知見はあるが、ビートに特化したリジェネラティブ農業システムでの定量的研究は少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "肥大した主根と、土壌深くまで伸びる細根からなる。収穫時に主根は取り除かれるが、残された細根や残渣は有機物として土壌に還元される。",
+      "organic_matter_contribution": "葉のバイオマスが多く、収穫後の残渣をすき込むことで土壌有機物を増やすことができる。",
+      "soil_structure_improvement": "主根が土壌を物理的に押し広げることで、硬盤層を破壊し、土壌の通気性や排水性を改善する効果（バイオドリリング）が期待できる。",
+      "erosion_control": "生育初期の被覆は遅いが、生育が進むと広い葉が地面を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "深い根系が土壌深層からカリウムなどの養分を吸い上げ、収穫残渣を通じて表層に再配分する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "二年草であり、種子生産のために越冬・開花させると、風媒花ではあるが、花粉は一部の昆虫にとって食料源となる。",
+      "beneficial_insect_habitat": "大きな葉は、テントウムシやクモなどの天敵昆虫の隠れ家を提供することがある。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用に関する研究は進んでいるが、リジェネラティブな文脈での詳細は不明。",
+      "above_ground_biodiversity": "単一栽培では限定的だが、混植やカバークロップとの組み合わせで多様性を高めることができる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造の改善が、水の浸透を促進する可能性がある。",
+      "moisture_retention": "残渣のすき込みによる土壌有機物の増加は、土壌の保水性を向上させる。",
+      "runoff_reduction": "葉による土壌被覆が地表流出を減らす。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "葉のバイオマスは大きい。",
+      "below_ground_carbon": "主根は収穫されるが、細かく深い根系が分解され土壌炭素として蓄積される。",
+      "soil_carbon_enhancement": "残渣の投入と根系の活動により、土壌炭素の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "レタス",
+        "タマネギ",
+        "マメ科植物（ブッシュビーンなど）"
+      ],
+      "natural_pest_control": "ミント類を近くに植えると、アブラムシを遠ざける効果が報告されている。",
+      "nutrient_sharing": "マメ科植物との混植は、土壌の窒素供給を助ける。",
+      "allelopathic_interactions": "特筆すべきアレロパシー効果は報告されていない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、特定の病害虫のサイクルを断ち切り、システムの安定性に貢献する。",
+      "stress_tolerance": "中程度",
+      "recovery_capacity": "葉が食害にあっても、根が無事であれば回復する力は比較的高い。",
+      "adaptability": "多様な品種があり、栽培管理によって様々な環境に対応可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康食品、自然着色料、スポーツ栄養学の分野で現代的な応用が活発に進んでいる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラル、抗酸化物質が豊富で、植物中心の食生活において重要な役割を果たす。",
+      "food_security_contribution": "比較的栽培が容易で、単位面積あたりのカロリー収量も悪くないため、温帯地域の食料安全保障に貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットなどでの人気が高く、地域内経済循環に適した作物。",
+      "alternative_protein_potential": "葉にはタンパク質が含まれており、葉タンパク質抽出の原料となる可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ビーツジュース、パウダーなどの健康補助食品市場",
+        "スポーツニュートリション市場（硝酸塩によるパフォーマンス向上効果）",
+        "自然由来の食品着色料（ベタレイン）市場"
+      ],
+      "value_added_products": [
+        "調理済み真空パックビーツ",
+        "ビーツチップス",
+        "発酵ビーツ飲料（クワスなど）",
+        "ビーツパウダー"
+      ],
+      "niche_market_value": "キオッジャ（渦巻き模様）やゴールデンビートなど、色彩豊かな品種は高級レストランやニッチ市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商業品種の遺伝的多様性は限定的だが、ジーンバンクでの保存は進んでいる。野生近縁種の生息地保全が重要課題。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種であるシービートの生息地（海岸線）が、開発、汚染、海面上昇の脅威にさらされている。",
+    "climate_change_vulnerability": "栽培品種は高温に弱いが、野生種の遺伝子を利用することで脆弱性を克服できる可能性がある。",
+    "cultural_erosion_risk": "低。東欧などでは食文化に深く根付いているが、伝統的な在来品種の利用は減少傾向にある。",
+    "conservation_actions_needed": [
+      "ヨーロッパ各地の在来品種の収集と特性評価",
+      "野生近縁種（シービート）の生息地の域内保全",
+      "気候変動耐性を持つ遺伝資源の特定と利用"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸（遺伝的多様性の中心地）",
+      "ヨーロッパ大西洋沿岸（シービートの生息地）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（例：Svalbard Global Seed Vault, USDA-ARS）に多数の種子が保存されている。",
+    "in_situ_conservation_efforts": "一部の沿岸保護区でシービートの生息地が保護されているが、包括的な取り組みは限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "東ヨーロッパ（伝統的利用法と在来種の多様性）",
+      "地中海沿岸（野生近縁種の遺伝資源）"
+    ],
+    "knowledge_gaps": [
+      "リジェネラティブ農業システムにおける具体的な土壌炭素貯留能の定量化",
+      "気候変動シナリオに対する各品種の応答の差異"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "広く知られた品種。"
+      },
+      "variety_name": "Detroit Dark Red",
+      "local_name": "Detroit Dark Red",
+      "origin_region": "アメリカ合衆国",
+      "distinctive_characteristics": "球形で滑らかな根、濃い赤色、甘みが強い。貯蔵性にも優れる標準的な品種。",
+      "cultural_importance": "20世紀以降、世界中で栽培される商業的・家庭菜園用の代表品種。",
+      "climate_adaptation": "温帯気候に広く適応するが、極端な高温には弱い。",
+      "conservation_status": "広く利用可能"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "特徴的な伝統品種。"
+      },
+      "variety_name": "Chioggia",
+      "local_name": "Barbabietola di Chioggia",
+      "origin_region": "イタリア、ヴェネト州キオッジャ",
+      "distinctive_characteristics": "断面が赤と白の同心円状の美しい模様を持つ。加熱すると模様が薄れるため、生食に向く。風味はマイルド。",
+      "cultural_importance": "イタリアの伝統野菜であり、その見た目の美しさから世界中のシェフに愛用されている。",
+      "climate_adaptation": "温暖な地中海性気候を好む。",
+      "conservation_status": "ヘアルーム品種として種子が流通"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "Plants for a Future (PFAF)",
+      "World Vegetable Center (WorldVeg)",
+      "Crop Trust Genebank Platform"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "非ヨーロッパ文化圏における伝統的利用法の詳細"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に偏っており、他の地域に関するデータは比較的少ない。",
+    "missing_information": [
+      "世界全体の正確な生産量統計（多くの場合、シュガービートと合算されるため）",
+      "先住民コミュニティによる利用例"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

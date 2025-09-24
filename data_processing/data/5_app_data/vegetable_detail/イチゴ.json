@@ -1,0 +1,716 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栽培種のイチゴは近代に成立した交雑種であり、その起源と植物学的特性は明確に記録されている。情報源は主要な植物学データベース、農学研究機関の報告書に基づいている。"
+    },
+    "primary_name": "Strawberry",
+    "scientific_name": "Fragaria x ananassa",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "果実"
+    ],
+    "origin_region": "北米原産のバージニアイチゴ(Fragaria virginiana)と南米原産のチリイチゴ(Fragaria chiloensis)の交雑により、18世紀のヨーロッパ（フランス）で誕生した栽培起源種。",
+    "wild_relatives": [
+      "Fragaria virginiana",
+      "Fragaria chiloensis",
+      "Fragaria vesca",
+      "Fragaria iinumae"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中で栽培されているため、各言語での名称は豊富に存在する。先住民の名称は、交雑親である野生種に関するものである。"
+    },
+    "international": {
+      "en": [
+        "Strawberry",
+        "Garden strawberry"
+      ],
+      "scientific_common": "Pineapple strawberry"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Fraise",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Fresa",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Erdbeere",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Fragola",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "イチゴ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "草莓",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "딸기",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "स्ट्रॉबेरी",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "فراولة",
+            "script": "Arabic"
+          },
+          {
+            "lang": "tr",
+            "name": "Çilek",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Mapuche (Chile)",
+        "name": "kelleñ",
+        "cultural_significance": "チリイチゴ(F. chiloensis)を指す伝統名。食用、薬用として利用され、地域の生態系と文化に深く根ざしていた。"
+      },
+      {
+        "community": "Ojibwe (North America)",
+        "name": "ode'imin",
+        "cultural_significance": "バージニアイチゴ(F. virginiana)を指す。心臓の形をした実として「ハートベリー」を意味し、心や和解の象徴とされた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な植物分類。"
+    },
+    "family": {
+      "en": "Rose family",
+      "la": "Rosaceae"
+    },
+    "genus": {
+      "en": "Strawberry",
+      "la": "Fragaria"
+    },
+    "species": {
+      "en": "Garden strawberry",
+      "la": "Fragaria x ananassa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivar Group",
+        "name": "多数の栽培品種が存在するが、公式な品種群分類は一般的ではない。"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "イチゴの文化的価値は近代以降に形成されたものが主だが、その影響は世界的である。親種の文化的価値も考慮した。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "デザート用食材"
+        ],
+        "traditional_uses": "近代に誕生したため「伝統的」利用は浅いが、夏の到来を告げる象徴的な果物として定着。ジャム、ケーキ、菓子類に多用される。",
+        "seasonal_significance": "初夏を象徴する果物として、季節の祭りや行事と結びつくことが多い。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "主食",
+          "儀式用"
+        ],
+        "traditional_uses": "栽培種は主要な経済作物。親種である野生イチゴは多くの先住民文化で重要視され、春の最初の実りとして共同体で収穫され、儀式で食された。",
+        "seasonal_significance": "ストロベリー・フェスティバルが各地で開催され、地域の重要な文化イベントとなっている。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "高級贈答品"
+        ],
+        "traditional_uses": "特に日本では、高品質なイチゴが冬から春にかけての贈答品として高い文化的価値を持つ。クリスマスケーキの主要な装飾としても定着。",
+        "seasonal_significance": "ハウス栽培の普及により冬の果物というイメージも強いが、本来の旬は春。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス菓子",
+        "role": "essential",
+        "traditional_dishes": [
+          "フレジェ",
+          "タルト・オ・フレーズ"
+        ],
+        "preparation_methods": [
+          "生食",
+          "コンフィチュール",
+          "ムース"
+        ],
+        "cultural_context": "パティスリー文化において、春から初夏の季節感を表現するための中心的な食材。"
+      },
+      {
+        "cuisine": "和菓子",
+        "role": "common",
+        "traditional_dishes": [
+          "いちご大福"
+        ],
+        "preparation_methods": [
+          "生食"
+        ],
+        "cultural_context": "伝統的な和菓子にあんこと共に包み込むことで、和洋折衷の新しい味覚として1980年代以降に国民的人気を得た。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "親種である野生イチゴは古代ローマ時代から知られ、薬用や食用に利用されていた。",
+      "trade_routes": "18世紀に北米と南米の種がヨーロッパに持ち込まれ、交雑されたことで誕生。大航海時代以降の植物交流の象徴的な産物である。",
+      "cultural_exchange": "誕生後、優れた食味から世界中に栽培技術が伝播。各地域で独自の品種改良が進み、地域の食文化に取り入れられた。",
+      "domestication_history": "明確な交雑起源を持つ、近代育種の成功例。単一の起源から爆発的に多様な栽培品種が分化した歴史を持つ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿により病害が多発し、開花・結実が困難。高冷地や特殊な栽培技術が必要。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬の低温を利用して栽培が可能。短日性品種が主に利用される。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最も栽培に適した気候帯。適度な冬の低温が休眠打破に必要で、春から初夏の温暖な気候で生育・結実する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の寒暖差が大きい地域でも栽培可能だが、冬の厳しい凍結への対策が必要。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため、灌漑設備がなければ栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高の高い地域では、夏期の冷涼な気候を利用した夏秋どり栽培が行われる。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "秋",
+        "harvest_season": "春から初夏",
+        "growing_period_days": 180
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋",
+        "harvest_season": "冬から春",
+        "growing_period_days": 150
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 60,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "日照時間",
+        "温度管理",
+        "受粉成功率",
+        "土壌肥沃度",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約9,000,000トン (FAOSTAT 2021年)",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 37.0,
+          "characteristics": "圧倒的な生産量を誇り、国内消費が中心。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": 14.0,
+          "characteristics": "カリフォルニア州が主産地。生食および加工用の大規模生産。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": 7.0,
+          "characteristics": "地中海性気候を活かした生産。ヨーロッパへの輸出が多い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な果物であるため、栄養成分に関するデータは豊富。機能性成分に関する研究も多数存在する。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": 32,
+        "protein_g": 0.7,
+        "carbs_g": 7.7,
+        "fat_g": 0.3,
+        "fiber_g": 2.0
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "58.8 mg",
+          "daily_value_percent": 98
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.4 mg",
+          "daily_value_percent": 19
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "24 µg",
+          "daily_value_percent": 6
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントシアニン（ペラルゴニジン）",
+        "concentration": "品種によるが、20-60 mg/100g",
+        "health_effect": "強力な抗酸化作用、抗炎症作用、心血管保護効果。"
+      },
+      {
+        "compound": "エラグ酸",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用、抗がん作用の可能性が研究されている。"
+      },
+      {
+        "compound": "フィセチン",
+        "concentration": "可変",
+        "health_effect": "老化細胞の除去（セノリティクス）作用に関する研究が進行中。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "利尿",
+          "消化不良の改善",
+          "皮膚炎の湿布"
+        ],
+        "preparation": "主に野生種(Fragaria vesca)の葉を乾燥させてお茶として飲用。果実の湿布も利用された。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "心血管疾患リスクの低減",
+        "血糖コントロール改善",
+        "抗酸化・抗炎症作用"
+      ],
+      "ongoing_research": [
+        "認知機能改善効果",
+        "特定のがんに対する予防効果",
+        "腸内環境改善"
+      ],
+      "safety_considerations": "イチゴはアレルギー反応を引き起こすことがある。バラ科植物アレルギーを持つ人は注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中で利用されているため、調理法や加工法に関する情報は極めて豊富である。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "グローバル",
+        "methods": [
+          "生食",
+          "ジャム・コンポート",
+          "焼き菓子（パイ、ケーキ）",
+          "スムージー・ジュース",
+          "サラダ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "クリーム",
+          "チョコレート",
+          "ミント",
+          "バルサミコ酢",
+          "ルバーブ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1年",
+        "quality_changes": "食感が柔らかくなるが、風味と栄養価は比較的保たれる。"
+      },
+      {
+        "method": "ジャム化（加糖煮）",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "ビタミンCは減少するが、ポリフェノール類は安定。糖度が高まる。"
+      },
+      {
+        "method": "フリーズドライ",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "栄養価と風味の保持に優れるが、食感はサクサクに変化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘味と酸味のバランスが特徴。品種により香りの強さや糖度が大きく異なる。",
+      "aroma_compounds": [
+        "フラネオール（カラメル様、甘い香り）",
+        "メシルフラネオール（イチゴ様）",
+        "リナロール（フローラル）"
+      ],
+      "texture_characteristics": "ジューシーで柔らかい果肉。表面の痩果（種子に見える部分）が独特の食感を与える。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要作物であるため気候変動影響に関する研究は多いが、品種が多様なため一概に評価するのは難しい。耐性に関するデータは実験室レベルのものが多く、圃場での実証は限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°Cを超えると花芽形成不全、受精障害、果実の品質低下が顕著になる。",
+      "cold_tolerance": "-5°C（休眠期）。品種により耐寒性は異なる。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。根が浅く、乾燥に非常に弱い。",
+      "flood_tolerance": "低。過湿は根腐れ病の主要な原因となる。",
+      "optimal_rainfall": "栽培期間中、週に25-40mm程度の定期的な降雨または灌漑が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い。強風や豪雨は花や果実を容易に損傷させる。",
+      "hail_damage_recovery": "低い。果実が直接被害を受けると商品価値を失う。",
+      "rapid_temperature_change": "開花期の急激な低温（霜）は雌しべを損傷させ、不稔や奇形果の原因となる。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。CO2濃度上昇は光合成を促進し収量を増加させる可能性があるが、高温ストレスがそれを相殺する可能性がある。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンは葉に斑点を生じさせ、生育を阻害する。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、ハダニ類やアザミウマ類の発生時期が早まり、世代交代が速まることで被害が増大する傾向にある。",
+      "disease_resistance_stability": "高温多湿は炭疽病やうどんこ病の発生を助長し、抵抗性品種の育成が追いつかない可能性がある。",
+      "beneficial_organism_relationships": "高温は訪花昆虫（ミツバチなど）の活動を抑制し、受粉不良を引き起こすリスクがある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯全域、亜熱帯の冬期",
+        "2050_projection": "現在の主産地（カリフォルニア、スペイン南部など）では水不足と熱ストレスが増大。栽培適地はより高緯度・高標高地域へシフトする可能性が高い。",
+        "2100_projection": "RCP8.5シナリオでは、多くの伝統的産地での露地栽培が困難になる可能性。施設栽培への依存が高まる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "イチゴ属(Fragaria)は異数性や種間交雑が頻繁に起こることで知られており、その遺伝的多様性と交雑親和性は育種の基盤となっている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": "栽培品種(F. x ananassa)間では容易に交雑可能。",
+      "interspecific_compatibility": [
+        "F. virginiana",
+        "F. chiloensis",
+        "F. vesca"
+      ],
+      "intergeneric_possibility": "近縁のキジムシロ属(Potentilla)との属間交雑の報告があるが、一般的ではない。",
+      "successful_natural_hybrids": "F. x ananassa自体が人為的ではあるが交雑の成功例。野生下では、異なる倍数性のイチゴ属植物が共存する地域で自然交雑が報告されている。"
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "近代に成立したため在来品種は少ないが、世界各地で育成された多様な栽培品種が存在する。",
+      "wild_gene_pool": "イチゴ属には二倍体から十倍体までの多様な野生種が存在し、耐病性、耐ストレス性、香味成分などの貴重な遺伝子供給源となっている。",
+      "adaptive_genetic_variation": "野生の親種は北米から南米まで広範囲に分布し、それぞれの環境に適応した遺伝的変異を保持している。",
+      "inbreeding_depression_risk": "特定の優良形質を追求した品種では遺伝的多様性が低下し、近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "チリ沿岸部",
+        "environmental_pressure": "塩分を含んだ潮風、砂質土壌、乾燥",
+        "adaptive_response": "親種であるF. chiloensisは、厚くクチクラ層が発達した葉を持ち、匍匐性の草姿で乾燥と強風に適応している。",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による耐塩性・耐乾性形質の獲得。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐病性、耐乾性、耐塩性などの気候耐性を向上させる高いポテンシャルがある。",
+      "improved_nutritional_content": "野生種には特有のポリフェノールやビタミンを高濃度に含むものがあり、栄養価改善に利用可能。",
+      "novel_characteristics": "野生種から新たな香り（ムスク香など）や果実色（白、黄）を導入する育種が進められている。",
+      "hybrid_vigor_potential": "遠縁の野生種との交雑により、強健性や生産性の向上（雑種強勢）が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違い（例：二倍体のF. vescaと八倍体のF. x ananassa）が主要な交雑障壁となる。",
+      "chromosome_compatibility": "コルヒチン処理による染色体倍加技術などを用いて、倍数性の壁を克服する育種技術が確立されている。",
+      "fertility_of_hybrids": "異数体間の交雑では、雑種の稔性が低下することがある。",
+      "backcrossing_success": "戻し交配は、野生種から有用形質のみを栽培品種に導入するための常套手段である。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫（うどんこ病、炭疽病など）",
+        "adaptive_traits": "抵抗性遺伝子(R-gene)",
+        "heritability": "中〜高",
+        "response_to_selection": "強い選択圧下で抵抗性個体群が維持される。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "イチゴの多年草としての特性はリジェネラティブ農業に適する可能性があるが、慣行栽培ではプラスチックマルチや化学農薬への依存度が高く、システム全体としての評価が必要。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "根は浅いが、匍匐茎（ランナー）で広がり地表面を覆う。",
+      "organic_matter_contribution": "葉やランナーが枯死することで土壌有機物を供給する。",
+      "soil_structure_improvement": "多年草として定着させることで、土壌団粒構造の安定に寄与する可能性がある。",
+      "erosion_control": "地面を密に覆うため、降雨による土壌侵食を効果的に防止する。",
+      "nutrient_cycling_role": "特筆すべき能力はないが、菌根菌との共生によりリン酸吸収を促進する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期が長く、ミツバチ、マルハナバチ、ハナアブなど多様な花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "地被植物として、カブリダニなどの天敵昆虫の生息場所を提供する。",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌と共生関係を結び、土壌微生物叢の多様性に貢献する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により雨滴の衝撃を和らげ、土壌への水分浸透を助ける。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する（リビングマルチ効果）。",
+      "runoff_reduction": "密な植生が地表水の流出速度を遅らせる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。",
+      "below_ground_carbon": "多年草であるため、根系を通じて土壌への炭素蓄積に貢献するが、その量は限定的。",
+      "soil_carbon_enhancement": "不耕起栽培と組み合わせることで、土壌炭素の増加が期待できる。",
+      "carbon_sequestration_rate": "低いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（クローバーなど）：窒素供給",
+        "ボリジ：受粉昆虫を誘引",
+        "タマネギ・ニンニク：特定の病害虫を忌避"
+      ],
+      "natural_pest_control": "コンパニオンプランツの導入により、天敵を呼び寄せ害虫を抑制する効果が期待される。",
+      "nutrient_sharing": "菌根ネットワークを介した栄養共有の可能性がある。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草としての利用は、単年草中心のシステムよりも生態系の安定性を高める可能性がある。",
+      "stress_tolerance": "個々の株のストレス耐性は低いが、ランナーで繁殖するため個体群としての回復力は持つ。",
+      "recovery_capacity": "軽微なダメージからはランナーによる栄養繁殖で速やかに回復できる。",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界的な主要作物であり、現代の食システムにおける価値と可能性は広く認識されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミンCや抗酸化物質が豊富で、植物中心の食生活において栄養と彩りを加える重要な食材。",
+      "food_security_contribution": "主要な換金作物であり、多くの地域の農家経済を支えているが、主食作物としての食料安全保障への直接的貢献は低い。",
+      "local_food_system_integration": "観光農園（イチゴ狩り）など、地域のアグリツーリズムと結びつきやすい。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性表示食品としての展開",
+        "植物工場での通年生産・都市型農業",
+        "独自性の高い香りや色を持つ品種による高級ニッチ市場の開拓"
+      ],
+      "value_added_products": [
+        "フリーズドライ製品",
+        "天然着色料・香料",
+        "機能性成分を抽出したサプリメント",
+        "クラフトリキュール、ビネガー"
+      ],
+      "niche_market_value": "「白いちご」や特定の香りを持つ品種は、贈答用として非常に高い価格で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種自体の保全リスクは低いが、その遺伝的基盤である野生近縁種の保全が極めて重要。野生種の生息状況に関するデータは断片的。"
+    },
+    "genetic_erosion_risk": "高。商業栽培では少数の優良品種に生産が集中する傾向があり、多様な栽培品種が失われるリスクがある。また、野生近縁種の遺伝的多様性も危機に瀕している。",
+    "habitat_loss_threat": "野生の親種（F. virginiana, F. chiloensis）の自生地が、開発や気候変動により脅かされている。",
+    "climate_change_vulnerability": "栽培品種は気候変動に脆弱であり、適応のためには野生種の遺伝資源が不可欠。",
+    "cultural_erosion_risk": "中。先住民コミュニティにおける野生イチゴの伝統的知識や利用法が、生活様式の変化により失われつつある。",
+    "conservation_actions_needed": [
+      "野生近縁種の自生地（in-situ）保全",
+      "多様な栽培品種および野生種の遺伝資源のジーンバンク（ex-situ）での収集・保存",
+      "先住民コミュニティと連携した伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "北米東部（F. virginianaの多様性中心地）",
+      "南米チリ沿岸部（F. chiloensisの多様性中心地）",
+      "ユーラシア大陸（F. vescaなどの多様な二倍体種の生息地）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（米国農務省など）では多数の遺伝資源が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "一部の国立公園や保護区で自生地が保護されているが、イチゴ属を主眼とした保全活動は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "チリ、北米、日本"
+    ],
+    "knowledge_gaps": [
+      "野生近縁種の網羅的な遺伝子情報と生態調査",
+      "気候変動（複合ストレス）に対する品種ごとの定量的応答データ",
+      "リジェネラティブな栽培システムにおけるイチゴの生態系サービス機能の定量化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "著名な品種に関する情報は豊富。"
+      },
+      "variety_name": "あまおう (Amaou)",
+      "local_name": "あまおう",
+      "origin_region": "日本（福岡県）",
+      "distinctive_characteristics": "「あかい、まるい、おおきい、うまい」が特徴。大粒で甘みと酸味のバランスが良い。",
+      "cultural_importance": "日本の高級イチゴの代名詞的存在。贈答品として高い価値を持つ。",
+      "climate_adaptation": "ハウス栽培に特化。気候変動への直接的な耐性は低い。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "著名な品種に関する情報は豊富。"
+      },
+      "variety_name": "Camarosa",
+      "local_name": "Camarosa",
+      "origin_region": "アメリカ合衆国（カリフォルニア州）",
+      "distinctive_characteristics": "果実が硬く、輸送性に優れる。収量性が高い。風味は中程度。",
+      "cultural_importance": "世界のイチゴ貿易を支えてきた基幹品種の一つ。大規模農業の象徴。",
+      "climate_adaptation": "特定の温暖・乾燥気候に適応しているが、耐病性は中程度。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "著名な品種に関する情報は豊富。"
+      },
+      "variety_name": "Fragaria chiloensis",
+      "local_name": "Beach Strawberry / Fresa chilena",
+      "origin_region": "南米チリ、北米太平洋岸",
+      "distinctive_characteristics": "栽培イチゴの親種の一つ。小粒で白い果実をつける系統もある。耐塩性、耐乾性に優れる。",
+      "cultural_importance": "マプチェ族などの先住民文化で利用されてきた。近代イチゴ誕生の歴史的キープレイヤー。",
+      "climate_adaptation": "沿岸部の過酷な環境に適応しており、気候変動適応育種の貴重な遺伝資源。",
+      "conservation_status": "自生地で減少傾向"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "USDA National Nutrient Database",
+      "GRIN-Global (Germplasm Resources Information Network)",
+      "Scientific literature on plant genetics and climate science (e.g., IPCC reports)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの複合的ストレス応答の解明",
+      "野生近縁種の生態と遺伝的多様性の網羅的評価"
+    ],
+    "regional_data_coverage": "北米、ヨーロッパ、東アジアにデータが豊富。アフリカ、南米、中央アジアに関する詳細データは限定的。",
+    "missing_information": [
+      "アフリカ地域におけるイチゴ栽培の文化的意義",
+      "多くの野生種の詳細な機能性成分データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

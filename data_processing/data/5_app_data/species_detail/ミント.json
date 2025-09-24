@@ -1,0 +1,741 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Mentha属に関する情報は、主要な植物学データベース、民族植物学の研究、農業報告書に広く存在する。ただし、多数の種と自然交雑種が存在するため、種レベルでの特性は多様である。"
+    },
+    "primary_name": "Mint",
+    "scientific_name": "Mentha",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "花"
+    ],
+    "origin_region": "ヨーロッパ、アジア、アフリカの温帯地域（特に地中海沿岸が多様性の中心）",
+    "wild_relatives": [
+      "Mentha longifolia",
+      "Mentha aquatica",
+      "Mentha arvensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中で広く栽培・利用されているため、各言語での名称は豊富に記録されている。"
+    },
+    "international": {
+      "en": [
+        "Mint",
+        "Spearmint",
+        "Peppermint"
+      ],
+      "scientific_common": "Mentha"
+    },
+    "regional": [
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "نعناع",
+            "script": "Arabic"
+          },
+          {
+            "lang": "tr",
+            "name": "Nane",
+            "script": "Latin"
+          },
+          {
+            "lang": "fa",
+            "name": "نعنا",
+            "script": "Persian"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "पुदीना",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Menthe",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Minze",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Menta",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ミント / 薄荷",
+            "script": "Japanese"
+          },
+          {
+            "lang": "zh",
+            "name": "薄荷",
+            "script": "Han"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "北米の多くの先住民コミュニティ",
+        "name": "（多様な言語での呼称が存在）",
+        "cultural_significance": "風邪や消化不良の治療薬として、また儀式での薫蒸や清めのために広く利用されてきた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類は確立されているが、種間の自然交雑が頻繁に起こるため、種の同定は時に困難である。"
+    },
+    "family": {
+      "en": "Mint family",
+      "la": "Lamiaceae"
+    },
+    "genus": {
+      "en": "Mint",
+      "la": "Mentha"
+    },
+    "species": {
+      "en": "Spearmint (representative example)",
+      "la": "Mentha spicata"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Hybrid",
+        "name": "Mentha × piperita (Peppermint)"
+      },
+      {
+        "rank": "Variety",
+        "name": "Mentha arvensis var. piperascens (Japanese mint)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "古代から現代まで、世界中の文化で多様な役割を果たしており、その記録は非常に豊富である。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "中東・北アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "飲料",
+          "薬用",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "モロッコのミントティー（アッツァイ）は歓迎とホスピタリティの象徴。タブーレなどのサラダに不可欠なハーブ。",
+        "seasonal_significance": "夏に清涼感を与える飲料として特に重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ・北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "香辛料",
+          "薬用",
+          "飲料",
+          "菓子"
+        ],
+        "traditional_uses": "英国ではラム肉のミントソース、米国ではミントジュレップやモヒートといったカクテル、菓子や歯磨き粉の香料として広く利用。",
+        "seasonal_significance": "特になし。通年で利用される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "飲料"
+        ],
+        "traditional_uses": "プディナ・チャツネ（ミントのソース）やライタ（ヨーグルトサラダ）に必須。アーユルヴェーダでは消化促進や解熱に用いられる。",
+        "seasonal_significance": "暑い季節に体を冷やす効果があるとされ、消費が増える。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "マグレブ料理（北アフリカ）",
+        "role": "essential",
+        "traditional_dishes": [
+          "Maghrebi Mint Tea"
+        ],
+        "preparation_methods": [
+          "煎じる"
+        ],
+        "cultural_context": "客人を歓迎するための儀式的な飲み物であり、社会的なコミュニケーションの中心に位置する。"
+      },
+      {
+        "cuisine": "イギリス料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Mint Sauce"
+        ],
+        "preparation_methods": [
+          "刻む",
+          "酢漬け"
+        ],
+        "cultural_context": "伝統的な日曜日のローストラムに添えられる、古典的で象徴的な調味料。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプトでは薬用・香料として、古代ギリシャ・ローマでは料理、薬、宗教儀式に利用された記録がある。",
+      "trade_routes": "その保存性の高さと強い香りから、シルクロードを含む古代の交易路で取引された。",
+      "cultural_exchange": "アラブ世界からヨーロッパへ、ヨーロッパから新世界へと伝播し、各地域の食文化と融合した。",
+      "domestication_history": "特定の種の栽培化の歴史は不明確だが、古代から野生種の利用と庭先での栽培が並行して行われてきたと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や雨季など、比較的涼しく湿潤な条件下で栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬から春にかけてが最適。夏の高温多湿は病害を誘発することがある。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけて旺盛に生育。多くの種にとって最適な気候帯。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏に生育し、冬は地上部が枯れて休眠する。耐寒性は種によって異なる。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑がなければ栽培は困難。水分要求量が高い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "一部の野生種は高地環境に適応している。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "初夏から秋（複数回）",
+        "growing_period_days": "60-90"
+      }
+    ],
+    "productivity": {
+      "yield_range": "生葉で10,000-25,000 kg/ha（商業生産、複数回収穫）",
+      "factors_affecting_yield": [
+        "水分供給",
+        "日照",
+        "土壌肥沃度",
+        "収穫頻度",
+        "病害（特にさび病）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（精油と生鮮・乾燥ハーブの合計データは限定的）",
+      "major_producers": [
+        {
+          "country": "モロッコ",
+          "production_share": "不明",
+          "characteristics": "主に国内消費用のミントティー向けに大規模生産。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "ペパーミント、スペアミントの精油生産で世界をリード。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "ジャパニーズミント（ハッカ）の精油（メントール）生産が世界最大規模。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変異が大きい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "44",
+        "protein_g": "3.29",
+        "carbs_g": "8.41",
+        "fat_g": "0.73",
+        "fiber_g": "6.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA",
+          "amount": "136% of RDI",
+          "daily_value_percent": 136
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "49% of RDI",
+          "daily_value_percent": 49
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "15% of RDI",
+          "daily_value_percent": 15
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "メントール",
+        "concentration": "ペパーミントに豊富",
+        "health_effect": "清涼感、鎮痛、鎮痙作用"
+      },
+      {
+        "compound": "カルボン",
+        "concentration": "スペアミントに豊富",
+        "health_effect": "香味成分、抗菌作用"
+      },
+      {
+        "compound": "ロスマリン酸",
+        "concentration": "多くの種に含有",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "世界中",
+        "medical_system": "伝統中国医学、アーユルヴェーダ、ヨーロッパのハーブ療法など",
+        "uses": [
+          "消化不良、吐き気の緩和",
+          "風邪、鼻づまりの症状緩和",
+          "頭痛の鎮静",
+          "皮膚のかゆみ止め"
+        ],
+        "preparation": "お茶、湿布、蒸気吸入、チンキ剤"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "過敏性腸症候群（IBS）の症状緩和（ペパーミントオイル）",
+        "抗菌・抗ウイルス作用",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "認知機能への影響",
+        "抗がん作用の可能性"
+      ],
+      "safety_considerations": "乳幼児へのメントールの高濃度使用は避けるべき。胃食道逆流症（GERD）を悪化させる可能性あり。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理での利用法が広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "中東・地中海",
+        "methods": [
+          "生でサラダに加える",
+          "刻んでヨーグルトソースに混ぜる",
+          "肉料理の詰め物"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "パセリ",
+          "キュウリ",
+          "ヨーグルト",
+          "ラム肉"
+        ]
+      },
+      {
+        "region": "東南アジア・南アジア",
+        "methods": [
+          "ペーストにしてソースにする（チャツネ）",
+          "生で春巻きやサラダに入れる",
+          "飲み物の風味付け"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "コリアンダー",
+          "唐辛子",
+          "ライム",
+          "ココナッツミルク"
+        ]
+      },
+      {
+        "region": "欧米",
+        "methods": [
+          "デザート（アイスクリーム、チョコレート）の風味付け",
+          "カクテルの材料",
+          "肉料理のソース",
+          "お茶として飲む"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "チョコレート",
+          "フルーツ",
+          "ラム肉",
+          "ライム"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りの一部が失われるが、保存性が向上する。"
+      },
+      {
+        "method": "精油抽出（水蒸気蒸留）",
+        "regions": [
+          "アメリカ",
+          "インド",
+          "中国"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "香気成分が高度に濃縮される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽快で清涼感があり、種によって甘み、辛み、苦味のバランスが異なる。",
+      "aroma_compounds": [
+        "メントール",
+        "カルボン",
+        "メントン",
+        "プレゴン",
+        "リモネン"
+      ],
+      "texture_characteristics": "生葉は柔らかく、わずかにざらつきがある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、気候変動シナリオ下での定量的な実験データは非常に少ない。以下の評価は、植物の一般的特性からの推定を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "高温は精油の品質を低下させ、病害を増加させるが、植物自体は生き残ることが多い。",
+      "cold_tolerance": "-10°C以下（地上部は枯れるが、地下茎で越冬）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。湿潤な土壌を好む。",
+      "flood_tolerance": "低（長期間の湛水には弱い）",
+      "optimal_rainfall": "600-1200mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒れやすいが、地下茎からの再生能力が高い。",
+      "hail_damage_recovery": "高い。損傷後、速やかに新しい芽を出す。",
+      "rapid_temperature_change": "中程度の適応性を持つ。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "一部の研究では、CO2濃度の上昇がバイオマスと精油収量を増加させる可能性が示唆されている。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、さび病やうどんこ病の発生時期や地域が拡大する可能性がある。",
+      "disease_resistance_stability": "種や品種によって抵抗性に大きな差がある。",
+      "beneficial_organism_relationships": "多様な訪花昆虫を引き寄せるため、送粉サービスの安定性には貢献する。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "世界の温帯・亜熱帯地域",
+        "2050_projection": "高緯度地域への栽培適地の北上。既存の低緯度地域では灌漑への依存度が高まる。",
+        "2100_projection": "北上傾向がさらに進む。一部の地中海性気候地域では、夏の極端な乾燥と熱波により栽培が困難になる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Mentha属は、種間の自然交雑が非常に容易であることで植物学的に有名であり、多くの研究と観察記録が存在する。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "同一種内の多様な栽培品種や地域個体群は容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Mentha aquatica",
+        "Mentha spicata",
+        "Mentha longifolia",
+        "Mentha arvensis"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "Mentha × piperita (Peppermint)",
+        "Mentha × gracilis (Ginger Mint)",
+        "Mentha × villosa (Mojito Mint)"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "世界各地に多様な在来種（ランドレース）が存在し、それぞれが異なる香りと特性を持つ。",
+      "wild_gene_pool": "野生近縁種との遺伝子流動が頻繁に起こり、これが高い遺伝的多様性の源となっている。",
+      "adaptive_genetic_variation": "広範な分布域全体で、地域の気候や土壌に適応した遺伝的変異が豊富に存在する。",
+      "inbreeding_depression_risk": "低い。主に栄養繁殖で増えるが、他家受精が基本であり遺伝的多様性が維持されやすい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ユーラシア大陸全域",
+        "environmental_pressure": "緯度、標高、水分条件の勾配",
+        "adaptive_response": "開花時期、耐寒性、精油成分の組成の変化",
+        "time_scale": "数百年～数千年",
+        "mechanism": "自然選択と野生種間の遺伝子流動による局所適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐病性や特定のストレス（例：塩害）に強い野生種との交雑により、耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "特定の機能性成分（例：抗酸化物質）を多く含む種との交雑により、栄養価を改変できる可能性がある。",
+      "novel_characteristics": "新しい香りの組み合わせや、異なる成長習性を持つハイブリッドが自然に、あるいは人為的に生み出されてきた。",
+      "hybrid_vigor_potential": "非常に高い。多くの交雑種は両親よりも強健で生育旺盛である。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の交雑障壁は非常に低い。",
+      "chromosome_compatibility": "染色体数が異なる種間でも交雑が起こることがある。",
+      "fertility_of_hybrids": "多くの交雑種は不稔または稔性が低下するが（例：ペパーミント）、栄養繁殖で容易に維持できる。",
+      "backcrossing_success": "比較的容易に行われる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "草食動物による食害",
+        "adaptive_traits": "特定の精油成分（メントール、プレゴンなど）の生産による化学的防御",
+        "heritability": "高い",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ミントの再生可能農業への貢献に関する直接的な研究は限られるが、その生態学的特性から高いポテンシャルが推測される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、密に広がる地下茎（リゾーム）を持つ。",
+      "organic_matter_contribution": "活発な地上部の成長と枯死により、土壌表層に有機物を供給する。",
+      "soil_structure_improvement": "細かい根と地下茎が土壌粒子を繋ぎ、団粒構造の安定に寄与する可能性がある。",
+      "erosion_control": "地表を密に覆うため、雨滴による土壌侵食を防ぐグランドカバーとして非常に有効。",
+      "nutrient_cycling_role": "表層土壌からの養分吸収効率が高い。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチ、ハナアブ、蝶など多様な花粉媒介者にとって魅力的な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "捕食性のカメムシやテントウムシなどの天敵昆虫に隠れ家を提供する。",
+      "soil_microorganism_interaction": "根圏で多様な微生物群集と共生していると考えられるが、詳細は不明。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "密な被覆が地表流出を遅らせ、雨水の土壌への浸透を促進する。",
+      "moisture_retention": "地表を覆うことで土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "高い",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。頻繁な収穫により地上部バイオマスは定期的に除去される。",
+      "below_ground_carbon": "密な地下茎と根系により、土壌炭素として蓄積するポテンシャルが高い。",
+      "soil_carbon_enhancement": "高い",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "キャベツ、トマト"
+      ],
+      "natural_pest_control": "強い香りがコナガ、アブラムシ、アリなどを忌避する効果があるとされる。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を抑制するアレロパシー効果を持つ可能性があり、雑草抑制に寄与する一方、主作物への影響も考慮が必要。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生であるため、土壌を恒久的に被覆し、生態系の安定に貢献する。",
+      "stress_tolerance": "物理的な攪乱（刈り取り、踏圧）からの回復力が非常に高い。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い遺伝的多様性と交雑能力により、環境変化への適応ポテンシャルを持つ。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代における商業的・産業的利用は非常に広範かつ詳細に記録されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "飲料や料理の風味付けとして、砂糖や塩分の使用を減らすのに役立つ可能性がある。",
+      "food_security_contribution": "主食ではないが、小規模農家の現金収入源として食料安全保障に間接的に貢献する。",
+      "local_food_system_integration": "家庭菜園でも容易に栽培でき、地域の食品システムに組み込みやすい。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性飲料市場",
+        "自然派化粧品・パーソナルケア製品",
+        "代替医療・アロマテラピー市場"
+      ],
+      "value_added_products": [
+        "精油（エッセンシャルオイル）",
+        "ハーブティー",
+        "リキュール",
+        "濃縮エキス",
+        "乾燥ハーブ"
+      ],
+      "niche_market_value": "特定の香りや機能性を持つ希少な品種（例：チョコレートミント、オーデコロンミント）は、ニッチ市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "一般的な栽培種の保全状況は良好だが、地域の在来種や野生種の状況に関するデータは断片的である。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "湿地や河川敷など、多くの野生種が生育する環境の開発や汚染が脅威となっている。",
+    "climate_change_vulnerability": "特定の生息域（高山、湿地）に固有の種は、気候変動に対して脆弱である可能性がある。",
+    "cultural_erosion_risk": "伝統的な薬用利用に関する知識が、若い世代に継承されずに失われるリスクがある。",
+    "conservation_actions_needed": [
+      "野生種の生息域内（in-situ）保全",
+      "多様な在来種や野生種の遺伝資源の種子バンク等での域外（ex-situ）保全",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸地域",
+      "中央アジア"
+    ],
+    "ex_situ_conservation_status": "主要な遺伝資源バンクには多数の品種が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "一部の保護区で野生種の保全が行われているが、体系的な取り組みは限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本項目の評価は、収集された情報全体を統合・分析した結果に基づく。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海地域（遺伝的多様性の中心地）",
+      "北アフリカ（文化的重要性と栽培技術）",
+      "アンデス山脈（高地に適応した野生種の調査）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に干ばつと熱波）に対する各種・品種の生理学的応答に関する定量的データ",
+      "土壌炭素貯留能力の定量的評価",
+      "伝統的知識の体系的な記録と科学的検証"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な栽培品種に関する情報は豊富である。"
+      },
+      "variety_name": "Spearmint",
+      "local_name": "スペアミント",
+      "origin_region": "ヨーロッパ、南西アジア",
+      "distinctive_characteristics": "メントール含量が少なく、主成分はカルボン。比較的甘く、爽やかな香り。槍（spear）のような形の花穂を持つ。",
+      "cultural_importance": "世界で最も広く料理に利用されるミント。特に中東のサラダや欧米のソース、ガムに使われる。",
+      "climate_adaptation": "温帯気候に最も適している。比較的強健。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な栽培品種に関する情報は豊富である。"
+      },
+      "variety_name": "Peppermint",
+      "local_name": "ペパーミント",
+      "origin_region": "イギリス（自然交雑種として発見）",
+      "distinctive_characteristics": "Mentha aquaticaとMentha spicataの自然交雑種。メントール含量が高く、強い清涼感と刺激的な香りを持つ。",
+      "cultural_importance": "主に精油の原料として工業的に栽培される。ハーブティー、菓子、医薬品に利用。",
+      "climate_adaptation": "湿潤で冷涼な気候を好む。スペアミントより特定の環境への要求度が高い。",
+      "conservation_status": "懸念なし（栽培品種）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な栽培品種に関する情報は豊富である。"
+      },
+      "variety_name": "Japanese Mint (Hakuto)",
+      "local_name": "ハッカ（薄荷）",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "Mentha arvensisの一変種。メントール含量が極めて高く、メントールクリスタル（ハッカ脳）の原料となる。",
+      "cultural_importance": "伝統的にアジアで薬用、香料として利用。世界的なメントール生産の主要な源。",
+      "climate_adaptation": "比較的広範な気候に適応する。",
+      "conservation_status": "懸念なし"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-16",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens - Plants of the World Online",
+      "USDA National Nutrient Database",
+      "Ethnopharmacology and Traditional Medicine scientific literature",
+      "FAO agricultural reports"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答の比較研究",
+      "野生種の遺伝資源の網羅的な評価と保全状況"
+    ],
+    "regional_data_coverage": "北米、ヨーロッパ、中東、南アジアのデータは豊富だが、アフリカ、南米、オセアニアの地域固有種や利用法に関するデータは比較的少ない。",
+    "missing_information": [
+      "炭素隔離速度の定量的データ",
+      "アレルゲン情報",
+      "先住民コミュニティにおける詳細な伝統的知識"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

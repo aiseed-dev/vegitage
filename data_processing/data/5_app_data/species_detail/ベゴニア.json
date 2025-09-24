@@ -1,0 +1,609 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ベゴニア属は2,000種以上を含む巨大な属であり、主に観賞用として知られている。食用の情報は特定の種に限定され、断片的である。本データは属全体を対象としつつ、食用が報告されている種を中心に情報を統合した。"
+    },
+    "primary_name": "Begonia",
+    "scientific_name": "Begonia L.",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "花"
+    ],
+    "origin_region": "アメリカ大陸、アフリカ、アジアの熱帯・亜熱帯地域",
+    "wild_relatives": [
+      "Begonia属内の2,000以上の野生種"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "国際的には学名『Begonia』が通用する。食用としての地域名は非常に限定的で、網羅的なリストの作成は困難。"
+    },
+    "international": {
+      "en": [
+        "Begonia"
+      ],
+      "scientific_common": "Begonia"
+    },
+    "regional": [
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "ms",
+            "name": "Asam-asam",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Libog",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "as",
+            "name": "Tenga-mora",
+            "script": "Bengali–Assamese"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "シュウカイドウ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "秋海棠",
+            "script": "Han"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "イゴロット族（フィリピン）",
+        "name": "不明",
+        "cultural_significance": "酸味付けのための食材として利用されることがある。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類学的情報は確立されている。本項目は属レベルの情報を示す。"
+    },
+    "family": {
+      "en": "Begonia family",
+      "la": "Begoniaceae"
+    },
+    "genus": {
+      "en": "Begonia",
+      "la": "Begonia"
+    },
+    "species": {
+      "en": "Begonia (various species)",
+      "la": "Begonia spp."
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Note",
+        "name": "食用として知られる種には B. grandis, B. cucullata, B. mannii などがあるが、本データは属全体を対象とする。"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用としての文化的価値は非常に地域限定的。観賞用植物としての文化的価値は世界的に高いが、本プロンプトの趣旨に従い食用に限定して評価。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア島嶼部",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "主にスープや煮込み料理の酸味付けとして利用される。薬用としては解熱や咳止めに用いられることがある。",
+        "seasonal_significance": "雨季に自生するものを採取して利用することが多い。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "インド北東部",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "チャツネやカレーの酸味付けとして葉や茎が利用される。伝統医学での利用も見られる。",
+        "seasonal_significance": "モンスーン期に利用されることが多い。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フィリピン北部山岳地帯料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "Pinikpikan（鶏肉スープ）の酸味付け"
+        ],
+        "preparation_methods": [
+          "煮込み"
+        ],
+        "cultural_context": "伝統的な儀式料理において、タマリンドなどの一般的な酸味料の代用として地域的に利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "食用としての古代利用の記録はほとんどない。主に地域コミュニティによる口承伝承に留まる。",
+      "trade_routes": "交易品としての歴史的価値は確認されていない。",
+      "cultural_exchange": "19世紀以降、観賞用植物として世界中に広まり、園芸文化において重要な役割を果たした。",
+      "domestication_history": "食用のための栽培化は行われておらず、主に野生種の採取か、観賞用からの転用である。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高湿度、半日陰の森林環境。水はけの良い土壌。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬期の霜を避けた湿潤な環境。夏は直射日光を避ける。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "多くの種は耐寒性がなく、温室や室内での管理が必要。一部の種（シュウカイドウなど）は露地栽培可能。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "一部アンデス原産の種は高地に適応するが、一般的ではない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "通年（主に雨季）",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（食用としての商業生産データなし）",
+      "factors_affecting_yield": [
+        "湿度",
+        "日照条件",
+        "土壌水分"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（食用としては統計なし）",
+      "major_producers": [
+        {
+          "country": "オランダ",
+          "production_share": null,
+          "characteristics": "観賞用植物として世界最大級の生産国。食用ではない。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": null,
+          "characteristics": "観賞用植物として大規模な生産が行われている。食用ではない。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栄養価に関する科学的データは極めて限定的。シュウ酸を多く含むことが知られており、過剰摂取には注意が必要。民族植物学的記録が主な情報源。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "シュウ酸（Oxalic acid）",
+        "concentration": "種によって異なるが高い傾向",
+        "health_effect": "酸味の源。多量摂取は腎臓結石のリスクを高める可能性がある。"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用が期待される。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東南アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "解熱",
+          "咳止め",
+          "皮膚疾患の湿布"
+        ],
+        "preparation": "葉や茎をすり潰して湿布にする、または煎じて飲む。"
+      },
+      {
+        "region": "アフリカ",
+        "medical_system": "伝統医学",
+        "uses": [
+          "胃腸の不調改善",
+          "鎮痛"
+        ],
+        "preparation": "根や葉を煎じる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "一部の種における抗菌・抗酸化活性の基礎研究"
+      ],
+      "safety_considerations": "シュウ酸を多く含むため、腎臓疾患を持つ人は摂取を避けるべき。生での大量摂取は推奨されない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "利用法は地域に根ざしているが、調理の基本原則（酸味付け）は共通している。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東南アジア",
+        "methods": [
+          "煮込み",
+          "スープの具"
+        ],
+        "flavor_role": "酸味料",
+        "typical_combinations": [
+          "魚",
+          "鶏肉",
+          "唐辛子"
+        ]
+      },
+      {
+        "region": "世界（現代料理）",
+        "methods": [
+          "生食（サラダ、飾り付け）"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "シーフード",
+          "デザート",
+          "カクテル"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "インド北東部"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "香りは弱まるが、酸味は残る。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い酸味（レモン、ソレル、ルバーブに似る）、わずかな青臭さ",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "生の葉や茎はシャキシャキして多汁。加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用植物としての気候変動適応性に関する研究は存在しない。観賞用としての栽培知識と、自生地の環境から推測した定性的評価。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "18-25°C",
+      "extreme_heat_survival": "30°C以上で生育が著しく阻害される種が多い。",
+      "cold_tolerance": "5°C以下でダメージを受ける種が多い。耐寒性のある一部の種を除く。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "年間1500mm以上の多湿環境を好む。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が脆く、強風で折れやすい。",
+      "hail_damage_recovery": "葉が傷つきやすいが、地下茎や塊茎を持つ種は再生能力がある。",
+      "rapid_temperature_change": "弱い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "低（多くが森林下層の植物であるため）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によるハダニやカイガラムシの増加に脆弱な可能性がある。",
+      "disease_resistance_stability": "高温多湿環境ではうどんこ病や灰色かび病が発生しやすく、気候変動でリスク増加の可能性。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "世界の熱帯・亜熱帯山地林",
+        "2050_projection": "生息域の分断化と縮小、より高地への移動が予測される。",
+        "2100_projection": "多くの種の生息適地が大幅に減少する可能性が高い。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 2
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "観賞用植物としての育種の歴史が長く、交雑親和性に関する知見は豊富。自然交雑も頻繁に起こる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数存在する"
+      ],
+      "interspecific_compatibility": [
+        "属内の異なるセクション間でも交雑可能な組み合わせが多く、園芸品種作出の基盤となっている。"
+      ],
+      "intergeneric_possibility": [
+        "近縁属 Hillebrandia との交雑は報告されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "自生地では、近縁種が同所的に分布する場合に自然交雑が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "食用としての在来品種は存在しない。",
+      "wild_gene_pool": "2,000種以上が存在し、形態、生態、耐性などに関して極めて広範な遺伝的多様性を持つ。",
+      "adaptive_genetic_variation": "多様な環境（石灰岩地、渓流沿い、林床など）に特化した種分化が見られ、適応的な遺伝変異が豊富に存在する。",
+      "inbreeding_depression_risk": "多くの種が雌雄同株異花であり、他家受粉が一般的。自家受粉による近交弱勢のリスクは種による。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ボルネオ島",
+        "environmental_pressure": "石灰岩質のアルカリ性土壌",
+        "adaptive_response": "特定の種群（例：Begonia sect. Diploclinium）が石灰岩地への適応（好石灰岩性）を進化させた。",
+        "time_scale": "数百万年",
+        "mechanism": "栄養素利用効率や水分保持に関する生理的適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐寒性、耐乾性、耐暑性を持つ野生種との交雑により、より強健な品種を作出できる可能性がある。",
+      "improved_nutritional_content": "シュウ酸含有量が低い種との交雑により、食用に適した品種が生まれる可能性がある。",
+      "novel_characteristics": "葉の色、形、質感、花の大きさや色など、観賞用育種で示されているように、多様な形質の組み合わせが可能。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違いや、属内の系統的に遠いセクション間では交雑不和合性が存在する。",
+      "chromosome_compatibility": "染色体数や構造が種によって多様である。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下したり、失われたりすることがある。",
+      "backcrossing_success": "園芸育種では広く用いられている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "光環境、土壌水分、土壌pH、花粉媒介者",
+        "adaptive_traits": "葉の形と模様、茎の形態（匍匐性、直立性、塊茎形成）、花の形態",
+        "heritability": "不明",
+        "response_to_selection": "顕著な適応放散を示している。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "none",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業におけるベゴニアの役割に関する研究は存在しない。森林下層植物としての一般的な生態的役割からの推測。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "多くは浅いひげ根。一部は塊茎や根茎を形成する。",
+      "organic_matter_contribution": "落葉により林床の有機物層形成に貢献する可能性がある。",
+      "soil_structure_improvement": "限定的",
+      "erosion_control": "地表を覆うことで、林床における土壌侵食を軽減する可能性がある。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの昆虫を引きつけ、花粉媒介者を支援する。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "アグロフォレストリーシステムの下層植生として多様性に貢献する可能性がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地被植物として土壌への雨滴の直接的インパクトを和らげる。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する可能性がある。",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "小さい",
+      "below_ground_carbon": "小さい",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "シェードガーデンやアグロフォレストリーにおける他の半日陰を好む植物（コーヒー、カカオなど）との混植"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "下層植生として生態系の層構造を豊かにする可能性がある。",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "地下部が残存すれば再生可能。",
+      "adaptability": "属全体としては高いが、個々の種は環境要求性が厳しい。"
+    },
+    "regenerative_score": 3
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な応用は主に観賞用だが、ニッチな食用市場での可能性も存在する。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "シュウ酸の問題があるため主要な栄養源にはなりにくい。",
+      "food_security_contribution": "限定的。救荒食としての利用に留まる。",
+      "local_food_system_integration": "アグロフォレストリーやパーマカルチャーにおいて、ニッチな産物として組み込むことは可能。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級レストラン向けの食用花やマイクログリーン",
+        "ユニークな酸味を持つ加工品（ソース、ジャム）"
+      ],
+      "value_added_products": [
+        "観賞用と食用の両方を訴求したポット苗",
+        "エディブルフラワーとしてのパック製品"
+      ],
+      "niche_market_value": "高い潜在性を持つ"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "IUCNレッドリストには多くのベゴニア種が絶滅危惧種としてリストアップされており、保全の必要性は非常に高い。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "熱帯雨林の伐採、農地転換、鉱山開発が最大の脅威。",
+    "climate_change_vulnerability": "高い。多くの種は特定の微気候に依存しており、気温上昇や降雨パターンの変化に脆弱。",
+    "cultural_erosion_risk": "高（食用・薬用に関する伝統知識の喪失）",
+    "conservation_actions_needed": [
+      "自生地（in-situ）の保護区設定",
+      "植物園などでの系統保存（ex-situ）",
+      "地域コミュニティと連携した保全活動",
+      "遺伝資源の評価と利用"
+    ],
+    "priority_conservation_regions": [
+      "東南アジア（特にボルネオ島、フィリピン）",
+      "南米のアンデス山脈",
+      "アフリカ中央部の熱帯雨林"
+    ],
+    "ex_situ_conservation_status": "世界の主要な植物園で多くの種が収集・栽培されているが、全種をカバーするには至っていない。",
+    "in_situ_conservation_efforts": "多くの自生地が国立公園や保護区に含まれているが、密猟や違法伐採の脅威に晒されている場所も多い。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 3,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "高（保全の観点から）",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 10,
+    "recommended_study_regions": [
+      "フィリピン・ルソン島北部",
+      "インド・アッサム地方",
+      "マレーシア・サラワク州"
+    ],
+    "knowledge_gaps": [
+      "食用種の正確な同定と分布",
+      "食用種のシュウ酸含有量と安全な調理法",
+      "伝統的薬用利用に関する薬理学的研究"
+    ],
+    "global_dictionary_compatibility": 7
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種ではなく、食用利用が報告されている代表的な『種』を記載。"
+      },
+      "variety_name": "Begonia grandis",
+      "local_name": "シュウカイドウ (Shukaido)",
+      "origin_region": "中国",
+      "distinctive_characteristics": "比較的耐寒性があり、日本の温帯域でも露地栽培が可能。葉や花に酸味がある。",
+      "cultural_importance": "日本では観賞用として庭に植えられることが多い。中国では薬用や一部で食用にされる。",
+      "climate_adaptation": "ベゴニア属の中では耐寒性が高い。",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種ではなく、食用利用が報告されている代表的な『種』を記載。"
+      },
+      "variety_name": "Begonia cucullata",
+      "local_name": "四季咲きベゴニア (Shikizaki Begonia)",
+      "origin_region": "南米",
+      "distinctive_characteristics": "強健で広く栽培される園芸種の原種の一つ。花にリンゴのような酸味があり、エディブルフラワーとして利用されることがある。",
+      "cultural_importance": "世界中で最も一般的な園芸植物の一つ。食用としての認知度は低い。",
+      "climate_adaptation": "耐暑性が比較的高いが、耐乾性・耐寒性は低い。",
+      "conservation_status": "Least Concern"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "IUCN Red List of Threatened Species",
+      "Ethnobotanical research papers on Begonia",
+      "Horticultural databases"
+    ],
+    "major_knowledge_gaps": [
+      "食用にされる種の網羅的なリストと栄養価の定量的データ",
+      "気候変動に対する各種の生理的応答に関する実験データ",
+      "リジェネラティブ農業システムにおける具体的な役割と効果"
+    ],
+    "regional_data_coverage": "東南アジアと東アジアの情報が比較的多いが、アフリカと南米の情報は断片的。",
+    "missing_information": [
+      "商業生産データ（食用）",
+      "品種改良の歴史（食用）"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

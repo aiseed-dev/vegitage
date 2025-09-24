@@ -1,0 +1,620 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew Gardens, GRIN-Global）および農学研究論文から統合。野生近縁種に関する情報は網羅的ではない。"
+    },
+    "primary_name": "Konjac",
+    "scientific_name": "Amorphophallus konjac K.Koch",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根"
+    ],
+    "origin_region": "東南アジア大陸部（中国雲南省、ベトナム、タイ、ミャンマーなど）",
+    "wild_relatives": [
+      "Amorphophallus paeoniifolius",
+      "Amorphophallus muelleri"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の学術文献および民族植物学データベースから名称を収集。先住民コミュニティ固有の名称に関するデータは限定的。"
+    },
+    "international": {
+      "en": [
+        "Konjac",
+        "Konnyaku",
+        "Devil's tongue",
+        "Voodoo lily",
+        "Elephant yam"
+      ],
+      "scientific_common": "Konjac"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "コンニャク（蒟蒻）",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "魔芋",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "곤약",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Iles-iles",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Củ nưa",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "บุก",
+            "script": "Thai"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "中国雲南省の少数民族",
+        "name": "不明",
+        "cultural_significance": "原産地である雲南省の多様な少数民族コミュニティにおいて、伝統的な救荒作物や食料源として利用されてきた歴史があるが、具体的な民族名と伝統名の関連付けに関する学術的記録は乏しい。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Arum family",
+      "la": "Araceae"
+    },
+    "genus": {
+      "en": "Voodoo lily",
+      "la": "Amorphophallus"
+    },
+    "species": {
+      "en": "Konjac",
+      "la": "A. konjac"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアの食文化史に関する文献は豊富。東南アジアでの伝統的利用に関する記録はやや断片的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "日本ではおでん、すき焼き、煮物などの具材として不可欠。精進料理にも用いられる。中国では伝統医学の薬材として、また四川料理などで食材として利用される。",
+        "seasonal_significance": "特に日本では冬の鍋料理に欠かせない食材として季節感と結びついている。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "原産地として古くから自生種の芋が食料とされてきた。インドネシアなどでは、コンニャク粉の原料として栽培され、重要な輸出用経済作物となっている。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "おでん",
+          "すき焼き",
+          "筑前煮",
+          "刺身こんにゃく",
+          "しらたき"
+        ],
+        "preparation_methods": [
+          "煮る",
+          "炒める",
+          "生食（アク抜き後）"
+        ],
+        "cultural_context": "「お腹の砂下ろし」として体内の掃除をすると信じられ、大晦日に食べる習慣が一部地域に存在する。独特の食感と味の染みやすさが特徴。"
+      },
+      {
+        "cuisine": "中国料理（特に四川・雲南）",
+        "role": "common",
+        "traditional_dishes": [
+          "火鍋の具材",
+          "魔芋焼鴨（コンニャクと鴨の煮込み）",
+          "炒め物"
+        ],
+        "preparation_methods": [
+          "煮る",
+          "炒める",
+          "和える"
+        ],
+        "cultural_context": "唐辛子や香辛料の効いた強い味付けによく合う食材として利用される。伝統医学では解毒や腫瘍抑制の効能があるとされる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では2000年以上前から薬用・食用として利用されていた記録がある。日本へは6世紀頃に仏教と共に薬として伝来したとされる。",
+      "trade_routes": "近代以降、乾燥コンニャク粉（精粉）が東アジアから世界へ輸出されるようになった。",
+      "cultural_exchange": "仏教の伝播と共に薬として日本に伝わり、後に精進料理を通じて食文化に定着した。",
+      "domestication_history": "中国の雲貴高原から東南アジア北部にかけての山岳地帯で栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な環境が望ましい。年間を通じて湿度が高い地域。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "年平均気温16℃前後、年間降水量1000mm以上。半日陰で水はけの良い土壌。明確な乾季と雨季がある気候が最適。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の気温が高く、冬に霜が降りない温暖な地域限定。生育期間が短い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さに耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度と水分を要求するため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "春（3-4月）",
+        "harvest_season": "晩秋（10-11月）",
+        "growing_period_days": "200-240"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000-40,000 kg/ha",
+      "factors_affecting_yield": [
+        "種芋の大きさ",
+        "土壌の水はけと肥沃度",
+        "日照条件（半日陰が最適）",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 80,
+          "characteristics": "世界最大の生産国および輸出国。特に雲南省、四川省が主産地。多様な在来種が存在。"
+        },
+        {
+          "country": "日本",
+          "production_share": 10,
+          "characteristics": "群馬県が主産地（国内生産の90%以上）。品種改良が進み、国内消費が中心。"
+        },
+        {
+          "country": "インドネシア",
+          "production_share": 5,
+          "characteristics": "輸出用のコンニャクチップ・精粉生産が中心。栽培面積が拡大傾向。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主成分グルコマンナンの機能性に関する研究は多いが、微量栄養素の品種・地域変異に関するデータは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "5-7",
+        "protein_g": "0.1",
+        "carbs_g": "3.0",
+        "fat_g": "0",
+        "fiber_g": "2.9"
+      }
+    },
+    "key_micronutrients": [
+      {
+        "nutrient": "カルシウム",
+        "amount": "43 mg/100g",
+        "daily_value_percent": "4"
+      },
+      {
+        "nutrient": "カリウム",
+        "amount": "不明",
+        "daily_value_percent": "不明"
+      }
+    ],
+    "bioactive_compounds": [
+      {
+        "compound": "グルコマンナン（Glucomannan）",
+        "concentration": "乾燥芋の約40-60%",
+        "health_effect": "水溶性食物繊維。血糖値上昇抑制、血中コレステロール低下、便通改善、満腹感促進による体重管理。"
+      },
+      {
+        "compound": "シュウ酸カルシウム（Calcium oxalate）",
+        "concentration": "生芋に高濃度",
+        "health_effect": "針状結晶で皮膚や粘膜に強い刺激を与える有毒成分。加熱やアルカリ処理で無害化される。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "解毒",
+          "消腫（腫れを引く）",
+          "化痰（痰を除く）",
+          "瘀血を散らす"
+        ],
+        "preparation": "生芋をすり潰して湿布として外用、または加工品を内服。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "体重減少効果",
+        "血中脂質改善",
+        "血糖コントロール改善",
+        "便秘解消"
+      ],
+      "ongoing_research": [
+        "腸内細菌叢への影響",
+        "免疫機能調節",
+        "生分解性プラスチック原料としての利用"
+      ],
+      "safety_considerations": "生芋は有毒。加工品は水分を大量に吸収するため、十分な水分と共に摂取しないと食道や腸で閉塞を起こすリスクがある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "特に日本と中国の料理における利用法は広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "煮込み",
+          "炒め物",
+          "鍋料理",
+          "麺類の代替（しらたき）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油ベースの出汁",
+          "味噌",
+          "唐辛子",
+          "肉類",
+          "他の野菜"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "アルカリ凝固法",
+        "regions": [
+          "東アジア",
+          "東南アジア"
+        ],
+        "shelf_life": "数ヶ月（製品による）",
+        "quality_changes": "生芋の有毒成分（シュウ酸カルシウム）が除去され、グルコマンナンが不可逆的なゲルを形成し、独特の弾力を持つ食感が生まれる。"
+      },
+      {
+        "method": "乾燥（荒粉・精粉）",
+        "regions": [
+          "中国",
+          "インドネシア",
+          "日本"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "長期保存と輸送が可能になる。製品加工の原料として標準化される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほぼ無味無臭。わずかに磯のような香りがある場合もある。",
+      "aroma_compounds": [
+        "トリメチルアミン（微量、独特の臭みの原因）"
+      ],
+      "texture_characteristics": "弾力がある、ぷるぷるしている、歯ごたえがある、ゼリー状"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する定性的な記述は多いが、気候変動シナリオ下での栽培適応性に関する定量的な実験データは非常に少ない。以下の評価は栽培条件からの類推を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "35°C以上では生育障害のリスク",
+      "cold_tolerance": "0°C以下で地上部枯死、芋も凍結で腐敗。霜に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1000-1500mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部の茎が折れやすいが、地下の芋は保護されるため再生力はある。",
+      "hail_damage_recovery": "葉の損傷は光合成能力を低下させ、芋の肥大に大きく影響する。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度上昇による光合成促進の可能性があるが、研究データは乏しい。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、南方系の病害虫（白絹病、根腐病など）の発生地域が北上するリスクがある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアおよび東南アジアの亜熱帯山間部",
+        "2050_projection": "栽培適地がより高緯度・高地へシフトする可能性。一部の現行栽培地では高温・干ばつストレスが増大する可能性。",
+        "2100_projection": "適地のシフトがさらに顕著になる。降雨パターンの変化が栽培安定性を脅かす可能性がある。",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Amorphophallus属内の人為的交配に関する研究は存在するが、A. konjacの自然交雑事例や野生近縁種との交雑親和性に関する詳細なデータは乏しい。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "日本の改良品種と中国の在来種間での交配は可能。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種との交雑は可能とされるが、稔性のある雑種を得るのは困難な場合が多い。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告例は確認できない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中国雲南省に遺伝的多様性の中心地があり、多様な在来品種が存在する。",
+      "wild_gene_pool": "同属の野生種が東南アジアに広く分布しており、耐病性などの有用遺伝子の供給源となる可能性がある。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖が中心のため、遺伝的多様性が低い集団ではリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、耐病性や特定の環境ストレス（高温、乾燥）への耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "グルコマンナンの含有量や質を改変する可能性がある。",
+      "novel_characteristics": "芋の形状、成長速度、休眠特性などの改変。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致、花粉の稔性の問題。",
+      "chromosome_compatibility": "同属内でも倍数性が異なる種が存在する。",
+      "fertility_of_hybrids": "種間雑種では不稔となることが多い。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 5
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "コンニャク栽培とリジェネラティブ農業を直接関連付けた研究は少ない。評価は植物の特性と伝統的栽培法からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い根系だが、大きな塊茎が土壌を物理的に団粒化する効果が期待できる。",
+      "organic_matter_contribution": "収穫後に残る地上部バイオマスは土壌有機物として還元される。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "生育期には広い葉が地面を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "カリウム要求量が多い。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "特異な腐肉臭でハエや甲虫などの特定の送粉者を引き寄せる。",
+      "beneficial_insect_habitat": "半日陰を好むため、アグロフォレストリー（森林農業）システムに組み込みやすく、樹木が多様な昆虫の生息地を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "アグロフォレストリー環境下では貢献度が高い。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地上部の被覆により、土壌への水の浸透を助ける可能性がある。",
+      "moisture_retention": "マルチングと組み合わせることで土壌水分保持に貢献する。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。",
+      "below_ground_carbon": "数年かけて肥大する大きな塊茎は、優れた地下炭素貯留庫となる。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "シェードツリー（栗、桐など）との混植"
+      ],
+      "natural_pest_control": "アグロフォレストリーシステム内での天敵利用。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "アグロフォレストリーに組み込むことで、単作に比べ生態系の安定性が向上する。",
+      "stress_tolerance": "多年生であり、地下に貯蔵器官を持つため、ある程度のストレスからの回復力を持つ。",
+      "recovery_capacity": "中程度。",
+      "adaptability": "中程度。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康食品や産業素材としての現代的利用に関する情報は豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "超低カロリー、グルテンフリー、高食物繊維の食材として、現代の健康志向に非常に適合している。",
+      "food_security_contribution": "単位面積当たりの乾燥物収量が高く、加工・保存性に優れるため、食料安全保障への貢献ポテンシャルがある。",
+      "local_food_system_integration": "山間地の傾斜地でも栽培可能であり、地域の経済振興に貢献できる。",
+      "alternative_protein_potential": "なし。しかし、植物性食品のテクスチャー改良材としての価値が高い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "欧米での健康食品市場（ダイエット食品、グルテンフリー麺）",
+        "ヴィーガン向け食品（ゼラチンの代替）",
+        "機能性食品・サプリメント市場"
+      ],
+      "value_added_products": [
+        "しらたき・糸こんにゃく",
+        "グルコマンナンサプリメント",
+        "デザートゼリー",
+        "化粧品（保湿成分）",
+        "生分解性フィルム"
+      ],
+      "niche_market_value": "健康・ウェルネス市場において高いニッチ価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の多様性に関する研究は存在するが、体系的な保全状況の評価は不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種の自生地である東南アジアの森林伐採が脅威となっている。",
+    "climate_change_vulnerability": "栽培適地が限定的であり、気候変動による影響を受けやすい可能性がある。",
+    "cultural_erosion_risk": "中。伝統的な加工技術や在来種の知識が、工業化や単一品種への集約により失われるリスクがある。",
+    "conservation_actions_needed": [
+      "原産地（特に中国雲南省）での在来種の探索と系統的収集・評価",
+      "野生近縁種の生息域内保全",
+      "ジーンバンクでの遺伝資源の域外保全"
+    ],
+    "priority_conservation_regions": [
+      "中国雲南省",
+      "インドシナ半島山岳地帯"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクで一部の遺伝資源が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中国雲南省",
+      "インドネシア",
+      "日本の群馬県"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する品種レベルでの生理的応答",
+      "リジェネラティブ農業システムにおける定量的貢献",
+      "野生近縁種との交雑親和性と有用遺伝子の探索"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は各国の農業研究機関の報告に基づく。"
+      },
+      "variety_name": "あかぎおおだま",
+      "local_name": "あかぎおおだま",
+      "origin_region": "日本（群馬県）",
+      "distinctive_characteristics": "日本の主力品種。大型で収量性が高い。3年で収穫可能。",
+      "cultural_importance": "日本のコンニャク生産を支える経済的に最も重要な品種。",
+      "climate_adaptation": "日本の温帯気候に適応しているが、耐病性は中程度。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "variety_name": "花魔芋 (Huā Móyù)",
+      "local_name": "花魔芋",
+      "origin_region": "中国（雲南省、四川省）",
+      "distinctive_characteristics": "在来種の一つ。グルコマンナン含有量が高いとされる。多様な遺伝的背景を持つ。",
+      "cultural_importance": "伝統的な栽培品種であり、遺伝的多様性の宝庫。",
+      "climate_adaptation": "原産地の亜熱帯山岳気候に適応。",
+      "conservation_status": "在来種として維持されているが、高収量品種への代替による減少リスクあり。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "GRIN-Global Taxonomy",
+      "Scientific publications on agronomy and food science (via Google Scholar, PubMed)",
+      "National Agriculture and Food Research Organization (NARO), Japan"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの応答の定量的データ",
+      "リジェネラティブ農業適性の定量的評価",
+      "自然交雑ポテンシャルと野生遺伝資源の利用に関する研究"
+    ],
+    "regional_data_coverage": "東アジア（特に日本）に関するデータは豊富。東南アジアの原産地における伝統的知識や在来種の多様性に関するデータは限定的。",
+    "missing_information": [
+      "先住民コミュニティにおける伝統名と利用法",
+      "土壌微生物との相互作用"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース(Kew, USDA)および農学文献から統合。野生種との関係は明確に定義されている。"
+    },
+    "primary_name": "Parsnip",
+    "scientific_name": "Pastinaca sativa",
+    "plant_type": "二年生草本（栽培上は一年草扱い）",
+    "edible_parts": [
+      "根"
+    ],
+    "origin_region": "ユーラシア大陸",
+    "wild_relatives": [
+      "Pastinaca sativa subsp. sylvestris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "欧米での名称は広く記録されているが、他の文化圏での名称は限定的であり、その普及度を反映している。"
+    },
+    "international": {
+      "en": [
+        "Parsnip",
+        "Wild Parsnip"
+      ],
+      "scientific_common": "Cultivated Parsnip"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Pastinake",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Panais",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Pastinaca / Chirivía",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Pastinaca",
+            "script": "Latn"
+          },
+          {
+            "lang": "ru",
+            "name": "Пастернак",
+            "script": "Cyrl"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Parsnip",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類体系はAPG IVシステムに基づき、広く合意されている。"
+    },
+    "family": {
+      "en": "Carrot or parsley family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Parsnip",
+      "la": "Pastinaca"
+    },
+    "species": {
+      "en": "Parsnip",
+      "la": "sativa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "sativa (栽培種)"
+      },
+      {
+        "rank": "subsp.",
+        "name": "sylvestris (野生種)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパにおける歴史的文献は豊富だが、他の地域での文化的価値は限定的。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食（歴史的）",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ジャガイモが普及する以前の重要な冬の炭水化物源。甘味料としても利用され、ワインやビールの醸造にも使われた。特にイギリスではクリスマスのロースト料理に不可欠な食材。",
+        "seasonal_significance": "冬の野菜として重要。霜に当たることで甘みが増すため、秋から冬にかけて収穫される。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ヨーロッパからの移民によって導入された。伝統的な感謝祭やクリスマスの料理に使われることがあるが、ジャガイモやサツマイモほど中心的ではない。",
+        "seasonal_significance": "ヨーロッパと同様、秋から冬にかけての野菜。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イギリス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Roast Parsnips",
+          "Parsnip Soup",
+          "Parsnip and Apple Puree"
+        ],
+        "preparation_methods": [
+          "ロースト",
+          "ボイル",
+          "マッシュ",
+          "スープ"
+        ],
+        "cultural_context": "サンデーローストやクリスマスディナーに欠かせない付け合わせとして、文化的象徴性を持つ。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマ時代から栽培・利用の記録がある。ティベリウス帝はゲルマニアからパースニップを毎年献上させていたとされる。",
+      "trade_routes": "ヨーロッパ内での地域的な交易品であったが、国際的な主要交易品ではなかった。",
+      "cultural_exchange": "ヨーロッパから北米、オーストラリアなどへの移民と共に世界へ伝播した。",
+      "domestication_history": "ユーラシアに自生する野生種(Pastinaca sativa subsp. sylvestris)からローマ時代に栽培化が始まったと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "根の肥大に必要な低温期間が得られないため不適。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "高地や冬期など、一定の低温が確保できる地域でのみ栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育期間が長く、冬に霜が降りる冷涼な気候が最適。霜によってデンプンが糖に変わり、風味が向上する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さが厳しすぎず、冬が寒冷な地域に適応。長い生育期間が必要。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "一貫した水分供給が必要なため、乾燥地での栽培は困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため、高地での栽培は不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春",
+        "harvest_season": "晩秋から冬",
+        "growing_period_days": "120-180"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 50,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌の質（深く、石のないローム土が最適）",
+        "安定した水分供給",
+        "生育期間の長さ",
+        "病害（パースニップキャンカー）の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "イギリス",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産国の一つ。国内消費が中心。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "主に北部州で生産。国内市場向け。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、機能性成分の品種・栽培条件による変動に関するデータは限定的。伝統的薬用利用は主に民間伝承に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "75",
+        "protein_g": "1.2",
+        "carbs_g": "18",
+        "fat_g": "0.3",
+        "fiber_g": "4.9"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "17 mg",
+          "daily_value_percent": "28"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "22.5 mcg",
+          "daily_value_percent": "28"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "67 mcg",
+          "daily_value_percent": "17"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "375 mg",
+          "daily_value_percent": "11"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ファルカリノール",
+        "concentration": "変動あり",
+        "health_effect": "抗炎症、抗がん作用の可能性が研究されている。"
+      },
+      {
+        "compound": "フラノクマリン類",
+        "concentration": "主に葉や茎に多い",
+        "health_effect": "光毒性を持ち、皮膚炎を引き起こす可能性がある。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "利尿作用",
+          "消化促進"
+        ],
+        "preparation": "根を煎じる、またはスープとして摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高食物繊維による消化器系健康のサポート"
+      ],
+      "ongoing_research": [
+        "ファルカリノール等のポリアセチレン類が持つ抗がん作用"
+      ],
+      "safety_considerations": "葉や茎に含まれるフラノクマリン類は、日光と反応して植物性光線皮膚炎を引き起こす可能性があるため、収穫時には注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "欧米の料理本や食文化研究において、調理法は広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ・北米",
+        "methods": [
+          "ロースト",
+          "ボイル",
+          "ピューレ",
+          "フライ",
+          "スープ",
+          "シチュー"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "人参",
+          "ジャガイモ",
+          "リンゴ",
+          "ローズマリー",
+          "タイム",
+          "バター"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "根菜貯蔵",
+        "regions": [
+          "温帯地域全般"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "低温で湿度の高い環境（根菜セラーなど）で貯蔵。畑に植えたまま冬を越させることもある。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "一年以上",
+        "quality_changes": "ブランチングしてから冷凍することで、食感と風味を保つ。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘く、ナッツのような風味。少しスパイシーで土の香りを持つ。",
+      "aroma_compounds": [
+        "テルピノレン",
+        "ミルセン"
+      ],
+      "texture_characteristics": "調理すると柔らかく、クリーミーになる。中心部はやや繊維質なことがある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "パースニップに特化した気候変動適応の研究は非常に少ない。評価は冷涼気候を好む作物の一般的特性からの推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-18°C",
+      "extreme_heat_survival": "30°Cを超えると生育が著しく阻害される。",
+      "cold_tolerance": "根は-10°C以下の凍結にも耐える。霜に当たることで品質が向上する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間を通じて週に約25mmの安定した降雨または灌漑が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒れる可能性があるが、地下の根は影響を受けにくい。",
+      "hail_damage_recovery": "葉の損傷からの回復は可能だが、収量に影響する。",
+      "rapid_temperature_change": "急激な高温には弱いが、低温への順応性は高い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。他のC3植物と同様に、限定的な生育促進効果が期待される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、ニンジンサビバエなどの害虫の活動期間が延長し、被害が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿はパースニップキャンカーなどの病害の発生を助長する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯北部",
+        "2050_projection": "栽培適地がより高緯度へ移動する可能性が高い。",
+        "2100_projection": "現在の主要産地の一部は栽培が困難になる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種と野生種の交雑はよく知られているが、その遺伝的結果に関する詳細な研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全ての栽培品種間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "栽培種(P. sativa subsp. sativa)は野生種(P. sativa subsp. sylvestris)と極めて容易に交雑する。"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培圃場の近くに野生パースニップがあると、容易に交雑し、子孫の根が細く、苦味が増すなどの「先祖返り」が起こる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "商業品種に集約され、在来品種の多様性は限定的。",
+      "wild_gene_pool": "野生パースニップは広範な遺伝的多様性を保持しており、病害虫抵抗性やストレス耐性の遺伝子源として価値がある。",
+      "adaptive_genetic_variation": "野生種は広範な環境に適応しており、高い適応的遺伝変異を持つと考えられる。",
+      "inbreeding_depression_risk": "自家不和合性が強いため、他家受粉が主であり、近交弱勢のリスクは低い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性などの気候耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "望ましくない形質（細い根、苦味）が発現するリスクがある一方、未知の有用形質を獲得する可能性もある。",
+      "hybrid_vigor_potential": "F1品種で雑種強勢が利用されている。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内および亜種間には交雑障壁はほとんどない。",
+      "chromosome_compatibility": "栽培種と野生種は染色体数が同じであり、適合性は高い。",
+      "fertility_of_hybrids": "雑種は高い稔性を持つ。",
+      "backcrossing_success": "容易に成功する。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "セリ科作物の一般的特性からの類推が多く、パースニップに特化した定量的データは少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "長く強力な主根が土壌の硬盤を破砕し、土壌の通気性と排水性を改善する。",
+      "organic_matter_contribution": "収穫後の地上部残渣と細根が土壌有機物として供給される。",
+      "soil_structure_improvement": "根の活動により団粒構造の形成を促進する可能性がある。",
+      "erosion_control": "生育期間が長いため、長期間にわたり土壌を被覆するが、被覆率は高くない。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "二年目に咲く花（散形花序）は、ハナアブ、寄生蜂、ハナバチなど多様な花粉媒介者や天敵昆虫にとって魅力的な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "開花期には多様な有益昆虫の生息地を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "特に開花時に生物多様性に大きく貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "深根性のため、水の土壌への浸透を促進する。",
+      "moisture_retention": "土壌構造改善を通じて保水性を高める可能性がある。",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "主根が大きいため、地下部への炭素蓄積に貢献する。",
+      "soil_carbon_enhancement": "根の分解物や残渣が土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "タマネギ、ラディッシュ、ワームウッド"
+      ],
+      "natural_pest_control": "開花時に天敵昆虫を誘引することで、周辺作物の害虫抑制に貢献する可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な昆虫を誘引することで、生態系の安定性に貢献する。",
+      "stress_tolerance": "個体レベルでは熱ストレスに弱いが、生態系サービス提供の面では価値がある。",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食トレンドや市場での位置づけは、料理雑誌や市場分析で広く議論されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食物繊維とビタミンが豊富な根菜として、植物中心の食事に貢献する。",
+      "food_security_contribution": "冷涼な地域での冬の食料源として重要。",
+      "local_food_system_integration": "ファーマーズマーケットなどで人気があり、地域食品システムに適している。",
+      "alternative_protein_potential": "該当しない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "伝統野菜やヘリテージ野菜への関心の高まり",
+        "グルメ市場向けの加工品（チップス、ピューレなど）"
+      ],
+      "value_added_products": [
+        "パースニップチップス",
+        "ベビーフード用ピューレ",
+        "スープの素"
+      ],
+      "niche_market_value": "伝統的な冬野菜として、特定の季節や料理文化において高いニッチ価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商業品種の保全状況は良好だが、地域固有の在来種に関する情報は乏しい。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の生息地は、農業開発や都市化の脅威にさらされている可能性がある。",
+    "climate_change_vulnerability": "栽培適地が狭まるリスクがある。",
+    "cultural_erosion_risk": "高。ジャガイモなど他の作物に取って代わられ、伝統的な食文化での利用が減少している。",
+    "conservation_actions_needed": [
+      "地域在来品種の探索と評価",
+      "野生近縁種の生息域内および生息域外保全",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "ヨーロッパの多様性中心地"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクに商業品種や一部の野生種が保存されている。",
+    "in_situ_conservation_efforts": "限定的"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査結果に基づく総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "イギリス",
+      "フランス"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答に関する定量的データ",
+      "在来品種の遺伝的多様性と特性評価",
+      "リジェネラティブ農業システムにおける具体的な生態系サービス（炭素固定、土壌改良効果）の定量化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "種子会社のカタログや園芸文献で広く知られている。"
+      },
+      "variety_name": "Hollow Crown",
+      "local_name": "Hollow Crown",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "肩の部分がへこんでいるのが特徴。古くからある標準的な品種で、風味がよい。",
+      "cultural_importance": "歴史的に重要な品種の一つ。",
+      "climate_adaptation": "標準的な温帯気候に適応。",
+      "conservation_status": "広く利用可能"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "種子会社のカタログや園芸文献で広く知られている。"
+      },
+      "variety_name": "Gladiator F1",
+      "local_name": "Gladiator F1",
+      "origin_region": "現代育種",
+      "distinctive_characteristics": "パースニップキャンカー病への高い耐病性を持つF1ハイブリッド品種。根が白く滑らかで、形状が揃いやすい。",
+      "cultural_importance": "商業生産における主要品種。",
+      "climate_adaptation": "標準的な温帯気候に適応。",
+      "conservation_status": "商業的に広く利用可能"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Plants of the World Online",
+      "USDA National Nutrient Database",
+      "FAOSTAT",
+      "Horticultural research literature"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの応答の定量的データ",
+      "リジェネラティブ農業における生態系サービスの定量的評価",
+      "ヨーロッパ以外の地域における文化的価値と利用法"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に偏っており、他の地域に関するデータは非常に少ない。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "在来品種のリストと特性"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

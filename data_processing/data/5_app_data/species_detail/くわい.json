@@ -1,0 +1,659 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（KEW, GRIN）および農学文献から統合。野生種との関係は明確。"
+    },
+    "primary_name": "Arrowhead",
+    "scientific_name": "Sagittaria trifolia",
+    "plant_type": "Perennial (often cultivated as an annual)",
+    "edible_parts": [
+      "Corm",
+      "Young leaves"
+    ],
+    "origin_region": "Temperate and tropical Asia, Eastern Europe",
+    "wild_relatives": [
+      "Wild populations of Sagittaria trifolia",
+      "Sagittaria sagittifolia"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアおよび東南アジアでの名称は広く記録されているが、他の地域での現地名は限定的。"
+    },
+    "international": {
+      "en": [
+        "Arrowhead",
+        "Chinese arrowhead",
+        "Threeleaf arrowhead"
+      ],
+      "scientific_common": "Threeleaf arrowhead"
+    },
+    "regional": [
+      {
+        "region": "East Asia",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "クワイ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "慈菇",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "소귀나물",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "Southeast Asia",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Củ năn",
+            "script": "Latin"
+          },
+          {
+            "lang": "fil",
+            "name": "Gau-gau",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "South Asia",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "कुट्टिपोटैटो",
+            "script": "Devanagari"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明",
+        "name": "不明",
+        "cultural_significance": "アジアの主要栽培地域以外での先住民による特有の利用に関する記録は限定的。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Water-plantain family",
+      "la": "Alismataceae"
+    },
+    "genus": {
+      "en": "Arrowhead",
+      "la": "Sagittaria"
+    },
+    "species": {
+      "en": "Threeleaf arrowhead",
+      "la": "trifolia"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "Sagittaria trifolia var. sinensis"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア、特に日本と中国における文化的価値に関する文献は豊富。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "East Asia",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "日本のおせち料理では「芽が出る」縁起物として、中国では旧正月の料理で幸運の象徴として利用される。",
+        "seasonal_significance": "冬、特に新年を祝う時期に消費が集中する。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "Southeast Asia",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "日常的な野菜として、炒め物や煮込み料理に利用される。",
+        "seasonal_significance": "特になし。通年で利用される傾向がある。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "Japanese (Washoku)",
+        "role": "essential",
+        "traditional_dishes": [
+          "Kuwai no Nimono (Simmered Arrowhead)"
+        ],
+        "preparation_methods": [
+          "Simmering",
+          "Frying"
+        ],
+        "cultural_context": "おせち料理（New Year's cuisine）に不可欠な食材。大きな芽が伸びることから、立身出世や子孫繁栄を願う縁起物とされる。"
+      },
+      {
+        "cuisine": "Chinese",
+        "role": "common",
+        "traditional_dishes": [
+          "Stir-fried Arrowhead with Cured Pork",
+          "Braised Arrowhead"
+        ],
+        "preparation_methods": [
+          "Stir-frying",
+          "Braising",
+          "Steaming"
+        ],
+        "cultural_context": "特に旧正月（春節）のご馳走として人気がある。家庭の団欒や豊作を象徴する食材。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では数千年前から栽培・利用されていた記録がある。",
+      "trade_routes": "限定的。主に地域内での流通に留まる。",
+      "cultural_exchange": "仏教の伝来と共に日本へ伝わったとされる説がある。",
+      "domestication_history": "中国が栽培化の中心地と考えられている。野生種から塊茎が大きく、アクの少ない品種が選抜されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通して温暖で、十分な水量が確保できる水田地帯。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "温暖な気候と長い生育期間。主要な栽培地域。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏に十分な日照と温度があり、冬に塊茎が休眠できる地域。霜に弱い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さと短い生育期間は不向き。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水生植物であり、灌漑設備がなければ栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "Temperate",
+        "planting_season": "Spring (April-May)",
+        "harvest_season": "Late Autumn to Early Winter (November-December)",
+        "growing_period_days": 180
+      },
+      {
+        "climate_zone": "Subtropical",
+        "planting_season": "Late Spring (May-June)",
+        "harvest_season": "Winter (December-February)",
+        "growing_period_days": 200
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "Water management",
+        "Soil fertility",
+        "Pest and disease control",
+        "Planting density"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明。統計データが限定的。",
+      "major_producers": [
+        {
+          "country": "China",
+          "production_share": 90,
+          "characteristics": "世界最大の生産国であり、多様な品種が栽培されている。大規模生産。"
+        },
+        {
+          "country": "Japan",
+          "production_share": 5,
+          "characteristics": "埼玉県や広島県などで特産品として生産。高品質で儀式用途が主。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は利用可能だが、機能性成分に関する詳細な研究は少ない。伝統医学での利用は文献に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "105",
+        "protein_g": "3.6",
+        "carbs_g": "23.9",
+        "fat_g": "0.2",
+        "fiber_g": "2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Potassium",
+          "amount": "600 mg",
+          "daily_value_percent": "17"
+        },
+        {
+          "nutrient": "Vitamin B6",
+          "amount": "0.26 mg",
+          "daily_value_percent": "15"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Phenolic compounds",
+        "concentration": "不明",
+        "health_effect": "Antioxidant activity"
+      },
+      {
+        "compound": "Diterpenoids",
+        "concentration": "不明",
+        "health_effect": "Potential anti-inflammatory effects"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "East Asia",
+        "medical_system": "Traditional Chinese Medicine (TCM)",
+        "uses": [
+          "Diuretic",
+          "Promoting lactation",
+          "Treating skin boils"
+        ],
+        "preparation": "Decoction of the corm or topical application of crushed corm."
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "Antioxidant properties",
+        "Hypoglycemic effects"
+      ],
+      "safety_considerations": "Raw corms contain compounds that can cause throat irritation; must be cooked before consumption."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア料理における調理法は広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "Japan",
+        "methods": [
+          "Simmering (Nimono)",
+          "Deep-frying (chips)",
+          "Grilling"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Dashi",
+          "Soy sauce",
+          "Mirin",
+          "Chicken"
+        ]
+      },
+      {
+        "region": "China",
+        "methods": [
+          "Stir-frying",
+          "Braising",
+          "Steaming",
+          "Soup"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "Pork",
+          "Cured meats",
+          "Mushrooms",
+          "Bamboo shoots"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Canning",
+        "regions": [
+          "China"
+        ],
+        "shelf_life": "1-2 years",
+        "quality_changes": "Texture becomes softer, flavor diminishes slightly."
+      },
+      {
+        "method": "Drying (slicing and sun-drying)",
+        "regions": [
+          "China"
+        ],
+        "shelf_life": "Over 1 year",
+        "quality_changes": "Becomes hard, requires rehydration before use. Flavor becomes more concentrated."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Mildly sweet, with a distinct earthy and slightly bitter aftertaste (egumi).",
+      "aroma_compounds": [
+        "Geosmin (earthy aroma)"
+      ],
+      "texture_characteristics": "When cooked, it has a starchy, mealy texture similar to a potato but with a unique crunchiness (especially when lightly cooked)."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な実験データは非常に限定的。評価は水生植物としての一般的特性と栽培地域の気候シナリオに基づく定性的推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "Leaf scorch above 35°C, corm development may be inhibited.",
+      "cold_tolerance": "Leaves are frost-sensitive. Corms can tolerate mild frost in soil/mud."
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "Very low (aquatic plant)",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "Requires standing water; rainfall is secondary to water source availability."
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "Leaves are susceptible to damage from strong winds and hail, but underwater corms are protected.",
+      "hail_damage_recovery": "Moderate, if corm is undamaged.",
+      "rapid_temperature_change": "Sensitive, especially during early growth stages."
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "Potential for increased biomass (C3 plant), but not studied.",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Vulnerable. Warmer winters may increase survival rates of pests like aphids and snails.",
+      "disease_resistance_stability": "Susceptible to blight and rot, which may increase with higher humidity and temperature.",
+      "beneficial_organism_relationships": "Paddy ecosystem supports predators of pests (e.g., frogs, dragonflies)."
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Temperate and subtropical East Asia",
+        "2050_projection": "Potential northern shift of cultivation zones, but highly dependent on water availability.",
+        "2100_projection": "Increased water stress in current subtropical zones may make them unsuitable without intensive irrigation management.",
+        "confidence_level": "Low"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属内での自然交雑は報告されているが、本種の適応育種に関する研究は少ない。評価は属の一般的特性に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Numerous landraces in China and Japan show high compatibility."
+      ],
+      "interspecific_compatibility": [
+        "Sagittaria sagittifolia"
+      ],
+      "intergeneric_possibility": [
+        "Unlikely"
+      ],
+      "successful_natural_hybrids": [
+        "Hybrids between various Sagittaria species are known to occur in the wild where ranges overlap."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "High, especially in China, with variations in corm size, shape, and color.",
+      "wild_gene_pool": "Wild populations are widespread in Asia, providing a significant gene pool for traits like disease resistance.",
+      "adaptive_genetic_variation": "Likely high, given its wide geographical distribution across different climates.",
+      "inbreeding_depression_risk": "Low in areas with high diversity; higher in regions with limited cultivars."
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "Across Asia",
+        "environmental_pressure": "Varying water levels and temperature regimes",
+        "adaptive_response": "Development of local ecotypes with different growth cycles and dormancy periods.",
+        "time_scale": "Centuries to millennia",
+        "mechanism": "Natural selection on local populations."
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "Possible by crossing with heat-tolerant southern varieties or cold-tolerant northern wild relatives.",
+      "improved_nutritional_content": "Possible, but not a primary research focus.",
+      "novel_characteristics": "Variation in corm texture and bitterness could be selected for.",
+      "hybrid_vigor_potential": "High"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Flowering time differences between varieties can be a barrier.",
+      "chromosome_compatibility": "Generally compatible within the genus.",
+      "fertility_of_hybrids": "Often fertile.",
+      "backcrossing_success": "Generally high."
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "Water depth and duration",
+        "adaptive_traits": "Rhizome length, corm dormancy.",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "直接的な研究はほぼない。評価は、水田農業（paddy agriculture）の生態系サービスに関する一般知識からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Fibrous root system that helps to bind unconsolidated, anaerobic soils.",
+      "organic_matter_contribution": "High biomass turnover contributes significantly to soil organic matter.",
+      "soil_structure_improvement": "Helps maintain the puddled structure of paddy soils.",
+      "erosion_control": "Reduces water erosion by slowing water flow.",
+      "nutrient_cycling_role": "Facilitates nutrient cycling in flooded conditions, making nutrients available."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "Flowers provide nectar for various insects.",
+      "beneficial_insect_habitat": "The paddy ecosystem serves as a crucial habitat for dragonflies, spiders, and other pest predators.",
+      "soil_microorganism_interaction": "Rhizosphere supports a unique microbiome adapted to anaerobic conditions.",
+      "above_ground_biodiversity": "Provides habitat and feeding grounds for water birds and amphibians."
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "Paddies act as temporary reservoirs, promoting groundwater recharge.",
+      "moisture_retention": "High water holding capacity of the system.",
+      "runoff_reduction": "Significantly mitigates flood risks by retaining peak rainfall.",
+      "groundwater_recharge": "High"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "Moderate to high.",
+      "below_ground_carbon": "High due to root biomass and accumulation of organic matter in anaerobic soil.",
+      "soil_carbon_enhancement": "Paddy soils are significant carbon sinks.",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Can be integrated into rice-fish-duck systems."
+      ],
+      "natural_pest_control": "Flooded conditions naturally control many terrestrial pests.",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "High in traditional, diversified paddy systems.",
+      "stress_tolerance": "High tolerance to flooding, low tolerance to drought.",
+      "recovery_capacity": "High from flood events.",
+      "adaptability": "Adaptable within wetland ecosystems."
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場動向と食のトレンドに基づく評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "A unique, starchy vegetable that adds diversity to plant-based diets.",
+      "food_security_contribution": "Important secondary staple in some regions; contributes to local food security.",
+      "local_food_system_integration": "Well-suited for small-scale, integrated aquatic farming systems.",
+      "alternative_protein_potential": "Low."
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Niche markets in Europe and North America for 'exotic' or 'heritage' vegetables.",
+        "Health food markets focusing on gluten-free starches."
+      ],
+      "value_added_products": [
+        "Arrowhead starch/flour",
+        "Vacuum-packed pre-cooked corms",
+        "Arrowhead chips"
+      ],
+      "niche_market_value": "High in export and specialty markets."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "評価は生息地の減少傾向と食文化の変化に基づく。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "High, due to the global decline of wetland ecosystems and urbanization.",
+    "climate_change_vulnerability": "High, due to its dependence on stable water resources.",
+    "cultural_erosion_risk": "High, as younger generations consume less traditional food.",
+    "conservation_actions_needed": [
+      "In-situ conservation of wetland farming systems.",
+      "Ex-situ conservation of landraces in seed/gene banks.",
+      "Promotion of cultural heritage and traditional cuisine."
+    ],
+    "priority_conservation_regions": [
+      "China (for genetic diversity)",
+      "Japan (for cultural diversity and unique cultivars)"
+    ],
+    "ex_situ_conservation_status": "Some landraces are held in national gene banks in China and Japan.",
+    "in_situ_conservation_efforts": "Limited; mostly through small-scale farmers maintaining traditional practices."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての統合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "Yangtze River Delta, China",
+      "Saitama Prefecture, Japan"
+    ],
+    "knowledge_gaps": [
+      "Quantitative data on climate stress tolerance (heat, CO2).",
+      "Genetic mapping of landraces.",
+      "Detailed analysis of bioactive compounds.",
+      "Carbon sequestration potential in cultivation systems."
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "日本の品種情報は比較的入手しやすいが、中国の多様な地方品種に関する英語文献は少ない。"
+      },
+      "variety_name": "Aokuwai",
+      "local_name": "アオクワイ",
+      "origin_region": "Japan",
+      "distinctive_characteristics": "Corm has a distinct bluish-green color. Texture is considered superior with less bitterness.",
+      "cultural_importance": "Highly prized for Osechi Ryori (New Year's cuisine) in Japan.",
+      "climate_adaptation": "Adapted to temperate climates of Japan.",
+      "conservation_status": "Locally cultivated, not endangered but production is limited."
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "日本の品種情報は比較的入手しやすいが、中国の多様な地方品種に関する英語文献は少ない。"
+      },
+      "variety_name": "Shirokuwai",
+      "local_name": "シロクワイ",
+      "origin_region": "Japan",
+      "distinctive_characteristics": "Corm is whitish in color. Generally larger than Aokuwai.",
+      "cultural_importance": "Also used for New Year's cuisine, but often considered slightly lower grade than Aokuwai.",
+      "climate_adaptation": "Adapted to temperate climates.",
+      "conservation_status": "Locally cultivated."
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "中国の多様な地方品種に関する英語文献は少ない。"
+      },
+      "variety_name": "Suzhou Arrowhead",
+      "local_name": "苏州慈菇",
+      "origin_region": "Suzhou, China",
+      "distinctive_characteristics": "Known for its large, uniform corms and high yield.",
+      "cultural_importance": "A key ingredient in the cuisine of the Jiangnan region.",
+      "climate_adaptation": "Adapted to the subtropical climate of the Yangtze River Delta.",
+      "conservation_status": "Widely cultivated commercially."
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN-Global Taxonomy",
+      "Plants of the World Online (Kew)",
+      "Ethnobotanical studies in East Asia",
+      "FAO agricultural statistics (where available)"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative data on regenerative agriculture performance.",
+      "Physiological responses of different cultivars to climate change stressors.",
+      "Comprehensive genetic diversity assessment across its native range."
+    ],
+    "regional_data_coverage": "Strong focus on East Asia; limited data from Southeast Asia and South Asia.",
+    "missing_information": [
+      "Specific indigenous names and uses outside major agricultural zones",
+      "Modern clinical trials on medicinal properties",
+      "Carbon sequestration rates"
+    ],
+    "update_priority": "High",
+    "quality_score": 8
+  }
+}

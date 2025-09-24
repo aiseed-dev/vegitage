@@ -1,0 +1,624 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew, USDA PLANTS）および民族植物学の文献から統合。野生近縁種との関係も明確。"
+    },
+    "primary_name": "Common Cattail",
+    "scientific_name": "Typha latifolia",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎",
+      "若芽",
+      "花粉",
+      "若い雌花穂"
+    ],
+    "origin_region": "北半球の温帯・亜熱帯地域（汎世界的に分布）",
+    "wild_relatives": [
+      "Typha angustifolia",
+      "Typha domingensis",
+      "Typha shuttleworthii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の植物名データベースおよび地域ごとの民族植物学的記録を基に編集。"
+    },
+    "international": {
+      "en": [
+        "Common Cattail",
+        "Broadleaf Cattail",
+        "Bulrush",
+        "Reedmace"
+      ],
+      "scientific_common": "Broadleaf Cattail"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ガマ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "香蒲",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "부들",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Massette à larges feuilles",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Breitblättriger Rohrkolben",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Enea",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Totora",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Anishinaabe (オジブワ族)",
+        "name": "Apakway",
+        "cultural_significance": "主にマットや住居の材料として利用されるが、食用・薬用にもなる。"
+      },
+      {
+        "community": "Haudenosaunee (イロコイ連邦)",
+        "name": "Onä'geä'",
+        "cultural_significance": "食料源（特に根茎の粉）、薬、生活資材（籠、マット）として多目的に利用。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、国際的な植物分類データベースからの情報を統合。"
+    },
+    "family": {
+      "en": "Cattail family",
+      "la": "Typhaceae"
+    },
+    "genus": {
+      "en": "Cattail",
+      "la": "Typha"
+    },
+    "species": {
+      "en": "Broadleaf Cattail",
+      "la": "latifolia"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Hybrid",
+        "name": "Typha × glauca (T. latifolia × T. angustifolia)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の民族植物学、考古学、民俗学の文献を横断的に分析。特に北米先住民文化における重要性が高い。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "北米",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "儀式用",
+          "建材・工芸品"
+        ],
+        "traditional_uses": "ほぼ全ての部位が利用される。根茎は粉にしてパンや粥に、若芽は野菜として、花粉は栄養価の高い食品添加物として利用。葉は編んでマットや籠、住居の壁材になる。綿毛は着火剤や断熱材、赤ちゃんのオムツ代わりに使われた。",
+        "seasonal_significance": "春には若芽、夏には花粉、秋冬には根茎と、一年を通じて重要な資源となる。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用",
+          "副菜",
+          "文化的象徴"
+        ],
+        "traditional_uses": "日本では『古事記』の「因幡の白兎」神話に登場し、蒲の穂綿が治療に使われるなど、薬用・文化的な意味合いが強い。若芽は食用にされることもある。中国では花粉（蒲黄）が漢方薬として止血などに用いられる。",
+        "seasonal_significance": "夏に花粉を採取する。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "北米先住民料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Cattail Rhizome Flour Bread",
+          "Boiled Cattail Shoots",
+          "Pollen Pancakes"
+        ],
+        "preparation_methods": [
+          "粉砕",
+          "焙煎",
+          "茹でる",
+          "蒸す"
+        ],
+        "cultural_context": "生存に不可欠な食料源であり、収穫と調理は季節のサイクルと深く結びついた文化的実践。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "ヨーロッパでは1万年以上前の遺跡から花粉が食料として利用された痕跡が発見されている。北米では数千年前から広範に利用されていた考古学的証拠がある。",
+      "trade_routes": "地域内での交易品（特に加工されたマットやバスケット）としての役割はあったが、長距離交易の主要品目ではなかった。",
+      "cultural_exchange": "湿地帯に住む異なる文化集団の間で、ガマの利用法に関する知識が共有・伝播した。",
+      "domestication_history": "正式な栽培化はされていない。主に野生の群落を管理・利用する半栽培的な形態で利用されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や比較的涼しい湿潤地域。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "常時湿潤な沼地、池、緩やかな流れの河川。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりの良い沼沢地、湖沼の岸辺。非常に広範な適応性を持つ。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏に十分な日照と水分があれば生育可能。冬の凍結にも耐える。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "オアシスや河川沿いの湿地帯のみに限定される。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低標高の湿地に限定される。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "若芽（春）、花粉（初夏）、根茎（秋〜早春）",
+        "growing_period_days": "不明（多年草のため）"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産データなし）",
+      "factors_affecting_yield": [
+        "水深と水位の安定性",
+        "日照時間",
+        "富栄養化の度合い",
+        "群落の密度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "データなし",
+          "production_share": 0,
+          "characteristics": "食料としての商業生産は行われていない。主に野生採集または環境修復目的で管理される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "根茎と花粉の基本的な栄養成分に関する研究は存在するが、生育環境による変動が大きい。伝統的薬用利用に関する民族植物学の記録は豊富。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約80-100 (根茎, 乾燥粉末)",
+        "protein_g": "約6-8 (根茎粉末), 約20-25 (花粉)",
+        "carbs_g": "約15-20 (根茎粉末)",
+        "fat_g": "約1-2 (根茎粉末)",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "リン",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ベータカロテン",
+          "amount": "含有 (若芽)",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "ステロイド",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "北米",
+        "medical_system": "先住民の伝統医学",
+        "uses": [
+          "止血",
+          "創傷被覆",
+          "鎮痛",
+          "利尿"
+        ],
+        "preparation": "根をすり潰して湿布にする。花粉を傷に振りかける。葉や根の煎じ薬を飲む。"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "止血",
+          "活血化瘀（血行促進）"
+        ],
+        "preparation": "花粉（蒲黄）を乾燥させ、粉末として内服または外用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化活性",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "フィトoremediation（水質浄化）能力",
+        "バイオ燃料原料としての可能性"
+      ],
+      "safety_considerations": "汚染された水域から採集した場合、重金属や汚染物質を蓄積している可能性があるため注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "民族植物学的な記録は豊富だが、現代的な調理法や味覚プロファイルに関する科学的データは限定的。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "北米（伝統）",
+        "methods": [
+          "焙煎（根茎）",
+          "茹でる（若芽）",
+          "粉砕・製粉（根茎、花粉）",
+          "直火焼き（若い花穂）"
+        ],
+        "flavor_role": "主食（根茎）、副菜（若芽）",
+        "typical_combinations": [
+          "他の木の実の粉",
+          "動物性脂肪",
+          "ベリー類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・製粉",
+        "regions": [
+          "北米",
+          "ユーラシア"
+        ],
+        "shelf_life": "1年以上（根茎粉末）",
+        "quality_changes": "風味は落ちるが、栄養価は長期間保持される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "根茎：ジャガイモやサツマイモに似たでんぷん質で、やや甘みがある。若芽：キュウリやアスパラガスに似た、みずみずしく青々しい風味。花粉：わずかに甘く、松のような香り。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "根茎：繊維質が多い。若芽：シャキシャキしている。花粉：非常に細かい粉末状。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生態学的な研究から耐性に関する定性的情報は多いが、農業的な視点での定量データは乏しい。その生態的特性から高い適応性が推定される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "15-30°C",
+      "extreme_heat_survival": "40°C以上でも生存可能（水分があれば）",
+      "cold_tolerance": "-30°C以下の凍結にも根茎は耐える"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明（水生植物のため評価軸が異なる）",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "湿地・水辺環境が維持される水量が必要"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地上部は倒れるが地下茎で再生）",
+      "hail_damage_recovery": "高",
+      "rapid_temperature_change": "高"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中〜高（C3植物として、CO2濃度上昇は光合成を促進する可能性がある）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明（一般的に病害虫に強い）",
+      "disease_resistance_stability": "高",
+      "beneficial_organism_relationships": "多様な昆虫や鳥類の生息地となる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "北半球の温帯・亜熱帯湿地",
+        "2050_projection": "北極圏への分布域拡大が予測される",
+        "2100_projection": "乾燥化する地域では縮小し、高緯度地域でさらに拡大する可能性がある",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Typha属の交雑に関する生態学的研究は豊富。特にT. latifoliaとT. angustifoliaの交雑は広く知られ、研究されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域的エコタイプ間の交雑は容易"
+      ],
+      "interspecific_compatibility": [
+        "Typha angustifolia"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "Typha × glauca"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培品種は存在しないが、広範な分布域に高い遺伝的多様性が存在する。",
+      "wild_gene_pool": "野生集団が全ての遺伝子プールを構成している。",
+      "adaptive_genetic_variation": "高（異なる気候や水質環境に適応した地域個体群が存在）",
+      "inbreeding_depression_risk": "低（主に地下茎による栄養繁殖と、風媒による他家受粉を行うため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北米五大湖周辺",
+        "environmental_pressure": "人為的な富栄養化と水位変動",
+        "adaptive_response": "T. angustifoliaとの交雑により生まれたT. × glaucaが、雑種強勢により在来種を凌駕して急速に拡大。",
+        "time_scale": "20世紀以降",
+        "mechanism": "雑種強勢、アレロパシー効果、クローン成長能力の増大"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "交雑種はより広い環境条件（特に富栄養化、水位変動）への耐性を示す。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "より侵略的な性質、高いバイオマス生産性。",
+      "hybrid_vigor_potential": "非常に高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の開花時期のずれが部分的な障壁となることがあるが、容易に乗り越えられる。",
+      "chromosome_compatibility": "T. latifoliaとT. angustifoliaは共に2n=30であり、適合性が高い。",
+      "fertility_of_hybrids": "T. × glaucaは稔性があり、戻し交配も起こる。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "富栄養化",
+        "adaptive_traits": "高い栄養塩利用効率",
+        "heritability": "不明",
+        "response_to_selection": "交雑種の急速な拡大"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "湿地生態学および生態系サービスに関する研究が豊富。フィトoremediationや炭素貯留に関する多くの論文が存在する。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "密な根茎と根のネットワークを形成し、水中の土壌や堆積物を安定させる。",
+      "organic_matter_contribution": "高いバイオマス生産により、枯死後は大量の有機物を堆積させ、泥炭の形成に寄与する。",
+      "soil_structure_improvement": "水中の嫌気的土壌に酸素を供給する（通気組織経由）。",
+      "erosion_control": "非常に高い。波や水流による岸辺の侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "水中の過剰な窒素やリンを吸収・固定し、富栄養化を抑制する（フィトoremediation）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "風媒花であり、花粉媒介者への貢献は限定的。",
+      "beneficial_insect_habitat": "多様な水生昆虫やトンボなどの生息地となる。",
+      "soil_microorganism_interaction": "根圏は脱窒菌など特有の微生物叢を形成し、物質循環に重要な役割を果たす。",
+      "above_ground_biodiversity": "サンカノゴイ、オオヨシキリ、Red-winged Blackbirdなどの鳥類の営巣地として極めて重要。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "水の流速を遅め、堆積物の沈殿を促すことで水質を浄化する。",
+      "moisture_retention": "湿地帯全体の保水能力を維持する。",
+      "runoff_reduction": "陸地からの栄養塩や汚染物質を含んだ流出水を捕捉・浄化する緩衝帯として機能する。",
+      "groundwater_recharge": "湿地帯の保水機能を通じて間接的に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い",
+      "below_ground_carbon": "非常に高い（バイオマスの大部分は地下茎にある）",
+      "soil_carbon_enhancement": "嫌気的な堆積物中に炭素を長期間固定し、湿地土壌の炭素貯留能力に大きく貢献する。",
+      "carbon_sequestration_rate": "高い（特に富栄養化した環境下で）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "アグロフォレストリーやパーマカルチャーにおいて、人工湿地（コンストラクテッド・ウェットランド）の主要構成種として利用される。"
+      ],
+      "natural_pest_control": "天敵昆虫の生息地を提供する。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の成長を抑制するアレロパシー物質を放出することが示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "水辺の生態系を安定させるキーストーン種。",
+      "stress_tolerance": "水位変動、貧酸素、富栄養化など、多様なストレスに高い耐性を持つ。",
+      "recovery_capacity": "火災や物理的な刈り取りの後でも、地下茎から迅速に再生する。",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "持続可能な食料や材料としてのポテンシャルに関する研究や議論が増加している。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "未利用の多年生植物であり、持続可能な炭水化物およびタンパク質（花粉）源としての可能性がある。",
+      "food_security_contribution": "気候変動下で不安定化する伝統的農業を補完する、強靭な食料源となりうる。",
+      "local_food_system_integration": "フォーレージング（野生採集）やパーマカルチャー設計において重要な役割を果たす。",
+      "alternative_protein_potential": "花粉は高タンパク質であり、ニッチな代替タンパク質源としての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "野生食材レストラン",
+        "健康食品（花粉）",
+        "パーマカルチャー向け苗"
+      ],
+      "value_added_products": [
+        "グルテンフリーの根茎粉",
+        "花粉サプリメント",
+        "バイオマスを利用した建材（断熱材）",
+        "バイオエタノール原料"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種自体の保全状況は安定しているが、生息地と文化的知識の消失が大きな課題。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "高（世界的な湿地の減少・劣化が最大の脅威）",
+    "climate_change_vulnerability": "中（乾燥化に弱い）",
+    "cultural_erosion_risk": "高（利用に関する伝統的生態学的知識の消失が深刻）",
+    "conservation_actions_needed": [
+      "湿地生態系の保全と再生",
+      "伝統的生態学的知識（TEK）の記録と伝承支援",
+      "汚染物質のモニタリング"
+    ],
+    "priority_conservation_regions": [
+      "世界中の劣化した湿地帯",
+      "先住民コミュニティが伝統的に利用してきた地域"
+    ],
+    "ex_situ_conservation_status": "多くの植物園で収集されているが、体系的な遺伝資源保全は行われていない。",
+    "in_situ_conservation_efforts": "湿地保全活動の一環として保護されているが、ガマ自体を主目的とした活動は少ない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた多角的な情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中（特に食料としての安全性と栄養価の再評価）",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "北米（先住民の伝統知）",
+      "東アジア（薬用利用の歴史）",
+      "ヨーロッパ（考古学的食利用）"
+    ],
+    "knowledge_gaps": [
+      "食料としての利用における重金属蓄積リスクの定量的評価",
+      "地域エコタイプ間の栄養価や機能性成分の差異",
+      "気候変動シナリオ下での交雑種（T. × glauca）の動態予測"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "Typha latifoliaには農業的な栽培品種は存在しない。ここでは、生態学的に重要な自然交雑種を代表的な変異体として記載する。"
+      },
+      "variety_name": "Hybrid Cattail (Typha × glauca)",
+      "local_name": "不明",
+      "origin_region": "T. latifoliaとT. angustifoliaの分布が重なる地域で自然発生（特に北米）",
+      "distinctive_characteristics": "両親種よりも草丈が高く、バイオマス生産量が大きい。非常に強健で侵略的。葉の幅や穂の形状が両親種の中間的。",
+      "cultural_importance": "伝統的な利用は少ないが、現代の生態系管理において非常に重要な存在。",
+      "climate_adaptation": "非常に高い適応性を持ち、特に富栄養化や水位変動が激しい人為的影響の強い環境で優占する。",
+      "conservation_status": "保全対象外（しばしば駆除対象となる侵略的種）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens, Plants of the World Online",
+      "USDA PLANTS Database",
+      "Native American Ethnobotany Database",
+      "Wetland ecology academic journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "商業生産に関するデータ",
+      "調理科学的アプローチによる味覚プロファイル"
+    ],
+    "regional_data_coverage": "北米と東アジアの情報は比較的豊富だが、他の地域は断片的。",
+    "missing_information": [
+      "栽培農家や商業生産者からのデータ",
+      "詳細な栄養分析データ（特に微量栄養素と地域差）"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

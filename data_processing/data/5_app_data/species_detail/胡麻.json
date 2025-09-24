@@ -1,0 +1,773 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is derived from major botanical and agricultural databases (Kew, GRIN-Global) and ethnobotanical literature. Data on wild relatives is well-documented but relationships are complex."
+    },
+    "primary_name": "Sesame",
+    "scientific_name": "Sesamum indicum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "葉"
+    ],
+    "origin_region": "アフリカのサバンナ地帯とインド亜大陸が有力な起源中心地と考えられている",
+    "wild_relatives": [
+      "Sesamum malabaricum",
+      "Sesamum prostratum",
+      "Sesamum radiatum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical databases and regional linguistic sources."
+    },
+    "international": {
+      "en": [
+        "Sesame",
+        "Benne",
+        "Gingelly"
+      ],
+      "scientific_common": "Sesame"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "Til",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "Ellu",
+            "script": "Tamil"
+          },
+          {
+            "lang": "bn",
+            "name": "Til",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "Zhīma",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "Goma",
+            "script": "Kanji/Kana"
+          },
+          {
+            "lang": "ko",
+            "name": "Kkae",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "Simsim",
+            "script": "Arabic"
+          },
+          {
+            "lang": "he",
+            "name": "Sumsum",
+            "script": "Hebrew"
+          },
+          {
+            "lang": "tr",
+            "name": "Susam",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Simsim",
+            "script": "Latin"
+          },
+          {
+            "lang": "am",
+            "name": "Selit",
+            "script": "Ge'ez"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アフリカのサバンナ地帯の諸民族",
+        "name": "Benniseed/Benne",
+        "cultural_significance": "古代から食用油、食料として利用され、交易品としての価値も高かった。名称はアフリカの言語に由来する。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on the APG IV system of plant classification."
+    },
+    "family": {
+      "en": "Pedaliaceae",
+      "la": "Pedaliaceae"
+    },
+    "genus": {
+      "en": "Sesame",
+      "la": "Sesamum"
+    },
+    "species": {
+      "en": "Indian sesame",
+      "la": "S. indicum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is synthesized from anthropological, historical, and culinary studies across multiple regions."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "食用油",
+          "儀式用",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "アーユルヴェーダで重要な薬用植物。ヒンドゥー教の儀式（特に葬儀）で神聖な捧げ物として用いられる。料理油として不可欠。",
+        "seasonal_significance": "マカル・サンクランティ等の収穫祭でゴマを使った菓子が作られる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食（ペーストとして）",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "タヒニ（ゴマペースト）はフムスやババガヌーシュの主原料であり、食文化の根幹をなす。ハルヴァなど菓子の材料としても重要。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "調味料",
+          "香辛料",
+          "薬用"
+        ],
+        "traditional_uses": "焙煎したゴマやごま油は、風味付けとして中華料理、日本料理、韓国料理に広く使われる。伝統中国医学では滋養強壮剤として利用される。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "アフリカ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "食用油",
+          "主食の一部",
+          "経済作物"
+        ],
+        "traditional_uses": "最も古くから栽培されてきた油糧作物の一つ。種子を粥やソースにしたり、葉を野菜として食べたりする地域もある。重要な換金作物。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "レバント料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "フムス",
+          "タヒーナ",
+          "ババガヌーシュ"
+        ],
+        "preparation_methods": [
+          "ペースト化（タヒニ）"
+        ],
+        "cultural_context": "多くの料理のベースとなる風味と食感を提供し、地域全体の食文化の基盤となっている。"
+      },
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ティル・ラドゥ",
+          "各種カレーのテンパリング"
+        ],
+        "preparation_methods": [
+          "搾油",
+          "焙煎",
+          "製菓"
+        ],
+        "cultural_context": "宗教儀式と日常の食生活の両方で深く根付いている。ごま油は南インド料理で特に重要。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インダス文明（紀元前2500年頃）の遺跡から炭化したゴマが発見されている。古代エジプトやメソポタミアでも栽培・利用の記録がある。",
+      "trade_routes": "古代よりシルクロードや海の交易路を通じて、アフリカ、中東からアジア、ヨーロッパへと広まった。",
+      "cultural_exchange": "アラビア語の「Simsim」が多くの言語での呼称の語源となり、食文化と共に伝播した。",
+      "domestication_history": "アフリカ起源説とインド起源説があるが、遺伝学的研究からは両地域で独立または並行して栽培化が進んだ可能性が示唆されている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿だが、水はけの良い土壌が必要。雨季に播種し、乾季に収穫するのが一般的。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "生育に十分な高温と日照が必要。霜に非常に弱い。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏季が高温で長い地域でのみ栽培可能。栽培期間が限られる。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、夏の温度が不十分なため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "非常に高い乾燥耐性を持つが、発芽と初期生育には水分が必要。灌漑があれば生産性が向上する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯・亜熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "乾季の初め",
+        "growing_period_days": "90-120"
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（霜の危険がなくなった後）",
+        "harvest_season": "初秋",
+        "growing_period_days": "100-130"
+      }
+    ],
+    "productivity": {
+      "yield_range": "300 - 1500 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "播種時期",
+        "降水量と分布",
+        "土壌の肥沃度",
+        "雑草管理",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約600万〜700万トン",
+      "major_producers": [
+        {
+          "country": "スーダン",
+          "production_share": "約15-20%",
+          "characteristics": "広大な土地を利用した天水農業が中心。"
+        },
+        {
+          "country": "ミャンマー",
+          "production_share": "約12-15%",
+          "characteristics": "多様な作付体系の中で栽培される重要作物。"
+        },
+        {
+          "country": "インド",
+          "production_share": "約10-13%",
+          "characteristics": "世界有数の消費国でもあり、多様な在来種が栽培されている。"
+        },
+        {
+          "country": "タンザニア",
+          "production_share": "約8-10%",
+          "characteristics": "小規模農家による生産が主体で、重要な輸出作物。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栄養価はUSDA等の標準食品成分データベースに基づく。機能性成分に関する研究も豊富。伝統的利用は民族薬理学の文献による。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "573",
+        "protein_g": "17.7",
+        "carbs_g": "23.4",
+        "fat_g": "49.7",
+        "fiber_g": "11.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "975 mg",
+          "daily_value_percent": "98%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "14.6 mg",
+          "daily_value_percent": "81%"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "351 mg",
+          "daily_value_percent": "88%"
+        },
+        {
+          "nutrient": "銅",
+          "amount": "4.1 mg",
+          "daily_value_percent": "453%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "セサミン",
+        "concentration": "品種によるが0.1-0.5%",
+        "health_effect": "抗酸化作用、抗炎症作用、血圧降下作用、コレステロール低下作用"
+      },
+      {
+        "compound": "セサモリン",
+        "concentration": "品種によるが0.1-0.3%",
+        "health_effect": "強力な抗酸化作用、神経保護作用"
+      },
+      {
+        "compound": "ビタミンE（γ-トコフェロール）",
+        "concentration": "豊富",
+        "health_effect": "抗酸化作用、油の酸化安定性向上"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "滋養強壮",
+          "関節炎の緩和",
+          "皮膚疾患の治療",
+          "便秘解消"
+        ],
+        "preparation": "オイルをマッサージに使用、または内服。"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "伝統中国医学 (TCM)",
+        "uses": [
+          "肝臓と腎臓の機能補強",
+          "髪と肌の健康維持",
+          "老化防止"
+        ],
+        "preparation": "黒ゴマを炒って粉末にし、他の生薬と調合。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血中脂質の改善",
+        "血圧の低下",
+        "抗酸化ストレスの軽減",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "がん予防効果",
+        "神経変性疾患への影響",
+        "骨粗しょう症予防"
+      ],
+      "safety_considerations": "ゴマアレルギーは一般的な食物アレルギーの一つであり注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書や食文化研究に基づき、広範な利用法を網羅。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "中東・地中海",
+        "methods": [
+          "ペースト化（タヒニ）",
+          "焙煎して振りかける",
+          "パン生地への練り込み"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ひよこ豆",
+          "ナス",
+          "レモン",
+          "ニンニク"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "搾油（ごま油）",
+          "焙煎してすり潰す（和え物）",
+          "調味料として振りかける"
+        ],
+        "flavor_role": "香辛料/薬味",
+        "typical_combinations": [
+          "醤油",
+          "酢",
+          "ほうれん草",
+          "麺類"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "搾油（ティルオイル）",
+          "製菓（ラドゥ、チッキ）",
+          "カレーの風味付け"
+        ],
+        "flavor_role": "副味/香辛料",
+        "typical_combinations": [
+          "ジャガリー（粗糖）",
+          "ココナッツ",
+          "マスタードシード"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "搾油",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "6ヶ月～2年（製法による）",
+        "quality_changes": "焙煎の有無で風味が大きく異なる。未精製のものは酸化しやすい。"
+      },
+      {
+        "method": "ペースト化（タヒニ）",
+        "regions": [
+          "中東",
+          "地中海",
+          "全世界"
+        ],
+        "shelf_life": "1年程度（油分が分離するが品質に問題はない）",
+        "quality_changes": "時間が経つと油分が分離する。滑らかさが品質の指標。"
+      },
+      {
+        "method": "焙煎",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数ヶ月（酸化が進みやすい）",
+        "quality_changes": "香ばしい風味と香りが増すが、加熱しすぎると苦味が出る。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッツのような風味、豊かでクリーミー、焙煎すると香ばしさとわずかな苦味が増す",
+      "aroma_compounds": [
+        "ピラジン類（焙煎香）",
+        "セサモール",
+        "セサモリン"
+      ],
+      "texture_characteristics": "生の種子はカリカリ、ペーストは滑らかで濃厚、油は粘性が高い"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性は広く知られているが、定量的な閾値データは品種や研究により異なる。将来予測は一般的な作物モデルに基づくものであり、ゴマに特化した高精度な予測は少ない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生存可能だが、受粉や稔実には悪影響が出る可能性がある。",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "比較的高い。深い主根が土壌深層の水分を吸収できる。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "年間400-650mm。生育初期に水分が必要だが、成熟期には乾燥を好む。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。茎は細いが、ある程度のしなやかさを持つ。",
+      "hail_damage_recovery": "低い。葉や花へのダメージからの回復は遅い。",
+      "rapid_temperature_change": "中程度。急激な低温には弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。C3植物であるため、一定の増収効果が期待されるが、ゴマに特化した研究は少ない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中程度。高日照を好むため、ある程度の耐性があると考えられる。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、潜葉性の害虫や南方系の病害の北上が懸念される。",
+      "disease_resistance_stability": "品種による。在来種は地域の病害虫に耐性を持つものが多い。",
+      "beneficial_organism_relationships": "花はミツバチなど多様な訪花昆虫を引き寄せる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯・温帯の一部（サヘル地帯、インド亜大陸、東南アジアなど）",
+        "2050_projection": "現在の栽培限界地域（温帯高緯度地域）での栽培可能性が拡大。一方、既存の熱帯乾燥地域では、さらなる高温と干ばつで生産性が低下するリスクがある。",
+        "2100_projection": "適地の北上はさらに進むが、多くの主要生産地で極端な熱ストレスと水不足が深刻化する可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種内の交雑は容易。野生近縁種との交雑に関する研究は存在するが、自然環境下での発生頻度データは限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培種（S. indicum）内の品種間交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "S. malabaricumなど一部の野生種とは交雑可能で、育種に利用されている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培圃場の近くに野生種が生育する地域では、自然交雑が起こる可能性が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "起源中心地であるアフリカやインドには、形態、種子の色、油分含量、耐病性など多様な特性を持つ在来種が豊富に存在する。",
+      "wild_gene_pool": "野生近縁種は、耐乾性、耐病性、裂莢しにくい性質（非裂開性）などの貴重な遺伝資源の宝庫である。",
+      "adaptive_genetic_variation": "乾燥地帯や湿潤地帯など、多様な環境に適応した遺伝的変異が確認されている。",
+      "inbreeding_depression_risk": "自家受粉性だが、ある程度の他家受粉も起こるため、リスクは中程度。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アフリカ・サヘル地帯",
+        "environmental_pressure": "長期的な干ばつと不規則な降雨",
+        "adaptive_response": "生育期間の短縮、深い根系の発達、高温下での開花・結実能力",
+        "time_scale": "数百年～数千年",
+        "mechanism": "干ばつに耐える遺伝子群の自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性、耐塩性、耐病性をさらに向上させる高い可能性がある。",
+      "improved_nutritional_content": "高セサミン含有や高オレイン酸など、特定の機能性成分を強化する可能性がある。",
+      "novel_characteristics": "非裂開性（収穫ロスを減らす重要形質）や機械収穫適性などを野生種から導入する研究が進んでいる。",
+      "hybrid_vigor_potential": "他家受粉を利用したF1ハイブリッド品種では、顕著な収量増加が見られる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部の遠縁な野生種とは、胚珠の敗退など交雑不和合性が存在する。",
+      "chromosome_compatibility": "多くの野生種は栽培種と同じ染色体数（2n=26）を持つが、倍数性の異なる種も存在する。",
+      "fertility_of_hybrids": "近縁種との雑種は稔性を持つことが多いが、遠縁種との雑種は不稔になる場合がある。",
+      "backcrossing_success": "戻し交配は、有用遺伝子を栽培種に導入するための標準的な手法として確立されている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水ストレス",
+        "adaptive_traits": [
+          "深い根系",
+          "クチクラ層の発達",
+          "気孔の開閉制御"
+        ],
+        "heritability": "中程度から高い",
+        "response_to_selection": "干ばつ条件下で生き残った個体が子孫を残すことで、耐乾性の集団が形成される。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ゴマの植物学的特性からの推論が主。リジェネラティブ農業システムでのゴマの役割に関する直接的な研究はまだ少ないが、伝統的な混作体系からの知見は豊富。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "強力な主根が土壌深くまで伸長し、硬盤を破砕して土壌の通気性と透水性を改善する。",
+      "organic_matter_contribution": "収穫後の残渣（茎や葉）は土壌有機物の供給源となる。",
+      "soil_structure_improvement": "根の働きにより団粒構造の形成を促進する。",
+      "erosion_control": "生育初期の被覆は遅いが、繁茂後はある程度の土壌侵食防止効果がある。",
+      "nutrient_cycling_role": "深い根が土壌下層から養分を吸い上げ、地表に還元する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は蜜を分泌し、ミツバチや他の多様なポリネーターを誘引する。",
+      "beneficial_insect_habitat": "テントウムシなどの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係に関する研究は進行中。",
+      "above_ground_biodiversity": "混作体系に組み込むことで、農業景観の多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が水の浸透を助ける。",
+      "moisture_retention": "土壌有機物の増加を通じて、間接的に保水性を高める可能性がある。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系を持つため、地下部への炭素蓄積ポテンシャルは比較的高いと考えられる。",
+      "soil_carbon_enhancement": "残渣の鋤き込みにより土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科作物（ソルガム、ミレット、インゲンマメ）との混作が伝統的に行われ、空間と資源を効率的に利用する。"
+      ],
+      "natural_pest_control": "一部の伝統農法では、特定の害虫を忌避する効果が報告されている。",
+      "nutrient_sharing": "直接的な栄養共有の証拠は少ないが、異なる根系深度による養分競合の緩和が期待できる。",
+      "allelopathic_interactions": "限定的。他の植物の生育を阻害する強いアレロパシーは報告されていない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "乾燥に強いゴマを輪作や間作に加えることで、気候変動下でのシステム全体の生産安定性に貢献する。",
+      "stress_tolerance": "高い耐乾性・耐暑性により、農業生態系のストレス耐性を向上させる。",
+      "recovery_capacity": "不明",
+      "adaptability": "多様な在来種の存在が、地域ごとの環境への適応を可能にする。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、食品科学、栄養学の最新情報に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "良質なタンパク質、脂質、ミネラル源として、植物性食品への関心の高まりの中で価値が増している。",
+      "food_security_contribution": "乾燥地や半乾燥地の小規模農家にとって、貴重な現金収入源であり、自家消費用の食料ともなるため、食料安全保障に貢献する。",
+      "local_food_system_integration": "加工（搾油など）が小規模でも可能なため、地域の食品システムに統合しやすい。",
+      "alternative_protein_potential": "脱脂後のゴマ粕は高タンパク質であり、家畜飼料や代替タンパク質源としての利用が研究されている。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによるごま油、タヒニ、機能性食品市場の拡大",
+        "グルテンフリー食品の原料"
+      ],
+      "value_added_products": [
+        "高セサミン含有ゴマ",
+        "オーガニック認証ゴマ",
+        "特定の風味を持つ品種限定ごま油",
+        "ゴマ由来のサプリメント"
+      ],
+      "niche_market_value": "黒ゴマや金ゴマなど、特定品種はプレミアム価格で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の消失リスクは広く認識されているが、地域ごとの定量的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種の自生地が、農地開発や気候変動により脅かされている。",
+    "climate_change_vulnerability": "栽培種自体は適応性が高いが、野生近縁種の中には特定の微気候に依存し、脆弱な種も存在する。",
+    "cultural_erosion_risk": "近代的な高収量品種の導入により、地域の食文化や伝統農法と結びついた在来種が失われる危険性がある。",
+    "conservation_actions_needed": [
+      "在来種の系統的な収集と評価",
+      "ジーンバンクでの種子保存（域外保全）",
+      "農家が栽培を続けられるような支援（域内保全）",
+      "野生近縁種の自生地保護"
+    ],
+    "priority_conservation_regions": [
+      "アフリカ（特にスーダン、エチオピア）",
+      "インド亜大陸",
+      "ミャンマー"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンクに多数の遺伝資源が保存されているが、網羅性は不完全。",
+    "in_situ_conservation_efforts": "一部の地域でコミュニティ・シードバンクや参加型育種プロジェクトが実施されているが、広範な取り組みは限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本レポートの全項目を統合した専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "アフリカのサヘル地帯",
+      "インドの乾燥・半乾燥地域"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特にCO2濃度上昇）に対する品種レベルでの生理学的応答",
+      "土壌微生物との相互作用の詳細なメカニズム",
+      "多様な在来種の機能性成分の網羅的解析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は多岐にわたるが、体系的な国際データベースは限定的。代表的なタイプを記載。"
+      },
+      "variety_name": "White Sesame",
+      "local_name": "Safed Til (Hindi)",
+      "origin_region": "全世界で栽培",
+      "distinctive_characteristics": "外皮が白または淡黄色。油分含量が高く、風味が穏やか。皮を剥いて製菓やタヒニに使われることが多い。",
+      "cultural_importance": "タヒニやハルヴァなど中東の食文化に不可欠。世界的に最も広く流通しているタイプ。",
+      "climate_adaptation": "品種により多様だが、全般的に高い。",
+      "conservation_status": "商業的に広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は多岐にわたるが、体系的な国際データベースは限定的。代表的なタイプを記載。"
+      },
+      "variety_name": "Black Sesame",
+      "local_name": "Kuro Goma (Japanese), Kala Til (Hindi)",
+      "origin_region": "東アジア、南アジア",
+      "distinctive_characteristics": "外皮が黒色。香りが非常に強く、抗酸化物質（アントシアニンなど）をより多く含む。油分は白ゴマよりやや少ない傾向。",
+      "cultural_importance": "東アジアでは薬膳や菓子、調味料として珍重される。アーユルヴェーダや伝統中国医学で薬効が高いとされる。",
+      "climate_adaptation": "特定の地域気候に適応した在来種が多い。",
+      "conservation_status": "多くの在来種が存在するが、一部は消失の危機にある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "GRIN-Global Database",
+      "Plants of the World Online (Kew)",
+      "Ethnobotany of Sesame (Book)",
+      "Journal of Agricultural and Food Chemistry"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種の遺伝子機能の網羅的解明"
+    ],
+    "regional_data_coverage": "アジアとアフリカに関する情報は豊富だが、ラテンアメリカでの利用に関するデータは比較的少ない。",
+    "missing_information": [
+      "特定の先住民コミュニティにおける儀礼的利用の詳細",
+      "土壌炭素隔離能力の定量データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

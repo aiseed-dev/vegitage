@@ -1,0 +1,582 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "Primula属は主に観賞用として広く研究されているが、食用の伝統野菜としての体系的なデータは極めて限定的。情報は主に民族植物学、園芸学、薬学の文献から統合。本データは主に食用利用の歴史があるPrimula veris（カウスリップ）とPrimula vulgaris（プリムローズ）を念頭に置いている。"
+    },
+    "primary_name": "Primrose / Cowslip",
+    "scientific_name": "Primula L.",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "花",
+      "根"
+    ],
+    "origin_region": "北半球の温帯および冷涼な地域",
+    "wild_relatives": [
+      "Primula属には約500種が存在し、その多くが野生種であり、遺伝的近縁種と見なされる。"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "観賞用植物として世界的に普及しているため、各言語での名称は豊富に存在する。食用としての名称はより限定的。"
+    },
+    "international": {
+      "en": [
+        "Primrose",
+        "Cowslip",
+        "Oxlip",
+        "Polyanthus"
+      ],
+      "scientific_common": "Primula"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Schlüsselblume",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Primevère",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Primula",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Prímula",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "サクラソウ（桜草）",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "报春花 (Bàochūnhuā)",
+            "script": "Hans"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な植物分類。"
+    },
+    "family": {
+      "en": "Primrose family",
+      "la": "Primulaceae"
+    },
+    "genus": {
+      "en": "Primrose",
+      "la": "Primula"
+    },
+    "species": {
+      "en": "Common Primrose / Cowslip",
+      "la": "Primula vulgaris / Primula veris"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Section",
+        "name": "多数の節に分類される（例: Primula, Auricula）"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食用としての文化的価値は主にヨーロッパの歴史的・民俗的文脈に限定される。観賞用としての文化的価値は非常に高いが、本評価軸では食用・薬用に焦点を当てる。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "主にイギリスや中央ヨーロッパで、若葉がサラダ（potherb）として、花がワイン（カウスリップワイン）や砂糖漬け、ジャムに利用された。根は伝統的な去痰薬として重要であった。春の訪れを告げる象徴的な植物として、メイデーなどの祭事にも関連付けられる。",
+        "seasonal_significance": "早春の食料源および薬草として重要。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イギリス伝統料理（歴史的）",
+        "role": "rare",
+        "traditional_dishes": [
+          "Cowslip Wine",
+          "Primrose Salad",
+          "Candied Primrose Flowers"
+        ],
+        "preparation_methods": [
+          "生食（サラダ）",
+          "醸造",
+          "砂糖漬け"
+        ],
+        "cultural_context": "現代ではほぼ失われたが、救荒食や季節の風味付けとして歴史的に利用されていた。ヴィクトリア朝時代には花を食用にすることが流行した。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマの博物学者プリニウスによる記述がある可能性があるが、中世ヨーロッパのハーブ療法でその利用が明確になる。特にヒルデガルト・フォン・ビンゲンなどが薬効を記録している。",
+      "trade_routes": "国際的な交易品としての役割はほぼない。",
+      "cultural_exchange": "ヨーロッパ内でのハーブ療法の知識交換において役割を果たした。",
+      "domestication_history": "食料としての栽培化は行われていない。利用は野生種の採集が基本。観賞用の栽培化は16世紀以降に活発化した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に極めて弱い。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "高地などの冷涼な地域でのみ可能性あり。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼で湿潤な気候、半日陰の林床や草地。水はけの良い腐植質な土壌を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の極端な高温と乾燥を避ける必要がある。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "多くの種が山岳地帯を原産地とし、高地気候に適応している。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "秋または早春",
+        "harvest_season": "春（開花期に葉と花を収穫）",
+        "growing_period_days": "不明（多年草）"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産されていない）",
+      "factors_affecting_yield": [
+        "日照条件（半日陰が最適）",
+        "土壌水分",
+        "腐植質の量"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（食料としての商業生産は実質的に存在しない）",
+      "major_producers": []
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栄養成分の体系的データは乏しい。機能性成分（特にサポニン）に関する薬学的研究は存在するが、食品としての研究ではない。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "若葉に豊富に含まれるとされるが定量データは限定的",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "トリテルペンサポニン（プリムラ酸など）",
+        "concentration": "主に根と花に高濃度",
+        "health_effect": "去痰作用、抗炎症作用"
+      },
+      {
+        "compound": "フラボノイド（ケンフェロール、クェルセチンなど）",
+        "concentration": "花と葉",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フェノール配糖体（プリムベリン、プリムラベリン）",
+        "concentration": "根",
+        "health_effect": "鎮痙作用、鎮静作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "西洋伝統ハーブ療法",
+        "uses": [
+          "咳、気管支炎、百日咳の去痰薬",
+          "神経痛、頭痛、不眠の鎮静薬"
+        ],
+        "preparation": "根の乾燥粉末、煎じ薬、シロップ、チンキ剤"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "ドイツのコミッションEモノグラフにより、P. verisの根が気管支カタルに対する去痰薬として承認されている。"
+      ],
+      "ongoing_research": [
+        "抗酸化、抗炎症、抗菌作用に関する基礎研究"
+      ],
+      "safety_considerations": "一部の種に含まれるプリミン（キノン誘導体）は接触性皮膚炎を引き起こす可能性がある。サポニンを多量に摂取すると胃腸を刺激する可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "現代における料理利用は非常に稀であり、情報は主に歴史的文献や foraging（野生採集）のコミュニティから得られる。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ（特にイギリス）",
+        "methods": [
+          "生食",
+          "湯通し",
+          "砂糖漬け",
+          "醸造"
+        ],
+        "flavor_role": "副味/香辛料",
+        "typical_combinations": [
+          "他の野草とのサラダ",
+          "デザートの飾り",
+          "ワイン、シロップ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "1年以上（主に薬用根）",
+        "quality_changes": "香りの変化、機能性成分の劣化"
+      },
+      {
+        "method": "砂糖漬け",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感と風味の変化"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "葉：わずかに苦味と辛味、レタスに似る。花（P. veris）：甘く、アニスのような香り。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "葉：柔らかい。花：繊細。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Primula属の気候変動適応性に関する研究は、食料生産の観点からは皆無。評価は、多くの種が冷涼湿潤な山岳・森林地帯を原産とすることからの生態学的推測に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-20°C",
+      "extreme_heat_survival": "25°C以上で生育不良",
+      "cold_tolerance": "多くの種は耐寒性が高い（-15°C以下）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低いと推定される",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "年間800mm以上の湿潤な環境を好む"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "草丈が低いため風には比較的強い",
+      "hail_damage_recovery": "葉の損傷からの回復は可能だが遅い",
+      "rapid_temperature_change": "春の遅霜には脆弱な場合がある"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "林床植物が多いため、高い紫外線耐性はないと推定される"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によるナメクジやアブラムシの活動期間長期化に脆弱な可能性",
+      "disease_resistance_stability": "高温多湿による灰色かび病などのリスク増大",
+      "beneficial_organism_relationships": "送粉者との共生関係が気候変動による開花時期のズレで影響を受ける可能性"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "北半球の温帯・冷帯の森林、草地、山岳地帯",
+        "2050_projection": "現在の分布域の南部から後退し、より高緯度・高標高の地域へ移動",
+        "2100_projection": "分布域の大幅な縮小が予測される",
+        "confidence_level": "中（生態学的ニッチモデルに基づく一般的な予測）"
+      }
+    ],
+    "climate_adaptation_score": 2
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "観賞用園芸の分野で、Primula属の交雑親和性は非常によく研究されており、多くの人工交配種が作出されている。自然環境下でも種間交雑が報告されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多様な変種、亜種が存在し、種内交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Primula veris x P. vulgaris (= P. x polyantha)",
+        "Primula elatior x P. vulgaris"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない"
+      ],
+      "successful_natural_hybrids": [
+        "P. x polyantha（ポリャンタ）は自然交雑帯で頻繁に見られる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "食用品種としての在来種は存在しないが、地域個体群の遺伝的多様性は高い。",
+      "wild_gene_pool": "約500種からなる広大な野生遺伝子プールが存在する。",
+      "adaptive_genetic_variation": "様々な環境（高山、湿地、林床）に適応した種分化が見られ、適応的遺伝変異は豊富。",
+      "inbreeding_depression_risk": "個体群のサイズによるが、一般的には低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ヨーロッパのアルプス山脈",
+        "environmental_pressure": "標高、土壌タイプ、紫外線強度",
+        "adaptive_response": "草丈の矮小化、花色の変化、特定の送粉者への適応など、著しい種分化が見られる。",
+        "time_scale": "数千年〜数万年",
+        "mechanism": "異所的種分化、生態的種分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "異なる環境に適応した種（例：高山種と低地種）を交配させることで、気候耐性を向上させる理論的可能性はある。",
+      "improved_nutritional_content": "不明。食用形質を目的とした交配が行われていないため、データがない。",
+      "novel_characteristics": "観賞用では花色、花形、開花時期など多様な新特性が作出されている。",
+      "hybrid_vigor_potential": "非常に高い。園芸品種の多くが雑種強勢を利用している。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "異数性、開花時期の不一致、自家不和合性のメカニズムなど、節（Section）が異なると交雑障壁が高い。",
+      "chromosome_compatibility": "種によって染色体数が異なる場合があり、交雑の障壁となる。",
+      "fertility_of_hybrids": "多くの種間雑種は稔性を持つが、一部は不稔となる。",
+      "backcrossing_success": "一般的に可能。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "開花時期（早春の気候変動）",
+        "adaptive_traits": "開花タイミング",
+        "heritability": "高いと推定",
+        "response_to_selection": "気候変動による開花時期の前進が報告されている。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Primula属のリジェネラティブ農業への適性に関する直接的な研究はない。評価は、その植物学的特性からの推測に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がるひげ根。土壌表面の安定化に寄与。",
+      "organic_matter_contribution": "多年草であり、毎年の落葉や枯死した根が有機物を供給する。",
+      "soil_structure_improvement": "限定的。根が深くないため、土壌深層の改善効果は低い。",
+      "erosion_control": "地被植物として機能し、特に林床や傾斜地での表土流出を抑制する効果が期待できる。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "早春に開花し、活動を開始したばかりのハチや蝶など、多くの送粉者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "菌根菌と共生することが知られている。",
+      "above_ground_biodiversity": "特定の昆虫の食草となることがある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表を覆うことで雨滴による土壌の固化を防ぎ、水の浸透を助ける可能性がある。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "侵食防止効果に付随して、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "小さい",
+      "below_ground_carbon": "多年草であるため根系に炭素を貯留するが、その量は少ないと推定される。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素の増加に寄与する可能性があるが、効果は限定的。",
+      "carbon_sequestration_rate": "不明。低いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "樹木の下草（アグロフォレストリーシステム）として、地被や送粉者誘引の役割が期待できる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草であるため、一度定着すれば管理が少なく、生態系の安定性に寄与する。",
+      "stress_tolerance": "冷涼な環境には強いが、高温や乾燥には弱い。",
+      "recovery_capacity": "地下茎や種子により、ある程度の撹乱からは回復できる。",
+      "adaptability": "種レベルでは高いが、個々の品種は限定的。"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用としての現代的応用はニッチ市場に限られる。観賞用としての市場は巨大。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミンC源としての歴史的利用があるが、現代における重要性は低い。",
+      "food_security_contribution": "ほぼない。",
+      "local_food_system_integration": "Foraging（野生採集）やエディブルフラワーとして、地域のレストランやファーマーズマーケットで限定的に利用される可能性。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エディブルフラワー市場",
+        "高級レストラン向けの珍しい食材",
+        "伝統的なハーブティーやサプリメント"
+      ],
+      "value_added_products": [
+        "ハーブティー",
+        "チンキ剤",
+        "シロップ、リキュール",
+        "砂糖漬け"
+      ],
+      "niche_market_value": "高い潜在性を持つが、市場は非常に小さい。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストには多くのPrimula属の種が記載されている。保全は主に生息地の保護に焦点が当てられている。"
+    },
+    "genetic_erosion_risk": "中（食用としての遺伝資源はそもそも体系化されていないが、野生個体群が脅威に晒されている）",
+    "habitat_loss_threat": "高い。生息地である森林、湿地、草地の開発や農業利用、環境汚染が主な脅威。",
+    "climate_change_vulnerability": "高い。特に山岳地帯の種は、気温上昇により生育適地を失うリスクがある。",
+    "cultural_erosion_risk": "非常に高い。食用・薬用としての伝統知識は、ヨーロッパでもほとんど失われつつある。",
+    "conservation_actions_needed": [
+      "生息地の保全と再生",
+      "食用・薬用に関する民族植物学的知識の記録と継承",
+      "植物園などでの生息域外保全（ex-situ conservation）"
+    ],
+    "priority_conservation_regions": [
+      "ヨーロッパのアルプス山脈",
+      "中国のヒマラヤ地域",
+      "日本の山岳地帯"
+    ],
+    "ex_situ_conservation_status": "多くの植物園で観賞用として多数の種が収集・保存されている。",
+    "in_situ_conservation_efforts": "多くの生息地が国立公園や自然保護区に指定されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食用野菜としての評価ではなく、文化・生物多様性を持つ植物としての総合評価。"
+    },
+    "cultural_heritage_value": 6,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中（伝統知識の消失リスクが高いため）",
+    "cross_cultural_exchange_potential": 4,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "イギリス",
+      "ドイツ",
+      "アルプス地域"
+    ],
+    "knowledge_gaps": [
+      "食用に適した種の栄養成分に関する網羅的データ",
+      "食用利用の安全性評価（特にプリミン含有量）",
+      "気候変動に対する各種の生理学的応答"
+    ],
+    "global_dictionary_compatibility": 5
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "これらは園芸品種ではなく、食用・薬用として歴史的に利用されてきた代表的な「種」。"
+      },
+      "variety_name": "Cowslip",
+      "local_name": "カウスリップ",
+      "origin_region": "ヨーロッパ、西アジア",
+      "distinctive_characteristics": "P. vulgarisより背が高く、黄色い筒状の花が散形花序をなす。花に甘い香りがある。",
+      "cultural_importance": "カウスリップワインの原料として有名。伝統的な去痰薬としても重要。",
+      "climate_adaptation": "冷涼な草地を好む。日当たりを好むが、乾燥には弱い。",
+      "conservation_status": "一部地域で農業近代化により減少したが、現在は安定。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "これらは園芸品種ではなく、食用・薬用として歴史的に利用されてきた代表的な「種」。"
+      },
+      "variety_name": "Common Primrose",
+      "local_name": "プリムローズ",
+      "origin_region": "西ヨーロッパ、南ヨーロッパ",
+      "distinctive_characteristics": "淡黄色の花が株元から単生する。葉がサラダに利用される。",
+      "cultural_importance": "春の象徴。若葉が伝統的にサラダとして食された。",
+      "climate_adaptation": "冷涼な林床や日陰を好む。湿潤な環境が必要。",
+      "conservation_status": "一般的で安定している。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-16",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew (Plants of the World Online)",
+      "European Medicines Agency (Herbal medicine: Primulae radix)",
+      "Ethnobotanical literature on European wild food plants",
+      "Horticultural databases on Primula hybridization"
+    ],
+    "major_knowledge_gaps": [
+      "食用としての栄養価および安全性に関する科学的データ",
+      "気候変動シナリオ下での栽培適応性に関する研究",
+      "リジェネラティブ農業システムにおける定量的貢献度の評価"
+    ],
+    "regional_data_coverage": "ヨーロッパに偏っており、アジアや北米での伝統的利用に関する情報は非常に少ない。",
+    "missing_information": [
+      "商業生産データ",
+      "収量データ",
+      "詳細な栄養プロファイル"
+    ],
+    "update_priority": "中",
+    "quality_score": 6
+  }
+}

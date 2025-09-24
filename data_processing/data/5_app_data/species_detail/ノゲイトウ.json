@@ -1,0 +1,692 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース（PROTA, Kew）、民族植物学研究、農業研究機関の報告書を統合。栽培品種と野生型の区別が流動的である点に注意が必要。"
+    },
+    "primary_name": "Leaf Celosia",
+    "scientific_name": "Celosia argentea",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "種子",
+      "花"
+    ],
+    "origin_region": "熱帯アフリカ",
+    "wild_relatives": [
+      "Celosia trigyna",
+      "Celosia isertii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の植物名データベースと民族植物学の記録を照合。名称は食用、薬用、観賞用の区別なく使用されることがある。"
+    },
+    "international": {
+      "en": [
+        "Lagos spinach",
+        "Silver spinach",
+        "Quail grass",
+        "Silver cock's comb"
+      ],
+      "scientific_common": "Leaf Celosia"
+    },
+    "regional": [
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "yo",
+            "name": "sọkọ yòkòtò",
+            "script": "Latn"
+          },
+          {
+            "lang": "sw",
+            "name": "Mfungu",
+            "script": "Latn"
+          },
+          {
+            "lang": "ha",
+            "name": "alayyáfoo",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "सफेद मुर्गा",
+            "script": "Deva"
+          },
+          {
+            "lang": "ta",
+            "name": "பண்ணைக்கீரை",
+            "script": "Taml"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Boroco",
+            "script": "Latn"
+          },
+          {
+            "lang": "tl",
+            "name": "Kadayohan",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "青葙",
+            "script": "Hans"
+          },
+          {
+            "lang": "ja",
+            "name": "ノゲイトウ",
+            "script": "Jpan"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ヨルバ（ナイジェリア）",
+        "name": "sọkọ yòkòtò",
+        "cultural_significance": "「夫の頬をふっくらさせる」という意味。栄養価が高く、家族を健康にする野菜としての価値を示す。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Amaranth family",
+      "la": "Amaranthaceae"
+    },
+    "genus": {
+      "en": "Cockscomb",
+      "la": "Celosia"
+    },
+    "species": {
+      "en": "Silver cock's comb",
+      "la": "argentea"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "Celosia argentea var. argentea (食用)"
+      },
+      {
+        "rank": "var.",
+        "name": "Celosia argentea var. cristata (観賞用)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、文化人類学の文献に基づき、特に西アフリカと東南アジアにおける重要性を評価。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "西アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "スープ（例：Efo riro）やシチューの主要な葉物野菜。市場で日常的に売買される重要な現金収入源。産後の回復食としても利用される。",
+        "seasonal_significance": "雨季の主要な緑黄色野菜として食料安全保障に貢献する。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "インドネシアやフィリピンで、炒め物やスープに利用される。伝統医学で解熱や解毒に用いられる。",
+        "seasonal_significance": "高温多湿な気候で容易に育つため、年間を通じて利用可能な野菜。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "西アフリカ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Efo riro (ナイジェリア)",
+          "Soko soup"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "蒸し煮"
+        ],
+        "cultural_context": "パーム油、唐辛子、干し魚などと共に煮込むのが一般的。祝い事や日常の食事に欠かせない。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アフリカ大陸で古くから自生し、食料や薬として利用されてきた。正確な利用開始年代は不明だが、数千年に及ぶと推定される。",
+      "trade_routes": "主要な交易品ではなかったが、雑草としての強健さから、人の移動に伴い汎熱帯地域へ非意図的に拡散したと考えられる。",
+      "cultural_exchange": "不明",
+      "domestication_history": "明確な栽培化の歴史は不明。野生・半野生の状態から、より葉が大きく苦味の少ない個体を選抜する形で、地域ごとに緩やかに栽培化が進んだと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好む。年間を通じて栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "夏季に旺盛に生育する。霜には弱い。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏季の一年生作物として栽培可能。霜が降りる前に収穫。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "C4植物であり乾燥に強いが、商業生産には灌漑が必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年（主に雨季の始まり）",
+        "harvest_season": "播種後30-60日",
+        "growing_period_days": 30
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": 45
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 40,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌肥沃度",
+        "水分供給",
+        "収穫頻度",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ナイジェリア",
+          "production_share": null,
+          "characteristics": "国内消費が主。小規模農家による生産が中心で、都市部の市場へ供給。"
+        },
+        {
+          "country": "ベナン",
+          "production_share": null,
+          "characteristics": "重要な伝統野菜であり、広く栽培されている。"
+        },
+        {
+          "country": "インドネシア",
+          "production_share": null,
+          "characteristics": "家庭菜園や小規模な商業栽培で生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変動が大きい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "25-38",
+        "protein_g": "2.5-4.7",
+        "carbs_g": "4.0-6.0",
+        "fat_g": "0.4-0.7",
+        "fiber_g": "1.5-2.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "200-350 mg/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "3-15 mg/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンA（βカロテンとして）",
+          "amount": "4000-9000 μg/100g",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "25-60 mg/100g",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド（ケルセチン、ケンペロール）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "ベタレイン（赤色品種）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、免疫調節作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アフリカ",
+        "medical_system": "伝統医学",
+        "uses": [
+          "下痢止め",
+          "駆虫",
+          "皮膚病治療",
+          "眼病治療"
+        ],
+        "preparation": "葉の煎じ汁を飲む、または患部に湿布として用いる。"
+      },
+      {
+        "region": "アジア",
+        "medical_system": "伝統医学（中医学、アーユルヴェーダ）",
+        "uses": [
+          "解熱",
+          "止血",
+          "肝機能改善"
+        ],
+        "preparation": "種子（青葙子）や全草を乾燥させて煎じる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化活性",
+        "抗炎症作用",
+        "抗菌活性",
+        "血糖降下作用"
+      ],
+      "safety_considerations": "葉にはシュウ酸が含まれるため、多量に生食すると腎臓結石のリスクがある可能性がある。通常、茹でこぼすことでシュウ酸は減少する。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の料理法に関する文献、レシピデータベースを調査。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "西アフリカ",
+        "methods": [
+          "煮込み",
+          "蒸し煮"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "パーム油",
+          "唐辛子",
+          "タマネギ",
+          "干し魚",
+          "メロンの種（Egusi）"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "炒め物",
+          "スープ",
+          "茹でる"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ニンニク",
+          "エシャロット",
+          "エビペースト",
+          "ココナッツミルク"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し",
+        "regions": [
+          "アフリカ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "ビタミンCは減少するが、ミネラルは保持される。風味が凝縮する。"
+      },
+      {
+        "method": "粉末化",
+        "regions": [
+          "アフリカ"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "乾燥葉を粉砕し、スープのとろみ付けや栄養強化に利用する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "マイルド、ほうれん草に似るが土臭さは少ない。わずかな甘み。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理すると柔らかくなる。品種によっては若干のぬめり（ムシラージ）が出る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは限定的。C4植物としての生理学的特性から高い適応性が推定される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生育可能",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "C4光合成経路を持つため、水利用効率が高い。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1500 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎がしなやかで倒伏しにくいが、強風で葉が傷つくことがある。",
+      "hail_damage_recovery": "生育が旺盛なため、軽度の損傷からは速やかに回復する。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C4植物のため、C3植物ほどCO2濃度上昇による直接的な増収効果は大きくないとされる。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "一般的に強健だが、温暖化により害虫（ヨトウムシ、アザミウマなど）の発生期間が長期化する可能性がある。",
+      "disease_resistance_stability": "立枯病や白さび病が発生することがあるが、多くの在来種は地域環境に適応し高い抵抗性を示す。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯",
+        "2050_projection": "現在の栽培地域に加え、温帯地域の南部まで栽培可能期間が延長されると予測。",
+        "2100_projection": "温帯地域の大部分で夏季作物としての栽培が容易になると予測。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "主に観賞用品種の育種に関する情報が中心。食用品種の遺伝的多様性や自然交雑に関する体系的な研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "食用（緑色種）と食用（赤色種）は容易に交雑する。",
+        "食用種と観賞用種（ケイトウ、ヤリゲイトウ）は交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Celosia trigynaなど一部の近縁野生種との交雑が報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "報告なし"
+      ],
+      "successful_natural_hybrids": [
+        "栽培地周辺の雑草化した個体群には、栽培型と野生型の遺伝子が混ざった多様な中間型が見られる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アフリカの多様性中心地には、葉の色、形、大きさ、草姿に関して非常に高い在来品種の多様性が存在する。",
+      "wild_gene_pool": "汎熱帯に広がる雑草的な野生集団が巨大な遺伝子プールを形成しており、栽培型との遺伝子流動が続いている。",
+      "adaptive_genetic_variation": "乾燥、塩害、貧栄養土壌など、様々なストレス環境に適応した地域個体群が存在する。",
+      "inbreeding_depression_risk": "他家受精性（雌雄同株だが雄性先熟）が高いため、近交弱勢のリスクは比較的低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "西アフリカのサヘル地帯",
+        "environmental_pressure": "長い乾季と短い雨季、高温、貧栄養土壌",
+        "adaptive_response": "早熟性、高い耐乾性、効率的な養分利用能力を持つ個体群が発達。",
+        "time_scale": "不明（数百年〜数千年）",
+        "mechanism": "自然選択による適応遺伝子の集積"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種の持つ極端な耐乾性や耐塩性を栽培品種に導入するポテンシャルが高い。",
+      "improved_nutritional_content": "野生種や在来種の中から高タンパク、高ミネラルの系統を選抜・交配できる可能性がある。",
+      "novel_characteristics": "観賞用種の持つベタレイン色素を食用品種に導入し、機能性を高めることが可能。",
+      "hybrid_vigor_potential": "異なる地域由来の在来種を交配することで雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほとんどない。",
+      "chromosome_compatibility": "基本染色体数はx=9。2n=36の四倍体と2n=72の八倍体が存在する。",
+      "fertility_of_hybrids": "種内交雑では高い。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い根系、クチクラ層の発達、気孔の制御",
+        "heritability": "不明",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業システムにおける本種の役割に関する直接的な研究はほぼない。植物の特性と伝統的な混作体系からの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根と多数の側根からなる根系を持つが、特に深根性ではない。",
+      "organic_matter_contribution": "生育が旺盛でバイオマス生産量が多いため、収穫残渣を土壌に還元することで有機物供給源となる。",
+      "soil_structure_improvement": "限定的",
+      "erosion_control": "生育初期から葉が地面を覆うため、降雨による土壌侵食を軽減する効果がある。",
+      "nutrient_cycling_role": "土壌表層から養分を効率よく吸収する。窒素固定能力はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は小さく目立たないが、ハチやアブなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "葉による被覆が土壌への雨滴の衝撃を和らげ、水浸透を助ける可能性がある。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "高い",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。速やかに分解される。",
+      "below_ground_carbon": "根のバイオマスは限定的で、長期的な炭素貯留への貢献は小さい。",
+      "soil_carbon_enhancement": "不耕起栽培や残渣の土壌還元を通じて、土壌炭素の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ、キャッサバ、ヤムイモとの混作（伝統的アグロフォレストリー）"
+      ],
+      "natural_pest_control": "多様な植生の一部として機能することで、特定の害虫の大発生を抑制する可能性がある。",
+      "nutrient_sharing": "異なる根の深さを持つ作物との組み合わせで、土壌養分を効率的に利用する。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "伝統的な多品目栽培システムにおいて、他の作物が不作の際のリスクを分散する役割を果たす。",
+      "stress_tolerance": "高い",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食料安全保障や栄養改善に関する国際機関の報告書、および市場トレンド分析に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク、高ミネラルな緑黄色野菜として、植物性中心の食生活において重要な役割を果たす。",
+      "food_security_contribution": "「忘れられた作物（Orphan Crop）」の一つであり、特に気候変動の影響を強く受ける地域での食料安全保障に大きく貢献するポテンシャルを持つ。",
+      "local_food_system_integration": "自家採種が容易で、外部からの資材投入をあまり必要としないため、地域の自立した食料システムの中核となりうる。",
+      "alternative_protein_potential": "葉のタンパク質含有率が高く、種子はアマランサス同様に疑似穀物として利用可能で、タンパク質源としての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けに「スーパーフード」としてのマーケティング。",
+        "エスニック食材として欧米市場での需要開拓。"
+      ],
+      "value_added_products": [
+        "栄養強化用の乾燥葉パウダー",
+        "グルテンフリーの種子粉",
+        "機能性成分を抽出した健康補助食品"
+      ],
+      "niche_market_value": "気候変動に強いサステナブルな野菜として、意識の高い消費者層にアピールできる。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物多様性保全機関の報告や、食文化研究からの定性的評価に基づく。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生集団は開発による生息地の喪失の脅威に晒されている。",
+    "climate_change_vulnerability": "種全体としては低いが、特定の地域に適応した在来品種は気候の急激な変化に脆弱な可能性がある。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "多様性中心地における在来品種の網羅的収集と特性評価",
+      "コミュニティベースでの種子バンク設立と在来種の利用促進",
+      "伝統的知識の記録と次世代への継承"
+    ],
+    "priority_conservation_regions": [
+      "西アフリカ（特にナイジェリア、ベナン）",
+      "インド亜大陸",
+      "東南アジア島嶼部"
+    ],
+    "ex_situ_conservation_status": "World Vegetable Centerなどの国際的なジーンバンクで一部収集されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "各地で小規模な取り組みが行われているが、体系的な保全活動は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報を統合した専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ナイジェリアのヨルバランド",
+      "ベナン南部",
+      "インドネシアのスラウェシ島"
+    ],
+    "knowledge_gaps": [
+      "在来品種ごとの栄養価と機能性成分の定量的データ",
+      "様々な環境ストレス（塩害、洪水）に対する品種レベルでの耐性評価",
+      "リジェネラティブ農業システムにおける具体的な土壌改良効果の検証"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "正式な品種登録ではなく、地域で区別されている「タイプ」を記載。"
+      },
+      "variety_name": "Soko Yokoto (Green Type)",
+      "local_name": "Soko elewe tutu",
+      "origin_region": "西アフリカ（ナイジェリア）",
+      "distinctive_characteristics": "葉は広く、明るい緑色。生育旺盛で収量性が高い。柔らかく、味がマイルドで調理しやすい。",
+      "cultural_importance": "ナイジェリア南部で最も一般的に消費されるタイプ。市場での流通量が多い。",
+      "climate_adaptation": "高温多湿な気候に非常によく適応している。",
+      "conservation_status": "広く栽培されているが、遺伝的多様性は不明。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "正式な品種登録ではなく、地域で区別されている「タイプ」を記載。"
+      },
+      "variety_name": "Red Type",
+      "local_name": "Soko elewe pupa",
+      "origin_region": "西アフリカ",
+      "distinctive_characteristics": "葉と茎が赤紫色を帯びる。緑色種より生育はやや遅い。ベタレイン色素を多く含む。",
+      "cultural_importance": "緑色種ほど一般的ではないが、彩りや薬効を期待して利用されることがある。",
+      "climate_adaptation": "緑色種と同様に高温と乾燥に強い。",
+      "conservation_status": "緑色種に比べて栽培面積は少なく、遺伝資源として貴重。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "PROTA (Plant Resources of Tropical Africa) database",
+      "Kew Royal Botanic Gardens, Plants of the World Online",
+      "Ethnobotanical research papers on African traditional vegetables",
+      "World Vegetable Center reports"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "在来品種の網羅的な遺伝子情報"
+    ],
+    "regional_data_coverage": "アフリカに関する情報は豊富だが、アジアやラテンアメリカに関する食文化・栽培の情報は比較的少ない。",
+    "missing_information": [
+      "商業生産における詳細な経済データ",
+      "アレルゲンに関する情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

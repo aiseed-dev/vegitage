@@ -1,0 +1,656 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is well-established in major botanical and agricultural databases. Origin and wild relative data are based on extensive genetic studies."
+    },
+    "primary_name": "Adzuki bean",
+    "scientific_name": "Vigna angularis",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "葉",
+      "莢"
+    ],
+    "origin_region": "東アジア（中国、朝鮮半島、日本の温帯地域が原産地と考えられている）",
+    "wild_relatives": [
+      "Vigna angularis var. nipponensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names in East Asian languages are well-documented. International names are consistent. Indigenous names are difficult to separate from ancient regional names due to long history of cultivation."
+    },
+    "international": {
+      "en": [
+        "Adzuki bean",
+        "Azuki bean",
+        "Red bean",
+        "Red mung bean"
+      ],
+      "scientific_common": "Adzuki bean"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "アズキ / 小豆",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "红豆 (hóng dòu) / 赤豆 (chì dòu)",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "팥 (pat)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "đậu đỏ",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "लाल चवळी (laal chavali)",
+            "script": "Devanagari"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is stable and universally accepted according to major systems like APG IV."
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Cowpea genus",
+      "la": "Vigna"
+    },
+    "species": {
+      "en": "Adzuki bean",
+      "la": "Vigna angularis"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Vigna angularis var. nipponensis"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural significance in East Asia is extensively documented in culinary, historical, and anthropological literature. Its role outside this region is minimal."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "主に甘い餡（あん）に加工され、和菓子、月餅、餅の詰め物として不可欠。祝い事の赤飯や、冬至に食べる小豆粥など、季節の儀式や祝祭と深く結びついている。漢方では利尿作用や解毒作用があるとされる。",
+        "seasonal_significance": "冬至（小豆粥）、祝祭（赤飯）、年中行事の菓子など、季節や節目を象徴する食材。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "あんこ",
+          "赤飯",
+          "ぜんざい",
+          "おはぎ",
+          "大福"
+        ],
+        "preparation_methods": [
+          "煮る",
+          "蒸す",
+          "製餡"
+        ],
+        "cultural_context": "祝事、季節の行事、茶道文化に不可欠な食材。赤色が邪気を払うと信じられている。"
+      },
+      {
+        "cuisine": "中華料理",
+        "role": "common",
+        "traditional_dishes": [
+          "红豆沙 (hóng dòu shā)",
+          "粽子 (zòngzi)",
+          "月饼 (yuèbǐng)"
+        ],
+        "preparation_methods": [
+          "煮る",
+          "スープにする",
+          "餡にする"
+        ],
+        "cultural_context": "デザート（糖水）や点心の具材として広く利用される。特に中秋節の月餅には欠かせない。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "common",
+        "traditional_dishes": [
+          "팥죽 (patjuk)",
+          "팥빙수 (patbingsu)",
+          "시루떡 (sirutteok)"
+        ],
+        "preparation_methods": [
+          "煮る",
+          "粥にする",
+          "餡にする",
+          "粉にする"
+        ],
+        "cultural_context": "冬至に厄払いとして팥죽を食べる風習がある。餅（떡）の材料や夏のデザート（팥빙수）としても人気。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "約5000年前から栽培されている証拠があり、東アジアで最も古くからある作物の一つ。",
+      "trade_routes": "歴史的には東アジア域内での交易が中心であった。",
+      "cultural_exchange": "仏教の伝来と共に菓子文化が発展し、小豆の利用法が日本、中国、韓国間で伝播・洗練された。",
+      "domestication_history": "野生種のツルアズキ（Vigna angularis var. nipponensis）が、紀元前3000年頃に中国または朝鮮半島で栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿環境では病害が発生しやすく、結実不良となりやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "夏の終わりから秋にかけての栽培に適する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "主要栽培地域。夏の温和な気候を好み、生育期間中に15-25℃が最適。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の短い地域でも早生品種が栽培可能。霜に弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑なしでは栽培困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春～初夏（5月～6月）",
+        "harvest_season": "秋（9月～11月）",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "1,000 - 2,500 kg/ha",
+      "factors_affecting_yield": [
+        "日長（短日植物）",
+        "開花期の気温と水分",
+        "病害虫の発生",
+        "土壌の排水性"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産国。国内消費が主。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "高品質な品種（大納言など）の生産が盛ん。国内需要の多くを輸入に頼る。"
+        },
+        {
+          "country": "韓国",
+          "production_share": "不明",
+          "characteristics": "伝統的な国内消費が根強い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本的な栄養価はUSDA等の食品成分データベースで標準化されている。機能性成分に関する研究も多数存在する。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "329",
+        "protein_g": "19.9",
+        "carbs_g": "62.9",
+        "fat_g": "0.5",
+        "fiber_g": "12.7"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸",
+          "amount": "622µg",
+          "daily_value_percent": "156%"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "1.3mg",
+          "daily_value_percent": "66%"
+        },
+        {
+          "nutrient": "リン",
+          "amount": "381mg",
+          "daily_value_percent": "38%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "1254mg",
+          "daily_value_percent": "36%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "4.9mg",
+          "daily_value_percent": "27%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ポリフェノール（プロアントシアニジン、カテキン等）",
+        "concentration": "高い",
+        "health_effect": "強力な抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "アントシアニン",
+        "concentration": "種皮（特に濃色品種）に豊富",
+        "health_effect": "抗酸化作用、眼機能改善"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学 (TCM)",
+        "uses": [
+          "利水滲湿（利尿、むくみ解消）",
+          "解毒排膿（デトックス、化膿止め）",
+          "清熱（体の熱を冷ます）"
+        ],
+        "preparation": "煎じ薬、粥"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "血糖値上昇抑制効果",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "肝保護作用",
+        "体重管理への効果"
+      ],
+      "safety_considerations": "生豆にはレクチンが含まれるため、必ず十分に加熱調理する必要がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアにおける調理法は極めて多様で、詳細な記録が豊富に存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "煮て潰して餡にする",
+          "米と一緒に炊く",
+          "粥やスープにする",
+          "粉にして生地に混ぜ込む"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "餅",
+          "砂糖",
+          "栗",
+          "かぼちゃ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "適切に保存すれば品質は安定している。"
+      },
+      {
+        "method": "製餡（せいあん）",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "数日（冷蔵）～数ヶ月（冷凍・缶詰）",
+        "quality_changes": "砂糖を加えて加工することで保存性が高まる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかな甘み、ナッツのような風味、わずかな渋み（皮由来）",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "加熱すると柔らかく、クリーミーで粉質の食感になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性や耐乾性に関する一般的な知見はあるが、品種レベルでの定量的なデータは限定的。将来予測は一般的な作物モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "開花期の30℃以上の高温は落花や結実不良を引き起こす。",
+      "cold_tolerance": "5℃以下で生育停止。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "普通",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間中に500-750mmの降水量が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低。倒伏しやすい。",
+      "hail_damage_recovery": "中程度。",
+      "rapid_temperature_change": "開花期に敏感。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度上昇により光合成が促進される可能性があるが、高温や水ストレスが相殺する可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアズキゾウムシなどの害虫の発生地域や世代数が増加するリスクがある。",
+      "disease_resistance_stability": "高温多湿は炭疽病などの病害を助長する。",
+      "beneficial_organism_relationships": "根粒菌との共生は土壌条件に依存する。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯地域",
+        "2050_projection": "栽培適地がより高緯度（例：中国東北部、北海道北部）へシフトする可能性がある。",
+        "2100_projection": "現在の主要産地では夏の高温による収量低下が深刻化する可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種内交雑は容易で育種に利用されている。野生種との交雑可能性に関する研究は存在するが、自然環境下での実例報告は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "野生種のツルアズキ（V. angularis var. nipponensis）とは交雑可能。リョクトウ（V. radiata）やササゲ（V. unguiculata）など他のVigna属との交雑は困難。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "栽培品種と野生種ツルアズキとの自然交雑の可能性は指摘されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "東アジア各地に多様な在来種が存在し、粒の色、大きさ、早晩性などに幅広い変異が見られる。",
+      "wild_gene_pool": "野生祖先種であるツルアズキが重要な遺伝子資源となっている。",
+      "adaptive_genetic_variation": "高緯度地域と低緯度地域の品種では、日長感受性や生育期間に関する遺伝的な分化が見られる。",
+      "inbreeding_depression_risk": "自家受粉性のため、近交弱勢のリスクは比較的小さい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本（北海道）",
+        "environmental_pressure": "短い生育期間、冷涼な気候",
+        "adaptive_response": "極早生、耐冷性の形質を持つ品種群が成立。",
+        "time_scale": "数百年",
+        "mechanism": "人為選択と自然選択による適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種ツルアズキとの交雑により、病害虫抵抗性や環境ストレス耐性の向上が期待される。",
+      "improved_nutritional_content": "機能性成分（ポリフェノールなど）の含量を高める育種の可能性がある。",
+      "novel_characteristics": "新しい種皮色や種子サイズの獲得。",
+      "hybrid_vigor_potential": "自家受粉性のため、雑種強勢の利用は限定的。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の交雑には胚珠培養などの技術が必要な場合がある。",
+      "chromosome_compatibility": "Vigna属内で染色体数（2n=22）は共通しているが、構造的差異が交雑障壁となる。",
+      "fertility_of_hybrids": "種間雑種はしばしば不稔となる。",
+      "backcrossing_success": "戻し交配は有用遺伝子の導入に不可欠。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候（温度、日長）、病害虫、土壌条件",
+        "adaptive_traits": "開花時期、生育期間、耐病性",
+        "heritability": "中～高",
+        "response_to_selection": "比較的速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物としての一般的な特性に基づく評価。小豆に特化したリジェネラティブ農業の研究は少ないが、ポテンシャルは高い。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根と多数の側根からなる根系。根粒菌との共生により大気中の窒素を固定する。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物の供給源となる。",
+      "soil_structure_improvement": "根の活動が土壌団粒構造の形成を助ける。",
+      "erosion_control": "生育期には地表を覆い、土壌侵食を軽減する。",
+      "nutrient_cycling_role": "窒素固定により、後作の作物が利用できる窒素を土壌に供給する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫にとって蜜源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌やアーバスキュラー菌根菌など、多様な土壌微生物と共生関係を築く。",
+      "above_ground_biodiversity": "輪作体系に組み込むことで、単一栽培に比べ生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "土壌構造の改善を通じて、水の浸透を促進する。",
+      "moisture_retention": "被覆作物として利用することで、土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "根系を通じて土壌に炭素を供給する。",
+      "soil_carbon_enhancement": "窒素固定によるバイオマス生産の増加が、間接的に土壌炭素貯留に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシやソルガムなどのイネ科作物との混作（窒素供給）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "窒素を他の植物に供給する。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作に組み込むことで、土壌肥沃度を維持し、病害虫のサイクルを断ち切る。",
+      "stress_tolerance": "単一作物栽培より、多様な作物との組み合わせでシステム全体のストレス耐性が向上する。",
+      "recovery_capacity": "土壌の健康を改善することで、干ばつなどのストレスからの回復力を高める。",
+      "adaptability": "多様な在来種を利用することで、地域の環境への適応性を高めることができる。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場動向や食品トレンドに関する情報は豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "良質な植物性タンパク質、食物繊維、ミネラルの供給源として価値が高い。",
+      "food_security_contribution": "東アジアの地域食料安全保障に貢献している。",
+      "local_food_system_integration": "在来種は地域の食文化と結びついており、地域内循環システムの核となりうる。",
+      "alternative_protein_potential": "高い。豆乳やプロテインパウダーなどへの応用可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによる欧米市場での需要増",
+        "グルテンフリー食品としての利用",
+        "植物性ミルクやデザート市場"
+      ],
+      "value_added_products": [
+        "高級あんこ",
+        "小豆茶",
+        "化粧品原料（サポニン等）",
+        "機能性食品素材"
+      ],
+      "niche_market_value": "「大納言」などの特定品種は、高級和菓子用に高価格で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の収集・保存は行われているが、在来種の消失リスクに関する体系的な評価は不十分。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生祖先種ツルアズキの自生地（河川敷など）の開発による減少が懸念される。",
+    "climate_change_vulnerability": "中。栽培適地の移動や異常気象による収量不安定化がリスクとなる。",
+    "cultural_erosion_risk": "高。伝統的な食文化や栽培技術の継承が途絶えることで、在来種の利用が減少し、消失につながる。",
+    "conservation_actions_needed": [
+      "在来種の探索と収集",
+      "ジーンバンクでの種子保存（域外保全）",
+      "農家による種子の自家採種と栽培の奨励（域内保全）",
+      "伝統食文化の振興"
+    ],
+    "priority_conservation_regions": [
+      "日本",
+      "中国",
+      "韓国",
+      "ヒマラヤ地域"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（農研機構、WorldVegなど）で多数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域で、農家やNPOによる在来種の保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた知見に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中国雲南省",
+      "朝鮮半島",
+      "日本の各地域（在来種の多様性調査）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する品種レベルでの応答の定量的評価",
+      "リジェネラティブ農業システムにおける具体的な効果測定",
+      "在来種の機能性成分の網羅的解析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の主要品種に関する情報は豊富。"
+      },
+      "variety_name": "大納言 (Dainagon)",
+      "local_name": "大納言小豆 (Dainagon Azuki)",
+      "origin_region": "日本",
+      "distinctive_characteristics": "通常の小豆より粒が大きく、煮崩れしにくい。風味が豊かで、皮が柔らかい。",
+      "cultural_importance": "最高級のあんこの原料として、高級和菓子に不可欠。贈答品としても価値が高い。",
+      "climate_adaptation": "特定の地域（丹波、北海道など）の気候に適応している。",
+      "conservation_status": "商業的に栽培されているが、ブランドとして保護されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "一般的な品種に関する情報。"
+      },
+      "variety_name": "エリモショウズ (Erimo Shozu)",
+      "local_name": "エリモショウズ",
+      "origin_region": "日本（北海道）",
+      "distinctive_characteristics": "日本の標準的な普通小豆品種。機械収穫に適した草姿で、収量性が高い。",
+      "cultural_importance": "日本の小豆生産の基幹をなす品種で、製餡業界で広く使われる。",
+      "climate_adaptation": "北海道の冷涼な気候と短い夏に適応している。",
+      "conservation_status": "広く栽培されているが、新品種への代替が進んでいる。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "GRIN-Global Taxonomy",
+      "World Vegetable Center",
+      "Scientific literature on crop science and ethnobotany (e.g., Economic Botany, Genetic Resources and Crop Evolution)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "アフリカや南米など、マイナーな栽培地域における文化的利用の実態"
+    ],
+    "regional_data_coverage": "東アジアは非常に良好。その他の地域は限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "野生種の個体群動態と保全状況"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

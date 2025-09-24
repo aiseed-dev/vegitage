@@ -1,0 +1,540 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "学術的にはPhysalis griseaとして認識されるが、園芸市場ではしばしばPhysalis pruinosaと混同または同義として扱われる。基本情報は主要植物学データベースから統合。野生近縁種の情報は属レベルでは豊富だが、種レベルの交雑親和性については限定的。"
+    },
+    "primary_name": "Strawberry Groundcherry",
+    "scientific_name": "Physalis grisea",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実"
+    ],
+    "origin_region": "北アメリカ（特に中央部および東部）",
+    "wild_relatives": [
+      "Physalis pruinosa",
+      "Physalis pubescens",
+      "Physalis virginiana"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "英語名は園芸コミュニティで確立されているが、他の言語での固有名称は少ない。多くの地域では近縁種の名称が流用される。先住民の名称はPhysalis属全般を指すことが多く、本種に特化した名称の特定は困難。"
+    },
+    "international": {
+      "en": [
+        "Strawberry Groundcherry",
+        "Gray Groundcherry",
+        "Dwarf Cape Gooseberry"
+      ],
+      "scientific_common": "Gray Groundcherry"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ショクヨウホオズキ（の一種）",
+            "script": "Katakana/Kanji"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Cocotier gris",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "チェロキー族（推定）",
+        "name": "U-s-di Ga-tli-s-gi",
+        "cultural_significance": "Physalis属の植物を指す一般的名称の可能性が高い。食用または薬用として利用されたと考えられるが、P. griseaに特化した記録は乏しい。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類学的地位は安定している。主要な植物分類データベース（KEW, Tropicos）に基づく。"
+    },
+    "family": {
+      "en": "Nightshade",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Groundcherry",
+      "la": "Physalis"
+    },
+    "species": {
+      "en": "Gray Groundcherry",
+      "la": "grisea"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "北米の先住民による利用の歴史的証拠は存在するが、文書化された記録は少ない。現代では主に北米の家庭菜園や小規模農家で栽培されるニッチな作物であり、広範な文化的意義は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "歴史的には北米先住民が食料源として利用。現代では主に家庭菜園家や小規模農家によって栽培され、ファーマーズマーケットなどで販売される。ジャム、パイ、デザート、サラダなどに利用される。",
+        "seasonal_significance": "夏の終わりから秋にかけて収穫される季節の果実として認識される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "現代アメリカ農園料理 (Modern American Farmstead Cuisine)",
+        "role": "common",
+        "traditional_dishes": [
+          "Groundcherry Pie",
+          "Groundcherry Jam",
+          "Fresh Salsa"
+        ],
+        "preparation_methods": [
+          "生食",
+          "煮込み",
+          "焼き菓子"
+        ],
+        "cultural_context": "地域食（ローカリズム）や伝統品種（エアルーム）への関心の高まりの中で再評価されている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "北米の先住民による数世紀にわたる利用の可能性があるが、考古学的証拠は限定的。",
+      "trade_routes": "歴史的な大規模交易品としての役割は知られていない。",
+      "cultural_exchange": "ヨーロッパからの入植者との間で知識の交換があった可能性はあるが、記録は乏しい。",
+      "domestication_history": "明確な栽培化の歴史はなく、半野生的な性質を強く残している。栽培は容易で、野生集団からの選抜が主。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な季節での栽培が適している。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "春から初夏、または秋作に適している。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の心配がなくなった春に播種し、夏から秋にかけて収穫する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "短い夏でも生育可能だが、収穫期間は短くなる。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑が必須。極度の乾燥と高温は生育を阻害する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（5月-6月）",
+        "harvest_season": "晩夏から秋（8月-10月）",
+        "growing_period_days": 70
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水分供給",
+        "土壌肥沃度",
+        "雑草との競合"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "アメリカ合衆国",
+          "production_share": null,
+          "characteristics": "商業生産は極めて限定的。主に小規模農家、家庭菜園、シードセーバーによって生産されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Physalis griseaに特化した詳細な栄養分析データは乏しい。近縁種（P. pruinosa, P. peruviana）のデータを参考にしている部分が多い。伝統的薬用利用に関する信頼できる記録は非常に限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンA（β-カロテンとして）",
+          "amount": "不明",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ウィザノライド類 (Withanolides)",
+        "concentration": "不明",
+        "health_effect": "抗炎症、抗酸化作用の可能性（Physalis属に一般的に含まれる）"
+      },
+      {
+        "compound": "カロテノイド類 (Carotenoids)",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、視機能維持"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "Physalis属植物に含まれるウィザノライド類の生理活性に関する研究が進行中だが、本種に特化したものは少ない。"
+      ],
+      "safety_considerations": "未熟な果実や葉、茎など、果実以外の部位はソラニンなどのアルカロイドを含む可能性があり、摂取は避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主に北米の料理ブログや園芸雑誌で利用法が紹介されている。体系的な料理文化研究は存在しない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "北米",
+        "methods": [
+          "生食",
+          "ジャム・ジェリー",
+          "パイ・タルトの具材",
+          "サルサ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "他のベリー類",
+          "柑橘類",
+          "バニラ",
+          "ミント"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ジャム・砂糖漬け",
+        "regions": [
+          "北米",
+          "ヨーロッパ"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "加熱により酸味が増し、特有のフルーティーな香りが凝縮される。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "北米"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "レーズンのような食感と凝縮された甘みを持つようになる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘みが強く、ほのかな酸味。イチゴ、パイナップル、トマトを混ぜたような複雑な風味。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "皮は薄く、内部には多数の小さな種子がある。ジューシーで滑らかな食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応性に関する定量的研究は存在しない。栽培特性や原産地の気候からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "0°C以下では枯死（非耐霜性）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "不明"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "草丈が低く、倒伏しにくいため、風には比較的強い。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度上昇による光合成促進効果が期待される（推定）。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化による害虫（コロラドハムシなど）の北上や発生回数増加の影響を受ける可能性がある。",
+      "disease_resistance_stability": "遺伝的多様性が維持されていれば、新たな病害への適応ポテンシャルは存在する。",
+      "beneficial_organism_relationships": "在来の送粉者との関係が気候変動によって変化する可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "北米温帯地域",
+        "2050_projection": "現在の栽培適地がより北方に拡大する可能性が高い（カナダ南部など）。",
+        "2100_projection": "さらに高緯度地域への拡大と、南部地域での夏の高温によるストレス増加が予測される。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Physalis属内での交雑は知られている。P. griseaとP. pruinosaの遺伝的近さから、これらの間の自然交雑は容易に起こると考えられる。他の種との交雑能に関するデータは少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [],
+      "interspecific_compatibility": [
+        "Physalis pruinosa"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "P. griseaとP. pruinosa間の自然交雑が起きている可能性が示唆されているが、明確な研究報告は少ない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "商業的育種が進んでいないため、地域に適応した多様な在来系統が存在する可能性がある。",
+      "wild_gene_pool": "北米に分布する野生集団が重要な遺伝子プールとなっている。",
+      "adaptive_genetic_variation": "高いと推定される。",
+      "inbreeding_depression_risk": "自家和合性を持つが、他家受粉もするため、リスクは中程度。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北米",
+        "environmental_pressure": "撹乱地への適応",
+        "adaptive_response": "一年草で、発芽が早く、短期間で結実するライフサイクル。雑草的な性質。",
+        "time_scale": "不明",
+        "mechanism": "高い表現型可塑性と遺伝的多様性"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他の耐乾性や耐暑性を持つ野生種と交雑させることで、気候耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "栄養価の高い他のPhysalis種との交雑による改善の可能性がある。",
+      "novel_characteristics": "果実のサイズ、色、風味の多様化。",
+      "hybrid_vigor_potential": "高い可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "遠縁の種との間には交雑不和合性が存在する可能性がある。",
+      "chromosome_compatibility": "近縁種とは染色体数が同じ（2n=24）であることが多く、交雑は比較的容易。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、高温、病害虫",
+        "adaptive_traits": "根系の発達、開花時期の調整、二次代謝産物の生産",
+        "heritability": "不明",
+        "response_to_selection": "高いと推定"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化したリジェネラティブ農業に関する研究はない。植物の形態的・生態的特性からの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる繊維状の根系。",
+      "organic_matter_contribution": "収穫後の残渣が土壌有機物として供給される。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "匍匐性の草姿が地表面を覆い、雨滴による土壌侵食を軽減する可能性がある。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチや在来のハナバチ類など、多くの送粉者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "果実が鳥類や小型哺乳類の食料となる可能性がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地被効果により、土壌への水の浸透を助ける可能性がある。",
+      "moisture_retention": "地表面を覆うことで土壌水分の蒸発を抑制する可能性がある。",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "一年草であるため限定的。",
+      "below_ground_carbon": "根のバイオマスが小さいため限定的。",
+      "soil_carbon_enhancement": "残渣分解による短期的な土壌炭素の増加。",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）",
+        "香りの強いハーブ（害虫忌避）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "栽培が容易で、自家採種も可能なため、小規模農家のシステムにおいて作物の多様性を高める。",
+      "stress_tolerance": "中程度の乾燥や高温に耐える。",
+      "recovery_capacity": "一年草であり、毎年更新される。",
+      "adaptability": "遺伝的多様性から高い適応性を持つと推定される。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な価値は、主にニッチ市場や持続可能な食への関心の高まりから生まれている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ユニークな風味を持つ果物として、植物性食品の多様性を豊かにする。",
+      "food_security_contribution": "栽培が容易で、家庭菜園レベルでも収穫できるため、地域の食料自給率向上に貢献しうる。",
+      "local_food_system_integration": "ファーマーズマーケットやCSA（地域支援型農業）での販売に適している。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級レストラン向け食材",
+        "加工品（ジャム、ソース、ドライフルーツ）",
+        "家庭菜園用苗・種子市場"
+      ],
+      "value_added_products": [
+        "クラフトジャム",
+        "デザートソース",
+        "冷凍果実"
+      ],
+      "niche_market_value": "高い。珍しさと特有の風味が価値となる。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "IUCNレッドリストには掲載されておらず、種としての絶滅リスクは低い。しかし、地域的な遺伝的多様性や関連する伝統知識の消失リスクは存在する。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地での生息地の開発や農地化が脅威となりうる。",
+    "climate_change_vulnerability": "中程度。適応の可能性がある一方で、極端な気象現象には脆弱。",
+    "cultural_erosion_risk": "高。先住民による利用に関する知識は、伝承が途絶えることで失われる危険性がある。",
+    "conservation_actions_needed": [
+      "原産地における野生集団の遺伝的多様性の調査とモニタリング",
+      "在来系統の収集と種子バンクでの保存（ex-situ conservation）",
+      "先住民コミュニティと連携した伝統知識の記録と保全（in-situ conservation）"
+    ],
+    "priority_conservation_regions": [
+      "北米中央部・東部の原産地"
+    ],
+    "ex_situ_conservation_status": "米農務省（USDA）の種子バンクなどで一部保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "公的な大規模な取り組みは知られていない。シードセーバーなどの民間団体による活動が中心。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIによる総合評価。"
+    },
+    "cultural_heritage_value": 5,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "北米（原産地での遺伝的多様性と民族植物学的調査）"
+    ],
+    "knowledge_gaps": [
+      "正確な栄養成分データ",
+      "気候ストレス（高温・乾燥）に対する生理学的応答の定量的データ",
+      "先住民コミュニティによる具体的な利用法と伝統知識",
+      "リジェネラティブ農業システムにおける生態系サービス機能の評価"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "low",
+        "source_comment": "本種は商業的な品種改良がほとんど行われていない。'Aunt Molly's'は一般にP. pruinosaとされることが多いが、市場では本種（P. grisea）と区別されずに扱われる代表的なエアルーム系統であるため記載する。"
+      },
+      "variety_name": "Aunt Molly's (heirloom)",
+      "local_name": "Aunt Molly's",
+      "origin_region": "ポーランド（伝承）",
+      "distinctive_characteristics": "柑橘系の強い香りと甘み。生産性が高く、比較的早生。",
+      "cultural_importance": "北米のエアルーム種子交換コミュニティで非常に人気が高い。",
+      "climate_adaptation": "温帯気候によく適応する。",
+      "conservation_status": "Not threatened; widely available through seed exchanges."
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "USDA PLANTS Database",
+      "Ethnobotany of the Americas (academic literature)",
+      "Seed Savers Exchange resources"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栄養価および機能性成分の精密分析",
+      "先住民による伝統的利用に関する詳細な記録"
+    ],
+    "regional_data_coverage": "北米に偏っており、その他の地域に関する情報は非常に少ない。",
+    "missing_information": [
+      "世界的な生産統計",
+      "栽培における収量データ",
+      "詳細な薬理学的研究"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

@@ -1,0 +1,633 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is well-documented in major botanical and agricultural databases. Origin and taxonomy are clearly established."
+    },
+    "primary_name": "Gai Lan",
+    "scientific_name": "Brassica oleracea var. alboglabra",
+    "plant_type": "Biennial (cultivated as annual)",
+    "edible_parts": [
+      "茎",
+      "葉",
+      "花"
+    ],
+    "origin_region": "Southern China",
+    "wild_relatives": [
+      "Brassica oleracea var. oleracea"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are widely recorded in culinary and linguistic sources across Asia and in diaspora communities globally."
+    },
+    "international": {
+      "en": [
+        "Chinese broccoli",
+        "Chinese kale",
+        "Gai Lan",
+        "Kai-lan"
+      ],
+      "scientific_common": "Gai Lan"
+    },
+    "regional": [
+      {
+        "region": "East Asia",
+        "languages": [
+          {
+            "lang": "zh-CN",
+            "name": "芥蓝",
+            "script": "Simplified Chinese"
+          },
+          {
+            "lang": "zh-TW",
+            "name": "芥蘭",
+            "script": "Traditional Chinese"
+          },
+          {
+            "lang": "yue",
+            "name": "gai laan",
+            "script": "Cantonese Romanization"
+          }
+        ]
+      },
+      {
+        "region": "Southeast Asia",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "cải rổ",
+            "script": "Vietnamese"
+          },
+          {
+            "lang": "th",
+            "name": "คะน้า",
+            "script": "Thai"
+          },
+          {
+            "lang": "ms",
+            "name": "kailan",
+            "script": "Malay"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is stable and universally accepted within the Brassica oleracea species complex."
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Mustard genus",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Cabbage",
+      "la": "Brassica oleracea"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "alboglabra"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural significance, particularly in Cantonese and Southeast Asian cuisines, is extensively documented in culinary literature."
+    },
+    "world_prevalence": "Widespread",
+    "cultural_importance_by_region": [
+      {
+        "region": "East Asia",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "A foundational vegetable in Southern Chinese, especially Cantonese, cuisine. Valued for its crisp texture and slightly bitter taste, often used in stir-fries and steamed dishes to balance richer foods.",
+        "seasonal_significance": "Traditionally a cool-season vegetable, associated with autumn and winter meals.",
+        "cultivation_decline_risk": "Low"
+      },
+      {
+        "region": "Southeast Asia",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "Widely adopted into Thai, Vietnamese, and Malaysian cuisines. Used in a variety of stir-fries, noodle dishes, and soups. In Thailand (as 'khana'), it's famously used in 'Pad See Ew' and 'Rat Na'.",
+        "seasonal_significance": "Grown year-round in highland areas or during cooler, drier seasons in the lowlands.",
+        "cultivation_decline_risk": "Low"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "Cantonese",
+        "role": "essential",
+        "traditional_dishes": [
+          "Gai Lan with Oyster Sauce (蚝油芥蓝)",
+          "Stir-fried Beef with Gai Lan"
+        ],
+        "preparation_methods": [
+          "Stir-frying",
+          "Steaming",
+          "Blanching"
+        ],
+        "cultural_context": "Considered a 'yeet hay' (hot air) balancing vegetable in Cantonese food philosophy. Its presence provides a fresh, cleansing counterpoint in a meal."
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "Cultivation history in China dates back several centuries.",
+      "trade_routes": "Spread throughout Southeast Asia via Chinese migration and trade networks.",
+      "cultural_exchange": "Its adoption and adaptation into Southeast Asian cuisines is a prime example of culinary cultural exchange.",
+      "domestication_history": "Selected and domesticated in Southern China from earlier Brassica oleracea introductions, valued for its tender stems and heat tolerance relative to European cabbages."
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "Moderate",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "Highland cultivation (>1000m) or during cooler, drier monsoon seasons. Susceptible to bolting and pests in hot, humid lowlands."
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "Optimal climate. Thrives during the cooler, drier fall, winter, and spring months."
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "Well-suited for spring and autumn cultivation. Can be damaged by hard frosts."
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "Growing season is too short, and temperature extremes are too great."
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "Requires consistent moisture; not suited for arid conditions without intensive irrigation."
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "Growing season is too short and temperatures are too low."
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "Subtropical",
+        "planting_season": "September - February",
+        "harvest_season": "November - April",
+        "growing_period_days": "50-70"
+      },
+      {
+        "climate_zone": "Temperate",
+        "planting_season": "Early Spring / Late Summer",
+        "harvest_season": "Late Spring / Autumn",
+        "growing_period_days": "60-80"
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 25,000 kg/ha",
+      "factors_affecting_yield": [
+        "Temperature (heat causes bolting)",
+        "Water availability",
+        "Soil fertility",
+        "Pest pressure (flea beetles, cabbage worms)"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "China",
+          "production_share": null,
+          "characteristics": "Largest producer and consumer, wide variety of local cultivars."
+        },
+        {
+          "country": "Thailand",
+          "production_share": null,
+          "characteristics": "Major producer for domestic consumption and regional export."
+        },
+        {
+          "country": "Vietnam",
+          "production_share": null,
+          "characteristics": "Significant cultivation in highland regions like Da Lat."
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "General nutritional data is available, but specific data on bioactive compound variations between cultivars is limited. Traditional uses are well-documented ethnobotanically."
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "33",
+        "protein_g": "2.8",
+        "carbs_g": "5.6",
+        "fat_g": "0.5",
+        "fiber_g": "2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Vitamin K",
+          "amount": "85 mcg",
+          "daily_value_percent": "71"
+        },
+        {
+          "nutrient": "Vitamin C",
+          "amount": "45 mg",
+          "daily_value_percent": "50"
+        },
+        {
+          "nutrient": "Vitamin A (from beta-carotene)",
+          "amount": "2730 IU",
+          "daily_value_percent": "55"
+        },
+        {
+          "nutrient": "Calcium",
+          "amount": "105 mg",
+          "daily_value_percent": "11"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Glucosinolates",
+        "concentration": "Variable",
+        "health_effect": "Precursors to isothiocyanates (e.g., sulforaphane), which have demonstrated antioxidant and anti-inflammatory properties in vitro."
+      },
+      {
+        "compound": "Flavonoids (e.g., Kaempferol)",
+        "concentration": "Variable",
+        "health_effect": "Antioxidant properties."
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "East Asia",
+        "medical_system": "Traditional Chinese Medicine (TCM)",
+        "uses": [
+          "Clearing heat",
+          "Improving eyesight"
+        ],
+        "preparation": "Consumed as a cooked vegetable in soups or stir-fries."
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "High in antioxidants (Vitamin C, beta-carotene)",
+        "Excellent source of Vitamin K for bone health"
+      ],
+      "ongoing_research": [
+        "Cancer-preventive properties of glucosinolates",
+        "Anti-inflammatory effects of its phytonutrients"
+      ],
+      "safety_considerations": "High Vitamin K content may interfere with blood-thinning medication. Like other brassicas, may contain goitrogens, which could affect thyroid function in individuals with iodine deficiency if consumed in very large quantities."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Culinary uses are the most well-documented aspect of this vegetable, with countless recipes and cultural references available."
+    },
+    "global_cooking_methods": [
+      {
+        "region": "East Asia",
+        "methods": [
+          "Stir-frying",
+          "Blanching",
+          "Steaming"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Garlic",
+          "Ginger",
+          "Oyster sauce",
+          "Beef",
+          "Rice wine"
+        ]
+      },
+      {
+        "region": "Southeast Asia",
+        "methods": [
+          "Stir-frying",
+          "Braising in coconut milk",
+          "Adding to noodle soups"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Fish sauce",
+          "Chili",
+          "Soy sauce",
+          "Pork",
+          "Tofu"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Pickling",
+        "regions": [
+          "East Asia",
+          "Southeast Asia"
+        ],
+        "shelf_life": "Several weeks to months",
+        "quality_changes": "Becomes sour and crunchy, flavor profile changes significantly."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Mildly bitter (especially leaves), sweet and juicy (stems), with a characteristic 'green' brassica note.",
+      "aroma_compounds": [
+        "Isothiocyanates",
+        "Dimethyl sulfide"
+      ],
+      "texture_characteristics": "Crisp-tender stems (when cooked properly), soft leaves."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Data is primarily qualitative, based on general brassica physiology and cultivation reports. Quantitative experimental data on specific climate stress thresholds for Gai Lan is lacking. Future projections are inferred from broader models for C3 vegetable crops."
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "Low",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "Bolts (premature flowering) and becomes bitter above 30°C.",
+      "cold_tolerance": "Can tolerate light frosts (-1 to -2°C), but is damaged by hard freezes."
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "Low",
+      "water_use_efficiency": "Moderate. Requires consistent soil moisture for tender stems.",
+      "flood_tolerance": "Low. Susceptible to root rot in waterlogged conditions.",
+      "optimal_rainfall": "Equivalent of 25-40 mm per week during growing season."
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "Moderate. Sturdy stems resist wind damage better than leafy lettuces, but heavy rain can cause lodging.",
+      "hail_damage_recovery": "Poor. Leaf and stem damage reduces marketability significantly.",
+      "rapid_temperature_change": "Poor. Sudden heat waves can trigger bolting."
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "Moderate. As a C3 plant, may show increased growth with elevated CO2, but this could be offset by heat stress.",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "Moderate"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Vulnerable. Warming temperatures are expected to increase pressure from aphids, flea beetles, and diamondback moths, expanding their geographic range and generational cycles.",
+      "disease_resistance_stability": "Moderate. Prone to downy mildew and black rot, which may be exacerbated by changes in humidity and temperature patterns.",
+      "beneficial_organism_relationships": "Relies on generalist pollinators when allowed to flower."
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Subtropical and mild temperate regions.",
+        "2050_projection": "Shift towards higher latitudes and altitudes. Winter production may become more viable in currently cooler temperate zones, while summer production will decline in subtropical zones.",
+        "2100_projection": "Further poleward and upward shift. Lowland subtropical production will become very difficult without heat-tolerant varieties.",
+        "confidence_level": "Medium"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "As a member of Brassica oleracea, its cross-compatibility is one of the most studied phenomena in plant breeding. The existence of commercial hybrids like Broccolini is direct proof."
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Broccoli",
+        "Cauliflower",
+        "Cabbage",
+        "Kale",
+        "Brussels sprouts",
+        "Kohlrabi"
+      ],
+      "interspecific_compatibility": [
+        "Brassica rapa (limited)",
+        "Brassica nigra (limited)"
+      ],
+      "intergeneric_possibility": [
+        "Very low to none under natural conditions."
+      ],
+      "successful_natural_hybrids": [
+        "Broccolini (Asparation) is a famous man-made hybrid between Gai Lan and Broccoli."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "Moderate to high within its center of origin in Southern China, but commercial cultivation relies on a narrower set of improved varieties.",
+      "wild_gene_pool": "Can access the entire gene pool of wild cabbage (Brassica oleracea var. oleracea) through breeding, which holds traits for pest resistance and stress tolerance.",
+      "adaptive_genetic_variation": "Significant potential for adaptation due to being part of a highly diverse species complex.",
+      "inbreeding_depression_risk": "Low, as it is naturally an outcrossing species."
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "High potential. Can be crossed with heat-tolerant kale or drought-tolerant collards.",
+      "improved_nutritional_content": "High potential. Can incorporate higher glucosinolate levels from broccoli or different vitamin profiles from other varieties.",
+      "novel_characteristics": "Proven potential. The development of Broccolini created a new vegetable morphology.",
+      "hybrid_vigor_potential": "High."
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "No significant barriers with other B. oleracea varieties.",
+      "chromosome_compatibility": "Fully compatible with other B. oleracea varieties (2n=18).",
+      "fertility_of_hybrids": "Generally high fertility in F1 hybrids with other B. oleracea.",
+      "backcrossing_success": "High."
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "Heat stress",
+        "adaptive_traits": "Delayed bolting, maintenance of leaf turgor",
+        "heritability": "Moderate",
+        "response_to_selection": "High potential for improvement through selection."
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Information is inferred from general knowledge of Brassica crops in regenerative systems. Specific research on Gai Lan's role is limited, but principles are broadly applicable."
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Possesses a strong taproot that can penetrate and aerate compacted soil layers, improving water infiltration.",
+      "organic_matter_contribution": "Produces significant biomass which, when incorporated, adds organic matter to the soil.",
+      "soil_structure_improvement": "Taproot action creates channels for air and water, improving soil aggregation ('bio-drilling').",
+      "erosion_control": "Provides good ground cover during its growing season, reducing splash erosion.",
+      "nutrient_cycling_role": "Effective at scavenging residual nitrogen and other nutrients from the soil profile, preventing leaching."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "If allowed to flower, its blossoms are highly attractive to bees and other pollinators.",
+      "beneficial_insect_habitat": "Provides habitat for generalist predators like ladybugs and lacewings.",
+      "soil_microorganism_interaction": "Exudes compounds that can influence the rhizosphere microbial community; susceptible to mycorrhizal colonization.",
+      "above_ground_biodiversity": "Contributes to crop diversity in multi-cropping systems."
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "Improved by root channels.",
+      "moisture_retention": "Mulching effect of crop residues can improve soil moisture retention.",
+      "runoff_reduction": "Canopy cover reduces the impact of heavy rainfall.",
+      "groundwater_recharge": "Contributes by improving soil porosity and infiltration."
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "Moderate.",
+      "below_ground_carbon": "Moderate, through its root system and stimulation of soil microbial life.",
+      "soil_carbon_enhancement": "Contributes to soil organic carbon through residue decomposition.",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Legumes (for nitrogen fixation)",
+        "Aromatic herbs like mint or rosemary (to deter pests)",
+        "Onions/Garlic (confuse pests)"
+      ],
+      "natural_pest_control": "Can be used as a trap crop for certain pests in a diversified system.",
+      "nutrient_sharing": "Benefits from nitrogen fixed by intercropped legumes.",
+      "allelopathic_interactions": "Minimal known negative allelopathic effects."
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "Enhances stability through crop rotation, breaking pest and disease cycles of other plant families.",
+      "stress_tolerance": "Individually has low tolerance, but its inclusion in a diverse system improves overall system resilience.",
+      "recovery_capacity": "Recovers poorly from severe damage but grows quickly, allowing for rapid replanting.",
+      "adaptability": "High genetic adaptability for future system integration."
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Market trends and culinary uses are well-observed and reported in food industry and media sources."
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "A key component in Asian-inspired plant-based diets, valued for its nutritional density and culinary versatility.",
+      "food_security_contribution": "An important cash and subsistence crop for smallholder farmers in East and Southeast Asia.",
+      "local_food_system_integration": "Well-suited for local food systems, farmers' markets, and CSA programs due to its relatively short growth cycle.",
+      "alternative_protein_potential": "Not a primary protein source, but complements protein sources well."
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Growth in non-Asian markets as 'Gai Lan' or 'Chinese Broccoli'",
+        "Development of new hybrids (e.g., similar to Broccolini)",
+        "Pre-packaged, value-added stir-fry kits"
+      ],
+      "value_added_products": [
+        "Frozen Gai Lan",
+        "Pickled products",
+        "Nutrient powders"
+      ],
+      "niche_market_value": "High value in ethnic markets and among consumers interested in authentic Asian cuisine."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "General risks are understood, but specific data on the conservation status of individual landraces is scarce and not centrally compiled."
+    },
+    "genetic_erosion_risk": "Medium",
+    "habitat_loss_threat": "Not applicable (domesticated species), but wild relatives on European coasts are threatened.",
+    "climate_change_vulnerability": "High, due to heat sensitivity.",
+    "cultural_erosion_risk": "Low, as its cultural importance is currently very high and growing globally.",
+    "conservation_actions_needed": [
+      "Collection and characterization of landraces from its center of diversity in Southern China.",
+      "Ex-situ conservation in national and international gene banks.",
+      "In-situ / on-farm conservation programs to support farmers growing traditional varieties."
+    ],
+    "priority_conservation_regions": [
+      "Guangdong Province, China",
+      "Yunnan Province, China"
+    ],
+    "ex_situ_conservation_status": "Represented in major gene banks (e.g., World Vegetable Center), but coverage of landraces may be incomplete.",
+    "in_situ_conservation_efforts": "Limited and localized; primarily driven by small-scale farmers and some NGOs."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "This is an expert evaluation based on the compiled data."
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "High Priority",
+    "research_urgency": "High",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "Southern China (for genetic diversity)",
+      "Tropical highlands in Southeast Asia (for adaptation strategies)"
+    ],
+    "knowledge_gaps": [
+      "Quantitative data on heat and drought stress thresholds for different cultivars.",
+      "Systematic study of bioactive compounds in landraces.",
+      "Specific metrics on its performance in regenerative agriculture systems (e.g., carbon sequestration rates)."
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "Varieties are often described by morphology rather than formal names. Information is from seed catalogues and grower resources."
+      },
+      "variety_name": "Standard (White Flower)",
+      "local_name": "白花芥蓝 (Báihuā Jièlán)",
+      "origin_region": "China",
+      "distinctive_characteristics": "Thick, tender, light green stems with a slightly waxy coating. Produces white flowers. The most common commercial type.",
+      "cultural_importance": "The archetypal Gai Lan used in classic Cantonese dishes.",
+      "climate_adaptation": "Standard cool-season preference.",
+      "conservation_status": "Not threatened."
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "low",
+        "source_comment": "Information is from specialized seed catalogues and anecdotal sources."
+      },
+      "variety_name": "Slender Stem (Yellow Flower)",
+      "local_name": "黃花芥藍 (Huánghuā Jièlán)",
+      "origin_region": "China",
+      "distinctive_characteristics": "Thinner, longer stems and smaller leaves. Produces yellow flowers. Often considered more bitter but also more flavorful.",
+      "cultural_importance": "A more traditional or heirloom type, preferred by some for its stronger taste.",
+      "climate_adaptation": "Some strains are reported to have slightly better heat tolerance.",
+      "conservation_status": "Less common commercially, requires on-farm conservation."
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "High",
+    "primary_sources": [
+      "Kew Plants of the World Online",
+      "World Vegetable Center (AVRDC) Resources",
+      "Ethnobotanical studies on Chinese vegetables",
+      "Agricultural extension publications"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative data on regenerative agriculture services (e.g., carbon sequestration rates).",
+      "Physiological responses of different cultivars to specific climate stressors (heat, drought, CO2).",
+      "Comprehensive genetic mapping of landraces."
+    ],
+    "regional_data_coverage": "Strong for East and Southeast Asia; weak for other regions.",
+    "missing_information": [
+      "Specific production statistics (often aggregated with other brassicas).",
+      "Indigenous names and uses outside of the main cultural spheres."
+    ],
+    "update_priority": "High",
+    "quality_score": 9
+  }
+}

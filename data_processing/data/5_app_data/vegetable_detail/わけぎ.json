@@ -1,0 +1,523 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is based on major botanical databases (Kew, GRIN) and ethnobotanical studies. The hybrid nature of the plant is well-documented."
+    },
+    "primary_name": "Walking Onion",
+    "scientific_name": "Allium × proliferum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "根"
+    ],
+    "origin_region": "不明（推定：中央アジアまたはシベリア、親種の原産地が重なる地域）",
+    "wild_relatives": [
+      "Allium cepa (Parent)",
+      "Allium fistulosum (Parent)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "English and East Asian names are well-documented. Names from other regions are scarce, reflecting its limited distribution."
+    },
+    "international": {
+      "en": [
+        "Walking Onion",
+        "Tree Onion",
+        "Topsetting Onion",
+        "Egyptian Tree Onion"
+      ],
+      "scientific_common": "Proliferous Onion"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "わけぎ",
+            "script": "Hiragana/Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "쪽파",
+            "script": "Hangul"
+          },
+          {
+            "lang": "zh",
+            "name": "分葱",
+            "script": "Hanzi"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is stable and based on modern phylogenetic systems (APG IV)."
+    },
+    "family": {
+      "en": "Amaryllis family",
+      "la": "Amaryllidaceae"
+    },
+    "genus": {
+      "en": "Onion",
+      "la": "Allium"
+    },
+    "species": {
+      "en": "Walking Onion",
+      "la": "× proliferum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Nothospecies",
+        "name": "A hybrid between Allium cepa and Allium fistulosum"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Cultural importance in East Asia is well-documented. Information from other parts of the world is limited to home gardening contexts."
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬味",
+          "経済作物"
+        ],
+        "traditional_uses": "日本の「ぬた和え」や韓国の「パジョン（ネギチヂミ）」など、春を告げる食材として料理に広く利用される。独特の風味と食感が珍重される。",
+        "seasonal_significance": "早春の野菜として季節感を象徴する。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "ぬた和え (Nuta-ae)",
+          "薬味 (Yakumi)",
+          "味噌汁の具"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "生食",
+          "炒める"
+        ],
+        "cultural_context": "春の訪れを告げる伝統的な食材。ひな祭りなどの行事食にも使われることがある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "親種であるタマネギとネギは古代から栽培されているが、わけぎ自体の歴史は比較的新しいか、あるいは古代の記録が乏しい。",
+      "trade_routes": "不明",
+      "cultural_exchange": "東アジア内で栽培技術や利用法が共有されてきたと考えられる。",
+      "domestication_history": "タマネギとネギの栽培地が交差する地域で自然発生的、あるいは人為的に生まれた雑種と考えられる。特定の栽培化の歴史は不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "休眠打破のための低温期間が必要なため、栽培は困難。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬に低温期間がある地域で栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最適。明確な四季があり、冬の寒さにも耐える。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冬の厳しい寒さにも耐えるが、夏の極端な高温と乾燥には注意が必要。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑がなければ栽培は困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩夏から初秋（8月～9月）",
+        "harvest_season": "春（3月～5月）",
+        "growing_period_days": 200
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "分球の数",
+        "土壌の肥沃度",
+        "日照条件"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "主に西日本（広島県、福岡県など）で商業生産されているが、全国的に家庭菜園での栽培が多い。"
+        },
+        {
+          "country": "韓国",
+          "production_share": null,
+          "characteristics": "쪽파（チョッパ）として広く栽培・消費されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分はネギやタマネギに類似。わけぎに特化した機能性成分の研究データは限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "30",
+        "protein_g": "1.9",
+        "carbs_g": "6.5",
+        "fat_g": "0.2",
+        "fiber_g": "2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "19 mg",
+          "daily_value_percent": 21
+        },
+        {
+          "nutrient": "β-カロテン",
+          "amount": "1500 µg",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "100 µg",
+          "daily_value_percent": 25
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "92 mg",
+          "daily_value_percent": 7
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "硫化アリル（アリシン）",
+        "concentration": "不明",
+        "health_effect": "血行促進、抗菌作用、ビタミンB1吸収促進"
+      },
+      {
+        "compound": "ケルセチン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [
+        "ネギ属植物に共通する抗酸化作用、抗炎症作用が期待される。"
+      ],
+      "ongoing_research": [
+        "わけぎ特有の機能性に関する研究は少ない。"
+      ],
+      "safety_considerations": "一般的に安全だが、過剰摂取は胃腸に刺激を与える可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア、特に日本と韓国での料理利用法は豊富に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる（和え物）",
+          "炒める",
+          "焼く（チヂミ）",
+          "生食（薬味）",
+          "煮る（スープ、鍋）"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "魚介類（イカ、アサリ）",
+          "味噌",
+          "豆腐",
+          "卵"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が柔らかくなるが、風味は比較的保たれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ネギよりも甘みが強く、タマネギのような辛みは穏やか。特有のぬめりがある。",
+      "aroma_compounds": [
+        "硫化アリル"
+      ],
+      "texture_characteristics": "加熱すると柔らかく、とろりとした食感になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定性的な耐性は栽培実績から推測されるが、気候変動シナリオ下での応答に関する定量的な研究はほぼ存在しない。以下の評価は親種の特性からの類推を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "夏期に地上部が枯れて休眠することで高温を回避する。",
+      "cold_tolerance": "-10°C"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が細くしなやかなため、強風による倒伏には比較的強い。",
+      "hail_damage_recovery": "分球しているため、地上部が損傷しても地下の鱗茎から再生する能力が高い。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によるアザミウマやネギアブラムシの発生時期・期間の変化に対応する必要がある。",
+      "disease_resistance_stability": "雑種強勢により、親種より特定の病害に強い可能性があるが、データは不足。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "わけぎ自体はほぼ種子を作らない不稔性だが、その存在自体が親種間の交雑親和性の高さを示す。ポテンシャル評価は、この lineage の観点を含む。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [],
+      "interspecific_compatibility": [
+        "親である Allium cepa と Allium fistulosum は交雑可能。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "わけぎ (Allium × proliferum) そのものが成功例。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "地域ごとに形態や生育特性が異なる在来系統が存在する。",
+      "wild_gene_pool": "直接的な関係はないが、親種の野生遺伝子プールは利用可能。",
+      "adaptive_genetic_variation": "栄養繁殖のため、単一クローン内の遺伝的多様性は低い。多様性はクローン間の変異に依存する。",
+      "inbreeding_depression_risk": "栄養繁殖のため、該当しない。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "親種が持つ異なる耐性（A. fistulosumの耐寒性、A. cepaの貯蔵性など）を組み合わせる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "珠芽（むかご）を形成する「Topsetting」というユニークな繁殖様式を獲得した。",
+      "hybrid_vigor_potential": "旺盛な生育を示すことから、雑種強勢が発現していると考えられる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "わけぎ自体は不稔性のため、これ以上の交配は困難。",
+      "chromosome_compatibility": "親種間（A. cepa と A. fistulosum）は染色体数が同じ（2n=16）で適合性が高い。",
+      "fertility_of_hybrids": "わけぎ（F1）は通常不稔。",
+      "backcrossing_success": "親種への戻し交配は困難。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での直接的な研究は少ない。評価は多年草であること、およびネギ属の一般的特性に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅いひげ根だが、密に張り巡らされる。",
+      "organic_matter_contribution": "毎年生育と休眠を繰り返すため、枯れた葉や根が有機物として供給される。",
+      "soil_structure_improvement": "根が土壌団粒構造の形成を助ける。",
+      "erosion_control": "地表を覆うことで土壌侵食を軽減する。",
+      "nutrient_cycling_role": "ネギ属植物は菌根菌と共生し、リンなどの養分吸収効率が良い可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花が咲かないため、花粉媒介者への直接的な貢献は無い。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシやヒラタアブの生息地となる。",
+      "soil_microorganism_interaction": "根圏微生物叢と相互作用し、土壌の生物多様性に貢献する可能性がある。",
+      "above_ground_biodiversity": "限定的"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が土壌に隙間を作り、水の浸透を助ける。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表流を緩和する。",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的",
+      "below_ground_carbon": "多年草であるため、根系を通じて炭素を土壌に蓄積するポテンシャルがある。",
+      "soil_carbon_enhancement": "不耕起栽培が可能であるため、土壌炭素の損失を防ぐ。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン（ニンジンの害虫を忌避）、トマト、キャベツ（アブラナ科の害虫を忌避）"
+      ],
+      "natural_pest_control": "強い香りが多くの害虫を遠ざける効果（忌避効果）が期待される。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "マメ科植物の生育を阻害することがある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草であり、一度定着すると管理が容易で、生態系の安定に寄与する。",
+      "stress_tolerance": "栄養繁殖のため、種子繁殖に頼る作物より特定のストレス（例：授粉不良）に強い。",
+      "recovery_capacity": "高い。",
+      "adaptability": "クローン増殖のため、遺伝的適応性は低いが、個体としての頑健性は高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "家庭菜園や地域食としての価値は高いが、大規模な商業的応用は限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "香味野菜として、植物性食品中心の食事の風味を豊かにする。",
+      "food_security_contribution": "栽培が容易で、家庭レベルでの食料自給に貢献できる。多年草であるため、持続的な収穫が可能。",
+      "local_food_system_integration": "地域の直売所などで人気があり、地産地消に適している。",
+      "alternative_protein_potential": "該当しない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "多年生野菜（パーマカルチャー）への関心の高まり。",
+        "ユニークなアジア野菜として、欧米のシェフや家庭菜園家への訴求。"
+      ],
+      "value_added_products": [
+        "冷凍カットわけぎ",
+        "乾燥わけぎ（薬味用）",
+        "わけぎを使った調味料（ドレッシング、ソース）"
+      ],
+      "niche_market_value": "伝統野菜や珍しい野菜を扱うニッチ市場で価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "作物全体としての絶滅リスクは低いが、特定の地域在来系統は消失のリスクがある。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "該当しない（栽培植物）。",
+    "climate_change_vulnerability": "中程度。栽培適地の北上や、夏の高温による生育不良のリスクがある。",
+    "cultural_erosion_risk": "中。食生活の洋風化に伴い、伝統的な利用法が失われる可能性がある。",
+    "conservation_actions_needed": [
+      "各地の在来系統の収集、特性評価、保存。",
+      "伝統的な料理法や食文化の記録と継承。"
+    ],
+    "priority_conservation_regions": [
+      "日本（西日本）、韓国"
+    ],
+    "ex_situ_conservation_status": "各国のジーンバンクでいくつかの系統が保存されている可能性がある。",
+    "in_situ_conservation_efforts": "主に農家の自家採種や家庭菜園での栽培によって、オンファーム（農家圃場）での保全が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIの総合的評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "日本",
+      "韓国",
+      "中国"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ。",
+      "地域系統間の遺伝的多様性の網羅的解析。",
+      "機能性成分の含有量と健康効果に関する科学的エビデンス。"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "明確な品種登録は少ないが、地域ごとに特性の異なる系統が存在する。"
+      },
+      "variety_name": "広島わけぎ",
+      "local_name": "広島わけぎ",
+      "origin_region": "日本、広島県",
+      "distinctive_characteristics": "香りが高く、柔らかい。緑色が濃く、分けつが多い。",
+      "cultural_importance": "地域の特産品としてブランド化されており、「広島わけぎのぬた」は郷土料理として知られる。",
+      "climate_adaptation": "温帯気候に適応している。",
+      "conservation_status": "商業的に栽培され、安定している。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Checklist of Selected Plant Families (WCSP), Kew Science",
+      "GRIN-Global Taxonomy",
+      "Ethnobotanical and culinary literature on East Asian cuisine"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界的な生産・流通に関する統計データ"
+    ],
+    "regional_data_coverage": "東アジアに偏っており、その他の地域に関する情報は限定的。",
+    "missing_information": [
+      "伝統医学での利用例",
+      "詳細な収量データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

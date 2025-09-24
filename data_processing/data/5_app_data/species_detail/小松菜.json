@@ -1,0 +1,550 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は日本の農学・植物学データベースで十分に確立されている。野生近縁種との関係性は、種レベル（Brassica rapa）では明確だが、小松菜という亜種レベルでは研究途上。"
+    },
+    "primary_name": "Komatsuna",
+    "scientific_name": "Brassica rapa subsp. perviridis",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "日本（江戸時代、現在の東京）",
+    "wild_relatives": [
+      "Brassica rapa subsp. campestris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "名称は日本国内でほぼ統一されている。国際的な名称は少なく、主にアジア系食料品店や専門的農業で使われる。"
+    },
+    "international": {
+      "en": [
+        "Komatsuna",
+        "Japanese mustard spinach"
+      ],
+      "scientific_common": "Komatsuna"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "小松菜",
+            "script": "漢字・仮名"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、国際的な植物データベースで確認済み。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Cabbage",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Field mustard",
+      "la": "Brassica rapa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "perviridis"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "日本における文化的価値は非常に高いが、世界的な普及は限定的であるため、データは日本に偏在している。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（日本）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "江戸時代から栽培される代表的な冬野菜。お雑煮、おひたし、炒め物、漬物など、日本の家庭料理に不可欠な存在。特に、関東地方の食文化と深く結びついている。",
+        "seasonal_significance": "冬の緑黄色野菜として重要。霜に当たると甘みが増すため、冬の味覚として親しまれる。特にお正月の雑煮に欠かせない地域が多い。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "お雑煮 (Ozoni)",
+          "おひたし (Ohitashi)",
+          "ごま和え (Goma-ae)",
+          "味噌汁の具 (Miso soup ingredient)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒める",
+          "煮る",
+          "漬ける"
+        ],
+        "cultural_context": "日常の食卓からハレの日の料理まで幅広く利用される、日本の食生活に根ざした野菜。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "不明。江戸時代（17世紀頃）に栽培が始まったとされる。",
+      "trade_routes": "国際的な交易路での役割は歴史的にない。",
+      "cultural_exchange": "近年、日本食の普及に伴い、世界各地で認知度が向上しつつある。",
+      "domestication_history": "東京都江戸川区小松川周辺で、当時栽培されていたカブの一種（蔓菜）から選抜淘汰され成立したとされる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿では生育不良や病害が発生しやすく、抽苔（トウ立ち）が早まるため不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬期の栽培に適している。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な気候を好み、生育適温は15-20℃。春と秋が最適な栽培時期。耐寒性が強く、軽い霜は品質を向上させる。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の高温期を避けた栽培に適する。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な水分供給が必要なため、乾燥地での栽培は困難。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "夏の冷涼な気候を利用した栽培が可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3-5月）、秋（9-11月）",
+        "harvest_season": "播種後約30-50日",
+        "growing_period_days": 40
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "播種時期",
+        "土壌肥沃度",
+        "水分管理",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": 99,
+          "characteristics": "ほぼ全量が国内で生産・消費される。施設栽培により周年供給体制が確立されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は日本の食品成分データベースで確立されている。機能性成分に関する研究は存在するが、品種や栽培条件による変動に関するデータは限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "13",
+        "protein_g": "1.5",
+        "carbs_g": "2.4",
+        "fat_g": "0.1",
+        "fiber_g": "1.9"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "170mg/100g",
+          "daily_value_percent": 22
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "39mg/100g",
+          "daily_value_percent": 39
+        },
+        {
+          "nutrient": "β-カロテン",
+          "amount": "3100μg/100g",
+          "daily_value_percent": 0
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "2.8mg/100g",
+          "daily_value_percent": 22
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート",
+        "concentration": "変動あり",
+        "health_effect": "抗がん作用の可能性、解毒酵素の活性化"
+      },
+      {
+        "compound": "スルフォラファン（前駆体として）",
+        "concentration": "変動あり",
+        "health_effect": "強力な抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [
+        "骨の健康維持（高カルシウム、ビタミンK）",
+        "貧血予防（鉄、ビタミンC）",
+        "免疫機能の維持（β-カロテン、ビタミンC）"
+      ],
+      "ongoing_research": [
+        "グルコシノレート由来成分の抗がん作用"
+      ],
+      "safety_considerations": "ビタミンKを多く含むため、ワルファリン等の抗凝固薬を服用している場合は摂取に注意が必要な場合がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "日本料理における利用法は広く文書化されており、情報が豊富である。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア（日本）",
+        "methods": [
+          "茹でる（おひたし）",
+          "炒める（炒め物）",
+          "煮る（煮びたし、汁物）",
+          "生食（サラダ、スムージー）",
+          "漬ける（浅漬け）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "油揚げ",
+          "豆腐",
+          "豚肉",
+          "卵",
+          "きのこ類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け（浅漬け）",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数日間",
+        "quality_changes": "食感がしんなりし、旨味が増す。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "約1ヶ月",
+        "quality_changes": "食感が柔らかくなるため、汁物や煮物に向く。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかな苦味と甘み。アブラナ科特有のわずかな辛味を持つ。霜に当たると甘みが増す。",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "生の葉はシャキシャキしている。加熱しても形が崩れにくく、適度な歯ごたえが残る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "小松菜に特化した気候変動適応の研究は少ない。評価はアブラナ科野菜の一般的な特性と栽培条件からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30°C以上で生育不良、抽苔のリスク増大",
+      "cold_tolerance": "-5°C程度まで耐える。霜で甘みが増す。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間中に安定した水分供給が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が傷つきやすいため低い",
+      "hail_damage_recovery": "低い",
+      "rapid_temperature_change": "中程度。急激な高温は抽苔を誘発する。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。一般のC3植物同様、一定の効果は期待されるが、栄養価への影響は不明。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシ、コナガなどの害虫の活動期間が延長し、被害が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿化により、白さび病などの病害リスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の温帯地域",
+        "2050_projection": "栽培適地がより高緯度地域や高標高地域へシフトする可能性。夏場の栽培はさらに困難になる。",
+        "2100_projection": "温暖化の進行度合いによっては、平野部での周年栽培が困難になり、栽培体系の大幅な変更が必要になる可能性がある。",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種レベル（Brassica rapa）での交雑和合性は広く知られている。これを基に小松菜のポテンシャルを推定。自然交雑の実例に関する記録は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "カブ (Turnip)",
+        "ハクサイ (Napa cabbage)",
+        "チンゲンサイ (Bok choy)",
+        "ミズナ (Mizuna)"
+      ],
+      "interspecific_compatibility": [
+        "Brassica napus（セイヨウアブラナ）やBrassica juncea（カラシナ）と交雑することがあるが、和合性は低い。"
+      ],
+      "intergeneric_possibility": [
+        "自然条件下ではほぼ不可能"
+      ],
+      "successful_natural_hybrids": [
+        "なばな類との自然交雑は容易に起こる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "日本国内に複数の在来品種が存在し、多様性の源となっている。",
+      "wild_gene_pool": "野生化したカブ(Brassica rapa)との交雑は可能であり、遺伝子交流の可能性がある。",
+      "adaptive_genetic_variation": "Brassica rapa種全体が持つ広範な遺伝的多様性は、耐病性や環境ストレス耐性などの適応形質の源泉となる。",
+      "inbreeding_depression_risk": "自家不和合性を持つため、他家受粉が主。近交弱勢のリスクは比較的低い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他のB. rapa亜種（例：南アジア由来の品種）との交雑により、耐暑性を向上させる可能性がある。",
+      "improved_nutritional_content": "他のアブラナ科野菜との交雑により、特定の機能性成分を増強する可能性がある。",
+      "novel_characteristics": "葉の形、色、食感など、新しい形質の導入が可能。",
+      "hybrid_vigor_potential": "亜種間の交雑により、生育旺盛な雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "自家不和合性が交配を促進する一方、特定の組み合わせでは交雑障壁が存在する場合がある。",
+      "chromosome_compatibility": "Brassica rapa内（2n=20）では染色体適合性が高い。",
+      "fertility_of_hybrids": "種内交雑では雑種の稔性は高い。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫、気候（特に温度）",
+        "adaptive_traits": "早生性、耐病性、耐寒性、晩抽性",
+        "heritability": "これらの形質の多くは遺伝率が高い。",
+        "response_to_selection": "選抜に対する応答が良く、品種改良が進めやすい。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "小松菜をリジェネラティブ農業の文脈で評価した研究は非常に少ない。評価は、アブラナ科の緑肥作物としての一般的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い直根性の根系を持つ。",
+      "organic_matter_contribution": "生育が速くバイオマス量が多いため、すき込みによる有機物供給源として有効。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "生育初期から地上部を素早く覆うため、被覆による土壌侵食防止効果が期待できる。",
+      "nutrient_cycling_role": "グルコシノレートの分解物が土壌病害を抑制する「バイオ燻蒸」効果を持つ可能性がある。また、土壌中の過剰な窒素を吸収するキャッチクロップとしての利用も可能。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期にはミツバチなどの花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "アブラナ科を好む天敵昆虫（寄生蜂など）の生息地となる可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "限定的"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "中程度",
+      "moisture_retention": "中程度",
+      "runoff_reduction": "被覆による効果が期待できる。",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。生育サイクルが短いため、年間を通じた累積量は多い可能性がある。",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "残渣のすき込みにより、土壌有機炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "レタス、マメ科植物、ミント類"
+      ],
+      "natural_pest_control": "一部の害虫に対するおとり作物（トラップクロップ）として機能することがある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌病害の抑制に貢献し、システムの安定性を高める可能性がある。",
+      "stress_tolerance": "個体レベルでのストレス耐性は高くないが、生育サイクルの短さが栽培時期の調整を可能にし、システムレベルでの回避戦略に繋がる。",
+      "recovery_capacity": "生育が早いため、天候不順からの回復が早い。",
+      "adaptability": "高い遺伝的多様性と交雑和合性により、将来的な適応育種のポテンシャルが高い。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食トレンドや市場での位置づけは明確である。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "カルシウムや鉄分が豊富なため、植物性食品中心の食生活において重要な栄養源となる。",
+      "food_security_contribution": "生育期間が短く、単位面積あたりの生産性が高いため、都市近郊農業に適しており、地域の食料安全保障に貢献する。",
+      "local_food_system_integration": "地産地消のモデルとして、日本の多くの地域で定着している。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによる欧米市場でのサラダ用ベビーリーフとしての需要",
+        "日本食レストランの世界的展開に伴う需要増加"
+      ],
+      "value_added_products": [
+        "野菜パウダー",
+        "スムージー・青汁原料",
+        "冷凍食品"
+      ],
+      "niche_market_value": "アジア系食料品店やオーガニック市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商業品種の保全リスクは低いが、在来品種の現状については断片的な情報しかない。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "なし（栽培植物のため）",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "低",
+    "conservation_actions_needed": [
+      "日本各地の在来品種の調査と収集",
+      "ジーンバンクにおける種子の長期保存（Ex-situ）",
+      "伝統的栽培農家による種子自家採種と栽培の維持（In-situ）"
+    ],
+    "priority_conservation_regions": [
+      "日本（特に関東地方）"
+    ],
+    "ex_situ_conservation_status": "日本の農業生物資源ジーンバンク（NARO）等で多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "一部の農家やNPOによって在来品種の保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた情報を基にした総合的評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "日本"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する品種レベルでの応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果と相互作用",
+      "在来品種の機能性成分と遺伝的特性の詳細な解析"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に日本の種苗会社のカタログや農業指導資料に基づく。"
+      },
+      "variety_name": "ごせき晩生",
+      "local_name": "ごせきおくて",
+      "origin_region": "日本（関東）",
+      "distinctive_characteristics": "伝統的な晩生（おくて）品種。葉は濃緑色で光沢があり、耐寒性が非常に強い。抽苔が遅く、冬から春にかけて収穫できる。",
+      "cultural_importance": "関東地方の伝統的な冬野菜の風味を代表する品種の一つ。",
+      "climate_adaptation": "耐寒性に優れるが、耐暑性は低い。",
+      "conservation_status": "在来種として保全対象"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に日本の種苗会社のカタログや農業指導資料に基づく。"
+      },
+      "variety_name": "楽天",
+      "local_name": "らくてん",
+      "origin_region": "日本（育種会社による開発）",
+      "distinctive_characteristics": "現代的な交配種（F1）。生育が早く、耐病性（特に白さび病）に優れる。葉の色が鮮やかで、市場性が高い。周年栽培に対応しやすい。",
+      "cultural_importance": "現在の商業生産の主流を占める。",
+      "climate_adaptation": "耐病性が高く、栽培安定性に優れる。耐暑性も改良されている。",
+      "conservation_status": "商業品種（保全対象外）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "日本の農業研究機関の報告書",
+      "植物学データベース（GBIF, Kew）",
+      "民族植物学関連論文",
+      "農業生物資源ジーンバンク(NARO)データベース"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "日本国外での栽培特性や文化的受容に関する情報"
+    ],
+    "regional_data_coverage": "日本に極度に集中しており、他地域のデータはほぼ皆無。",
+    "missing_information": [
+      "先住民による伝統的利用",
+      "世界的な生産統計"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

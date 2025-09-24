@@ -1,0 +1,497 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベースから統合。栽培作物ではないため、野生種との関係性は自生種そのものである。"
+    },
+    "primary_name": "Japanese Dog's Tooth Violet",
+    "scientific_name": "Erythronium japonicum Decne.",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "葉",
+      "花"
+    ],
+    "origin_region": "東アジア（日本、朝鮮半島、中国東北部、サハリン）",
+    "wild_relatives": [
+      "同属のErythronium sibiricum、Erythronium dens-canisなど多数存在するが、交雑に関する情報は限定的。"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物相に関するデータベースおよび文献から名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Japanese dog's tooth violet",
+        "Asian fawnlily"
+      ],
+      "scientific_common": "Erythronium"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "カタクリ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ko",
+            "name": "얼레지",
+            "script": "Hangul"
+          },
+          {
+            "lang": "zh",
+            "name": "猪牙花",
+            "script": "Han"
+          },
+          {
+            "lang": "ru",
+            "name": "Кандык японский",
+            "script": "Cyrillic"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースから情報を取得。"
+    },
+    "family": {
+      "en": "Lily family",
+      "la": "Liliaceae"
+    },
+    "genus": {
+      "en": "Dog's tooth violet",
+      "la": "Erythronium"
+    },
+    "species": {
+      "en": "Japanese dog's tooth violet",
+      "la": "japonicum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本の文化的重要性の記録は豊富だが、他の地域での文化的利用に関する体系的な情報は少ない。主に民族植物学的記録に依存。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "日本",
+        "importance_level": 4,
+        "cultural_roles": [
+          "伝統食材",
+          "薬用",
+          "観賞用"
+        ],
+        "traditional_uses": "鱗茎から高品質のデンプン（片栗粉）を製造。歴史的には救荒食物や胃腸薬として利用。現代では春の訪れを告げる花として観賞価値が高い。",
+        "seasonal_significance": "早春の「スプリング・エフェメラル」として、季節の移ろいを象徴する重要な植物。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（伝統）",
+        "role": "rare",
+        "traditional_dishes": [
+          "片栗粉（本来のもの）",
+          "おひたし",
+          "和え物"
+        ],
+        "preparation_methods": [
+          "デンプン抽出",
+          "湯通し",
+          "生食（若葉）"
+        ],
+        "cultural_context": "かつては重要なデンプン源であったが、現在はジャガイモデンプンに完全に代替され、本来の片栗粉は幻の食材となっている。若葉や花の利用は山菜文化の一部。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本では古くから自生しており、万葉集にも登場する可能性がある。救荒食料としての利用の歴史は長い。",
+      "trade_routes": "国際的な交易品としての役割は確認されていない。",
+      "cultural_exchange": "不明",
+      "domestication_history": "栽培化はされておらず、一貫して野生からの採集に依存してきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適。低温要求性を満たせない。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "不適。冬期の低温が不足する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "落葉広葉樹林帯。冬期に十分な低温があり、春先に林床に光が届き、夏期は日陰になる湿潤な環境。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な気候。十分な積雪による土壌の保湿と凍結防止が望ましい。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適。乾燥に極めて弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "亜高山帯の下部。森林限界以下の冷涼な環境。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "秋（鱗茎）",
+        "harvest_season": "初夏（地上部が枯れた後）",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "林床の光環境",
+        "土壌湿度",
+        "開花までの年数（種子から7-8年）",
+        "乱獲"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "商業生産は行われていないため、統計データは存在しない。",
+      "major_producers": []
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "鱗茎の栄養成分に関する科学的データは極めて限定的。伝統的利用は伝承に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明（主成分は高品質デンプン）",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [],
+    "traditional_medicinal_uses": [
+      {
+        "region": "日本",
+        "medical_system": "民間療法",
+        "uses": [
+          "整腸作用",
+          "滋養強壮"
+        ],
+        "preparation": "鱗茎から採ったデンプンを湯で溶いて服用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [],
+      "safety_considerations": "不明"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本の山菜文化に関する記録は存在するが、国際的な調理法は存在しない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "デンプン抽出・乾燥",
+          "茹でる",
+          "揚げる（天ぷら）",
+          "生食"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "酢"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "デンプン化（片栗粉）",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "長期（数年）",
+        "quality_changes": "デンプンとして安定。粒子が細かく、透明度の高い糊になるのが特徴。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "鱗茎、葉ともに淡白で、わずかな甘みと特有のぬめりがある。",
+      "aroma_compounds": [],
+      "texture_characteristics": "葉はシャキシャキしている。鱗茎からとったデンプンは非常に滑らかな食感を生む。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な実験データは存在しない。生態的特性に基づいた専門家による定性的な推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "不明",
+      "extreme_heat_survival": "地上部がある春季の高温に弱い。",
+      "cold_tolerance": "高（冬期の休眠には低温が必須）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "湿潤な環境を好む"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "無関係（地上部が嵐の季節には存在しない）",
+      "hail_damage_recovery": "低い（生育期間が短いため、葉の損傷は致命的）",
+      "rapid_temperature_change": "春先の急激な気温上昇や晩霜に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化による新たな病害虫への脆弱性が懸念される。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "送粉者との同調性（フェノロジー）のずれが懸念される。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯落葉広葉樹林帯",
+        "2050_projection": "分布域の北方および高標高へのシフト、低地個体群の消滅リスク増大",
+        "2100_projection": "分布適地の著しい縮小が予測される",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 2
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属内での交雑は知られているが、E. japonicumに関する自然交雑の具体的な事例や研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地理的変異は存在するが、明確な品種はない。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種との交雑可能性は理論的には存在するが、自然分布域が重なる種は少ない。"
+      ],
+      "intergeneric_possibility": [
+        "非常に低い、または不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "報告されていない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "存在しない。",
+      "wild_gene_pool": "地域ごとに遺伝的に分化した個体群が存在する可能性が高い。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "生息地の断片化により、小規模な孤立個体群でリスクが増大する可能性がある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "開花時期と送粉者の活動時期の同調性、夏の乾燥耐性、病害耐性",
+        "adaptive_traits": "不明",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 2
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "農業システムでの利用はなく、森林生態系における生態的機能からの類推。アグロフォレストリーへの導入ポテンシャルは理論上考えられるが、実例はない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "鱗茎とそこから伸びる根が土壌の団粒構造に寄与する可能性がある。",
+      "organic_matter_contribution": "毎年生育して枯れる地上部が林床の有機物層を形成する一助となる。",
+      "soil_structure_improvement": "不明",
+      "erosion_control": "春先の短い期間、地表を覆うことで表土流出をわずかに抑制する可能性がある。",
+      "nutrient_cycling_role": "春先に速やかに養分を吸収・成長し、枯死後に分解されることで、森林の栄養循環に関与する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "早春に活動を開始するギフチョウやハナバチ類など、在来の送粉者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "菌根菌との共生関係が示唆される。",
+      "above_ground_biodiversity": "特定の昆虫の食草となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "不明",
+      "moisture_retention": "不明",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "非常に小さい。",
+      "below_ground_carbon": "多年生の鱗茎に炭素を蓄積するが、個体あたりの量は小さい。",
+      "soil_carbon_enhancement": "間接的に土壌生物の活動を促すことで寄与する可能性がある。",
+      "carbon_sequestration_rate": "不明、非常に低いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "落葉広葉樹との混生が必須。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "該当しない",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "低い（繁殖に長期間を要するため）",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 3
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な利用は主に観賞用に限られる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食料としての価値は歴史的なものであり、現代の食料システムにおける貢献度は皆無に近い。",
+      "food_security_contribution": "皆無に近い。",
+      "local_food_system_integration": "保護された山菜として、ごく一部の地域で象徴的に利用されることがある。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "観賞用としての山野草市場"
+      ],
+      "value_added_products": [
+        "幻の食材としての『本片栗粉』の超ニッチ市場"
+      ],
+      "niche_market_value": "観賞用および特別な食文化体験として非常に高い価値を持つ可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "多くの地域で保護対象となっており、保全状況に関する情報は豊富。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "森林伐採、土地開発による生息地の破壊が最大の脅威。",
+    "climate_change_vulnerability": "高い。温暖化による生育サイクルの攪乱や分布適地の喪失が懸念される。",
+    "cultural_erosion_risk": "高。本来の片栗粉を知る世代が減少し、食文化としての継承が途絶えるリスクがある。",
+    "conservation_actions_needed": [
+      "自生地である落葉広葉樹林の保全",
+      "乱獲の防止",
+      "気候変動影響のモニタリング",
+      "遺伝的多様性の域外保全"
+    ],
+    "priority_conservation_regions": [
+      "日本の東北地方、中部地方山岳部など、大規模な群生地が残る地域"
+    ],
+    "ex_situ_conservation_status": "植物園などで栽培・保存されている。",
+    "in_situ_conservation_efforts": "多くの自生地が国定公園や天然記念物に指定され、地域住民による保全活動も行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生態学的・文化的な重要性は高いが、食料としての将来性は限定的であるため、評価は分かれる。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 3,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "日本",
+      "朝鮮半島"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理的応答の定量的データ",
+      "鱗茎の詳細な栄養成分と機能性",
+      "個体群の遺伝的多様性の実態"
+    ],
+    "global_dictionary_compatibility": 7
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "high",
+        "source_comment": "本種は農業的に育種された品種が存在しない野生植物である。"
+      },
+      "variety_name": "野生種（栽培品種なし）",
+      "local_name": "不明",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "栽培品種は存在しない。地域個体群による形態の変異（花の色など）が見られることがある。",
+      "cultural_importance": "不明",
+      "climate_adaptation": "不明",
+      "conservation_status": "地域によっては絶滅危惧種に指定されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "scientific botanical databases (KEW, GBIF)",
+      "ethnobotanical studies in Japan",
+      "conservation status reports (IUCN, National Red Lists)"
+    ],
+    "major_knowledge_gaps": [
+      "quantitative data on climate change adaptation",
+      "detailed nutritional and functional compound analysis",
+      "genetic diversity across its range",
+      "cultural significance outside of Japan"
+    ],
+    "regional_data_coverage": "日本に極度に偏っており、韓国、中国、ロシアにおける情報は限定的。",
+    "missing_information": [
+      "栽培技術",
+      "収量データ",
+      "市場データ",
+      "科学的根拠のある健康効果"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

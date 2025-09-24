@@ -1,0 +1,788 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is well-documented in major botanical, agricultural, and ethnobotanical databases. Data on wild relatives and genetic diversity is extensive due to its agricultural importance."
+    },
+    "primary_name": "Mung bean",
+    "scientific_name": "Vigna radiata",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "Seed",
+      "Stem",
+      "Fruit"
+    ],
+    "origin_region": "インド亜大陸",
+    "wild_relatives": [
+      "Vigna radiata var. sublobata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are widely recorded in linguistic and agricultural glossaries across Asia and internationally."
+    },
+    "international": {
+      "en": [
+        "Mung bean",
+        "Green gram",
+        "Moong"
+      ],
+      "scientific_common": "Mung bean"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "मूंग",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "பாசிப்பயறு",
+            "script": "Tamil"
+          },
+          {
+            "lang": "bn",
+            "name": "মুগ ডাল",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "绿豆",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "녹두",
+            "script": "Hangul"
+          },
+          {
+            "lang": "ja",
+            "name": "緑豆",
+            "script": "Kanji"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "fil",
+            "name": "Monggo",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ถั่วเขียว",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Đậu xanh",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "ماش",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "ماش",
+            "script": "Persian"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明",
+        "name": "不明",
+        "cultural_significance": "リョクトウの栽培化は古代に遡るため、特定の先住民族に固有の名称と文化的意味を、広範にわたる農耕文化圏での名称と区別することは困難。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established in global botanical systems (e.g., GRIN, Tropicos)."
+    },
+    "family": {
+      "en": "Pea family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Cowpea genus",
+      "la": "Vigna"
+    },
+    "species": {
+      "en": "Mung bean",
+      "la": "radiata"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Vigna radiata var. radiata (cultivated)"
+      },
+      {
+        "rank": "variety",
+        "name": "Vigna radiata var. sublobata (wild progenitor)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural importance is extensively documented in culinary history, religious texts, and traditional medical systems across Asia."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "儀式用",
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "日常的なタンパク源（ダール）として不可欠。キチュリのような消化しやすい食事や、祭事の供物、アーユルヴェーダでのデトックス食として利用される。",
+        "seasonal_significance": "年間を通じて利用されるが、特に消化力が落ちる時期や回復食として重要視される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "もやしとして野菜利用が主流。夏には体を冷やすためのデザート（緑豆湯）として消費される。また、春雨の原料として重要。",
+        "seasonal_significance": "夏に体を冷やす食材として、伝統中国医学の思想に基づき重要視される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "甘いデザート（チェー、ブブール・カチャン・ヒジャウ）、菓子、スープの具材として広く利用される。春巻きの具材としても一般的。",
+        "seasonal_significance": "特になし。年間を通じて利用される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Moong Dal",
+          "Khichdi",
+          "Pesarattu (Dosa)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "挽き割り",
+          "発酵"
+        ],
+        "cultural_context": "ベジタリアン食における主要なタンパク源であり、アーユルヴェーダでは最も消化しやすい豆とされる。"
+      },
+      {
+        "cuisine": "中華料理",
+        "role": "common",
+        "traditional_dishes": [
+          "绿豆汤 (Lǜdòu tāng)",
+          "绿豆糕 (Lǜdòu gāo)",
+          "粉丝 (Fěnsī)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "製粉",
+          "デンプン抽出"
+        ],
+        "cultural_context": "「清熱解毒」作用があるとされ、夏の暑気払いやデトックス目的で食される。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "common",
+        "traditional_dishes": [
+          "빈대떡 (Bindaetteok)",
+          "녹두죽 (Nokdujuk)"
+        ],
+        "preparation_methods": [
+          "挽き割り",
+          "粥"
+        ],
+        "cultural_context": "栄養価が高く、特に疲労回復や特別な日のご馳走として食される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インド亜大陸で少なくとも3500年前から栽培されている考古学的証拠が存在する。",
+      "trade_routes": "古代、陸路および海路を通じてインドから中国、東南アジア全域へと伝播した。",
+      "cultural_exchange": "仏教の伝播とともに、精進料理の食材としてアジア各地に広まった可能性がある。",
+      "domestication_history": "インド亜大陸に自生する野生種 Vigna radiata var. sublobata から栽培化された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好むが、水はけの良い土壌が必要。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "主要な栽培地域。雨季作、乾季作のいずれも可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の短期間作物として栽培可能。霜には弱い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎる、または夏の温度が不十分。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "高い耐乾性を持つため、半乾燥地域での栽培が可能。灌漑があれば収量は向上する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱く、標高の高い地域には不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯・亜熱帯",
+        "planting_season": "年間を通じて栽培可能。主要な作期は雨季の前後。",
+        "harvest_season": "播種後60-90日",
+        "growing_period_days": "60-90"
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春から初夏（霜の心配がなくなってから）",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": "70-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "400 - 2500 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "水利用可能性",
+        "土壌肥沃度",
+        "病害虫管理",
+        "栽培密度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約600万トン（推定）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "70以上",
+          "characteristics": "世界最大の生産国かつ消費国。多様な在来種と改良品種が混在。"
+        },
+        {
+          "country": "中国",
+          "production_share": "10-15",
+          "characteristics": "主に国内消費向け。もやしや春雨への加工が多い。"
+        },
+        {
+          "country": "ミャンマー",
+          "production_share": "5-10",
+          "characteristics": "主要な輸出国。主にインドや中国へ輸出。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栄養データベースに標準的な栄養価が記載されている。機能性成分に関する研究も多数存在する。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "105 (cooked)",
+        "protein_g": "7.0",
+        "carbs_g": "19.2",
+        "fat_g": "0.4",
+        "fiber_g": "7.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸",
+          "amount": "159 µg",
+          "daily_value_percent": "40"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.3 mg",
+          "daily_value_percent": "15"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "48 mg",
+          "daily_value_percent": "12"
+        },
+        {
+          "nutrient": "リン",
+          "amount": "99 mg",
+          "daily_value_percent": "10"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.4 mg",
+          "daily_value_percent": "8"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ビテキシン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "イソビテキシン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、肝保護作用"
+      },
+      {
+        "compound": "フェノール酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗菌作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "デトックス",
+          "消化促進",
+          "解熱",
+          "皮膚疾患の改善"
+        ],
+        "preparation": "粥（キチュリ）やスープとして調理。"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "清熱解毒（熱を取り毒を排出する）",
+          "暑気払い",
+          "利尿作用"
+        ],
+        "preparation": "甘いスープ（緑豆湯）として飲用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "血糖値上昇抑制効果",
+        "血圧降下作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "肝保護効果",
+        "アレルギー抑制効果"
+      ],
+      "safety_considerations": "一般的に安全。生豆には消化を阻害する成分が含まれるため、必ず加熱調理が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書や食文化研究で広く記述されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "煮込み（ダール）",
+          "製粉（ドーサ生地）",
+          "発芽（スプラウト）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "スパイス（クミン、ターメリック）",
+          "ギー"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "発芽（もやし）",
+          "煮込み（甘いスープ）",
+          "デンプン抽出（春雨）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "砂糖",
+          "豚肉",
+          "野菜（炒め物）"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "煮込み（甘い粥）",
+          "ペースト化（菓子の餡）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "パンダンリーフ",
+          "もち米"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "適切に保存すれば品質低下は少ない。"
+      },
+      {
+        "method": "製粉",
+        "regions": [
+          "南アジア",
+          "東アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "風味が落ちやすく、酸化しやすい。"
+      },
+      {
+        "method": "デンプン抽出（春雨製造）",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "非常に安定している。"
+      },
+      {
+        "method": "スプリット・皮むき（ダール）",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "調理時間が短縮されるが、食物繊維が減少する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかで、わずかに甘く、ナッツのような風味。調理法によってクリーミーにも、でんぷん質にもなる。",
+      "aroma_compounds": [
+        "ヘキサナール（青臭さ）",
+        "ピラジン類（加熱による香ばしさ）"
+      ],
+      "texture_characteristics": "皮はしっかりしているが、煮込むと崩れてクリーミーになる。もやしはシャキシャキとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な評価と育種研究は多いが、極端気象への耐性に関する定量的なデータは品種により異なり限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上では受粉障害や落花が起こりやすい。",
+      "cold_tolerance": "5°C以下で生育停止。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "比較的高い。深い主根が土壌深層の水分を吸収できる。",
+      "flood_tolerance": "低。湛水状態に非常に弱く、24-48時間で根腐れを起こす。",
+      "optimal_rainfall": "600-900mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "草丈が低いため倒伏には比較的強いが、強い風雨で花や莢が落ちることがある。",
+      "hail_damage_recovery": "生育初期であれば回復可能だが、開花期以降の被害は収量に直結する。",
+      "rapid_temperature_change": "比較的適応力があるが、開花期の急激な温度変化は受粉に影響する。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。C3植物としてCO2濃度上昇による光合成促進効果が期待されるが、高温や水ストレスが同時に発生すると効果は相殺される可能性がある。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンに感受性があるとの報告がある。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、ササゲゾウムシやアブラムシなどの害虫の発生時期や地域が拡大するリスクがある。",
+      "disease_resistance_stability": "主要病害である緑豆黄化モザイクウイルス（MYMV）は、媒介昆虫の活動活発化により感染圧が高まる可能性がある。抵抗性品種の開発が重要。",
+      "beneficial_organism_relationships": "根粒菌との共生は高温で阻害される可能性があり、窒素固定能力が低下するリスクがある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯、温帯の夏季",
+        "2050_projection": "温帯地域での栽培可能期間が延長。現在の亜熱帯限界地域では、高温・干ばつストレスが増大する可能性。",
+        "2100_projection": "高緯度地域への栽培適地の北上。現在の主要生産地の一部では、極端な高温により収量が不安定になるリスク。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "野生祖先種との交雑親和性はよく研究されているが、自然環境下での遺伝子流動に関するデータは限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "野生祖先種(V. radiata var. sublobata)とは容易に交雑し、稔性のある子孫を生じる。近縁種のケツルアズキ(V. mungo)との交雑は可能だが、雑種不稔などの障壁がある。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "栽培圃場周辺で、野生祖先種との自然交雑が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である南アジアを中心に、形態、成熟期、耐病性などに関して非常に高い多様性が見られる。",
+      "wild_gene_pool": "野生祖先種(V. radiata var. sublobata)は、耐病性、耐塩性、耐乾性などの有用な遺伝子の宝庫である。",
+      "adaptive_genetic_variation": "各地域の在来種は、その地域の気候や土壌、病害虫圧に適応した遺伝的変異を保持している。",
+      "inbreeding_depression_risk": "自家受粉性植物であるが、品種改良の過程で遺伝的多様性が狭まるリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インドの乾燥地帯",
+        "environmental_pressure": "断続的な干ばつと高温",
+        "adaptive_response": "早熟性、深い根系、気孔の開閉制御",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "自然選択による適応遺伝子の集積"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性、耐塩性、耐病性を向上させる高い可能性がある。",
+      "improved_nutritional_content": "野生種には高タンパク質や特定の微量栄養素を多く含む系統が存在する可能性がある。",
+      "novel_characteristics": "種子休眠性の導入による発芽の斉一性制御など。",
+      "hybrid_vigor_potential": "他家受粉による雑種強勢は限定的だが、遠縁の在来種間の交配で収量性が向上する可能性はある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "V. radiata と V. mungo の間には雑種致死や雑種不稔といった交雑障壁が存在する。",
+      "chromosome_compatibility": "Vigna属内でも種によって染色体構造が異なり、交雑の成否を左右する。",
+      "fertility_of_hybrids": "種間雑種ではしばしば稔性が低下する。",
+      "backcrossing_success": "胚珠培養などの技術を用いることで、戻し交配の成功率を高めることができる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": [
+          "早熟性",
+          "深根性",
+          "クチクラ層の発達"
+        ],
+        "heritability": "中〜高",
+        "response_to_selection": "比較的早い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "マメ科作物としての一般的な特性はよく知られており、リジェネラティブ農業システムにおける役割に関する研究も増えている。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深く伸び、下層土の養分を吸収し、土壌の硬盤を打破する効果がある。",
+      "organic_matter_contribution": "収穫後の残渣が豊富な有機物として土壌に還元される。",
+      "soil_structure_improvement": "根系の活動が土壌の団粒構造を促進し、通気性や排水性を改善する。",
+      "erosion_control": "生育初期から地面を覆うため、風食や水食を防ぐカバークロップとして有効。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。後作物の窒素肥料を削減できる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫にとって蜜源となる。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシなどの生息地を提供する。",
+      "soil_microorganism_interaction": "根粒菌をはじめとする多様な土壌微生物との共生関係を育む。",
+      "above_ground_biodiversity": "輪作体系に組み込むことで、単一栽培に比べて地上部の生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "土壌構造の改善により、雨水の浸透を促進する。",
+      "moisture_retention": "地上部がマルチの役割を果たし、土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表を覆うことで、降雨時の土壌流出を抑制する。",
+      "groundwater_recharge": "浸透が促進されることで、間接的に地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。短期間で分解されやすい。",
+      "below_ground_carbon": "深い根系が土壌中に炭素を供給する。",
+      "soil_carbon_enhancement": "窒素固定によるバイオマス増大と有機物供給を通じて、土壌炭素貯留を促進する。",
+      "carbon_sequestration_rate": "不明。輪作体系や管理方法に大きく依存する。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシやソルガムなどのイネ科作物との間作に適する。イネ科作物は支柱となり、リョクトウは窒素を供給する。"
+      ],
+      "natural_pest_control": "特定のコンパニオンプランツ（例：マリーゴールド）との混植で、線虫を抑制する効果が期待できる。",
+      "nutrient_sharing": "菌根菌ネットワークを介して、リンなどの養分を他の植物と共有する可能性がある。",
+      "allelopathic_interactions": "限定的。他の植物の生育を阻害する強いアレロパシー効果は報告されていない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作に組み込むことで、土壌肥沃度を維持し、病害虫のサイクルを断ち切ることで、生態系の安定性を高める。",
+      "stress_tolerance": "耐乾性・耐暑性があり、不安定な気候条件下でも比較的安定した生産が期待できる。",
+      "recovery_capacity": "生育期間が短いため、干ばつや洪水などの後に再播種して収穫を得ることが可能な場合がある。",
+      "adaptability": "多様な土壌や気候に適応できるため、様々な農業システムに導入しやすい。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物性タンパク質市場の拡大に伴い、現代的な利用法に関する情報や市場データは豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高品質な植物性タンパク質源として、ベジタリアン、ヴィーガン、フレキシタリアンの食事で重要な役割を果たす。",
+      "food_security_contribution": "短期間で栽培でき、乾燥に強く、栄養価が高いため、特に開発途上国の食料安全保障に大きく貢献する。",
+      "local_food_system_integration": "小規模農家でも栽培しやすく、地域の市場で容易に流通させることができる。",
+      "alternative_protein_potential": "リョクトウプロテイン分離物（MPI）は、代替肉、代替卵、プロテインドリンクなどの原料として急速に市場を拡大している。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "植物性食品市場",
+        "グルテンフリー食品市場",
+        "健康志向食品市場"
+      ],
+      "value_added_products": [
+        "プロテインパウダー",
+        "代替卵製品（e.g., JUST Egg）",
+        "スナック菓子",
+        "化粧品原料（抗酸化作用）"
+      ],
+      "niche_market_value": "オーガニック、フェアトレード認証製品として、高付加価値市場での可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の重要性は認識されているが、各地域での在来種の消失速度に関する定量的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生祖先種の自生地が、農地開発や都市化により脅かされている。",
+    "climate_change_vulnerability": "在来種が持つ局所的な気候適応性が、急激な気候変動によって無効化されるリスクがある。",
+    "cultural_erosion_risk": "伝統的な食文化や農法が失われることで、それに結びついた在来種が栽培されなくなるリスクがある。",
+    "conservation_actions_needed": [
+      "在来種のオンファーム（農家による自家採種）保全支援",
+      "ジーンバンクにおける網羅的な種子収集と特性評価",
+      "参加型育種プログラムの推進"
+    ],
+    "priority_conservation_regions": [
+      "インド",
+      "ミャンマー",
+      "フィリピン",
+      "中国南部"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンク（例：World Vegetable Center, ICRISAT, NBPGR）に多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域でNGOや地域コミュニティによる在来種の保全活動が行われているが、広範ではない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集された情報に基づく専門家としての総合的判断である。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド亜大陸の多様性中心地",
+      "東南アジアの島嶼部"
+    ],
+    "knowledge_gaps": [
+      "気候変動下の病害虫・媒介昆虫との相互作用変化",
+      "多様な在来種の機能性成分の網羅的解析",
+      "根系微生物叢と環境ストレス耐性の関係"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名は多岐にわたり、地域性が高いため、代表例の選定は限定的。"
+      },
+      "variety_name": "IPM 2-3 (Pusa Vishal)",
+      "local_name": "Pusa Vishal",
+      "origin_region": "インド",
+      "distinctive_characteristics": "緑豆黄化モザイクウイルス（MYMV）への高い耐病性。早熟で多収。",
+      "cultural_importance": "インドの緑豆生産を安定させた近代的な改良品種として重要。",
+      "climate_adaptation": "高温に適応し、病害の蔓延が予想される温暖湿潤な気候での栽培に適する。",
+      "conservation_status": "広く栽培されているが、遺伝的多様性の観点からは保全対象ではない。"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "在来種の体系的な情報収集は不十分である。"
+      },
+      "variety_name": "在来種（Landrace）",
+      "local_name": "Desi Moong (多数の地域名が存在)",
+      "origin_region": "南アジア各地",
+      "distinctive_characteristics": "小粒で風味が良い。特定の地域の気候や土壌に高度に適応している。成熟期や種皮の色が多様。",
+      "cultural_importance": "地域の伝統料理や家庭菜園で受け継がれてきた。地域の食文化の基盤。",
+      "climate_adaptation": "各地域の微気候に適応した耐乾性や耐病性を持つ系統が存在する可能性が高い。",
+      "conservation_status": "遺伝子侵食のリスクが高い。緊急の保全が必要。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "World Vegetable Center (AVRDC)",
+      "ICRISAT",
+      "GRIN Global",
+      "Ethnobotanical and Agronomic Research Papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "在来種の網羅的な特性評価と文化的価値の記録"
+    ],
+    "regional_data_coverage": "アジア地域は豊富だが、アフリカやラテンアメリカでの栽培データは限定的。",
+    "missing_information": [
+      "先住民コミュニティに固有の利用法",
+      "野生祖先種の正確な分布と生態"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

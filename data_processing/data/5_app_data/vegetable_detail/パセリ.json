@@ -1,0 +1,693 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、Kew Gardens' Plants of the World Online、GRIN-Global、主要な植物学の教科書など、複数の権威あるデータベースからの情報を統合。野生近縁種に関する詳細な生態学的情報は限定的。"
+    },
+    "primary_name": "Parsley",
+    "scientific_name": "Petroselinum crispum",
+    "plant_type": "二年草（一年草として栽培されることが多い）",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "根"
+    ],
+    "origin_region": "中央・東地中海地域",
+    "wild_relatives": [
+      "Petroselinum segetum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の言語辞書、民族植物学のデータベースから名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Parsley"
+      ],
+      "scientific_common": "Garden Parsley"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Persil",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Petersilie",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Prezzemolo",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Perejil",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Петрушка",
+            "script": "Cyrillic"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "بقدونس (baqdūnis)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "tr",
+            "name": "Maydanoz",
+            "script": "Latin"
+          },
+          {
+            "lang": "he",
+            "name": "פטרוזיליה (petrozilia)",
+            "script": "Hebrew"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Parsley",
+      "la": "Petroselinum"
+    },
+    "species": {
+      "en": "Garden Parsley",
+      "la": "crispum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "crispum (Curly-leaf group)"
+      },
+      {
+        "rank": "var.",
+        "name": "neapolitanum (Flat-leaf group)"
+      },
+      {
+        "rank": "var.",
+        "name": "tuberosum (Hamburg root parsley group)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食文化史、民族植物学の文献から情報を集成。古代の儀式的利用に関する解釈には幅がある。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "フランス料理のブーケガルニやパセイヤード、イタリア料理のグレモラータなど、風味付けのハーブとして不可欠。また、料理の彩りを添えるガーニッシュとして広く用いられる。",
+        "seasonal_significance": "春から秋にかけて新鮮なものが利用されるが、通年で栽培・流通している。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜"
+        ],
+        "traditional_uses": "レバント地方のサラダ「タブーリ」では、ブルグルよりも大量のパセリが主役となる。中東全域でサラダ、ソース、詰め物料理に多用される。",
+        "seasonal_significance": "涼しい季節に最も品質が良くなる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ヨーロッパからの移民によって持ち込まれ、主にガーニッシュや乾燥ハーブとして定着。近年はフラットリーフ種が風味付けで人気を高めている。",
+        "seasonal_significance": "地域により異なるが、大規模な商業生産により通年供給される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Bouquet garni",
+          "Persillade"
+        ],
+        "preparation_methods": [
+          "生食（刻む）",
+          "煮込み"
+        ],
+        "cultural_context": "フランス料理の基本的な風味の構成要素（ハーブ）の一つであり、多くの料理の基盤となる。"
+      },
+      {
+        "cuisine": "レバノン料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Tabbouleh"
+        ],
+        "preparation_methods": [
+          "生食（細かく刻む）"
+        ],
+        "cultural_context": "単なるハーブではなく、サラダの主要な野菜として大量に消費される。国民食のアイデンティティの一部。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャでは勝利の象徴、また葬儀の飾りとして用いられ、食用ではなかった。古代ローマ人によって食用として広められ、息を爽やかにするために食されたとされる。",
+      "trade_routes": "ローマ帝国を通じてヨーロッパ全土に伝播した。中世以降、修道院の薬草園などで栽培され、広く普及した。",
+      "cultural_exchange": "ヨーロッパから新大陸へ、また世界各地へと移民と共に伝播し、各地域の食文化に適応・統合されていった。",
+      "domestication_history": "地中海沿岸の野生種から選抜育種され、少なくとも2000年以上前から栽培されていると考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、高地などの冷涼な地域でのみ栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬から春にかけての冷涼な季節に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育に最も適している。冷涼な気候を好み、軽い霜にも耐える。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さが厳しくない地域で栽培可能。冬は保護が必要な場合がある。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な灌漑があれば栽培可能だが、乾燥と高温に弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため、商業栽培には不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春、秋",
+        "harvest_season": "初夏から晩秋",
+        "growing_period_days": "70-90"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋",
+        "harvest_season": "冬から春",
+        "growing_period_days": "70-90"
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 25,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌の肥沃度",
+        "水分供給",
+        "日照条件",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "カリフォルニア州、テキサス州、フロリダ州で大規模な商業生産が行われている。"
+        },
+        {
+          "country": "ドイツ",
+          "production_share": "不明",
+          "characteristics": "ヨーロッパにおける主要な生産国の一つで、乾燥パセリの生産も盛ん。"
+        },
+        {
+          "country": "スペイン",
+          "production_share": "不明",
+          "characteristics": "温暖な気候を活かし、ヨーロッパ市場向けに生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データはUSDA FoodData Central等で入手可能だが、品種や栽培条件による変動に関するデータは限定的。伝統的薬用利用は民族植物学の記録に基づくもので、臨床的エビデンスは様々。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "36",
+        "protein_g": "3.0",
+        "carbs_g": "6.3",
+        "fat_g": "0.8",
+        "fiber_g": "3.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "1640 µg",
+          "daily_value_percent": "1367%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "133 mg",
+          "daily_value_percent": "148%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "8424 IU",
+          "daily_value_percent": "281%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "6.2 mg",
+          "daily_value_percent": "34%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アピゲニン",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "ルテオリン",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、抗がん作用の可能性"
+      },
+      {
+        "compound": "ミリセチン",
+        "concentration": "精油中に含有",
+        "health_effect": "高濃度で幻覚作用の可能性があり注意が必要"
+      },
+      {
+        "compound": "アピオール",
+        "concentration": "精油中に含有",
+        "health_effect": "伝統的に通経薬として利用されたが、毒性が高く危険"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ療法",
+        "uses": [
+          "利尿作用",
+          "口臭予防",
+          "消化促進",
+          "腎臓結石の予防"
+        ],
+        "preparation": "生食、ティー（浸剤）"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高い抗酸化活性"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "血糖降下作用",
+        "肝保護作用"
+      ],
+      "safety_considerations": "妊娠中の大量摂取は避けるべき（子宮収縮作用の可能性）。精油（特にアピオール）は毒性が高く、専門家の指導なしに使用してはならない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書や食文化研究に基づき、広範な利用法を確認。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ・北米",
+        "methods": [
+          "生で刻んでガーニッシュ",
+          "ソースやスープに加える",
+          "バターやオイルと混ぜる"
+        ],
+        "flavor_role": "香辛料/薬味",
+        "typical_combinations": [
+          "ニンニク",
+          "レモン",
+          "魚料理",
+          "肉料理",
+          "ジャガイモ"
+        ]
+      },
+      {
+        "region": "中東",
+        "methods": [
+          "大量に刻んでサラダの主材料として",
+          "ファラフェルなどの揚げ物に混ぜ込む",
+          "肉の詰め物"
+        ],
+        "flavor_role": "主味/副味",
+        "typical_combinations": [
+          "トマト",
+          "ミント",
+          "ブルグル",
+          "タヒニ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "香りの大部分が失われ、風味が大きく変化する。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "6ヶ月以上",
+        "quality_changes": "香りと風味は比較的よく保たれるが、食感は失われる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "フレッシュ、クリーン、緑の香り、わずかな苦味とコショウのようなスパイシーさ。フラットリーフ種の方が香りが強い。",
+      "aroma_compounds": [
+        "β-フェランドレン",
+        "p-メンタ-1,3,8-トリエン",
+        "ミリセチン"
+      ],
+      "texture_characteristics": "生の状態では、カーリー種は歯ごたえがあり、フラットリーフ種は柔らかい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "パセリに特化した気候変動適応の研究は非常に少ない。評価は、セリ科植物の一般的な生理学的特性と、栽培地域の気候要件に基づく定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "30°C以上で生育が著しく阻害され、抽苔（とう立ち）しやすくなる。",
+      "cold_tolerance": "-5°C程度までの軽い霜には耐える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "一貫した土壌水分を必要とする。年間600-800mm相当の水分が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が傷つきやすいため低い。",
+      "hail_damage_recovery": "低い。",
+      "rapid_temperature_change": "中程度。急激な高温は抽苔を誘発する。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物として、CO2濃度の上昇により光合成が促進される可能性があるが、栄養価への影響は不明。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシ、ニンジンアブラムシの発生が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿は、セプトリア斑点病やうどんこ病の発生を助長する可能性がある。",
+      "beneficial_organism_relationships": "温暖化が生息域を北上させる捕食性昆虫との関係が変化する可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域、亜熱帯の冬期",
+        "2050_projection": "現在の栽培適地の南部では夏期の栽培が困難になり、より高緯度地域や高地での栽培が有利になる可能性がある。",
+        "2100_projection": "適地の北上傾向がさらに顕著になると予測される。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "品種間の交雑は一般的。種間交雑に関する情報は少なく、主に育種研究からの知見に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "カーリー種、フラットリーフ種、根パセリは容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "同属の野生種 P. segetum との交雑可能性は理論的に存在するが、自然界での報告は稀。"
+      ],
+      "intergeneric_possibility": [
+        "セロリやニンジンなど他の属との自然交雑は起こらない。"
+      ],
+      "successful_natural_hybrids": [
+        "品種間の自然交雑による中間的な形態の出現は一般的。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である地中海地域には多様な在来種が存在すると考えられるが、その多くは十分に収集・評価されていない。",
+      "wild_gene_pool": "野生近縁種は、病害虫抵抗性や非生物的ストレス耐性の遺伝子源として潜在的な価値を持つ。",
+      "adaptive_genetic_variation": "商業品種の遺伝的多様性は限定的である可能性がある。",
+      "inbreeding_depression_risk": "自家受粉も可能だが、他家受粉が主であり、近交弱勢のリスクは比較的小さい。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "品種間交雑により、特定の機能性成分（例：アピゲニン）の含有量を高める育種が可能。",
+      "novel_characteristics": "葉の形、香り、成長習性など新しい形質を持つ品種の作出が可能。",
+      "hybrid_vigor_potential": "品種間交雑により雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内では交雑障壁はほとんどない。",
+      "chromosome_compatibility": "種内では問題ない。",
+      "fertility_of_hybrids": "種内雑種は高い稔性を持つ。",
+      "backcrossing_success": "高い。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "パセリに特化したリジェネラティブ農業の研究は少ないが、コンパニオンプランツとしての利用やセリ科植物の一般的特性から多くの便益が推測される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根は深さ30-60cmに達し、土壌の硬盤を穿孔し、水や空気の通り道を改善する助けとなる。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物として貢献する。",
+      "soil_structure_improvement": "根系の活動が土壌団粒構造の形成を促進する。",
+      "erosion_control": "密に栽培すると地表を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "土壌深層から養分を吸い上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花させると小さな花が多数集まった花序を形成し、ヒメハナバチ、寄生蜂、ハナアブなど多様な小型の送粉者や天敵昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "アゲハチョウ科のキアゲハの幼虫の食草となる。",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌と共生関係を結ぶ。",
+      "above_ground_biodiversity": "多様な昆虫相を支えることで、生態系全体の複雑性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の働きにより土壌の浸透能を改善する。",
+      "moisture_retention": "地表被覆により土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的。",
+      "below_ground_carbon": "根系を通じて土壌に炭素を供給するが、一年草として栽培されるため蓄積量は少ない。",
+      "soil_carbon_enhancement": "残渣の分解を通じて土壌炭素の増加に寄与する。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トマト（害虫を遠ざけるとされる）",
+        "アスパラガス（アスパラガスビートルを遠ざけるとされる）",
+        "バラ（アブラムシを遠ざけ、香りを良くするとされる）"
+      ],
+      "natural_pest_control": "天敵昆虫を誘引することで、アブラムシなどの害虫を天敵が捕食するのを助ける。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "限定的か、不明。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "バンカープランツとして天敵を維持し、農業生態系の安定性に貢献する。",
+      "stress_tolerance": "植物自体のストレス耐性は低いが、生態系サービスを通じてシステム全体の耐性を向上させる可能性がある。",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、栄養学、食品科学の文献に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラルが非常に豊富で、植物中心の食生活における栄養価を高める上で重要な役割を果たす。",
+      "food_security_contribution": "主食ではないが、家庭菜園でも容易に栽培でき、微量栄養素の供給源として食の質を向上させる。",
+      "local_food_system_integration": "地元の市場やCSA（地域支援型農業）で人気の品目であり、地域食品システムの活性化に貢献する。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "生鮮ハーブ市場の成長",
+        "スムージーやジュースの原料",
+        "機能性食品素材"
+      ],
+      "value_added_products": [
+        "フリーズドライパセリ",
+        "パセリ入りソース（チミチュリ、サルサベルデなど）",
+        "精油、抽出エキス"
+      ],
+      "niche_market_value": "特定の品種（例：根パセリ）は、ヨーロッパ系の食文化を持つコミュニティや高級レストランでニッチな需要がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な商業品種の遺伝的侵食リスクは低いが、原産地地域の在来種や野生近縁種の状況に関するデータは不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地である地中海地域の野生近縁種の生息地は、開発や気候変動の脅威にさらされている可能性がある。",
+    "climate_change_vulnerability": "栽培品種は高温と乾燥に脆弱であり、気候変動により栽培適地が変化するリスクがある。",
+    "cultural_erosion_risk": "低い。世界中で広く利用されているため、利用に関する文化的知識が失われるリスクは低い。",
+    "conservation_actions_needed": [
+      "原産地地域における在来品種（ランドレース）の探索、収集、および特性評価",
+      "野生近縁種の生息域内（in-situ）および生息域外（ex-situ）保全",
+      "多様な遺伝資源を公的ジーンバンクで保存・公開"
+    ],
+    "priority_conservation_regions": [
+      "ギリシャ",
+      "イタリア南部",
+      "バルカン半島",
+      "北アフリカ"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（例：米農務省GRIN-Global、世界野菜センター）には多数の品種が保存されている。",
+    "in_situ_conservation_efforts": "不明"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた知見に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "中東（ハーブとしてではなく野菜としての利用文化）",
+      "地中海沿岸（遺伝的多様性の中心地）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、乾燥、CO2濃度上昇）に対する品種レベルでの生理学的応答の定量的データ",
+      "在来品種および野生近縁種の遺伝的多様性と有用形質の評価",
+      "リジェネラティブ農業システムにおける具体的な土壌改善効果や炭素隔離能の測定"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種データベースに基づく。"
+      },
+      "variety_name": "Moss Curled (Curly Leaf)",
+      "local_name": "Persil frisé",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "葉が強く縮れている。風味はマイルド。装飾的な価値が高い。",
+      "cultural_importance": "伝統的にガーニッシュとして最も広く使われてきた品種。",
+      "climate_adaptation": "標準的なパセリの適応性を持つ。耐寒性が比較的強い。",
+      "conservation_status": "絶滅リスクなし（広く栽培）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種データベースに基づく。"
+      },
+      "variety_name": "Giant of Italy (Flat Leaf)",
+      "local_name": "Prezzemolo Gigante d'Italia",
+      "origin_region": "イタリア",
+      "distinctive_characteristics": "葉が平たく、セロリの葉に似ている。香りが強く、風味が豊か。",
+      "cultural_importance": "イタリア料理やフランス料理、中東料理で風味付けのために好まれる。",
+      "climate_adaptation": "標準的なパセリの適応性を持つが、カーリー種よりやや暑さに強いとされることがある。",
+      "conservation_status": "絶滅リスクなし（広く栽培）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種データベースに基づく。"
+      },
+      "variety_name": "Hamburg (Root Parsley)",
+      "local_name": "Petersilienwurzel",
+      "origin_region": "ドイツ",
+      "distinctive_characteristics": "パースニップに似た白く太い根を食用とする。根はセロリ、パセリ、ニンジンの風味を併せ持つ。葉も食用可能。",
+      "cultural_importance": "中央および東ヨーロッパの料理で、スープやシチューの風味付け、ロースト野菜として重要。",
+      "climate_adaptation": "根を十分に肥大させるためには、より長い冷涼な生育期間を必要とする。",
+      "conservation_status": "絶滅リスクなし（地域的に栽培）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Gardens' Plants of the World Online",
+      "USDA FoodData Central",
+      "GRIN-Global Database",
+      "FAOSTAT",
+      "Relevant ethnobotanical and agricultural science journals"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの応答に関する定量的データ",
+      "リジェネラティブ農業適性の定量的評価",
+      "野生近縁種の遺伝資源としての具体的なポテンシャル評価"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に関するデータは豊富だが、多様性の中心地である地中海沿岸の在来種に関する情報は比較的少ない。",
+    "missing_information": [
+      "全世界の正確な生産統計",
+      "在来種の保全状況に関する詳細情報"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

@@ -1,0 +1,726 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew, GRIN）および農学研究論文から統合。原産地についてはアフリカ起源説が有力だが、インド亜大陸起源説も存在する。"
+    },
+    "primary_name": "Molokhia",
+    "scientific_name": "Corchorus olitorius L.",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "アフリカまたは南アジア",
+    "wild_relatives": [
+      "Corchorus capsularis",
+      "Corchorus tridens",
+      "Corchorus aestuans"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の民族植物学データベース、農業文書から名称を収集。一部の先住民名は文献によって表記揺れが見られる。"
+    },
+    "international": {
+      "en": [
+        "Jute mallow",
+        "Jew's mallow",
+        "Nalta jute",
+        "Bush okra"
+      ],
+      "scientific_common": "Jute"
+    },
+    "regional": [
+      {
+        "region": "中東・北アフリカ",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "ملوخية",
+            "script": "Arabic"
+          },
+          {
+            "lang": "he",
+            "name": "מלוכיה",
+            "script": "Hebrew"
+          }
+        ]
+      },
+      {
+        "region": "西アフリカ",
+        "languages": [
+          {
+            "lang": "yo",
+            "name": "Ewedu",
+            "script": "Latin"
+          },
+          {
+            "lang": "ha",
+            "name": "Rama",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Mrenda",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "bn",
+            "name": "পাট শাক",
+            "script": "Bengali"
+          },
+          {
+            "lang": "hi",
+            "name": "पटसन",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "fil",
+            "name": "Saluyot",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "シマツナソ",
+            "script": "Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ヨルバ（ナイジェリア）",
+        "name": "Ewedu",
+        "cultural_significance": "粘り気のあるスープの主原料であり、アマラなどの主食と共に食される。滋養強壮の源とされる。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。かつてはアオイ科ではなくシナノキ科（Tiliaceae）に分類されていた。"
+    },
+    "family": {
+      "en": "Mallow family",
+      "la": "Malvaceae"
+    },
+    "genus": {
+      "en": "Jute",
+      "la": "Corchorus"
+    },
+    "species": {
+      "en": "Jute mallow",
+      "la": "olitorius"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "文化人類学的研究、食文化史、民族植物学の記録に基づく。特にエジプトにおける重要性は古代に遡り、記録が豊富。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "エジプトおよびレバント",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食級の副菜",
+          "文化的象徴",
+          "経済作物"
+        ],
+        "traditional_uses": "国民食「モロヘイヤ」スープとして消費。古代エジプトの王が病気回復のために食したという伝説があり、「王家の野菜」とも呼ばれる。",
+        "seasonal_significance": "夏の間の重要な緑黄色野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "西アフリカ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "地域経済作物"
+        ],
+        "traditional_uses": "Eweduスープとして、発酵させた穀物の団子（アマラなど）と共に食される。粘り気が食事の飲み込みを助ける役割を持つ。",
+        "seasonal_significance": "雨季の間の重要な栄養源。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "繊維作物"
+        ],
+        "traditional_uses": "主に葉物野菜（シャーク）として炒め物やスープに利用される。繊維作物（ジュート）としての経済的重要性が高い地域もある。",
+        "seasonal_significance": "モンスーン期の野菜。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "エジプト料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Molokhia"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "スープ"
+        ],
+        "cultural_context": "家族の集まりや祝いの席で供されることが多い、魂の料理（ソウルフード）。"
+      },
+      {
+        "cuisine": "ナイジェリア料理（ヨルバ）",
+        "role": "staple",
+        "traditional_dishes": [
+          "Ewedu soup"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "ピューレ"
+        ],
+        "cultural_context": "主食の「スワローフード」を食べるために不可欠な滑らかなスープとして位置づけられる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト時代から食用・薬用として利用されていた記録がある。",
+      "trade_routes": "アフリカ、中東、アジア間の交易を通じて、種子や利用法が広まった。",
+      "cultural_exchange": "アラブ文化圏の拡大と共に、その食文化が北アフリカから中東一帯に定着した。",
+      "domestication_history": "アフリカ大陸で栽培化されたと考えられているが、正確な時期や場所は不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿。年間を通じて栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない季節に栽培。夏の主要作物。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の間の短期栽培のみ可能。霜に非常に弱い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温に耐えられない。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。高温には強いが、水分不足は収量に大きく影響する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため生育不可。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "播種後30-60日から継続的に収穫",
+        "growing_period_days": 60
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "夏から初秋（初霜前まで）",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 50,000 kg/ha (生葉)",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水分供給",
+        "土壌肥沃度",
+        "収穫頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "エジプト",
+          "production_share": "不明",
+          "characteristics": "国内消費が主。スープ用に大規模生産。"
+        },
+        {
+          "country": "ナイジェリア",
+          "production_share": "不明",
+          "characteristics": "小規模農家による生産が中心で、国内市場向け。"
+        },
+        {
+          "country": "バングラデシュ",
+          "production_share": "不明",
+          "characteristics": "野菜として、またジュート繊維の副産物として生産。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "主に東部地域で野菜として栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変動に関するデータは限定的。機能性に関する研究は増加しているが、多くは基礎研究段階。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "25",
+        "protein_g": "4.5",
+        "carbs_g": "5.5",
+        "fat_g": "0.3",
+        "fiber_g": "2.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA (β-カロテン)",
+          "amount": "10,000 IU以上",
+          "daily_value_percent": "200%以上"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "250 mcg",
+          "daily_value_percent": "200%以上"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "200 mg",
+          "daily_value_percent": "20%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "3 mg",
+          "daily_value_percent": "17%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "500 mg",
+          "daily_value_percent": "14%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "粘液質多糖類（ムチン）",
+        "concentration": "不明",
+        "health_effect": "消化器粘膜保護、血糖値上昇抑制"
+      },
+      {
+        "compound": "フラボノイド（ケルセチン、ミリセチン）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "フェノール酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アフリカ・中東",
+        "medical_system": "民間療法",
+        "uses": [
+          "整腸",
+          "利尿",
+          "解熱",
+          "滋養強壮"
+        ],
+        "preparation": "葉を煮出した汁を飲む、または食事として摂取。"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "消化不良の改善",
+          "痛み止め"
+        ],
+        "preparation": "葉をペースト状にして利用、または料理に加える。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高い抗酸化活性",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "血糖降下作用",
+        "抗がん作用",
+        "肝保護作用"
+      ],
+      "safety_considerations": "葉と若い茎は安全だが、種子にはストロファンチジンなどの強心配糖体が含まれ、有毒であるため絶対に摂取してはならない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の料理書、食文化研究、オンラインレシピデータベースから情報を収集。地域ごとの調理法の多様性は非常に豊か。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "中東・北アフリカ",
+        "methods": [
+          "煮込みスープ",
+          "ソテー"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ニンニク",
+          "コリアンダー",
+          "鶏肉",
+          "ウサギ肉",
+          "米"
+        ]
+      },
+      {
+        "region": "西アフリカ",
+        "methods": [
+          "ピューレスープ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "エグシ（メロンの種）",
+          "イナゴマメ",
+          "干し魚",
+          "唐辛子"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "炒め物",
+          "煮込み"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "タケノコ",
+          "キノコ",
+          "魚醤",
+          "エビ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "アフリカ全域",
+          "中東"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "色や一部のビタミンは失われるが、粘り気と風味は保持される。"
+      },
+      {
+        "method": "冷凍（刻み）",
+        "regions": [
+          "世界中（商業製品）"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "生に近い食感と栄養価を保持できる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかな草の風味、わずかな苦味、うま味",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "加熱すると強い粘り気（ぬめり）が出るのが最大の特徴。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、特定の閾値を示す定量的な実験データは少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生育可能だが、水分が必要。",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1500mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎がしなやかなため、強風で倒れにくい。",
+      "hail_damage_recovery": "成長が早いため、葉が傷んでも回復しやすい。",
+      "rapid_temperature_change": "急激な低温には弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度上昇により光合成効率と成長が促進される可能性がある（理論値）。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により害虫（特にネマトーダやヨトウムシ）の発生期間が長くなるリスクがある。",
+      "disease_resistance_stability": "多くの在来種は地域の病害虫に耐性を持つが、新たな病気の侵入には脆弱な可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯、温帯の夏",
+        "2050_projection": "現在の栽培地域に加え、温帯地域の栽培可能期間が延長。亜熱帯地域での周年栽培が可能になるエリアが増加。",
+        "2100_projection": "現在の温帯北部でも夏の作物として栽培可能になる可能性がある。一方、極端な干ばつに見舞われる地域では灌漑なしの栽培は困難になる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "主にジュート繊維の育種に関する研究が多く、食用としての自然交雑や遺伝的多様性に関する体系的な研究は限定的。野生近縁種との交雑親和性データは少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の在来種や栽培品種が存在し、種内交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Corchorus capsularisとの種間交雑は可能だが、雑種不稔や交雑障壁が存在することが報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は少ない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アフリカと南アジアの起源中心地には、形態や生態的特性の異なる多様な在来品種が存在する。",
+      "wild_gene_pool": "アフリカやアジアに分布する野生のCorchorus属植物は、病害虫抵抗性や環境ストレス耐性の遺伝子源として有望。",
+      "adaptive_genetic_variation": "乾燥地帯や湿潤地帯など、異なる環境に適応した地域個体群が存在する。",
+      "inbreeding_depression_risk": "自家受粉もするため、遺伝的に均一な集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "サヘル地帯",
+        "environmental_pressure": "不規則な降雨と高温",
+        "adaptive_response": "早生性、深い根系、種子の休眠性",
+        "time_scale": "数世紀以上",
+        "mechanism": "自然選択による適応形質の集積"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐塩性を向上させる可能性がある。",
+      "improved_nutritional_content": "栄養成分（ビタミン、ミネラル）が豊富な在来種との交雑による栄養価の改善。",
+      "novel_characteristics": "粘り気の少ない品種や、特定の機能性成分を多く含む品種の作出。",
+      "hybrid_vigor_potential": "異なる遺伝的背景を持つ系統間の交雑による雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑における胚珠の発育不全などの交雑障壁。",
+      "chromosome_compatibility": "Corchorus属は共通して2n=14の染色体を持つが、構造的な差異が交雑に影響することがある。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することが多い。",
+      "backcrossing_success": "有用遺伝子を導入するために戻し交配が利用されるが、連鎖する不良形質の分離が課題となる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い根系、クチクラ層の発達",
+        "heritability": "中程度",
+        "response_to_selection": "適応可能"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の構成要素としてのモロヘイヤに関する直接的な科学研究は非常に少ない。以下の評価は、植物の一般的特性や伝統的農法からの類推を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "直根性の深い根系を持ち、土壌の硬盤を破砕し、水と空気の通り道を改善する可能性がある。",
+      "organic_matter_contribution": "成長が早くバイオマスが大きいため、収穫後の残渣をすき込むことで土壌有機物を増やす。",
+      "soil_structure_improvement": "根による土壌団粒化の促進。",
+      "erosion_control": "生育期には密な群落を形成し、地表を覆うことで雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "深い根が土壌深層から養分を吸い上げ、落葉や残渣を通じて表層に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "黄色い花はミツバチなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "クモやテントウムシなどの天敵昆虫の生息場所を提供する。",
+      "soil_microorganism_interaction": "根圏で多様な土壌微生物と共生関係を築く可能性がある。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る孔隙が水の浸透を助ける。",
+      "moisture_retention": "地上部によるマルチング効果で土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "密な植生が地表水の流出を遅らせる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "成長が早く、短期間で多くの炭素を固定する。",
+      "below_ground_carbon": "深い根系を通じて土壌中に炭素を貯留する。",
+      "soil_carbon_enhancement": "残渣の分解により土壌炭素（腐植）を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）、トウモロコシ（支柱、日陰作り）、カボチャ（地面被覆）など、伝統的な混植システムで栽培されることが多い。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "高温耐性があるため、他の作物が不作となる猛暑時にも収穫を提供し、システムの安定性を高める。",
+      "stress_tolerance": "高温とある程度の乾燥に耐える。",
+      "recovery_capacity": "成長が早く、ダメージからの回復力が高い。",
+      "adaptability": "多様な土壌条件で生育可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、健康食品業界の動向、食料安全保障に関する報告書から情報を統合。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラル、食物繊維が豊富なため、植物性中心の食生活における栄養価の高い食材として価値がある。",
+      "food_security_contribution": "高温乾燥地域で容易に栽培でき、栄養価も高いため、気候変動下での食料安全保障への貢献が期待される。",
+      "local_food_system_integration": "家庭菜園や小規模農業に適しており、地域の食料自給率向上に貢献する。",
+      "alternative_protein_potential": "葉物野菜としてはタンパク質含有量が高く、補助的なタンパク質源となりうる。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けに「スーパーフード」としてのマーケティング",
+        "乾燥粉末やサプリメントとしての製品開発"
+      ],
+      "value_added_products": [
+        "モロヘイヤヌードル",
+        "健康飲料（スムージー）",
+        "化粧品原料（保湿成分）"
+      ],
+      "niche_market_value": "エスニック料理食材店やオーガニック市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源に関する報告書や保全団体の情報に基づくが、在来種全体の体系的なアセスメントは不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の自生地は、農地開発や都市化の脅威にさらされている。",
+    "climate_change_vulnerability": "植物自体の脆弱性は低いが、栽培体系を支える水資源の枯渇や社会経済的変化が脅威となりうる。",
+    "cultural_erosion_risk": "高収量の単一品種への移行や食生活の西洋化により、多様な在来種の栽培知識や伝統的利用法が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来品種の収集・評価・長期保存（ジーンバンク）",
+      "農家が主体となる域内保全（オンファーム保全）の支援",
+      "伝統的知識の記録と次世代への継承"
+    ],
+    "priority_conservation_regions": [
+      "西アフリカのサバンナ地帯",
+      "ナイル川流域",
+      "インド東部およびバングラデシュ"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンク（World Vegetable Centerなど）で多数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域でNGOや地域コミュニティによる在来種の保全活動が行われているが、広範ではない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "N/A",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた情報に基づく総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "エジプト",
+      "ナイジェリア",
+      "フィリピン",
+      "バングラデシュ"
+    ],
+    "knowledge_gaps": [
+      "リジェネラティブ農業への定量的貢献度",
+      "気候変動因子（CO2, オゾン）に対する品種レベルでの応答",
+      "粘性多糖類の構造と機能性の詳細な関係"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "品種名が国際的に標準化されておらず、多くは地域名や系統名で呼ばれるため、体系的な情報収集が困難。"
+      },
+      "variety_name": "Egyptian Spinach",
+      "local_name": "Molokhia",
+      "origin_region": "エジプト",
+      "distinctive_characteristics": "葉が広く、粘りが強い。スープにした際の風味が良いとされる。",
+      "cultural_importance": "エジプトの国民食に最もよく使われる伝統的なタイプ。",
+      "climate_adaptation": "高温と乾燥した気候に適応している。",
+      "conservation_status": "広く栽培されているが、伝統的な農家系統は近代品種に置き換わりつつある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-07-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAO EcoCrop database",
+      "World Vegetable Center (AVRDC) publications",
+      "Journal of Ethnopharmacology",
+      "Genetic Resources and Crop Evolution"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの生理学的応答",
+      "野生近縁種との交雑ポテンシャルの詳細な評価"
+    ],
+    "regional_data_coverage": "中東・アフリカは比較的豊富だが、南米やオセアニアでの利用に関するデータは非常に少ない。",
+    "missing_information": [
+      "具体的な香り成分の同定",
+      "アレルゲン情報",
+      "栽培における具体的な水利用効率のデータ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

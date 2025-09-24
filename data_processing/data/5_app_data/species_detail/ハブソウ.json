@@ -1,0 +1,645 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "学術的通称、植物学的特徴、分布に関する情報は、Kew's Plants of the World Online, USDA GRIN,および主要な民族植物学の文献から統合。毒性に関する情報も広く報告されている。"
+    },
+    "primary_name": "Coffee Senna",
+    "scientific_name": "Senna occidentalis (L.) Link",
+    "plant_type": "一年草/多年草",
+    "edible_parts": [
+      "葉",
+      "花",
+      "種子"
+    ],
+    "origin_region": "新熱帯区（熱帯アメリカ）",
+    "wild_relatives": [
+      "Senna obtusifolia",
+      "Senna tora"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の民族植物学データベースと地域植物相の記録から広範な名称を収集。一部の先住民名は地域コミュニティ内でのみ使用されるため、網羅は困難。"
+    },
+    "international": {
+      "en": [
+        "Coffee Senna",
+        "Septicweed",
+        "Styptic weed",
+        "Mogdad coffee"
+      ],
+      "scientific_common": "Senna occidentalis"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ハブソウ",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "望江南",
+            "script": "Hanzi"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "कसौंदी (Kasaundi)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "பேய் ஆவாரை (Pey avarai)",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "yo",
+            "name": "Rere",
+            "script": "Latin"
+          },
+          {
+            "lang": "ha",
+            "name": "Rai-dore",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Fedegoso",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Brusca",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "西アフリカの様々な民族グループ",
+        "name": "複数（例：Rere）",
+        "cultural_significance": "主に解熱剤、下剤、皮膚病の治療薬として利用される。種子はコーヒー代用品として飢饉時の重要な食料となる。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Senna",
+      "la": "Senna"
+    },
+    "species": {
+      "en": "Coffee Senna",
+      "la": "occidentalis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学の文献で世界中での利用が広く記録されている。ただし、食用としての重要性は地域差が大きく、多くは薬用または飢饉時の食料。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "西アフリカ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "副菜",
+          "飲料"
+        ],
+        "traditional_uses": "若葉は毒抜き（複数回茹でこぼす）をして野菜として、焙煎した種子はコーヒー代用品（Mogdad Coffee）として利用。根、葉、種子はマラリア、発熱、消化器系の不調に対する伝統薬として極めて重要。",
+        "seasonal_significance": "乾季に利用可能な貴重な緑黄色野菜であり、飢饉時の代替食料。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "アーユルヴェーダやシッダ医学で皮膚病、肝臓疾患、便秘の治療に用いられる。食用としての利用はアフリカほど一般的ではない。",
+        "seasonal_significance": "雨季後に自生するものを薬用に採集。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 2,
+        "cultural_roles": [
+          "薬用",
+          "健康茶"
+        ],
+        "traditional_uses": "日本では「ハブ茶」の原料の一つとして近縁種のS. obtusifolia（エビスグサ）と共に利用されてきた歴史があるが、主に後者が使われる。漢方では「望江南」として解毒や利尿に用いる。",
+        "seasonal_significance": "夏から秋にかけて採集。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "西アフリカの伝統食",
+        "role": "common",
+        "traditional_dishes": [
+          "Leaf Sauce",
+          "Mogdad Coffee"
+        ],
+        "preparation_methods": [
+          "茹でこぼし",
+          "焙煎",
+          "粉砕"
+        ],
+        "cultural_context": "主に農村部で、栄養補助や薬効を期待して食される。コーヒー代用品はカフェインを含まない覚醒飲料として利用。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "新大陸原産だが、大航海時代以降に急速に世界中に伝播。各地の伝統医学体系に速やかに取り入れられた。",
+      "trade_routes": "奴隷貿易などを通じてアフリカやアジアに非意図的に拡散したと考えられている。",
+      "cultural_exchange": "コーヒー代用品としての利用法は、アラブ世界のコーヒー文化がアフリカに伝わった影響を受けて生まれた可能性がある。",
+      "domestication_history": "正式な栽培化はされておらず、主に半野生状態または雑草として扱われるが、有用なため保護・管理されることがある。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好むが、幅広い条件に適応する。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "生育に最適。多くの地域で雑草化している。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない期間に一年草として栽培可能。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さが厳しく、生育期間が短すぎる。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に強いが、ある程度の降雨は必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に適応しない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "通年（播種後2-3ヶ月）",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照",
+        "水分",
+        "土壌肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ナイジェリア",
+          "production_share": null,
+          "characteristics": "商業生産ではなく、主に地域の市場や自家消費のために野生採集または小規模栽培される。"
+        },
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "主に薬用植物として採集され、アーユルヴェーダ薬品の原料として流通する。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "若葉の基本的な栄養価データは存在するが、種子や地域による変異のデータは限定的。機能性成分（アントラキノン類）に関する研究は多いが、毒性との関連で解釈には注意が必要。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約40-60 (調理済みの葉)",
+        "protein_g": "4-6",
+        "carbs_g": "5-8",
+        "fat_g": "0.5-1",
+        "fiber_g": "2-4"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "鉄",
+          "amount": "中程度",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "中程度",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "高",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントラキノン (Emodin, Chrysophanol)",
+        "concentration": "葉、特に種子に高濃度",
+        "health_effect": "下剤作用、抗菌作用。過剰摂取で肝毒性、腎毒性。"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "葉",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アフリカ全域",
+        "medical_system": "伝統民間医療",
+        "uses": [
+          "解熱（特にマラリア）",
+          "下剤",
+          "皮膚病（白癬菌など）の湿布",
+          "利尿"
+        ],
+        "preparation": "葉や根の煎じ汁、葉の湿布。"
+      },
+      {
+        "region": "南米",
+        "medical_system": "伝統民間医療",
+        "uses": [
+          "肝臓強壮",
+          "駆虫",
+          "ヘビ咬傷の応急処置"
+        ],
+        "preparation": "全草の煎じ汁。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗菌活性",
+        "抗真菌活性",
+        "抗炎症作用",
+        "下剤作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "抗糖尿病作用",
+        "肝保護作用"
+      ],
+      "safety_considerations": "未調理の種子は人間や家畜に対して強い毒性（特に肝毒性）を持つ。葉も生食は危険。伝統的な調理法（茹でこぼし）は毒性を低減させるが、完全な安全性を保証するものではない。妊婦や幼児の摂取は避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "利用法は特定の文化圏に限定されており、世界的に多様な料理があるわけではない。毒抜きという特殊な調理法が中心となる。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "西アフリカ",
+        "methods": [
+          "茹でる（複数回水を替える）",
+          "炒める",
+          "煮込む（ソースやスープの具として）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ピーナッツペースト",
+          "唐辛子",
+          "干し魚",
+          "パーム油"
+        ]
+      },
+      {
+        "region": "世界各地（特にアフリカ、ラテンアメリカ）",
+        "methods": [
+          "焙煎",
+          "粉砕",
+          "煮出す"
+        ],
+        "flavor_role": "飲料",
+        "typical_combinations": [
+          "砂糖",
+          "香辛料（ショウガ、クローブ）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "アフリカ",
+          "アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "葉の色は暗くなるが、薬効や栄養価は比較的保たれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "葉は強い苦味と青臭さがある。適切な調理で苦味は緩和される。焙煎した種子は、香ばしく、コーヒーに似た苦味とコクがあるが、よりマイルド。",
+      "aroma_compounds": [
+        "ピラジン類（焙煎後）"
+      ],
+      "texture_characteristics": "調理した葉は柔らかい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "その雑草としての性質から、高いストレス耐性が定性的に広く認識されている。しかし、特定の気候変動要因に対する生理学的応答を調べた定量的な研究は少ない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-35°C",
+      "extreme_heat_survival": "40°C以上でも生存可能",
+      "cold_tolerance": "5°C以下で生育停止、霜で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "不明（高いと推定）",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "600-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（茎は折れやすいが、急速に再生）",
+      "hail_damage_recovery": "高（成長が速いため）",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物であるため、効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "高い（含有する化学物質が多くの害虫を忌避）",
+      "disease_resistance_stability": "高い（特定の病気に弱いという報告は少ない）",
+      "beneficial_organism_relationships": "根粒菌と共生"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯全域",
+        "2050_projection": "現在の温帯域の南部へ分布が拡大",
+        "2100_projection": "温帯域の大部分で一年草として生育可能になる可能性",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Senna属は大きいが、S. occidentalisの自然交雑に関する具体的な研究は非常に少ない。近縁種との交雑可能性は形態的類似性から示唆されるが、実証データは乏しい。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "世界中の地理的エコタイプ間で交雑可能と推定"
+      ],
+      "interspecific_compatibility": [
+        "Senna obtusifolia",
+        "Senna tora"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は少ない"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "高い（世界中に適応した多様なエコタイプが存在）",
+      "wild_gene_pool": "本種自体が野生種として扱われるため、遺伝子プールは広大。",
+      "adaptive_genetic_variation": "高い",
+      "inbreeding_depression_risk": "低い（主に他家受粉）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界中の攪乱地",
+        "environmental_pressure": "除草剤、耕起、異なる土壌タイプ",
+        "adaptive_response": "急速な成長、多量の種子生産、発芽タイミングの多様化",
+        "time_scale": "数十年",
+        "mechanism": "高い遺伝的多様性に基づく自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐塩性をさらに向上させる交雑の可能性",
+      "improved_nutritional_content": "毒性（アントラキノン）が低く、栄養価の高い系統を選抜・交配できる可能性",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "高いと推定"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "近縁種とは比較的高いと推定",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候（乾燥、高温）、人為的攪乱",
+        "adaptive_traits": "深根性、早い開花・結実、種子休眠",
+        "heritability": "高いと推定",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物としての一般的な特性（窒素固定など）からの類推が主。本種をリジェネラティブ・システムに組み込んだ具体的な研究は限られるが、ポテンシャルは高い。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深い主根と広範な側根",
+      "organic_matter_contribution": "成長が速く、緑肥としてのバイオマス生産量が大きい。",
+      "soil_structure_improvement": "主根が硬盤層を穿孔し、水や空気の通り道を改善する可能性がある。",
+      "erosion_control": "急速に地表を被覆するため、降雨による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの多様な訪花昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌との共生関係が土壌微生物叢を豊かにする。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が水の浸透を促進する。",
+      "moisture_retention": "地上部がマルチとなり、土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "高い被覆率により地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度（一年草のため蓄積は一時的）",
+      "below_ground_carbon": "中程度（深い根系による）",
+      "soil_carbon_enhancement": "残渣の分解により土壌有機物を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシやソルガムなどの穀物（窒素供給源として）"
+      ],
+      "natural_pest_control": "含有成分が線虫や一部の害虫を抑制する可能性（アレロパシー）。",
+      "nutrient_sharing": "窒素を近傍の植物に供給する。",
+      "allelopathic_interactions": "他の雑草の生育を抑制する効果が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "窒素を外部から投入せずに地力を維持するのに貢献。",
+      "stress_tolerance": "干ばつなどの気候ストレスに対するシステム全体の緩衝能力を高める。",
+      "recovery_capacity": "攪乱からの回復が早い。",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ポテンシャルは高いが、毒性の問題が商業化の大きな障壁となっている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "適切な毒抜き処理法の確立が前提となるが、葉は緑黄色野菜として、種子はカフェインフリーの飲料原料として可能性がある。",
+      "food_security_contribution": "気候変動下で他の作物が育ちにくい限界地での食料・栄養源として重要性が増す可能性がある。",
+      "local_food_system_integration": "すでに多くの地域で自家消費・地域市場向けに利用されている。",
+      "alternative_protein_potential": "低い（毒性のため）"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康茶市場（ハブ茶）",
+        "カフェインフリーの代替コーヒー市場",
+        "緑肥・カバークロップ用の種子市場"
+      ],
+      "value_added_products": [
+        "標準化された薬用エキス",
+        "インスタント・コーヒー風飲料"
+      ],
+      "niche_market_value": "民族植物やオーガニック製品に関心を持つ層にアピールできる可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物自体の絶滅リスクは極めて低いが、その利用に関する文化的知識の消失が懸念される。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "低い（攪乱地を好むため、人間の活動域で繁栄する）",
+    "climate_change_vulnerability": "低い（むしろ適応性が高い）",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "安全な食用・薬用利用に関する伝統知識の記録と科学的検証",
+      "地域コミュニティにおける知識の世代間継承の支援"
+    ],
+    "priority_conservation_regions": [
+      "西アフリカ",
+      "アマゾン",
+      "南アジアの農村部"
+    ],
+    "ex_situ_conservation_status": "多くの植物園や種子バンクで収集・保存されている。",
+    "in_situ_conservation_efforts": "特定の保全活動は不要だが、利用されている農地や半野生環境の維持が重要。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集された情報に基づく専門家としての総合的判断である。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "サヘル地域（耐乾性と食利用）",
+      "ブラジル（伝統医学での利用）"
+    ],
+    "knowledge_gaps": [
+      "アントラキノン類の含有量の地理的・遺伝的変異",
+      "伝統的な毒抜き処理の有効性と安全性に関する定量的データ",
+      "窒素固定能力の定量的評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "本種は正式な品種育成がされておらず、明確な「品種」は存在しない。以下は世界中に存在する地理的エコタイプを代表として記述する。"
+      },
+      "variety_name": "汎熱帯エコタイプ (Pantropical Ecotype)",
+      "local_name": "各地の現地名",
+      "origin_region": "新熱帯区（原産）、現在は世界中の熱帯・亜熱帯",
+      "distinctive_characteristics": "環境への高い可塑性を持ち、生育地の条件（土壌、降雨量、日照）に応じて草丈、葉の大きさ、種子生産量などが大きく変動する。",
+      "cultural_importance": "薬用植物、飢饉時の食料、コーヒー代用品として世界中の多くの文化で重要。",
+      "climate_adaptation": "極めて高い。耐暑性、耐乾性に優れ、貧栄養土壌でも生育可能。",
+      "conservation_status": "最低懸念 (Least Concern)"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens, Plants of the World Online",
+      "USDA Agricultural Research Service, GRIN Global",
+      "PROTA (Plant Resources of Tropical Africa) database",
+      "Journal of Ethnopharmacology"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業システムにおける具体的な性能（窒素固定量、アレロパシー効果）の定量的データ",
+      "気候変動に対する生理学的応答の詳細なメカニズム",
+      "伝統的調理法による毒性成分の化学的変化と最終的な安全性評価"
+    ],
+    "regional_data_coverage": "アフリカとアジアに関する民族植物学的データは豊富。中南米はやや少ない。",
+    "missing_information": [
+      "商業生産に関する統計データ",
+      "品種・系統レベルでの遺伝情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

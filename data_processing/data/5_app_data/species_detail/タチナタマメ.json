@@ -1,0 +1,638 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース（Kew, USDA-GRIN）及び農業研究機関の情報を統合。野生の祖先種に関する具体的な同定は限定的。"
+    },
+    "primary_name": "Jack Bean",
+    "scientific_name": "Canavalia ensiformis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "果実",
+      "種子"
+    ],
+    "origin_region": "中央アメリカ、西インド諸島",
+    "wild_relatives": [
+      "Canavalia plagiosperma",
+      "Canavalia brasiliensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物名データベース、民族植物学の文献から収集。先住民コミュニティの名称は記録が限られる。"
+    },
+    "international": {
+      "en": [
+        "Jack bean",
+        "Sword bean",
+        "Horse bean"
+      ],
+      "scientific_common": "Jack bean"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "タチナタマメ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "刀豆",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Kacang parang",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Habas",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "बड़ा सेम",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "வாள் அவரை",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "ラテンアメリカ",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Feijão-de-porco",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Haba de burro",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Mbogomba",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "中央アメリカの先住民コミュニティ",
+        "name": "不明",
+        "cultural_significance": "先コロンブス期から栽培されていたが、具体的な伝統名は記録が乏しい。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Pea family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Canavalia",
+      "la": "Canavalia"
+    },
+    "species": {
+      "en": "Jack bean",
+      "la": "ensiformis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な食料作物ではないため、文化的な記録は散在している。薬用や儀式利用に関する情報は民族植物学の文献に依存。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ラテンアメリカ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "飼料",
+          "緑肥"
+        ],
+        "traditional_uses": "伝統的に乾燥豆を煮込み料理に利用するが、毒抜き処理が必要。主に家畜飼料や土壌改良用のカバークロップとして重要。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "文化的象徴"
+        ],
+        "traditional_uses": "日本では福神漬けの原料の一つ。漢方では種子を薬用（膿の排出、咳止め）に用いる。大きな鞘は縁起物とされることがある。",
+        "seasonal_significance": "夏から秋にかけて収穫される作物。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "アフリカ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "経済作物",
+          "飼料",
+          "食料"
+        ],
+        "traditional_uses": "干ばつに強い特性から、食料安全保障のための補助的作物として栽培。家畜飼料や緑肥としての利用が主だが、食糧難の際には加工して食用にされる。",
+        "seasonal_significance": "雨季に播種し、乾季に収穫する重要な作物。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "福神漬け"
+        ],
+        "preparation_methods": [
+          "塩漬け",
+          "醤油漬け"
+        ],
+        "cultural_context": "カレーライスの付け合わせとして知られる福神漬けの材料の一つとして、食感を提供する役割。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前3000年頃には中央アメリカで栽培されていた証拠がある。",
+      "trade_routes": "大航海時代以降、スペインやポルトガルを通じて旧世界（アフリカ、アジア）に伝播した。",
+      "cultural_exchange": "伝播先の各地で、主要作物ではなく、緑肥、飼料、または飢饉時の食料として地域農業システムに組み込まれた。",
+      "domestication_history": "中央アメリカで野生種から栽培化されたと考えられているが、詳細な過程は不明な点が多い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好むが、幅広い条件に適応する。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "栽培に最適。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない期間が長い地域で一年草として栽培可能。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さが厳しく、生育期間が短すぎるため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "高い耐乾性を持ち、年間降水量500mm程度の地域でも栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温に弱いため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯・亜熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "乾季",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "乾燥種子: 500-2,500 kg/ha, 緑肥バイオマス: 20,000-50,000 kg/ha",
+      "factors_affecting_yield": [
+        "降水量",
+        "土壌の肥沃度",
+        "日照時間",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ブラジル",
+          "production_share": "不明",
+          "characteristics": "主にカバークロップおよび飼料として大規模に生産。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "小規模農家が間作や補助作物として栽培。"
+        },
+        {
+          "country": "ナイジェリア",
+          "production_share": "不明",
+          "characteristics": "土壌改良と食料安全保障を目的として栽培が奨励されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、毒性成分に関する注意が重要。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "347",
+        "protein_g": "25.0",
+        "carbs_g": "58.0",
+        "fat_g": "2.9",
+        "fiber_g": "8.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "1390mg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "リン",
+          "amount": "400mg",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "コンカナバリンA (Concanavalin A)",
+        "concentration": "種子乾燥重量の2-3%",
+        "health_effect": "強力なレクチン。未加工では有毒。免疫系への作用が研究されている。"
+      },
+      {
+        "compound": "カナバニン (Canavanine)",
+        "concentration": "不明",
+        "health_effect": "非タンパク質性アミノ酸。殺虫作用があるが、人間には毒性を示す可能性がある。"
+      },
+      {
+        "compound": "ウレアーゼ",
+        "concentration": "高濃度",
+        "health_effect": "酵素。工業的利用価値がある。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "膿瘍の治療",
+          "しゃっくり止め",
+          "腰痛緩和"
+        ],
+        "preparation": "乾燥させた種子を煎じる、または粉末にして使用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "土壌窒素固定",
+        "緑肥としての土壌改良効果"
+      ],
+      "ongoing_research": [
+        "コンカナバリンAの抗がん作用・免疫調節作用",
+        "カナバニンの天然殺虫剤としての利用"
+      ],
+      "safety_considerations": "生の種子は有毒。コンカナバリンAやその他の反栄養因子を含むため、長時間の煮沸、浸水、発酵などの適切な毒抜き処理が絶対に必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食用利用は毒性処理の必要性から限定的であり、調理法に関する記録は地域的に散在している。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アジア",
+        "methods": [
+          "煮込み",
+          "漬物",
+          "焙煎（茶）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "砂糖",
+          "他の野菜"
+        ]
+      },
+      {
+        "region": "ラテンアメリカ",
+        "methods": [
+          "長時間の煮込み（スープ、シチュー）"
+        ],
+        "flavor_role": "主食の補助",
+        "typical_combinations": [
+          "他の豆類",
+          "トウモロコシ",
+          "肉類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "硬化するため、調理前に長時間の浸水が必要。"
+      },
+      {
+        "method": "塩蔵・醤油漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "発酵と調味により食感と風味が変化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "適切に処理された豆は、淡白でやや粉っぽい豆の風味。青臭さは少ない。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "ホクホクとした食感。若莢はインゲンに似る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な評価は多いが、気候変動モデルに基づいた定量的な予測データは少ない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上でも生育可能だが、収量は低下する。",
+      "cold_tolerance": "5°C以下で生育停止。霜には非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "深い主根系により土壌深層の水分を利用できるため、効率は高い。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が頑丈なため、ある程度の耐風性がある。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成が促進され、バイオマスが増加する可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "カナバニンなどの成分により、多くの害虫に対して自然な抵抗性を持つ。温暖化で増加する害虫にも比較的強い可能性がある。",
+      "disease_resistance_stability": "特定の病気に弱いが、全体的には頑健。",
+      "beneficial_organism_relationships": "根粒菌との共生関係が強く、痩せた土地でも窒素を確保できる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯の低地",
+        "2050_projection": "現在の栽培地域が北上・高地化し、温帯の一部が新たな栽培適地になる可能性がある。",
+        "2100_projection": "不明",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Canavalia属内の交雑に関する研究は限定的。自然交雑の実例に関する報告は非常に少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多くの在来種間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "C. gladiata（ナタマメ）など近縁種との人工交配は可能だが、自然交雑は稀。"
+      ],
+      "intergeneric_possibility": [
+        "非常に低いか、不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "報告例はほとんどない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地の中央アメリカや、二次的な多様性中心地であるアフリカやアジアに多くの在来種が存在する。",
+      "wild_gene_pool": "属内に多数の野生種が存在し、耐病性やストレス耐性などの有用遺伝子の供給源となる可能性がある。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "自家受粉性が高いため、在来種集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、さらなる耐乾性や耐塩性の向上が期待される。",
+      "improved_nutritional_content": "毒性成分（コンカナバリンA）の少ない系統を選抜・交配できる可能性がある。",
+      "novel_characteristics": [
+        "不明"
+      ],
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": [
+        "種間の交雑不和合性が存在する可能性がある。"
+      ],
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "緑肥・カバークロップとしての利用研究が豊富で、その効果は広く認識されている。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く強力な主根が硬盤層を破砕し、土壌の通気性と排水性を改善する。",
+      "organic_matter_contribution": "地上部のバイオマス生産量が非常に多く、すき込むことで土壌有機物を大幅に増加させる。",
+      "soil_structure_improvement": "根系が土壌粒子を団粒化し、安定した土壌構造を形成する。",
+      "erosion_control": "旺盛な生育で地表を素早く覆い、風雨による土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "根粒菌との共生により年間1ヘクタールあたり200kg以上の窒素を固定する。深い根が下層土から養分を吸い上げ、表層に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きな花はハチなどの大型の花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌をはじめとする多様な土壌微生物との共生関係を促進する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加が土壌の保水能力を高める。",
+      "runoff_reduction": "地表被覆により雨水の流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い",
+      "below_ground_carbon": "深い根系により、土壌深層への炭素貯留能力が高い。",
+      "soil_carbon_enhancement": "高い有機物還元能力により、土壌炭素を効果的に増やす。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシとの間作は、トウモロコシに窒素を供給し、物理的な支柱にもなる。"
+      ],
+      "natural_pest_control": "線虫抑制効果が報告されている。",
+      "nutrient_sharing": "窒素固定による後作や混作作物への養分供給。",
+      "allelopathic_interactions": "雑草の生育を抑制するアレロパシー効果が示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "土壌肥沃度の維持・向上を通じて、農業生態系全体の安定性に寄与する。",
+      "stress_tolerance": "高い耐乾性と貧栄養土壌への適応性が、システムのストレス耐性を高める。",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食料としての商業的可能性は毒性処理技術に依存するが、農業資材やバイオテクノロジー原料としての価値は高い。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク質源としてのポテンシャルを持つが、毒抜き技術の確立が課題。",
+      "food_security_contribution": "気候変動の影響を受けやすい乾燥地域や痩せた土地での食料安全保障に貢献する可能性がある。",
+      "local_food_system_integration": "カバークロップとして地域の土壌を再生し、他の食料生産を支える基盤となりうる。",
+      "alternative_protein_potential": "毒性成分を除去したプロテインアイソレートなどの開発が期待される。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "リジェネラティブ農業向けの緑肥・カバークロップ種子市場",
+        "健康茶、機能性食品素材"
+      ],
+      "value_added_products": [
+        "コンカナバリンAなどの生物化学薬品",
+        "デトックス処理済み食用粉末"
+      ],
+      "niche_market_value": "漢方薬市場や漬物原料として安定した需要がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "種としての絶滅リスクは低いが、地域固有の在来種の遺伝的多様性の消失リスクに関する評価は不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の生息地は開発による脅威に晒されている可能性がある。",
+    "climate_change_vulnerability": "種全体としては低いが、特定の地域適応型在来種は脆弱な可能性がある。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "各地域の在来種の収集・評価・保存",
+      "毒抜き処理など伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "中央アメリカ（遺伝的多様性の中心地）",
+      "アフリカのサヘル地帯（耐乾性系統の宝庫）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数のアクセスが保存されている。",
+    "in_situ_conservation_efforts": "小規模農家による伝統的な栽培が、実質的な域内保全となっている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた多角的な情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 6,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "中央アメリカ",
+      "西アフリカ",
+      "インド"
+    ],
+    "knowledge_gaps": [
+      "食用化のための安全な毒抜き処理技術の標準化",
+      "気候変動シナリオ下での品種別生産性予測",
+      "在来種の遺伝的多様性と機能性の網羅的評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "国際的に認知された商業品種は少なく、主に未分化の在来種（ランドレース）として扱われることが多い。"
+      },
+      "variety_name": "在来種（Landrace）",
+      "local_name": "各地の現地名に準ずる",
+      "origin_region": "全世界の栽培地域",
+      "distinctive_characteristics": "各地域の気候や土壌、利用目的に適応して分化しているが、形態的な差異は小さいことが多い。",
+      "cultural_importance": "地域の農業システムと食文化に深く根付いている。",
+      "climate_adaptation": "それぞれの地域の環境ストレスに対する高い適応性を持つ。",
+      "conservation_status": "地域によっては消失のリスクがある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAO EcoCrop",
+      "Purdue University NewCROP",
+      "PROSEA (Plant Resources of South-East Asia)",
+      "World Agroforestry Centre database"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "食用利用のための安全な加工法の科学的検証と普及"
+    ],
+    "regional_data_coverage": "ラテンアメリカとアジアの情報は比較的多いが、アフリカの情報は限定的。",
+    "missing_information": [
+      "品種ごとの詳細な栄養価データ",
+      "自然交雑の実例"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

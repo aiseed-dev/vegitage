@@ -1,0 +1,739 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information compiled from major botanical databases (Kew, GRIN), agricultural encyclopedias, and historical texts. Wild relative information is well-documented but relationships are complex."
+    },
+    "primary_name": "Asparagus",
+    "scientific_name": "Asparagus officinalis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎"
+    ],
+    "origin_region": "ヨーロッパ、北アフリカ、西アジア",
+    "wild_relatives": [
+      "Asparagus prostratus",
+      "Asparagus acutifolius",
+      "Asparagus maritimus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names gathered from multilingual dictionaries, ethnobotanical databases, and regional culinary literature."
+    },
+    "international": {
+      "en": [
+        "Asparagus",
+        "Garden asparagus",
+        "Sparrow grass (archaic)"
+      ],
+      "scientific_common": "Garden Asparagus"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Spargel",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Asperge",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Asparago",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Espárrago",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "芦笋",
+            "script": "Hans"
+          },
+          {
+            "lang": "ja",
+            "name": "アスパラガス",
+            "script": "Jpan"
+          },
+          {
+            "lang": "ko",
+            "name": "아스파라거스",
+            "script": "Kore"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "शतावरी",
+            "script": "Deva",
+            "note": "Often refers to the related medicinal species Asparagus racemosus, but used for A. officinalis as well."
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明",
+        "name": "不明",
+        "cultural_significance": "Asparagus officinalis was domesticated early in the Old World; specific indigenous names from pre-domestication contexts are not well-documented. Its wild relatives in the Mediterranean have numerous local folk names."
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on APG IV system and World Checklist of Selected Plant Families (WCSP)."
+    },
+    "family": {
+      "en": "Asparagus family",
+      "la": "Asparagaceae"
+    },
+    "genus": {
+      "en": "Asparagus",
+      "la": "Asparagus"
+    },
+    "species": {
+      "en": "Garden Asparagus",
+      "la": "officinalis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information synthesized from historical records, culinary anthropology, and agricultural history."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "Prized as a delicacy since Roman times. White asparagus holds particular cultural significance in Germany ('Spargelzeit'), France, and Spain, often celebrated with seasonal festivals. Considered a luxury vegetable.",
+        "seasonal_significance": "Spring harvest is a major culinary event.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "Widely consumed as a fresh market vegetable. Major commercial production in specific regions (e.g., California, Michigan, Washington). Less deep-rooted historical tradition than in Europe, but firmly integrated into modern cuisine.",
+        "seasonal_significance": "Associated with spring, but available year-round due to imports.",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "A relatively modern introduction, but has become very popular. China is now the world's largest producer. Commonly used in stir-fries and other modern dishes.",
+        "seasonal_significance": "Less pronounced seasonal association than in Europe.",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "German",
+        "role": "essential",
+        "traditional_dishes": [
+          "Spargel mit Schinken und Kartoffeln",
+          "Spargelsuppe"
+        ],
+        "preparation_methods": [
+          "Boiling",
+          "Steaming"
+        ],
+        "cultural_context": "The 'Spargelzeit' (asparagus season) from April to June is a national culinary obsession, particularly for white asparagus."
+      },
+      {
+        "cuisine": "French",
+        "role": "essential",
+        "traditional_dishes": [
+          "Asperges vinaigrette",
+          "Asperges avec sauce hollandaise",
+          "Velouté d'asperges"
+        ],
+        "preparation_methods": [
+          "Steaming",
+          "Boiling",
+          "Roasting"
+        ],
+        "cultural_context": "Considered a key ingredient in classic French haute cuisine, valued for its delicate flavor."
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "Cultivated by the ancient Egyptians, Greeks, and Romans. It is depicted on an Egyptian frieze dating to 3000 BC. The Romans were known to freeze it high in the Alps for later use.",
+      "trade_routes": "Spread throughout Europe by the Roman Empire. Its cultivation declined after the fall of Rome but was revived in the 17th century.",
+      "cultural_exchange": "The preference for white (blanched) versus green asparagus is a significant cultural divider, even within Europe.",
+      "domestication_history": "Domesticated from wild relatives in the eastern Mediterranean and Asia Minor over 2000 years ago."
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "Generally unsuitable as it requires a period of winter dormancy for bud formation."
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "Possible with specific cultivars and management that simulates dormancy (e.g., water stress), but yields may be lower."
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "Ideal. Requires a cold period (winter) for the crown to go dormant and store energy for a vigorous spring harvest. Well-drained sandy or loamy soils are best."
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "Well-suited due to distinct seasons and cold winters."
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "Tolerant of dry conditions once established due to its deep root system, but requires irrigation for commercial yields."
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "Growing season is typically too short."
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春",
+        "harvest_season": "春 (est. 4月-6月)",
+        "growing_period_days": 1095
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 20,000 kg/ha",
+      "factors_affecting_yield": [
+        "Cultivar",
+        "Planting density",
+        "Age of planting (peaks around years 5-10)",
+        "Soil health",
+        "Weed and pest pressure",
+        "Harvest duration"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約9,000,000トン (FAOSTAT, 2022 est.)",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 85,
+          "characteristics": "Dominant global producer, primarily for domestic consumption and processing."
+        },
+        {
+          "country": "ペルー",
+          "production_share": 4,
+          "characteristics": "Major exporter to North America, produces year-round in coastal desert regions."
+        },
+        {
+          "country": "メキシコ",
+          "production_share": 3,
+          "characteristics": "Key exporter to the US market, production concentrated in northern states."
+        },
+        {
+          "country": "ドイツ",
+          "production_share": 1,
+          "characteristics": "Largest European producer, known for high domestic consumption of white asparagus."
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Standard nutritional data is widely available (e.g., USDA). Data on bioactive compound variation between cultivars is less common. Traditional medicinal uses are documented but often conflated with related species."
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "20",
+        "protein_g": "2.2",
+        "carbs_g": "3.9",
+        "fat_g": "0.1",
+        "fiber_g": "2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Vitamin K",
+          "amount": "41.6 mcg",
+          "daily_value_percent": 35
+        },
+        {
+          "nutrient": "Folate (B9)",
+          "amount": "52 mcg",
+          "daily_value_percent": 13
+        },
+        {
+          "nutrient": "Vitamin A",
+          "amount": "756 IU",
+          "daily_value_percent": 15
+        },
+        {
+          "nutrient": "Iron",
+          "amount": "2.1 mg",
+          "daily_value_percent": 12
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Asparagusic acid",
+        "concentration": "可変",
+        "health_effect": "Sulphurous compound responsible for the characteristic odor in urine after consumption. May have nematicidal properties."
+      },
+      {
+        "compound": "Rutin and other flavonoids",
+        "concentration": "可変",
+        "health_effect": "Antioxidant, anti-inflammatory properties."
+      },
+      {
+        "compound": "Glutathione",
+        "concentration": "高",
+        "health_effect": "Potent antioxidant involved in detoxification."
+      },
+      {
+        "compound": "Saponins (e.g., Protodioscin)",
+        "concentration": "可変",
+        "health_effect": "May have anticancer properties; under investigation."
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "Traditional European Medicine (e.g., Galenic)",
+        "uses": [
+          "Diuretic (to increase urine flow)",
+          "Kidney and bladder ailments"
+        ],
+        "preparation": "Decoction of the root or consumption of the fresh shoots."
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "Rich source of antioxidants",
+        "Diuretic effect"
+      ],
+      "ongoing_research": [
+        "Anti-inflammatory effects",
+        "Anticancer properties of saponins",
+        "Blood pressure regulation"
+      ],
+      "safety_considerations": "Generally very safe. The red berries are mildly toxic if ingested. Can cause allergic reactions in some individuals."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is widely available in global cookbooks, culinary guides, and food science literature."
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "Boiling",
+          "Steaming",
+          "Roasting"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Hollandaise sauce",
+          "Butter",
+          "Ham",
+          "Potatoes",
+          "Eggs"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "Roasting",
+          "Grilling",
+          "Sautéing"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "Olive oil",
+          "Lemon",
+          "Garlic",
+          "Parmesan cheese",
+          "Bacon"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "Stir-frying",
+          "Blanching"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "Beef",
+          "Shrimp",
+          "Garlic",
+          "Soy sauce",
+          "Oyster sauce"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Canning",
+        "regions": [
+          "Worldwide"
+        ],
+        "shelf_life": "2-5 years",
+        "quality_changes": "Texture becomes very soft, flavor changes significantly. Color loss, especially in green asparagus."
+      },
+      {
+        "method": "Pickling",
+        "regions": [
+          "North America",
+          "Europe"
+        ],
+        "shelf_life": "1-2 years",
+        "quality_changes": "Becomes acidic and firm. Used as a condiment."
+      },
+      {
+        "method": "Freezing",
+        "regions": [
+          "Worldwide"
+        ],
+        "shelf_life": "8-12 months",
+        "quality_changes": "Best method for preserving color and flavor, but texture becomes softer upon thawing."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Grassy, earthy, subtly sweet, with a slightly bitter finish, especially in white varieties.",
+      "aroma_compounds": [
+        "Methanethiol",
+        "Dimethyl sulfide",
+        "Asparagusic acid derivatives"
+      ],
+      "texture_characteristics": "Crisp and tender when cooked correctly; can be stringy if old or overcooked."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Quantitative data is limited. Assessment is based on known physiological traits (perennial nature, deep roots) and expert-based projections. Variety-specific data is largely absent."
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "16-25°C (during growing season)",
+      "extreme_heat_survival": "The fern can tolerate temperatures over 35°C, but spear quality declines rapidly.",
+      "cold_tolerance": "The crown is very hardy and can survive temperatures below -30°C when dormant and protected by soil/snow."
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "Medium. Deep, fleshy roots act as a reservoir, making it resilient to short-term drought once established.",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-750mm per year, but requires well-drained soil."
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "Moderate. Ferns can be damaged by high winds, affecting the following year's crop.",
+      "hail_damage_recovery": "Moderate. Can recover if damage is not severe, but yield will be reduced.",
+      "rapid_temperature_change": "Tolerant during dormancy, but late spring frosts can kill emerging spears."
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明. Expected to be positive, like most C3 plants, but specific studies are scarce.",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Vulnerable. Warmer winters may increase survival rates of pests like the asparagus beetle. Increased moisture can favor diseases like Fusarium root rot.",
+      "disease_resistance_stability": "Moderate. Breeding for resistance to rust and Fusarium is a major focus.",
+      "beneficial_organism_relationships": "Ferns provide habitat for beneficial predators like ladybugs."
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Temperate latitudes (e.g., 30-55 degrees)",
+        "2050_projection": "Potential poleward shift. Southern parts of current range may become less suitable due to lack of winter chill.",
+        "2100_projection": "Further poleward shift. Increased drought stress in Mediterranean-type climates.",
+        "confidence_level": "Low"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Information on hybridization with wild relatives exists from breeding programs, but data on spontaneous natural hybridization events is limited."
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "All cultivars of A. officinalis are fully cross-compatible."
+      ],
+      "interspecific_compatibility": [
+        "Can hybridize with several wild relatives, including A. prostratus and A. maritimus, which have been used in breeding programs."
+      ],
+      "intergeneric_possibility": [
+        "None known."
+      ],
+      "successful_natural_hybrids": [
+        "Documented in European coastal areas where wild and cultivated populations overlap."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "Moderate but decreasing. European landraces (e.g., 'Violetto d'Albenga', 'Argenteuil') are important genetic resources.",
+      "wild_gene_pool": "Wild relatives in the Mediterranean and coastal Europe represent a crucial reservoir of genes for salt, drought, and disease tolerance.",
+      "adaptive_genetic_variation": "High in wild populations, but relatively low in elite commercial cultivars.",
+      "inbreeding_depression_risk": "Low due to its dioecious and outcrossing nature."
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "European Coasts",
+        "environmental_pressure": "Salinity, sandy soil, wind",
+        "adaptive_response": "Prostrate growth habit, higher salt tolerance",
+        "time_scale": "不明",
+        "mechanism": "Natural selection in wild populations of A. prostratus and A. maritimus."
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "High potential to improve salt and drought tolerance by crossing with wild relatives.",
+      "improved_nutritional_content": "Possible, but not a primary focus of current research.",
+      "novel_characteristics": "Potential for new spear colors, flavors, and growth habits.",
+      "hybrid_vigor_potential": "High. All-male F1 hybrids are widely used commercially for their increased vigor and yield."
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Low with closely related species, but embryo rescue techniques may be needed for wider crosses.",
+      "chromosome_compatibility": "A. officinalis is diploid (2n=20), compatible with other diploid species.",
+      "fertility_of_hybrids": "Generally fertile with close relatives.",
+      "backcrossing_success": "High. Used to introgress desired traits from wild species into elite cultivars."
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "Soil salinity",
+        "adaptive_traits": "Ion exclusion mechanisms, osmotic adjustment",
+        "heritability": "中",
+        "response_to_selection": "Evident in distinct ecotypes of wild relatives."
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Direct research on asparagus in regenerative systems is limited. Assessment is inferred from its biological characteristics as a deep-rooted perennial."
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Extensive, deep (up to 3m), and fleshy perennial root system and crown.",
+      "organic_matter_contribution": "High. The large root system and annual decomposition of ferns contribute significantly to soil organic matter over the plant's 15-20 year lifespan.",
+      "soil_structure_improvement": "Excellent. Deep roots create macropores, improving aeration and water infiltration.",
+      "erosion_control": "Excellent. As a permanent crop, it provides year-round soil cover (once established) and anchors soil effectively.",
+      "nutrient_cycling_role": "Deep roots can access nutrients from lower soil profiles and bring them into the biocycle."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "Small flowers provide a nectar source for bees and other small insects.",
+      "beneficial_insect_habitat": "The dense fern-like foliage provides an excellent habitat ('insectary') for predatory insects like ladybugs, lacewings, and parasitic wasps.",
+      "soil_microorganism_interaction": "Perennial root systems foster stable and diverse soil microbial communities, including mycorrhizal fungi.",
+      "above_ground_biodiversity": "Provides shelter for ground-nesting birds and small mammals in no-till systems."
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "High due to deep rooting channels.",
+      "moisture_retention": "Improves soil organic matter, which increases water holding capacity.",
+      "runoff_reduction": "Effective once established due to permanent soil cover.",
+      "groundwater_recharge": "Potentially positive by improving infiltration rates."
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "Moderate annual biomass from ferns.",
+      "below_ground_carbon": "High potential due to the large, long-lived crown and root system which stores significant carbon.",
+      "soil_carbon_enhancement": "High potential in no-till perennial systems.",
+      "carbon_sequestration_rate": "不明 (quantitative data needed)."
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Tomatoes (may repel asparagus beetle)",
+        "Marigolds",
+        "Parsley"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "Asparagus is known to produce allelopathic compounds that can suppress certain weeds."
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "High. As a perennial, it reduces the need for annual soil disturbance, leading to more stable ecosystems.",
+      "stress_tolerance": "High tolerance to drought and cold once established.",
+      "recovery_capacity": "Good recovery from fern damage if the crown remains healthy.",
+      "adaptability": "Moderate. Long lifespan means slow adaptation to rapid changes."
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Based on current market trends, nutritional science, and food system analysis."
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "Valued as a nutrient-dense, low-calorie vegetable.",
+      "food_security_contribution": "Contributes as a high-value cash crop for farmers, supporting rural economies. Its perennial nature fits well into diversified farming systems.",
+      "local_food_system_integration": "Excellent fit for local food systems (e.g., CSAs, farmers' markets) due to its defined seasonality and high value as a fresh product.",
+      "alternative_protein_potential": "Low."
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Pre-cut and value-added fresh products",
+        "Gourmet pickled and preserved products",
+        "Nutraceutical extracts from byproducts"
+      ],
+      "value_added_products": [
+        "Canned asparagus",
+        "Pickled asparagus spears",
+        "Frozen asparagus",
+        "Asparagus powder"
+      ],
+      "niche_market_value": "High for heirloom varieties (e.g., purple asparagus) and organic production."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Based on IUCN data for wild relatives and reports from genetic resource centers."
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "High for wild relatives, particularly coastal species like A. maritimus due to coastal development and sea-level rise.",
+    "climate_change_vulnerability": "High for wild relatives in threatened ecosystems. Moderate for cultivated varieties, which may face challenges from warmer winters.",
+    "cultural_erosion_risk": "Medium. Traditional European landraces are being replaced by modern hybrids, risking the loss of associated culinary traditions.",
+    "conservation_actions_needed": [
+      "In situ conservation of wild populations",
+      "Ex situ conservation of landraces in seed banks",
+      "Support for farmers growing heirloom varieties"
+    ],
+    "priority_conservation_regions": [
+      "Mediterranean Basin",
+      "European Atlantic coasts"
+    ],
+    "ex_situ_conservation_status": "Major collections exist in gene banks in Germany (IPK Gatersleben) and the USA (USDA).",
+    "in_situ_conservation_efforts": "Protected areas that contain wild populations, but targeted conservation programs are limited."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Expert evaluation based on the synthesis of all collected data."
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "Mediterranean Basin (for wild relatives)",
+      "Germany (for cultural practices and landraces)",
+      "Peru (for adaptation to arid, low-latitude conditions)"
+    ],
+    "knowledge_gaps": [
+      "Quantitative data on carbon sequestration potential",
+      "Performance in diverse regenerative agriculture systems",
+      "Climate stress thresholds for different cultivars and wild relatives"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "Information from cultivar databases and horticultural literature."
+      },
+      "variety_name": "Mary Washington",
+      "local_name": "Mary Washington",
+      "origin_region": "United States",
+      "distinctive_characteristics": "Open-pollinated, rust-resistant, produces uniform, dark green spears. A 20th-century standard.",
+      "cultural_importance": "Historically significant in establishing the American asparagus industry.",
+      "climate_adaptation": "Well-adapted to North American temperate climates.",
+      "conservation_status": "Widely available, but being replaced by hybrids."
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "Information from cultivar databases and horticultural literature."
+      },
+      "variety_name": "Violetto d'Albenga",
+      "local_name": "Violetto d'Albenga",
+      "origin_region": "Italy (Liguria)",
+      "distinctive_characteristics": "Produces large, deep purple spears that are tender and less fibrous. Turns green when cooked. High sugar content.",
+      "cultural_importance": "A prized Italian heirloom, part of the Slow Food Ark of Taste.",
+      "climate_adaptation": "Adapted to Mediterranean climates.",
+      "conservation_status": "Rare, preserved by local growers and seed savers."
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "Information from cultivar databases and horticultural literature."
+      },
+      "variety_name": "UC 157",
+      "local_name": "UC 157",
+      "origin_region": "United States (California)",
+      "distinctive_characteristics": "An F1 hybrid known for high yields, earliness, and adaptation to warmer climates. Spears are uniform and smooth.",
+      "cultural_importance": "A global standard for commercial production in warm temperate and subtropical regions.",
+      "climate_adaptation": "Bred for heat tolerance and reduced chilling requirement.",
+      "conservation_status": "Commercially dominant; not at risk."
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "Kew Gardens 'Plants of the World Online'",
+      "USDA National Nutrient Database",
+      "Horticultural Science journals",
+      "Ethnobotanical literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種の遺伝的多様性の詳細なマッピング"
+    ],
+    "regional_data_coverage": "High for Europe and North America; Medium for Asia and South America; Low for Africa.",
+    "missing_information": [
+      "Quantitative data on carbon sequestration",
+      "Specific allelopathic compounds and their effects",
+      "Indigenous knowledge related to wild asparagus relatives outside Europe."
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

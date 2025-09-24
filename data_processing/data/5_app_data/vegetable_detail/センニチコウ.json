@@ -1,0 +1,657 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、民族植物学の研究、園芸学の文献から情報を統合。食用としてのデータは限定的だが、植物学的特性は十分に文書化されている。"
+    },
+    "primary_name": "Globe Amaranth",
+    "scientific_name": "Gomphrena globosa",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "花",
+      "葉"
+    ],
+    "origin_region": "中央アメリカ（パナマ、グアテマラ周辺）",
+    "wild_relatives": [
+      "Gomphrena haageana",
+      "Gomphrena perennis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の植物名データベースと地域文献から収集。多くの名称は食用ではなく、花の形状や永続性（ドライフラワーになる）に由来する。"
+    },
+    "international": {
+      "en": [
+        "Globe Amaranth",
+        "Bachelor's Button",
+        "Makhmali"
+      ],
+      "scientific_common": "Gomphrena"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "センニチコウ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "千日红",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "บานไม่รู้โรย",
+            "script": "Thai"
+          },
+          {
+            "lang": "tl",
+            "name": "Boto-botones",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Cúc bách nhật",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "Gul-e-makhmal",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "வாடாமல்லி",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Perpétua",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Amaranto redondo",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ハワイ先住民",
+        "name": "lehua pepa",
+        "cultural_significance": "「紙のレフア」を意味し、レイ（花輪）に使用される。乾燥しても色褪せないことから永続性の象徴。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Amaranth family",
+      "la": "Amaranthaceae"
+    },
+    "genus": {
+      "en": "Globe amaranth",
+      "la": "Gomphrena"
+    },
+    "species": {
+      "en": "Globe amaranth",
+      "la": "Gomphrena globosa"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "装飾用・儀式用としての文化価値は高いが、食用としての文化価値は極めて限定的。情報は民族植物学の記録に依存。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア・南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "儀式用",
+          "薬用",
+          "装飾用"
+        ],
+        "traditional_uses": "寺院への供物、花輪（ガーランド）、伝統医学での咳止めや強壮剤として利用される。特に花の持つ永続性が宗教的象徴として重視される。",
+        "seasonal_significance": "雨季明けから乾季にかけての祭事や儀式で多用される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中南米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用",
+          "装飾用"
+        ],
+        "traditional_uses": "原産地では、伝統医療で花を煎じたお茶が呼吸器系疾患や高血圧の治療に用いられてきた。庭先の装飾としても一般的。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "オセアニア（特にハワイ）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "儀式用",
+          "装飾用"
+        ],
+        "traditional_uses": "ハワイでは「レイ」の材料として非常に重要。乾燥しても色と形を保つため、長持ちするレイとして重宝される。",
+        "seasonal_significance": "通年利用可能",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "アジアのハーバルティー文化",
+        "role": "rare",
+        "traditional_dishes": [
+          "センニチコウ茶（花茶）"
+        ],
+        "preparation_methods": [
+          "乾燥させた花を熱湯で淹れる"
+        ],
+        "cultural_context": "主に健康や美容目的で飲用される。伝統中国医学や地域の民間療法に根ざしており、一般的な飲料ではない。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "不明。ただし、原産地の中南米では古くから薬用として利用されていた可能性が高い。",
+      "trade_routes": "16世紀以降、大航海時代にスペイン・ポルトガルによって旧世界へ伝播。その後、観賞用植物として世界中に広まった。",
+      "cultural_exchange": "ハワイにおけるレイ文化への導入など、各地域で既存の文化に取り込まれ、新たな意味を与えられてきた。",
+      "domestication_history": "観賞用に品種改良が進んだ歴史が主であり、食用のための栽培化の歴史はほとんどない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "日照時間が長く、高温多湿な環境。年間を通じて栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "日照時間が長く、高温な環境。霜の降りない季節に栽培。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の高温期に一年草として栽培。日当たりと水はけの良い場所を好む。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さが厳しく、生育期間が短すぎるため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥には強いが、極度の乾燥と高温下では灌漑が必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "播種後約60-90日から継続的に収穫",
+        "growing_period_days": 90
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（終霜後）",
+        "harvest_season": "夏から秋（初霜まで）",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（食用としての商業生産データなし）",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌の水はけ",
+        "施肥"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド、タイ、中国",
+          "production_share": "不明",
+          "characteristics": "主に観賞用、ドライフラワー、薬用茶の原料として生産されている。統計データは存在しない。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用としての栄養分析データはほぼ存在しない。研究は花の機能性成分（特にベタシアニン）に集中している。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ベタシアニン類（ゴンフレニン I, II, III）",
+        "concentration": "高（特に色の濃い花）",
+        "health_effect": "強力な抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "フラボノイド（ケンペロール、ケルセチン）",
+        "concentration": "中",
+        "health_effect": "抗酸化作用、抗がん作用の可能性"
+      },
+      {
+        "compound": "フェノール酸",
+        "concentration": "中",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "咳止め",
+          "喘息の緩和",
+          "気管支炎の治療"
+        ],
+        "preparation": "乾燥した花を煎じてお茶として飲む。"
+      },
+      {
+        "region": "中南米",
+        "medical_system": "民間療法",
+        "uses": [
+          "高血圧の緩和",
+          "利尿作用",
+          "抗炎症"
+        ],
+        "preparation": "花や植物全体を煎じて飲む。"
+      },
+      {
+        "region": "カリブ海地域",
+        "medical_system": "民間療法",
+        "uses": [
+          "風邪の症状緩和",
+          "解熱",
+          "消化促進"
+        ],
+        "preparation": "花をお茶として飲む。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高い抗酸化活性（in vitro）",
+        "抗炎症作用（動物実験）",
+        "抗菌作用（in vitro）"
+      ],
+      "ongoing_research": [
+        "抗高血圧効果のメカニズム解明",
+        "天然着色料としての利用",
+        "抗がん作用の可能性"
+      ],
+      "safety_considerations": "伝統的に安全とされているが、医薬品レベルでの長期・大量摂取に関する安全性データは不足している。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用利用は非常に稀であり、体系化された料理法はほとんど存在しない。ハーバルティーとしての利用が主。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界（ニッチ）",
+        "methods": [
+          "淹れる（お茶）",
+          "飾り付け"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "緑茶",
+          "ジャスミン",
+          "レモングラス",
+          "ミント"
+        ]
+      },
+      {
+        "region": "東南アジア（一部地域）",
+        "methods": [
+          "茹でる",
+          "炒める"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "ニンニク",
+          "唐辛子",
+          "ココナッツミルク"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "色はほぼ維持されるが、香りは徐々に失われる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "花茶：非常にマイルド、わずかな甘みと草の香り。葉：アマランサスの葉に似ており、わずかに土の香りとぬめりがある。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "花茶：滑らか。茹でた葉：柔らかく、ややぬめりがある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは少ない。C4植物としての特性から高い適応性が推定される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "24-30°C",
+      "extreme_heat_survival": "40°C以上でも生存可能",
+      "cold_tolerance": "低（霜で枯死）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高（C4植物の特性）",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "600-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（茎が折れることがあるが、回復力は高い）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "高（暑さに対して）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度に陽性（C4植物はC3植物ほどCO2施肥効果は大きくないが、高温・乾燥条件下での競争力が増す）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（強い日差しを好む）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "比較的病害虫に強く、広範な抵抗性を持つため、新たな脅威への適応も期待できる。",
+      "disease_resistance_stability": "高",
+      "beneficial_organism_relationships": "花粉媒介者との強い関係を持つ。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯、温帯の夏",
+        "2050_projection": "温帯での栽培可能期間の延長、亜熱帯地域の拡大に伴い適地が増加する可能性が高い。",
+        "2100_projection": "さらに高緯度地域での夏期栽培が可能になる可能性があるが、一部の熱帯地域では極端な高温や乾季の激化が課題となる可能性もある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主に園芸品種の育種に関する情報であり、自然環境下での交雑や適応に関する研究は限定的。属内での交雑親和性は確認されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の園芸品種（'Buddy'シリーズ、'Gnome'シリーズなど）が存在し、容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Gomphrena haageana との種間交雑が可能（例：'Strawberry Fields'）"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低いとされている。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な記録はないが、逸出した園芸品種間で発生している可能性はある。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地の中米には存在する可能性があるが、文書化されていない。",
+      "wild_gene_pool": "中南米に分布する野生のGomphrena属が、耐病性や環境ストレス耐性の遺伝子供給源となる可能性がある。",
+      "adaptive_genetic_variation": "世界中に逸出し帰化していることから、高い適応的遺伝変異を持つことが示唆される。",
+      "inbreeding_depression_risk": "自家受粉も可能だが、他家受粉が主であり、リスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界中の熱帯・亜熱帯地域",
+        "environmental_pressure": "多様な土壌、気候、病害虫圧",
+        "adaptive_response": "栽培環境から逸出し、雑草として定着（帰化）",
+        "time_scale": "数十年〜数百年",
+        "mechanism": "高い種子生産能力、環境耐性、遺伝的多様性"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、さらなる耐乾性や耐塩性の向上が期待できる。",
+      "improved_nutritional_content": "食用アマランサス近縁種との交雑は困難だが、Gomphrena属内で機能性成分（ベタシアニン等）の含有量を高めることは可能。",
+      "novel_characteristics": "花の色、形、草丈などの形質はすでに育種で多様化している。",
+      "hybrid_vigor_potential": "種間雑種において強健性が認められることがある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "属が異なると交雑障壁が高い。",
+      "chromosome_compatibility": "Gomphrena属内では比較的高い。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下する場合がある。",
+      "backcrossing_success": "園芸育種では一般的に行われている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、高温、強い日射",
+        "adaptive_traits": "C4光合成経路、クチクラ層の発達、高い浸透圧調節能",
+        "heritability": "高いと推定される。",
+        "response_to_selection": "速い（一年草であるため世代交代が速い）"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "直接的な研究データはほぼない。植物の一般的特性（ヒユ科、C4植物、蜜源植物）からの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深く伸びる直根性で、土壌の硬盤を穿孔する可能性がある。",
+      "organic_matter_contribution": "一年草であるためバイオマス量は限定的だが、残渣をすき込むことで有機物を供給できる。",
+      "soil_structure_improvement": "根による土壌団粒化の促進。",
+      "erosion_control": "生育初期の被覆は遅いが、旺盛に育てば地表を覆い、雨滴による侵食を軽減する。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "蝶、蜂、アブなど多様な花粉媒介者を引き寄せる優れた蜜源植物。",
+      "beneficial_insect_habitat": "天敵昆虫（ヒラタアブなど）の生息地となる。",
+      "soil_microorganism_interaction": "不明。しかし、多くの植物と同様に根圏微生物との共生関係があると考えられる。",
+      "above_ground_biodiversity": "農業景観に色彩と多様性をもたらし、生態系サービスを向上させる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の発達により土壌の浸透性を改善する可能性がある。",
+      "moisture_retention": "高い耐乾性を持ち、灌漑用水を節約できる。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い（一年草のため蓄積は一時的）",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トマト、ナス、ピーマンなどの果菜類（受粉促進）",
+        "マリーゴールド（線虫抑制）"
+      ],
+      "natural_pest_control": "天敵昆虫を誘引することで、アブラムシなどの害虫を抑制する効果が期待できる。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "強いアレロパシー効果は報告されていない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な送粉者を引きつけることで、生態系の安定性に貢献する。",
+      "stress_tolerance": "高温・乾燥ストレスに強く、気候変動下での農業システムの安定化に寄与する。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性食品や天然着色料としてのポテンシャルが注目されているが、商業化はまだ初期段階。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "機能性ハーバルティーとしての価値が高い。",
+      "food_security_contribution": "主要作物ではないが、気候変動に強い強靭な遺伝資源として価値を持つ。",
+      "local_food_system_integration": "家庭菜園や小規模農家で容易に栽培でき、地域の生物多様性向上に貢献する。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性飲料・ハーバルティー市場",
+        "天然由来の食品着色料市場",
+        "化粧品原料（抗酸化成分）",
+        "エディブルフラワー市場"
+      ],
+      "value_added_products": [
+        "ブレンドティー",
+        "エキス・パウダー",
+        "フラワーシロップ"
+      ],
+      "niche_market_value": "健康・ウェルネス志向の消費者層に高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栽培種は世界中に広まっており絶滅の危機はない。保全の焦点は原産地における野生近縁種と遺伝的多様性にある。"
+    },
+    "genetic_erosion_risk": "中（原産地の野生種および在来系統に対して）",
+    "habitat_loss_threat": "原産地の中米における森林伐採や農地開発が野生近縁種の生息地を脅かしている。",
+    "climate_change_vulnerability": "栽培種としては低いが、特定の環境に適応した野生種は脆弱な可能性がある。",
+    "cultural_erosion_risk": "高（伝統的な薬用利用に関する知識の喪失）",
+    "conservation_actions_needed": [
+      "原産地における野生近縁種の生息域内（in-situ）保全",
+      "多様な遺伝資源のジーンバンクでの域外（ex-situ）保全",
+      "伝統的知識に関する民族植物学的調査と記録"
+    ],
+    "priority_conservation_regions": [
+      "中央アメリカ（パナマ、グアテマラ、メキシコ南部）"
+    ],
+    "ex_situ_conservation_status": "主要な植物園やジーンバンクには園芸品種が保存されているが、野生種の網羅性は不明。",
+    "in_situ_conservation_efforts": "不明"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査に基づく総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中央アメリカ（原産地での遺伝的多様性と伝統利用）",
+      "東南アジア・中国（薬用・食用利用の実態調査）"
+    ],
+    "knowledge_gaps": [
+      "食用としての栄養価の詳細な分析",
+      "気候変動要因（CO2、温度）に対する生理学的応答の定量的データ",
+      "野生近縁種の遺伝的多様性の評価と保全状況"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主に園芸品種の情報。食用品種としての情報は存在しない。"
+      },
+      "variety_name": "'Buddy' Series",
+      "local_name": "バディシリーズ",
+      "origin_region": "不明（園芸育種）",
+      "distinctive_characteristics": "矮性でコンパクトな草姿。花色が豊富（紫、白、ピンク）。長期間開花する。",
+      "cultural_importance": "世界中のガーデニングで広く利用される一般的な園芸品種。",
+      "climate_adaptation": "標準的なG. globosaの特性に準じ、高温と乾燥に強い。",
+      "conservation_status": "保全対象外"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "種間交雑種の情報。"
+      },
+      "variety_name": "'Strawberry Fields'",
+      "local_name": "ストロベリーフィールズ",
+      "origin_region": "不明（G. globosa x G. haageana の交雑種）",
+      "distinctive_characteristics": "鮮やかな赤色の花。草丈が高くなる。切り花やドライフラワーとして人気。",
+      "cultural_importance": "切り花市場やガーデニングで高い人気を誇る。",
+      "climate_adaptation": "両親種の特性を受け継ぎ、高温と乾燥に非常に強い。",
+      "conservation_status": "保全対象外"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      " ethnobotanical research papers",
+      "horticultural databases",
+      "phytochemical analysis studies"
+    ],
+    "major_knowledge_gaps": [
+      "食用利用に関する定量的データ（栄養価、収量）",
+      "リジェネティブ農業への貢献に関する実証的研究",
+      "気候変動に対する品種レベルでの詳細な応答"
+    ],
+    "regional_data_coverage": "観賞用・薬用としての情報は広範だが、食用はアジアと中南米に偏在。",
+    "missing_information": [
+      "商業生産（食用・薬用）の経済規模",
+      "原産地における在来種の多様性"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

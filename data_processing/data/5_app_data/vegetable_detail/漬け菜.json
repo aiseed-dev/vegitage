@@ -1,0 +1,588 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "「漬け菜」は特定の種を指す用語ではなく、主に日本で漬物用に栽培されるアブラナ科葉菜類の総称です。指定された学名 'Brassica rapa var. hakabura' は一般的ではないため、本データは '漬け菜' の代表的な種である Brassica rapa L. に属する多様な栽培品種群（在来種）を対象としています。"
+    },
+    "primary_name": "Japanese Pickling Greens (Tsukena)",
+    "scientific_name": "Brassica rapa L. (cultivar groups)",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "Brassica rapaの原産地は地中海沿岸から中央アジアとされるが、「漬け菜」としての栽培文化は東アジア、特に日本で高度に発展した。",
+    "wild_relatives": [
+      "Brassica rapa subsp. oleifera",
+      "Brassica rapa subsp. campestris (Field Mustard)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "「漬け菜」に相当する国際的な単一の名称は存在しない。Tsukenaとして日本語名が使われることがある。各地域の類似野菜とは区別される。"
+    },
+    "international": {
+      "en": [
+        "Japanese Pickling Greens",
+        "Tsukena"
+      ],
+      "scientific_common": "Brassica rapa (Leafy vegetable cultivar groups)"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "漬け菜",
+            "script": "漢字・かな"
+          },
+          {
+            "lang": "ja",
+            "name": "ツケナ",
+            "script": "カタカナ"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類はAPG IV体系に基づいています。種以下の階級は栽培品種群（cultivar group）として扱われます。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Cabbage",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Field mustard / Turnip",
+      "la": "Brassica rapa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivar Group",
+        "name": "Nipposinica Group (e.g., Mizuna)"
+      },
+      {
+        "rank": "Cultivar Group",
+        "name": "Perviridis Group (e.g., Komatsuna)"
+      },
+      {
+        "rank": "Cultivar Group",
+        "name": "Various unnamed landraces (e.g., Nozawana, Hiroshimana)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "文化的価値はほぼ日本に限定されるが、その中での重要性は非常に高い。他地域での認知度は低い。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "日本",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "保存食",
+          "経済作物"
+        ],
+        "traditional_uses": "米飯の重要な付け合わせ（香の物）であり、冬場の貴重な野菜源。地域ごとの多様な漬物文化（塩漬け、糠漬け、醤油漬け等）を形成し、郷土料理の核となる。",
+        "seasonal_significance": "主に秋に収穫され、冬から春にかけての保存食として極めて重要。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理 (和食)",
+        "role": "essential",
+        "traditional_dishes": [
+          "野沢菜漬け",
+          "広島菜漬け",
+          "壬生菜漬け",
+          "お茶漬けの具"
+        ],
+        "preparation_methods": [
+          "塩蔵",
+          "乳酸発酵",
+          "糠漬け",
+          "醤油漬け",
+          "浅漬け"
+        ],
+        "cultural_context": "主食である米の味を引き立て、食事の満足度を高める役割を持つ。家庭の味を象徴する存在であり、地域共同体のアイデンティティとも結びついている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "原型となるアブラナ科野菜は弥生時代に伝来。中世以降、日本各地の風土に適応し、江戸時代には多様な地域品種が成立した。",
+      "trade_routes": "国内の物流ルートを通じて種子や漬物が流通し、各地の食文化に影響を与えた。",
+      "cultural_exchange": "該当なし",
+      "domestication_history": "中国大陸から伝わった原種が、日本の多様な気候と人為選択によって、各地で独自の形態と風味を持つ品種群へと分化した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の冷涼な気候での栽培が可能"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育適温は15-20℃。冷涼な気候を好み、春と秋が主要な栽培シーズン。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏は高温のため不適だが、冷涼な地域や高地では夏も栽培可能。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高冷地での夏秋栽培に適する品種がある（例：野沢菜）。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "8月下旬-10月（秋作）、3-4月（春作）",
+        "harvest_season": "10-12月（秋作）、5-6月（春作）",
+        "growing_period_days": "50-80"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 50,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "播種時期",
+        "施肥管理",
+        "病害虫の発生",
+        "気象条件"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": "ほぼ100%",
+          "characteristics": "地域に根ざした多様な在来品種が小規模から大規模まで栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "一般的な栄養価データは存在するが、多種多様な在来品種ごとの詳細な分析は限定的。漬物にした場合、発酵により栄養価が変化する。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "15-25",
+        "protein_g": "1.5-2.5",
+        "carbs_g": "3-5",
+        "fat_g": "0.1-0.3",
+        "fiber_g": "2-3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "非常に豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "中程度",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート",
+        "concentration": "品種により異なる",
+        "health_effect": "分解されて生成するイソチオシアネートに抗酸化作用や抗がん作用の可能性が研究されている。"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "中程度",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [
+        "漬物としての乳酸菌による整腸作用"
+      ],
+      "ongoing_research": [
+        "イソチオシアネートの健康効果に関する研究"
+      ],
+      "safety_considerations": "漬物として摂取する場合、塩分過多に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "日本国内での利用法は非常によく記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "漬物（塩漬け、糠漬け、醤油漬け）",
+          "おひたし",
+          "炒め物",
+          "汁物の具"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "米",
+          "魚",
+          "大豆製品（豆腐、味噌）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩蔵・乳酸発酵",
+        "regions": [
+          "日本全土"
+        ],
+        "shelf_life": "数週間から1年以上（製法による）",
+        "quality_changes": "発酵により酸味と旨味（アミノ酸）が増加し、独特の風味と香りが生まれる。食感も変化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生の葉はわずかな苦味とアブラナ科特有の辛味。漬物は塩味、酸味、旨味が主体となる。",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "生の葉はシャキシャキしている。漬物はしんなりとし、古漬けになるとより柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "品種レベルでの気候変動応答に関する定量的データは非常に乏しい。一般的なアブラナ科野菜の特性と栽培地域の気候からの推定が主となる。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30℃以上が続くと生育不良を起こしやすい。",
+      "cold_tolerance": "品種により差があるが、霜に当たると甘みが増すものもある。強い凍結には弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間中に適度な降雨が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が大きく柔らかいため、強風や豪雨による物理的損傷を受けやすい。",
+      "hail_damage_recovery": "低い",
+      "rapid_temperature_change": "感受性が高い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物として、CO2濃度上昇により光合成が促進される可能性があるが、品質への影響は不明。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやコナガなどの害虫の発生期間が長期化し、被害が増大するリスクがある。",
+      "disease_resistance_stability": "高温多湿は白さび病などの病害を助長する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の温帯・冷涼地域",
+        "2050_projection": "栽培適地がより高緯度・高標高地域へシフトする可能性が高い。",
+        "2100_projection": "現在の主要産地での秋作が困難になる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Brassica rapaは自家不和合性が強く、他家受粉性であるため、種内での交雑が非常に起こりやすい。これが日本の漬け菜の多様性を生んだ源泉である。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "カブ",
+        "コマツナ",
+        "ミズナ",
+        "ハクサイなど、Brassica rapa内の全ての栽培品種群と容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Brassica napus (セイヨウアブラナ)",
+        "Brassica juncea (カラシナ) とは交雑しにくい。"
+      ],
+      "intergeneric_possibility": [
+        "自然環境下ではほぼない。"
+      ],
+      "successful_natural_hybrids": [
+        "日本各地の在来漬け菜の多くは、地域内での自然交雑と選抜の繰り返しによって成立したと考えられる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。日本各地に形態、風味、生態的特性が異なる数百の在来品種が存在する。",
+      "wild_gene_pool": "日本の自生アブラナ属植物との遺伝子交流の可能性も指摘されている。",
+      "adaptive_genetic_variation": "各地域の気候（積雪、気温、日長）に適応した遺伝的変異が豊富に存在する。",
+      "inbreeding_depression_risk": "低い（他家受粉性のため）。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "長野県野沢温泉村",
+        "environmental_pressure": "冷涼な気候、短い生育期間",
+        "adaptive_response": "カブが大型の葉を形成する系統へと変化（野沢菜の起源説）。",
+        "time_scale": "数百年",
+        "mechanism": "自然交雑と人為選択"
+      },
+      {
+        "region": "京都市",
+        "environmental_pressure": "都市近郊の集約的農業、特定の食文化",
+        "adaptive_response": "壬生菜や水菜など、特有の形状と風味を持つ品種群が分化。",
+        "time_scale": "数百年",
+        "mechanism": "人為選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "多様な在来品種の遺伝資源を利用することで、耐暑性や耐病性の高い品種を育種できる可能性がある。",
+      "improved_nutritional_content": "機能性成分（グルコシノレートなど）の含量が異なる品種間の交配による高機能性品種の育成が可能。",
+      "novel_characteristics": "葉の形、色、食感など、新しい特性を持つ品種の創出が可能。",
+      "hybrid_vigor_potential": "高い。F1品種の育種が広く行われている。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほぼない。",
+      "chromosome_compatibility": "種内 (2n=20) で完全。",
+      "fertility_of_hybrids": "種内交雑では高い。",
+      "backcrossing_success": "高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "地域の気候（温度、降雪量）、土壌、病害虫圧、栽培方法、食文化（漬物加工適性）",
+        "adaptive_traits": "抽苔の早晩、葉の形状・大きさ、耐寒性、耐病性、辛味成分の量",
+        "heritability": "中〜高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "漬け菜をリジェネラティブ農業の文脈で評価した研究は限定的。アブラナ科植物の一般的特性からの類推を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根と多数の側根からなる。深くはないが、表層土壌の団粒化に寄与する可能性がある。",
+      "organic_matter_contribution": "収穫後の残渣は分解されやすく、土壌有機物として供給される。",
+      "soil_structure_improvement": "緑肥として利用することで土壌構造を改善する。",
+      "erosion_control": "生育期間中は地表を覆い、土壌侵食を軽減する。",
+      "nutrient_cycling_role": "アブラナ科は土壌深層の養分を吸収し、地表に還元する能力を持つことがある（クリーニングクロップ）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期にはミツバチやアブなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "天敵昆虫（テントウムシ、寄生蜂など）の生息場所を提供する。",
+      "soil_microorganism_interaction": "根圏微生物叢との相互作用については詳細不明。",
+      "above_ground_biodiversity": "地域の生態系の一部として機能する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌の団粒化が水の浸透を助ける可能性がある。",
+      "moisture_retention": "被覆による土壌水分の蒸発抑制。",
+      "runoff_reduction": "中程度",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "低い（一年草のため）。",
+      "soil_carbon_enhancement": "緑肥としての利用により、土壌炭素の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科（窒素供給）、キク科（レタスなど、害虫忌避）、セリ科（益虫誘引）"
+      ],
+      "natural_pest_control": "特定のコンパニオンプランツが悪影響を及ぼす害虫を遠ざける効果が期待される。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "アブラナ科植物は他の植物の生育を阻害するアレロパシー効果を持つことがある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌病害の抑制や土壌構造の維持に貢献する。",
+      "stress_tolerance": "生物的・非生物的ストレスへの耐性は品種によるが、一般的に高くはない。",
+      "recovery_capacity": "低い",
+      "adaptability": "遺伝的多様性が高いため、育種による適応性の向上ポテンシャルは高い。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な価値は主に日本国内の文脈で議論されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーでビタミン、ミネラル、食物繊維が豊富な栄養源。",
+      "food_security_contribution": "地域の食料自給と食文化の維持に貢献。特に伝統的な保存技術は食料安全保障の観点から再評価されている。",
+      "local_food_system_integration": "地産地消の象徴的な作物であり、地域の農業と食文化を強く結びつける。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けに、機能性（グルコシノレート、乳酸菌）を訴求した新しい漬物製品の開発。",
+        "国際市場における「和食」ブームの中でのニッチな食材としての可能性。"
+      ],
+      "value_added_products": [
+        "フリーズドライ漬物",
+        "漬物由来の乳酸菌飲料",
+        "パウダー化して調味料へ"
+      ],
+      "niche_market_value": "在来品種や伝統製法にこだわった高級漬物は、高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "多くの在来漬け菜が消失の危機に瀕していることは広く認識されている。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "栽培地の宅地化や耕作放棄による栽培面積の減少。",
+    "climate_change_vulnerability": "高い。温暖化による栽培適地の移動や消失のリスク。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "在来品種の種子の収集とジーンバンクでの長期保存（域外保全）",
+      "地域コミュニティによる栽培継続支援（域内保全）",
+      "伝統的な漬物製法の記録と継承",
+      "在来品種の価値に関する消費者教育"
+    ],
+    "priority_conservation_regions": [
+      "長野県",
+      "広島県",
+      "京都府",
+      "山形県など、多様な在来品種が残る地域"
+    ],
+    "ex_situ_conservation_status": "日本の国立研究開発法人農業・食品産業技術総合研究機構（NARO）のジーンバンクなどで一部が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "各地の自治体やNPO、農家グループによる保全活動が点在している。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "日本全土の在来品種が現存する地域"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する各在来品種の生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な役割と効果",
+      "伝統的な発酵プロセスに関与する微生物叢の多様性とその機能"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "著名な品種に関する情報は豊富に存在する。"
+      },
+      "variety_name": "Nozawana",
+      "local_name": "野沢菜",
+      "origin_region": "日本・長野県",
+      "distinctive_characteristics": "カブに似るが根は肥大せず、大きな葉を食用とする。耐寒性が非常に強い。",
+      "cultural_importance": "野沢菜漬けは長野県を代表する郷土食であり、冬の重要な保存食。",
+      "climate_adaptation": "冷涼な高地気候に特化して適応している。",
+      "conservation_status": "商業的に広く栽培されているが、伝統的な株の維持が課題。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "著名な品種に関する情報は豊富に存在する。"
+      },
+      "variety_name": "Hiroshimana",
+      "local_name": "広島菜",
+      "origin_region": "日本・広島県",
+      "distinctive_characteristics": "ハクサイに似るが結球しない。葉が広く大きく、特有のピリッとした風味を持つ。",
+      "cultural_importance": "広島菜漬けは日本三大漬け菜の一つとされ、地域の特産品。",
+      "climate_adaptation": "温暖な瀬戸内気候に適応している。",
+      "conservation_status": "地域のブランド野菜として保全・振興活動が行われている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "著名な品種に関する情報は豊富に存在する。"
+      },
+      "variety_name": "Mibuna",
+      "local_name": "壬生菜",
+      "origin_region": "日本・京都府",
+      "distinctive_characteristics": "細長くへら状の葉を持つ。水菜の自然交雑種とされる。特有の辛味と香りがある。",
+      "cultural_importance": "京野菜の一つとして知られ、漬物や煮物に使われる伝統食材。",
+      "climate_adaptation": "京都の盆地気候に適応している。",
+      "conservation_status": "京野菜としてブランド化され、栽培が維持されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "学術論文データベース (J-STAGE, CiNii)",
+      "農業研究機関の報告書 (NARO)",
+      "民族植物学的文献",
+      "地方の農業史資料"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答に関する実験的データ",
+      "世界的な生産・消費に関する統計データ（ほぼ存在しないため）"
+    ],
+    "regional_data_coverage": "日本に極度に偏っており、グローバルなデータは存在しない。",
+    "missing_information": [
+      "伝統医学での利用に関する体系的情報",
+      "土壌微生物との相互作用"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

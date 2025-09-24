@@ -1,0 +1,696 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業研究機関の情報を統合。野生近縁種に関する分類は進行中の研究も多く、一部変動の可能性がある。"
+    },
+    "primary_name": "Tamarillo",
+    "scientific_name": "Solanum betaceum",
+    "plant_type": "木本",
+    "edible_parts": [
+      "果実",
+      "種子"
+    ],
+    "origin_region": "南米アンデス山脈地域（ペルー、エクアドル、コロンビア、ボリビア、チリ）",
+    "wild_relatives": [
+      "Solanum circinatum",
+      "Solanum sibundoyense",
+      "Solanum cajanumense"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の植物名データベース及び民族植物学の記録から収集。"
+    },
+    "international": {
+      "en": [
+        "Tamarillo",
+        "Tree Tomato"
+      ],
+      "scientific_common": "Solanum betaceum"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Tomate de árbol",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Tomate de árvore",
+            "script": "Latn"
+          },
+          {
+            "lang": "qu",
+            "name": "Sacha tomate",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Terong Belanda",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "rw",
+            "name": "Ikinyomoro",
+            "script": "Latn"
+          },
+          {
+            "lang": "sw",
+            "name": "Mbilimbi",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Tamarillo",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アンデス地域のケチュア語話者",
+        "name": "Sacha tomate",
+        "cultural_significance": "「森のトマト」または「野生のトマト」を意味し、自然との繋がりを示す。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Nightshade",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Nightshade",
+      "la": "Solanum"
+    },
+    "species": {
+      "en": "Tamarillo",
+      "la": "S. betaceum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "南米とニュージーランドに関する情報は豊富だが、他の地域での文化的定着に関する詳細な民族誌的記録は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南米（アンデス地域）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "飲料",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "ジュース（Jugo de tomate de árbol）、スパイシーなソース（Ají）、デザートとして日常的に消費される。家庭菜園で広く栽培される。",
+        "seasonal_significance": "通年で利用可能だが、特定の時期に収穫が集中し、保存食が作られる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "オセアニア（特にニュージーランド）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "経済作物",
+          "副菜"
+        ],
+        "traditional_uses": "1930年代に導入され、1967年に「タマリロ」と命名され商業化。チャツネ、ソース、デザートに使われる。国の新しい食文化の一部。",
+        "seasonal_significance": "秋から冬にかけてが旬とされ、季節の果物として認識されている。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "アフリカ（ケニア、ルワンダ）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "経済作物",
+          "飲料"
+        ],
+        "traditional_uses": "主にジュースとして消費され、地域の小規模農家にとって重要な換金作物となっている。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "コロンビア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Jugo de Lulo y Tomate de Árbol",
+          "Ají de Tomate de Árbol"
+        ],
+        "preparation_methods": [
+          "ブレンディング（ジュース）",
+          "煮込み（ソース）"
+        ],
+        "cultural_context": "家庭の日常的な飲み物や、肉料理の付け合わせとして不可欠なソースの材料。"
+      },
+      {
+        "cuisine": "ニュージーランド料理（モダン）",
+        "role": "common",
+        "traditional_dishes": [
+          "Tamarillo Chutney",
+          "Tamarillo Crumble"
+        ],
+        "preparation_methods": [
+          "煮込み（チャツネ）",
+          "ベーキング（デザート）"
+        ],
+        "cultural_context": "ヨーロッパの食文化と融合し、甘酸っぱい風味を活かした加工品として定着。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アンデス地域でインカ時代以前から栽培されていた可能性が示唆されているが、考古学的証拠は限定的。",
+      "trade_routes": "近代以前の広域交易路での役割は確認されていない。20世紀以降、世界各地に伝播した。",
+      "cultural_exchange": "ニュージーランドでの商業化と改名が、世界的な認知度を高める上で大きな役割を果たした。",
+      "domestication_history": "アンデス高地で栽培化されたと考えられているが、正確な起源地や野生祖先種は完全には特定されていない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "標高1,000-3,000mの冷涼な高地。低地の高温多湿には不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜が降りない温暖な地域。最も商業栽培に適している。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "軽度の霜に耐えるが、厳しい冬は越せない。保護栽培が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さに耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため、乾燥地での栽培は困難。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地は高地だが、極端な低温や強風には弱い。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯（南半球）",
+        "planting_season": "春",
+        "harvest_season": "秋から冬",
+        "growing_period_days": 540
+      },
+      {
+        "climate_zone": "熱帯高地（赤道付近）",
+        "planting_season": "通年",
+        "harvest_season": "植え付け後1.5年から2年で始まり、年間を通じて複数回のピークがある",
+        "growing_period_days": 540
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 25,000 kg/ha",
+      "factors_affecting_yield": [
+        "霜害",
+        "強風による枝折れ",
+        "ウイルス病",
+        "土壌排水性",
+        "受粉"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（正確な世界統計は存在しない）",
+      "major_producers": [
+        {
+          "country": "コロンビア",
+          "production_share": null,
+          "characteristics": "世界最大の生産国。国内消費および輸出向けに大規模栽培。"
+        },
+        {
+          "country": "ニュージーランド",
+          "production_share": null,
+          "characteristics": "輸出志向の商業生産。品種改良が盛ん。"
+        },
+        {
+          "country": "エクアドル",
+          "production_share": null,
+          "characteristics": "主に国内市場向けに生産。伝統的な品種が多い。"
+        },
+        {
+          "country": "ポルトガル（アゾレス諸島）",
+          "production_share": null,
+          "characteristics": "ヨーロッパ市場向けのニッチな生産地。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変動が大きい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "31",
+        "protein_g": "2.0",
+        "carbs_g": "3.8",
+        "fat_g": "0.3",
+        "fiber_g": "3.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "29.8 mg",
+          "daily_value_percent": "33"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "1475 IU",
+          "daily_value_percent": "30"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "321 mg",
+          "daily_value_percent": "7"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "0.6 mg",
+          "daily_value_percent": "3"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントシアニン",
+        "concentration": "高（赤色品種）",
+        "health_effect": "強力な抗酸化作用、視機能改善"
+      },
+      {
+        "compound": "β-カロテン",
+        "concentration": "高（黄色・オレンジ色品種）",
+        "health_effect": "プロビタミンA、抗酸化作用"
+      },
+      {
+        "compound": "フェノール化合物",
+        "concentration": "中〜高",
+        "health_effect": "抗酸化、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米アンデス地域",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "喉の痛みや扁桃腺炎の緩和",
+          "高血圧の改善",
+          "コレステロール低下"
+        ],
+        "preparation": "温めた葉を湿布として喉に貼る。果実をジュースにして飲む。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高い抗酸化活性"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "血糖コントロールへの影響",
+        "心血管疾患予防"
+      ],
+      "safety_considerations": "葉や未熟な果実にはソラニンなどのアルカロイドが含まれる可能性があり、食用には適さない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南米",
+        "methods": [
+          "生食（砂糖をかけて）",
+          "ブレンディング（ジュース）",
+          "煮込み（ソース、シチュー）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "唐辛子",
+          "コリアンダー",
+          "タマネギ",
+          "ルロ（ナランヒージャ）"
+        ]
+      },
+      {
+        "region": "オセアニア・ヨーロッパ",
+        "methods": [
+          "煮込み（チャツネ、ジャム）",
+          "ベーキング（パイ、クランブル）",
+          "ロースト"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "リンゴ",
+          "砂糖",
+          "スパイス（シナモン、クローブ）",
+          "肉料理（ラム、ポーク）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "瓶詰め（チャツネ、ジャム）",
+        "regions": [
+          "ニュージーランド",
+          "ヨーロッパ"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "加熱により酸味が和らぎ、甘みが増す。食感が柔らかくなる。"
+      },
+      {
+        "method": "冷凍（果肉ピューレ）",
+        "regions": [
+          "コロンビア",
+          "ニュージーランド"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "風味は比較的保たれるが、解凍時に食感が多少変化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "酸味と甘みのバランスが特徴。パッションフルーツ、キウイ、トマトを合わせたような複雑な風味。品種により酸味の強さが異なる。",
+      "aroma_compounds": [
+        "ヘキサナール",
+        "エステル類"
+      ],
+      "texture_characteristics": "果肉はゼリー状で滑らか。種は小さく、食べられるが、気になる場合は取り除く。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上が続くと生育が阻害される。",
+      "cold_tolerance": "-2°Cまでの短時間の霜には耐えるが、それ以下では枯死する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "年間1,500-2,000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低（枝が脆く、強風で折れやすい）",
+      "hail_damage_recovery": "中（果実や葉に被害を受けやすいが、株自体の回復は可能）",
+      "rapid_temperature_change": "中（急激な温度変化は落果を引き起こす可能性がある）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中（原産地が高地であるため、一定の紫外線耐性を持つ可能性がある）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやコナジラミなどの媒介するウイルス病の発生地域が拡大するリスクがある。",
+      "disease_resistance_stability": "品種によるが、多くの商業品種は特定のウイルス病に弱い。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "亜熱帯および熱帯高地",
+        "2050_projection": "栽培適地がより高緯度、またはより高標高へ移動する可能性が高い。",
+        "2100_projection": "現在の主要生産地の一部では、夏の高温により栽培が困難になる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ナス属内の交雑親和性に関する研究は存在するが、自然環境下での交雑事例に関する記録は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "赤色、黄色、オレンジ色の各品種間で容易に交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "S. quitoense（ナランヒージャ）、S. macranthumなどとの交雑が可能で、耐病性育種の親として利用される。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な記録は少ないが、栽培地域では近縁種との自然交雑が起こっている可能性がある。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地のアンデス地域には、形、色、風味の異なる多様な在来品種が存在する。",
+      "wild_gene_pool": "近縁野生種が自生しており、耐病性や環境ストレス耐性の遺伝子供給源として重要。",
+      "adaptive_genetic_variation": "高地から中高地までの多様な環境に適応した遺伝的変異が存在すると考えられる。",
+      "inbreeding_depression_risk": "商業品種は遺伝的多様性が低く、近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス山脈",
+        "environmental_pressure": "標高による温度、紫外線量、降雨パターンの違い。",
+        "adaptive_response": "地域ごとに異なる果実の色、大きさ、酸味を持つ在来種（ランドレース）の分化。",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "地域農家による人為選択と、環境への自然選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐寒性や耐病性を持つ野生種との交雑により、気候耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "アントシアニンやカロテノイド含有量の高い品種の作出が可能。",
+      "novel_characteristics": "新しい風味や果実の大きさ、形の獲得。",
+      "hybrid_vigor_potential": "異なる在来種間の交配により、収量性や強健性が向上する可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部の遠縁種とは交雑不和合性が存在する。",
+      "chromosome_compatibility": "近縁種とは染色体適合性が高い。",
+      "fertility_of_hybrids": "種間雑種の稔性は様々だが、多くは稔性を持つ。",
+      "backcrossing_success": "戻し交配は育種プログラムで一般的に用いられる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "低温ストレス",
+        "adaptive_traits": "耐霜性",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "タマリロを対象としたリジェネラティブ農業システムの研究は非常に少ない。評価は、類似の多年生果樹の特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い根系だが、地表を覆い土壌侵食を防ぐ。",
+      "organic_matter_contribution": "落葉や剪定枝が土壌有機物を供給する。",
+      "soil_structure_improvement": "多年生作物であるため、不耕起栽培が可能で土壌構造を維持しやすい。",
+      "erosion_control": "樹冠が雨滴による土壌侵食を緩和する。",
+      "nutrient_cycling_role": "表層土壌からの養分吸収に優れる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチやマルハナバチなどの受粉昆虫を引きつける。",
+      "beneficial_insect_habitat": "樹冠は天敵昆虫（テントウムシ、クモなど）の生息地となる。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係を築く可能性があるが、詳細は不明。",
+      "above_ground_biodiversity": "鳥類が果実を食べ、種子散布に寄与することがある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系と地表の有機物層が水の浸透を助ける。",
+      "moisture_retention": "樹冠による日陰が土壌の乾燥を防ぐ。",
+      "runoff_reduction": "地表被覆により雨水の表面流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "木本植物として、茎や枝に炭素を固定する。",
+      "below_ground_carbon": "根系に炭素を蓄積する。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明。一年生作物よりは高いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科のカバークロップ（窒素固定）",
+        "マリーゴールド（線虫忌避）",
+        "ミント類（害虫忌避）"
+      ],
+      "natural_pest_control": "アグロフォレストリーシステムに組み込むことで、天敵を増やし害虫圧を下げることができる。",
+      "nutrient_sharing": "菌根菌ネットワークを介した養分共有の可能性。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、農業生態系の安定性に貢献する。",
+      "stress_tolerance": "個体としてのストレス耐性は高くないが、多様な作物を組み合わせることでシステム全体の強靭性は向上する。",
+      "recovery_capacity": "軽度の霜や風害からは回復する能力がある。",
+      "adaptability": "アグロフォレストリーなどの多様なシステムに組み込み可能。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、食品科学、国際農業開発の報告書に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミンと抗酸化物質が豊富で、植物中心の食生活に貢献する。",
+      "food_security_contribution": "小規模農家の現金収入源となり、地域の食料安全保障に貢献する（特にアフリカ、南米）。",
+      "local_food_system_integration": "家庭菜園や地域の市場で容易に栽培・販売でき、地域食品システムとの親和性が高い。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けスーパーフード市場",
+        "エキゾチックフルーツ市場",
+        "加工品（ジュース、ソース、ジャム）市場"
+      ],
+      "value_added_products": [
+        "冷凍ピューレ",
+        "濃縮果汁",
+        "乾燥パウダー",
+        "チャツネ、レリッシュ"
+      ],
+      "niche_market_value": "ユニークな風味と栄養価から、高級レストランや専門食品店でのニッチ市場価値が高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは指摘されているが、定量的な評価は不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "アンデス山脈における森林伐採や農地転換が、野生近縁種の生息地を脅かしている。",
+    "climate_change_vulnerability": "栽培適地の移動により、特定の地域に適応した在来品種が絶滅するリスクがある。",
+    "cultural_erosion_risk": "市場志向の単一品種栽培への移行により、在来品種の栽培知識や利用法が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "アンデス地域における在来品種の収集・評価・保存（ジーンバンク）",
+      "域内保全（インサイチュ）のための農家支援プログラム",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "コロンビア、エクアドル、ペルーのアンデス高地"
+    ],
+    "ex_situ_conservation_status": "いくつかの国際的なジーンバンクには種子が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "一部の地域でNGOや地域コミュニティによる保全活動が行われているが、規模は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全体的な評価に基づく。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "コロンビアの多様な栽培地域",
+      "ニュージーランドの商業育種プログラム",
+      "ケニア・ルワンダの小規模農家システム"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温・乾燥）に対する品種ごとの生理的応答",
+      "リジェネラティブ農業システムにおける具体的な効果の定量化",
+      "野生近縁種の遺伝子資源としての詳細な評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸学および農業普及資料に基づく。"
+      },
+      "variety_name": "Gold",
+      "local_name": "Tomate de árbol amarillo",
+      "origin_region": "南米（品種改良はニュージーランドなど）",
+      "distinctive_characteristics": "果皮、果肉ともに黄色またはオレンジ色。酸味が少なく甘みが強い。サイズが大きい傾向がある。",
+      "cultural_importance": "生食やデザート用途で好まれる。輸出市場で人気が高い。",
+      "climate_adaptation": "標準的なタマリロと同様。",
+      "conservation_status": "商業的に広く栽培されており、リスクは低い。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸学および農業普及資料に基づく。"
+      },
+      "variety_name": "Red",
+      "local_name": "Tomate de árbol rojo",
+      "origin_region": "南米",
+      "distinctive_characteristics": "果皮は赤色、果肉はオレンジがかった赤色。酸味が強く、風味が濃厚。",
+      "cultural_importance": "南米で伝統的にジュースやソース（Ají）に利用される。最も一般的なタイプ。",
+      "climate_adaptation": "標準的なタマリロと同様。一部の在来種は地域環境への適応性が高い可能性がある。",
+      "conservation_status": "広く栽培されているが、多様な在来の赤色系統には遺伝的浸食のリスクがある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      "CABI Invasive Species Compendium",
+      "FAOSTAT",
+      "Prosea foundation publications",
+      "Ethnobotanical studies on Andean crops"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "アフリカやアジアにおける文化的受容と利用法の詳細"
+    ],
+    "regional_data_coverage": "南米とオセアニアは豊富、アフリカとアジアは限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "品種ごとの詳細な栄養成分分析"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

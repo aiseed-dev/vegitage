@@ -1,0 +1,584 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、Kew Royal Botanic Gardens (Plants of the World Online) や主要な植物学データベースから統合。野生近縁種に関する詳細な交雑データは限定的。"
+    },
+    "primary_name": "Sea Kale",
+    "scientific_name": "Crambe maritima",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉",
+      "花",
+      "根"
+    ],
+    "origin_region": "ヨーロッパの沿岸部（大西洋、バルト海、黒海）",
+    "wild_relatives": [
+      "Crambe tatarica",
+      "Crambe hispanica",
+      "Crambe orientalis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパ言語における名称は豊富に記録されている。ヨーロッパ以外の地域での土着名は存在しないか、極めて稀。"
+    },
+    "international": {
+      "en": [
+        "Sea Kale",
+        "Scurvy grass"
+      ],
+      "scientific_common": "Crambe maritima"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Chou marin",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Meerkohl",
+            "script": "Latn"
+          },
+          {
+            "lang": "nl",
+            "name": "Zeekool",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Col marina",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Cavolo di mare",
+            "script": "Latn"
+          },
+          {
+            "lang": "sv",
+            "name": "Strandkål",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ハマナ",
+            "script": "Jpan"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースで確認済み。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Crambe",
+      "la": "Crambe"
+    },
+    "species": {
+      "en": "Sea Kale",
+      "la": "maritima"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ヨーロッパ、特にイギリスとフランスでの歴史的記録は豊富だが、他の地域での文化的価値は限定的。現代での利用はニッチ。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "18世紀から19世紀にかけてイギリスとフランスで高級野菜として栽培・消費。特に春先に土を盛り光を遮って軟白栽培した（blanching）若芽をアスパラガスのように食した。ビタミンCが豊富なため、壊血病予防にも利用された歴史がある。",
+        "seasonal_significance": "早春の味覚として珍重された。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 1,
+        "cultural_roles": [],
+        "traditional_uses": "日本での名称「ハマナ」は「浜の菜」を意味し、海岸に自生する植物としての認識を示すが、伝統的な食材としての利用記録はほとんど見られない。主に園芸植物として導入されている。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イギリス料理（歴史的）",
+        "role": "common",
+        "traditional_dishes": [
+          "Buttered Sea Kale",
+          "Sea Kale with Hollandaise Sauce"
+        ],
+        "preparation_methods": [
+          "蒸す",
+          "茹でる"
+        ],
+        "cultural_context": "ヴィクトリア朝時代の裕福な家庭で、春の訪れを告げる高級野菜として食卓に上った。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマの博物学者プリニウスが言及した可能性が指摘されているが、確証はない。中世以降、ヨーロッパの沿岸住民に採集されていた。",
+      "trade_routes": "国際的な交易品としての役割はほとんどなかった。",
+      "cultural_exchange": "18世紀にイギリスの庭園家によって栽培化され、その技術がフランスやアメリカ（トーマス・ジェファーソンなど）に伝わった。",
+      "domestication_history": "18世紀後半にイギリスで野生種から選抜され、軟白栽培技術が確立された。本格的な品種改良は進まなかった。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には適さない。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "涼しい冬が必要。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "海洋性の冷涼な気候。特に沿岸部の砂地や礫地が最適。水はけの良い土壌を好む。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さに弱い可能性がある。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥には比較的強いが、極度の乾燥には適さない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高地には適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "早春（軟白栽培した若芽）",
+        "growing_period_days": 1095
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "株の年齢",
+        "軟白栽培の技術",
+        "土壌の水はけ",
+        "日照条件"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "イギリス",
+          "production_share": null,
+          "characteristics": "商業生産は極めて限定的。主に個人の菜園や一部の専門農家、レストランの自家菜園で栽培。"
+        },
+        {
+          "country": "フランス",
+          "production_share": null,
+          "characteristics": "イギリス同様、ニッチな市場向けの小規模生産が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養素、特にビタミンCに関する記述は多いが、詳細な栄養プロファイルや機能性成分の定量的データは限られている。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "20-30",
+        "protein_g": "2.0-2.5",
+        "carbs_g": "3.0-5.0",
+        "fat_g": "0.2-0.5",
+        "fiber_g": "1.5-2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "高",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "中",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "中",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄分",
+          "amount": "中",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗がん作用の可能性（アブラナ科共通）"
+      },
+      {
+        "compound": "ポリフェノール",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "壊血病予防",
+          "利尿作用",
+          "消化促進"
+        ],
+        "preparation": "生食または調理して摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "アブラナ科植物に含まれるグルコシノレートの健康効果に関する研究の一環として調査される可能性"
+      ],
+      "safety_considerations": "甲状腺機能に問題がある場合、他のアブラナ科植物同様、ゴイトロゲン（甲状腺腫誘発物質）を含むため過剰摂取に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "伝統的なヨーロッパ料理での利用法はよく記録されているが、現代的または他文化での応用例は少ない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "蒸す",
+          "茹でる",
+          "炒める",
+          "生のまま（若葉）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "バター",
+          "オランデーズソース",
+          "レモン",
+          "魚料理"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ピクルス",
+        "regions": [
+          "イギリス"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が変化し、酸味が加わる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "軟白栽培した若芽は、ナッツのような風味とアスパラガスに似た繊細な甘みを持つ。わずかにキャベツのような風味もある。葉は苦味が増す。",
+      "aroma_compounds": [
+        "ジメチルスルフィド（アブラナ科特有の香り）"
+      ],
+      "texture_characteristics": "若芽はシャキシャキとして柔らかい。葉はやや硬め。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な実験データは非常に少ない。自生地の環境特性（沿岸部）から耐塩性や耐風性が高いと推定されるが、耐暑性や将来の適地変化はモデルに基づく推測。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-20°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-15°C"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "高（自生地が海岸のため、強風や塩水飛沫への耐性が高い）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として一定の効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラナ科の害虫（コナガ、アブラムシ等）の発生時期や頻度が増加するリスクがある。",
+      "disease_resistance_stability": "根こぶ病など、他のアブラナ科と同様の土壌病害に感受性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "ヨーロッパの冷涼な沿岸部",
+        "2050_projection": "適地がより高緯度へ移動。南部の生息地は夏の高温ストレスで減少する可能性。",
+        "2100_projection": "海面上昇による自生地の消失と、さらなる高緯度への移動が予測される。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属内での交雑可能性は示唆されているが、自然環境下での実例や、栽培種との交雑に関する研究は極めて少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "野生集団間での交雑は可能"
+      ],
+      "interspecific_compatibility": [
+        "Crambe tataricaなど、同属の他種と交雑する可能性がある"
+      ],
+      "intergeneric_possibility": [
+        "Brassica属（キャベツ、ブロッコリー等）との属間交雑は極めて困難、または不可能"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培化の歴史が浅く、明確な在来品種は少ない。野生集団の遺伝的多様性が重要。",
+      "wild_gene_pool": "ヨーロッパの広範な海岸線に分布する野生集団が重要な遺伝子プールとなっている。",
+      "adaptive_genetic_variation": "塩分濃度、気温、土壌条件など、地域ごとの環境に適応した遺伝的変異が存在すると考えられる。",
+      "inbreeding_depression_risk": "不明"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "バルト海 vs 大西洋沿岸",
+        "environmental_pressure": "塩分濃度、氷結期間",
+        "adaptive_response": "耐塩性や耐寒性の異なるエコタイプが存在する可能性",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による局所適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他のCrambe属の耐乾性や耐病性を持つ種と交雑させることで、気候耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "油料作物として知られるCrambe abyssinicaとの交雑による特性変化の可能性。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "Crambe属内での染色体数は多様であり、種によっては不和合性が存在する。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "海面上昇、沿岸浸食、塩分濃度変化",
+        "adaptive_traits": "耐塩性、根系の発達、発芽タイミング",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的なリジェネネラティブ農業の研究は少ないが、植物の多年生性、深根性、自生環境からその適性を高く評価できる。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く強力な主根を持ち、土壌の硬盤を破砕し、深層の養分を地表に循環させる。",
+      "organic_matter_contribution": "多年生植物であるため、毎年の落葉や根の代謝回転により土壌有機物を増加させる。",
+      "soil_structure_improvement": "根系が土壌団粒構造を促進し、通気性・保水性を改善する。",
+      "erosion_control": "沿岸の砂地や礫地に自生することから、強力な根系が土壌を固定し、風食や水食を防ぐ効果が高い。",
+      "nutrient_cycling_role": "深根性による養分ポンプアップ効果が期待される。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "春に咲く白い花は蜜が豊富で、ハチやアブなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "多年生植物として、天敵昆虫（テントウムシ、寄生バチ等）の越冬場所や生息地を提供する。",
+      "soil_microorganism_interaction": "アブラナ科植物として、特定の根圏微生物との共生関係が考えられる。",
+      "above_ground_biodiversity": "海岸生態系において、他の植物や昆虫の生息基盤となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "深根が水の通り道を作り、土壌への浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて、土壌の保水性を高める。",
+      "runoff_reduction": "地表を覆う葉と安定した土壌構造が、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年生で巨大な根系を持つため、地下部への炭素貯留能力が高い。",
+      "soil_carbon_enhancement": "不耕起栽培が可能であり、土壌炭素の蓄積に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）、芳香性ハーブ（害虫忌避）との混植が有益な可能性がある。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、単年生作物中心のシステムより生態系の安定性が高い。",
+      "stress_tolerance": "塩害や強風といった特定のストレスに対する耐性が高い。",
+      "recovery_capacity": "一度定着すれば、軽微なダメージからの回復力が高い。",
+      "adaptability": "野生集団の遺伝的多様性を活用することで、環境変化への適応が期待される。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的なトレンドとの親和性は高いが、市場規模が小さいため商業的な応用は限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養価の高い多年生野菜として、持続可能な食料システムに貢献する可能性がある。",
+      "food_security_contribution": "気候変動で影響を受ける沿岸地域での食料生産（アグロフォレストリー、パーマカルチャー）に活用できる可能性がある。",
+      "local_food_system_integration": "地産地消モデルにおいて、地域の気候に適したユニークな作物として価値がある。",
+      "alternative_protein_potential": "限定的"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級レストラン向け食材",
+        "パーマカルチャーや家庭菜園愛好家向けの苗",
+        "忘れられた伝統野菜（Forgotten Foods）としてのブランディング"
+      ],
+      "value_added_products": [
+        "ピクルス",
+        "フリーズドライ製品"
+      ],
+      "niche_market_value": "非常に高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生息地の脅威は明確だが、遺伝的多様性の減少に関する具体的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "沿岸開発、観光地化、海面上昇による自生地の消失が最大の脅威。",
+    "climate_change_vulnerability": "高い。特に海面上昇と海水温上昇による生息地の「沿岸絞り（coastal squeeze）」現象。",
+    "cultural_erosion_risk": "高い。伝統的な食材としての知識と利用法が失われつつある。",
+    "conservation_actions_needed": [
+      "自生地の保全と法的保護",
+      "遺伝的多様性を確保するための種子銀行での系統的収集（ex-situ conservation）",
+      "伝統的知識の記録と復活の試み"
+    ],
+    "priority_conservation_regions": [
+      "イギリス南岸",
+      "フランス・ブルターニュ地方",
+      "バルト海沿岸"
+    ],
+    "ex_situ_conservation_status": "複数の植物園や種子銀行（例：キューガーデン・ミレニアムシードバンク）で種子が保存されている。",
+    "in_situ_conservation_efforts": "一部地域で自然保護区として自生地が保護されているが、包括的な取り組みは限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "イギリス南岸",
+      "バルト海沿岸"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温とCO2濃度上昇）に対する生理学的応答の定量的データ",
+      "野生集団の遺伝的多様性の詳細なマッピング",
+      "リジェネラティブ農業システムにおける他種との相互作用"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "栽培品種に関する情報は少なく、多くは野生種からの選抜か、歴史的な名称が残るのみ。"
+      },
+      "variety_name": "Lily White",
+      "local_name": "Lily White",
+      "origin_region": "イギリス",
+      "distinctive_characteristics": "歴史的な栽培品種で、特に白く太い芽が採れるように選抜されたとされる。現在流通しているものは少ない。",
+      "cultural_importance": "19世紀のイギリスの園芸文化を象徴する品種。",
+      "climate_adaptation": "不明。野生種と同様と推定される。",
+      "conservation_status": "希少、または消失の可能性"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens - Plants of the World Online",
+      "European ethnobotanical literature",
+      "Perennial vegetable gardening publications"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "機能性成分の定量的分析と健康効果に関する科学的エビデンス"
+    ],
+    "regional_data_coverage": "ヨーロッパに偏っており、他の地域に関するデータはほぼ皆無。",
+    "missing_information": [
+      "商業生産に関する統計データ",
+      "種間・属間交雑に関する詳細な遺伝学的研究"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

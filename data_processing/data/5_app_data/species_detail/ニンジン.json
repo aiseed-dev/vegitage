@@ -1,0 +1,760 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN) and agricultural science literature. Data on the wild species complex is extensive."
+    },
+    "primary_name": "Carrot",
+    "scientific_name": "Daucus carota",
+    "plant_type": "Biennial (often cultivated as an annual)",
+    "edible_parts": [
+      "根",
+      "葉"
+    ],
+    "origin_region": "Central Asia (modern-day Iran and Afghanistan)",
+    "wild_relatives": [
+      "Daucus carota subsp. carota (Queen Anne's Lace)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names compiled from multilingual ethnobotanical databases and linguistic sources. Coverage is broad across major language families."
+    },
+    "international": {
+      "en": [
+        "Carrot",
+        "Wild Carrot",
+        "Queen Anne's Lace"
+      ],
+      "scientific_common": "Carrot"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Carotte",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Karotte",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Zanahoria",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Морковь (Morkov')",
+            "script": "Cyrillic"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "جزر (Jazar)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "هویج (Havij)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "tr",
+            "name": "Havuç",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "गाजर (Gajar)",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "胡萝卜 (Húluóbo)",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "ニンジン (Ninjin)",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "당근 (Danggeun)",
+            "script": "Hangul"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Global indigenous communities",
+        "name": "不明",
+        "cultural_significance": "Carrot is a domesticated crop with a clear origin in Central Asia, not a foraged plant with deep indigenous roots in regions like the Americas or Australia. Its use by indigenous peoples is typically post-contact."
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification follows the APG IV system, widely accepted by botanical institutions."
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Daucus",
+      "la": "Daucus"
+    },
+    "species": {
+      "en": "Carrot",
+      "la": "Daucus carota"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Subspecies",
+        "name": "sativus"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Historical and culinary information is well-documented across numerous cultures. The risk assessment focuses on genetic diversity rather than the crop's existence."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "Fundamental component of soup bases (e.g., mirepoix, soffritto), stews, salads, and side dishes. Historically significant since Roman times, with the orange variety popularized by the Dutch in the 17th century.",
+        "seasonal_significance": "Historically a key winter storage vegetable.",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東・中央アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "主食（一部料理で）",
+          "薬用"
+        ],
+        "traditional_uses": "Center of origin and diversity. Used in pilafs, stews, and as a raw vegetable. Traditional yellow and purple varieties are still common. Historically valued for medicinal properties.",
+        "seasonal_significance": "Staple ingredient throughout the year.",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "Essential in many curries and vegetable dishes. Famous for the sweet pudding 'Gajar ka Halwa'. The dark 'Delhi carrot' is a distinct landrace.",
+        "seasonal_significance": "Primarily a winter vegetable.",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "Widely used for color and texture in stir-fries, soups, and pickles across China, Japan, and Korea. The Japanese 'Kintoki' red carrot is culturally significant for New Year celebrations.",
+        "seasonal_significance": "Available year-round, with peak seasons varying by region.",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "French Cuisine",
+        "role": "essential",
+        "traditional_dishes": [
+          "Mirepoix",
+          "Boeuf Bourguignon",
+          "Carottes râpées"
+        ],
+        "preparation_methods": [
+          "Sautéing",
+          "Braising",
+          "Roasting",
+          "Grating"
+        ],
+        "cultural_context": "Forms the aromatic base for a vast number of French sauces, stocks, and stews."
+      },
+      {
+        "cuisine": "North Indian Cuisine",
+        "role": "common",
+        "traditional_dishes": [
+          "Gajar ka Halwa",
+          "Aloo Gajar Matar"
+        ],
+        "preparation_methods": [
+          "Grating",
+          "Sautéing",
+          "Stewing"
+        ],
+        "cultural_context": "Used in both savory curries and iconic desserts, especially during winter festivals."
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "First cultivated for its aromatic leaves and seeds, not its root. Root cultivation began in the Persian Empire around the 10th century.",
+      "trade_routes": "Spread from Central Asia to the Middle East, North Africa, and Spain via Moorish trade, and then into the rest of Europe.",
+      "cultural_exchange": "The popular orange carrot is a product of Dutch selection in the 16th-17th century, potentially as a patriotic symbol (House of Orange), which then spread globally, displacing older purple and yellow varieties.",
+      "domestication_history": "Domesticated from the wild carrot (Queen Anne's Lace) in Central Asia. Early domesticated forms were purple or yellow."
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "Highland tropical regions with cooler temperatures are suitable. Lowland tropics are generally too hot for good root development."
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "Grown as a winter crop. Requires mild temperatures for optimal growth."
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "Ideal climate. Grown in spring and autumn. Cool nights are beneficial for color and sugar development. Prefers loose, sandy loam soil."
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "Grown as a summer crop. Short, intense growing season."
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "Generally unsuitable without significant irrigation, as consistent moisture is required."
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "Can be grown at moderate altitudes with a sufficient growing season. Cool temperatures can enhance sweetness."
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "Temperate",
+        "planting_season": "Early spring for summer harvest, late summer for autumn/winter harvest.",
+        "harvest_season": "Summer and Autumn/Winter",
+        "growing_period_days": "60-85"
+      },
+      {
+        "climate_zone": "Subtropical",
+        "planting_season": "Autumn",
+        "harvest_season": "Winter/Early Spring",
+        "growing_period_days": "70-90"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 60,000 kg/ha",
+      "factors_affecting_yield": [
+        "Soil type (prefers sandy loam)",
+        "Consistent moisture",
+        "Temperature (cool weather is optimal)",
+        "Pest pressure (e.g., carrot root fly)",
+        "Weed competition"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "Approximately 42 million tonnes (FAOSTAT, recent estimates)",
+      "major_producers": [
+        {
+          "country": "China",
+          "production_share": 45,
+          "characteristics": "Dominant global producer with large-scale, intensive farming for both domestic consumption and export."
+        },
+        {
+          "country": "Uzbekistan",
+          "production_share": 6,
+          "characteristics": "Major producer in the crop's center of origin, with significant diversity in landraces."
+        },
+        {
+          "country": "USA",
+          "production_share": 4,
+          "characteristics": "Large-scale commercial production, particularly in California, for fresh market and processing."
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Nutritional data for standard orange carrots is well-established. Data on bioactive compounds in colored varieties is growing. Traditional medicinal uses are based on ethnobotanical records."
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "41",
+        "protein_g": "0.9",
+        "carbs_g": "9.6",
+        "fat_g": "0.2",
+        "fiber_g": "2.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Vitamin A (from beta-carotene)",
+          "amount": "835 mcg RAE",
+          "daily_value_percent": "93%"
+        },
+        {
+          "nutrient": "Vitamin K",
+          "amount": "13.2 mcg",
+          "daily_value_percent": "11%"
+        },
+        {
+          "nutrient": "Potassium",
+          "amount": "320 mg",
+          "daily_value_percent": "7%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Beta-carotene",
+        "concentration": "High in orange carrots",
+        "health_effect": "Pro-vitamin A, antioxidant, supports vision and immune function."
+      },
+      {
+        "compound": "Anthocyanins",
+        "concentration": "High in purple and black carrots",
+        "health_effect": "Potent antioxidant, anti-inflammatory properties."
+      },
+      {
+        "compound": "Lutein",
+        "concentration": "High in yellow carrots",
+        "health_effect": "Antioxidant, supports eye health (macular pigment)."
+      },
+      {
+        "compound": "Lycopene",
+        "concentration": "High in red carrots",
+        "health_effect": "Antioxidant, linked to reduced risk of certain cancers."
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "Europe",
+        "medical_system": "Folk medicine",
+        "uses": [
+          "Diuretic",
+          "Treating worms",
+          "Improving eyesight"
+        ],
+        "preparation": "Raw juice, cooked root, seed infusions."
+      },
+      {
+        "region": "中東",
+        "medical_system": "Traditional Persian Medicine",
+        "uses": [
+          "Digestive aid",
+          "Aphrodisiac",
+          "Kidney and bladder issues"
+        ],
+        "preparation": "Cooked root, jams, syrups."
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "Rich source of Vitamin A for vision health",
+        "High antioxidant content linked to reduced chronic disease risk",
+        "Dietary fiber supports digestive health"
+      ],
+      "ongoing_research": [
+        "Anti-cancer properties of carotenoids and other compounds",
+        "Cardiovascular benefits of carrot consumption",
+        "Role of anthocyanins from purple carrots in cognitive function"
+      ],
+      "safety_considerations": "Excessive consumption can lead to carotenemia, a harmless condition where skin turns yellowish-orange. Wild carrot can be confused with poisonous hemlock (Conium maculatum)."
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Global culinary use is extremely well-documented in cookbooks, culinary history, and food science literature."
+    },
+    "global_cooking_methods": [
+      {
+        "region": "Global",
+        "methods": [
+          "Roasting",
+          "Boiling",
+          "Steaming",
+          "Sautéing",
+          "Braising",
+          "Grating (raw)",
+          "Juicing",
+          "Pickling"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "Onion and celery (mirepoix)",
+          "Potatoes",
+          "Ginger",
+          "Cinnamon and nutmeg (in sweets)",
+          "Peas"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "Canning",
+        "regions": [
+          "Global"
+        ],
+        "shelf_life": "1-2 years",
+        "quality_changes": "Texture becomes softer, some loss of water-soluble vitamins."
+      },
+      {
+        "method": "Freezing",
+        "regions": [
+          "Global"
+        ],
+        "shelf_life": "8-12 months",
+        "quality_changes": "Good retention of color and nutrients, texture slightly softer after thawing."
+      },
+      {
+        "method": "Drying/Dehydration",
+        "regions": [
+          "Global"
+        ],
+        "shelf_life": ">1 year",
+        "quality_changes": "Concentrates flavor and sugars, texture becomes chewy or brittle."
+      },
+      {
+        "method": "Root cellar storage",
+        "regions": [
+          "Temperate climates"
+        ],
+        "shelf_life": "4-6 months",
+        "quality_changes": "Excellent preservation of quality if stored in cool, humid conditions (e.g., in sand)."
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "Sweet, earthy, slightly woody or herbaceous.",
+      "aroma_compounds": [
+        "Terpenoids (e.g., caryophyllene, pinene)",
+        "Phenylpropanoids"
+      ],
+      "texture_characteristics": "Crisp and crunchy when raw; soft and tender when cooked."
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Information is based on general agronomic principles for root crops and some specific studies. Quantitative data on tolerance limits is limited and varies by cultivar. Future projections are based on broad climate models."
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "16-21°C",
+      "extreme_heat_survival": "High temperatures (>30°C) inhibit root growth, reduce color and sugar content, and can cause bitterness.",
+      "cold_tolerance": "Frost tolerant; light frost can improve sweetness. Can be overwintered in the ground in many temperate climates."
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "Moderate. The taproot can access deeper soil moisture, but consistent water is needed for quality. Drought stress leads to woody, bitter roots.",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "Consistent moisture, equivalent to 25mm per week during growing season."
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "Moderate. Foliage can be damaged but underground root is protected.",
+      "hail_damage_recovery": "Moderate. Recovery is possible if growing point is not destroyed.",
+      "rapid_temperature_change": "Sensitive, especially to heat spikes during root development."
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "Positive but moderate. As a C3 plant, may show increased photosynthesis and growth, but this can be offset by heat/water stress.",
+      "ozone_sensitivity": "Moderate.",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "Vulnerable. Warmer winters may increase survival and range of pests like the carrot root fly and nematodes.",
+      "disease_resistance_stability": "Moderate. Breeding for resistance to diseases like Alternaria leaf blight and powdery mildew is ongoing and crucial.",
+      "beneficial_organism_relationships": "Flowers are highly attractive to beneficial predatory insects."
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "Temperate regions globally.",
+        "2050_projection": "Shift towards higher latitudes and altitudes. Production in currently marginal northern areas may become more viable. Southern areas may face reduced yields and quality.",
+        "2100_projection": "Further poleward and upward shift. Irrigation will become critical in many current production zones.",
+        "confidence_level": "Medium"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "The relationship between cultivated carrot and wild Queen Anne's Lace is well-studied in genetics and weed science. This is a classic example of crop-wild relative gene flow."
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "All cultivated carrot varieties (ssp. sativus) are fully cross-compatible."
+      ],
+      "interspecific_compatibility": [
+        "Readily crosses with its wild progenitor, Daucus carota ssp. carota (Queen Anne's Lace)."
+      ],
+      "intergeneric_possibility": [
+        "Very low to none under natural conditions."
+      ],
+      "successful_natural_hybrids": [
+        "Hybrids between cultivated carrots and wild carrots are common, especially in seed production fields, leading to weedy, unpalatable white-rooted offspring."
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "High, especially in the center of origin (Central Asia), with wide variation in color, shape, and flavor.",
+      "wild_gene_pool": "The vast and genetically diverse wild carrot population is a huge reservoir of genes for stress tolerance, disease resistance, and other traits.",
+      "adaptive_genetic_variation": "High due to the extensive wild gene pool and history of cultivation across diverse environments.",
+      "inbreeding_depression_risk": "Low in open-pollinated varieties, but a consideration in developing hybrid lines."
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "Global",
+        "environmental_pressure": "Herbivory, drought, local soil conditions.",
+        "adaptive_response": "Wild carrot populations show significant local adaptation. Gene flow from these populations can introduce adaptive traits into landraces.",
+        "time_scale": "Decades to centuries",
+        "mechanism": "Natural selection on standing genetic variation and new variation from mutation and gene flow."
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "High potential. Wild relatives possess genes for drought, salinity, and heat tolerance.",
+      "improved_nutritional_content": "High potential. Genes from different colored varieties can be combined.",
+      "novel_characteristics": "High potential for new flavors, textures, and disease resistance patterns.",
+      "hybrid_vigor_potential": "High. This is the basis of the modern F1 hybrid carrot industry."
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Low between cultivated and wild forms. Isolation is a major challenge for seed purity.",
+      "chromosome_compatibility": "Fully compatible (2n=18).",
+      "fertility_of_hybrids": "High.",
+      "backcrossing_success": "High."
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "Water availability (drought)",
+        "adaptive_traits": "Deeper root systems, altered stomatal regulation.",
+        "heritability": "Moderate to high for root traits.",
+        "response_to_selection": "Populations can adapt over generations."
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Information is based on the known biological properties of Apiaceae family plants and root crops. Quantitative data on carbon sequestration or water cycle benefits specifically for carrot is scarce."
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "Deep taproot (up to 1m) can break through compacted soil layers, creating channels for water and air (bio-drilling).",
+      "organic_matter_contribution": "Moderate. Tops can be left as green manure. The root itself is harvested, but fine root hairs contribute to soil organic matter.",
+      "soil_structure_improvement": "Good. The taproot creates macropores, improving aeration and drainage.",
+      "erosion_control": "Low during early growth stages, but established canopy provides some protection.",
+      "nutrient_cycling_role": "Can scavenge nutrients from deeper soil layers and bring them closer to the surface."
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "When allowed to flower in its second year, its umbel-shaped inflorescence is highly attractive to a wide range of beneficial insects, including pollinators (bees, flies) and predators/parasitoids (lacewings, hoverflies, parasitic wasps).",
+      "beneficial_insect_habitat": "Excellent habitat and food source for natural pest control agents.",
+      "soil_microorganism_interaction": "Forms associations with arbuscular mycorrhizal fungi, which enhance nutrient uptake.",
+      "above_ground_biodiversity": "High contribution when flowering."
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "Improves infiltration due to deep root channels.",
+      "moisture_retention": "Contributes to soil organic matter which improves retention.",
+      "runoff_reduction": "Moderate once canopy is established.",
+      "groundwater_recharge": "Potentially positive due to improved infiltration."
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "Low to moderate.",
+      "below_ground_carbon": "Moderate. Significant biomass in the taproot, though much is harvested. Root exudates and fine root turnover contribute to soil carbon.",
+      "soil_carbon_enhancement": "Positive, but less impactful than perennial crops or cover crops with extensive root systems.",
+      "carbon_sequestration_rate": "Low."
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "Onions/Leeks (their scent may confuse the carrot root fly)",
+        "Rosemary/Sage (aromatic herbs can deter pests)",
+        "Lettuce/Radishes (act as living mulch and are harvested before carrots need the space)"
+      ],
+      "natural_pest_control": "Flowers attract beneficial insects that prey on aphids and other pests.",
+      "nutrient_sharing": "Not a primary benefit.",
+      "allelopathic_interactions": "Avoid planting near dill or fennel, which can inhibit growth."
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "Contributes to stability by supporting beneficial insects.",
+      "stress_tolerance": "Moderate.",
+      "recovery_capacity": "Moderate.",
+      "adaptability": "High genetic adaptability due to wild relatives."
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Market trends and food system roles are widely reported in industry and public health literature."
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "A cornerstone vegetable in global diets, valued for its nutritional density, particularly Vitamin A.",
+      "food_security_contribution": "High-yielding, relatively easy to grow, and stores well, making it a significant contributor to global food security.",
+      "local_food_system_integration": "Well-suited for small-scale farming, community gardens, and farmers' markets.",
+      "alternative_protein_potential": "None. Used as a component in plant-based dishes, but not a protein source."
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "Heirloom and multi-colored varieties for gourmet markets",
+        "Functional foods and natural food colorants (from purple carrots)",
+        "Convenience products (baby carrots, pre-shredded carrots)"
+      ],
+      "value_added_products": [
+        "Juice",
+        "Powders",
+        "Natural sweeteners",
+        "Carrot seed oil (in cosmetics)"
+      ],
+      "niche_market_value": "High for organic and specialty colored varieties."
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Conservation status of commercial varieties is secure, but the risk to landraces is a significant concern noted by gene banks and biodiversity organizations."
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "Threat applies mainly to specific wild Daucus populations, not the species as a whole, which is widespread.",
+    "climate_change_vulnerability": "Medium. While adaptable, shifting climate zones threaten traditional cultivation areas and local landraces.",
+    "cultural_erosion_risk": "High. Traditional, diverse-colored landraces are being replaced by uniform, orange F1 hybrids, leading to a loss of associated culinary traditions and knowledge.",
+    "conservation_actions_needed": [
+      "In-situ conservation of landraces in their centers of origin",
+      "Ex-situ conservation in global gene banks (e.g., Svalbard Global Seed Vault)",
+      "Support for farmers who maintain and cultivate traditional varieties"
+    ],
+    "priority_conservation_regions": [
+      "Central Asia (Afghanistan, Iran, Turkey)",
+      "India",
+      "North Africa"
+    ],
+    "ex_situ_conservation_status": "Well-represented in major national and international gene banks.",
+    "in_situ_conservation_efforts": "Limited; primarily through the work of NGOs and some government programs promoting agrobiodiversity."
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "This is a summary evaluation based on the data compiled in all previous sections."
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "Central Asia (for genetic diversity and domestication history)",
+      "Netherlands (for history of modern breeding)",
+      "India (for unique landraces and culinary uses)"
+    ],
+    "knowledge_gaps": [
+      "Quantitative responses of diverse landraces to specific climate change stressors (heat, drought, CO2).",
+      "Detailed analysis of the soil microbiome associated with different carrot varieties."
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "Information on major variety types is readily available from horticultural and seed company literature."
+      },
+      "variety_name": "Danvers",
+      "local_name": "Danvers",
+      "origin_region": "USA (Massachusetts)",
+      "distinctive_characteristics": "Conical shape, rich orange color, good for storage. Tolerant of heavier soils.",
+      "cultural_importance": "A classic American heirloom variety, defining the standard carrot shape for much of the 20th century.",
+      "climate_adaptation": "Well-adapted to temperate climates.",
+      "conservation_status": "Secure, widely available."
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "Information on major variety types is readily available from horticultural and seed company literature."
+      },
+      "variety_name": "Nantes",
+      "local_name": "Nantaise",
+      "origin_region": "France",
+      "distinctive_characteristics": "Nearly perfectly cylindrical with a blunt tip, crisp texture, sweet flavor, coreless.",
+      "cultural_importance": "A benchmark for quality in the fresh market, especially in Europe.",
+      "climate_adaptation": "Prefers loose, sandy soils in temperate climates.",
+      "conservation_status": "Secure, many modern hybrids are based on this type."
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "Information on landraces can be fragmented and less standardized than commercial varieties."
+      },
+      "variety_name": "Pusa Asita Black",
+      "local_name": "Kala Gajar",
+      "origin_region": "India",
+      "distinctive_characteristics": "Deep purple/black skin and flesh, high in anthocyanins, unique earthy and sweet flavor.",
+      "cultural_importance": "Traditionally used to make Kanji, a fermented probiotic drink, and Gajar ka Halwa.",
+      "climate_adaptation": "Adapted to subtropical winter growing conditions.",
+      "conservation_status": "Vulnerable due to limited commercial cultivation."
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "USDA National Nutrient Database",
+      "Kew Royal Botanic Gardens, Plants of the World Online",
+      "GRIN-Global Taxonomy",
+      "Journal of Agricultural and Food Chemistry"
+    ],
+    "major_knowledge_gaps": [
+      "Quantitative data on regenerative agriculture impacts (e.g., carbon sequestration rates).",
+      "Comparative climate stress trials across a wide range of global landraces."
+    ],
+    "regional_data_coverage": "Excellent for Europe and North America; good for Asia; moderate for Africa and South America.",
+    "missing_information": [
+      "Detailed ethnobotanical use by specific indigenous communities post-introduction.",
+      "Comprehensive data on the economic value of genetic diversity in wild relatives."
+    ],
+    "update_priority": "Medium",
+    "quality_score": 9
+  }
+}

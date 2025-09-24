@@ -1,0 +1,761 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(Kew, GRIN)および農業機関(FAO)の情報を統合。野生近縁種の情報も確立されている。"
+    },
+    "primary_name": "Spinach",
+    "scientific_name": "Spinacia oleracea",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "中央アジア・西アジア（古代ペルシャ）",
+    "wild_relatives": [
+      "Spinacia turkestanica",
+      "Spinacia tetranda"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書、植物名データベースから広範に収集。先住民名は、この作物が旧大陸起源であり、比較的新しく他の大陸に導入されたため、伝統的な意味合いを持つものは限定的。"
+    },
+    "international": {
+      "en": [
+        "Spinach"
+      ],
+      "scientific_common": "Common Spinach"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Épinard",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Espinaca",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Spinat",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Spinaci",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ほうれん草",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "菠菜",
+            "script": "Hans"
+          },
+          {
+            "lang": "ko",
+            "name": "시금치",
+            "script": "Hang"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "पालक",
+            "script": "Deva"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "سبانخ",
+            "script": "Arab"
+          },
+          {
+            "lang": "fa",
+            "name": "اسفناج",
+            "script": "Arab"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Amaranth family",
+      "la": "Amaranthaceae"
+    },
+    "genus": {
+      "en": "Spinach",
+      "la": "Spinacia"
+    },
+    "species": {
+      "en": "Common Spinach",
+      "la": "oleracea"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史的文献、民族植物学的研究、現代の食文化記録から情報を統合。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "中東",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "原産地であり、シチュー(Khoresh)やペストリー(Fatayer)の具材として不可欠。",
+        "seasonal_significance": "冬から春にかけての重要な緑黄色野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "中世にムーア人によってスペインに伝えられて以降、大陸全土に普及。クリーム煮、パイ、パスタの具材として定着。カトリーヌ・ド・メディシスが好んだことからフランス料理で「フィレンツェ風」と呼ばれる料理に使われる。",
+        "seasonal_significance": "春と秋の代表的な野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "インド料理において極めて重要。「パラク・パニール」のようにカレーのベースとして、またパン生地に練りこむなど多様に利用される。",
+        "seasonal_significance": "冬期の主要な葉物野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "7世紀に中国に伝来。おひたしや和え物（日本）、炒め物（中国）、ナムル（韓国）など、各国の食文化に深く根付いている。",
+        "seasonal_significance": "主に冬野菜として認識されている。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "20世紀に漫画「ポパイ」の影響で栄養価の高さが広く認知され、消費が拡大。サラダ、スムージー、ソテーなど現代的な健康志向の食事で多用される。",
+        "seasonal_significance": "通年供給されるが、本来は冷涼な季節の作物。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Palak Paneer",
+          "Saag Aloo",
+          "Dal Palak"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "炒め",
+          "ピューレ"
+        ],
+        "cultural_context": "北インドを中心に、菜食料理の重要なタンパク質・鉄分源として機能。"
+      },
+      {
+        "cuisine": "イタリア料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Ravioli di magro (ricotta e spinaci)",
+          "Spinaci alla romana"
+        ],
+        "preparation_methods": [
+          "詰め物",
+          "ソテー"
+        ],
+        "cultural_context": "パスタの詰め物や付け合わせとして頻繁に利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ペルシャで栽培が開始されたと考えられている。",
+      "trade_routes": "ネパールを経由して7世紀に中国へ（唐の時代の記録に「波斯草」として登場）、シルクロードを介して伝播。11世紀頃にムーア人によりイベリア半島へ伝わり、ヨーロッパへ拡大した。",
+      "cultural_exchange": "ペルシャから東アジア、イスラム世界からヨーロッパへと、食文化の伝播を象徴する作物の一つ。",
+      "domestication_history": "野生種のSpinacia turkestanicaとSpinacia tetrandaが自生する中央アジア・西アジア地域で栽培化された。正確な年代は不明だが、2000年以上前と考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温と多湿により生育不良、病害が発生しやすく、早期抽苔（bolting）するため商業栽培は困難。高地の冷涼な気候では栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬期の冷涼で乾燥した季節に栽培適性がある。夏季の栽培は困難。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最適。春と秋の冷涼な気候で最もよく生育する。一部の耐寒性品種は越冬可能。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "春と秋の短い栽培期間に適応する。夏の高温と冬の厳寒は栽培を制限する。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため、大規模な灌漑なしでは栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "夏季の冷涼な気候を利用して栽培可能だが、生育期間が短い。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春、晩夏〜初秋",
+        "harvest_season": "春、秋〜初冬",
+        "growing_period_days": "40-60"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋〜初冬",
+        "harvest_season": "冬〜早春",
+        "growing_period_days": "50-70"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "日長（長日で抽苔）",
+        "気温（高温で抽苔）",
+        "土壌水分",
+        "窒素施肥量",
+        "べと病などの病害"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約3,000万トン（2020年FAOSTAT）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 92,
+          "characteristics": "圧倒的な世界一の生産国であり、国内消費が中心。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": 1,
+          "characteristics": "加工用（冷凍・缶詰）と生食用（ベビーリーフ）の両方が大規模に生産される。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": 0.7,
+          "characteristics": "国内消費およびヨーロッパへの輸出が中心。"
+        },
+        {
+          "country": "日本",
+          "production_share": 0.7,
+          "characteristics": "生食および伝統的な調理法向けに国内で広く生産されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栄養データベース(USDA FoodData Central等)からの標準的な栄養価。機能性成分に関する研究も豊富。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "23",
+        "protein_g": "2.9",
+        "carbs_g": "3.6",
+        "fat_g": "0.4",
+        "fiber_g": "2.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "483 mcg",
+          "daily_value_percent": "402"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "9377 IU",
+          "daily_value_percent": "188"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.9 mg",
+          "daily_value_percent": "45"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "194 mcg",
+          "daily_value_percent": "49"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "2.7 mg",
+          "daily_value_percent": "15"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ルテイン、ゼアキサンチン",
+        "concentration": "豊富",
+        "health_effect": "目の健康維持、特に加齢黄斑変性のリスク低減。"
+      },
+      {
+        "compound": "フラボノイド（パツレチン、スピナセチン等）",
+        "concentration": "豊富",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      },
+      {
+        "compound": "硝酸塩",
+        "concentration": "高濃度",
+        "health_effect": "体内で一酸化窒素に変換され、血管拡張作用により血圧を低下させる可能性。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中東",
+        "medical_system": "伝統ペルシャ医学（ユーナニ医学）",
+        "uses": [
+          "解熱",
+          "利尿",
+          "便秘解消",
+          "喉の渇きを癒す"
+        ],
+        "preparation": "生食またはジュースとして利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "眼病予防",
+        "血圧降下作用"
+      ],
+      "ongoing_research": [
+        "がん予防効果",
+        "認知機能改善効果"
+      ],
+      "safety_considerations": "シュウ酸を多く含むため、腎臓結石のリスクがある人は過剰摂取に注意が必要。調理（茹でるなど）によりシュウ酸は減少する。ビタミンKが血液凝固に影響するため、ワルファリン等の抗凝固薬を服用している場合は医師との相談が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の料理文化に関する広範な文献に基づき、多様な利用法を網羅。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界共通",
+        "methods": [
+          "ソテー",
+          "茹でる",
+          "蒸す",
+          "生食（サラダ）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ニンニク",
+          "バター",
+          "クリーム",
+          "チーズ",
+          "卵",
+          "ナツメグ"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "煮込み（カレー）",
+          "ピューレ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "パニール（チーズ）",
+          "ジャガイモ",
+          "レンズ豆",
+          "各種スパイス"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "おひたし",
+          "和え物",
+          "炒め物",
+          "スープ"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "ごま",
+          "出汁",
+          "ニンニク"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "食感が柔らかくなるが、栄養価の損失は比較的少ない。利便性が高い。"
+      },
+      {
+        "method": "缶詰",
+        "regions": [
+          "北米",
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "食感が大きく変化し、ビタミンCなどの水溶性ビタミンの損失が大きい。"
+      },
+      {
+        "method": "乾燥（パウダー）",
+        "regions": [
+          "世界中（工業利用）"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "栄養素が凝縮されるが、風味は大きく変わる。スムージーや健康食品の原料として利用。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかな土の香り、わずかな甘みと苦味。生の状態ではシュウ酸による軽い渋みを感じることがある。",
+      "aroma_compounds": [
+        "(Z)-3-ヘキセナール（青葉アルデヒド）"
+      ],
+      "texture_characteristics": "生ではシャキシャキしているが、加熱すると非常に柔らかく、とろりとした食感になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、品種間の差異が大きく、定量的な実験データは限定的。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-18°C",
+      "extreme_heat_survival": "25°C以上で生育が著しく阻害され、抽苔が促進される。",
+      "cold_tolerance": "-5°C程度までの霜には耐える。品種によっては越冬も可能。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。葉からの蒸散が多く、一貫した土壌水分を必要とする。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "栽培期間中に均等な降雨または灌漑が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が傷つきやすいため、強風や豪雨に弱い。",
+      "hail_damage_recovery": "低い。葉が直接的な商品価値を持つため、雹害は致命的。",
+      "rapid_temperature_change": "急激な高温は抽苔を引き起こすため弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。C3植物であるため、CO2濃度の上昇は光合成を促進する可能性があるが、高温ストレスがそれを相殺する可能性が高い。",
+      "ozone_sensitivity": "中程度。オゾンによる可視的な葉の損傷が報告されている。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやヨトウムシの発生期間が長期化するリスクがある。",
+      "disease_resistance_stability": "べと病（Downy Mildew）は最大の脅威であり、温暖多湿な条件で発生が増加する。抵抗性品種が開発されているが、新しいレースの出現が常に問題となる。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域の春・秋作、亜熱帯地域の冬作",
+        "2050_projection": "栽培適期がさらに短期化し、より高緯度地域や高地へ適地が移動する可能性が高い。温帯地域では冬作がより一般的になる可能性がある。",
+        "2100_projection": "現在の主要生産地の一部では、夏の高温により栽培が極めて困難になる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "育種学的な研究が豊富で、野生種との交雑に関する情報も確立されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "すべての栽培品種間で容易に交雑する（雌雄異株・風媒花）。"
+      ],
+      "interspecific_compatibility": [
+        "野生種のS. turkestanicaやS. tetrandaと交雑可能であり、実際に育種に利用されている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低いか、ない。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培圃場の近くに野生種が自生する場合、自然交雑が起こりうる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である中央アジア・西アジアには多様な在来種が存在する。",
+      "wild_gene_pool": "近縁野生種がべと病などの病害抵抗性の重要な遺伝子源となっている。",
+      "adaptive_genetic_variation": "在来種には地域の気候や土壌に適応した遺伝的変異が存在する。",
+      "inbreeding_depression_risk": "低い。雌雄異株で他家受精が基本であるため、近交弱勢は起こりにくい。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐病性だけでなく、耐乾性や耐塩性などのストレス耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "栄養成分（特にミネラル）の含有量を高める可能性がある。",
+      "novel_characteristics": "葉の形状、色、抽苔しにくさ（晩抽性）などの新しい形質を導入できる。",
+      "hybrid_vigor_potential": "高い。一代雑種（F1）品種が商業栽培で広く利用されており、生育旺盛で収量性が高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "栽培種と野生種間の交雑障壁は比較的低い。",
+      "chromosome_compatibility": "栽培種と主要な野生近縁種は染色体数が同じ（2n=12）で適合性が高い。",
+      "fertility_of_hybrids": "雑種は通常、稔性を持つ。",
+      "backcrossing_success": "戻し交配は育種プログラムで一般的に行われている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "べと病",
+        "adaptive_traits": "抵抗性遺伝子",
+        "heritability": "高い（しばしば単一優性遺伝子）",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ホウレンソウを主軸としたリジェネラティブ農業システムに関する直接的な科学研究は少ない。一般的な葉物野菜としての特性から類推した。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根は深いが、大半は比較的浅い根系を持つ。",
+      "organic_matter_contribution": "中程度。収穫後の残渣は分解が速く、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "限定的。しかし、密植栽培は土壌表面を覆い、雨滴による土壌クラスト形成を防ぐ。",
+      "erosion_control": "生育期間中は良好な被覆により土壌侵食を抑制する。",
+      "nutrient_cycling_role": "窒素要求量が高く、土壌中の可給態窒素を効率よく吸収する（養分スカベンジャー）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "低い。風媒花であるため、花粉媒介昆虫への貢献はほとんどない。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシや寄生蜂の生息地となる可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "限定的。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "葉による被覆が土壌表面への雨滴のインパクトを和らげ、水の浸透を助ける。",
+      "moisture_retention": "マルチング効果により、土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "中程度。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。一年草であり、バイオマスは小さい。",
+      "below_ground_carbon": "低い。根系が小さいため。",
+      "soil_carbon_enhancement": "限定的。残渣の分解は速い。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）",
+        "イチゴ（互いの成長を助ける）",
+        "ミントなどの芳香植物（害虫忌避）"
+      ],
+      "natural_pest_control": "限定的。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "サポニンを含むため、他の植物の生育に軽微な影響を与える可能性が示唆されているが、実用レベルでの証拠は乏しい。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、後作の病害を抑制する効果が期待できる。",
+      "stress_tolerance": "低い。",
+      "recovery_capacity": "低い。",
+      "adaptability": "中程度（生育期間が短いため、天候不順の合間を縫って栽培できる）。"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食品市場と栄養学のトレンドに基づき評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラルが豊富で、植物性食品中心の食事において非常に価値が高い。",
+      "food_security_contribution": "生育が速く単位面積当たりの栄養収量が高いため、特に都市農業や家庭菜園において食料安全保障に貢献する。",
+      "local_food_system_integration": "生育期間が短く、鮮度が重要なため、地域食品システム（直売所、CSAなど）に非常に適している。",
+      "alternative_protein_potential": "タンパク質含有量は葉物野菜の中では高い方だが、主要なタンパク質源とはならない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ベビーリーフ市場の拡大",
+        "スムージーやジュース原料としての需要増",
+        "機能性食品原料（ルテイン抽出など）"
+      ],
+      "value_added_products": [
+        "冷凍ホウレンソウ",
+        "サラダミックス",
+        "緑色野菜パウダー",
+        "離乳食"
+      ],
+      "niche_market_value": "有機栽培や特定の伝統品種は、付加価値を持つニッチ市場を形成している。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の保全状況は genebank のデータベースで確認できるが、在来種の消失リスクに関する定量的データは乏しい。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "近縁野生種の自生地（中央アジア・西アジアの特定地域）は、過放牧や開発による脅威にさらされている。",
+    "climate_change_vulnerability": "高い（栽培適地の変化、高温ストレス）。",
+    "cultural_erosion_risk": "低。世界中で広く利用されているため、食文化としての消失リスクは低い。ただし、特定の地域に根差した在来種の利用は減少傾向にある。",
+    "conservation_actions_needed": [
+      "近縁野生種の生息域内（in-situ）保全",
+      "原産地における在来種の収集と特性評価",
+      "公的ジーンバンクでの種子保存（ex-situ）の継続"
+    ],
+    "priority_conservation_regions": [
+      "中央アジア（タジキスタン、トルクメニスタン）",
+      "西アジア（イラン、コーカサス地方）"
+    ],
+    "ex_situ_conservation_status": "良好。世界中の主要なジーンバンク（例：USDA, CGN）に多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的であり、強化が必要。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本レポートの全項目を総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中央アジア（遺伝的多様性の中心地）",
+      "南アジア（独自の食文化と品種）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、CO2濃度上昇）に対する品種レベルでの生理学的応答の定量的データ",
+      "リジェネラティブ農業体系における具体的な土壌・生態系への貢献度の評価"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種のデータベースおよび歴史的記録に基づく。"
+      },
+      "variety_name": "Bloomsdale Long Standing",
+      "local_name": "Bloomsdale",
+      "origin_region": "アメリカ合衆国（19世紀）",
+      "distinctive_characteristics": "濃緑色で縮れ（サボイ）の強い葉。肉厚で風味が良い。抽苔が遅い（Long Standing）。",
+      "cultural_importance": "アメリカの伝統的な家庭菜園や市場を代表する品種。",
+      "climate_adaptation": "耐寒性が高いが、耐暑性は低い。",
+      "conservation_status": " heirloom（自家採種可能）として広く流通。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種のデータベースおよび歴史的記録に基づく。"
+      },
+      "variety_name": "Viroflay (Monstrueux de Viroflay)",
+      "local_name": "Viroflay",
+      "origin_region": "フランス（19世紀）",
+      "distinctive_characteristics": "非常に大きく滑らかな葉を持つ。生育が早く、収量性が高い。",
+      "cultural_importance": "ヨーロッパの伝統的な大型ホウレンソウの代表格。",
+      "climate_adaptation": "冷涼な気候を好む。",
+      "conservation_status": "heirloomとして流通。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "東洋種と西洋種の一般的分類に基づく。"
+      },
+      "variety_name": "Japanese Spinach (Toyo-shu)",
+      "local_name": "日本ほうれん草、東洋種",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "葉に切れ込みがあり、根元が赤い。アクが少なく、甘みがあり、おひたしなどの和食に適している。",
+      "cultural_importance": "日本の伝統的な食文化に不可欠な品種群。",
+      "climate_adaptation": "耐寒性は高いが、抽苔しやすい傾向がある。",
+      "conservation_status": "多くの改良品種が存在するが、純粋な在来種は減少傾向。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "USDA FoodData Central",
+      "Plants of the World Online (Kew)",
+      "GRIN-Global"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "近縁野生種の正確な分布と保全状況"
+    ],
+    "regional_data_coverage": "北米、ヨーロッパ、東アジアは豊富。中央アジアの在来種に関する情報は限定的。",
+    "missing_information": [
+      "先住民コミュニティとの関係性（歴史的に接点が少ないため）"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

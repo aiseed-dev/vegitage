@@ -1,0 +1,723 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "プランテンは主要な主食作物であり、植物学、農学、人類学の各分野で広範な研究が存在する。学名は交雑種であることを示しており、分類は複雑である。"
+    },
+    "primary_name": "Plantain",
+    "scientific_name": "Musa × paradisiaca",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "果実",
+      "花",
+      "葉"
+    ],
+    "origin_region": "東南アジア、メラネシア",
+    "wild_relatives": [
+      "Musa acuminata",
+      "Musa balbisiana"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の栽培地域で多様な名称が存在する。バナナとプランテンの言語的区別は地域によって曖昧な場合がある。"
+    },
+    "international": {
+      "en": [
+        "Plantain",
+        "Cooking banana"
+      ],
+      "scientific_common": "Plantain"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Plátano",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Banana-da-terra",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Banane plantain",
+            "script": "Latin"
+          },
+          {
+            "lang": "sw",
+            "name": "Matoke",
+            "script": "Latin"
+          },
+          {
+            "lang": "yo",
+            "name": "Dodo",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "Kachha Kela",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "Vazhaikkai",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Saging saba",
+            "script": "Latin"
+          },
+          {
+            "lang": "id",
+            "name": "Pisang tanduk",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Baganda (Uganda)",
+        "name": "Matoke",
+        "cultural_significance": "主食であり、文化的アイデンティティの根幹をなす食材。豊かさと食料安全保障の象徴。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栽培バナナの分類は伝統的なリンネ式階級分類よりもゲノムグループ（例：AAB, ABB）に基づく分類が一般的である。"
+    },
+    "family": {
+      "en": "Banana family",
+      "la": "Musaceae"
+    },
+    "genus": {
+      "en": "Banana",
+      "la": "Musa"
+    },
+    "species": {
+      "en": "Plantain",
+      "la": "Musa × paradisiaca"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivar Group",
+        "name": "AAB Group (e.g., 'Horn' plantain), ABB Group (e.g., 'Saba')"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アフリカ、ラテンアメリカ、カリブ海地域における主食としての重要性は計り知れない。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "サハラ以南アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "主要な炭水化物源。蒸し、茹で、揚げ、ローストなど多様な調理法で消費される。フフやマトケの原料。ビール醸造にも利用される。",
+        "seasonal_significance": "通年収穫可能であり、季節的な食糧不足（ハンガーギャップ）を埋める重要な作物。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ラテンアメリカ・カリブ海",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "緑色の未熟果を揚げたトストーネスや、熟した果実を揚げたマドゥロスが広く食される。モフォンゴ（プエルトリコ）など、国民食の主原料となる。",
+        "seasonal_significance": "通年で利用可能な食料源。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア・東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "軽食",
+          "儀式用"
+        ],
+        "traditional_uses": "野菜としてカレーや炒め物に利用される。チップスとして加工されることも多い。葉は食器や調理用の包装材として重要。",
+        "seasonal_significance": "年間を通じて利用されるが、主食としての依存度は他地域より低い。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "西アフリカ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Fufu",
+          "Fried plantain (Dodo)"
+        ],
+        "preparation_methods": [
+          "Pounding",
+          "Boiling",
+          "Frying"
+        ],
+        "cultural_context": "日常食であり、エネルギー源。客のもてなしや祝祭の食事に不可欠。"
+      },
+      {
+        "cuisine": "カリブ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Mofongo",
+          "Tostones",
+          "Plátanos maduros fritos"
+        ],
+        "preparation_methods": [
+          "Frying",
+          "Mashing",
+          "Baking"
+        ],
+        "cultural_context": "アフリカからの食文化の影響を強く受け、クレオール料理の核をなす食材。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "東南アジアで数千年前に栽培化されたと考えられている。",
+      "trade_routes": "アラブ商人によりアフリカへ伝播。その後、大航海時代にポルトガル人によってアメリカ大陸へ持ち込まれた（コロンブス交換）。",
+      "cultural_exchange": "大西洋奴隷貿易と密接に関連し、アフリカから新世界への食文化の伝播において中心的な役割を果たした。",
+      "domestication_history": "Musa acuminataとMusa balbisianaの間の自然交雑と人為選択によって多様な栽培品種が成立した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて高温多湿（25-30°C）、年間降水量1500mm以上。明確な乾季がないことが望ましい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない地域。低温期には生育が停滞する。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜害に非常に弱く、生育できない。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため、灌漑なしでは栽培不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯雨林気候",
+        "planting_season": "通年（雨季の初めが最適）",
+        "harvest_season": "植え付けから9-12ヶ月後、その後は継続的に収穫可能",
+        "growing_period_days": 270
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 40,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "土壌肥沃度",
+        "水分供給",
+        "病害虫（特にパナマ病、黒星病）",
+        "強風"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約4500万トン（2022年FAOSTAT、調理用バナナとして）",
+      "major_producers": [
+        {
+          "country": "ウガンダ",
+          "production_share": 15,
+          "characteristics": "国民一人当たりの消費量が世界最大。主に国内消費向けの小規模農家による生産。"
+        },
+        {
+          "country": "ガーナ",
+          "production_share": 10,
+          "characteristics": "西アフリカの主要生産国。国内消費と地域内貿易が中心。"
+        },
+        {
+          "country": "コロンビア",
+          "production_share": 8,
+          "characteristics": "ラテンアメリカの主要生産国。輸出も行われる。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、品種、熟度、調理法による変動が大きい。機能性成分に関する研究は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "122",
+        "protein_g": "1.3",
+        "carbs_g": "32",
+        "fat_g": "0.4",
+        "fiber_g": "2.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "499mg",
+          "daily_value_percent": 11
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "18.4mg",
+          "daily_value_percent": 20
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "1127 IU",
+          "daily_value_percent": 23
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "0.3mg",
+          "daily_value_percent": 23
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "レジスタントスターチ",
+        "concentration": "緑色のプランテンに高濃度",
+        "health_effect": "プレバイオティクス効果、血糖値上昇の抑制"
+      },
+      {
+        "compound": "フラボノイド（ロイコシアニジン）",
+        "concentration": "不明",
+        "health_effect": "胃粘膜保護作用、抗潰瘍作用の可能性が示唆されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ラテンアメリカ",
+        "medical_system": "民間療法",
+        "uses": [
+          "胃潰瘍の治療・予防",
+          "下痢止め"
+        ],
+        "preparation": "未熟なプランテンの粉末や煎じ汁を摂取。"
+      },
+      {
+        "region": "アフリカ",
+        "medical_system": "伝統医学",
+        "uses": [
+          "火傷や傷の治療",
+          "利尿作用"
+        ],
+        "preparation": "葉や茎の汁を湿布として使用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "豊富なカリウムによる血圧調整作用",
+        "食物繊維による消化器系健康維持"
+      ],
+      "ongoing_research": [
+        "レジスタントスターチの腸内環境改善効果",
+        "抗潰瘍作用を持つ化合物の同定と作用機序の解明"
+      ],
+      "safety_considerations": "一般的に安全な食品だが、調理せずに生で大量に食べると消化不良を起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の熱帯地域で多様な料理に利用されており、調理法に関する情報は豊富である。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ラテンアメリカ・カリブ海",
+        "methods": [
+          "二度揚げ（トストーネス）",
+          "熟したものを揚げる（マドゥロス）",
+          "マッシュ（モフォンゴ）",
+          "スープの具"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豚肉",
+          "ニンニク",
+          "豆類",
+          "チーズ"
+        ]
+      },
+      {
+        "region": "西アフリカ・中央アフリカ",
+        "methods": [
+          "茹でて搗く（フフ）",
+          "揚げる（ドド）",
+          "ロースト",
+          "蒸し煮（マトケ）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ピーナッツソース",
+          "魚のシチュー",
+          "パーム油",
+          "唐辛子"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "製粉",
+        "regions": [
+          "アフリカ",
+          "カリブ海"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "乾燥させることで長期保存が可能になる。お粥やパンの材料として利用される。"
+      },
+      {
+        "method": "チップス加工",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "スナックとして商品化され、国際的に流通している。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "未熟（緑色）：デンプン質で、ジャガイモやサツマイモに似た中立的な味。成熟（黄色・黒色）：糖化が進み、甘みとバナナ特有の香りが出る。",
+      "aroma_compounds": [
+        "イソアミルアセテート（熟した場合）"
+      ],
+      "texture_characteristics": "未熟：硬く、調理するとホクホクまたはモチモチになる。成熟：柔らかく、ねっとりとした食感になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐性に関する研究は多いが、数千の品種・栽培系統が存在するため、一般化は困難。特に極端気象への脆弱性が指摘されている。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "24-30°C",
+      "extreme_heat_survival": "40°Cを超えると光合成が著しく阻害される。",
+      "cold_tolerance": "14°C以下で生育が停止し、霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。大きな葉からの蒸散が多く、継続的な水分供給が必要。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2500mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低。偽茎が折れやすく、根が浅いため強風で倒れやすい。",
+      "hail_damage_recovery": "葉が破れると光合成能力が低下するが、新しい葉が次々と出るため回復は比較的早い。",
+      "rapid_temperature_change": "感受性が高い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度の効果が期待されるが、高温や水ストレスによって相殺される可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、バナナゾウムシや線虫の分布域が拡大し、被害が増加する懸念がある。",
+      "disease_resistance_stability": "新パナマ病（TR4）のような病害は高温で進行が早まる可能性があり、主要品種の抵抗性は低い。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "赤道を中心とした熱帯・亜熱帯地域",
+        "2050_projection": "一部の低地で高温ストレスにより不適となる一方、高地や亜熱帯の高緯度地域で栽培可能域が拡大する可能性がある。",
+        "2100_projection": "乾燥化と熱波の頻発により、アフリカや南米の主要生産地で適性が大幅に低下するリスクがある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "栽培バナナ・プランテンの起源そのものが自然交雑と倍数化にあり、野生近縁種との交雑は育種の基本戦略である。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多くの栽培品種間での交雑は可能だが、三倍体品種は不稔性が高い。"
+      ],
+      "interspecific_compatibility": [
+        "Musa acuminata",
+        "Musa balbisiana"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培されているプランテンのほぼ全てがM. acuminataとM. balbisianaの自然交雑に由来する。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。世界中のジーンバンクに数千の在来品種が保存されている。",
+      "wild_gene_pool": "東南アジアに現存する野生のM. acuminataとM. balbisianaが重要な遺伝子資源となっている。",
+      "adaptive_genetic_variation": "M. balbisiana由来のBゲノムは、耐病性や耐乾性に関連する遺伝子を持つことが知られている。",
+      "inbreeding_depression_risk": "栄養繁殖（クローン）で増殖するため、遺伝的多様性が低く、病害に脆弱な集団が多い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "東南アジアの多様な環境",
+        "environmental_pressure": "病害、乾湿の差",
+        "adaptive_response": "AゲノムとBゲノムの様々な組み合わせ（AA, AAA, AAB, ABBなど）を持つ品種群が成立し、異なるニッチに適応した。",
+        "time_scale": "数千年間",
+        "mechanism": "種間交雑、倍数化、体細胞突然変異、人為選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐病性を持つ野生種との交雑により、気候変動への耐性を高める可能性がある。",
+      "improved_nutritional_content": "プロビタミンAを多く含む品種の育種が成功している。",
+      "novel_characteristics": "新しい食感や風味を持つ品種の創出が可能。",
+      "hybrid_vigor_potential": "高い。特に異なるゲノム間の交雑で顕著。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "三倍体品種の不稔性、胚珠培養などの技術が必要な場合がある。",
+      "chromosome_compatibility": "ゲノム構成（A, B）が重要。",
+      "fertility_of_hybrids": "作出された雑種の稔性は様々。",
+      "backcrossing_success": "育種プログラムで広く用いられる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害（黒星病、パナマ病）",
+        "adaptive_traits": "抵抗性遺伝子",
+        "heritability": "中〜高",
+        "response_to_selection": "抵抗性品種の育種が進められている。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アグロフォレストリーシステムでの利用に関する研究は多いが、土壌改良効果などの定量的なデータは限定的。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "根は浅く広がるが、緻密な根系を形成する。",
+      "organic_matter_contribution": "高い。大きな葉や偽茎を収穫後に敷きわら（マルチ）として利用することで、大量の有機物を土壌に還元できる。",
+      "soil_structure_improvement": "マルチングによる土壌団粒構造の維持とミミズなどの土壌生物の活動促進。",
+      "erosion_control": "広い葉が雨滴による土壌侵食を防ぎ、根が表土を保持する。",
+      "nutrient_cycling_role": "カリウムを多く吸収・蓄積するため「カリウムポンプ」と呼ばれることがある。残渣の還元はカリウム循環に重要。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "一部の野生種や栽培品種の花はコウモリや鳥によって受粉される。",
+      "beneficial_insect_habitat": "日陰と湿度を提供し、多様な昆虫やクモの生息地となる。",
+      "soil_microorganism_interaction": "根圏でアーバスキュラー菌根菌と共生する。",
+      "above_ground_biodiversity": "アグロフォレストリーシステムにおいて、他の作物や樹木との混植が可能。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "マルチングが土壌表面の硬化を防ぎ、水の浸透を助ける。",
+      "moisture_retention": "敷きわらが土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "キャノピーとマルチが雨水の流出を遅らせる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "成長が早く、バイオマス蓄積量が大きい。",
+      "below_ground_carbon": "根系のバイオマスは比較的少ないが、継続的な有機物供給により土壌炭素を増やす。",
+      "soil_carbon_enhancement": "高い。",
+      "carbon_sequestration_rate": "中"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "コーヒー、カカオ（若木のシェードツリーとして）",
+        "マメ科作物（窒素供給）",
+        "ヤムイモ、キャッサバ（多層栽培）"
+      ],
+      "natural_pest_control": "多様な植生環境を作ることで、天敵を誘引し害虫の発生を抑制する。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "報告は少ない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多品目混植システムに組み込むことで、生態系の安定性を高める。",
+      "stress_tolerance": "単作では低いが、アグロフォレストリーシステム内では微気候の緩和によりストレス耐性が向上する。",
+      "recovery_capacity": "株分けで容易に増殖でき、被害からの回復が早い。",
+      "adaptability": "多様な品種が存在するため、地域に適した品種選択が可能。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食料安全保障と新しい食品素材としての価値から、現代的な応用に関する関心は高い。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "重要な炭水化物、ビタミン、ミネラルの供給源。",
+      "food_security_contribution": "数億人の人々にとっての主食であり、食料安全保障の基盤。",
+      "local_food_system_integration": "多くの生産国で、地産地消されるローカルフードシステムの中心的存在。",
+      "alternative_protein_potential": "低いが、他のタンパク質源と組み合わせる主食として重要。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルテンフリー食品市場（プランテン粉）",
+        "健康志向のスナック市場（ベイクドチップス）",
+        "エスニック食品市場の拡大"
+      ],
+      "value_added_products": [
+        "プランテン粉",
+        "プランテンチップス",
+        "ベビーフード",
+        "醸造酒"
+      ],
+      "niche_market_value": "特定の品種やオーガニック製品には高い付加価値がつく可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "国際的な保全活動は活発だが、各地域の在来品種の消失リスク評価は不十分な場合が多い。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種の自生地である東南アジアの森林破壊が脅威となっている。",
+    "climate_change_vulnerability": "高い。特に特定の病害や極端気象に対する脆弱性が懸念される。",
+    "cultural_erosion_risk": "中。市場性の高い少数の品種への転換により、地域固有の品種とその利用法が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "農家が参加する形での在来品種の域内保全（in-situ conservation）",
+      "国際ジーンバンクでの多様な遺伝資源の域外保全（ex-situ conservation）",
+      "野生近縁種の生息地保全"
+    ],
+    "priority_conservation_regions": [
+      "東南アジア（野生種の多様性中心地）",
+      "アフリカ大湖沼地域（独自の栽培品種群の多様性）"
+    ],
+    "ex_situ_conservation_status": "良好。ベルギーの国際バナナ・ジーンバンク（ITC）が世界最大のコレクションを保有。",
+    "in_situ_conservation_efforts": "各地で進行中だが、資金や人材が不足している地域も多い。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "プランテンは文化的にも生物多様性の観点からも、グローバルな辞典において極めて重要な品目である。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 10,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "ウガンダ、ルワンダ（東アフリカ高地系バナナの多様性と利用法）",
+      "コロンビア、エクアドル（ラテンアメリカにおける商業生産と地域文化）",
+      "フィリピン（Sabaバナナなど、ABBグループの多様性）"
+    ],
+    "knowledge_gaps": [
+      "多数の在来品種の気候変動（特に耐乾・耐暑性）に対する定量的評価",
+      "土壌微生物との相互作用が植物の健康と生産性に与える影響",
+      "伝統的な混植システムの生態学的機能の解明"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Horn Plantain",
+      "local_name": "Plátano Macho (Latin America)",
+      "origin_region": "不明（広域に分布）",
+      "distinctive_characteristics": "AABゲノムグループ。果実が大きく、湾曲しているのが特徴。デンプン質が非常に高い。",
+      "cultural_importance": "ラテンアメリカやアフリカで揚げ物や茹で物として広く利用される、最も典型的なプランテンの一つ。",
+      "climate_adaptation": "標準的なプランテンの特性を持つ。特に耐性があるわけではない。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Saba",
+      "local_name": "Saging saba (Philippines)",
+      "origin_region": "フィリピン",
+      "distinctive_characteristics": "ABBゲノムグループ。果実が短く角張っている。M. balbisianaの特性を強く受け継ぎ、耐病性やストレス耐性が比較的高い。",
+      "cultural_importance": "フィリピン料理に不可欠。茹でたり、揚げたり、シロップで煮たりと多様な料理に使われる。",
+      "climate_adaptation": "他のプランテン品種に比べ、耐乾性や耐病性（特に黒星病）に優れる。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Matoke (East African Highland banana)",
+      "local_name": "Matoke",
+      "origin_region": "アフリカ大湖沼地域",
+      "distinctive_characteristics": "AAAゲノムグループ（Lujugira-Mutikaサブグループ）。緑色のまま収穫し、蒸し煮にしてマッシュポテトのように食べるのが特徴。",
+      "cultural_importance": "ウガンダや周辺地域の主食中の主食。文化的アイデンティティと深く結びついている。",
+      "climate_adaptation": "高地気候に適応しているが、コーヒーバナナ萎凋病（BXW）に非常に脆弱。",
+      "conservation_status": "地域的に重要だが、病害による脅威に晒されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "Bioversity International",
+      "CGIAR Research Program on Roots, Tubers and Bananas (RTB)",
+      "Promusa.org (Musapedia)",
+      "Peer-reviewed scientific literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "伝統的知識の体系的な記録と科学的検証"
+    ],
+    "regional_data_coverage": "アフリカ、ラテンアメリカ、東南アジアは豊富。その他の地域は限定的。",
+    "missing_information": [
+      "多くの在来品種の正確な栄養成分データ",
+      "先住民コミュニティにおける儀式的な利用の詳細"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

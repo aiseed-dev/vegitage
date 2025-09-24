@@ -1,0 +1,699 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、民族植物学、および農学の文献から情報を統合。野生近縁種に関する詳細な生態学的データは限定的。"
+    },
+    "primary_name": "Lemon Balm",
+    "scientific_name": "Melissa officinalis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "花"
+    ],
+    "origin_region": "南ヨーロッパ、地中海地域、西アジア、中央アジア",
+    "wild_relatives": [
+      "Melissa axillaris",
+      "Melissa flava",
+      "Melissa yunnanensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の植物名データベースおよび地域ごとの文献から集約。"
+    },
+    "international": {
+      "en": [
+        "Lemon Balm",
+        "Common Balm",
+        "Balm Mint"
+      ],
+      "scientific_common": "Melissa"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Zitronenmelisse",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Mélisse officinale",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Melisa",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Melissa",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "fa",
+            "name": "بادرنجبویه",
+            "script": "Arab"
+          },
+          {
+            "lang": "tr",
+            "name": "Oğul otu",
+            "script": "Latn"
+          },
+          {
+            "lang": "ar",
+            "name": "ترنجان",
+            "script": "Arab"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "レモンバーム",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "香蜂草",
+            "script": "Hans"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Mint family",
+      "la": "Lamiaceae"
+    },
+    "genus": {
+      "en": "Balm",
+      "la": "Melissa"
+    },
+    "species": {
+      "en": "Lemon balm",
+      "la": "Melissa officinalis"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "M. officinalis subsp. officinalis"
+      },
+      {
+        "rank": "subspecies",
+        "name": "M. officinalis subsp. inodora"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史的文献、民族植物学の研究、および現代のハーブ利用に関する記録に基づく。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ・地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "儀式用",
+          "香味料",
+          "経済作物"
+        ],
+        "traditional_uses": "古代ギリシャ・ローマ時代から神経系を落ち着かせ、消化を助けるために利用。中世の修道院では「カルメル水」の主成分として栽培。蜂を誘引する性質から養蜂家にも重宝された（Melissaはギリシャ語で「蜜蜂」）。",
+        "seasonal_significance": "夏の到来を告げるハーブとして、新鮮な葉が様々な用途に用いられる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "香味料"
+        ],
+        "traditional_uses": "伝統ペルシャ医学（イブン・シーナーの著作など）で、心臓を元気づけ、憂鬱を払う薬草として記載。シャーベットや飲み物の香りづけに広く利用される。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用",
+          "香味料"
+        ],
+        "traditional_uses": "ヨーロッパからの入植者によって持ち込まれ、ハーバリズムの実践で広く採用された。特に鎮静作用や抗ウイルス作用（ヘルペスなど）が知られている。家庭菜園で一般的に栽培される。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ヨーロッパのハーブ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "ハーブティー",
+          "フルーツサラダ",
+          "魚料理のソース",
+          "リキュール（シャルトリューズ、ベネディクティン）",
+          "アイスクリーム、ソルベ"
+        ],
+        "preparation_methods": [
+          "生食",
+          "注入（infusion）",
+          "蒸留"
+        ],
+        "cultural_context": "穏やかなレモンの風味付けや、リラックス効果を目的として、特にデザートや飲み物、軽めの料理に使用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "少なくとも2000年前から、テオフラストスやプリニウスなどの古代ギリシャ・ローマの学者によって薬効が記録されている。",
+      "trade_routes": "古代ローマの拡大、後には修道院ネットワークを通じてヨーロッパ全土に広まった。シルクロードを通じて東方へも伝播した可能性がある。",
+      "cultural_exchange": "アラビア医学からヨーロッパ医学への知識伝達において重要な役割を果たした。その薬効は文化を超えて共有された。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、古代から薬用・養蜂用に栽培され、人為選択を受けてきたと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、病害虫が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬越しが可能だが、夏は半日陰での管理が望ましい。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりが良く、水はけの良い肥沃な土壌。非常に生育旺盛。耐寒性も高い。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さと冬の寒さに耐えるが、極端な乾燥には注意が必要。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "定期的な灌水がなければ生育は困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、厳しい寒さに耐えられない可能性がある。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春、秋",
+        "harvest_season": "初夏から秋（開花前が最も香りが良い）",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "生葉: 5,000-15,000 kg/ha, 精油: 10-25 kg/ha",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌の肥沃度と水分",
+        "収穫時期と頻度",
+        "栽培品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ドイツ",
+          "production_share": "不明",
+          "characteristics": "医薬品およびハーブティー用の高品質な栽培が盛ん。"
+        },
+        {
+          "country": "ポーランド",
+          "production_share": "不明",
+          "characteristics": "東ヨーロッパにおける主要なハーブ生産国の一つ。"
+        },
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "香料（精油）およびリキュール原料としての生産。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "ハーブサプリメント市場向けの商業栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な機能性成分に関する研究は豊富だが、標準的な食品としての詳細な栄養成分データは限定的。伝統的利用は民族薬理学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "49",
+        "protein_g": "3.75",
+        "carbs_g": "9.1",
+        "fat_g": "0.9",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ロスマリン酸",
+        "concentration": "高い",
+        "health_effect": "抗酸化、抗炎症、抗ウイルス作用"
+      },
+      {
+        "compound": "シトラール（ゲラニアール、ネラール）",
+        "concentration": "精油の主成分",
+        "health_effect": "鎮静、抗菌、抗真菌作用、レモンの香り"
+      },
+      {
+        "compound": "シトロネラール",
+        "concentration": "精油の成分",
+        "health_effect": "鎮静、昆虫忌避作用"
+      },
+      {
+        "compound": "フラボノイド（ルテオリン、クエルセチン）",
+        "concentration": "中程度",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統欧州医学、フィトテラピー",
+        "uses": [
+          "不安・神経過敏の緩和",
+          "不眠症の改善",
+          "消化不良、鼓腸の緩和",
+          "ヘルペスウイルスの外用薬"
+        ],
+        "preparation": "ハーブティー（注入）、チンキ、クリーム、蒸留水（カルメル水）"
+      },
+      {
+        "region": "中東（ペルシャ）",
+        "medical_system": "伝統ペルシャ医学",
+        "uses": [
+          "気分の高揚、抗うつ",
+          "心臓強壮",
+          "記憶力向上"
+        ],
+        "preparation": "ハーブティー、シロップ、シャーベット"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "軽度から中等度の不安症状の緩和",
+        "睡眠の質の改善",
+        "認知機能（特に記憶力）の向上",
+        "単純ヘルペスウイルスに対する局所的な抗ウイルス効果"
+      ],
+      "ongoing_research": [
+        "アルツハイマー病の症状緩和",
+        "ストレスによる生理学的影響の軽減",
+        "過敏性腸症候群（IBS）の症状改善"
+      ],
+      "safety_considerations": "一般的に安全だが、甲状腺機能に影響を与える可能性があるため、甲状腺疾患のある人は注意。鎮静作用があるため、他の鎮静剤との併用は避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の料理本、ハーブに関する専門書、および食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "生でサラダやデザートに加える",
+          "お湯で淹れてハーブティーにする",
+          "魚や鶏肉料理の仕上げに散らす"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "フルーツ",
+          "ミント",
+          "白身魚",
+          "鶏肉",
+          "ヨーグルト"
+        ]
+      },
+      {
+        "region": "中東",
+        "methods": [
+          "冷たい飲み物やシャーベットの香りづけ",
+          "シロップを作る"
+        ],
+        "flavor_role": "香味料",
+        "typical_combinations": [
+          "ローズウォーター",
+          "サフラン",
+          "ヨーグルト",
+          "キュウリ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "香りの主成分である精油が揮発しやすいため、生の時よりも香りが弱まる。薬効成分は比較的保たれる。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "6ヶ月以上",
+        "quality_changes": "刻んで水やオリーブオイルと共に製氷皿で凍らせることで、香りを非常によく保つことができる。"
+      },
+      {
+        "method": "チンキ（アルコール抽出）",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "薬効成分を長期間安定して保存できる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やかなレモンの風味と、わずかなミントの清涼感。苦味や渋みはほとんどない。",
+      "aroma_compounds": [
+        "ゲラニアール",
+        "ネラール",
+        "シトロネラール",
+        "β-カリオフィレン"
+      ],
+      "texture_characteristics": "葉は柔らかく、繊細。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する定性的な記述は多いが、気候変動シナリオ下での応答に関する定量的な実験データは非常に少ない。以下の評価は、植物の一般的特性と栽培地域からの推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C以上が続くと生育が著しく阻害される。",
+      "cold_tolerance": "-15°C程度まで（地上部は枯れるが根は越冬）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1000mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部が倒れやすいが、根茎から再生可能。",
+      "hail_damage_recovery": "高い回復力を持つ。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成と成長が促進される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、ハダニやアブラムシなどの害虫の発生が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境では、うどんこ病やさび病などの真菌性疾患が増加するリスクがある。",
+      "beneficial_organism_relationships": "温暖化による受粉昆虫の活動時期の変化が、種子生産に影響を与える可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域全般",
+        "2050_projection": "栽培適地がより高緯度・高標高地域へシフトする可能性がある。",
+        "2100_projection": "現在の地中海地域の適性が低下し、北ヨーロッパでの適性が向上する可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同属内の分類と交雑に関する情報は存在するが、自然環境下での適応進化に関する詳細な研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "M. officinalis subsp. officinalis と M. officinalis subsp. inodora は交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種（例：Melissa axillaris）との交雑の可能性は理論的に存在するが、自然発生の報告は少ない。"
+      ],
+      "intergeneric_possibility": [
+        "シソ科の他属との自然交雑の可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は少ない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である地中海から中央アジアにかけての地域には、多様な化学型（ケモタイプ）を持つ地域個体群が存在する。",
+      "wild_gene_pool": "野生集団は、病害虫抵抗性や環境ストレス耐性に関する有用な遺伝子の供給源となりうる。",
+      "adaptive_genetic_variation": "精油成分の構成比などが生育環境に応じて変異することが知られており、適応的な遺伝的変異の存在が示唆される。",
+      "inbreeding_depression_risk": "栄養繁殖（地下茎）で容易に増えるため、単一クローンでの栽培が広まると遺伝的多様性が低下し、リスクが高まる。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "乾燥や熱に強い野生近縁種との交雑により、耐性向上の可能性がある。",
+      "improved_nutritional_content": "特定の機能性成分（例：ロスマリン酸）を高含有する系統の作出が可能。",
+      "novel_characteristics": "異なる精油成分プロファイルを持つ新品種の作出可能性がある。",
+      "hybrid_vigor_potential": "高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "Melissa属内の種は染色体数が多様であり、交雑の障壁となる可能性がある。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "草食動物による食害、乾燥ストレス",
+        "adaptive_traits": "特定の精油成分（忌避効果）、深い根系",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的な定量的研究は少ないが、パーマカルチャーや有機農業での実践知と、シソ科多年草の一般的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる地下茎とひげ根を持ち、表土の侵食防止に貢献する。",
+      "organic_matter_contribution": "毎年生育する地上部が枯れることで、土壌に有機物を供給する。",
+      "soil_structure_improvement": "根系の活動が土壌の団粒構造を促進する。",
+      "erosion_control": "地被植物として機能し、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "ダイナミック・アキュムレーターとしての特性は知られていないが、一般的な養分循環に貢献する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチ、マルハナバチ、その他多様な花粉媒介者にとって非常に魅力的な蜜源となる。",
+      "beneficial_insect_habitat": "テントウムシや寄生バチなどの天敵昆虫の隠れ家や蜜源となる。",
+      "soil_microorganism_interaction": "根圏で多様な土壌微生物と共生関係を築くと考えられる。",
+      "above_ground_biodiversity": "小規模な生態系を提供し、地上部の生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表を覆うことで雨水の浸透を助ける。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表流を遅らせ、土壌侵食を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年草であるため、根系を通じて地下部に炭素を安定的に蓄積する。",
+      "soil_carbon_enhancement": "有機物供給により土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "果樹（受粉促進）",
+        "アブラナ科野菜（害虫忌避の可能性）",
+        "トマト"
+      ],
+      "natural_pest_control": "精油成分が一部の害虫（例：蚊、アブラムシ）を忌避する効果が報告されている。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他のミント類と同様に、強いアレロパシー効果を持つ可能性がある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な生物を誘引し、生態系のバランスを保つのに役立つ。",
+      "stress_tolerance": "一度定着すれば、ある程度の乾燥や放置にも耐える。",
+      "recovery_capacity": "刈り込みや軽度のダメージからの回復力が非常に高い。",
+      "adaptability": "様々な土壌や日照条件に適応できる。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場調査レポート、健康食品業界のトレンド、および食品科学の文献に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "機能性飲料や食品の天然香料、機能性成分として価値が高い。",
+      "food_security_contribution": "主食ではないが、家庭菜園で容易に栽培でき、地域の食の多様性とウェルビーイングに貢献する。",
+      "local_food_system_integration": "小規模農家やコミュニティガーデンに適した作物。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性飲料（リラクゼーションドリンク、ハーブティー）",
+        "メンタルヘルス・睡眠改善サプリメント",
+        "ナチュラルコスメティクス（鎮静・抗炎症効果）",
+        "植物由来の食品保存料（抗酸化・抗菌作用）"
+      ],
+      "value_added_products": [
+        "エッセンシャルオイル",
+        "ハイドロゾル（芳香蒸留水）",
+        "標準化エキス（サプリメント用）",
+        "オーガニック・ドライハーブ"
+      ],
+      "niche_market_value": "ウェルネス、オーガニック、自然療法市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストや種の分布情報に基づくが、栽培植物としての遺伝的多様性の消失リスク評価は困難。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地の野生集団は、生息地の開発や気候変動による脅威に晒されている可能性がある。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "中",
+    "conservation_actions_needed": [
+      "原産地における野生集団の生息域内保全",
+      "多様な地域系統（ランドレース）の収集と種子バンクでの域外保全",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "地中海東部",
+      "コーカサス地方",
+      "イラン北部"
+    ],
+    "ex_situ_conservation_status": "世界の主要な植物園や種子バンク（例：キューガーデン、スヴァールバル世界種子貯蔵庫）に種子が保存されている。",
+    "in_situ_conservation_efforts": "特定の保護区での活動は存在するが、種に特化した大規模な取り組みは不明。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全項目を統合した専門家としての評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海東部",
+      "中東"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "異なる地域系統（ランドレース）の遺伝的多様性と機能性の比較分析",
+      "リジェネラティブ農業システムにおける炭素隔離能力の測定"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種カタログや育種に関する文献に基づく。"
+      },
+      "variety_name": "'Quedlinburger Niederliegende'",
+      "local_name": "不明",
+      "origin_region": "ドイツ",
+      "distinctive_characteristics": "匍匐性で生育旺盛。精油含量が高く、特に冬の耐寒性に優れる。商業的な薬用栽培に用いられる。",
+      "cultural_importance": "医薬品原料としての品質が評価されている。",
+      "climate_adaptation": "高い耐寒性",
+      "conservation_status": "商業栽培品種"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種カタログや育種に関する文献に基づく。"
+      },
+      "variety_name": "'Aurea'",
+      "local_name": "Golden Lemon Balm",
+      "origin_region": "不明（園芸品種）",
+      "distinctive_characteristics": "春の新芽が黄金色で、後にライムグリーンに変化する。観賞価値が高い。香りはややマイルド。",
+      "cultural_importance": "主に観賞用として庭園で利用される。",
+      "climate_adaptation": "標準種に準じるが、強い日差しで葉焼けしやすい。",
+      "conservation_status": "園芸品種"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew (Plants of the World Online)",
+      "European Medicines Agency (Herbal monograph on Melissa officinalis L.)",
+      "Journal of Ethnopharmacology",
+      "Agronomy research journals"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの応答の定量的データ",
+      "リジェネラティブ農業における生態系サービス（特に炭素固定や水循環改善）の定量的評価",
+      "野生集団の遺伝的多様性の包括的な評価"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に関する情報が豊富で、アジアや中東に関する情報は比較的少ない。",
+    "missing_information": [
+      "世界的な年間生産量に関する信頼できる統計データ",
+      "先住民コミュニティによる特有の利用法"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

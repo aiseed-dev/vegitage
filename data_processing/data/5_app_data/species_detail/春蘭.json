@@ -1,0 +1,555 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース(KEW, GBIF)及び東アジアの園芸文献から統合。春蘭は伝統野菜ではなく、主に観賞用植物であり、花が限定的に食用利用されるため、多くの評価軸が一般的な野菜とは異なる。"
+    },
+    "primary_name": "Goering's Cymbidium",
+    "scientific_name": "Cymbidium goeringii",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "花"
+    ],
+    "origin_region": "東アジア（日本、中国、朝鮮半島）、ヒマラヤ地域",
+    "wild_relatives": [
+      "Cymbidium floribundum",
+      "Cymbidium ensifolium",
+      "Cymbidium kanran"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア文化圏での名称は豊富に存在するが、その他の地域ではほぼ無名。"
+    },
+    "international": {
+      "en": [
+        "Goering's Cymbidium",
+        "Spring Orchid"
+      ],
+      "scientific_common": "Spring Orchid"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "春蘭",
+            "script": "Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "春兰",
+            "script": "Simplified Chinese"
+          },
+          {
+            "lang": "ko",
+            "name": "춘란",
+            "script": "Hangul"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物分類学上の位置づけは明確。"
+    },
+    "family": {
+      "en": "Orchid family",
+      "la": "Orchidaceae"
+    },
+    "genus": {
+      "en": "Boat orchid",
+      "la": "Cymbidium"
+    },
+    "species": {
+      "en": "Goering's Cymbidium",
+      "la": "goeringii"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "C. goeringii var. goeringii"
+      },
+      {
+        "rank": "variety",
+        "name": "C. goeringii var. longibracteatum"
+      },
+      {
+        "rank": "form",
+        "name": "C. goeringii f. album"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアにおける文化的価値は非常に高いが、食文化における重要性は限定的。観賞・芸術・哲学的な価値が中心。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "薬用",
+          "観賞用",
+          "芸術的モチーフ"
+        ],
+        "traditional_uses": "儒教文化圏において君子の象徴とされ、水墨画や詩歌の題材として珍重される。特に日本、中国、韓国では古典園芸植物として独自の鑑賞文化が発展。花は香り付けや祝いの席の料理のあしらいとして稀に利用される。",
+        "seasonal_significance": "春の訪れを告げる花として、季節感を表現するために重要。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理 (特に懐石、茶道)",
+        "role": "rare",
+        "traditional_dishes": [
+          "春蘭の花の塩漬け",
+          "吸い物椀の飾り",
+          "蘭茶"
+        ],
+        "preparation_methods": [
+          "塩漬け",
+          "香り付け"
+        ],
+        "cultural_context": "料理の味よりも、季節感、香り、見た目の高貴さを楽しむための食材。侘び寂びの精神を表現する要素として用いられる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では孔子の時代から「王者之香」として知られ、高潔な人格の比喩として用いられてきた。",
+      "trade_routes": "主に文化交流の媒体として東アジア内で伝播。物品としての交易よりも、思想や芸術と共に広まった。",
+      "cultural_exchange": "日本、中国、韓国の間で鑑賞文化が相互に影響を与え合い、多様な品種群が形成された。",
+      "domestication_history": "食料としての栽培化ではなく、野生個体から優れた花形、色、香りを持つ個体を選抜する形で園芸化が進んだ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、生育不良となる。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "山地の冷涼な環境で生育可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い森林の林床が最適。夏は涼しく、冬は凍結しない程度の低温が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さに耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高山帯の低温には耐えられない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋（株分け）",
+        "harvest_season": "春（開花期）",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "食料としての収量の概念は適用外。観賞価値のある花を年に数輪咲かせる。",
+      "factors_affecting_yield": [
+        "日照条件",
+        "湿度",
+        "共生菌（菌根菌）の有無",
+        "冬期の低温処理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "古典園芸品種の栽培が盛ん。趣味家による小規模生産が中心。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "野生種の宝庫であり、多様な品種が栽培されている。"
+        },
+        {
+          "country": "韓国",
+          "production_share": "不明",
+          "characteristics": "独自の鑑賞文化があり、多くの愛好家によって栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用としての利用が限定的なため、栄養成分に関する科学的データはほぼ存在しない。伝統医学での利用は文献に見られるが、主流ではない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール化合物",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用（推定）"
+      },
+      {
+        "compound": "精油成分",
+        "concentration": "不明",
+        "health_effect": "芳香によるリラックス効果"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "鎮咳",
+          "去痰",
+          "活血"
+        ],
+        "preparation": "偽鱗茎や全草を乾燥させ、煎じて用いることがあるが、一般的な処方ではない。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "ラン科植物に含まれる生理活性物質の研究は存在するが、本種に特化した食・薬用研究は限定的。"
+      ],
+      "safety_considerations": "不明"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "利用法は東アジアの特定の文化圏に限定されるが、その文脈内での情報は比較的明確。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "塩漬け",
+          "吸い物への添加",
+          "酒への浸漬"
+        ],
+        "flavor_role": "香り付け",
+        "typical_combinations": [
+          "白身魚の吸い物",
+          "清酒",
+          "和菓子"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "香りは保持されるが、色は褪せる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "かすかな甘みと上品なフローラルの香り",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "繊細で柔らかい"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動応答の定量的データは存在しない。生態的地位（温帯林床植物）とラン科植物の一般的特性からの推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上が続くと生育不良",
+      "cold_tolerance": "-5°C程度（休眠期）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "年間1000-2000mm程度の湿潤な環境を好む"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "不明",
+      "hail_damage_recovery": "低い",
+      "rapid_temperature_change": "ストレスを受けやすい"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "低（林床植物のため）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化による病害虫（ウイルス、軟腐病など）の増加に脆弱である可能性が高い。",
+      "disease_resistance_stability": "低いと推定される。",
+      "beneficial_organism_relationships": "共生する菌根菌や特定の送粉者への依存度が高く、これらの生物相の変化に脆弱。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯林",
+        "2050_projection": "分布域の縮小、高緯度・高標高への移動",
+        "2100_projection": "さらなる縮小と断片化",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 2
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸分野での交配データは豊富だが、自然環境下での交雑に関する生態学的データは限定的。Cymbidium属は交雑和合性が高いことで知られる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "日本春蘭、中国春蘭、韓国春蘭など地域変異間の交配は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Cymbidium属の多くの種（シュンカンラン、カンラン等）と交雑可能。"
+      ],
+      "intergeneric_possibility": [
+        "限定的、または不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "近縁種との自然交雑の報告は存在するが、頻度は低いとみられる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "古典園芸品種として多様な系統が維持されている。",
+      "wild_gene_pool": "中国の雲南省、四川省などに広範な遺伝子プールが存在するが、乱獲により脅かされている。",
+      "adaptive_genetic_variation": "地域ごとに分化しており、気候への局所適応が示唆される。",
+      "inbreeding_depression_risk": "趣味家による小規模な系統維持ではリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他のCymbidium種（より耐暑性や耐寒性のある種）との交雑により向上する可能性がある。",
+      "improved_nutritional_content": "食料ではないため、評価軸として不適切。",
+      "novel_characteristics": "花の色、形、香り、開花時期などの多様化が可能。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種によっては存在するが、属内では比較的少ない。",
+      "chromosome_compatibility": "属内では比較的高い。",
+      "fertility_of_hybrids": "多くの場合、稔性を持つ。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "特定の送粉者、共生菌根菌、光環境",
+        "adaptive_traits": [
+          "花の形態、開花時期、香り"
+        ],
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種は農作物ではなく、リジェネラティブ農業の文脈で評価された例はない。生態系における役割からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "菌根菌と共生する貯蔵型の根。土壌を積極的に改良する効果は低い。",
+      "organic_matter_contribution": "限定的。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "限定的。",
+      "nutrient_cycling_role": "菌根菌との共生を介して、土壌の微生物ネットワークの一部を構成する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "特定のハチ類など、特定の送粉者に花粉を提供する。",
+      "beneficial_insect_habitat": "限定的。",
+      "soil_microorganism_interaction": "特定の菌根菌との共生関係が必須であり、土壌微生物多様性の指標となりうる。",
+      "above_ground_biodiversity": "限定的。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "限定的。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "非常に小さい。",
+      "below_ground_carbon": "非常に小さい。",
+      "soil_carbon_enhancement": "限定的。",
+      "carbon_sequestration_rate": "無視できるレベル。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "特定の樹木（コナラ、アカマツなど）の林床に生育する。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "菌根菌ネットワークを介した間接的な相互作用の可能性。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "本種自体は脆弱だが、その存在は安定した森林生態系を示唆する指標となる。",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "低い",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 3
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的価値は食料システムではなく、文化、園芸、生態系保全の分野にある。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "寄与しない。",
+      "food_security_contribution": "寄与しない。",
+      "local_food_system_integration": "伝統文化の継承という観点でのみ、限定的に統合可能。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級食材としてのニッチ市場",
+        "伝統茶・リキュール等のフレーバー原料"
+      ],
+      "value_added_products": [
+        "花の塩漬け",
+        "蘭茶",
+        "香料抽出物"
+      ],
+      "niche_market_value": "非常に高い（特に観賞用として、希少品種は数万～数百万円で取引されることがある）。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "園芸的人気に伴う乱獲と生息地の破壊により、保全上の懸念は高い。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "森林伐採、土地開発による自生地の破壊が深刻。",
+    "climate_change_vulnerability": "高い。生息域の縮小が予測される。",
+    "cultural_erosion_risk": "中。鑑賞文化は存続しているが、自生地での存在感が薄れるリスク。",
+    "conservation_actions_needed": [
+      "自生地の保護区設定",
+      "野生個体の採取規制（多くの地域で法規制あり）",
+      "無菌播種などによる人工増殖技術の普及",
+      "遺伝資源の収集・保存"
+    ],
+    "priority_conservation_regions": [
+      "中国南西部（雲南省、四川省）",
+      "日本の手つかずの里山"
+    ],
+    "ex_situ_conservation_status": "植物園や研究機関、個人の趣味家によって多数の系統が栽培・保存されている。",
+    "in_situ_conservation_efforts": "一部地域で保護区が設定されているが、十分ではない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家の視点からの総合評価。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "中国雲南省",
+      "日本の紀伊半島"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理的応答の定量的データ",
+      "送粉者と菌根菌との共生関係の詳細",
+      "伝統的利用に関する民族植物学的記録の集約"
+    ],
+    "global_dictionary_compatibility": 7
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種は無数に存在するが、代表的なものを記載。"
+      },
+      "variety_name": "日本春蘭 (Nihon Shunran group)",
+      "local_name": "ジジババ (Jijibaba)",
+      "origin_region": "日本",
+      "distinctive_characteristics": "小型で清楚な花姿。緑花が基本だが、赤花、黄花、素心（緑色色素が抜けたもの）など多様な変異がある。",
+      "cultural_importance": "日本の古典園芸の中心的存在の一つ。侘び寂びの美意識を象徴する。",
+      "climate_adaptation": "日本の温帯気候に適応。",
+      "conservation_status": "自生地では減少傾向。園芸品種は愛好家により維持。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種は無数に存在するが、代表的なものを記載。"
+      },
+      "variety_name": "中国春蘭 '宋梅' (Cymbidium goeringii 'Song Mei')",
+      "local_name": "宋梅 (Sòng Méi)",
+      "origin_region": "中国",
+      "distinctive_characteristics": "梅弁（梅の花びらのように丸い花弁）の代表品種。均整の取れた花形と気品のある姿で知られる。",
+      "cultural_importance": "中国春蘭の「四大天王」の一つとされ、300年以上の歴史を持つ銘品。",
+      "climate_adaptation": "中国の温帯・亜熱帯気候に適応。",
+      "conservation_status": "園芸品種として広く栽培されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "GBIF",
+      "古典園芸に関する学術論文および専門書",
+      "民族植物学データベース"
+    ],
+    "major_knowledge_gaps": [
+      "食料としての栄養価・安全性データ",
+      "気候変動に対する定量的応答モデル",
+      "リジェネラティブ農業システムへの貢献に関する実証データ"
+    ],
+    "regional_data_coverage": "東アジアに極めて偏っており、他地域でのデータは皆無。",
+    "missing_information": [
+      "栄養成分",
+      "栽培収量",
+      "定量的気候耐性"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

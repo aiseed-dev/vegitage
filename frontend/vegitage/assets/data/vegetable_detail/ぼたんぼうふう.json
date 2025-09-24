@@ -1,0 +1,590 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "植物学的な基本情報は主要データベースで確認可能だが、野生近縁種との詳細な関係性については情報が限定的。"
+    },
+    "primary_name": "Coastal Hogfennel",
+    "scientific_name": "Peucedanum japonicum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "根"
+    ],
+    "origin_region": "東アジアの沿岸部（日本、韓国、中国、台湾、フィリピン）",
+    "wild_relatives": [
+      "Peucedanum L.属の他種"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア地域における名称は豊富に記録されているが、その他の地域での認知度は低い。"
+    },
+    "international": {
+      "en": [
+        "Coastal Hogfennel",
+        "Japanese Hogfennel"
+      ],
+      "scientific_common": "Peucedanum japonicum"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "牡丹防風 (ボタンボウフウ)",
+            "script": "漢字, カタカナ"
+          },
+          {
+            "lang": "ja-JP-ryu",
+            "name": "長命草 (チョーミーグサ)",
+            "script": "漢字, カタカナ"
+          },
+          {
+            "lang": "ko",
+            "name": "갯기름나물",
+            "script": "ハングル"
+          },
+          {
+            "lang": "zh",
+            "name": "滨海前胡 (Bīnhǎi Qiánhú)",
+            "script": "簡体字"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "琉球諸島（沖縄）",
+        "name": "長命草 (Chōmeisō / チョーミーグサ)",
+        "cultural_significance": "「食べれば寿命が1日延びる」とされ、健康長寿を象徴する伝統食材。日常食および薬草として利用される。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Hogfennel",
+      "la": "Peucedanum"
+    },
+    "species": {
+      "en": "Japanese Hogfennel",
+      "la": "japonicum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジア、特に日本の南西諸島での文化的価値は高いが、世界的な普及や認知度は非常に低い。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア (特に日本南西諸島、韓国南部)",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "郷土食"
+        ],
+        "traditional_uses": "若葉を野菜として、根を伝統薬（咳、風邪、神経痛など）として利用。特に沖縄では健康長寿の食材「ぬちぐすい（命の薬）」として重要視される。",
+        "seasonal_significance": "春先の若葉が最も美味とされ、季節の訪れを告げる食材。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "沖縄料理",
+        "role": "common",
+        "traditional_dishes": [
+          "白和え",
+          "天ぷら",
+          "おひたし",
+          "ジュース"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "揚げる",
+          "生食（ジュース）"
+        ],
+        "cultural_context": "日常の健康維持のために食される「命の薬」としての位置づけ。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "common",
+        "traditional_dishes": [
+          "ナムル (나물)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "和える"
+        ],
+        "cultural_context": "春の山菜・浜菜として季節の味を楽しむ。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古くから東アジアの沿岸地域で薬草および救荒植物として利用されてきたと推定される。文献記録は江戸時代以降に散見される。",
+      "trade_routes": "不明",
+      "cultural_exchange": "不明",
+      "domestication_history": "明確な栽培化の歴史は不明。主に自生しているものを採取してきたが、近年沖縄などで健康食品として栽培が開始されている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌と十分な日照。高温多湿に耐える。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "自生地であり、栽培に最も適している。潮風に強い。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "温暖な沿岸地域に限られる。霜や強い凍結には弱い可能性がある。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さや乾燥に適応できない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "空中湿度が低すぎる環境には適さない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高地の低温環境には適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "通年可能",
+        "harvest_season": "通年（主に春〜夏）",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照量",
+        "土壌の水はけ",
+        "施肥管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "沖縄県与那国島など南西諸島が主産地。健康食品（青汁など）向けの契約栽培が多い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性成分に関する研究は進んでいるが、標準的な栄養成分表のデータは限られる。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "豊富",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "豊富",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "豊富",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "豊富",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "クロロゲン酸",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用、血糖値上昇抑制"
+      },
+      {
+        "compound": "ルチン",
+        "concentration": "可変",
+        "health_effect": "血管強化、抗酸化作用"
+      },
+      {
+        "compound": "クマリン類 (Peucedanocoumarins等)",
+        "concentration": "可変",
+        "health_effect": "抗炎症作用、抗アレルギー作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "日本（沖縄、九州南部）",
+        "medical_system": "民間療法",
+        "uses": [
+          "滋養強壮",
+          "風邪の予防",
+          "神経痛の緩和",
+          "咳止め"
+        ],
+        "preparation": "根を煎じて飲む、または葉を日常的に食す。"
+      },
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "感冒",
+          "頭痛",
+          "リウマチ性関節炎"
+        ],
+        "preparation": "根を乾燥させ、他の生薬と共に処方（前胡の代用として）。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用",
+        "血糖値上昇抑制作用"
+      ],
+      "ongoing_research": [
+        "抗アレルギー作用",
+        "生活習慣病予防効果"
+      ],
+      "safety_considerations": "セリ科植物にアレルギーを持つ者は注意が必要。光毒性を持つフロクマリン類を含む可能性について研究が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "日本と韓国での利用法はよく知られているが、他の地域での料理利用はほとんどない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本（沖縄）",
+        "methods": [
+          "茹でる",
+          "揚げる",
+          "和える",
+          "炒める",
+          "ジュースにする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豆腐",
+          "胡麻",
+          "豚肉"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（粉末化）",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りは弱まるが、栄養成分は保持される。主に健康食品（青汁）として利用。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "独特の苦味とセリ科特有の爽やかな香り",
+      "aroma_compounds": [
+        "ピネン",
+        "リモネン"
+      ],
+      "texture_characteristics": "生の若葉はシャキシャキしている。加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な実験データはほぼ存在しない。自生環境の特性からの定性的推定が中心。耐塩性に関する記述は多い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-5°C程度（推定）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "800-2000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "高（自生地が海岸の崖地や砂地のため、強風や塩害への耐性が高い）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（沿岸部の強い日差しに適応）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明（特有の香り成分が害虫を忌避する可能性がある）",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの亜熱帯・温帯沿岸部",
+        "2050_projection": "栽培適地は高緯度地域へわずかに拡大する可能性があるが、自生地は海面上昇の脅威に晒される。",
+        "2100_projection": "海面上昇による自生地の縮小リスクがさらに増大する。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "同属内での交雑可能性に関する研究はほとんどない。遺伝的多様性に関するデータも乏しい。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間での交雑は可能と推定される"
+      ],
+      "interspecific_compatibility": [
+        "不明"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培化の歴史が浅いため、明確な在来品種は存在しない。地域ごとの野生集団に遺伝的多様性が存在する。",
+      "wild_gene_pool": "栽培されているものは野生集団から選抜されたものが多く、遺伝的背景は近い。",
+      "adaptive_genetic_variation": "各島の隔離された環境に適応した多様な遺伝子型が存在すると考えられる。",
+      "inbreeding_depression_risk": "不明"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "南西諸島",
+        "environmental_pressure": "強風、塩害、強い紫外線、水はけの良すぎる土壌",
+        "adaptive_response": "ロゼット状の草姿、多肉質の厚い葉、深い主根",
+        "time_scale": "数千年単位",
+        "mechanism": "自然選択による環境適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐塩性や耐乾性の遺伝資源として有望。",
+      "improved_nutritional_content": "機能性成分を向上させる育種の可能性がある。",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "塩分ストレス",
+        "adaptive_traits": "クチクラ層が厚い葉、塩分排出機構",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での研究は皆無。植物の生態的特性からの推定に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く太い主根を持ち、土壌の硬盤を破砕する可能性がある。",
+      "organic_matter_contribution": "多年草であり、落葉や根の更新を通じて土壌有機物を供給する。",
+      "soil_structure_improvement": "根系が土壌の団粒構造を促進する可能性がある。",
+      "erosion_control": "地表を覆い、強固な根系を持つため、特に海岸や傾斜地での土壌侵食防止効果が高い。",
+      "nutrient_cycling_role": "深層のミネラルを土壌表層に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "セリ科特有の散形花序は、ハナアブや小型のハチなど多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "天敵昆虫の蜜源や生息地となる可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る亀裂が水の浸透を助ける可能性がある。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "地被植物として機能し、地表流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年草であり、特に深い主根に炭素を蓄積するポテンシャルが高い。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": "不明",
+      "natural_pest_control": "特有の香りが他の作物の害虫を忌避する可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草であり、一度定着すると管理が少なく済み、生態系の安定に寄与する可能性がある。",
+      "stress_tolerance": "耐乾性、耐塩性、耐風性が高く、厳しい環境下でも生育可能。",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "健康食品としての市場は確立されつつあるが、一般食材としての普及は限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラル、抗酸化物質が豊富で、栄養価の高い緑黄色野菜として価値がある。",
+      "food_security_contribution": "厳しい沿岸環境でも栽培可能なため、土地利用の多様化と食料生産に貢献できる可能性がある。",
+      "local_food_system_integration": "地域の伝統食として、地産地消やフードツーリズムの核となりうる。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "スーパーフード、機能性食品市場",
+        "新しいハーブや香味野菜としてのレストラン需要"
+      ],
+      "value_added_products": [
+        "青汁・スムージー用粉末",
+        "健康茶",
+        "サプリメント",
+        "化粧品原料"
+      ],
+      "niche_market_value": "「長寿の島のハーブ」といったストーリー性により、高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでの評価はないが、自生地の開発圧は高いと認識されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "海岸線の開発、護岸工事、地球温暖化による海面上昇が自生地を脅かしている。",
+    "climate_change_vulnerability": "自生地が海面上昇の影響を直接受けるため脆弱性は高い。",
+    "cultural_erosion_risk": "高（伝統的な利用法を知る世代の高齢化）",
+    "conservation_actions_needed": [
+      "自生地の保全区域設定",
+      "遺伝的多様性を考慮した種子バンクでの系統保存（域外保全）",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "日本の南西諸島",
+      "韓国の済州島および南部沿岸"
+    ],
+    "ex_situ_conservation_status": "一部の植物園や研究機関で保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的、または報告なし。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査に基づく総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "日本の南西諸島",
+      "台湾",
+      "フィリピン北部"
+    ],
+    "knowledge_gaps": [
+      "遺伝的多様性の網羅的評価",
+      "気候変動要因（温度、CO2、水ストレス）に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムへの導入効果の実証研究"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種として確立されたものではなく、地域集団（エコタイプ）としての情報。"
+      },
+      "variety_name": "与那国島在来系統",
+      "local_name": "長命草 (チョーミーグサ)",
+      "origin_region": "日本、沖縄県与那国島",
+      "distinctive_characteristics": "他の地域のものに比べ、葉が肉厚で味がマイルドとされる。機能性成分が豊富であるとして健康食品原料として栽培されている。",
+      "cultural_importance": "与那国島の伝統的な健康長寿を支える食材として極めて重要。",
+      "climate_adaptation": "亜熱帯の海洋性気候、頻繁な台風、強い日差しと塩害に高度に適応している。",
+      "conservation_status": "栽培下では安定しているが、野生集団は保全が必要。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "民族植物学に関する学術論文",
+      "植物学データベース (KEW, GBIF)",
+      "日本の地域農産物に関する報告書"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種・地域系統レベルでの応答",
+      "自然交雑および育種に関する遺伝学的情報"
+    ],
+    "regional_data_coverage": "日本、特に沖縄に関する情報は比較的豊富だが、他の東アジア地域やフィリピンでの情報は乏しい。",
+    "missing_information": [
+      "世界的な生産統計",
+      "詳細な栄養成分データ",
+      "栽培マニュアル"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

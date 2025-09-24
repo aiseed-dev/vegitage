@@ -1,0 +1,661 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、民族植物学研究、農学研究論文からの情報を統合。野生近縁種との正確な遺伝的関係については研究が進行中。"
+    },
+    "primary_name": "Maca",
+    "scientific_name": "Lepidium meyenii",
+    "plant_type": "二年草",
+    "edible_parts": [
+      "根",
+      "葉"
+    ],
+    "origin_region": "南米アンデス中央高地（ペルー、ボリビア）",
+    "wild_relatives": [
+      "Lepidium bipinnatifidum",
+      "Lepidium chichicara",
+      "Lepidium gelidum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な商標名と、原産地での先住民言語・公用語名を網羅。"
+    },
+    "international": {
+      "en": [
+        "Maca",
+        "Peruvian ginseng"
+      ],
+      "scientific_common": "Maca"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Maca",
+            "script": "Latn"
+          },
+          {
+            "lang": "qu",
+            "name": "Maca",
+            "script": "Latn"
+          },
+          {
+            "lang": "ay",
+            "name": "Maka",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アンデス高地のケチュア語話者コミュニティ",
+        "name": "Maca",
+        "cultural_significance": "滋養強壮、豊穣、高地適応を象徴する神聖な食物・薬草。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Brassicaceae",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Pepperweed",
+      "la": "Lepidium"
+    },
+    "species": {
+      "en": "Maca",
+      "la": "Lepidium meyenii"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Ecotype",
+        "name": "Yellow Maca"
+      },
+      {
+        "rank": "Ecotype",
+        "name": "Red Maca"
+      },
+      {
+        "rank": "Ecotype",
+        "name": "Black Maca"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学的研究および歴史的記録に基づく。近年、スーパーフードとしてグローバルな文化的価値が生まれている。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "アンデス中央高地",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "薬用",
+          "儀式用",
+          "経済作物",
+          "保存食"
+        ],
+        "traditional_uses": "滋養強壮、生殖能力向上、疲労回復、高山病予防のために伝統的に利用。乾燥マカは重要な交易品であり、保存食でもあった。インカ時代には戦士への報酬として与えられたとの伝承もある。",
+        "seasonal_significance": "収穫期には共同作業が行われ、コミュニティの結束を強める役割を持つ。収穫を祝う儀式も存在する。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米・ヨーロッパ・東アジア",
+        "importance_level": 2,
+        "cultural_roles": [
+          "健康食品",
+          "経済作物"
+        ],
+        "traditional_uses": "主にサプリメントとして、アダプトゲン（ストレス適応促進）、精力増強、ホルモンバランス調整などの目的で利用される。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "アンデス伝統料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Huatia de maca (土窯焼き)",
+          "Mazamorra de maca (プディング状の甘い料理)",
+          "Chicha de maca (発酵飲料)"
+        ],
+        "preparation_methods": [
+          "焼く",
+          "煮る",
+          "乾燥・製粉",
+          "発酵"
+        ],
+        "cultural_context": "日常食であると同時に、儀礼や祝いの席で供される特別な食材。特に乾燥マカは長期保存が可能で、食料安全保障に寄与してきた。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "考古学的証拠から、少なくとも2000年前から栽培・利用されていたとされる。",
+      "trade_routes": "アンデス高地と低地の間の交易で重要な品目であった。乾燥マカは塩やトウモロコシなどと交換された。",
+      "cultural_exchange": "スペイン植民地時代には、その価値から貢納品として徴収された記録がある。",
+      "domestication_history": "アンデス高地の過酷な環境下で、先住民によって数千年にわたり選択・栽培され、多様なエコタイプが成立した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "標高の高い冷涼な場所でのみ限定的に可能だが、品質が劣る可能性。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高3800-4500m、年平均気温3-7℃、強い日射、昼夜の寒暖差が大きい、霜に強い環境が最適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "アンデス高地",
+        "planting_season": "雨季の始まり（10月～12月）",
+        "harvest_season": "乾季（5月～7月）",
+        "growing_period_days": 240
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 15,000 kg/ha",
+      "factors_affecting_yield": [
+        "標高",
+        "土壌の質（特にミネラル）",
+        "降水量",
+        "霜の頻度と強度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ペルー",
+          "production_share": 80,
+          "characteristics": "原産地であり、伝統的な栽培法と多様なエコタイプが維持されている。フニン県が中心産地。"
+        },
+        {
+          "country": "中国",
+          "production_share": 15,
+          "characteristics": "雲南省などの高地で近年大規模生産が開始された。遺伝的背景や品質については議論がある。"
+        },
+        {
+          "country": "ボリビア",
+          "production_share": 5,
+          "characteristics": "ペルーに隣接する高地で伝統的に栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、エコタイプ（色）や産地による機能性成分の含有量の違いに関する研究はまだ途上。伝統的利用法は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "325",
+        "protein_g": "14.3",
+        "carbs_g": "71.4",
+        "fat_g": "2.2",
+        "fiber_g": "7.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "250 mg/100g",
+          "daily_value_percent": 25
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "14.8 mg/100g",
+          "daily_value_percent": 82
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "2000 mg/100g",
+          "daily_value_percent": 57
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "284 mg/100g",
+          "daily_value_percent": 473
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "マカミド類",
+        "concentration": "様々",
+        "health_effect": "性機能改善、神経保護作用などが示唆されている。"
+      },
+      {
+        "compound": "グルコシノレート類",
+        "concentration": "様々",
+        "health_effect": "抗がん作用、ホルモン様作用の可能性が研究されている。"
+      },
+      {
+        "compound": "アルカロイド",
+        "concentration": "微量",
+        "health_effect": "中枢神経系への作用が示唆されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アンデス地域",
+        "medical_system": "アンデス伝統医学",
+        "uses": [
+          "滋養強壮",
+          "男女の生殖能力向上",
+          "催淫作用",
+          "疲労回復",
+          "高地順応",
+          "貧血改善",
+          "月経不順の調整"
+        ],
+        "preparation": "生の根、焼いた根、乾燥粉末を水やお湯に溶かして摂取。またはスープやプディングとして調理。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "性欲および性機能の改善",
+        "更年期障害の症状緩和",
+        "運動能力の向上",
+        "学習・記憶能力の改善",
+        "前立腺肥大の抑制"
+      ],
+      "safety_considerations": "一般に安全とされるが、ホルモン感受性の疾患を持つ場合は注意が必要。甲状腺機能への影響も指摘されている。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アンデス地域の伝統的利用法はよく記録されているが、その他の地域ではサプリメントとしての利用が主で、料理への応用は限定的。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アンデス地域",
+        "methods": [
+          "焼く (Huatia)",
+          "煮る (Sopa, Mazamorra)",
+          "蒸す",
+          "発酵 (Chicha)"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ジャガイモ",
+          "キヌア",
+          "羊肉",
+          "アルパカ肉",
+          "ハーブ類"
+        ]
+      },
+      {
+        "region": "グローバル",
+        "methods": [
+          "粉末を飲料に混ぜる (スムージー, ジュース)",
+          "粉末を食品に加える (エナジーバー, シリアル, 焼き菓子)"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "フルーツ",
+          "ヨーグルト",
+          "カカオ",
+          "ナッツ類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日乾燥",
+        "regions": [
+          "アンデス地域"
+        ],
+        "shelf_life": "数年間",
+        "quality_changes": "水分が抜け、糖度が凝縮される。一部の酵素が活性化し、特有の風味と機能性が増すと考えられている。"
+      },
+      {
+        "method": "粉末化",
+        "regions": [
+          "グローバル"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "表面積が増えるため酸化しやすくなる。適切なパッケージングが必要。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "土のような、ナッツのような、バターのような風味。麦芽やカラメルに似た甘みとわずかな辛味を持つ。エコタイプにより風味が異なる。",
+      "aroma_compounds": [
+        "ピラジン類",
+        "硫黄化合物"
+      ],
+      "texture_characteristics": "生のものはカブに似て歯ごたえがある。調理すると柔らかく、デンプン質になる。粉末は滑らか。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "既存の過酷な環境への耐性は高いが、気候変動による環境変化への応答に関する定量的データは非常に少ない。将来予測は広域モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "3-11°C",
+      "extreme_heat_survival": "20°C以上で生育不良",
+      "cold_tolerance": "-10°Cまでの霜に耐える"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-800mm (年間)"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地中植物のため、強風には比較的強い）",
+      "hail_damage_recovery": "中（葉はダメージを受けるが、地下部が生存すれば回復可能）",
+      "rapid_temperature_change": "高（昼夜の寒暖差が大きい環境に適応）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（高地の強い紫外線に適応）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "脆弱（現在、高地のため病害虫圧は低いが、温暖化で低地の害虫が侵入するリスクがある）",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アンデス中央高地 (3800-4500m)",
+        "2050_projection": "現在の栽培地下限が上昇し、より標高の高いエリア(>4200m)に限定される可能性",
+        "2100_projection": "伝統的な栽培適地が大幅に縮小または消失するリスク",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "遺伝的多様性は高いことが知られているが、野生近縁種との自然交雑の実例やそのポテンシャルに関する具体的な研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "異なる色のエコタイプ（黄、赤、黒など）間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Lepidium bipinnatifidumなどの近縁野生種との交雑の可能性が示唆されているが、実証は不十分。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告はない"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。伝統的な農家は様々なエコタイプを混合して栽培しており、これが遺伝的多様性の維持に貢献している。",
+      "wild_gene_pool": "アンデス高地の野生Lepidium種が重要な遺伝子資源となりうるが、その活用は進んでいない。",
+      "adaptive_genetic_variation": "高地の低酸素、低温、強紫外線といった極限環境への適応に関連する遺伝子群が存在すると考えられる。",
+      "inbreeding_depression_risk": "低い（伝統的な混合栽培のため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス中央高地",
+        "environmental_pressure": "高標高、強い紫外線、霜、貧栄養土壌",
+        "adaptive_response": "胚軸の肥大化（栄養貯蔵）、二次代謝産物（グルコシノレート、アントシアニン等）の蓄積、低温耐性",
+        "time_scale": "数千年",
+        "mechanism": "長期間にわたる自然選択と人為選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐病性や異なる土壌への適応性が向上する可能性がある。",
+      "improved_nutritional_content": "エコタイプ間の交配により、特定の機能性成分を強化できる可能性がある。",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "高い可能性がある"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "霜害",
+        "adaptive_traits": "糖類蓄積による凝固点降下",
+        "heritability": "不明",
+        "response_to_selection": "高い耐霜性の獲得"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "マカ自体に関するリジェネラティブ農業の研究はほとんどない。評価はアブラナ科の一般的特性と伝統的なアンデス農法からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "直根性の塊根を形成し、土壌の特定の層から養分を吸収する。",
+      "organic_matter_contribution": "収穫後の葉の残渣が有機物として土壌に還元される。",
+      "soil_structure_improvement": "限定的",
+      "erosion_control": "伝統的な段々畑や畝立て栽培は土壌侵食を抑制する。",
+      "nutrient_cycling_role": "貧栄養土壌から効率的に養分を吸収する能力がある。特にミネラルの集積能力が高い。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は昆虫によって受粉されるため、地域の送粉者ネットワークに貢献する。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "アブラナ科植物として、特有の根圏微生物叢を形成する可能性がある。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "伝統的な栽培システムは水の浸透を助ける。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "高",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "中（塊根に炭素を蓄積）",
+      "soil_carbon_enhancement": "伝統的な休閑（輪作）システムの一部として、土壌炭素の維持に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "伝統的にジャガイモ、キヌア、カニャワなどと輪作される。"
+      ],
+      "natural_pest_control": "グルコシノレートの放出によるバイオフューミゲーション効果で、後作の作物の土壌病害を抑制する可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "可能性あり"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "アンデスの過酷な環境における伝統的農業生態系の重要な構成要素。",
+      "stress_tolerance": "高（特定のストレスに対して）",
+      "recovery_capacity": "中",
+      "adaptability": "中（遺伝的多様性による）"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康食品市場での動向、食品科学研究に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "必須アミノ酸、ビタミン、ミネラルを豊富に含む栄養価の高い植物性食品。",
+      "food_security_contribution": "過酷な環境で栽培可能な作物として、高冷地における食料安全保障に貢献するポテンシャルを持つ。",
+      "local_food_system_integration": "アンデス地域では地域経済と食文化に深く根付いている。",
+      "alternative_protein_potential": "限定的（タンパク質含有量は約14%）"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・飲料市場",
+        "スポーツ栄養市場",
+        "自然派化粧品（スキンケア）市場"
+      ],
+      "value_added_products": [
+        "濃縮エキス",
+        "ゼラチン化マカパウダー（消化吸収を高めたもの）",
+        "マカ入りエナジードリンク、チョコレート、スナックバー"
+      ],
+      "niche_market_value": "アダプトゲン、スーパーフードとしての高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物多様性保全機関やペルー政府の報告に基づくが、定量的な遺伝資源の減少データは限定的。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "中（気候変動による栽培適地の移動・縮小）",
+    "climate_change_vulnerability": "高",
+    "cultural_erosion_risk": "中（商業的単一栽培の拡大による伝統農法の衰退）",
+    "conservation_actions_needed": [
+      "多様なエコタイプの生息域内保全（In-situ conservation）の強化",
+      "国際的な種子バンクでの生息域外保全（Ex-situ conservation）",
+      "伝統知識の記録と継承支援",
+      "原産地名称保護（PDO）などによる地域ブランドの保護",
+      "バイオパイラシー（生物資源の盗賊行為）対策"
+    ],
+    "priority_conservation_regions": [
+      "ペルー・フニン県",
+      "ペルー・パスコ県",
+      "ボリビア・ラパス県高地"
+    ],
+    "ex_situ_conservation_status": "国際ポテトセンター（CIP）などで一部遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "ペルー政府や地域NGOによる保全プロジェクトが進行中。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた知見に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "ペルー・フニン県",
+      "ボリビア・アルティプラーノ高原",
+      "中国・雲南省（導入地域としての比較研究）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対するエコタイプ別の生理学的応答",
+      "野生近縁種との遺伝的関係と交配可能性",
+      "土壌微生物叢との相互作用とリジェネラティブ農業への貢献度",
+      "中国産マカとアンデス産マカの化学的・遺伝的比較"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "色の違いは主に胚軸の皮の色による。科学的な品種登録ではなく、伝統的な分類（エコタイプ）。"
+      },
+      "variety_name": "Yellow Maca",
+      "local_name": "Maca Amarilla",
+      "origin_region": "アンデス中央高地",
+      "distinctive_characteristics": "最も一般的なタイプ。エネルギー向上やホルモンバランスへの効果が期待される。甘みが強い。",
+      "cultural_importance": "日常的な消費に最も広く使われる。",
+      "climate_adaptation": "標準的なマカの適応性を持つ。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "色の違いは主に胚軸の皮の色による。科学的な品種登録ではなく、伝統的な分類（エコタイプ）。"
+      },
+      "variety_name": "Red Maca",
+      "local_name": "Maca Roja",
+      "origin_region": "アンデス中央高地",
+      "distinctive_characteristics": "抗酸化物質（アントシアニン）をより多く含むとされる。前立腺や骨密度への良い影響が研究されている。風味がマイルド。",
+      "cultural_importance": "女性の健康に関連して利用されることが多い。",
+      "climate_adaptation": "標準的なマカの適応性を持つ。",
+      "conservation_status": "やや希少"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "色の違いは主に胚軸の皮の色による。科学的な品種登録ではなく、伝統的な分類（エコタイプ）。"
+      },
+      "variety_name": "Black Maca",
+      "local_name": "Maca Negra",
+      "origin_region": "アンデス中央高地",
+      "distinctive_characteristics": "最も希少なタイプ。特に精力、持久力、記憶力への効果が高いとされる。甘みが強く、少し苦味がある。",
+      "cultural_importance": "男性の滋養強壮や儀式用として珍重される。",
+      "climate_adaptation": "標準的なマカの適応性を持つ。",
+      "conservation_status": "希少"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-24",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      "International Potato Center (CIP) publications",
+      "Journal of Ethnopharmacology",
+      "Economic Botany"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種（エコタイプ）レベルでの応答",
+      "野生近縁種との交雑による育種の可能性"
+    ],
+    "regional_data_coverage": "アンデス地域に集中。他の栽培地域（中国など）に関する学術的データは限定的。",
+    "missing_information": [
+      "水利用効率の定量的データ",
+      "CO2濃度変化への応答",
+      "詳細な染色体情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

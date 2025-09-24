@@ -1,0 +1,618 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information compiled from major botanical databases (Kew, GRIN), ethnobotanical studies, and agricultural research papers. Wild relative classification is well-established."
+    },
+    "primary_name": "Snake Gourd",
+    "scientific_name": "Trichosanthes cucumerina",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "葉",
+      "茎"
+    ],
+    "origin_region": "南アジアおよび東南アジア",
+    "wild_relatives": [
+      "Trichosanthes cucumerina var. cucumerina"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names gathered from multilingual ethnobotanical dictionaries and regional agricultural glossaries."
+    },
+    "international": {
+      "en": [
+        "Snake Gourd",
+        "Serpent Gourd",
+        "Chichinda"
+      ],
+      "scientific_common": "Snake Gourd"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "चिचिंडा",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "புடலங்காய்",
+            "script": "Tamil"
+          },
+          {
+            "lang": "bn",
+            "name": "চিচিঙ্গা",
+            "script": "Bengali"
+          },
+          {
+            "lang": "si",
+            "name": "පතෝල",
+            "script": "Sinhala"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Patola",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "บวบงู",
+            "script": "Thai"
+          },
+          {
+            "lang": "id",
+            "name": "Pare belut",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Boga nyoka",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic information based on the World Flora Online (WFO) and APG IV system."
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Trichosanthes",
+      "la": "Trichosanthes"
+    },
+    "species": {
+      "en": "Snake Gourd",
+      "la": "cucumerina"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "Trichosanthes cucumerina var. anguina"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information derived from anthropological studies on South Asian and Southeast Asian foodways."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "インド南部、スリランカではカレーや炒め物（ポリヤル、トーラン）の主材料として不可欠。アーユルヴェーダでは解熱、利尿、消化促進の薬効があるとされる。",
+        "seasonal_significance": "モンスーン期の重要な野菜として、食料の安定供給に貢献。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "家庭菜園"
+        ],
+        "traditional_uses": "フィリピンではスープ（ミソア）や炒め物に、タイではカレーの具材として利用される。家庭菜園で広く栽培される。",
+        "seasonal_significance": "雨季の食卓を豊かにする野菜。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "南インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Pudalangai Kootu",
+          "Pudalangai Poriyal"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "炒め物",
+          "詰め物"
+        ],
+        "cultural_context": "日常食であり、神事への供物としても利用されることがある。淡白な味わいがスパイスと調和し、カレー文化の基盤を支える。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代インドで栽培化されたと考えられており、サンスクリットの文献にも記載が見られる可能性がある。",
+      "trade_routes": "アジア域内の交易路を通じて東南アジアや東アフリカへ伝播した。",
+      "cultural_exchange": "インド文化圏の拡大と共に、その食文化の一部として周辺地域に定着した。",
+      "domestication_history": "野生種の苦味が強いTrichosanthes cucumerina var. cucumerinaから、苦味が少なく長大な果実を持つ栽培品種 Trichosanthes cucumerina var. anguinaが選抜された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿（25-35℃）、年間降水量1500-2500mm。明確な乾季のない地域が最適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない暖かい季節（夏）に栽培可能。十分な灌漑が必要。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため、商業栽培には不向き。温室栽培は可能。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "低温と霜に非常に弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため、灌漑なしでは栽培不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため生育不可。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "播種後2-3ヶ月から連続収穫",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000-25,000 kg/ha",
+      "factors_affecting_yield": [
+        "受粉（夜間に行われるため蛾などの送粉者が重要）",
+        "支柱の有無",
+        "土壌肥沃度",
+        "灌漑"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "世界最大の生産・消費国。国内市場向けに多様な在来種が栽培されている。"
+        },
+        {
+          "country": "スリランカ",
+          "production_share": null,
+          "characteristics": "主要な野菜の一つで、カレー文化に不可欠。"
+        },
+        {
+          "country": "フィリピン",
+          "production_share": null,
+          "characteristics": "家庭菜園から商業栽培まで広く行われている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価データは利用可能だが、品種や栽培条件による変動に関する研究は限定的。伝統医学での利用は広く記録されているが、科学的検証は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "18",
+        "protein_g": "0.6",
+        "carbs_g": "3.7",
+        "fat_g": "0.3",
+        "fiber_g": "0.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "25 mg",
+          "daily_value_percent": "28"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "26 mg",
+          "daily_value_percent": "2"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "20 mg",
+          "daily_value_percent": "5"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "カロテノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、視機能維持"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "解熱",
+          "利尿",
+          "去痰",
+          "消化不良改善"
+        ],
+        "preparation": "果実の搾り汁や煎じ薬として利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗糖尿病作用",
+        "抗炎症作用",
+        "抗菌作用"
+      ],
+      "safety_considerations": "一般的に安全とされるが、野生種にはククルビタシンという苦味・毒性成分が含まれる場合がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の料理書や食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "煮込み（カレー）",
+          "炒め物（ポリヤル）",
+          "詰め物（スタッフィング）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ココナッツ",
+          "豆類（ダール）",
+          "マスタードシード",
+          "ターメリック"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "スープ",
+          "炒め物"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "エビ",
+          "ひき肉",
+          "魚醤",
+          "ニンニク"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が変化し、風味が凝縮する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "非常に淡白で、わずかに青臭さと甘みがある。若い果実は苦味が少ない。",
+      "aroma_compounds": [
+        "ヘキサナール（青葉アルデヒド）"
+      ],
+      "texture_characteristics": "加熱すると非常に柔らかくなり、スポンジ状になる。皮は薄い。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する記述は定性的なものが主で、定量的な実験データは乏しい。将来予測は、類似の熱帯性ウリ科作物のモデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40℃以上では花落ちや生育不良が発生する可能性がある。",
+      "cold_tolerance": "5℃以下で深刻なダメージを受ける。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2500 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物であるため、強風による棚の倒壊や茎の損傷を受けやすい。",
+      "hail_damage_recovery": "葉や果実が傷つきやすいが、生育旺盛なため回復は比較的早い。",
+      "rapid_temperature_change": "急激な低温に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "他のC3植物と同様に、光合成効率が向上し、生育が促進される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、ウリミバエやアブラムシなどの害虫の発生期間が長期化するリスクがある。",
+      "disease_resistance_stability": "高温多湿環境でうどんこ病やべと病が発生しやすくなる可能性がある。",
+      "beneficial_organism_relationships": "夜間送粉者である蛾の生態系変化に影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯アジア、アフリカ",
+        "2050_projection": "現在の亜熱帯地域の栽培可能期間が延長し、一部温帯地域でも夏季栽培の可能性が広がる。一方で、極端な干ばつや降雨に見舞われる地域では栽培が不安定になる。",
+        "2100_projection": "不明",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種と野生種の遺伝的関係は明確だが、自然交雑の頻度や適応への貢献に関する定量的研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多様な地方在来種（ランドレース）間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Trichosanthes cucumerina var. cucumerina（野生種）と容易に交雑し、稔性のある子孫を生じる。"
+      ],
+      "intergeneric_possibility": [
+        "確認されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培地周辺で野生種との遺伝子流動が起こっている可能性が指摘されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "インドを中心に、果実の長さ、色、形状において高い在来品種の多様性が存在する。",
+      "wild_gene_pool": "野生種（T. cucumerina var. cucumerina）は、病害虫抵抗性や環境ストレス耐性の遺伝子供給源として非常に重要である。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "他家受精性であるため、自家受粉を繰り返すと近交弱勢が起こりやすい。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "野生種に含まれる機能性成分を導入できる可能性がある。",
+      "novel_characteristics": "果実の形状や食味の多様化。",
+      "hybrid_vigor_potential": "高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内および野生種との間には交雑障壁はほとんどない。",
+      "chromosome_compatibility": "高い。",
+      "fertility_of_hybrids": "高い。",
+      "backcrossing_success": "容易である。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "根系の発達、気孔の制御",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "直接的な研究は非常に少ない。評価はウリ科つる性植物の一般的な生態学的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的深い根系を持つ可能性があり、土壌の通気性を改善する。",
+      "organic_matter_contribution": "生育が旺盛で、収穫後の残渣は大量の有機物として土壌に還元される。",
+      "soil_structure_improvement": "不明",
+      "erosion_control": "地面を覆うように栽培した場合、葉が雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "土壌深層からの養分を吸収し、地上部に蓄積する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "夜間に開花する白く特徴的な花は、スズメガなどの夜行性の蛾を引き寄せる。",
+      "beneficial_insect_habitat": "大きな葉は、クモやテントウムシなどの天敵昆虫の隠れ家となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "多様な昆虫相を支える。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "葉による被覆が土壌表面の硬化を防ぎ、水の浸透を助ける可能性がある。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "生育期間中に大きなバイオマスを形成する。",
+      "below_ground_carbon": "不明。根のバイオマスによる炭素蓄積が期待される。",
+      "soil_carbon_enhancement": "残渣の鋤き込みにより土壌有機炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱として利用）、マメ科植物（窒素供給）、芳香性ハーブ（害虫忌避）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な生物を支えることで、生態系の安定に貢献する。",
+      "stress_tolerance": "熱帯気候への高い適応性を持つ。",
+      "recovery_capacity": "生育が早く、軽微なダメージからの回復力が高い。",
+      "adaptability": "遺伝的多様性が高く、地域適応のポテンシャルがある。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場動向や食品トレンドに関する分析に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーで水分が多く、ビタミンを含むため、健康的な植物性食品として価値がある。",
+      "food_security_contribution": "栽培が容易で収量も比較的多いため、熱帯地域の小規模農家の食料安全保障と収入向上に貢献する。",
+      "local_food_system_integration": "主に地域内で生産・消費されており、フードマイレージの削減に貢献する。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エスニック食材としての欧米市場",
+        "健康志向の消費者向けに伝統的な薬効を訴求"
+      ],
+      "value_added_products": [
+        "乾燥スライス",
+        "漬物",
+        "冷凍野菜"
+      ],
+      "niche_market_value": "アジア系移民コミュニティや、珍しい野菜を求めるレストラン向けに高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性に関する研究と、農業の近代化に関する一般的な知見に基づく評価。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生種の自生地である森林や河畔の減少が脅威となる。",
+    "climate_change_vulnerability": "水ストレスと極端気象に対する脆弱性が懸念される。",
+    "cultural_erosion_risk": "高。食生活のグローバル化により、伝統的な調理法や利用知識が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "多様な在来種の収集・評価・保存（ジーンバンク）",
+      "伝統的知識の記録と次世代への継承",
+      "野生種の生息域内保全"
+    ],
+    "priority_conservation_regions": [
+      "インド（特に西ガーツ山脈地域）",
+      "東南アジアの多様性中心地"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンク（World Vegetable Centerなど）で種子が保存されている。",
+    "in_situ_conservation_efforts": "小規模農家による伝統的な栽培が、事実上の域内保全として機能している。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本JSON全体の分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "南インド",
+      "スリランカ",
+      "フィリピン"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2濃度、干ばつ、高温）に対する品種レベルでの生理学的応答の定量的データ。",
+      "リジェネラティブ農業システムにおける具体的な効果（炭素隔離、水循環改善など）の測定。",
+      "伝統医学で利用される際の有効成分とその作用機序の科学的解明。"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名は学術的に確立されたものではなく、地域での通称や形態に基づく分類が多い。"
+      },
+      "variety_name": "CO-1",
+      "local_name": "CO-1",
+      "origin_region": "インド（タミル・ナードゥ農業大学）",
+      "distinctive_characteristics": "果実が長く（150-180cm）、中程度の太さ。収量性が高い改良品種。",
+      "cultural_importance": "商業栽培で広く利用される。",
+      "climate_adaptation": "地域の気候に適応しているが、在来種ほどのストレス耐性は不明。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "variety_name": "Short Green type",
+      "local_name": "不明（地域により様々）",
+      "origin_region": "南アジア各地",
+      "distinctive_characteristics": "果実が短く（30-60cm）、緑色が濃い。家庭菜園で好まれることが多い。",
+      "cultural_importance": "自家消費や地域市場向けの在来種。",
+      "climate_adaptation": "各地域の微気候に適応した多様な系統が存在する可能性が高い。",
+      "conservation_status": "遺伝子資源として重要だが、体系的な保全は不十分。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "PROSEA (Plant Resources of South-East Asia)",
+      "World Vegetable Center (AVRDC) databases",
+      "Ethnobotanical research papers on Asian agriculture"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生種の遺伝子資源の具体的な耐性評価"
+    ],
+    "regional_data_coverage": "南アジアと東南アジアに情報が集中しており、アフリカや他の地域に関するデータは限定的。",
+    "missing_information": [
+      "世界的な年間生産量の統計データ",
+      "先住民コミュニティ固有の利用法"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

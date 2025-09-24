@@ -1,0 +1,777 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Phaseolus vulgaris is one of the most well-studied food crops globally. Information is drawn from major agricultural and botanical databases (FAO, CIAT, Kew Gardens), and extensive academic literature. Data on wild relatives and their precise genetic contributions is an active area of research."
+    },
+    "primary_name": "Common Bean",
+    "scientific_name": "Phaseolus vulgaris",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "種子"
+    ],
+    "origin_region": "メソアメリカ及びアンデス地域",
+    "wild_relatives": [
+      "Phaseolus vulgaris var. aborigineus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are widely documented due to its global culinary importance. Indigenous names are sourced from ethnobotanical records."
+    },
+    "international": {
+      "en": [
+        "Common bean",
+        "Kidney bean",
+        "Pinto bean",
+        "Green bean",
+        "String bean",
+        "Haricot bean"
+      ],
+      "scientific_common": "Common Bean"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "frijol",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "poroto",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "feijão",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "haricot",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "fagiolo",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "judía",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Gartenbohne",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "インゲンマメ",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "菜豆",
+            "script": "Hans"
+          },
+          {
+            "lang": "ko",
+            "name": "강낭콩",
+            "script": "Hang"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "राजमा",
+            "script": "Deva"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "maharage",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ナワ族（メソアメリカ）",
+        "name": "etl",
+        "cultural_significance": "アステカ文明における主要なタンパク質源であり、トウモロコシ、カボチャと共に「三姉妹農法」の中核をなす神聖な作物。"
+      },
+      {
+        "community": "ケチュア族（アンデス）",
+        "name": "purutu",
+        "cultural_significance": "インカ帝国における重要な食料。多様な品種が高地環境に適応して栽培され、食料安全保障の基盤となっていた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Standard botanical classification based on APG IV system."
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Bean",
+      "la": "Phaseolus"
+    },
+    "species": {
+      "en": "Common bean",
+      "la": "vulgaris"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Gene Pool",
+        "name": "Mesoamerican"
+      },
+      {
+        "rank": "Gene Pool",
+        "name": "Andean"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural significance is deeply documented in anthropology, history, and culinary studies worldwide."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ラテンアメリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "文化的アイデンティティ"
+        ],
+        "traditional_uses": "メキシコのフリホーレス、ブラジルのフェジョアーダなど、国民食の主役。日常食として不可欠なタンパク質源。",
+        "seasonal_significance": "収穫期には地域で祭りが行われることもある。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "アフリカ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "東アフリカや南部アフリカで、トウモロコシやキャッサバと共に重要なカロリーおよびタンパク質源。",
+        "seasonal_significance": "乾季の間の重要な保存食料。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "イタリアのミネストローネやフランスのカスレなど、多くの伝統的な煮込み料理に不可欠な食材。",
+        "seasonal_significance": "夏にはサヤインゲン、冬には乾燥豆が利用される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "文化的アイデンティティ"
+        ],
+        "traditional_uses": "メキシコ料理、ケイジャン料理、南西部料理の基本食材。ベイクドビーンズは象徴的な料理。",
+        "seasonal_significance": "感謝祭などの祝祭料理でサヤインゲンが多用される。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "メキシコ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Frijoles Refritos",
+          "Sopa de Frijol"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "ペースト化"
+        ],
+        "cultural_context": "ほぼ全ての食事でトルティーヤと共に供される、国民の魂ともいえる食材。"
+      },
+      {
+        "cuisine": "ブラジル料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Feijoada"
+        ],
+        "preparation_methods": [
+          "煮込み"
+        ],
+        "cultural_context": "国民食フェジョアーダの中心食材。米との組み合わせ（Arroz com feijão）は日常食の基本。"
+      },
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Minestrone",
+          "Fagioli all'uccelletto"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "スープ"
+        ],
+        "cultural_context": "「貧者の肉」として、特にトスカーナ地方などで郷土料理に深く根付いている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "約8000年前にメソアメリカとアンデスで独立して栽培化された。",
+      "trade_routes": "16世紀のコロンブス交換により、ヨーロッパ、アフリカ、アジアへ急速に伝播し、世界の食料システムを大きく変えた。",
+      "cultural_exchange": "新大陸から旧大陸へ渡った最も成功した作物の一つであり、各地域の食文化と融合し、新たな伝統料理を生み出した。",
+      "domestication_history": "メソアメリカ（小型種子）とアンデス（大型種子）の2つの独立した遺伝子プールから栽培化されたことが遺伝学的研究で証明されている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や乾季など、過度な高温多湿を避けられる環境。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "主要な栽培地域の一つ。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の危険がない温暖な季節が最適。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "短い夏でも生育可能な早生品種が存在する。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑がなければ栽培は困難。ただし、近縁種のテパリービーンは乾燥に強い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "アンデス山脈など、高地に適応した在来種が多く存在する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": "60-120"
+      },
+      {
+        "climate_zone": "熱帯高地",
+        "planting_season": "ほぼ通年（雨季の開始時期に合わせることが多い）",
+        "harvest_season": "播種後3-4ヶ月",
+        "growing_period_days": "90-140"
+      }
+    ],
+    "productivity": {
+      "yield_range": "乾燥豆: 500 - 3,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "水ストレス",
+        "高温（特に開花期）",
+        "病害虫",
+        "土壌肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約2,700万トン（乾燥豆、2021年FAOSTAT）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": 23,
+          "characteristics": "国内消費が主。多様な豆類生産の一部。"
+        },
+        {
+          "country": "ミャンマー",
+          "production_share": 12,
+          "characteristics": "主要な輸出国。"
+        },
+        {
+          "country": "ブラジル",
+          "production_share": 11,
+          "characteristics": "国内消費が非常に多く、国民食の基盤。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栄養成分は広く分析されている。機能性成分に関する研究も豊富だが、品種や調理法による差異が大きい。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "330-350 (乾燥豆)",
+        "protein_g": "20-25",
+        "carbs_g": "60-65",
+        "fat_g": "1-2",
+        "fiber_g": "15-25"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸",
+          "amount": "高",
+          "daily_value_percent": 90
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "高",
+          "daily_value_percent": 45
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "高",
+          "daily_value_percent": 40
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "高",
+          "daily_value_percent": 35
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フィトヘマグルチニン（レクチン）",
+        "concentration": "生豆に高濃度",
+        "health_effect": "毒性。赤血球を凝集させる作用があるため、必ず十分に加熱調理する必要がある。"
+      },
+      {
+        "compound": "フェノール類（フラボノイド、タンニン）",
+        "concentration": "種皮（特に色の濃い品種）に多い",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "利尿作用",
+          "血糖値降下"
+        ],
+        "preparation": "乾燥した豆のサヤを煎じて飲む。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖コントロール改善（低GI食品）",
+        "心血管疾患リスク低減",
+        "腸内環境改善（豊富な食物繊維による）"
+      ],
+      "ongoing_research": [
+        "特定品種の抗酸化物質によるがん予防効果",
+        "腸内細菌叢への影響"
+      ],
+      "safety_considerations": "生の豆や加熱不十分な豆に含まれるレクチン（フィトヘマグルチニン）は有毒であり、深刻な食中毒を引き起こす。必ず沸騰状態で十分に加熱すること。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理で利用されており、調理法は極めて多様で詳細に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ラテンアメリカ",
+        "methods": [
+          "煮込み",
+          "炒め煮（リフライド）",
+          "スープ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "トウモロコシ",
+          "タマネギ",
+          "ニンニク",
+          "唐辛子",
+          "コリアンダー"
+        ]
+      },
+      {
+        "region": "ヨーロッパ・地中海",
+        "methods": [
+          "煮込み（カスレ、ミネストローネ）",
+          "サラダ",
+          "ソテー"
+        ],
+        "flavor_role": "主味/副味",
+        "typical_combinations": [
+          "トマト",
+          "ハーブ（セージ、ローズマリー）",
+          "オリーブオイル",
+          "豚肉"
+        ]
+      },
+      {
+        "region": "アジア",
+        "methods": [
+          "炒め物（サヤインゲン）",
+          "煮物",
+          "甘く煮て菓子（餡）にする"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "生姜",
+          "ニンニク",
+          "ごま油"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "長期間保存すると硬化し、調理時間が長くなる。"
+      },
+      {
+        "method": "缶詰",
+        "regions": [
+          "全世界（特に北米、ヨーロッパ）"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "食感が柔らかくなる。すぐに調理に使える利便性がある。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "主にサヤインゲンに用いられる。鮮やかな色と食感を比較的保つことができる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "品種により多様。クリーミー、ナッツ様、土の香り、甘みなど。デンプン質で満足感がある。",
+      "aroma_compounds": [
+        "ピラジン類（青臭さ、ナッツ香）",
+        "硫黄化合物"
+      ],
+      "texture_characteristics": "調理後は柔らかく、ホクホクしたものから、クリーミーで滑らかなものまで様々。種皮の食感も重要。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な商業品種の耐性に関する研究は多いが、膨大な数の在来種のデータは限定的。将来予測は広域モデルに基づくもので、地域や品種レベルの精度には限界がある。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低/中",
+      "optimal_temperature_range": "18-25°C",
+      "extreme_heat_survival": "30°C以上、特に開花期に受粉障害や落花を引き起こし、収量が激減する。",
+      "cold_tolerance": "霜に非常に弱い。5°C以下で生育が著しく阻害される。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低/中",
+      "water_use_efficiency": "中程度。ただし、乾燥に強い遺伝子資源（近縁種テパリービーンなど）が存在する。",
+      "flood_tolerance": "低。湛水状態に非常に弱く、根腐れを起こしやすい。",
+      "optimal_rainfall": "600-800mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性品種は支柱があれば比較的強いが、ブッシュ性品種は倒伏しやすい。",
+      "hail_damage_recovery": "低い。葉や茎、サヤへの物理的ダメージは収量に直結する。",
+      "rapid_temperature_change": "適応力は低い。特に開花期の高温や低温は収量に致命的。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "あり（C3植物）。ただし、高温や水ストレスが同時に発生すると効果は相殺される。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンに感受性のある品種が報告されている。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により害虫（アブラムシ、ヨコバイなど）の発生期間が長期化し、ウイルス病の媒介リスクが増大する。",
+      "disease_resistance_stability": "高温多湿は炭疽病やさび病などの真菌性疾患の発生を助長する。抵抗性品種の開発が追いつかない可能性がある。",
+      "beneficial_organism_relationships": "根粒菌との共生は高温で阻害される可能性が指摘されている。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "中南米、アフリカ、アジアの温帯・亜熱帯地域",
+        "2050_projection": "現在の主要生産地、特に低緯度地域で熱ストレスによる収量低下が深刻化。栽培適地はより高緯度・高地へシフトする可能性がある。",
+        "2100_projection": "RCP8.5シナリオでは、多くの現在の主要産地で安定生産が困難になる可能性が高い。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "育種学の分野で交雑和合性に関する研究が豊富に蓄積されている。自然交雑の頻度は低いが、遺伝子移入の可能性は存在する。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": "全てのPhaseolus vulgaris品種間で容易に交雑可能。",
+      "interspecific_compatibility": "P. coccineus (ベニバナインゲン)や P. acutifolius (テパリービーン)との種間交雑が可能だが、胚珠救出などの技術が必要な場合がある。耐乾性や耐病性などの有用遺伝子導入に利用される。",
+      "intergeneric_possibility": "非常に困難、または不可能。",
+      "successful_natural_hybrids": "栽培圃場において、近接して栽培された異なる品種間での自然交雑が稀に報告される。"
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。メソアメリカとアンデスの二大遺伝子プールに由来する数千の在来種が存在し、色、形、大きさ、生育特性が極めて多様。",
+      "wild_gene_pool": "野生祖先種 (P. vulgaris var. aborigineus) が遺伝的多様性の重要なリザーバーとなっている。",
+      "adaptive_genetic_variation": "高地、低地、湿潤、乾燥など、多様な環境に適応した遺伝的変異が在来種内に豊富に存在する。",
+      "inbreeding_depression_risk": "主に自殖性のため、通常は問題にならないが、遺伝的多様性が失われた集団ではリスクが高まる。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス高地",
+        "environmental_pressure": "低温、強い紫外線、短い生育期間",
+        "adaptive_response": "早生性、低温での発芽能力、濃い種皮色（アントシアニンによる紫外線防御）を持つ品種群が分化。",
+        "time_scale": "数千年",
+        "mechanism": "地域農家による長年の選抜と、環境圧による自然選択。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "テパリービーンなどとの交雑により、耐乾性や耐暑性を向上させる大きな可能性がある。",
+      "improved_nutritional_content": "他のPhaseolus種との交雑により、鉄や亜鉛などの微量栄養素含有量を高める育種が進められている。",
+      "novel_characteristics": "種皮の色や模様、調理特性など、新しい特性の導入が可能。",
+      "hybrid_vigor_potential": "遺伝的に離れた遺伝子プール間（例：メソアメリカ×アンデス）の交配で雑種強勢が見られることがある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑では、受精後の胚発生が失敗することが主な障壁となる。",
+      "chromosome_compatibility": "Phaseolus属内では染色体数は比較的安定している (2n=22)。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "有用遺伝子を導入するために戻し交配が広く用いられており、成功率は高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫",
+        "adaptive_traits": "特定の病害に対する抵抗性遺伝子",
+        "heritability": "高い（多くは単一遺伝子または少数遺伝子に支配される）",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "マメ科作物としての窒素固定能力は教科書的な知識であり、三姉妹農法のような伝統的混植システムにおける役割も広く研究されている。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根と多くの側根からなる根系。根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物の良い供給源となる。",
+      "soil_structure_improvement": "根の活動が土壌の団粒構造を促進する。",
+      "erosion_control": "ブッシュ性品種は地表を覆い、土壌侵食を軽減する。",
+      "nutrient_cycling_role": "窒素固定により、化学肥料への依存を低減し、持続可能な栄養循環に貢献する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫に蜜や花粉を提供する。",
+      "beneficial_insect_habitat": "テントウムシなどの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "根粒菌や菌根菌など、多様な土壌微生物との共生関係を構築する。",
+      "above_ground_biodiversity": "混植システムにおいて、他の作物や生物のための多様なニッチを提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の活動により土壌の孔隙性が改善され、水の浸透が促進される。",
+      "moisture_retention": "地上部の被覆が土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "地表被覆により、降雨時の表面流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "根系と根粒を通じて炭素を土壌に供給する。",
+      "soil_carbon_enhancement": "窒素固定による植物成長促進と残渣分解を通じて、土壌炭素貯留に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱）、カボチャ（雑草抑制・保湿）との混植（三姉妹農法）が最も有名。"
+      ],
+      "natural_pest_control": "特定のコンパニオンプランツ（マリーゴールドなど）と共に植えることで、線虫などの害虫を抑制できる。",
+      "nutrient_sharing": "トウモロコシなどの窒素を多く必要とする作物に、固定した窒素を供給する。",
+      "allelopathic_interactions": "限定的。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物との混植により、農業生態系の安定性を高める。",
+      "stress_tolerance": "窒素固定能力により、低肥沃度土壌でも一定の生産が可能。",
+      "recovery_capacity": "一年草であるため、災害後の迅速な食料生産再開に貢献できる。",
+      "adaptability": "多様な品種が存在するため、様々な環境に適応したシステムを設計可能。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食料システムにおけるインゲンマメの役割は、栄養学、農業経済学、食品科学の分野で広く議論されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "動物性タンパク質に代わる、持続可能で安価な高品質タンパク質源として非常に重要。",
+      "food_security_contribution": "世界中の小規模農家にとって、自家消費と収入源の両方を提供する重要な作物。",
+      "local_food_system_integration": "家庭菜園でも容易に栽培でき、地域の食料自給率向上に貢献する。",
+      "alternative_protein_potential": "植物性ミルク、パスタ、スナックなど、新しい食品への加工原料としての可能性が高い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによる植物性タンパク質市場の拡大",
+        "特定の栄養機能（高鉄分など）を強化したバイオフォーティフィケーション品種"
+      ],
+      "value_added_products": [
+        "調理済み缶詰・レトルト食品",
+        "豆粉",
+        "プロテインパウダー",
+        "植物性代替肉"
+      ],
+      "niche_market_value": "特定の在来種や伝統品種が、そのユニークな風味や物語性から高級食材として取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的浸食のリスクは広く認識されているが、各種在来種の保全状況に関する網羅的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種の生息地である中南米の山岳森林地帯は、開発や気候変動の脅威に晒されている。",
+    "climate_change_vulnerability": "栽培品種、特に商業品種は気候変動に脆弱であり、適応能力を持つ在来種の保全が急務。",
+    "cultural_erosion_risk": "伝統的な食文化や農法が失われることで、それに結びついた在来種の栽培も放棄されるリスクがある。",
+    "conservation_actions_needed": [
+      "ジーンバンク（種子銀行）での体系的な収集・保存（ex-situ）",
+      "在来種を栽培し続ける農家への支援（in-situ/on-farm）",
+      "参加型育種プログラムの推進"
+    ],
+    "priority_conservation_regions": [
+      "メソアメリカ（メキシコ、グアテマラなど）",
+      "アンデス山脈（ペルー、ボリビア、エクアドルなど）"
+    ],
+    "ex_situ_conservation_status": "国際熱帯農業センター（CIAT）などに世界最大級のジーンバンクがあり、数万点の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "各地のNGOや地域コミュニティによる在来種の種子交換会や保全活動が行われているが、規模は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価は、本種の生物学的、文化的、経済的重要性に基づき、専門家の視点から行う。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 10,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "アンデス高地の在来種群の気候耐性メカニズム研究",
+      "アフリカにおける地域適応品種の遺伝的特性評価"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に複合ストレス）に対する数千の在来種の応答に関する定量的データ",
+      "リジェネラティブ農業システムにおける炭素隔離能力の正確な測定"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な品種は世界中で知られており、情報が豊富である。"
+      },
+      "variety_name": "Kidney Bean (レッドキドニー)",
+      "local_name": "Rajma (ヒンディー語)",
+      "origin_region": "メソアメリカ（遺伝的背景）",
+      "distinctive_characteristics": "腎臓の形をした大きな赤い豆。調理しても形が崩れにくく、クリーミーな食感。",
+      "cultural_importance": "北インドのラージマー・チャーワル、アメリカ南部のチリコンカンやレッドビーンズ＆ライスに不可欠。",
+      "climate_adaptation": "標準的なインゲンマメと同様、高温や乾燥に比較的弱い。",
+      "conservation_status": "商業的に広く栽培され、保全上の懸念は低い。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な品種は世界中で知られており、情報が豊富である。"
+      },
+      "variety_name": "Pinto Bean (ピントビーン)",
+      "local_name": "Frijol pinto (スペイン語)",
+      "origin_region": "メソアメリカ",
+      "distinctive_characteristics": "ベージュ色に茶色の斑点があるのが特徴（調理すると色は均一になる）。土の香りが豊かで、リフライドビーンズに最適。",
+      "cultural_importance": "メキシコとアメリカ南西部で最も消費される豆。ブリトーや煮込み料理の定番。",
+      "climate_adaptation": "乾燥に比較的強い品種も存在するが、基本的には標準的なインゲンマメと同様。",
+      "conservation_status": "商業的に広く栽培され、保全上の懸念は低い。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な品種は世界中で知られており、情報が豊富である。"
+      },
+      "variety_name": "Haricot Vert (サヤインゲン)",
+      "local_name": "Haricot vert (フランス語)",
+      "origin_region": "ヨーロッパでの品種改良",
+      "distinctive_characteristics": "未熟なサヤを食べる品種。細く、柔らかく、繊細な風味が特徴。",
+      "cultural_importance": "フランス料理をはじめとする西洋料理で、温野菜やサラダとして広く利用される。",
+      "climate_adaptation": "生育期間が短いが、高温や病害虫に弱い。",
+      "conservation_status": "多数の商業品種が存在し、保全上の懸念は低い。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "CIAT Genebank",
+      "Royal Botanic Gardens, Kew",
+      "Academic journals in Agronomy, Plant Breeding, and Anthropology"
+    ],
+    "major_knowledge_gaps": [
+      "在来品種の気候変動（特に複合ストレス）に対する定量的応答データ",
+      "伝統的農法における生態系サービス機能の定量的評価"
+    ],
+    "regional_data_coverage": "ラテンアメリカと北米に関するデータは豊富だが、アフリカやアジアの在来種に関する体系的データは比較的少ない。",
+    "missing_information": [
+      "多くの在来種の具体的な機能性成分プロファイル",
+      "野生近縁種との自然交雑の頻度と遺伝子流動の実態"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

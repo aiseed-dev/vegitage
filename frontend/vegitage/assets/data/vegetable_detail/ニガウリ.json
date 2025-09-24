@@ -1,0 +1,762 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(KEW, GBIF)、農業研究機関の報告、民族植物学の文献から情報を統合。データは豊富に存在する。"
+    },
+    "primary_name": "Bitter Melon",
+    "scientific_name": "Momordica charantia",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "葉",
+      "茎",
+      "種子"
+    ],
+    "origin_region": "旧世界熱帯（アフリカ東部または南アジアが有力）",
+    "wild_relatives": [
+      "Momordica charantia var. abbreviata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の言語における名称は多数記録されている。特にアジア圏での多様性が顕著。"
+    },
+    "international": {
+      "en": [
+        "Bitter Melon",
+        "Bitter Gourd",
+        "Balsam Pear",
+        "Bitter Cucumber"
+      ],
+      "scientific_common": "Charantia"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ニガウリ, ゴーヤー",
+            "script": "Katakana, Hiragana"
+          },
+          {
+            "lang": "zh",
+            "name": "苦瓜",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "여주",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Ampalaya",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Khổ qua",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "มะระขี้นก",
+            "script": "Thai"
+          },
+          {
+            "lang": "ms",
+            "name": "Peria Katak",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "करेला",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "பாகற்காய்",
+            "script": "Tamil"
+          },
+          {
+            "lang": "bn",
+            "name": "করলা",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Cundeamor",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Melão-de-são-caetano",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "フィリピンの多様な民族グループ",
+        "name": "Ampalaya",
+        "cultural_significance": "多くの地域言語に深く根付いており、単なる外来語ではなく、地域の食文化と民間医療の重要な一部となっている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Momordica",
+      "la": "Momordica"
+    },
+    "species": {
+      "en": "Bitter Melon",
+      "la": "charantia"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "charantia"
+      },
+      {
+        "rank": "var.",
+        "name": "muricata"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、食文化史、地域研究に関する文献が豊富。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "アーユルヴェーダ医学で血糖値管理、血液浄化、皮膚疾患治療に不可欠な薬草として利用。日常の食事にも頻繁に登場。",
+        "seasonal_significance": "夏の暑さを乗り切るための健康野菜として重視される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "主食の一部",
+          "薬用"
+        ],
+        "traditional_uses": "フィリピンのピナクベットなど、地域の代表的な煮込み料理に不可欠な食材。スープや炒め物にも広く使われる。",
+        "seasonal_significance": "雨季の重要な野菜源。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "沖縄では「ゴーヤー」として長寿食文化の象徴。炒め物（チャンプルー）が有名。漢方では清熱解毒作用があるとされる。",
+        "seasonal_significance": "夏バテ防止の食材として夏季に多用される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "沖縄料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ゴーヤーチャンプルー"
+        ],
+        "preparation_methods": [
+          "炒める"
+        ],
+        "cultural_context": "沖縄の長寿と健康を象徴する食材。夏の暑さを乗り切るための「ヌチグスイ（命の薬）」として位置づけられる。"
+      },
+      {
+        "cuisine": "南インド料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Pavakkai Fry (炒め物)",
+          "Stuffed Karela (詰め物)"
+        ],
+        "preparation_methods": [
+          "揚げる",
+          "炒める",
+          "詰める"
+        ],
+        "cultural_context": "苦味が健康に良いとされ、特に糖尿病管理の食事療法で積極的に摂取される。苦味をスパイスで和らげる調理法が発達。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代インドやアフリカで薬用・食用として利用されていた記録がある。",
+      "trade_routes": "14世紀頃に中国に伝播。大航海時代以降、海上交易路を通じて東南アジア、カリブ海、南米へと拡散した。",
+      "cultural_exchange": "アフリカから奴隷貿易を通じてカリブ海地域に持ち込まれ、現地の食文化と融合した。",
+      "domestication_history": "南アジアまたは東南アジアで栽培化が進み、多様な品種が生まれたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿。年間を通じて栽培可能。日照時間が長く、平均気温25-35℃が最適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない季節に栽培可能。夏が主な栽培シーズンとなる。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏季限定の一年草として栽培可能。ビニールハウスを利用することで栽培期間を延長できる。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、夏の高温も不足しがち。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑設備がなければ栽培は困難。強い乾燥と高温は生育を阻害する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため栽培は不可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "通年",
+        "growing_period_days": 50
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（4-5月）",
+        "harvest_season": "夏から初秋（7-9月）",
+        "growing_period_days": 60
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000-25,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "気候条件（日照、温度）",
+        "土壌肥沃度",
+        "受粉の成功率",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "世界最大の生産国。国内消費が主。多様な品種が栽培されている。"
+        },
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "世界第2位の生産国。国内での消費、薬用利用が盛ん。"
+        },
+        {
+          "country": "フィリピン",
+          "production_share": null,
+          "characteristics": "東南アジアの主要生産国の一つ。国民食として広く栽培・消費される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、品種や栽培条件による変動が大きい。機能性成分に関する研究は多いが、多くは臨床試験以前の段階。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "17",
+        "protein_g": "1.0",
+        "carbs_g": "3.7",
+        "fat_g": "0.2",
+        "fiber_g": "2.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "84 mg",
+          "daily_value_percent": 93
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "471 IU",
+          "daily_value_percent": 10
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "72 mcg",
+          "daily_value_percent": 18
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "296 mg",
+          "daily_value_percent": 6
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "チャランチン",
+        "concentration": "可変",
+        "health_effect": "血糖降下作用"
+      },
+      {
+        "compound": "ポリペプチド-p（植物インスリン）",
+        "concentration": "可変",
+        "health_effect": "インスリン様作用による血糖降下"
+      },
+      {
+        "compound": "ビシン",
+        "concentration": "可変",
+        "health_effect": "血糖降下作用、過剰摂取でファビズム（溶血性貧血）のリスク"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "糖尿病管理",
+          "血液浄化",
+          "皮膚疾患",
+          "消化促進"
+        ],
+        "preparation": "ジュース、乾燥粉末、煎じ薬"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "清熱解毒",
+          "明目（視力改善）",
+          "解暑"
+        ],
+        "preparation": "スープ、お茶"
+      },
+      {
+        "region": "カリブ海",
+        "medical_system": "民間療法",
+        "uses": [
+          "高血圧",
+          "糖尿病",
+          "駆虫",
+          "解熱"
+        ],
+        "preparation": "葉の煎じ薬、果実のジュース"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖降下作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "抗ウイルス作用（HIVなど）",
+        "抗肥満作用"
+      ],
+      "safety_considerations": "過剰摂取は腹痛や下痢を引き起こす可能性がある。G6PD欠損症の患者はファビズムのリスクがある。妊婦の使用は避けるべきとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究で多様な調理法が記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アジア全域",
+        "methods": [
+          "炒める",
+          "煮込む",
+          "揚げる",
+          "詰める",
+          "スープ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豚肉",
+          "卵",
+          "豆腐",
+          "エビ",
+          "ココナッツミルク",
+          "タマリンド"
+        ]
+      },
+      {
+        "region": "カリブ海",
+        "methods": [
+          "炒める",
+          "蒸す"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "塩漬け魚",
+          "タマネギ",
+          "トマト",
+          "ニンニク"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・粉末化",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "薬効成分が凝縮される。風味は大きく変化する。"
+      },
+      {
+        "method": "塩漬け・ピクルス",
+        "regions": [
+          "東南アジア",
+          "南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "苦味が緩和され、酸味と塩味が加わる。食感が変化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い苦味が特徴。品種によっては青々しい爽やかさや、かすかな甘みを伴う。",
+      "aroma_compounds": [
+        "モモルデシン類（苦味成分）"
+      ],
+      "texture_characteristics": "生ではシャキシャキとした歯ごたえ。加熱すると柔らかくなるが、一定の歯ごたえは残る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動への直接的な応答に関する定量的研究は非常に少ない。評価は、現在の栽培適地の気候特性からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40℃以上でも短期間なら耐えるが、受粉や着果に影響が出る。",
+      "cold_tolerance": "5℃以下で生育停止、霜で枯死。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1000-2000 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物のため強風に弱く、支柱が倒壊するリスクがある。",
+      "hail_damage_recovery": "葉や果実が傷つきやすいが、生育が旺盛なため回復は比較的早い。",
+      "rapid_temperature_change": "急激な低温に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "多くのC3植物同様、CO2濃度上昇により光合成が促進される可能性があるが、実証データはない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、ミバエ類やアザミウマ類の発生時期や地域が拡大するリスクがある。",
+      "disease_resistance_stability": "高温多湿環境下で、うどんこ病やウイルス病の発生が増加する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯地域",
+        "2050_projection": "温帯地域での夏季栽培可能期間が延長。現在の主産地では熱ストレスと干ばつのリスクが増大。",
+        "2100_projection": "栽培適地がさらに高緯度へ移動する可能性がある。赤道付近では栽培困難な地域が出現する恐れ。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培品種間の交雑は容易。野生種との交雑に関する情報は遺伝学や育種学の文献に限られる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種間での交雑は非常に容易で、自然受粉でも起こる。"
+      ],
+      "interspecific_compatibility": [
+        "他のMomordica属の種との交雑は困難だが、育種目的で試みられている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培品種と野生変種（var. abbreviata）間での自然交雑が起こりうる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジア、アフリカに形状、大きさ、苦味の強さが異なる多様な在来品種が存在する。",
+      "wild_gene_pool": "野生変種は、病害虫抵抗性や環境ストレス耐性の遺伝子供給源として重要。",
+      "adaptive_genetic_variation": "地域ごとに異なる環境に適応した遺伝的変異が豊富に存在する。",
+      "inbreeding_depression_risk": "自家受粉も可能だが、他家受粉が主であり、近交弱勢のリスクは比較的小さい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "南アジアの乾燥地帯",
+        "environmental_pressure": "水不足、高い病害虫圧",
+        "adaptive_response": "小型で苦味の強い果実、深い根系、高いククルビタシン含有量による耐虫性",
+        "time_scale": "数世紀",
+        "mechanism": "地域農家による世代を超えた選抜と自然選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "特定の機能性成分（抗酸化物質など）を増加させる可能性がある。",
+      "novel_characteristics": "苦味の少ない品種や、特定の調理法に適した形状の品種作出が可能。",
+      "hybrid_vigor_potential": "異なる系統間の交雑により、収量性や生育の旺盛さが増す雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑では受精後の胚発生が失敗するなどの障壁がある。",
+      "chromosome_compatibility": "種内では問題ないが、種間では染色体数や構造の違いが問題となることがある。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することが多い。",
+      "backcrossing_success": "有用遺伝子を栽培品種に導入するための戻し交配は、育種プログラムで一般的に行われる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫、干ばつ、地域の食文化（苦味の嗜好）",
+        "adaptive_traits": "苦味成分の量、果実の大きさ、早熟性、蔓の強健さ",
+        "heritability": "果実の形質（色、形、大きさ）は遺伝率が高い。",
+        "response_to_selection": "選抜に対する応答は良好で、多様な品種が作出されてきた歴史がある。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ニガウリをリジェネラティブ農業の文脈で評価した研究はほぼ存在しない。評価は、つる性ウリ科植物の一般的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根と多数の側根からなる根系を持つ。土壌を固持する効果がある。",
+      "organic_matter_contribution": "収穫後の残渣（茎、葉）は分解が早く、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "根の伸長が土壌の団粒構造形成を助ける可能性がある。",
+      "erosion_control": "地面を覆うように栽培することで、雨滴による土壌侵食を軽減できる。",
+      "nutrient_cycling_role": "特になし。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "黄色い花はミツバチなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "密な葉は、クモやテントウムシなどの天敵昆虫の隠れ家となる。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用に関する具体的なデータは少ない。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "葉が地面を覆うことで土壌の乾燥を防ぎ、水の浸透を助ける。",
+      "moisture_retention": "地表マルチと同様の効果で土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "一年草のため、永続的な炭素固定は限定的。",
+      "below_ground_carbon": "根のバイオマスは比較的小さいが、毎年の栽培で土壌炭素の供給源となる。",
+      "soil_carbon_enhancement": "不耕起栽培やカバークロップとの組み合わせで土壌炭素貯留に貢献可能。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱として利用）、マメ科植物（窒素供給）、ハーブ類（害虫忌避）"
+      ],
+      "natural_pest_control": "特定の害虫を忌避する効果は報告されていないが、多様な植生が天敵を呼び込む。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多品目栽培システムに組み込むことで、生態系の安定性に貢献する。",
+      "stress_tolerance": "高温には強いが、水ストレスや病害虫には中程度の耐性。",
+      "recovery_capacity": "生育が旺盛なため、軽微なダメージからの回復力は高い。",
+      "adaptability": "多様な品種が存在するため、地域の環境に適した品種選択が可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康食品市場、植物性食品トレンドに関する市場調査レポートや学術論文が多数存在する。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーでビタミン・ミネラルが豊富なため、健康的な植物性食生活に貢献。",
+      "food_security_contribution": "熱帯・亜熱帯地域の小規模農家にとって重要な収入源および食料源。",
+      "local_food_system_integration": "地産地消に適しており、地域の食料システムを強化する。",
+      "alternative_protein_potential": "タンパク質源ではないが、食事全体の栄養バランスを向上させる。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高い消費者層向けのスーパーフードとしての市場",
+        "アジア系移民が多い欧米市場",
+        "血糖値管理を目的とした機能性食品・サプリメント市場"
+      ],
+      "value_added_products": [
+        "乾燥粉末",
+        "カプセル・錠剤",
+        "健康茶",
+        "ジュース",
+        "ピクルス"
+      ],
+      "niche_market_value": "その独特の苦味と健康効果から、代替の効かないニッチな価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは指摘されているが、具体的な保全状況に関するデータは地域によってばらつきがある。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の自生地は、開発による生息地の喪失脅威に晒されている。",
+    "climate_change_vulnerability": "栽培適地の変化や極端気象により、特定の地域に特化した在来品種が脅威に晒される可能性がある。",
+    "cultural_erosion_risk": "食生活のグローバル化により、伝統的な調理法や薬用利用の知識が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来品種のジーンバンクでの種子保存（域外保全）",
+      "農家による種子の自家採種と栽培の継続支援（域内保全）",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "インド北東部",
+      "東南アジア大陸部",
+      "中国南部"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンク（World Vegetable Centerなど）で多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域で、コミュニティベースのシードバンクや在来種保全プロジェクトが実施されているが、大規模ではない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた多角的な情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "アフリカ（原産地候補であり、未調査の遺伝資源が多いため）",
+      "南米・カリブ海地域（独自の適応と利用法の研究）"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオ（特に干ばつと豪雨）に対する品種ごとの応答の定量的データ",
+      "リジェネラティブな農法における生態系サービス機能の評価",
+      "アフリカ大陸における遺伝的多様性と文化的利用の実態"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種情報は園芸学、育種学の文献で豊富に存在する。"
+      },
+      "variety_name": "Chinese type",
+      "local_name": "苦瓜 (Kǔguā)",
+      "origin_region": "中国",
+      "distinctive_characteristics": "果実は20-30cmと長く、淡緑色。イボは丸みを帯びており、苦味が比較的マイルド。",
+      "cultural_importance": "炒め物やスープなど、中華料理で広く利用される。",
+      "climate_adaptation": "温暖な気候を好むが、多様な環境で栽培されている。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種情報は園芸学、育種学の文献で豊富に存在する。"
+      },
+      "variety_name": "Indian type",
+      "local_name": "करेला (Karela)",
+      "origin_region": "インド",
+      "distinctive_characteristics": "果実は細長く、濃緑色。表面のイボは鋭く、非常に強い苦味を持つ。",
+      "cultural_importance": "インド料理やアーユルヴェーダで薬用として重視される。",
+      "climate_adaptation": "高温乾燥に比較的強い品種が多い。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種情報は園芸学、育種学の文献で豊富に存在する。"
+      },
+      "variety_name": "Okinawan type",
+      "local_name": "ゴーヤー (Goya)",
+      "origin_region": "日本（沖縄）",
+      "distinctive_characteristics": "濃緑色で太く、イボが密で大きい。苦味が強く、果肉が厚い。",
+      "cultural_importance": "沖縄の伝統料理「ゴーヤーチャンプルー」に不可欠で、長寿の象徴。",
+      "climate_adaptation": "亜熱帯の高温多湿な気候に適応している。",
+      "conservation_status": "地域的に重要"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "World Vegetable Center (AVRDC) publications",
+      "Journal of Ethnopharmacology",
+      "FAOSTAT (for general production trends)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "アフリカ大陸での遺伝的多様性と利用法に関する体系的調査"
+    ],
+    "regional_data_coverage": "アジアに関するデータは豊富だが、アフリカや南米に関する詳細な情報は比較的少ない。",
+    "missing_information": [
+      "全世界での正確な生産統計量",
+      "野生種の個体群動態と保全状況"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

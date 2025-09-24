@@ -1,0 +1,629 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is consolidated from major ethnobotanical and agricultural research databases, including the International Potato Center (CIP) and academic publications on Andean root and tuber crops."
+    },
+    "primary_name": "Mashua",
+    "scientific_name": "Tropaeolum tuberosum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "塊茎",
+      "葉",
+      "花"
+    ],
+    "origin_region": "アンデス山脈中部（ペルー、ボリビア、エクアドル）",
+    "wild_relatives": [
+      "Tropaeolum tuberosum ssp. sylvestre"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are well-documented in ethnobotanical literature for the Andean region."
+    },
+    "international": {
+      "en": [
+        "Mashua",
+        "Tuberous nasturtium",
+        "Andean nasturtium"
+      ],
+      "scientific_common": "Mashua"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Mashua",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Cubio",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Isaño",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Añu",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ケチュア語話者コミュニティ",
+        "name": "Añu",
+        "cultural_significance": "主要な食料源であり、伝統医療において重要な役割を果たす。特に男性の性欲を減退させる（去勢作用）効果があると信じられている。"
+      },
+      {
+        "community": "アイマラ語話者コミュニティ",
+        "name": "Isaño",
+        "cultural_significance": "食料および薬用として利用される。高地での栽培に適応した強靭な作物として価値が高い。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established."
+    },
+    "family": {
+      "en": "Nasturtium family",
+      "la": "Tropaeolaceae"
+    },
+    "genus": {
+      "en": "Nasturtium",
+      "la": "Tropaeolum"
+    },
+    "species": {
+      "en": "Tuberous nasturtium",
+      "la": "tuberosum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Tropaeolum tuberosum ssp. tuberosum"
+      },
+      {
+        "rank": "subspecies",
+        "name": "Tropaeolum tuberosum ssp. sylvestre"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "Cultural value within the Andes is extensively documented, but global prevalence is minimal, limiting broader cultural data."
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "アンデス高地（ペルー、ボリビア、エクアドル）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "主要な炭水化物源。インカ帝国時代には、遠征する兵士の食事として配給されたと伝えられる。これは、その去勢作用により兵士の規律を維持するためだったとされる。腎臓や前立腺の疾患治療にも伝統的に用いられる。",
+        "seasonal_significance": "乾季の始まりに収穫され、重要な保存食となる。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "アンデス伝統料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Sancochado (煮込み)",
+          "Huatia (土窯焼き)",
+          "Mazamorra (プディング)"
+        ],
+        "preparation_methods": [
+          "煮る",
+          "焼く",
+          "蒸す",
+          "炒める"
+        ],
+        "cultural_context": "ジャガイモやオカ、ウルッコと並ぶアンデスの主要な塊茎作物の一つ。貧しい人々の食料と見なされることもあるが、その栄養価と強靭さから地域の食料安全保障に不可欠。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "プレ・インカ時代から栽培されており、古代の土器にも描かれている。",
+      "trade_routes": "地域内の交易品として重要であったが、広域な交易路には乗らなかった。",
+      "cultural_exchange": "アンデス山脈の異なるコミュニティ間での品種交換を通じて文化交流に貢献。",
+      "domestication_history": "アンデス山脈中部、チチカカ湖周辺で栽培化されたと考えられている。栽培種と野生亜種が存在する。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には適さない。塊茎が形成されない。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "高地の涼しい亜熱帯地域でのみ可能性あり。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "涼しく、日長が短い秋に塊茎が形成される冷涼な海洋性気候。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さに耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な水分が必要。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高2,800mから4,100mの冷涼な気候が最適。霜への耐性が高い。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "アンデス高地",
+        "planting_season": "雨季の始まり（10月～11月）",
+        "harvest_season": "乾季の始まり（5月～6月）",
+        "growing_period_days": 200
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "標高",
+        "降雨量",
+        "品種",
+        "日長"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ペルー",
+          "production_share": null,
+          "characteristics": "世界最大の生産国であり、最も遺伝的多様性が高い。"
+        },
+        {
+          "country": "ボリビア",
+          "production_share": null,
+          "characteristics": "主要な生産国の一つで、伝統的な栽培が広く行われている。"
+        },
+        {
+          "country": "エクアドル",
+          "production_share": null,
+          "characteristics": "北部アンデスでの重要な作物。"
+        },
+        {
+          "country": "コロンビア",
+          "production_share": null,
+          "characteristics": "'Cubio'として知られ、特定の地域で栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は分析されているが、品種間の差異や機能性成分の定量データは限定的。伝統的利用に関する民族植物学的記録は豊富。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "75",
+        "protein_g": "1.5",
+        "carbs_g": "16.7",
+        "fat_g": "0.1",
+        "fiber_g": "1.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "77.5 mg/100g",
+          "daily_value_percent": "130%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート（イソチオシアネート）",
+        "concentration": "高",
+        "health_effect": "抗菌作用、殺虫作用、抗がん作用の可能性。去勢作用の原因物質とされる。"
+      },
+      {
+        "compound": "アントシアニン",
+        "concentration": "有色品種に高濃度",
+        "health_effect": "強力な抗酸化作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アンデス地方",
+        "medical_system": "アンデス伝統医学",
+        "uses": [
+          "利尿作用",
+          "腎臓結石の治療",
+          "前立腺炎の治療",
+          "去勢薬（性的興奮抑制）"
+        ],
+        "preparation": "塊茎を調理して摂取する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗菌活性",
+        "殺虫活性",
+        "利尿作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "男性生殖機能への影響",
+        "血糖値調整作用"
+      ],
+      "safety_considerations": "伝統的に去勢作用があるとされるため、妊娠を計画している男性の過剰摂取には注意が必要との指摘があるが、人間での臨床的エビデンスは限定的。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "調理法はアンデス地域で非常によく記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アンデス地方",
+        "methods": [
+          "煮る",
+          "焼く",
+          "蒸す",
+          "天日干し",
+          "スープやシチューに入れる"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "肉（特に羊肉やクイ）",
+          "他の塊茎（ジャガイモ、オカ）",
+          "トウモロコシ",
+          "チーズ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し（Khaya）",
+        "regions": [
+          "ペルー",
+          "ボリビア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "辛味が減少し、甘みが増す。"
+      },
+      {
+        "method": "凍結乾燥（Chuño化）",
+        "regions": [
+          "ペルー",
+          "ボリビアの高地"
+        ],
+        "shelf_life": "数年間",
+        "quality_changes": "水分が抜け、軽量化し保存性が向上。辛味成分が分解される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生の状態では非常に辛く（ワサビやカラシに似る）、胡椒のような風味。加熱すると辛味が消え、甘くまろやかになり、カブやキャベツに似た風味になる。",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "加熱すると柔らかく、やや粘り気が出る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "定性的な耐性（特に耐寒性、耐病虫性）はよく知られているが、気候変動シナリオに対する定量的なモデル研究は少ない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-15°C",
+      "extreme_heat_survival": "20°C以上で生育不良",
+      "cold_tolerance": "-2°Cまでの軽い霜に耐える"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "800-1400 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物のため、強風による倒伏のリスクは低い。",
+      "hail_damage_recovery": "葉が傷ついても地下の塊茎は保護されるため、回復力は比較的高い。",
+      "rapid_temperature_change": "高地環境に適応しているため、日中の寒暖差には強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（高地作物としての適応）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "グルコシノレートの作用により、多くの一般的な害虫（アブラムシ、ジャガイモシストセンチュウ等）に対し高い抵抗性を示す。温暖化による新たな害虫への耐性は不明。",
+      "disease_resistance_stability": "多くの土壌病害に対し高い抵抗性を持つ。",
+      "beneficial_organism_relationships": "花はハチドリやハチを引きつける。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アンデス山脈の標高2,800-4,100m地帯",
+        "2050_projection": "栽培適地がより高標高へシフトする可能性が高い。低標高側での栽培は困難になる。",
+        "2100_projection": "適地のさらなる縮小と高地へのシフトが予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栽培品種内の遺伝的多様性は高いが、他種との交雑に関する体系的な研究は非常に少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "野生亜種 (ssp. sylvestre) との交雑が可能。他のTropaeolum属との交雑親和性は低いとされる。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培品種と野生亜種間の自然交雑が起きている可能性がある。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。塊茎の色（黄、オレンジ、赤、紫、黒）、形、大きさに関して数百の在来品種が存在する。",
+      "wild_gene_pool": "野生亜種が存在し、耐病性や環境ストレス耐性の遺伝子供給源として重要。",
+      "adaptive_genetic_variation": "異なる標高や土壌条件に適応した多様な在来品種が存在する。",
+      "inbreeding_depression_risk": "栄養繁殖が主だが、他家受精も行うためリスクは中程度。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス高地",
+        "environmental_pressure": "霜、低栄養土壌、強い紫外線、病害虫圧",
+        "adaptive_response": "耐霜性の獲得、低投入での高い生産性、抗酸化物質（アントシアニン）の蓄積、忌避成分（グルコシノレート）の産生。",
+        "time_scale": "数千年間",
+        "mechanism": "農家による選抜と自然選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生亜種との交雑により、耐乾性や耐病性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "特定のアントシアニンや機能性成分を強化する可能性がある。",
+      "novel_characteristics": "日長感受性の低い品種（低緯度地域での栽培を可能にする）の開発可能性。",
+      "hybrid_vigor_potential": "高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "栽培種は2n=84（12倍体）と報告されており、倍数性が交雑の複雑要因となりうる。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候（霜、日長）、土壌（栄養、pH）、生物（病害虫）",
+        "adaptive_traits": "塊茎の休眠性、耐霜性、忌避物質生産",
+        "heritability": "不明",
+        "response_to_selection": "高い遺伝的多様性により、選択への応答は高いと期待される。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "直接的なリジェネラティブ農業の研究は少ないが、伝統的な栽培システムや植物の特性から高い適性が推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "塊茎を形成するが、広範囲に広がる根系を持つ。",
+      "organic_matter_contribution": "収穫後の地上部の残渣が土壌有機物となる。",
+      "soil_structure_improvement": "不明",
+      "erosion_control": "つる性の地上部が地表を覆うことで、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "痩せた土壌でも生育可能で、栄養利用効率が高いと考えられる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "色鮮やかな花がハチドリや昆虫などの花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "グルコシノレートが土壌微生物叢に影響を与える可能性（バイオフューミゲーション効果）。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により水の浸透を助ける可能性がある。",
+      "moisture_retention": "地表被覆が土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表を覆うことで表面流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "塊茎として大量の炭素を蓄積するため、地下部炭素蓄積ポテンシャルは高い。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ジャガイモ",
+        "トウモロコシ",
+        "キヌア"
+      ],
+      "natural_pest_control": "ジャガイモシストセンチュウや他の線虫を抑制する効果が報告されており、優れたコンパニオンプランツとなる。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "分泌される化学物質が他の植物や土壌生物に影響を与える（アレロパシー）。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "病害虫に強いため、農薬投入を減らし、生態系の安定に貢献する。",
+      "stress_tolerance": "低栄養、寒冷、病害虫といった複数のストレスに強い。",
+      "recovery_capacity": "高い。",
+      "adaptability": "高い遺伝的多様性により、環境変化への適応性が期待される。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "潜在的な価値は高いと認識されているが、商業的応用はまだ限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミンCが豊富な高エネルギー作物。",
+      "food_security_contribution": "特に気候変動の影響を受けやすい山岳地帯において、強靭な作物として食料安全保障に貢献する。",
+      "local_food_system_integration": "アンデス地域の地域食品システムに深く根付いている。",
+      "alternative_protein_potential": "低い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "アンデス産スーパーフードとしてのニッチ市場",
+        "世界の珍しい野菜を扱うレストランや市場"
+      ],
+      "value_added_products": [
+        "チップス",
+        "粉末",
+        "自然由来の農薬（バイオペスティサイド）"
+      ],
+      "niche_market_value": "新規性、栄養価、文化的背景から高い価値を持つ可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "保全の必要性は国際機関によって広く認識されている。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "都市化やより市場価値の高い作物への転換による栽培地の減少。",
+    "climate_change_vulnerability": "栽培適地が高地へ追いやられることによる脆弱性。",
+    "cultural_erosion_risk": "若い世代が伝統的な食文化から離れることによる知識の喪失。",
+    "conservation_actions_needed": [
+      "在来品種の収集と遺伝子バンクでの域外保全",
+      "農家による域内保全の支援",
+      "マシュアの価値に関する再評価と需要創出"
+    ],
+    "priority_conservation_regions": [
+      "ペルーおよびボリビアのアンデス高地"
+    ],
+    "ex_situ_conservation_status": "国際ポテトセンター（CIP）などの遺伝子バンクで多数の品種が保存されている。",
+    "in_situ_conservation_efforts": "地域のNGOや農家共同体による保全活動が行われているが、規模は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家として、この作物の多面的な価値を総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "ペルー南部",
+      "ボリビア北部"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する品種レベルでの生理学的応答",
+      "機能性成分の定量的分析と臨床効果",
+      "日長非感受性品種の育種可能性"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名は地域によって多様であり、標準化されていない。"
+      },
+      "variety_name": "Yana Añu",
+      "local_name": "Yana Añu (ケチュア語で「黒いマシュア」)",
+      "origin_region": "ペルー、ボリビア",
+      "distinctive_characteristics": "皮が濃い紫色または黒色。アントシアニン含有量が非常に高い。辛味が強い傾向がある。",
+      "cultural_importance": "薬用としての価値が特に高いとされる。",
+      "climate_adaptation": "高地での耐寒性が特に強いとされる。",
+      "conservation_status": "遺伝資源として重要。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名は地域によって多様であり、標準化されていない。"
+      },
+      "variety_name": "Puca Añu",
+      "local_name": "Puca Añu (ケチュア語で「赤いマシュア」)",
+      "origin_region": "ペルー、エクアドル",
+      "distinctive_characteristics": "皮が赤やピンク色。比較的甘みが強く、調理しやすいとされる。",
+      "cultural_importance": "食用として広く栽培されている。",
+      "climate_adaptation": "広範な高地環境に適応。",
+      "conservation_status": "比較的よく見られる。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種名は地域によって多様であり、標準化されていない。"
+      },
+      "variety_name": "Zapallo Añu",
+      "local_name": "Zapallo Añu (スペイン語で「カボチャのマシュア」)",
+      "origin_region": "ペルー",
+      "distinctive_characteristics": "黄色またはオレンジ色で、カボチャのような形状。加熱すると非常に甘くなる。",
+      "cultural_importance": "デザートなどにも利用される。",
+      "climate_adaptation": "中程度の標高で良好な収量を示す。",
+      "conservation_status": "地域限定で栽培されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "International Potato Center (CIP) publications",
+      "Ethnobotanical studies of the Andes",
+      "FAO reports on neglected and underutilized species"
+    ],
+    "major_knowledge_gaps": [
+      "定量的な気候変動応答データ",
+      "リジェネラティブ農業システムにおける具体的な効果測定",
+      "機能性成分の健康への影響に関する臨床研究"
+    ],
+    "regional_data_coverage": "アンデス地域に集中しており、その他の地域でのデータはほぼ皆無。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "品種ごとの詳細な栄養プロファイル"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

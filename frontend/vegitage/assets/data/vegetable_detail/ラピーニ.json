@@ -1,0 +1,629 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業研究機関の情報を統合。栽培品種としての情報が中心。"
+    },
+    "primary_name": "ラピーニ",
+    "scientific_name": "Brassica rapa var. ruvo",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "茎",
+      "葉",
+      "花"
+    ],
+    "origin_region": "地中海地域（特に南イタリア）",
+    "wild_relatives": [
+      "Brassica rapa subsp. sylvestris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "イタリアとその移民文化圏での名称は豊富だが、他の地域では限定的。"
+    },
+    "international": {
+      "en": [
+        "Rapini",
+        "Broccoli Rabe"
+      ],
+      "scientific_common": "Turnip broccoli"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Cime di Rapa",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Grelos",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Grelos",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Broccoli Rabe",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な分類。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Cabbage",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Field mustard",
+      "la": "Brassica rapa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "ruvo"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "南イタリアにおける文化的価値は極めて高いが、世界的な普及度は限定的。民族植物学的記録は豊富。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南イタリア（特にプーリア州、カンパニア州）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "冬から春にかけての重要な野菜であり、地域の食文化の根幹をなす。『クチーナ・ポーヴェラ』（貧者の料理）の象徴的な食材。",
+        "seasonal_significance": "冬の終わりと春の到来を告げる野菜として重要視される。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米（イタリア系移民コミュニティ）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "イタリアからの移民が持ち込み、故郷の味を再現するための重要な食材。文化的アイデンティティの維持に寄与。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "南イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Orecchiette con le cime di rapa"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒める"
+        ],
+        "cultural_context": "プーリア州を代表するパスタ料理に不可欠な食材。アンチョビ、ニンニク、唐辛子との組み合わせが定番。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "不明",
+      "trade_routes": "主要な交易品ではなかった。",
+      "cultural_exchange": "20世紀のイタリア移民を通じて北米やオーストラリアなどに伝播した。",
+      "domestication_history": "カブの仲間（Brassica rapa）から、葉と花蕾を食用とする系統として南イタリアで数百年にわたり選択・栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿では早期抽苔（とう立ち）しやすく、栽培は困難。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の栽培に適する。冷涼で乾燥した気候が望ましい。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春と秋の栽培が最適。生育適温は15-20℃。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さには不向き。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な灌漑が必要であり、乾燥には弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春、晩夏",
+        "harvest_season": "春、秋",
+        "growing_period_days": "40-60"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋",
+        "harvest_season": "冬から早春",
+        "growing_period_days": "50-70"
+      }
+    ],
+    "productivity": {
+      "yield_range": "8,000 - 15,000 kg/ha",
+      "factors_affecting_yield": [
+        "播種時期",
+        "土壌肥沃度",
+        "灌漑",
+        "気温（高温による抽苔）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "イタリア",
+          "production_share": "不明",
+          "characteristics": "国内消費が中心。特に南部で伝統的な小規模栽培が多い。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "カリフォルニア州、アリゾナ州で商業生産。イタリア料理店向け需要が高い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "22",
+        "protein_g": "3.2",
+        "carbs_g": "2.9",
+        "fat_g": "0.3",
+        "fiber_g": "2.7"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "257 mcg",
+          "daily_value_percent": "214"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "28 mg",
+          "daily_value_percent": "31"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "2138 IU",
+          "daily_value_percent": "71"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "111 mcg",
+          "daily_value_percent": "28"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.1 mg",
+          "daily_value_percent": "6"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "118 mg",
+          "daily_value_percent": "9"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用、がん予防効果の可能性。"
+      },
+      {
+        "compound": "スルフォラファン",
+        "concentration": "不明",
+        "health_effect": "強力な抗酸化物質であり、解毒酵素を活性化する。"
+      },
+      {
+        "compound": "ルテイン",
+        "concentration": "不明",
+        "health_effect": "目の健康維持に寄与する。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南イタリア",
+        "medical_system": "民間療法",
+        "uses": [
+          "浄化作用",
+          "強壮作用"
+        ],
+        "preparation": "調理したものを定期的に摂取する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "アブラナ科野菜に含まれるグルコシノレートの健康効果に関する研究"
+      ],
+      "safety_considerations": "甲状腺機能に問題がある場合、ゴイトロゲンを含むため過剰摂取に注意が必要。通常量の食事では問題ない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "イタリア料理における利用法は非常によく文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "イタリア",
+        "methods": [
+          "茹でてから炒める（Soffritto）",
+          "蒸す",
+          "パスタソースにする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ニンニク",
+          "唐辛子",
+          "アンチョビ",
+          "オリーブオイル",
+          "ソーセージ"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "ソテー",
+          "グリル",
+          "サンドイッチの具材"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ニンニク",
+          "レモン",
+          "パルメザンチーズ",
+          "豚肉"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "オイル漬け（Sott'olio）",
+        "regions": [
+          "イタリア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が柔らかくなり、風味が凝縮する。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "6ヶ月以上",
+        "quality_changes": "ブランチング（下茹で）後に冷凍することで、色と風味を保つことができる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "心地よい苦味、わずかな辛味、ナッツのような風味",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "茎は歯ごたえがあり、葉と花蕾は柔らかい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、品種レベルでの定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "25℃以上で生育不良、早期抽苔のリスクが高まる。",
+      "cold_tolerance": "-5°C程度までの軽い霜には耐える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間中に定期的で適度な降雨が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。葉が傷つきやすいが、株自体は比較的丈夫。",
+      "hail_damage_recovery": "低い。葉と花蕾が損傷すると商品価値が失われる。",
+      "rapid_temperature_change": "急激な高温は抽苔を誘発する。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。他のC3植物同様、ある程度の生育促進効果が期待されるが、品質への影響は不明。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやコナガなどの害虫の発生期間が長期化するリスクがある。",
+      "disease_resistance_stability": "高温多湿は、べと病などの病害リスクを高める可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海性気候地域、温帯地域の冷涼期",
+        "2050_projection": "現在の栽培適地は、より高緯度地域や高標高地域へシフトする可能性。地中海沿岸では冬作に限定される可能性が高まる。",
+        "2100_projection": "不明",
+        "confidence_level": "低い"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Brassica rapa種内の交雑親和性が高いことはよく知られているが、ラピーニに特化した自然交雑の研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "カブ (Brassica rapa var. rapa)",
+        "コマツナ (Brassica rapa var. perviridis)",
+        "ハクサイ (Brassica rapa subsp. pekinensis)"
+      ],
+      "interspecific_compatibility": [
+        "セイヨウアブラナ (Brassica napus)"
+      ],
+      "intergeneric_possibility": [
+        "困難"
+      ],
+      "successful_natural_hybrids": [
+        "野生化したアブラナ (Brassica rapa subsp. sylvestris)との交雑は容易に起こる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "イタリアには早生種から晩生種まで多様な在来品種が存在する。",
+      "wild_gene_pool": "野生近縁種であるBrassica rapa subsp. sylvestrisとの遺伝子流動の可能性がある。",
+      "adaptive_genetic_variation": "在来品種群には、地域の微気候に適応した遺伝的多様性が含まれている可能性がある。",
+      "inbreeding_depression_risk": "他家受精性のため、集団が小さくなると近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他のB. rapa亜種（耐乾性のあるカブなど）との交雑により、耐性向上の可能性がある。",
+      "improved_nutritional_content": "他のアブラナ科野菜との交雑により、特定の機能性成分を強化できる可能性がある。",
+      "novel_characteristics": "風味、形状、栽培特性の新しい組み合わせが生まれる可能性がある。",
+      "hybrid_vigor_potential": "高い。品種間交雑により生育旺盛なF1品種の作出が可能。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほとんどない。",
+      "chromosome_compatibility": "B. rapa種内 (n=10) では問題ない。",
+      "fertility_of_hybrids": "種内雑種は通常、高い稔性を持つ。",
+      "backcrossing_success": "容易。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ラピーニに特化したリジェネラティブ農業の研究はない。アブラナ科作物全般の特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根と多数の側根からなる根系を持つが、特に深根性ではない。",
+      "organic_matter_contribution": "生育が速く、収穫後の残渣をすき込むことで土壌有機物を供給できる。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "生育初期の被覆度は低いが、旺盛に育てばある程度の侵食防止効果が期待できる。",
+      "nutrient_cycling_role": "アブラナ科作物は土壌深層から養分を吸収する能力がある（養分ポンプ効果）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期にはミツバチなどの花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "アブラナ科を好む天敵昆虫（寄生蜂など）の生息地となる可能性がある。",
+      "soil_microorganism_interaction": "グルコシノレートの分解物が土壌微生物相に影響を与える（バイオヒューミゲーション効果）。",
+      "above_ground_biodiversity": "限定的。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "残渣のマルチ利用により、土壌水分の蒸発を抑制できる可能性がある。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。生育が速いため、単位時間あたりの生産性は高い。",
+      "below_ground_carbon": "低い。一年草であり、根系のバイオマスは限定的。",
+      "soil_carbon_enhancement": "不耕起栽培や被覆作物との組み合わせにより、土壌炭素の増加に貢献できる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科（窒素供給）",
+        "芳香性ハーブ（害虫忌避）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "限定的。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌病害の抑制や生物多様性の向上に貢献できる。",
+      "stress_tolerance": "低い（気候変動適応性の項を参照）。",
+      "recovery_capacity": "低い。",
+      "adaptability": "中程度。生育期間が短いため、栽培時期を調整することで気候変動に対応できる可能性がある。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場トレンドや食文化に関する情報に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラル、食物繊維が豊富で、植物中心の食事において栄養価が高い。",
+      "food_security_contribution": "生育期間が短く、単位面積あたりの収量も比較的高いため、地域の食料供給に貢献できる。",
+      "local_food_system_integration": "ファーマーズマーケットやCSA（地域支援型農業）で人気の高い品目。",
+      "alternative_protein_potential": "限定的。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによる栄養価の高い葉物野菜への関心増",
+        "シェフや美食家による伝統野菜への関心"
+      ],
+      "value_added_products": [
+        "カット野菜",
+        "冷凍食品",
+        "瓶詰（オイル漬け）"
+      ],
+      "niche_market_value": "一般的なブロッコリーやホウレンソウに比べ、高価格帯のニッチ市場を形成している。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "保全状況に関する体系的なデータは不足している。遺伝的多様性の消失リスクは定性的な評価に基づく。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "栽培植物のため該当しないが、原産地での伝統的農業景観の喪失が遺伝的多様性に影響する可能性がある。",
+    "climate_change_vulnerability": "高い（耐暑性が低いため）。",
+    "cultural_erosion_risk": "中。伝統的な食文化が失われることで、特定の在来品種の栽培が放棄されるリスクがある。",
+    "conservation_actions_needed": [
+      "南イタリアの在来品種の収集と評価",
+      "種子バンクでの遺伝資源の域外保全",
+      "伝統的栽培農家への支援と知識の記録"
+    ],
+    "priority_conservation_regions": [
+      "イタリア（プーリア州、カンパニア州）"
+    ],
+    "ex_situ_conservation_status": "いくつかの国際的な種子バンクには収集されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "一部の地域で、小規模農家によって在来品種が維持されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "南イタリア",
+      "北米のイタリア系コミュニティ"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温・乾燥）に対する品種ごとの生理学的応答",
+      "在来品種の遺伝的多様性の定量的評価",
+      "リジェネラティブ農業システムにおける具体的な効果"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "種子会社のカタログや地域の農業情報に基づく。"
+      },
+      "variety_name": "Sessantina",
+      "local_name": "Sessantina (60日の意)",
+      "origin_region": "イタリア",
+      "distinctive_characteristics": "播種後約60日で収穫できる早生品種。",
+      "cultural_importance": "商業栽培で広く利用される。",
+      "climate_adaptation": "不明",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "種子会社のカタログや地域の農業情報に基づく。"
+      },
+      "variety_name": "Novantina",
+      "local_name": "Novantina (90日の意)",
+      "origin_region": "イタリア",
+      "distinctive_characteristics": "播種後約90日で収穫できる中生品種。",
+      "cultural_importance": "家庭菜園や伝統的栽培で利用される。",
+      "climate_adaptation": "不明",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "種子会社のカタログや地域の農業情報に基づく。"
+      },
+      "variety_name": "Centoventina",
+      "local_name": "Centoventina (120日の意)",
+      "origin_region": "イタリア",
+      "distinctive_characteristics": "播種後約120日で収穫できる晩生品種。耐寒性が比較的高いとされる。",
+      "cultural_importance": "冬から春にかけての収穫を目的とした伝統的栽培で利用される。",
+      "climate_adaptation": "耐寒性がやや高い",
+      "conservation_status": "地域限定で栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "Germplasm Resources Information Network (GRIN)",
+      "Scientific literature on Brassicaceae",
+      "Ethnobotanical studies of Italian food culture"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答の実験的データ",
+      "世界全体の正確な生産統計"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に偏っており、他の地域に関する情報は乏しい。",
+    "missing_information": [
+      "伝統医学における具体的な調合や用法",
+      "土壌微生物との相互作用に関する詳細データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

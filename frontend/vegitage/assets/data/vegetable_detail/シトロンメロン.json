@@ -1,0 +1,604 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GRIN）および農学研究論文から統合。分類学的地位はCitrullus amarusとして確立されているが、歴史的にC. lanatusの亜種とされた経緯がある。"
+    },
+    "primary_name": "Citron Melon",
+    "scientific_name": "Citrullus amarus",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "種子"
+    ],
+    "origin_region": "アフリカ南部（特にカラハリ砂漠）",
+    "wild_relatives": [
+      "Citrullus lanatus（スイカ）とは極めて近縁で、交雑可能。本種がスイカの野生祖先種と考えられている。"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "英語名は広く知られているが、アフリカの各言語での名称は多様で網羅しきれていない。先住民の名称に関する学術的記録は存在するが、コミュニティごとの差異が大きい。"
+    },
+    "international": {
+      "en": [
+        "Citron melon",
+        "Preserving melon",
+        "Tsamma melon",
+        "Kalahari melon"
+      ],
+      "scientific_common": "Bitter watermelon"
+    },
+    "regional": [
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "af",
+            "name": "Karkoer",
+            "script": "Latin"
+          },
+          {
+            "lang": "tn",
+            "name": "Lehapu",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Pie melon",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "サン人（カラハリ砂漠）",
+        "name": "Tsamma",
+        "cultural_significance": "乾季における唯一の水分源であり、生命維持に不可欠な植物。食料、飼料としても利用され、文化の中心に位置する。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Watermelon",
+      "la": "Citrullus"
+    },
+    "species": {
+      "en": "Citron Melon",
+      "la": "amarus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アフリカ南部での重要性は民族植物学的研究で広く記録されている。北米での利用は主に地域の食文化史に基づく。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "アフリカ南部",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "サン人やコイコイ人にとって、乾季の数ヶ月間、人間と家畜の主要な水分補給源となる。種子はローストして食用に、果肉は調理して食料や家畜の飼料にする。生存に不可欠な資源。",
+        "seasonal_significance": "乾季の生存を支える最も重要な植物資源。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米（南部）",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "アフリカから奴隷貿易と共に伝来したと考えられている。硬い果肉と高いペクチン含量を活かし、砂糖漬け（キャンディ）、ジャム、ピクルス、フルーツケーキの材料として利用される伝統がある。",
+        "seasonal_significance": "秋に収穫し、冬の保存食として加工される。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "サン人の伝統食",
+        "role": "staple",
+        "traditional_dishes": [
+          "生食（水分補給）",
+          "焼いた種子",
+          "調理した果肉"
+        ],
+        "preparation_methods": [
+          "生食",
+          "加熱調理",
+          "焙煎"
+        ],
+        "cultural_context": "砂漠環境での生存戦略と深く結びついた食文化。"
+      },
+      {
+        "cuisine": "アメリカ南部料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "Citron melon preserves",
+          "Candied citron",
+          "Fruitcake"
+        ],
+        "preparation_methods": [
+          "砂糖漬け",
+          "煮込み"
+        ],
+        "cultural_context": "自家菜園文化と保存食作りの伝統の中で受け継がれてきたが、現在は衰退傾向にある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "数千年にわたりアフリカ南部で利用されてきた。古代エジプトの記録にも近縁種が見られる。",
+      "trade_routes": "奴隷貿易を通じてアフリカから南北アメリカ大陸へ伝播した。",
+      "cultural_exchange": "アフリカの生存の知恵が、アメリカ南部の保存食文化へと適応・変容した事例。",
+      "domestication_history": "スイカ（C. lanatus）の直接の祖先であり、その栽培化の歴史を理解する上で極めて重要な遺伝資源。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "乾季と雨季が明確な地域に適応。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "長い夏と温暖な気候が最適。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、低温のため不適。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さが厳しく不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "原産地であり、極めて高い適性を持つ。少ない降雨と高い日射量を好む。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯/乾燥地",
+        "planting_season": "春の最後の霜の後、または雨季の始まり",
+        "harvest_season": "晩夏から秋",
+        "growing_period_days": "90-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "水分供給量",
+        "受粉の成否",
+        "土壌の排水性"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ナミビア",
+          "production_share": "不明",
+          "characteristics": "商業生産ではなく、主に地域住民による野生採集および小規模栽培。"
+        },
+        {
+          "country": "ボツワナ",
+          "production_share": "不明",
+          "characteristics": "同上。地域コミュニティの重要な資源。"
+        },
+        {
+          "country": "南アフリカ共和国",
+          "production_share": "不明",
+          "characteristics": "同上。一部で家畜飼料としての利用もある。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "果肉の栄養価に関する詳細なデータは乏しい。種子の栄養価については一部研究がある。伝統的利用は民族植物学の記録に基づくが、科学的検証は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約15-20（推定）",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "水分",
+          "amount": "90%以上",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ククルビタシン",
+        "concentration": "品種により変動",
+        "health_effect": "苦味成分。高濃度では毒性を示すが、一部には抗炎症作用などの報告もある。"
+      },
+      {
+        "compound": "ペクチン（果皮）",
+        "concentration": "高",
+        "health_effect": "水溶性食物繊維。整腸作用。"
+      },
+      {
+        "compound": "リノール酸（種子）",
+        "concentration": "高",
+        "health_effect": "必須脂肪酸。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アフリカ南部",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "利尿剤",
+          "下剤",
+          "水分補給"
+        ],
+        "preparation": "果汁を飲む"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "スイカの台木としての病害虫抵抗性および乾燥耐性付与効果",
+        "種子油の成分分析と利用可能性"
+      ],
+      "safety_considerations": "苦味の強い個体はククルビタシンを多く含み、多食すると胃腸障害を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "地域によって利用法が大きく異なる。アメリカ南部の保存食としてのレシピは記録が多いが、アフリカでの日常的な利用法に関する体系的記録は少ない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アフリカ南部",
+        "methods": [
+          "生食（水分補給）",
+          "焙煎（種子）",
+          "煮込み（果肉）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "単独での利用が多い"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "砂糖漬け",
+          "ピクルス化"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "砂糖",
+          "スパイス（シナモン、クローブ）",
+          "酢"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "砂糖漬け（Candying/Preserving）",
+        "regions": [
+          "北米南部"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "果皮が半透明になり、甘くスパイシーな風味がつく。食感は硬く歯ごたえがある。"
+      },
+      {
+        "method": "天日干し（種子）",
+        "regions": [
+          "アフリカ南部"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "水分が抜け、保存性が高まる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "果肉は淡白、無味、または品種により苦味がある。スイカのような甘みはない。種子は焙煎するとナッツのような風味。砂糖漬けにした果皮は甘く、加えたスパイスの風味が支配的。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "果肉は硬く、しっかりしている。加熱しても煮崩れしにくい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な評価は非常に高いが、制御環境下での定量的な実験データは限定的。スイカの台木としての利用研究から、そのストレス耐性が間接的に証明されている。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生存可能",
+      "cold_tolerance": "低（霜に弱い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "非常に高い。深く発達した主根が地下水脈を探す。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "250-500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地面を這うため風には強いが、雹には弱い）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として一般的に正の応答が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（原産地の強い日射に適応）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "スイカと比較して多くの病害（特にフザリウム萎凋病などの土壌病害）に強い耐性を持つ。",
+      "disease_resistance_stability": "高い遺伝的多様性により、安定性が期待される。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アフリカ南部、オーストラリア、アメリカ南西部の乾燥・半乾燥地帯",
+        "2050_projection": "現在よりも緯度の高い半乾燥地域の多く（地中海沿岸、中央アジアなど）で栽培可能になる可能性がある。",
+        "2100_projection": "乾燥化が進行する広範な地域で、重要な水資源・食料源となるポテンシャルを持つ。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "スイカとの交雑親和性は育種学において広く知られており、多くの研究が行われている。遺伝的多様性についても研究が進んでいる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "アフリカ各地に存在する多様なランドレース間で交雑が容易。"
+      ],
+      "interspecific_compatibility": [
+        "Citrullus lanatus（スイカ）と極めて容易に交雑し、稔性のある子孫を残す。"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "野生環境下でC. lanatusとの遺伝子流動が起きている可能性が指摘されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。果実の大きさ、形状、苦味の有無、種子の色などに幅広い変異が存在する。",
+      "wild_gene_pool": "本種自体がスイカの野生遺伝子プールそのものである。",
+      "adaptive_genetic_variation": "乾燥、高温、病害抵抗性に関する多様な遺伝子を持つ。",
+      "inbreeding_depression_risk": "低い（自家不和合性ではないが、他家受粉が主）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "カラハリ砂漠",
+        "environmental_pressure": "極度の乾燥、高温、強い日射、貧栄養土壌",
+        "adaptive_response": "深い主根系、高い水分貯蔵能力、ククルビタシンによる被食防衛、高い発芽温度要求性",
+        "time_scale": "数千年〜数万年",
+        "mechanism": "自然選択による環境適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "スイカに耐乾性・耐暑性を導入するための最重要遺伝資源。",
+      "improved_nutritional_content": "種子の油分やタンパク質含量を改良する可能性。",
+      "novel_characteristics": "病害抵抗性（フザリウム、ネマトーダ）、台木適性。",
+      "hybrid_vigor_potential": "非常に高い。特に台木として利用した場合、スイカの生育を旺盛にする。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "ほとんどない（C. lanatusとの間）",
+      "chromosome_compatibility": "高い（2n=22でスイカと共通）",
+      "fertility_of_hybrids": "高い",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水ストレス",
+        "adaptive_traits": "深根性、水利用効率",
+        "heritability": "中〜高",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種をリジェネラティブ農業システムの一部として評価した直接的な研究はほぼない。評価は、その植物学的特性（深根性、乾燥耐性）からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "非常に深く発達する主根を持ち、土壌の硬盤を破砕し、深層の養分を循環させる可能性がある。",
+      "organic_matter_contribution": "収穫後の残渣が土壌有機物として還元される。",
+      "soil_structure_improvement": "根による土壌団粒化の促進。",
+      "erosion_control": "つるが地表を覆うことで、風食・水食を抑制する。",
+      "nutrient_cycling_role": "深層からの養分吸収による表層への還元。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫に蜜や花粉を供給する。",
+      "beneficial_insect_habitat": "地表を覆う葉が、捕食性昆虫などの隠れ家を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る孔隙が水の浸透を助ける可能性がある。",
+      "moisture_retention": "地表を覆う葉が土壌からの水分蒸発を防ぐマルチング効果を持つ。",
+      "runoff_reduction": "葉や茎が雨滴の衝撃を和らげ、地表流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系のため、地下部への炭素蓄積ポテンシャルは一年草としては高い可能性がある。",
+      "soil_carbon_enhancement": "残渣分解による土壌有機炭素の増加。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシやソルガムなどの高性作物との混植（リビングマルチとして）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "乾燥地農業生態系において、不作のリスクを低減する保険的作物となりうる。",
+      "stress_tolerance": "高い",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源としての価値は確立されているが、食品としての商業的ポテンシャルはまだ十分に探求されていない。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "種子はタンパク質と良質な油の供給源としてポテンシャルがある。",
+      "food_security_contribution": "気候変動が進行する乾燥地域において、信頼性の高い水分とカロリー源として貢献しうる。",
+      "local_food_system_integration": "乾燥地での自家消費、地域市場向けの作物として有望。",
+      "alternative_protein_potential": "不明"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "スイカの台木としての利用拡大",
+        "健康志向の種子油市場",
+        "天然由来のペクチン源",
+        "気候変動適応型作物のニッチ市場"
+      ],
+      "value_added_products": [
+        "伝統的な砂糖漬け・ジャム",
+        "種子油",
+        "シードバター",
+        "植物性プロテインパウダー"
+      ],
+      "niche_market_value": "「気候変動に強い古代の作物」というストーリー性を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源としての重要性は認識されているが、原産地での具体的な保全状況に関するデータは断片的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地での砂漠化の進行や土地利用の変化が脅威となりうる。",
+    "climate_change_vulnerability": "植物自体は強いが、その生育を支える生態系全体の変化には脆弱な可能性がある。",
+    "cultural_erosion_risk": "高（特に北米での利用知識の喪失、アフリカでの伝統的生活様式の変化）",
+    "conservation_actions_needed": [
+      "原産地での遺伝的多様性のインベントリ作成とモニタリング",
+      "種子バンクでの体系的な収集と保存（Ex-situ conservation）",
+      "地域コミュニティによる利用と保全活動の支援（In-situ conservation）",
+      "伝統知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "カラハリ砂漠とその周辺地域（ナミビア、ボツワナ、南アフリカ）"
+    ],
+    "ex_situ_conservation_status": "世界各国の主要なジーンバンク（米国農務省GRINなど）に多数のアクセスが保存されている。",
+    "in_situ_conservation_efforts": "限定的。国立公園など保護区内での自生個体群の保全に留まる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集された情報に基づく総合的な専門的判断である。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "カラハリ砂漠地域（民族植物学、遺伝的多様性）",
+      "サヘル地域（気候変動適応栽培試験）",
+      "アメリカ南部（食文化史と遺伝資源の再評価）"
+    ],
+    "knowledge_gaps": [
+      "品種・地域ごとの栄養成分の定量的データ",
+      "異なる気候ストレス下での生理学的応答メカニズム",
+      "リジェネラティブ農業システムにおける具体的な効果の測定",
+      "先住民コミュニティにおける詳細な利用法と伝統知識の体系化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "正式な品種登録はほとんどなく、多くは地域名で呼ばれるランドレースである。これはその一例を模式的に記述したものである。"
+      },
+      "variety_name": "Kalahari Landrace",
+      "local_name": "Tsamma",
+      "origin_region": "アフリカ南部、カラハリ砂漠",
+      "distinctive_characteristics": "果実は球形で、薄緑色の地に濃緑色のまだら模様。果肉は白く硬い。苦味の有無は個体差が大きい。極度の乾燥に耐え、種子の発芽率が高い。",
+      "cultural_importance": "サン人などの先住民コミュニティにとって伝統的な水分・食料源。",
+      "climate_adaptation": "極めて高い耐乾性と耐暑性を持つ。",
+      "conservation_status": "原産地では一般的だが、遺伝的多様性は土地利用の変化により脅威に晒されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN-Global Taxonomy",
+      "Plants of the World Online (Kew Science)",
+      "Ethnobotanical studies on plants of the Kalahari desert",
+      "Scientific literature on watermelon breeding and genetics"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "果肉および種子の詳細な機能性成分分析"
+    ],
+    "regional_data_coverage": "アフリカ南部と北米に偏在しており、他の地域でのデータはほぼない。",
+    "missing_information": [
+      "商業生産に関する統計データ",
+      "世界各地の先住民コミュニティでの名称と利用法"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

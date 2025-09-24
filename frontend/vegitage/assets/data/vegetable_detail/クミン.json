@@ -1,0 +1,724 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, USDA GRIN）および農学研究論文から統合。野生近縁種に関する詳細な生態情報は限定的。"
+    },
+    "primary_name": "Cumin",
+    "scientific_name": "Cuminum cyminum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子"
+    ],
+    "origin_region": "東地中海地域から中央アジアにかけて（イラン、トルクメニスタン地域が有力）",
+    "wild_relatives": [
+      "Cuminum setifolium",
+      "Cuminum borszczowii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の料理書、民族植物学の記録、言語データベースから収集。"
+    },
+    "international": {
+      "en": [
+        "Cumin"
+      ],
+      "scientific_common": "Cumin"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "जीरा (Jeera)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ur",
+            "name": "زیرہ (Zeera)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "bn",
+            "name": "জিরা (Jira)",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "كمون (Kamoun)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "زیره (Zireh)",
+            "script": "Persian"
+          },
+          {
+            "lang": "tr",
+            "name": "Kimyon",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Comino",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Cumin",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Kreuzkümmel",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "孜然 (Zīrán)",
+            "script": "Han"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベース（Tropicos, The Plant List）を参照。"
+    },
+    "family": {
+      "en": "Carrot or Parsley family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Cumin",
+      "la": "Cuminum"
+    },
+    "species": {
+      "en": "Cumin",
+      "la": "Cuminum cyminum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史的文献、民族誌、食文化研究に基づき評価。古代エジプトやローマ時代からの記録が豊富に存在する。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "薬用",
+          "主食（香辛料として）"
+        ],
+        "traditional_uses": "ほぼ全てのカレー、マサラ、豆料理に不可欠な基礎スパイス。アーユルヴェーダでは消化促進薬として重要。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東・北アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "薬用",
+          "主食（香辛料として）"
+        ],
+        "traditional_uses": "タジン、フムス、ファラフェル、ケバブなど広範な料理の風味の核。古代エジプトではミイラの防腐処理にも使用された。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ラテンアメリカ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "スペイン経由で伝来。チリコンカン、タコス、各種煮込み料理（Guiso）に広く使われる。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "カレー全般",
+          "ダール（豆カレー）",
+          "ジーラライス"
+        ],
+        "preparation_methods": [
+          "テンパリング（油で炒めて香りを出す）",
+          "乾煎りして粉砕"
+        ],
+        "cultural_context": "多くの料理の風味の土台を築く。ガラムマサラなど多くのスパイスミックスの主要構成要素。"
+      },
+      {
+        "cuisine": "メキシコ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "チリコンカン",
+          "タコミート",
+          "モーレ"
+        ],
+        "preparation_methods": [
+          "粉末を直接加える"
+        ],
+        "cultural_context": "テクス・メクス料理の象徴的な風味の一つ。肉料理の臭み消しと深みを加える役割。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプトのパピルス（紀元前1550年頃）に薬用として記載。旧約聖書にも登場。古代ローマでは食卓に常備される調味料だった。",
+      "trade_routes": "古代からスパイス交易の重要品目であり、シルクロードや海の道を通じてアジア、アフリカ、ヨーロッパに広まった。",
+      "cultural_exchange": "アラブ商人や後のヨーロッパ列強によって世界中に伝播し、各地の食文化と融合した。",
+      "domestication_history": "イラン高原から地中海東部で栽培化されたと考えられているが、正確な起源地は特定されていない。数千年にわたる栽培史を持つ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "乾季が明確な熱帯サバナ気候。雨季の栽培は病害リスクが高い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "長く、暑く、乾燥した夏がある地域。冬の穏やかな降雨が発芽に適す。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏季が高温乾燥になる地中海性気候や大陸性気候の一部。霜害のリスクがない長い生育期間が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、夏の湿度が病害を誘発するため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑設備が必須。低湿度が病害を抑制し、品質の高い種子生産に最適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯（インド・ラジャスタン州）",
+        "planting_season": "10月-11月（ラビー作）",
+        "harvest_season": "2月-3月",
+        "growing_period_days": 100
+      },
+      {
+        "climate_zone": "温帯（地中海地域）",
+        "planting_season": "春（4月-5月）",
+        "harvest_season": "夏（8月）",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "500 - 1500 kg/ha",
+      "factors_affecting_yield": [
+        "開花期・結実期の降雨や高湿度（病害発生）",
+        "フザリウム萎凋病、うどんこ病、アブラムシの発生",
+        "灌漑の適時性",
+        "収穫タイミング"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約900,000トン（推定）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": 70,
+          "characteristics": "世界最大の生産国、消費国、輸出国。特にグジャラート州とラジャスタン州が主産地。"
+        },
+        {
+          "country": "シリア",
+          "production_share": 10,
+          "characteristics": "品質が高いことで知られるが、近年の情勢不安で生産は不安定。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": 5,
+          "characteristics": "ヨーロッパ市場への主要供給国の一つ。"
+        },
+        {
+          "country": "イラン",
+          "production_share": 5,
+          "characteristics": "原産地の一つであり、多様な在来種が存在する。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データはUSDA等で入手可能だが、品種や産地による成分変動のデータは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": 375,
+        "protein_g": 17.8,
+        "carbs_g": 44.2,
+        "fat_g": 22.3,
+        "fiber_g": 10.5
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "鉄",
+          "amount": "66.4 mg/100g",
+          "daily_value_percent": 368
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "3.3 mg/100g",
+          "daily_value_percent": 143
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "931 mg/100g",
+          "daily_value_percent": 72
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "366 mg/100g",
+          "daily_value_percent": 87
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "クミンアルデヒド",
+        "concentration": "精油の20-40%",
+        "health_effect": "特徴的な香りの主成分。抗菌作用、抗酸化作用、消化促進作用が報告されている。"
+      },
+      {
+        "compound": "クミノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用を持つとされる。"
+      },
+      {
+        "compound": "フラボノイド（ルテオリン、アピゲニン）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "消化不良",
+          "鼓腸",
+          "下痢",
+          "食欲不振"
+        ],
+        "preparation": "種子を煎じたお茶（ジーラウォーター）、または粉末を食事やヨーグルトに混ぜて摂取。"
+      },
+      {
+        "region": "中東",
+        "medical_system": "伝統ペルシャ医学（ユナニ医学）",
+        "uses": [
+          "駆風（腸内ガスの排出）",
+          "鎮痙",
+          "利尿"
+        ],
+        "preparation": "煎じ薬、チンキ剤、湿布として使用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "消化酵素の分泌促進",
+        "抗酸化作用",
+        "血糖値コントロール改善の可能性",
+        "抗菌・抗真菌作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "記憶力向上効果",
+        "コレステロール低下作用"
+      ],
+      "safety_considerations": "通常、食品として摂取する量では安全。高濃度の精油の摂取は注意が必要。一部の人にアレルギー反応を引き起こす可能性。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の主要な料理書と食文化研究から広範な情報を収集。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "ホールスパイスを油で炒める（テンパリング）",
+          "乾煎りして粉砕し、スパイスミックス（マサラ）にする"
+        ],
+        "flavor_role": "主味/香辛料",
+        "typical_combinations": [
+          "コリアンダー",
+          "ターメリック",
+          "唐辛子",
+          "生姜",
+          "ニンニク"
+        ]
+      },
+      {
+        "region": "中東・北アフリカ",
+        "methods": [
+          "粉末を煮込み料理やディップに混ぜる",
+          "肉のマリネに使う"
+        ],
+        "flavor_role": "主味/香辛料",
+        "typical_combinations": [
+          "パプリカ",
+          "コリアンダー",
+          "シナモン",
+          "ニンニク",
+          "レモン"
+        ]
+      },
+      {
+        "region": "ラテンアメリカ",
+        "methods": [
+          "粉末を煮込み料理やシーズニングに加える"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "オレガノ",
+          "唐辛子（チリパウダー）",
+          "ニンニク",
+          "玉ねぎ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "ホール：2-3年、粉末：6ヶ月-1年",
+        "quality_changes": "粉末にすると揮発性の香り成分が失われやすくなるため、使う直前に挽くのが最も良い。"
+      },
+      {
+        "method": "焙煎",
+        "regions": [
+          "南アジア",
+          "中東"
+        ],
+        "shelf_life": "焙煎後、密閉容器で数ヶ月",
+        "quality_changes": "香ばしさとナッツのような風味が加わり、香りが豊かになる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "暖かく、土のような、わずかに苦味と辛味のあるスモーキーな風味",
+      "aroma_compounds": [
+        "クミンアルデヒド",
+        "β-ピネン",
+        "p-シメン"
+      ],
+      "texture_characteristics": "種子は硬く、噛むと砕ける。粉末はざらつきがある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、品種レベルでの定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、精密な予測ではない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-30°C",
+      "extreme_heat_survival": "40°C以上でも短期間なら耐えるが、受精障害のリスクがある",
+      "cold_tolerance": "5°C以下で生育停止。霜に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "比較的高い。C3植物だが乾燥地適応性を持つ。",
+      "flood_tolerance": "低。過湿は根腐れや萎凋病の原因となる。",
+      "optimal_rainfall": "生育初期に300-400mm程度の降雨が必要だが、成熟期には乾燥が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低。茎が細く倒伏しやすい。",
+      "hail_damage_recovery": "低。花や若い種子が損傷すると収量が激減する。",
+      "rapid_temperature_change": "中。急激な温度変化はストレスとなるが、ある程度は耐える。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。一般的にC3植物は効果があるとされるが、クミンに特化した研究は少ない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高。強日照環境に適応している。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシの発生時期や回数が増加するリスクがある。",
+      "disease_resistance_stability": "高温多湿はフザリウム萎凋病やアルタナリア葉枯病のリスクを高めるため、抵抗性は不安定になる可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "インド北西部、中東、地中海沿岸",
+        "2050_projection": "現在の適地で乾燥がさらに進む地域では生産が困難になる可能性がある一方、より高緯度の中央アジアや温帯地域の一部が新たな適地になる可能性がある。",
+        "2100_projection": "大規模な気候変動シナリオ下では、水資源の利用可能性が生産の最大の制限要因となる。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "野生近縁種との自然交雑に関する報告は非常に少なく、遺伝的多様性の評価は主に栽培されている在来種に基づいている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "インド、イラン、トルコなどの在来種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Cuminum setifoliumとの人為的な交雑の可能性は研究されているが、自然交雑の報告はない。"
+      ],
+      "intergeneric_possibility": [
+        "報告なし。可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中程度。インド、イラン、トルコなどの原産地・二次的多様性中心地には多様な在来種が存在する。",
+      "wild_gene_pool": "野生近縁種は存在するが、遺伝子プールとしての活用はほとんど進んでいない。",
+      "adaptive_genetic_variation": "在来種には地域の土壌や気候に適応した遺伝的変異が存在すると考えられる。",
+      "inbreeding_depression_risk": "自家受粉性があるため、特定の品種を継続的に栽培すると近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、さらなる耐乾性や耐病性を導入できる可能性がある。",
+      "improved_nutritional_content": "精油成分の組成や微量栄養素の含有量を変化させる可能性がある。",
+      "novel_characteristics": "新たな香りや風味プロファイルを持つ品種が生まれる可能性がある。",
+      "hybrid_vigor_potential": "異なる遺伝的背景を持つ在来種間の交雑により、収量性などで雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "野生種との間には交雑不和合性が存在する可能性がある。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、塩害、フザリウム萎凋病",
+        "adaptive_traits": "深い根系、気孔の調節機能、病害抵抗性遺伝子",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 4
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "クミンに特化したリジェネラティブ農業の研究はほとんどない。評価はセリ科植物の一般的な特性と、その栽培環境からの推測に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が比較的深く伸びるが、全体的な根量は多くない。",
+      "organic_matter_contribution": "低。収穫後に残る植物バイオマスが少ない。",
+      "soil_structure_improvement": "限定的。カバークロップなどとの混植が必要。",
+      "erosion_control": "限定的。個体密度が低いと土壌表面を十分に覆えない。",
+      "nutrient_cycling_role": "特筆すべき能力はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さな白い花は、ハナアブ、ヒメハナバチ、寄生バチなど多様な小型の訪花昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "天敵昆虫（寄生バチなど）の蜜源となり、生態系サービスに貢献する可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "中程度"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "耐乾性が高いため、土壌水分の少ない環境でも生育可能。",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "特筆すべき効果はない。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低",
+      "below_ground_carbon": "低",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科作物（窒素供給）、ディル、フェンネル（同じセリ科で有益昆虫を呼ぶ）"
+      ],
+      "natural_pest_control": "強い香りが一部の害虫を忌避する可能性があるが、科学的証拠は少ない。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "報告は少ない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作付け体系に組み込むことで、経済的リスク分散に貢献する。",
+      "stress_tolerance": "乾燥ストレスへの耐性が高い。",
+      "recovery_capacity": "一年草であるため、一度大きなダメージを受けると回復は困難。",
+      "adaptability": "多様な在来種が存在し、適応ポテンシャルはある。"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、健康食品に関する研究、食品科学の文献から情報を統合。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "植物性食品に風味と深みを与え、肉の代替としての魅力を高める。鉄分が豊富なため、菜食主義者の食事で重要な役割を果たす。",
+      "food_security_contribution": "乾燥地帯での栽培が可能な換金作物であり、小規模農家の収入源として食料安全保障に貢献する。",
+      "local_food_system_integration": "地元の食文化と深く結びついており、地域内での消費と加工が盛ん。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エスニック料理の世界的な人気拡大",
+        "健康志向の高まりによる機能性食品・サプリメントとしての利用",
+        "精油の抽出とアロマセラピーや自然派化粧品への応用"
+      ],
+      "value_added_products": [
+        "オーガニッククミン",
+        "産地指定のシングルオリジンクミン",
+        "焙煎クミンパウダー",
+        "クミン精油"
+      ],
+      "niche_market_value": "高品質なオーガニック製品や特定の在来種は、高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要栽培品種の保全状況は安定しているが、在来種や野生近縁種の遺伝資源に関する情報は不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の生息地である中央アジアや中東の乾燥地帯は、砂漠化や開発の脅威にさらされている。",
+    "climate_change_vulnerability": "中。極端な気象（不時降雨、熱波）は収量に大きな影響を与える。",
+    "cultural_erosion_risk": "低。世界中の食文化に深く根付いている。",
+    "conservation_actions_needed": [
+      "原産地および二次的多様性中心地（インド、イラン、トルコ）での在来種の探索と収集",
+      "野生近縁種の生息域内（in-situ）保全",
+      "遺伝子銀行での種子の長期保存（ex-situ）"
+    ],
+    "priority_conservation_regions": [
+      "イラン",
+      "トルクメニスタン",
+      "シリア",
+      "トルコ",
+      "インド（ラジャスタン州、グジャラート州）"
+    ],
+    "ex_situ_conservation_status": "主要な国際遺伝子銀行（ICARDA、USDA-GRINなど）には一定数の遺伝資源が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的。一部の地域で農家による在来種の維持が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた情報に基づく総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "イラン（遺伝的多様性の中心地）",
+      "インド（世界最大の生産地における栽培システムと気候変動の影響）",
+      "シリア（高品質品種の遺伝資源）"
+    ],
+    "knowledge_gaps": [
+      "野生近縁種の遺伝的特性と交配可能性",
+      "気候変動（CO2濃度、極端気象）に対する品種レベルでの生理学的応答",
+      "リジェネラティブ農業システムにおける具体的な生態系サービス機能の定量化"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "インドの農業研究機関の資料に基づくが、他地域の在来種に関する体系的な情報は少ない。"
+      },
+      "variety_name": "RZ-19",
+      "local_name": "RZ-19",
+      "origin_region": "インド、ラジャスタン州",
+      "distinctive_characteristics": "早生で、萎凋病に比較的耐性がある。収量性が高い。",
+      "cultural_importance": "インドで広く栽培されている主要な改良品種の一つ。",
+      "climate_adaptation": "インドの乾燥・半乾燥地帯の気候に適応している。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "インドの農業研究機関の資料に基づくが、他地域の在来種に関する体系的な情報は少ない。"
+      },
+      "variety_name": "GC-4 (Gujarat Cumin-4)",
+      "local_name": "GC-4",
+      "origin_region": "インド、グジャラート州",
+      "distinctive_characteristics": "萎凋病への耐性が高く、精油含有量が多い。種子が大きく、市場での評価が高い。",
+      "cultural_importance": "インドの主要生産地で栽培される重要な商業品種。",
+      "climate_adaptation": "グジャラート州の気候風土に適応している。",
+      "conservation_status": "広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "Kew Gardens Plants of the World Online",
+      "USDA National Nutrient Database",
+      "ICAR-National Research Centre on Seed Spices (India)",
+      "Peer-reviewed articles on agronomy and ethnobotany"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種の遺伝資源評価と利用"
+    ],
+    "regional_data_coverage": "南アジア（特にインド）に関するデータは豊富だが、中東や他地域に関する体系的なデータは比較的少ない。",
+    "missing_information": [
+      "先住民コミュニティによる伝統的な利用法",
+      "自然交雑の実例",
+      "土壌微生物との相互作用"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

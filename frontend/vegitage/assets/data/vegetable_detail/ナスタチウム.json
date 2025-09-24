@@ -1,0 +1,635 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), ethnobotanical studies, and horticultural literature. Data on wild relatives is well-established but genetic proximity for breeding is a specialized field."
+    },
+    "primary_name": "Nasturtium",
+    "scientific_name": "Tropaeolum majus",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "花",
+      "果実",
+      "種子"
+    ],
+    "origin_region": "南米アンデス地域（ペルー、ボリビア、コロンビア）",
+    "wild_relatives": [
+      "Tropaeolum minus",
+      "Tropaeolum peregrinum",
+      "Tropaeolum tuberosum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual botanical and culinary dictionaries. Indigenous names are less documented in mainstream sources."
+    },
+    "international": {
+      "en": [
+        "Nasturtium",
+        "Indian Cress",
+        "Garden Nasturtium"
+      ],
+      "scientific_common": "Tropaeolum"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Capucine grande",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Große Kapuzinerkresse",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Capuchina",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Nasturzio",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Mastuerzo de Indias",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Chagas",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ノウゼンハレン（凌霄葉蓮）",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "旱金莲",
+            "script": "Hans"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アンデス地域のケチュア語話者",
+        "name": "Añu",
+        "cultural_significance": "主に近縁種のT. tuberosumを指すが、T. majusも同様の薬効を持つと認識され、伝統医療で利用されてきた可能性がある。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic information is based on the APG IV system and widely accepted botanical classifications."
+    },
+    "family": {
+      "en": "Tropaeolaceae",
+      "la": "Tropaeolaceae"
+    },
+    "genus": {
+      "en": "Tropaeolum",
+      "la": "Tropaeolum"
+    },
+    "species": {
+      "en": "Garden Nasturtium",
+      "la": "majus"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "European culinary and ornamental history is well-documented. Original Andean cultural significance is less clear and often conflated with related species like T. tuberosum."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "17世紀に導入後、観賞用植物として普及。葉、花はサラダに、未熟な種子はピクルス（貧者のケッパー）として食用に。伝統医学では抗菌作用を期待して利用された。",
+        "seasonal_significance": "夏の庭園と食卓を彩る植物",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "ヨーロッパから伝播。エディブルフラワー（食用花）の代表格として現代料理で人気。コンパニオンプランツとして家庭菜園で重要視される。",
+        "seasonal_significance": "夏の家庭菜園の象徴",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "原産地だが、食用としての伝統的利用は限定的。主に伝統医療で、抗菌、去痰、利尿作用を期待して利用された歴史がある。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "現代西洋料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Gourmet Salads",
+          "Edible Flower Garnishes"
+        ],
+        "preparation_methods": [
+          "生食"
+        ],
+        "cultural_context": "料理に彩りとピリッとした辛味のアクセントを加える目的で、高級レストランから家庭料理まで幅広く利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アンデス地域でインカ帝国以前から薬用として利用されていた可能性があるが、考古学的証拠は限定的。",
+      "trade_routes": "16世紀にスペインの植物学者ニコラス・モナルデスによってヨーロッパに紹介され、大航海時代の植物交換の一環として世界に広まった。",
+      "cultural_exchange": "南米原産の植物がヨーロッパの食文化と園芸文化に受容され、変容した事例。",
+      "domestication_history": "原産地での栽培化の歴史は不明瞭だが、ヨーロッパ導入後に観賞用・食用として多様な品種が育成された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や乾季など、過度な湿潤と高温を避けられる環境。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬から春にかけての栽培に適する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春に播種し、夏から秋に収穫する一年草として最適。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さに弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "定期的な水やりが必要なため、乾燥地での栽培は困難。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地が高地であるため、冷涼な高地気候に適応する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（霜の心配がなくなった後）",
+        "harvest_season": "夏から初霜まで",
+        "growing_period_days": 60
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌の肥沃度（痩せ地を好む）",
+        "水分供給",
+        "アブラムシなどの害虫発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "データなし",
+          "production_share": 0,
+          "characteristics": "主に家庭菜園や小規模な商業栽培（食用花市場向け）で生産され、大規模な商業生産の統計データは存在しない。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ビタミンC含有量に関するデータは豊富。その他の栄養素や機能性成分に関する研究は存在するが、品種や栽培条件による変動は未解明な点が多い。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約13",
+        "protein_g": "約1.4",
+        "carbs_g": "約1.7",
+        "fat_g": "約0.3",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "130mg/100g",
+          "daily_value_percent": "144%"
+        },
+        {
+          "nutrient": "ルテインとゼアキサンチン",
+          "amount": "高濃度",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.4mg/100g",
+          "daily_value_percent": "17%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコトロパエオリン（Glucotropaeolin）",
+        "concentration": "可変",
+        "health_effect": "酵素分解によりベンジルイソチオシアネートを生成し、強力な抗菌・抗真菌作用を示す。"
+      },
+      {
+        "compound": "アントシアニン",
+        "concentration": "赤やオレンジ色の花に豊富",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米アンデス",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "気管支炎",
+          "咳",
+          "尿路感染症",
+          "外傷の消毒"
+        ],
+        "preparation": "葉や花の浸出液、または生の葉を直接湿布として利用。"
+      },
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "ハーブ療法",
+        "uses": [
+          "風邪の予防",
+          "利尿促進",
+          "去痰",
+          "抗菌"
+        ],
+        "preparation": "チンキ剤、ハーブティー、生のままサラダとして摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗菌作用（特に尿路・気道）",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "心血管保護効果"
+      ],
+      "safety_considerations": "グルコシノレートを含むため、過剰摂取は甲状腺機能や胃腸に影響を与える可能性がある。妊娠中の大量摂取は避けるべきとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代料理における利用法は、料理本や食文化に関するウェブサイトで広く紹介されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界共通（特に欧米）",
+        "methods": [
+          "生食",
+          "ピクルス"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "レタスなどの葉物野菜",
+          "チーズ",
+          "卵料理",
+          "サンドイッチ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ピクルス（塩漬けまたは酢漬け）",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "辛味がまろやかになり、ケッパーに似た風味と食感になる。"
+      },
+      {
+        "method": "乾燥（花）",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "色と香りは残るが、辛味は大幅に減少する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ピリッとしたコショウやワサビに似た辛味と、わずかな甘み。",
+      "aroma_compounds": [
+        "ベンジルイソチオシアネート"
+      ],
+      "texture_characteristics": "葉は柔らかく、花は繊細でビロードのような食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動への適応性に関する定量的な科学研究は非常に少ない。評価は園芸的な知見と植物の生理学的特性からの推測に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上で生育が著しく阻害される。",
+      "cold_tolerance": "0°C（霜に非常に弱い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "定期的な降雨を好むが、水はけの良い土壌が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低（葉や茎が傷つきやすい）",
+      "hail_damage_recovery": "低",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中（原産地が高地であるため、ある程度の耐性を持つ可能性）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によるアブラムシの発生期間長期化に対して脆弱。",
+      "disease_resistance_stability": "高温多湿環境でのうどんこ病や灰色かび病のリスクが増加する可能性。",
+      "beneficial_organism_relationships": "温暖化による受粉昆虫の活動変化が繁殖に影響する可能性。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯、亜熱帯、熱帯高地",
+        "2050_projection": "温帯地域では栽培期間が短縮またはシフトする可能性。より高緯度・高地への適地移動。",
+        "2100_projection": "現在の主要栽培地（温帯）の多くで夏の高温による生育不良が深刻化する可能性。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸品種作出のための人為的な交配事例は豊富。自然環境下での交雑や遺伝子流動に関する生態学的研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "つる性、矮性、八重咲きなど多数の園芸品種間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Tropaeolum minusと容易に交雑し、多くの園芸品種の親となっている。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "園芸環境下では、異なる品種間での自然交雑が頻繁に観察される。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地における在来品種の多様性に関する情報は乏しい。",
+      "wild_gene_pool": "アンデス地域に分布する多数の野生近縁種が、耐病性や環境ストレス耐性などの有用な遺伝子供給源となる可能性がある。",
+      "adaptive_genetic_variation": "園芸品種は主に花の色や形で選抜されており、気候適応に関する遺伝的多様性は限定的かもしれない。",
+      "inbreeding_depression_risk": "自家受粉も可能だが、他家受粉が主であり、近交弱勢のリスクは比較的小さい。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "高地に適応した野生種との交雑により、耐寒性や耐乾性を向上させる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "花色、葉の斑入り、香りなどの新しい形質の導入が可能。",
+      "hybrid_vigor_potential": "種間雑種において強健性が増す事例が報告されている。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "多くのTropaeolum属内では交雑和合性が高い。",
+      "chromosome_compatibility": "基本染色体数が同じ種同士では交雑しやすい。",
+      "fertility_of_hybrids": "多くの場合、雑種は稔性を持つ。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "受粉媒介者（ハチ、ハチドリ）",
+        "adaptive_traits": "花の色、形、蜜の量",
+        "heritability": "高い",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "コンパニオンプランツとしての知見は豊富だが、土壌改良や炭素固定に関する定量的な研究データは不足している。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い根系。",
+      "organic_matter_contribution": "地上部のバイオマスが多く、緑肥として利用可能。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "つる性の品種は地表を覆うことで土壌の侵食を抑制する（リビングマルチ）。",
+      "nutrient_cycling_role": "痩せ地でも生育可能で、過剰な養分を必要としない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "ハチ、チョウ、ハチドリなど多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "テントウムシなどの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "多様な昆虫相を育むことで、農園全体の生物多様性に貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により雨滴の衝撃を和らげ、浸透を助ける。",
+      "moisture_retention": "リビングマルチとして土壌の乾燥を防ぐ。",
+      "runoff_reduction": "地表流出を抑制する効果がある。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。一年草であるため、永続的な固定はしない。",
+      "below_ground_carbon": "低い。",
+      "soil_carbon_enhancement": "残渣をすき込むことで土壌有機物を増やすが、効果は限定的。",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ウリ科（カボチャ、キュウリ）",
+        "アブラナ科（キャベツ、ブロッコリー）",
+        "トマト",
+        "リンゴ"
+      ],
+      "natural_pest_control": "アブラムシの「おとり植物（トラップクロップ）」として機能する。コナジラミ、ウリハムシ、カメムシなどを忌避する効果があるとされる（アレロパシー）。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "根から害虫忌避物質を放出する可能性が示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な生物を引き寄せることで、生態系の安定に貢献する。",
+      "stress_tolerance": "個体レベルのストレス耐性は高くないが、システム全体への貢献は大きい。",
+      "recovery_capacity": "生育が早いため、軽微なダメージからの回復は速い。",
+      "adaptability": "遺伝的多様性が高く、様々な環境に適応した品種がある。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代における利用法は、市場トレンドや料理雑誌などで広く確認できる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "サラダや料理の彩りとして、微量栄養素と機能性成分を手軽に摂取できる。",
+      "food_security_contribution": "主要作物ではないが、家庭菜園レベルでの食料自給と栄養改善に貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットやCSA（地域支援型農業）で人気の品目。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "食用花市場",
+        "機能性ハーブ製品（チンキ、サプリメント）",
+        "自然派化粧品"
+      ],
+      "value_added_products": [
+        "ノウゼンハレンのピクルス",
+        "ハーブビネガー",
+        "ドライフラワー"
+      ],
+      "niche_market_value": "エディブルフラワーとしての価値が非常に高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栽培種は世界中に広まっており絶滅リスクは低いが、原産地の野生近縁種や在来種の保全状況に関する情報は不足している。"
+    },
+    "genetic_erosion_risk": "中（商業的に流通する品種が均一化し、多様な在来種や家庭菜園で維持されてきた品種が失われるリスク）",
+    "habitat_loss_threat": "原産地アンデス地域における土地開発や気候変動が、野生近縁種の生息地を脅かしている。",
+    "climate_change_vulnerability": "高い（野生近縁種の生息域が気候変動により縮小するリスク）",
+    "cultural_erosion_risk": "中（原産地での伝統的薬用利用に関する知識が失われつつある）",
+    "conservation_actions_needed": [
+      "原産地における野生近縁種の生息域内（in-situ）保全",
+      "多様な遺伝資源の種子バンクでの域外（ex-situ）保全",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "ペルー、ボリビア、コロンビアのアンデス山脈"
+    ],
+    "ex_situ_conservation_status": "主要な種子バンクには多数の園芸品種が保存されているが、野生種の網羅性は不明。",
+    "in_situ_conservation_efforts": "不明"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "南米アンデス（原産地での遺伝的多様性と伝統的利用）",
+      "ヨーロッパ（文化への受容と変容の歴史）"
+    ],
+    "knowledge_gaps": [
+      "原産地での民族植物学的利用の詳細",
+      "気候変動に対する生理学的応答の定量的データ",
+      "野生近縁種の遺伝資源としての評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種の情報は豊富だが、伝統的な在来品種に関する学術的情報は少ない。"
+      },
+      "variety_name": "Alaska Series",
+      "local_name": "Alaska",
+      "origin_region": "園芸作出（アメリカ）",
+      "distinctive_characteristics": "白やクリーム色の斑が入る美しい葉を持つ。花色も多様。",
+      "cultural_importance": "観賞価値と食用価値を両立させた代表的な現代品種。",
+      "climate_adaptation": "標準的なT. majusに準じる。",
+      "conservation_status": "広く流通"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種の情報は豊富だが、伝統的な在来品種に関する学術的情報は少ない。"
+      },
+      "variety_name": "Empress of India",
+      "local_name": "Empress of India",
+      "origin_region": "園芸作出（イギリス、19世紀）",
+      "distinctive_characteristics": "濃い青緑色の葉と、鮮やかな緋色の花が特徴の歴史的品種。",
+      "cultural_importance": "ビクトリア朝時代から愛される伝統的な園芸品種。",
+      "climate_adaptation": "標準的なT. majusに準じる。",
+      "conservation_status": "広く流通"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Gardens 'Plants of the World Online'",
+      "USDA GRIN Global",
+      "Ethnobotanical literature",
+      "Horticultural databases"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "原産地での在来種の多様性と保全状況"
+    ],
+    "regional_data_coverage": "欧米中心で、原産地南米に関するデータは比較的少ない。",
+    "missing_information": [
+      "商業生産に関する統計データ",
+      "野生近縁種との自然交雑に関する生態学的研究"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

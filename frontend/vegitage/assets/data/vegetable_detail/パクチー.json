@@ -1,0 +1,774 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農学研究、民族植物学の文献から情報を統合。野生種に関する情報は限定的だが、栽培種としての記録は豊富。"
+    },
+    "primary_name": "Coriander",
+    "scientific_name": "Coriandrum sativum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "種子",
+      "根"
+    ],
+    "origin_region": "地中海東部地域、中東",
+    "wild_relatives": [
+      "Coriandrum tordylium (近縁種とされるが、分類学的議論あり)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書、言語データベース、植物名辞典から情報を集約。"
+    },
+    "international": {
+      "en": [
+        "Coriander",
+        "Cilantro",
+        "Chinese Parsley"
+      ],
+      "scientific_common": "Coriandrum"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "धनिया (Dhania)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "கொத்தமல்லி (Kothamalli)",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "ผักชี (Phak Chi)",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Rau mùi",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "香菜 (Xiāngcài)",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "كزبرة (Kuzbara)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "گشنیز (Geshniz)",
+            "script": "Perso-Arabic"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Cilantro",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Coriandre",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Кориандр (Koriandr)",
+            "script": "Cyrillic"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Coriander",
+      "la": "Coriandrum"
+    },
+    "species": {
+      "en": "Coriander",
+      "la": "sativum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史的文献、民族植物学、現代の料理文化に関する広範な記録に基づく。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "カレー、チャツネ、マサラの必須材料。アーユルヴェーダでは消化促進や解熱に利用。宗教儀式でのお供え物としても使用される。",
+        "seasonal_significance": "冬から春にかけて新鮮な葉が豊富になる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬味"
+        ],
+        "traditional_uses": "タイ料理では根をカレーペーストに、葉と茎をスープ（トムヤムクン）やサラダの風味付けに多用。ベトナムのフォーには欠かせない薬味。",
+        "seasonal_significance": "年間を通じて栽培されるが、涼しい乾季に品質が向上する。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中南米",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬味"
+        ],
+        "traditional_uses": "サルサ、ワカモレ、セビーチェなど、多くの料理で新鮮な葉（シラントロ）が使われる。スープや米料理の風味付けにも不可欠。",
+        "seasonal_significance": "地域により年間を通じて利用可能。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東・北アフリカ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "種子はスパイスミックス（タジン、ファラフェル）に、葉はサラダや煮込み料理に使われる。伝統医学で利用される歴史が長い。",
+        "seasonal_significance": "涼しい季節に葉が、初夏に種子が収穫される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "チキンカレー",
+          "ダール",
+          "コリアンダーチャツネ"
+        ],
+        "preparation_methods": [
+          "生食（葉）",
+          "加熱（葉）",
+          "乾燥・粉砕（種子）"
+        ],
+        "cultural_context": "ほぼ全てのカレーやマサラのベースとなるスパイスであり、仕上げのガーニッシュとしても不可欠。風味と香りの両面で料理の骨格を形成する。"
+      },
+      {
+        "cuisine": "メキシコ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "サルサ・ベルデ",
+          "ワカモレ",
+          "タコス"
+        ],
+        "preparation_methods": [
+          "生食（葉）"
+        ],
+        "cultural_context": "「シラントロ」として知られ、その爽やかな香りが特徴。特に生の状態で使われ、料理にフレッシュさと彩りを加える。"
+      },
+      {
+        "cuisine": "タイ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "グリーンカレー",
+          "トムヤムクン"
+        ],
+        "preparation_methods": [
+          "ペースト化（根）",
+          "生食（葉）",
+          "加熱（葉）"
+        ],
+        "cultural_context": "葉、茎、根の全てが利用される。特に根はニンニクや胡椒と共にすり潰し、多くのカレーペーストや炒め物の基礎となる深い香りを生み出す。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプトの墓（ツタンカーメン王墓）から種子が発見されており、紀元前1550年頃の医学パピルスにも記載がある。古代ギリシャ・ローマでも薬用・香料として利用された。",
+      "trade_routes": "古代からシルクロードや香辛料貿易の重要品目の一つとして、アジア、中東、ヨーロッパ間で取引された。",
+      "cultural_exchange": "スペイン人によってアメリカ大陸にもたらされ、ラテンアメリカ料理に深く根付いた。アジア内でも仏教の伝播などと共に広まった。",
+      "domestication_history": "地中海東部から中東にかけての地域で栽培化が始まったと考えられている。数千年にわたる栽培の歴史の中で、葉用と種子用の品種群が分化してきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や涼しい乾季での栽培が適している。高温多湿では病気が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "秋から春にかけての涼しい季節が最適。夏の高温期は抽苔（ボルト）しやすい。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春と秋が栽培の適期。霜に弱いが、ある程度の涼しさには強い。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の短い期間に栽培可能。高温になりすぎると葉の収穫期間が短くなる。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。乾燥には比較的強いが、水分が収量と品質に影響する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3-5月）、秋（9-10月）",
+        "harvest_season": "春蒔きは初夏、秋蒔きは晩秋から初冬",
+        "growing_period_days": "40-60日（葉）、90-120日（種子）"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋（10月）から冬（2月）",
+        "harvest_season": "冬から春",
+        "growing_period_days": "45-70日（葉）、100-130日（種子）"
+      }
+    ],
+    "productivity": {
+      "yield_range": "1,000-2,500 kg/ha（種子）、5,000-15,000 kg/ha（生葉）",
+      "factors_affecting_yield": [
+        "播種時期",
+        "気温（高温による早期抽苔）",
+        "土壌水分",
+        "品種",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（FAO等の統計では主要スパイスとして一括されることが多い）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "世界最大の種子生産国。国内消費が主だが輸出も多い。"
+        },
+        {
+          "country": "メキシコ",
+          "production_share": "不明",
+          "characteristics": "生葉（シラントロ）の主要生産国。主に北米市場向け。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "国内消費向けの葉・種子の生産が盛ん。"
+        },
+        {
+          "country": "イラン",
+          "production_share": "不明",
+          "characteristics": "伝統的な種子生産国の一つ。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生葉の基本的な栄養価は確立されているが、品種や栽培条件による変動データは限定的。伝統的薬効に関する記述は多いが、臨床的エビデンスは発展途上。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "23",
+        "protein_g": "2.1",
+        "carbs_g": "3.7",
+        "fat_g": "0.5",
+        "fiber_g": "2.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "310 mcg",
+          "daily_value_percent": "258"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "6748 IU",
+          "daily_value_percent": "135"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "27 mg",
+          "daily_value_percent": "45"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.4 mg",
+          "daily_value_percent": "21"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "リナロール",
+        "concentration": "精油の主成分",
+        "health_effect": "抗不安、鎮静、抗酸化作用の可能性"
+      },
+      {
+        "compound": "ポリフェノール類（ケルセチンなど）",
+        "concentration": "葉に豊富",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "ドデセナール",
+        "concentration": "葉に含まれるアルデヒド類",
+        "health_effect": "抗菌作用（サルモネラ菌に対する効果が研究されている）"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "消化促進",
+          "食欲増進",
+          "解熱",
+          "利尿作用"
+        ],
+        "preparation": "種子の煎じ薬、葉のジュース"
+      },
+      {
+        "region": "中東",
+        "medical_system": "ユナニ医学",
+        "uses": [
+          "不安や不眠の緩和",
+          "血糖値コントロール",
+          "駆風（腸内ガスの排出）"
+        ],
+        "preparation": "種子の粉末や浸出液"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗菌作用"
+      ],
+      "ongoing_research": [
+        "血糖降下作用",
+        "抗不安作用",
+        "コレステロール低下作用",
+        "重金属キレート作用"
+      ],
+      "safety_considerations": "一般的に安全だが、アレルギー反応を示す人がいる。精油の高濃度摂取は避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理文化における利用法は広範に文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "中南米",
+        "methods": [
+          "生食",
+          "刻んで混ぜる"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "トマト",
+          "タマネギ",
+          "ライム",
+          "アボカド",
+          "唐辛子"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "炒める（種子）",
+          "煮込む（種子）",
+          "生食（葉、仕上げに）"
+        ],
+        "flavor_role": "香辛料（種子）、薬味（葉）",
+        "typical_combinations": [
+          "クミン",
+          "ターメリック",
+          "ショウガ",
+          "ニンニク"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "すり潰す（根）",
+          "煮込む（茎）",
+          "生食（葉）"
+        ],
+        "flavor_role": "香りのベース（根）、薬味（葉）",
+        "typical_combinations": [
+          "レモングラス",
+          "ガランガル",
+          "ニンニク",
+          "ナンプラー"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（種子）",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-3年",
+        "quality_changes": "香りがよりナッツ様でスパイシーに変化する。"
+      },
+      {
+        "method": "冷凍（葉）",
+        "regions": [
+          "北米",
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感は失われるが、香りは比較的保たれる。"
+      },
+      {
+        "method": "粉砕（種子）",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数ヶ月（香りが飛びやすい）",
+        "quality_changes": "香りが立ちやすくなるが、揮発も早まる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "葉：爽やかで柑橘系、わずかに石鹸様（特定の遺伝子型を持つ人）。種子：暖かく、ナッツ様、スパイシーで柑橘系の香り。",
+      "aroma_compounds": [
+        "リナロール（フローラル、シトラス）",
+        "デセナール（アルデヒド、葉の独特の香り）",
+        "ピネン（松のような香り、種子）"
+      ],
+      "texture_characteristics": "葉：柔らかい。茎：シャキシャキしている。種子：硬い。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する定性的な農学的知見は多いが、気候変動モデルに基づいた定量的な研究は非常に少ない。品種間差が大きいと推測されるが、データは不足している。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低（葉の生産において）",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°Cを超えると生育が著しく悪化し、早期抽苔（ボルト）する。",
+      "cold_tolerance": "-5°C程度までの軽い霜には耐えるが、強い霜では枯死する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低。根腐れを起こしやすい。",
+      "optimal_rainfall": "600-800 mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低。茎が折れやすく、葉が傷みやすい。",
+      "hail_damage_recovery": "低",
+      "rapid_temperature_change": "中程度。急激な高温は抽苔を誘発する。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。C3植物としてポジティブな効果が期待されるが、精油成分への影響は未解明。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやヨトウムシの発生期間が長期化する可能性がある。",
+      "disease_resistance_stability": "高温多湿はうどんこ病や立ち枯れ病のリスクを高める。",
+      "beneficial_organism_relationships": "多様な訪花昆虫を誘引するため、生態系が安定していれば天敵による害虫抑制が期待できる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯、亜熱帯、熱帯高地",
+        "2050_projection": "栽培適地がより高緯度・高標高へシフトする可能性。温帯地域では春・秋作に限定される傾向が強まる。",
+        "2100_projection": "低緯度地域での葉の生産は、耐熱性品種が開発されない限り困難になる可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種内の遺伝的多様性に関する研究は多いが、種間交雑や野生近縁種との交雑に関する情報は非常に乏しい。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "葉用（抽苔が遅い）品種と種子用（抽苔が早い）品種間の交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "不明"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "畑で異なる品種を栽培した場合、自然な交雑が頻繁に起こる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "インド、中東、地中海地域には、種子の大きさ、精油成分、生育習性が異なる多様な在来種が存在する。",
+      "wild_gene_pool": "野生近縁種との関係が不明確なため、利用可能な野生遺伝子プールは限定的。",
+      "adaptive_genetic_variation": "抽苔性、耐病性、精油組成に関する遺伝的変異が報告されている。",
+      "inbreeding_depression_risk": "他家受精性植物であるため、自家受精を繰り返すと近交弱勢が起こりやすい。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "抽苔が遅い（耐暑性）特性を持つ品種の育種は可能。",
+      "improved_nutritional_content": "抗酸化物質や特定のビタミン含有量を高める育種の可能性がある。",
+      "novel_characteristics": "葉と種子で異なる香気成分プロファイルを持つ品種の創出。",
+      "hybrid_vigor_potential": "F1品種において、生育の早さや収量性で雑種強勢が見られることがある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほとんどない。",
+      "chromosome_compatibility": "2n = 22。種内では問題ない。",
+      "fertility_of_hybrids": "種内交雑では通常、稔性は維持される。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "高温",
+        "adaptive_traits": "遅い抽苔性",
+        "heritability": "中程度",
+        "response_to_selection": "選抜により改善可能"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "コエンドロに特化したリジェネラティブ農業の研究は少ないが、その植物学的特性から多くの便益が推測される。特に生物多様性への貢献は広く認識されている。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い直根性。土壌表層の団粒構造形成に寄与する可能性がある。",
+      "organic_matter_contribution": "一年草のため残渣の量は限定的だが、緑肥としてすき込むことで有機物を供給できる。",
+      "soil_structure_improvement": "限定的",
+      "erosion_control": "生育初期の被覆度は低く、単作での侵食防止効果は小さい。",
+      "nutrient_cycling_role": "特筆すべき能力はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さな白い花は、ハナアブ、ヒメハナバチ、寄生蜂など多様な小型の訪花昆虫を誘引する。",
+      "beneficial_insect_habitat": "捕食性カメムシや寄生蜂の蜜源・花粉源となり、天敵昆虫の定着を助ける。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "アグロエコシステムにおける生物多様性を高める重要なバンカープラント（天敵温存植物）となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "限定的",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ジャガイモ（コロラドハムシを遠ざけるとされる）",
+        "ホウレンソウ（アブラムシを遠ざけるとされる）",
+        "アブラナ科野菜（天敵を呼び寄せる）"
+      ],
+      "natural_pest_control": "アブラムシ、ハダニ、コロラドハムシなどを忌避する効果が報告されている。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "アニスやフェンネルの生育を阻害する可能性が示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "天敵昆虫を増やすことで、生態系の自己制御機能を高め、農薬への依存を減らすことに貢献する。",
+      "stress_tolerance": "植物個体としては高くないが、生態系サービスを通じてシステム全体の安定性を向上させる。",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、食品科学、栄養学の分野で広く研究・報告されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "微量栄養素が豊富で、風味付けとして塩分や脂肪の代替となり、健康的な植物性食品の魅力を高める。",
+      "food_security_contribution": "栽培が容易で生育期間が短いため、家庭菜園や都市農業に適しており、地域レベルの食料自給に貢献できる。",
+      "local_food_system_integration": "新鮮さが重要な葉は、地産地消に適している。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エスニック料理の世界的な人気拡大",
+        "機能性食品・サプリメント市場",
+        "エッセンシャルオイル（香料、アロマセラピー）市場"
+      ],
+      "value_added_products": [
+        "コリアンダーペースト、ソース",
+        "ハーブティー",
+        "健康補助食品（種子抽出物）",
+        "クラフトジンのボタニカル原料"
+      ],
+      "niche_market_value": "特定の香気成分を強化した品種や、有機栽培、スローボルト品種などにニッチ市場価値がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは認識されているが、具体的な保全活動の包括的なデータは少ない。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の生息地は脅威にさらされている可能性があるが、情報が不足している。",
+    "climate_change_vulnerability": "栽培適地の変化により、特定の地域に特化した在来種が危機に瀕する可能性がある。",
+    "cultural_erosion_risk": "低。世界中で利用されているため文化的消失リスクは低いが、特定の地域固有の利用法は失われる可能性がある。",
+    "conservation_actions_needed": [
+      "原産地および二次的多様性中心地（インドなど）における在来種の収集と評価",
+      "ジーンバンクにおける種子の長期保存",
+      "参加型育種による地域適応品種の維持と利用促進"
+    ],
+    "priority_conservation_regions": [
+      "地中海東部",
+      "中東",
+      "インド亜大陸"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（USDA、世界野菜センター等）に多数のアクセスが保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部の地域で農家による自家採種を通じて在来種が維持されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロンプトで収集した情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド（種子の多様性）",
+      "メキシコ（葉用シラントロの適応）",
+      "タイ（全部位利用の文化と遺伝資源）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する品種レベルでの定量的応答データ",
+      "リジェネラティブ農業システムにおける生態系サービス機能の定量的評価",
+      "野生近縁種の正確な分布と遺伝的関係"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "商業品種の情報は多いが、伝統的な在来種の学術的記録は断片的。"
+      },
+      "variety_name": "Slow Bolt Cultivars",
+      "local_name": "Leisure, Santo, Calypsoなど",
+      "origin_region": "主に北米・ヨーロッパで育種",
+      "distinctive_characteristics": "抽苔（花芽が伸びること）が遅く、葉の収穫期間が長い。耐暑性が比較的高い。",
+      "cultural_importance": "商業的な生葉（シラントロ）生産において標準的な品種群。",
+      "climate_adaptation": "温暖な気候での葉の生産に適応している。",
+      "conservation_status": "広く利用可能"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "インドの在来種は多様だが、品種としての体系的な記録は少ない。"
+      },
+      "variety_name": "Indian Landraces (e.g., from Rajasthan)",
+      "local_name": "地域名による（例：RCR-41）",
+      "origin_region": "インド",
+      "distinctive_characteristics": "主に種子生産用。小粒で精油含量が高いものや、大粒でスパイス用に適したものなど多様。耐乾性が高い傾向がある。",
+      "cultural_importance": "インドのスパイス文化と経済を支える重要な遺伝資源。",
+      "climate_adaptation": "乾燥・半乾燥気候に適応している。",
+      "conservation_status": "ジーンバンクに保存されているが、農地では遺伝的浸食が懸念される。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens - Plants of the World Online",
+      "FAOSTAT",
+      "World Vegetable Center Genebank",
+      "Journal of Ethnopharmacology",
+      "Agronomy Journal"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種との遺伝的関係と交雑可能性"
+    ],
+    "regional_data_coverage": "南アジア、中南米、東南アジアは豊富。アフリカのデータは比較的少ない。",
+    "missing_information": [
+      "アフリカの土着的な利用法と遺伝資源に関する詳細情報",
+      "先住民コミュニティにおける固有の名称や利用法"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

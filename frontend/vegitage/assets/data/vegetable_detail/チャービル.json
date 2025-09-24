@@ -1,0 +1,593 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、園芸学の文献に基づいています。野生近縁種に関する詳細な遺伝的関係は限定的です。"
+    },
+    "primary_name": "Chervil",
+    "scientific_name": "Anthriscus cerefolium",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "コーカサス、南東ヨーロッパ、西アジア",
+    "wild_relatives": [
+      "Anthriscus sylvestris (Cow Parsley)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパ言語圏での名称は広く記録されていますが、原産地であるコーカサス地域の多様な言語での名称はデータが不足しています。"
+    },
+    "international": {
+      "en": [
+        "Chervil",
+        "French Parsley"
+      ],
+      "scientific_common": "Garden Chervil"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Cerfeuil",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Gartenkerbel",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Cerfoglio",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Perifollo",
+            "script": "Latn"
+          },
+          {
+            "lang": "nl",
+            "name": "Kervel",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "チャービル",
+            "script": "Kana"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づいています。"
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Chervil",
+      "la": "Anthriscus"
+    },
+    "species": {
+      "en": "Garden Chervil",
+      "la": "cerefolium"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "フランス料理における重要性は広く文書化されていますが、原産地での文化的価値に関する現代的な記録は乏しいです。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "特にフランス料理でパセリ、タラゴン、チャイブと共に「フィーヌ・ゼルブ」を構成する重要なハーブ。繊細な風味付けに使われる。伝統的に春の強壮剤や血液浄化剤としても利用された。",
+        "seasonal_significance": "春の到来を告げるハーブとして、イースターなどの春の祝祭料理に用いられることがある。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "主にヨーロッパ料理の影響を受けた高級料理や家庭菜園で利用される。一般の食文化には深く浸透していない。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Béarnaise sauce",
+          "Omelette aux fines herbes",
+          "Potage Crécy"
+        ],
+        "preparation_methods": [
+          "生食",
+          "加熱（仕上げに加える）"
+        ],
+        "cultural_context": "繊細さと優雅さを象徴するハーブとして、フランスのガストロノミーにおいて中心的な役割を果たす。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマ人によってヨーロッパ全土に広められたとされる。大プリニウスが言及している。",
+      "trade_routes": "主要な交易品ではなかったが、ローマ帝国の拡大と共に人の移動によって伝播した。",
+      "cultural_exchange": "ローマ文化の食文化が各地に広まる過程で、ハーブ利用の一例として伝わった。",
+      "domestication_history": "正確な栽培化の歴史は不明だが、古代から薬用・食用として利用され、中世の修道院で栽培されていた記録がある。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に非常に弱く、生育しない。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "冬季の涼しい期間のみ栽培可能だが、すぐに抽苔（トウ立ち）する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な気候を好む。春と秋が最適な栽培シーズン。半日陰で湿潤な土壌が理想。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さが厳しい地域では栽培が困難。春の早い時期か秋の栽培に限られる。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に弱く、十分な灌漑が必要。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な夏に適応可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春、初秋",
+        "harvest_season": "春〜初夏、秋〜初冬",
+        "growing_period_days": 40
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照（強すぎると品質低下）",
+        "気温（高温で抽苔）",
+        "水分量",
+        "土壌の肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "国内消費が中心の高品質な生産。"
+        },
+        {
+          "country": "オランダ",
+          "production_share": "不明",
+          "characteristics": "施設栽培によるヨーロッパ市場への供給。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "カリフォルニア州などで小規模な商業生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価はUSDA等のデータベースに存在するが、機能性成分に関する詳細な研究は限定的。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "23",
+        "protein_g": "2.9",
+        "carbs_g": "3.0",
+        "fat_g": "0.4",
+        "fiber_g": "1.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA",
+          "amount": "5850 IU",
+          "daily_value_percent": "117%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "50 mg",
+          "daily_value_percent": "83%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.6 mg",
+          "daily_value_percent": "9%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "138 mg",
+          "daily_value_percent": "14%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "エストラゴール",
+        "concentration": "不明",
+        "health_effect": "特徴的な香りの主成分。抗酸化、抗菌作用が示唆される。"
+      },
+      {
+        "compound": "フラボノイド（アピイン等）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "消化促進",
+          "利尿作用",
+          "血液浄化",
+          "高血圧の緩和"
+        ],
+        "preparation": "生葉の浸出液（ハーブティー）、湿布"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "エッセンシャルオイルの抗酸化・抗菌活性"
+      ],
+      "safety_considerations": "エストラゴールには高濃度で肝毒性や発がん性の懸念が指摘されているが、通常の食事からの摂取量では問題ないとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "特にヨーロッパの料理本や食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ（特にフランス）",
+        "methods": [
+          "生で刻んで使用",
+          "調理の最後に加える"
+        ],
+        "flavor_role": "香辛料/薬味",
+        "typical_combinations": [
+          "卵料理",
+          "鶏肉",
+          "魚介類",
+          "スープ",
+          "サラダドレッシング"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "香りがほとんど失われるため、推奨されない。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "香りを比較的よく保つことができる。バターやオリーブオイルと混ぜて凍らせる方法が効果的。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "アニスやリコリスに似た、繊細で甘く、わずかにコショウのような風味。",
+      "aroma_compounds": [
+        "エストラゴール",
+        "メチルオイゲノール"
+      ],
+      "texture_characteristics": "柔らかく、繊細な葉。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "チャービルの気候変動応答に関する直接的な研究はほぼ存在しない。評価は、その栽培要件とセリ科植物の一般的な特性に基づく定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "25°C以上で生育が著しく悪化し、抽苔する。",
+      "cold_tolerance": "-5°C程度までの軽い霜には耐える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "一貫して湿潤な土壌を好む。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い。植物体が繊細なため、強風や豪雨で損傷しやすい。",
+      "hail_damage_recovery": "低い。",
+      "rapid_temperature_change": "敏感。特に急激な高温は抽苔を誘発する。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。一般的にC3植物は効果があるとされるが、本種でのデータはない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明。半日陰を好むことから、強い紫外線には弱い可能性がある。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシなどの発生期間が長くなるリスクがある。",
+      "disease_resistance_stability": "うどんこ病や立ち枯れ病など、多湿条件で発生しやすい病気のリスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "天敵誘引効果は気候変動下でも維持される可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域の冷涼な気候帯",
+        "2050_projection": "栽培適地は高緯度地域や高標高地へシフト。平野部での夏栽培はさらに困難になる。",
+        "2100_projection": "シフトがさらに進行。現在の主要産地でも栽培時期が春と秋の短い期間に限定される可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 2
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "自然交雑に関する学術的報告は非常に少ない。有毒な近縁種との交雑可能性はしばしば指摘されるが、その頻度や遺伝的障壁に関するデータは不足している。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "カーリータイプとフラットリーフタイプは容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "同属の野生種、特に*Anthriscus sylvestris*（シャク）との交雑可能性が指摘される。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告はない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地のコーカサス地域には多様な遺伝資源が存在する可能性があるが、調査は不十分。",
+      "wild_gene_pool": "野生近縁種からの遺伝子移入の可能性はあるが、詳細は不明。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "自家受粉しやすいため、小規模な集団ではリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐暑性や耐乾性を持つ野生種との交雑により、これらの特性が向上する理論的可能性はある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "有毒な近縁種と交雑した場合、アルカロイドなどの望ましくない特性が導入されるリスクがある。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 3
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "チャービルをリジェネラティブ農業の文脈で評価した研究はない。評価は、セリ科植物の一般的特性とバンカープランツとしての機能からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅い直根性。土壌構造への影響は限定的。",
+      "organic_matter_contribution": "生育期間が短くバイオマスが少ないため、有機物供給への貢献は小さい。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "被覆率が低いため、効果は小さい。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "繖形花序の花は、ハナアブ、ヒメハナバチ、寄生蜂など多様な小型の送粉者や天敵昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "捕食性昆虫や寄生性昆虫にとって重要な蜜源・花粉源となり、バンカープランツとしての機能が期待できる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "天敵昆虫の多様性を高めることで、農生態系全体の安定に貢献する可能性がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "限定的。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。",
+      "below_ground_carbon": "低い。",
+      "soil_carbon_enhancement": "ごくわずか。",
+      "carbon_sequestration_rate": "非常に低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "レタス（アブラムシを遠ざけるとされる）",
+        "ラディッシュ（風味を良くするとされる）"
+      ],
+      "natural_pest_control": "天敵昆虫を誘引することで、アブラムシなどの害虫を抑制する効果が期待される。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "ナメクジを忌避する効果があるという伝承があるが、科学的証拠は乏しい。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "生物多様性を高めることで、間接的に安定性に貢献する可能性がある。",
+      "stress_tolerance": "植物個体としてのストレス耐性は低い。",
+      "recovery_capacity": "低い。",
+      "adaptability": "低い。"
+    },
+    "regenerative_score": 4
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場動向は主に料理業界のトレンドに基づいている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "風味付けとして、塩分や脂肪分の多い調味料の使用を減らすのに役立つ可能性がある。",
+      "food_security_contribution": "主要な食料源ではないため、直接的な貢献は小さい。",
+      "local_food_system_integration": "家庭菜園や小規模農家で栽培しやすく、地域のレストランやファーマーズマーケットへの供給に適している。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "家庭菜園キット",
+        "フレッシュハーブ市場",
+        "高級レストラン向け"
+      ],
+      "value_added_products": [
+        "ハーブビネガー",
+        "ハーブバター（冷凍）",
+        "フィーヌ・ゼルブミックス"
+      ],
+      "niche_market_value": "西洋料理、特にフランス料理の分野で高い価値を持つニッチなハーブ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "保全状況に関する公式な評価はほとんどない。リスク評価は一般的な傾向からの推測である。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地であるコーカサス地域の野生個体群は、生息地の開発や環境変化の脅威に晒されている可能性がある。",
+    "climate_change_vulnerability": "高い。耐暑性が低いため、温暖化による栽培適地の喪失リスクがある。",
+    "cultural_erosion_risk": "中。伝統的なフランス料理以外での利用が広まらない場合、食文化としての多様性が失われる可能性がある。",
+    "conservation_actions_needed": [
+      "原産地における野生個体群の調査と遺伝資源の収集・保存",
+      "多様な栽培品種の種子バンクでの保存"
+    ],
+    "priority_conservation_regions": [
+      "コーカサス山脈地域"
+    ],
+    "ex_situ_conservation_status": "主要な種子バンクにはいくつかのアクセッションが保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "不明"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "総合的な評価は、入手可能なデータと専門家の知見に基づく。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 5,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "フランス（文化的利用）",
+      "コーカサス（遺伝的多様性）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答",
+      "リジェネラティブ農業システムにおける定量的貢献",
+      "野生近縁種との遺伝的関係と交雑リスク",
+      "原産地での民族植物学的利用"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種として広く知られている。"
+      },
+      "variety_name": "Plain Chervil / Vertissimo",
+      "local_name": "Cerfeuil commun",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "平らな葉を持ち、香りが強い。生育が旺盛で、料理での利用に最も一般的。",
+      "cultural_importance": "料理用として標準的な品種。",
+      "climate_adaptation": "標準的な品種と同様、冷涼な気候を好む。",
+      "conservation_status": "栽培下で安定"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種として広く知られている。"
+      },
+      "variety_name": "Curled Chervil / Crispum",
+      "local_name": "Cerfeuil frisé",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "葉が縮れており、装飾的。香りはプレーンタイプより穏やか。",
+      "cultural_importance": "料理の飾り（ガロニ）として利用されることが多い。",
+      "climate_adaptation": "標準的な品種と同様、冷涼な気候を好む。",
+      "conservation_status": "栽培下で安定"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Plants of the World Online (Kew)",
+      "USDA FoodData Central",
+      "Horticultural encyclopedias",
+      "Culinary ethnobotany literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生遺伝資源の評価"
+    ],
+    "regional_data_coverage": "ヨーロッパ中心であり、原産地である西アジア・コーカサス地域の情報が不足している。",
+    "missing_information": [
+      "年間生産量統計",
+      "自然交雑の実例",
+      "気候ストレスに関する実験データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

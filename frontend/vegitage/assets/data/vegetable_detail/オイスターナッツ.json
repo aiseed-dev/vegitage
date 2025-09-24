@@ -1,0 +1,571 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew Gardens' Plants of the World Online, PROTA）から統合。野生近縁種に関する詳細な生態学的情報は限定的。"
+    },
+    "primary_name": "Oyster Nut",
+    "scientific_name": "Telfairia pedata",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "種子",
+      "葉"
+    ],
+    "origin_region": "東アフリカ（タンザニア沿岸部、ザンジバル、モザンビーク北部）",
+    "wild_relatives": [
+      "Telfairia occidentalis",
+      "Telfairia batesii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な通称および東アフリカでの主要な現地名は広く記録されている。"
+    },
+    "international": {
+      "en": [
+        "Oyster Nut",
+        "Queen's Nut",
+        "Zanzibar Oilvine"
+      ],
+      "scientific_common": "Telfairia"
+    },
+    "regional": [
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Mkungo",
+            "script": "Latn"
+          },
+          {
+            "lang": "sw",
+            "name": "Kweme",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "スワヒリ語圏コミュニティ（タンザニア、ケニア沿岸部）",
+        "name": "Mkungo/Kweme",
+        "cultural_significance": "伝統的な食料源、油糧作物、薬用植物として世代を超えて利用されてきた重要な植物。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースからの情報を統合。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Telfairia",
+      "la": "Telfairia"
+    },
+    "species": {
+      "en": "Oyster Nut",
+      "la": "pedata"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アフリカでの文化的価値は民族植物学的研究でよく文書化されているが、他地域での認知度は非常に低い。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "種子はローストしてスナックとして、またはすり潰してスープやシチューのとろみ付けに利用される。種子から採れる油は調理用、灯火用、化粧品として価値が高い。",
+        "seasonal_significance": "多年生のため年間を通じて収穫可能だが、乾季に保存食として特に重要となる。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "スワヒリ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Mchuzi wa kweme (オイスターナッツのシチュー)"
+        ],
+        "preparation_methods": [
+          "焙煎",
+          "煮込み",
+          "製粉",
+          "搾油"
+        ],
+        "cultural_context": "沿岸地域の食文化と経済に深く根ざした伝統食材。特に栄養価の高い脂肪とタンパク質源として重宝される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "東アフリカ沿岸部で数世紀にわたり栽培・利用されてきた歴史がある。",
+      "trade_routes": "アラブ商人とのインド洋交易において、油や種子が取引されていた可能性がある。",
+      "cultural_exchange": "不明",
+      "domestication_history": "正確な栽培化の歴史は不明だが、東アフリカの在来種であり、現地で長い年月をかけて選抜されてきたと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間降雨量1000-2500mm、平均気温20-30°Cの湿潤な熱帯低地。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な亜熱帯地域。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に弱く、生育には不適。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "低温と乾燥のため不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度を好むため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "植え付けから約6-8ヶ月で最初の収穫、その後多年生として継続的に収穫。",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "データ不足。1本のつるから年間50-100個の果実が収穫できるとの報告あり。",
+      "factors_affecting_yield": [
+        "受粉（雌雄異株）",
+        "つるの支持（棚や樹木）",
+        "土壌肥沃度",
+        "水分供給"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "タンザニア",
+          "production_share": null,
+          "characteristics": "主要生産国。主に小規模農家が自家消費および国内市場向けに生産。"
+        },
+        {
+          "country": "ケニア",
+          "production_share": null,
+          "characteristics": "沿岸部で栽培。"
+        },
+        {
+          "country": "ウガンダ",
+          "production_share": null,
+          "characteristics": "一部地域で栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な栄養素である脂質とタンパク質の含有量に関するデータは豊富だが、微量栄養素や機能性成分に関する研究は限られている。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約600-700",
+        "protein_g": "25-30",
+        "carbs_g": "8-15",
+        "fat_g": "55-65",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "リン",
+          "amount": "高",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "高",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "亜鉛",
+          "amount": "中",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "不飽和脂肪酸（オレイン酸、リノール酸）",
+        "concentration": "油分の約80%",
+        "health_effect": "心血管系の健康維持"
+      },
+      {
+        "compound": "トコフェロール（ビタミンE）",
+        "concentration": "高",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アフリカ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "授乳促進",
+          "皮膚疾患の治療",
+          "滋養強壮"
+        ],
+        "preparation": "種子をそのまま、または油を抽出して外用・内用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高タンパク・高脂質の栄養源",
+        "良質な不飽和脂肪酸が豊富"
+      ],
+      "ongoing_research": [
+        "抗酸化能",
+        "抗菌活性"
+      ],
+      "safety_considerations": "生食に関する安全性データは不足。伝統的に加熱調理される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アフリカでの利用法はよく知られているが、国際的な料理への応用例はほとんどない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アフリカ",
+        "methods": [
+          "焙煎",
+          "煮込み",
+          "製粉してペースト化",
+          "搾油"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "米",
+          "野菜（オクラ、トマト）",
+          "スパイス（カルダモン、クミン）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "東アフリカ"
+        ],
+        "shelf_life": "数ヶ月以上",
+        "quality_changes": "風味の凝縮。酸化に注意が必要。"
+      },
+      {
+        "method": "搾油",
+        "regions": [
+          "東アフリカ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "伝統的な低温圧搾法で製造される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "焙煎するとクリーミーで濃厚なナッツの風味。わずかな甘みと豊かなうま味があり、カシューナッツやアーモンドに似るが、より複雑な味わいを持つ。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "焙煎後はサクサクとした食感。すり潰すと滑らかなペースト状になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な耐性データはほぼ存在しない。評価は原産地の気候と植物の生態的特徴からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "0°C以下で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1000-2500mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（強固な支持物があれば高い）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として一般的に正の応答が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明",
+      "disease_resistance_stability": "在来種として地域の病害虫には比較的耐性があるとされるが、気候変動による新規病害虫への脆弱性は不明。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アフリカ沿岸部の湿潤熱帯地域",
+        "2050_projection": "栽培適地が内陸や高地へわずかに移動する可能性。沿岸部では干ばつ頻発によりストレスが増加する可能性。",
+        "2100_projection": "不明",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "交雑に関する実験的データは非常に乏しい。評価は同属種との関係性からの推測が主である。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "東アフリカ各地に存在する多数のランドレース間での交雑は可能と推測される。"
+      ],
+      "interspecific_compatibility": [
+        "西アフリカのTelfairia occidentalisとの交雑可能性は理論的には考えられるが、自然交雑の報告はない。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培地域には形態や種子サイズが異なる多様なランドレースが存在し、高い遺伝的多様性が示唆される。",
+      "wild_gene_pool": "原産地の森林に野生または半野生の個体群が存在し、遺伝子プールとして重要。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "雌雄異株であり他家受精が主であるため、近交弱勢のリスクは比較的低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "タンザニア・ペンバ島",
+        "environmental_pressure": "特有の土壌（サンゴ礁由来）と気候",
+        "adaptive_response": "地域固有のランドレースが成立している可能性が高い。",
+        "time_scale": "数世紀",
+        "mechanism": "地域内での選抜と遺伝的浮動"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "異なる地域のランドレース間の交雑により、耐乾性や耐病性を持つ品種が生まれる可能性がある。",
+      "improved_nutritional_content": "油分やタンパク質含有量の異なる系統の交配による改善の可能性がある。",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "高い可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "同属種間での染色体数の違いなどは不明。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": [
+          "深い根系",
+          "早期の成熟"
+        ],
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での直接的な研究はない。評価は、多年生つる植物としての生態的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範で深い根系を持つと推測され、土壌の団粒構造を安定させる可能性がある。",
+      "organic_matter_contribution": "豊富な落葉により、土壌表面に有機物層を形成する。",
+      "soil_structure_improvement": "根が土壌を物理的に改善する。",
+      "erosion_control": "地表を覆う葉と根系が土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に循環させる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きな花はハチなどの花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "大きな葉群は天敵昆虫などの隠れ家を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "つる性の構造が立体的な生息空間を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌の浸透性を高める。",
+      "moisture_retention": "有機物の供給により土壌の保水性が向上する。",
+      "runoff_reduction": "地表被覆により雨水の流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "巨大な木質化したつるとして、相当量の炭素を固定する。",
+      "below_ground_carbon": "広範な根系に炭素を蓄積する。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明だが、一年生作物よりはるかに高いと期待される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "伝統的にマンゴーやカポックなどの高木に這わせて栽培され、アグロフォレストリー体系を形成する。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、農業生態系の安定性に寄与する。",
+      "stress_tolerance": "一度定着すれば、一年生作物より干ばつなどの短期的なストレスに強い。",
+      "recovery_capacity": "高い",
+      "adaptability": "中"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ポテンシャルに関する議論は多いが、実際の商業的応用はまだ限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "優れた植物性タンパク質と健康的な脂質の供給源として非常に価値が高い。",
+      "food_security_contribution": "多年生で安定した収穫が見込めるため、地域の食料安全保障に貢献する。",
+      "local_food_system_integration": "伝統的なアグロフォレストリーシステムに容易に組み込める。",
+      "alternative_protein_potential": "ナッツバターや植物性ミルク、プロテインパウダーとしての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けの高級ナッツ市場",
+        "高品質な食用油市場",
+        "ビーガン・ベジタリアン向け食品原料"
+      ],
+      "value_added_products": [
+        "ローストナッツ",
+        "オイスターナッツバター",
+        "コールドプレスオイル",
+        "プロテイン粉末"
+      ],
+      "niche_market_value": "高い。エキゾチックなストーリー性と栄養価が強みとなる。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "定性的な脅威は認識されているが、個体数や遺伝的多様性の減少に関する定量データは不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地である東アフリカ沿岸林の伐採が野生個体群への最大の脅威。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高。若者世代が伝統的な食文化から離れ、栽培が放棄されるリスクがある。",
+    "conservation_actions_needed": [
+      "原生地の森林保全（In-situ）",
+      "遺伝資源の収集と種子バンクでの保存（Ex-situ）",
+      "持続可能な栽培と市場開拓による利用促進"
+    ],
+    "priority_conservation_regions": [
+      "タンザニアの東部弧状山脈と沿岸森林",
+      "ザンジバル諸島"
+    ],
+    "ex_situ_conservation_status": "いくつかの植物園や研究機関で保存されているが、包括的なコレクションは存在しない。",
+    "in_situ_conservation_efforts": "限定的。主に国立公園などの保護地域内での間接的な保全にとどまる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "収集した情報に基づく総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "タンザニア（沿岸部、ザンジバル）",
+      "ケニア（沿岸部）"
+    ],
+    "knowledge_gaps": [
+      "定量的気候変動耐性データ",
+      "ランドレースの遺伝的多様性解析",
+      "リジェネラティブ農業システムにおける機能評価",
+      "機能性成分の網羅的解析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "正式な品種登録はなく、地域的なランドレースとして区別されるが、その特性に関する科学的記述は乏しい。"
+      },
+      "variety_name": "ランドレース（名称不明）",
+      "local_name": "不明",
+      "origin_region": "東アフリカ",
+      "distinctive_characteristics": "果実の大きさ、種子の数や油分含有量に地域的な変異があると報告されているが、詳細は不明。",
+      "cultural_importance": "各地域コミュニティによって選抜・維持されてきた。",
+      "climate_adaptation": "それぞれの地域の微気候に適応していると考えられる。",
+      "conservation_status": "不明"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "PROTA (Plant Resources of Tropical Africa)",
+      "Kew Gardens' Plants of the World Online",
+      "World Agroforestry Centre (ICRAF) publications",
+      "Ethnobotanical research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "遺伝的多様性の網羅的評価"
+    ],
+    "regional_data_coverage": "東アフリカに偏っており、その他の地域に関する情報は皆無。",
+    "missing_information": [
+      "栽培収量に関する統計データ",
+      "詳細な微量栄養素プロファイル",
+      "交雑和合性に関する実験データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

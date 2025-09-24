@@ -1,0 +1,526 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "ルドベキア属は主に観賞用および一部の種が伝統的薬用として知られており、食用作物としての情報は極めて限定的または存在しない。植物学的情報は豊富だが、伝統野菜としての評価軸には適合しない点が多い。"
+    },
+    "primary_name": "ルドベキア",
+    "scientific_name": "Rudbeckia",
+    "plant_type": "一年草/二年草/多年草",
+    "edible_parts": [
+      "根",
+      "葉"
+    ],
+    "origin_region": "北米",
+    "wild_relatives": [
+      "Rudbeckia hirta",
+      "Rudbeckia laciniata",
+      "Rudbeckia triloba",
+      "Rudbeckia fulgida"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "名称は主に北米とヨーロッパの園芸分野で普及しているもの。食用としての伝統名やアジア、アフリカ等での名称はほぼ存在しない。"
+    },
+    "international": {
+      "en": [
+        "Black-eyed Susan",
+        "Coneflower"
+      ],
+      "scientific_common": "Rudbeckia"
+    },
+    "regional": [
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Black-eyed Susan",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Sonnenhut",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Rudbeckie",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "オジブワ族 (Ojibwe)",
+        "name": "Asa-misko-pinedjashk",
+        "cultural_significance": "主に薬用として利用。根を煎じて風邪や蛇に噛まれた際の湿布薬として使用した記録がある。"
+      },
+      {
+        "community": "チェロキー族 (Cherokee)",
+        "name": "不明",
+        "cultural_significance": "根を利尿剤や駆虫薬として利用したとされる。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物分類学的情報は確立されている。"
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Coneflower",
+      "la": "Rudbeckia"
+    },
+    "species": {
+      "en": "Black-eyed Susan",
+      "la": "Rudbeckia hirta"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "pulcherrima"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "文化的価値は食用としてではなく、観賞用植物および一部の先住民コミュニティにおける薬用植物として存在する。伝統野菜としての文化的価値はほぼない。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "先住民が根を風邪、寄生虫、蛇咬傷の治療に薬として使用。現代では主に観賞用の園芸植物として非常に高い人気を誇る。",
+        "seasonal_significance": "夏から秋にかけて咲く花として、季節の象徴とされる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "観賞用の園芸植物として広く普及している。伝統的な食用や薬用としての文化的背景はない。",
+        "seasonal_significance": "夏の庭園を彩る花として認識されている。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [],
+    "historical_significance": {
+      "antiquity": "北米の先住民による数世紀にわたる薬用利用の歴史がある。",
+      "trade_routes": "18世紀以降、観賞用植物としてヨーロッパに導入され、世界中の園芸市場を通じて広まった。",
+      "cultural_exchange": "北米の自然の象徴として、園芸文化を通じて世界に広まった。",
+      "domestication_history": "食用の栽培化は行われていない。園芸品種として多数の選抜育種が行われている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、病気にかかりやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌であれば栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "原産地であり、最も生育に適している。日当たりと水はけの良い場所を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さと冬の寒さに強く、適応性が高い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "ある程度の乾燥耐性はあるが、極度の乾燥には適さない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "（薬用利用の場合）開花後または秋",
+        "growing_period_days": "120-180"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "食用作物ではないため収量データなし"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "不明",
+          "production_share": 0,
+          "characteristics": "主に観賞用の苗木として世界中のナーセリーで生産されているが、農業統計は存在しない。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用ではないため、栄養価に関する信頼性の高いデータは存在しない。機能性成分は薬用植物としての観点から研究されているが限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アルカミド類",
+        "concentration": "不明",
+        "health_effect": "免疫賦活作用が示唆されている（同科のエキナセア属との類似性から）。"
+      },
+      {
+        "compound": "多糖類",
+        "concentration": "不明",
+        "health_effect": "免疫調節機能の可能性が研究されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "北米",
+        "medical_system": "先住民の伝統医学",
+        "uses": [
+          "風邪・インフルエンザの治療",
+          "鎮痛",
+          "蛇咬傷や虫刺されの湿布",
+          "駆虫"
+        ],
+        "preparation": "根の煎じ薬、湿布"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "免疫調節作用",
+        "抗炎症作用"
+      ],
+      "safety_considerations": "キク科アレルギーを持つ人はアレルギー反応を起こす可能性がある。食用としての安全性は確立されていない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "none",
+      "confidence_level": "high",
+      "source_comment": "ルドベキアは一般的に食用とは見なされておらず、料理利用に関する信頼できる情報はない。一部の種（例：Rudbeckia laciniata）の若葉が食用にされたという散発的な報告があるが、一般的ではない。"
+    },
+    "global_cooking_methods": [],
+    "processing_preservation": [],
+    "flavor_characteristics": {
+      "taste_profile": "不明",
+      "aroma_compounds": [],
+      "texture_characteristics": "不明"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "北米の草原地帯原産であることから、耐暑性・耐乾性は高いと推定される。これらの評価は農業生産ではなく、生態学的特性に基づくもの。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "18-28°C",
+      "extreme_heat_survival": "35°C以上でも生存可能",
+      "cold_tolerance": "-20°C以下（多くの多年生種）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "比較的高いと推定",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "500-1200mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎がしなやかで、倒伏からの回復力がある。",
+      "hail_damage_recovery": "中程度。葉や花は損傷するが、根茎から再生可能。",
+      "rapid_temperature_change": "高い適応性を持つ。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。C3植物としてポジティブな効果が期待されるが、データはない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高いと推定"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "原産地では多様な天敵との関係が構築されているが、新たな地域での病害虫への抵抗性は未知数。",
+      "disease_resistance_stability": "うどんこ病などに罹患しやすい品種がある。",
+      "beneficial_organism_relationships": "多様な花粉媒介者を引き寄せる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯域、特に北米中央部から東部",
+        "2050_projection": "栽培可能域がより高緯度へ拡大する可能性",
+        "2100_projection": "南部の適地が減少し、北部の適地がさらに拡大する可能性",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "園芸分野で非常に多くの交雑育種が行われており、交雑親和性は高いことが知られている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Rudbeckia hirta内の多数の園芸品種"
+      ],
+      "interspecific_compatibility": [
+        "Rudbeckia hirta x Rudbeckia fulgida",
+        "Rudbeckia triloba x Rudbeckia hirta"
+      ],
+      "intergeneric_possibility": [
+        "Echinacea属との交雑（x Echibeckia）が報告されている。"
+      ],
+      "successful_natural_hybrids": [
+        "自生地では種間交雑が自然に発生している。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "食用作物ではないため、在来品種は存在しない。野生集団内に高い遺伝的多様性がある。",
+      "wild_gene_pool": "園芸品種の育種には野生の遺伝子プールが積極的に利用されている。",
+      "adaptive_genetic_variation": "広範な自生地に適応した多様なエコタイプが存在する。",
+      "inbreeding_depression_risk": "自家不和合性の種が多く、リスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北米大平原",
+        "environmental_pressure": "周期的な干ばつと火災",
+        "adaptive_response": "深い主根の発達、火災後の迅速な再生能力",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による耐乾性・耐火性遺伝子の集積"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐病性や耐寒性の異なる種間交雑により、より広範な気候に適応する品種作出の可能性がある。",
+      "improved_nutritional_content": "食用ではないため不明",
+      "novel_characteristics": "花の色、形、草丈など、観賞価値に関する新規特性の獲得が主目的。",
+      "hybrid_vigor_potential": "非常に高い。多くの園芸品種で強健さがみられる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部の種間では交雑不和合性が存在する。",
+      "chromosome_compatibility": "属内で倍数性が多様であり、交配の成否に影響する。",
+      "fertility_of_hybrids": "多くの種間雑種は稔性を持つ。",
+      "backcrossing_success": "比較的容易。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "根の深さ、クチクラ層の厚さ",
+        "heritability": "中程度から高い",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "リジェネラティブ農業システムへの組み込みに関する直接的な研究は少ないが、草原生態系の構成種としての特性から高いポテンシャルが推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "多くの種が深く直立した主根と、広がるひげ根を持ち、土壌を団粒構造化する。",
+      "organic_matter_contribution": "毎年生育する地上部と、多年生の根系が土壌有機物を増加させる。",
+      "soil_structure_improvement": "根が土壌深くまで侵入し、水の浸透を促進する。",
+      "erosion_control": "地表を覆い、根系が土壌を保持するため、侵食防止効果が高い。",
+      "nutrient_cycling_role": "土壌深層から養分を吸い上げ、地表に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "ハナバチ類、チョウ、アブなど多様な花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "捕食性カメムシやハナカメムシなどの天敵昆虫に生息地を提供する。",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌との共生関係が報告されている。",
+      "above_ground_biodiversity": "種子は鳥の餌となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて保水性を高める。",
+      "runoff_reduction": "地表被覆により雨水の流出を減少させる。",
+      "groundwater_recharge": "浸透改善により地下水涵養に貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年生であり、深い根系を持つため、地下部への炭素蓄積能力が高い。",
+      "soil_carbon_enhancement": "根の代謝回転と有機物供給を通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "イネ科のプレーリー・グラス類、マメ科のバプティシア属など"
+      ],
+      "natural_pest_control": "天敵昆虫を誘引することで、周辺作物の害虫抑制に貢献する可能性がある。",
+      "nutrient_sharing": "菌根ネットワークを介した栄養共有の可能性。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生植物として生態系に恒常性をもたらす。",
+      "stress_tolerance": "干ばつや温度変化などの環境ストレスに強い。",
+      "recovery_capacity": "攪乱からの回復力が高い。",
+      "adaptability": "遺伝的多様性が高く、環境変化への適応能力を持つ。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的価値は主に園芸、生態系サービス、景観設計に集中している。食料としての価値は現時点ではない。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食用ではないため価値なし",
+      "food_security_contribution": "低い。ただし、農業生態系全体の健全性を高めることで間接的に貢献する可能性はある。",
+      "local_food_system_integration": "ポリネーターファームやバンカープランツとして利用可能。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "気候変動に強い庭園・緑化植物としての需要拡大",
+        "リジェネラティブ農業における生態系サービス植物としての利用",
+        "フィトメディシン（植物薬）原料としての研究開発"
+      ],
+      "value_added_products": [
+        "園芸用の種子・苗",
+        "ドライフラワー",
+        "健康補助食品（研究段階）"
+      ],
+      "niche_market_value": "観賞用植物市場では非常に高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸品種は広く普及しているが、自生地の野生集団は生息地の喪失により脅威にさらされている種もある。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "自生地である北米のプレーリー（草原）の農地転換や都市開発が最大の脅威。",
+    "climate_change_vulnerability": "低い。むしろ適応性が高い。",
+    "cultural_erosion_risk": "中。先住民による伝統的薬用知識の伝承が途絶えるリスクがある。",
+    "conservation_actions_needed": [
+      "自生地の保全と再生（プレーリー復元）",
+      "野生種の遺伝的多様性のモニタリングと生息域外保全（種子バンク）",
+      "先住民コミュニティと連携した伝統的知識の記録と保全"
+    ],
+    "priority_conservation_regions": [
+      "北米のトールグラスプレーリー、ミックスグラスプレーリー"
+    ],
+    "ex_situ_conservation_status": "多くの植物園や種子バンクで収集されている。",
+    "in_situ_conservation_efforts": "プレーリー国立公園や自然保護区での保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "伝統野菜としては不適切だが、気候変動適応性や生態学的価値の観点から、辞典に含める意義はある。"
+    },
+    "cultural_heritage_value": 4,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "北米大平原（生態学的特性と遺伝的多様性）",
+      "オクラホマ州、カンザス州（先住民の伝統的知識）"
+    ],
+    "knowledge_gaps": [
+      "食用としての安全性と栄養価",
+      "リジェネラティブ農業システムにおける定量的な生態系サービス効果",
+      "気候変動シナリオ下での各種の生理的応答"
+    ],
+    "global_dictionary_compatibility": 5
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種として情報が豊富。"
+      },
+      "variety_name": "Rudbeckia hirta 'Indian Summer'",
+      "local_name": "インディアンサマー",
+      "origin_region": "園芸作出（北米原産種ベース）",
+      "distinctive_characteristics": "非常に大きな黄金色の花を咲かせる。一年草または短命な多年草として扱われることが多い。",
+      "cultural_importance": "世界中の庭園で人気が高い代表的な園芸品種。",
+      "climate_adaptation": "耐暑性が高く、夏の暑さに強い。",
+      "conservation_status": "栽培品種であり、保全対象ではない。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種として情報が豊富。"
+      },
+      "variety_name": "Rudbeckia fulgida 'Goldsturm'",
+      "local_name": "ゴールドシュトルム",
+      "origin_region": "園芸作出（北米原産種ベース）",
+      "distinctive_characteristics": "強健な多年草で、地下茎で広がる。夏から秋まで長期間開花する。",
+      "cultural_importance": "20世紀を代表する宿根草の一つ。公共の植栽などで広く利用される。",
+      "climate_adaptation": "耐寒性、耐暑性、耐乾性に優れ、非常に強健。",
+      "conservation_status": "栽培品種であり、保全対象ではない。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Flora of North America",
+      "USDA PLANTS Database",
+      "Royal Horticultural Society (RHS) Plant Finder",
+      "Ethnobiology research papers"
+    ],
+    "major_knowledge_gaps": [
+      "ルドベキアを食用作物として評価するための全てのデータ（栄養価、調理法、収量など）",
+      "リジェネラティブ農業への貢献に関する定量的なデータ",
+      "気候変動に対する品種レベルでの詳細な応答"
+    ],
+    "regional_data_coverage": "北米とヨーロッパに偏っており、他の地域に関する情報はほぼない。",
+    "missing_information": [
+      "伝統的な食文化に関する情報全般"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

@@ -1,0 +1,662 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農学研究、民族植物学の文献からの情報を統合。食用としてのデータは少なく、主にハーブ・薬用としての情報が豊富。"
+    },
+    "primary_name": "Lavender",
+    "scientific_name": "Lavandula angustifolia",
+    "plant_type": "木本",
+    "edible_parts": [
+      "花",
+      "葉"
+    ],
+    "origin_region": "地中海西部（スペイン、フランス、イタリアの山岳地帯）",
+    "wild_relatives": [
+      "Lavandula latifolia",
+      "Lavandula stoechas"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要言語での名称は広く知られているが、先住民による伝統名は原産地がヨーロッパであるため、現代的な意味での「先住民名」の記録は限定的。"
+    },
+    "international": {
+      "en": [
+        "Lavender",
+        "English Lavender",
+        "True Lavender"
+      ],
+      "scientific_common": "True Lavender"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Lavande vraie",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Lavanda",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Lavanda",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Echter Lavendel",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "خزامى",
+            "script": "Arab"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく標準的な分類情報。"
+    },
+    "family": {
+      "en": "Mint family",
+      "la": "Lamiaceae"
+    },
+    "genus": {
+      "en": "Lavender",
+      "la": "Lavandula"
+    },
+    "species": {
+      "en": "English Lavender",
+      "la": "angustifolia"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "L. angustifolia subsp. pyrenaica"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史的文献、民族植物学、現代の利用実態に関する情報が豊富。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ（特に地中海地域）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "薬用",
+          "儀式用",
+          "香料",
+          "観賞用"
+        ],
+        "traditional_uses": "古代ローマでは入浴時の香料として利用（名前の由来）。中世ヨーロッパでは修道院で薬草として栽培。香水、石鹸、ポプリ、防虫剤として生活に深く根付いている。特にフランスのプロヴァンス地方では文化の象徴。",
+        "seasonal_significance": "夏の収穫期は観光資源ともなる文化的イベント。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "観賞用",
+          "薬用",
+          "ニッチな経済作物"
+        ],
+        "traditional_uses": "主にガーデニング、アロマテラピー、小規模なクラフト産業で利用される。ヨーロッパからの移入文化としての側面が強い。",
+        "seasonal_significance": "ラベンダーフェスティバルなどが各地で開催される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "プロヴァンス料理（フランス）",
+        "role": "common",
+        "traditional_dishes": [
+          "Herbes de Provence (ハーブミックス)",
+          "ラベンダー風味の蜂蜜",
+          "クレームブリュレ",
+          "シロップ"
+        ],
+        "preparation_methods": [
+          "乾燥",
+          "注入"
+        ],
+        "cultural_context": "プロヴァンスの風景と食文化を象徴するハーブとして、料理に爽やかな香りを加えるために使用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプトではミイラ作りの防腐剤として、古代ローマでは浴場や洗濯の際の香料として使用された。",
+      "trade_routes": "ローマ街道や中世の巡礼路を通じてヨーロッパ全土に伝播。近世には香水の原料としてフランス・グラースを中心に交易が活発化した。",
+      "cultural_exchange": "薬草としての知識が修道院ネットワークを通じて共有された。アロマテラピーの概念とともに世界に普及。",
+      "domestication_history": "地中海沿岸の野生種から選抜され、数世紀にわたり薬用・香料用として栽培化が進んだ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、根腐れを起こしやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌と冬の涼しい気候が必要。湿度の高い夏は課題。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりが良く、乾燥した気候が最適。特に地中海性気候。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "耐寒性のある品種が利用可能だが、極端な冬の寒さや湿気には弱い。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に非常に強いが、灌漑が必要な場合もある。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地は山岳地帯であり、高地での栽培に適している。水はけの良さが必須。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（地中海性気候）",
+        "planting_season": "春または秋",
+        "harvest_season": "初夏から夏",
+        "growing_period_days": "180-365"
+      }
+    ],
+    "productivity": {
+      "yield_range": "精油収量: 40-60 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "気候（日照時間、降雨）",
+        "土壌の水はけ",
+        "収穫時期と方法",
+        "栽培密度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（主に精油として取引されるため、生花の統計は限定的）",
+      "major_producers": [
+        {
+          "country": "ブルガリア",
+          "production_share": 40,
+          "characteristics": "世界最大のラベンダー精油生産国。大規模な機械化栽培。"
+        },
+        {
+          "country": "フランス",
+          "production_share": 30,
+          "characteristics": "高品質なAOP（原産地呼称保護）認定オイルで知られる。伝統的な栽培地域。"
+        },
+        {
+          "country": "中国",
+          "production_share": 15,
+          "characteristics": "近年生産量が急増しており、主に新疆ウイグル自治区で栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食用ハーブとして少量使用されるため、マクロ栄養素のデータは限定的。機能性成分（精油）に関する研究は豊富。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "リナロール",
+        "concentration": "20-45%",
+        "health_effect": "鎮静、抗不安、抗炎症作用"
+      },
+      {
+        "compound": "酢酸リナリル",
+        "concentration": "25-47%",
+        "health_effect": "鎮静、抗痙攣作用、リラックス効果"
+      },
+      {
+        "compound": "シネオール",
+        "concentration": "<2.5%",
+        "health_effect": "去痰、抗炎症作用"
+      },
+      {
+        "compound": "カンファー",
+        "concentration": "<1.0%",
+        "health_effect": "刺激、鎮痛作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "西洋ハーブ医学",
+        "uses": [
+          "不眠症",
+          "不安",
+          "ストレス",
+          "頭痛",
+          "軽度の火傷",
+          "虫刺され"
+        ],
+        "preparation": "ハーブティー（浸出液）、チンキ剤、精油（アロマテラピー、外用）"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗不安作用",
+        "睡眠の質の改善",
+        "抗菌・抗真菌作用"
+      ],
+      "ongoing_research": [
+        "鎮痛効果",
+        "神経保護作用",
+        "抗がん作用"
+      ],
+      "safety_considerations": "精油の経口摂取は避けるべき。皮膚への直接塗布は刺激を引き起こす可能性がある。妊娠中・授乳中の使用は専門家に相談。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "料理本や食文化研究において、ハーブとしての利用法が広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "乾燥させてハーブミックスにする",
+          "砂糖やシロップに香りを移す",
+          "焼き菓子に混ぜ込む",
+          "肉料理の風味付け"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "ローズマリー",
+          "タイム",
+          "レモン",
+          "蜂蜜",
+          "羊肉"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "ラベンダーラテなどの飲料",
+          "アイスクリームやシャーベット",
+          "カクテルの風味付け"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "バニラ",
+          "チョコレート",
+          "ベリー類",
+          "ジン"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "香りは保持されるが、徐々に弱まる。色は褪せる。"
+      },
+      {
+        "method": "水蒸気蒸留",
+        "regions": [
+          "フランス",
+          "ブルガリア"
+        ],
+        "shelf_life": "3-5年（精油）",
+        "quality_changes": "適切に保管すれば品質は安定している。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "フローラル、甘い、わずかに苦味と樟脳のような清涼感",
+      "aroma_compounds": [
+        "リナロール",
+        "酢酸リナリル",
+        "テルピネン-4-オール"
+      ],
+      "texture_characteristics": "乾燥した花は軽く、もろい。料理に食感を与えることは少ない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的知見は豊富だが、気候変動シナリオ下での生産性や品質変化に関する定量的研究は進行中。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上にも耐えるが、品質は低下する可能性",
+      "cold_tolerance": "-15°Cから-20°C（品種と土壌の乾燥度に依存）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い。深い根系が特徴。",
+      "flood_tolerance": "低。根腐れを起こしやすいため、湛水には非常に弱い。",
+      "optimal_rainfall": "300-900mm（年間）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中程度。木質化しているため倒れにくいが、強い風で花が傷つく可能性がある。",
+      "hail_damage_recovery": "中程度。花や新芽に被害を受けるが、株自体は回復しやすい。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。研究データは限定的だが、一般的にC3植物はバイオマス増加が見込まれる。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高。高地原産のため、強い紫外線に適応している。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により新たな害虫（セミなど）の北上が報告されている。",
+      "disease_resistance_stability": "高温多湿環境では、根腐れ病などの真菌性疾患のリスクが増大する。",
+      "beneficial_organism_relationships": "送粉者への依存度が高いため、送粉者の減少は収量に影響を与える可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "南ヨーロッパ、北アフリカ、バルカン半島",
+        "2050_projection": "栽培適地が北上し、北ヨーロッパや北米の一部で拡大する可能性。現在の主産地では過度の乾燥と熱ストレスが課題に。",
+        "2100_projection": "地中海沿岸の多くの地域で栽培が困難になるリスク。より高緯度・高地の地域が新たな適地となる可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ラバンジン（Lavandula x intermedia）の存在が、自然交雑の可能性と重要性を明確に示している。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の園芸品種間での交雑が容易。"
+      ],
+      "interspecific_compatibility": [
+        "Lavandula latifolia"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "Lavandula x intermedia (Lavandin)"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地には多様な地域個体群が存在するが、商業栽培は少数のクローン品種に集中している。",
+      "wild_gene_pool": "近縁野生種との遺伝子流動が自然界で観察されており、重要な遺伝資源となっている。",
+      "adaptive_genetic_variation": "高度、土壌、気候条件に応じた多様な適応が見られる。",
+      "inbreeding_depression_risk": "クローン繁殖が多いため、商業栽培品種では多様性が低いリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "南フランス",
+        "environmental_pressure": "L. angustifolia（高地性）と L. latifolia（低地性）の生育域が重なる中間地帯での生態的ニッチ",
+        "adaptive_response": "自然交雑種 Lavandula x intermedia の出現",
+        "time_scale": "数世紀以上",
+        "mechanism": "両種の特性（耐寒性と耐暑性、精油の質と量）を併せ持つ雑種強勢。ただし、不稔性。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "L. latifolia との交雑により、より広範な温度域への適応性が期待できる。",
+      "improved_nutritional_content": "精油の収量や組成を変化させることが可能（例：ラバンジンは収量が多い）。",
+      "novel_characteristics": "新たな香りプロファイルや、特定の病害虫への耐性を持つ品種の作出。",
+      "hybrid_vigor_potential": "非常に高い。ラバンジンは両親よりも大型で強健。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の開花時期のずれが障壁となることがある。",
+      "chromosome_compatibility": "多くの近縁種間で染色体適合性が高い。",
+      "fertility_of_hybrids": "種間雑種は不稔または稔性が低下することが多い（例：ラバンジン）。",
+      "backcrossing_success": "可能だが、複雑な遺伝的背景を持つため目標形質の固定は難しい。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ、土壌（石灰質）、紫外線",
+        "adaptive_traits": "深い根系、葉の毛、精油生産（草食動物からの防御）",
+        "heritability": "高い",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "定性的な利点は広く認識されているが、炭素隔離率などの定量的データはまだ少ない。多年生作物としての一般的な特性からの類推を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く、木質化した直根と広範なひげ根。土壌を固持し、深層の水分を利用する。",
+      "organic_matter_contribution": "落葉や剪定枝が土壌有機物を供給する。",
+      "soil_structure_improvement": "多年生のため不耕起栽培が可能で、土壌団粒構造を維持・改善する。",
+      "erosion_control": "傾斜地での栽培に適しており、地表を覆うことで土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "深い根が土壌深層から養分を吸い上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "ミツバチ、マルハナバチ、蝶など多様な花粉媒介者にとって極めて重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "クモやテントウムシなどの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "根圏の微生物叢との共生関係を築く。",
+      "above_ground_biodiversity": "開花期には多くの昆虫が集まり、それを捕食する鳥類なども含めた生態系を豊かにする。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る土壌孔隙が水の浸透を促進する。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "キャノピーが雨滴の衝撃を和らげ、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "木質化した茎や枝に炭素を蓄積する。",
+      "below_ground_carbon": "多年生の広範で深い根系に長期間炭素を貯留する。",
+      "soil_carbon_enhancement": "土壌有機物の増加を通じて土壌炭素を増強する。",
+      "carbon_sequestration_rate": "不明。年生作物よりは高いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "バラ（アブラムシ忌避）",
+        "果樹（害虫忌避、送粉者誘引）",
+        "キャベツ（コナガ忌避）"
+      ],
+      "natural_pest_control": "強い香りが多くの害虫を遠ざける忌避効果を持つ。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "限定的だが、他の植物の生育を抑制する可能性が示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物であるため、年生作物システムより安定している。",
+      "stress_tolerance": "干ばつや貧栄養土壌などのストレスに強い。",
+      "recovery_capacity": "適切な剪定により、ストレスからの回復が早い。",
+      "adaptability": "多様な品種があり、様々な環境に適応可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場データ、健康トレンドに関する情報が豊富。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食用としての役割は小さいが、天然の香料・着色料として価値がある。",
+      "food_security_contribution": "直接的ではないが、痩せ地や限界地で栽培可能な高価値作物として、農家の収入安定化に貢献する。",
+      "local_food_system_integration": "アグリツーリズムや直販を通じて、地域の食と農を結びつける核となり得る。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・飲料市場",
+        "ナチュラル・オーガニック化粧品市場",
+        "アグリツーリズム"
+      ],
+      "value_added_products": [
+        "精油",
+        "ハーブティー",
+        "料理用ハーブ",
+        "蜂蜜",
+        "化粧品",
+        "ポプリ"
+      ],
+      "niche_market_value": "非常に高い。特に高品質なオーガニック精油や原産地呼称製品。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "野生個体群の状況に関するデータは限定的。商業栽培品種は広く維持されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地である地中海山岳地帯での開発や気候変動による生息地の喪失。",
+    "climate_change_vulnerability": "野生個体群は、生息域の縮小や近縁種との交雑圧の増大に脆弱である可能性がある。",
+    "cultural_erosion_risk": "低。文化的重要性が高いため、栽培技術の継承は比較的安定している。",
+    "conservation_actions_needed": [
+      "野生個体群の生息地の保全（in-situ）",
+      "多様な地域在来種の遺伝資源の収集と保存（ex-situ）",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "南フランスのアルプ＝ド＝オート＝プロヴァンス県",
+      "スペインのピレネー山脈",
+      "イタリアのアルプス山脈"
+    ],
+    "ex_situ_conservation_status": "主要な植物園や種子銀行に多数の品種が保存されている。",
+    "in_situ_conservation_efforts": "一部の自然保護区で野生個体群が保護されているが、体系的な取り組みは十分ではない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本項目の評価は、これまでの分析結果に基づく総合的な判断である。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "原産地（地中海山岳地帯）の野生個体群",
+      "気候変動の影響が予測される栽培限界地域（北欧、高地）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（CO2濃度、温度、水分）が精油の収量と化学組成に与える複合的な影響に関する定量的データ",
+      "リジェネラティブ農業システムにおける炭素隔離能力の定量化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸および農業分野で広く認知されている品種の情報。"
+      },
+      "variety_name": "Hidcote",
+      "local_name": "Hidcote",
+      "origin_region": "イギリス",
+      "distinctive_characteristics": "濃い紫色の花穂とコンパクトな樹形。香りが強い。",
+      "cultural_importance": "観賞用として世界で最も人気のある品種の一つ。",
+      "climate_adaptation": "耐寒性が比較的高い。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸および農業分野で広く認知されている品種の情報。"
+      },
+      "variety_name": "Munstead",
+      "local_name": "Munstead",
+      "origin_region": "イギリス",
+      "distinctive_characteristics": "早咲きで、樹形はやや広がる。花色は明るい紫色。",
+      "cultural_importance": "観賞用、料理用として人気が高い。",
+      "climate_adaptation": "耐暑性、耐寒性に優れる。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "AOP認定に関する公式情報に基づく。"
+      },
+      "variety_name": "Population Lavender (Lavande fine)",
+      "local_name": "Lavande fine",
+      "origin_region": "フランス・プロヴァンス地方",
+      "distinctive_characteristics": "種子から育てられた実生集団であり、遺伝的多様性が高い。個体ごとに香りや形がわずかに異なる。複雑で繊細な香りの精油が採れる。",
+      "cultural_importance": "最高品質のAOP認定ラベンダー精油の原料。プロヴァンスの伝統的景観を形成。",
+      "climate_adaptation": "遺伝的多様性が高いため、環境変化に対する適応ポテンシャルが高い。",
+      "conservation_status": "AOP制度により保護・奨励"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "GRIN-Global Taxonomy",
+      "Journal of Ethnopharmacology",
+      "Journal of Agricultural and Food Chemistry",
+      "IPCC assessment reports"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ（特に炭素隔離率）",
+      "気候変動に対する品種レベルでの生理学的応答と精油品質の変化",
+      "野生個体群の遺伝的多様性と保全状況に関する詳細な調査"
+    ],
+    "regional_data_coverage": "ヨーロッパに偏っており、他の地域での栽培や利用に関する学術的データは比較的少ない。",
+    "missing_information": [
+      "マクロ栄養素に関する詳細なデータ",
+      "先住民による伝統的利用（原産地の歴史的背景により該当情報が極めて少ない）"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

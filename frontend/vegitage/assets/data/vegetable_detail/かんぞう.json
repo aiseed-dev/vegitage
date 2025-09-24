@@ -1,0 +1,630 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、民族植物学、園芸学の文献から情報を統合。野生近縁種に関する情報は豊富だが、遺伝的多様性の網羅的な評価は進行中。"
+    },
+    "primary_name": "Common Daylily",
+    "scientific_name": "Hemerocallis fulva",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "若芽",
+      "花",
+      "つぼみ",
+      "根"
+    ],
+    "origin_region": "東アジア（中国、朝鮮半島、日本）",
+    "wild_relatives": [
+      "Hemerocallis citrina",
+      "Hemerocallis lilioasphodelus",
+      "Hemerocallis minor"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物名データベースおよび文化史的文献から収集。"
+    },
+    "international": {
+      "en": [
+        "Common Daylily",
+        "Orange Daylily",
+        "Tawny Daylily",
+        "Ditch Lily"
+      ],
+      "scientific_common": "Daylily"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ホンカンゾウ, ワスレグサ",
+            "script": "漢字・仮名"
+          },
+          {
+            "lang": "zh",
+            "name": "萱草 (Xuān cǎo), 金针菜 (Jīn zhēn cài)",
+            "script": "漢字"
+          },
+          {
+            "lang": "ko",
+            "name": "원추리 (Wonchuri)",
+            "script": "ハングル"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Hémérocalle fauve",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Braunrote Taglilie",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づいています。旧分類ではユリ科(Liliaceae)とされることがあります。"
+    },
+    "family": {
+      "en": "Asphodel family",
+      "la": "Asphodelaceae"
+    },
+    "genus": {
+      "en": "Daylily",
+      "la": "Hemerocallis"
+    },
+    "species": {
+      "en": "Orange Daylily",
+      "la": "Hemerocallis fulva"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Hemerocallis fulva var. kwanso"
+      },
+      {
+        "rank": "variety",
+        "name": "Hemerocallis fulva var. angustifolia"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアの古典文学、民族植物学、食文化史の研究に基づいています。欧米での文化的価値は主に園芸史に基づきます。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "観賞用",
+          "文化的象徴"
+        ],
+        "traditional_uses": "中国では「忘憂草」として憂いを忘れさせる花とされ、母の愛の象徴でもある。乾燥させたつぼみ「金針菜」は伝統的な食材。日本では若芽が春の山菜として、また「ワスレグサ」として和歌に詠まれる。",
+        "seasonal_significance": "春の若芽、夏の開花が季節の風物詩。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "観賞用",
+          "帰化植物"
+        ],
+        "traditional_uses": "主に観賞用の庭園植物。一部地域では侵略的外来種とみなされる。食用としての認識はごく一部の愛好家に限られる。",
+        "seasonal_significance": "夏の庭を彩る花。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "中華料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "酸辣湯 (サンラータン)",
+          "金針菜と豚肉の炒め物"
+        ],
+        "preparation_methods": [
+          "乾燥",
+          "炒める",
+          "煮る"
+        ],
+        "cultural_context": "乾燥させたつぼみ（金針菜）は、食感と風味を加える重要な乾物として広く利用される。"
+      },
+      {
+        "cuisine": "日本料理（郷土料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "カンゾウのおひたし",
+          "カンゾウの天ぷら"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "揚げる"
+        ],
+        "cultural_context": "春先の山菜として、季節の味を楽しむ食材。特に若芽が好まれる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では詩経（紀元前11-7世紀）に記述があり、数千年にわたる利用の歴史がある。",
+      "trade_routes": "古代にアジアからヨーロッパへ観賞用植物として伝播したと考えられる。",
+      "cultural_exchange": "東洋の庭園文化が西洋に紹介される過程で重要な役割を果たした。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、古くから人里近くで半野生状態で利用されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や比較的涼しい季節に限定。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "広く適応可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最適。生育旺盛で開花も良好。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "耐寒性が高く、厳しい冬にも耐える。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑があれば生育可能だが、乾燥には限界がある。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高の低い地域では適応可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "春（若芽）、夏（花・つぼみ）",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照",
+        "水分",
+        "株の密度",
+        "施肥"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "乾燥つぼみ（金針菜）の商業生産が盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分データは存在するが、品種や生育条件による変動が大きい。機能性成分に関する研究は増加しているが、まだ限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約30-40 kcal（生）",
+        "protein_g": "約2-3 g",
+        "carbs_g": "約5-7 g",
+        "fat_g": "約0.5 g",
+        "fiber_g": "約2-3 g"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA（β-カロテンとして）",
+          "amount": "豊富",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "中程度",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "豊富",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "カロテノイド",
+        "concentration": "高",
+        "health_effect": "抗酸化作用、視機能維持"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "中",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "ヘメロカリン",
+        "concentration": "不明",
+        "health_effect": "神経保護作用の可能性が研究されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "利尿",
+          "消炎",
+          "止血",
+          "鎮静",
+          "解熱"
+        ],
+        "preparation": "根を煎じて内服、または外用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗うつ作用",
+        "神経保護作用",
+        "抗酸化能"
+      ],
+      "safety_considerations": "一部の品種や生の根には微量のアルカロイドが含まれるため、加熱調理が推奨される。過剰摂取は避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主に東アジアの料理書や食文化研究に基づく。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒める",
+          "煮る（スープ）",
+          "蒸す",
+          "揚げる（天ぷら）",
+          "茹でる（おひたし）",
+          "漬ける"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "豚肉",
+          "キクラゲ",
+          "卵",
+          "豆腐"
+        ]
+      },
+      {
+        "region": "北米/ヨーロッパ",
+        "methods": [
+          "生食（サラダ）"
+        ],
+        "flavor_role": "彩り",
+        "typical_combinations": [
+          "グリーンサラダ",
+          "ドレッシング"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "中国"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "風味が凝縮し、特有の食感が生まれる。水で戻して使用する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "若芽：アスパラガスに似たほのかな甘みとぬめり。花・つぼみ：甘く、シャキシャキとした食感。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "部位により多様（シャキシャキ、ぬめり、柔らかい）。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "広範な適応性に関する定性的記述は豊富だが、気候変動シナリオに基づく定量的な実験データは少ない。評価は植物の生態的特性からの推定を多く含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "15-28°C",
+      "extreme_heat_survival": "約40°Cまで耐える",
+      "cold_tolerance": "-30°C以下にも耐える品種がある"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "中程度（肥厚した根に貯水能力がある）",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（茎はしなやかだが、強風で倒れることがある）",
+      "hail_damage_recovery": "高（地下茎から再生する能力が高い）",
+      "rapid_temperature_change": "高"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的なC3植物として効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "元来強健だが、温暖化による新興病害虫への感受性は不明。",
+      "disease_resistance_stability": "高い",
+      "beneficial_organism_relationships": "安定している"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯および亜熱帯の広範な地域",
+        "2050_projection": "現在の栽培地の北限が拡大する可能性",
+        "2100_projection": "低緯度地域の一部で高温ストレスが問題になる可能性",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "園芸分野における膨大な育種実績が、高い交雑親和性を示している。自然環境下での遺伝子流動に関する研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の園芸品種間での交雑が容易。"
+      ],
+      "interspecific_compatibility": [
+        "Hemerocallis属内の多くの種と交雑可能。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "帰化地域での自然交雑が示唆されているが、実証研究は少ない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "東アジアの原産地には多様な在来系統が存在する。",
+      "wild_gene_pool": "野生近縁種との遺伝的距離は近く、遺伝子資源として価値が高い。",
+      "adaptive_genetic_variation": "2倍体、3倍体、異数体が存在し、多様な環境への適応性を示唆する。",
+      "inbreeding_depression_risk": "低い（多くの系統が自家不和合性を示すため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北米",
+        "environmental_pressure": "多様な気候帯、競合植物",
+        "adaptive_response": "旺盛な栄養繁殖による急速な拡散と定着",
+        "time_scale": "数百年",
+        "mechanism": "主に三倍体クローンの栄養繁殖"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐暑性、耐寒性、耐乾性の異なる種との交雑により、適応範囲の拡大が可能。",
+      "improved_nutritional_content": "栄養価の高い野生種との交雑による改善の可能性がある。",
+      "novel_characteristics": "花の大きさ、色、香り、開花時期など多様な形質の導入が可能。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違い（2倍体と3倍体など）が交雑障壁になることがある。",
+      "chromosome_compatibility": "属内では比較的高い。",
+      "fertility_of_hybrids": "倍数性の組み合わせによっては不稔となることがある。",
+      "backcrossing_success": "比較的高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、低温、病害虫",
+        "adaptive_traits": "肥厚した根、休眠性、強健性",
+        "heritability": "中〜高",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "リジェネラティブ農業システムでの直接的な研究は少ないが、植物の生態的特性（多年草、強健な根系など）から高い適性が推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "密で繊維質な根と肥厚した貯蔵根からなる根系が土壌を固く保持する。",
+      "organic_matter_contribution": "毎年生じる地上部の枯死体が土壌有機物となる。",
+      "soil_structure_improvement": "根が土壌の団粒構造を促進する。",
+      "erosion_control": "地表を密に覆うため、雨滴や風による土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "土壌深層から養分を吸収し、表層に還元する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はチョウ、ハチ、ハナアブなどの多様な花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "株元がテントウムシやクモなどの天敵昆虫の隠れ家となる。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係が示唆される。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る土壌孔隙が水の浸透を助ける。",
+      "moisture_retention": "地表被覆により土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "密な植生が地表水の流出を遅らせ、浸透を促進する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年草であるため、根系に長期間炭素を蓄積する能力が高い。",
+      "soil_carbon_enhancement": "根の代謝回転と有機物供給により土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "果樹の下草として、雑草抑制や土壌保護に利用可能。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を抑制するアレロパシー効果が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草であるため、土壌を恒久的に被覆し、生態系を安定させる。",
+      "stress_tolerance": "高い",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食料システムや商業利用に関する議論は専門家レベルで存在するが、大規模な市場はまだ形成されていない。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養価が高く、新しい植物性食材としての可能性がある。",
+      "food_security_contribution": "栽培が容易で気候変動に強いため、レジリエントな食料源として小規模農家の食料安全保障に貢献しうる。",
+      "local_food_system_integration": "山菜や地域の特産品として、直売所などを通じて地域食品システムに組み込みやすい。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エディブルフラワー（食用花）市場",
+        "高級山菜市場",
+        "健康食品・サプリメント市場"
+      ],
+      "value_added_products": [
+        "乾燥金針菜",
+        "ピクルス",
+        "冷凍若芽",
+        "機能性エキス"
+      ],
+      "niche_market_value": "民族料理食材店やファーマーズマーケットで高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物学的には広範に分布し懸念は低いが、食文化の継承や原産地での遺伝的多様性保全には注意が必要。"
+    },
+    "genetic_erosion_risk": "中（原産地での在来系統）",
+    "habitat_loss_threat": "原産地の自生地における開発による生息地の喪失。",
+    "climate_change_vulnerability": "低い",
+    "cultural_erosion_risk": "高（伝統的な食利用に関する知識の喪失）",
+    "conservation_actions_needed": [
+      "原産地における遺伝的多様性のインベントリ作成と保全",
+      "伝統的知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "中国、朝鮮半島、日本の山間部"
+    ],
+    "ex_situ_conservation_status": "多くの植物園やジーンバンクで園芸品種が保存されているが、野生系統や在来種の網羅性は不明。",
+    "in_situ_conservation_efforts": "限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本レポートの総合的評価に基づく。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中国雲南省",
+      "朝鮮半島",
+      "日本の対馬"
+    ],
+    "knowledge_gaps": [
+      "リジェネラティブ農業システムにおける定量的効果",
+      "気候変動に対する生理学的応答メカニズム",
+      "食用系統の栄養価の網羅的分析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸学および植物分類学の情報に基づく。"
+      },
+      "variety_name": "Hemerocallis fulva 'Europa'",
+      "local_name": "不明",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "三倍体のクローンで、種子を作らず、地下茎で旺盛に繁殖する。ヨーロッパや北米で広く帰化している。",
+      "cultural_importance": "西洋におけるデイリリーの代表的なイメージを形成した。",
+      "climate_adaptation": "非常に高い適応性を持つ。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸学および植物分類学の情報に基づく。"
+      },
+      "variety_name": "Hemerocallis fulva var. kwanso",
+      "local_name": "ヤブカンゾウ（日本）",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "八重咲きの花を持つ三倍体。食用として利用される。",
+      "cultural_importance": "日本の里山で一般的な山菜として知られる。",
+      "climate_adaptation": "高い。",
+      "conservation_status": "懸念なし"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens - Plants of the World Online",
+      "USDA PLANTS Database",
+      "Flora of China",
+      "民族植物学関連論文"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "伝統的薬効成分の科学的検証"
+    ],
+    "regional_data_coverage": "東アジアと北米は豊富、他の地域は限定的。",
+    "missing_information": [
+      "世界的な商業生産の正確な統計データ",
+      "アフリカ、南米での利用状況"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

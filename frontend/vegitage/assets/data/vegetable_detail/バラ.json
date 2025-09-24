@@ -1,0 +1,754 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "バラ属は広範に研究されているが、食用の伝統野菜としての情報は特定種に集中している。本データは属全体を概観し、代表的な食用種を例示する。"
+    },
+    "primary_name": "Rose",
+    "scientific_name": "Rosa spp.",
+    "plant_type": "木本",
+    "edible_parts": [
+      "花",
+      "果実"
+    ],
+    "origin_region": "北半球の温帯および亜熱帯地域（アジア、ヨーロッパ、北米、北西アフリカ）",
+    "wild_relatives": [
+      "Rosa canina",
+      "Rosa rugosa",
+      "Rosa acicularis",
+      "Rosa gallica"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "観賞用、薬用、食用としての名称が世界各地に存在する。食用に特化した名称は果実（ローズヒップ）に多い。"
+    },
+    "international": {
+      "en": [
+        "Rose",
+        "Rose hip"
+      ],
+      "scientific_common": "Rosa"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Rose, Hagebutte (hip)",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Rose, Cynorhodon (hip)",
+            "script": "Latn"
+          },
+          {
+            "lang": "sv",
+            "name": "Ros, Nypon (hip)",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "fa",
+            "name": "گل محمدی (Gol-e Mohammadi for R. damascena)",
+            "script": "Arab"
+          },
+          {
+            "lang": "ar",
+            "name": "ورد (Ward)",
+            "script": "Arab"
+          },
+          {
+            "lang": "tr",
+            "name": "Gül, Kuşburnu (hip)",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "バラ, ハマナス (R. rugosa)",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "玫瑰 (Méiguī)",
+            "script": "Hans"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "गुलाब (Gulab)",
+            "script": "Deva"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "北米平原の先住民（クリー族、ラコタ族など）",
+        "name": "不明（各種族語で名称あり）",
+        "cultural_significance": "果実は冬の食料源、ビタミン源。葉や根は薬用茶として利用。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類学的位置づけは確立されている。"
+    },
+    "family": {
+      "en": "Rose family",
+      "la": "Rosaceae"
+    },
+    "genus": {
+      "en": "Rose",
+      "la": "Rosa"
+    },
+    "species": {
+      "en": "Multiple species",
+      "la": "Rosa spp."
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "花の文化的価値は絶大だが、食用としての価値は地域性が高い。中東でのローズウォーター文化と、欧州でのローズヒップ文化が二大潮流。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "中東・ペルシャ文化圏",
+        "importance_level": 5,
+        "cultural_roles": [
+          "香味料",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "ダマスクローズから蒸留されるローズウォーターとローズオイルは、菓子、飲料、料理の香りづけに不可欠。宗教儀式や化粧品にも広く利用される。",
+        "seasonal_significance": "春の収穫祭は重要な文化的イベント。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ（特に北欧・東欧）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "保存食"
+        ],
+        "traditional_uses": "ローズヒップ（特にR. caninaの果実）はビタミンCの豊富な供給源。ジャム、スープ（スウェーデンのNyponsoppa）、シロップ、茶として冬場の栄養補給に利用されてきた。",
+        "seasonal_significance": "秋に収穫し、冬に備える保存食としての意味合いが強い。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "茶"
+        ],
+        "traditional_uses": "ハマナス（R. rugosa）の果実はジャムや塩漬けに。花びらはジャム、菓子、茶に使われる。漢方では気や血の巡りを整える生薬として利用。",
+        "seasonal_significance": "夏から秋にかけての季節の恵み。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ペルシャ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ショレザルド（サフランとローズウォーターのライスプディング）",
+          "各種焼き菓子（バクラヴァなど）"
+        ],
+        "preparation_methods": [
+          "蒸留（ローズウォーター）"
+        ],
+        "cultural_context": "楽園の香りを象徴し、もてなしや祝祭に欠かせない要素。"
+      },
+      {
+        "cuisine": "スカンジナビア料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Nyponsoppa（ローズヒップスープ）"
+        ],
+        "preparation_methods": [
+          "乾燥",
+          "煮込み",
+          "ピューレ化"
+        ],
+        "cultural_context": "暗く長い冬を乗り越えるためのビタミン豊富な伝統食。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャ・ローマ時代から薬用、香料として利用。プリニウスの『博物誌』にも記述がある。",
+      "trade_routes": "ローズウォーターとローズオイルは、中世にシルクロードや海の道を通じてイスラム世界からヨーロッパ、アジアへ広まった重要な交易品。",
+      "cultural_exchange": "十字軍がダマスクローズを中東からヨーロッパへ持ち帰ったという伝説が象徴するように、東西文化交流の媒体となった。",
+      "domestication_history": "複数の野生種がユーラシア大陸の各地で独立または複合的に栽培化され、自然交雑と人為選抜を経て多様な品種群が成立した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "多くの種は低温による休眠を必要とするため不適。高地では栽培可能な場合もある。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬が冷涼な地域で栽培可能。R. chinensisなどが適応。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最も広範な種が適応する最適気候帯。明確な四季があり、冬の休眠が可能。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "耐寒性の強い種（R. rugosaなど）が適応。夏の暑さと冬の厳しい寒さに耐える。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "一部の種は乾燥に耐えるが、開花と結実には一定の水分が必要。灌漑がしばしば必要。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "R. pendulinaなど、高地に適応した種が存在する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩秋または早春",
+        "harvest_season": "花（初夏）、果実（秋）",
+        "growing_period_days": "多年生のため、定植後2-3年で本格的な収穫開始"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（用途により大きく異なる。オイル用: 3-5トン/haの花びらから1kgのオイル）",
+      "factors_affecting_yield": [
+        "品種",
+        "樹齢",
+        "気候（日照、降雨）",
+        "土壌条件",
+        "剪定方法",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（データは主にローズオイルと切り花に集中）",
+      "major_producers": [
+        {
+          "country": "ブルガリア",
+          "production_share": "不明",
+          "characteristics": "ローズオイル（R. damascena）の最大級生産国。「バラの谷」が有名。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": "不明",
+          "characteristics": "ローズオイル、ローズウォーターの主要生産国。"
+        },
+        {
+          "country": "イラン",
+          "production_share": "不明",
+          "characteristics": "ローズウォーターの生産と国内消費が非常に多い。"
+        },
+        {
+          "country": "チリ",
+          "production_share": "不明",
+          "characteristics": "ローズヒップの主要生産・輸出国。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ローズヒップの栄養価データは豊富だが、花びらのデータは少ない。品種や乾燥方法による成分変動が大きい。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "162 (乾燥ローズヒップ)",
+        "protein_g": "1.6",
+        "carbs_g": "38.2",
+        "fat_g": "0.3",
+        "fiber_g": "24.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "426 mg / 100g",
+          "daily_value_percent": "710%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "4345 IU / 100g",
+          "daily_value_percent": "87%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "169 mg / 100g",
+          "daily_value_percent": "17%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アスコルビン酸（ビタミンC）",
+        "concentration": "非常に高い（特にローズヒップ）",
+        "health_effect": "抗酸化作用、免疫機能サポート"
+      },
+      {
+        "compound": "ポリフェノール（フラボノイド、タンニン）",
+        "concentration": "高い（花、果実）",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "カロテノイド（リコピン、β-カロテン）",
+        "concentration": "高い（ローズヒップ）",
+        "health_effect": "抗酸化作用、視機能サポート"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ療法",
+        "uses": [
+          "風邪・インフルエンザの予防と治療",
+          "壊血病予防",
+          "関節炎の緩和"
+        ],
+        "preparation": "乾燥果実を煎じた茶、シロップ"
+      },
+      {
+        "region": "中東",
+        "medical_system": "ペルシャ伝統医学（ユナニ医学）",
+        "uses": [
+          "心臓の強化",
+          "精神安定、抗うつ",
+          "消化促進"
+        ],
+        "preparation": "ローズウォーター、ローズオイル"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "気・血の巡りを改善（理気活血）",
+          "月経不順の調整",
+          "肝機能のサポート"
+        ],
+        "preparation": "乾燥した花（マイカイカ）の煎じ薬"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "ローズヒップの抗炎症作用による関節痛緩和効果",
+        "高い抗酸化能",
+        "ビタミンC供給源としての有効性"
+      ],
+      "ongoing_research": [
+        "ローズヒップ抽出物の血糖値コントロール効果",
+        "ローズオイルの神経保護作用",
+        "皮膚の健康に対する効果"
+      ],
+      "safety_considerations": "一般に安全だが、ローズヒップの種子の毛は刺激性があるため、加工時に除去することが望ましい。アレルギー反応は稀。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地に多様な料理利用法が記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "中東・南アジア",
+        "methods": [
+          "香りづけ（蒸留水）"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "米料理（ビリヤニ）、乳製品（ヨーグルト、ラッシー）、菓子（バクラヴァ）、サフラン、カルダモン"
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "煮込み（ジャム、スープ）",
+          "シロップ化",
+          "乾燥・粉末化（茶）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "砂糖、リンゴ、シナモン、バニラ"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "砂糖漬け",
+          "ジャム",
+          "茶"
+        ],
+        "flavor_role": "副味/香辛料",
+        "typical_combinations": [
+          "餅、餡、蜂蜜"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "ビタミンCは時間とともに減少する。香りは保持される。"
+      },
+      {
+        "method": "水蒸気蒸留",
+        "regions": [
+          "中東",
+          "ブルガリア",
+          "トルコ"
+        ],
+        "shelf_life": "数年（ローズウォーター、オイル）",
+        "quality_changes": "適切に保管すれば品質は安定。"
+      },
+      {
+        "method": "ジャム・シロップ化",
+        "regions": [
+          "ヨーロッパ",
+          "中東",
+          "東アジア"
+        ],
+        "shelf_life": "1-3年",
+        "quality_changes": "糖度が高く保存性に優れる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "花びら：フローラル、甘く、わずかに苦味と渋み。ローズヒップ：酸味が強く、フルーティー（リンゴやクランベリーに似る）。",
+      "aroma_compounds": [
+        "ゲラニオール",
+        "シトロネロール",
+        "ネロール",
+        "リナロール"
+      ],
+      "texture_characteristics": "花びら：柔らかく繊細。ローズヒップ：果肉はペースト状、種は硬い。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "属としての多様性は高いが、気候変動に対する各種・品種の応答に関する定量的データは乏しい。以下の記述は一般的な特性からの推定を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "多くの品種は35°C以上で生育不良となるが、中東原産の種はより耐暑性が高い。",
+      "cold_tolerance": "品種により-40°Cから-5°Cまで様々。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "多くの野生種は深い根系を持ち、ある程度の乾燥に耐える。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（しなやかな茎を持つが、強風で花や果実が落ちる）",
+      "hail_damage_recovery": "中（回復力はあるが、収量に影響）",
+      "rapid_temperature_change": "春の遅霜に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的にC3植物として光合成促進が期待される）",
+      "ozone_sensitivity": "中",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやハダニの発生期間が長期化する可能性がある。",
+      "disease_resistance_stability": "高温多湿は黒点病やうどんこ病の発生を助長する。",
+      "beneficial_organism_relationships": "多様な花粉媒介者との関係は、気候変動による昆虫相の変化に影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "世界の温帯地域",
+        "2050_projection": "栽培適地がより高緯度・高地へ移動する可能性。低緯度地域では耐暑性品種の導入が必須となる。",
+        "2100_projection": "適地の移動がさらに進行。水資源の制約が栽培の大きな制限要因となる可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "バラ属は自然交雑が非常に起こりやすく、これが高い多様性の源泉となっている。育種の歴史はこの特性を最大限に利用してきた。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の品種間で容易に交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "多くの種間で交雑が可能。これが現代バラの複雑な系統を生んだ。"
+      ],
+      "intergeneric_possibility": [
+        "Rosaceae科の他属との交雑は通常不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "ヨーロッパやアジアの野生種間での自然雑種が多数報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "世界各地に伝統的な栽培品種（オールドローズ）が存在し、多様な遺伝資源となっている。",
+      "wild_gene_pool": "150以上の野生種が北半球に広く分布し、耐病性、耐寒性、耐乾性などの有用な遺伝子の宝庫となっている。",
+      "adaptive_genetic_variation": "広範な分布域を持つ野生種は、それぞれの地域の気候に適応した遺伝的変異を保持している。",
+      "inbreeding_depression_risk": "一部の高度に育種された園芸品種では見られるが、属全体としては低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本の海岸",
+        "environmental_pressure": "塩性土壌、潮風、砂地の移動",
+        "adaptive_response": "ハマナス（R. rugosa）は高い耐塩性と、砂に埋もれても新たな根を出す能力を進化させた。",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による耐塩性遺伝子の蓄積"
+      },
+      {
+        "region": "乾燥地中海地域",
+        "environmental_pressure": "夏の長期乾燥",
+        "adaptive_response": "一部の野生種は、深い主根、クチクラ層が厚い小さな葉、夏の休眠などの特性を持つ。",
+        "time_scale": "不明",
+        "mechanism": "乾燥適応形質の進化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐暑性を持つ野生種との交雑により、気候変動に強い食用・薬用品種の開発可能性が高い。",
+      "improved_nutritional_content": "ビタミンや抗酸化物質の含有量が異なる種を交雑させることで、栄養価の高い品種を作出できる可能性がある。",
+      "novel_characteristics": "香りの成分や花・果実の色など、新しい形質を導入することが可能。",
+      "hybrid_vigor_potential": "遠縁の種や品種を交配することで、生育旺盛な雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違い（二倍体、四倍体など）が種間の交雑障壁となることがある。",
+      "chromosome_compatibility": "同程度の倍数性を持つ種間では比較的交雑しやすい。",
+      "fertility_of_hybrids": "種間雑種は不稔になることがあるが、三倍体などを利用した育種技術がある。",
+      "backcrossing_success": "特定の形質を導入するために戻し交配が頻繁に用いられる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候（温度、降水量）、土壌、病害虫",
+        "adaptive_traits": "耐寒性、耐乾性、耐病性、棘の密度",
+        "heritability": "多くの形質で中〜高程度の遺伝率が報告されている。",
+        "response_to_selection": "高い遺伝的多様性のため、選択に対する応答は良好。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "リジェネラティブ農業システムにおけるバラの役割に関する直接的な研究は少ないが、多年生木本植物としての生態学的機能から多くの便益が推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く、広く張る根系は土壌を固持し、土壌構造を安定させる。",
+      "organic_matter_contribution": "毎年の落葉や根の脱落により、土壌有機物を供給する。",
+      "soil_structure_improvement": "根が土壌の団粒構造を促進し、水と空気の通り道を確保する。",
+      "erosion_control": "地被率が高く、根が土を掴むため、特に傾斜地での土壌侵食防止に効果的。",
+      "nutrient_cycling_role": "深い根系が土壌深層から養分を吸い上げ、落葉を通じて表層に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "特に一重咲きの品種は、花粉や蜜をミツバチ、ハナバチ、ハナアブなど多様な花粉媒介者に提供する。",
+      "beneficial_insect_habitat": "アブラムシを捕食するテントウムシやヒラタアブなどの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌と共生し、リン酸吸収を促進する。",
+      "above_ground_biodiversity": "秋から冬にかけてのローズヒップは、鳥類や小型哺乳類の貴重な食料源となる。棘のある茂みは小鳥の営巣場所や隠れ家になる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の働きと土壌構造の改善により、雨水の土壌浸透を促進する。",
+      "moisture_retention": "落葉によるマルチング効果で土壌表面の水分蒸発を抑制する。",
+      "runoff_reduction": "地表流を減少させ、水資源の保持に貢献する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "木質部に炭素を固定する。",
+      "below_ground_carbon": "広範な根系に炭素を蓄積する。",
+      "soil_carbon_enhancement": "有機物の供給を通じて土壌炭素（腐植）の形成を促進する。",
+      "carbon_sequestration_rate": "不明。他の木本低木と同程度と推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンニク、チャイブ（アブラムシを忌避）、マリーゴールド（線虫を抑制）、ラベンダー"
+      ],
+      "natural_pest_control": "天敵昆虫を誘引することで、害虫の天敵による防除（バイオロジカルコントロール）を支援する。",
+      "nutrient_sharing": "菌根菌ネットワークを介して他の植物と養分を共有する可能性がある。",
+      "allelopathic_interactions": "限定的。一部の種でアレロパシー効果が報告されているが、一般的ではない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、単年生作物中心のシステムより生態系の安定性に貢献する。",
+      "stress_tolerance": "一度定着すると、ある程度の旱魃や栄養不足に耐える。",
+      "recovery_capacity": "剪定に対する回復力が高く、管理が容易。",
+      "adaptability": "多様な品種があり、様々な環境に適応したものを選択可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食用バラの市場はニッチだが、健康志向や自然食品トレンドにより成長している。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミンCや抗酸化物質が豊富な自然食品として価値が高い。",
+      "food_security_contribution": "多年生で管理が比較的容易なため、特に自家消費や小規模農業において、栄養源の多様化に貢献する。",
+      "local_food_system_integration": "アグロフォレストリーやパーマカルチャーのデザインに組み込みやすく、地域の食料自給率向上に寄与する。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・飲料（ローズヒップティー、サプリメント）",
+        "自然派化粧品の原料",
+        "ガストロノミー分野での食用花"
+      ],
+      "value_added_products": [
+        "オーガニックのローズウォーター",
+        "シングルオリジンのローズヒップジャム",
+        "無農薬の食用バラの花びら"
+      ],
+      "niche_market_value": "高く、特にオーガニックやエシカル消費を志向する層に訴求力がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸品種の保全は進んでいるが、食用の在来種や野生種の保全は地域により差がある。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "多くの野生種の自生地が開発や土地利用の変化により脅威に晒されている。",
+    "climate_change_vulnerability": "特定の気候に適応した野生種は、急激な気候変動により絶滅のリスクがある。",
+    "cultural_erosion_risk": "高（特にヨーロッパ）。ローズヒップを採集し利用する伝統的知識が若い世代に継承されず、失われつつある。",
+    "conservation_actions_needed": [
+      "野生種の自生地保全（域内保全）",
+      "食用の在来品種や野生種の遺伝資源を収集・保存するジーンバンクの拡充（域外保全）",
+      "伝統的知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "コーカサス地方、中国南西部（遺伝的多様性の中心地）",
+      "伝統的なローズオイル生産地域（ブルガリア、トルコ、イラン）の在来品種"
+    ],
+    "ex_situ_conservation_status": "主要な植物園やジーンバンクで多くの種や品種が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "一部の国立公園や保護区で野生種の保全が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "属全体としての評価。食用としての側面に焦点を当てた。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "中央アジア・コーカサス（野生種の遺伝的多様性と耐乾性）",
+      "東欧（ローズヒップ利用文化の継承と栄養価）",
+      "イラン（伝統的栽培システムと乾燥地適応）"
+    ],
+    "knowledge_gaps": [
+      "各種・品種の気候変動（特に高温・乾燥）に対する定量的応答データ",
+      "リジェネラティブ農業システムにおける炭素隔離能や土壌改良効果の定量化",
+      "食用利用されているマイナーな野生種の民族植物学的記録"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Damask Rose",
+      "local_name": "Gol-e Mohammadi (ペルシャ語)",
+      "origin_region": "中東（古代ペルシャ）",
+      "distinctive_characteristics": "非常に強い芳香。ローズオイルとローズウォーターの主原料。",
+      "cultural_importance": "ペルシャ文化圏において詩、文学、料理、宗教儀式に深く根付いている。",
+      "climate_adaptation": "比較的、乾燥と暑さに強い。",
+      "conservation_status": "商業的に栽培されているが、伝統的な栽培地域の遺伝的多様性の保全が重要。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Dog Rose",
+      "local_name": "Hagebutte (ドイツ語), Nypon (スウェーデン語)",
+      "origin_region": "ヨーロッパ、北西アフリカ、西アジア",
+      "distinctive_characteristics": "ビタミンC含有量が極めて高い楕円形の果実（ローズヒップ）をつける。",
+      "cultural_importance": "ヨーロッパ、特に北欧・東欧で冬のビタミン源として伝統的に利用されてきた。",
+      "climate_adaptation": "温帯気候に広く適応し、非常に強健。",
+      "conservation_status": "広く分布する野生種であり、リスクは低い。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Japanese Rose / Rugosa Rose",
+      "local_name": "ハマナス (Hamanasu)",
+      "origin_region": "東アジアの海岸部",
+      "distinctive_characteristics": "高い耐塩性と耐寒性。大きくて肉厚な果実をつける。しわの多い葉が特徴。",
+      "cultural_importance": "日本では観賞用、食用（果実）、香料（根）として利用。北海道の花に指定されている。",
+      "climate_adaptation": "海岸の厳しい環境（塩害、砂地、強風）や寒冷な気候に極めて強い。",
+      "conservation_status": "自生地の海岸開発により減少している地域もある。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens - Plants of the World Online",
+      "USDA National Nutrient Database",
+      "Ethnobotanical research papers",
+      "FAO reports"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "食用利用される地域固有種の網羅的調査"
+    ],
+    "regional_data_coverage": "ヨーロッパと中東は豊富。アフリカ、南米の食用利用に関するデータは少ない。",
+    "missing_information": [
+      "世界全体の食用バラ（花、果実）の正確な生産統計",
+      "先住民コミュニティによる伝統的利用法の詳細な記録"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

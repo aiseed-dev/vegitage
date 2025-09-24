@@ -1,0 +1,686 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本的な植物学情報は、主要な植物データベース（KEW, GRIN）および農学文献から統合。原産地の正確な特定には諸説ある。"
+    },
+    "primary_name": "Water Spinach",
+    "scientific_name": "Ipomoea aquatica",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "南アジアまたは東南アジア（正確な起源は不明）",
+    "wild_relatives": [
+      "Ipomoea batatas (Sweet Potato)",
+      "多数の野生Ipomoea種"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の主要言語での呼称を網羅的に収集。方言や少数言語の名称はさらに多数存在する。"
+    },
+    "international": {
+      "en": [
+        "Water Spinach",
+        "River Spinach",
+        "Water Morning Glory",
+        "Swamp Cabbage"
+      ],
+      "scientific_common": "Kangkong"
+    },
+    "regional": [
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "ms",
+            "name": "Kangkung",
+            "script": "Latin"
+          },
+          {
+            "lang": "id",
+            "name": "Kangkung",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ผักบุ้ง (Phak bung)",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Rau muống",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Kangkóng",
+            "script": "Latin"
+          },
+          {
+            "lang": "km",
+            "name": "ត្រកួន (Trakuon)",
+            "script": "Khmer"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "空心菜 (kōngxīncài), 蕹菜 (wèngcài)",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "ヨウサイ (Yosai), エンサイ (Ensai), クウシンサイ (Kushinsai)",
+            "script": "Katakana/Hiragana"
+          },
+          {
+            "lang": "ko",
+            "name": "공심채 (Gongsimchae)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "कलमी साग (Kalmi saag)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "কলমি শাক (Kolmi shak)",
+            "script": "Bengali"
+          },
+          {
+            "lang": "ta",
+            "name": "வள்ளல் கீரை (Vallal keerai)",
+            "script": "Tamil"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Morning glory family",
+      "la": "Convolvulaceae"
+    },
+    "genus": {
+      "en": "Morning glory",
+      "la": "Ipomoea"
+    },
+    "species": {
+      "en": "Water spinach",
+      "la": "I. aquatica"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学的記録、料理書、農業史から情報を統合。その日常性から儀式的利用の記録は少ない。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ほぼ毎日の食事で消費される最も一般的な葉物野菜の一つ。安価で入手しやすく、庶民の食生活を支える重要な存在。特に炒め物やスープに多用される。",
+        "seasonal_significance": "雨季に最もよく育ち、豊富に出回る。食料が少なくなる時期の重要な栄養源。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア（特に中国南部）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "夏の食卓に欠かせない野菜。特に広東料理や四川料理で、ニンニクや唐辛子、発酵調味料と共に強火で炒める調理法が定着している。",
+        "seasonal_significance": "夏の暑さを乗り切るための体を冷やす効果があるとされる（伝統医学的観点）。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "インド東部やバングラデシュで一般的な「サーグ」（葉物野菜の煮込み）として消費される。アーユルヴェーダでは薬用としても利用されてきた歴史がある。",
+        "seasonal_significance": "モンスーン期に湿地や川辺で豊富に自生し、重要な食料となる。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "マレーシア・インドネシア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Kangkung Belacan"
+        ],
+        "preparation_methods": [
+          "炒める（サンバルブラチャンと共に）"
+        ],
+        "cultural_context": "サンバル（唐辛子ペースト）との組み合わせは国民食とも言える地位を確立している。"
+      },
+      {
+        "cuisine": "タイ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Pad Pak Boong Fai Daeng (ผัดผักบุ้งไฟแดง)"
+        ],
+        "preparation_methods": [
+          "炒める（強火で短時間）"
+        ],
+        "cultural_context": "屋台から高級レストランまで提供される定番料理。炎を上げて調理するパフォーマンスも有名。"
+      },
+      {
+        "cuisine": "ベトナム料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Rau muống xào tỏi",
+          "Canh chua"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "茹でる",
+          "スープの具"
+        ],
+        "cultural_context": "ベトナムの家庭料理を象徴する野菜。茹で汁もスープとして飲む文化がある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代からアジアの熱帯・亜熱帯地域で利用されてきた。正確な栽培化の年代は不明だが、非常に長い歴史を持つ。",
+      "trade_routes": "明確な交易品としての記録は少ないが、人の移動に伴いアジア全域、アフリカ、中南米へと広がった。",
+      "cultural_exchange": "東南アジアからの移民・移住者によって世界中の熱帯・亜熱帯地域に広まり、各国の食文化に組み込まれていった。",
+      "domestication_history": "栽培化と野生種の区別が難しいほど環境適応能力が高い。水田や水路などの人間の生活圏で半野生的に繁殖し、利用される中で栽培化が進んだと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて高温多湿。水辺や湿地が最適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない季節に旺盛に生育。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の高温期に一年草として栽培可能。十分な水やりが必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、冬の寒さが厳しいため不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "大量の水を必要とするため、灌漑設備がなければ栽培は極めて困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため生育できない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "通年（植え付け後30-60日から収穫開始）",
+        "growing_period_days": 30
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春〜初夏",
+        "harvest_season": "夏〜初秋",
+        "growing_period_days": 45
+      }
+    ],
+    "productivity": {
+      "yield_range": "50,000 - 90,000 kg/ha",
+      "factors_affecting_yield": [
+        "水利可能性",
+        "気温",
+        "窒素肥料",
+        "収穫頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（多くの国で統計データが取られていない）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "世界最大の生産・消費国。特に南部で大規模に栽培。"
+        },
+        {
+          "country": "ベトナム",
+          "production_share": null,
+          "characteristics": "国内で広く消費される主要野菜。水田地帯での栽培が盛ん。"
+        },
+        {
+          "country": "タイ",
+          "production_share": null,
+          "characteristics": "国内消費および周辺国への輸出。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変動が大きい。伝統的薬用利用は民族植物学の記録に基づくが、科学的検証は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "19",
+        "protein_g": "2.6",
+        "carbs_g": "3.1",
+        "fat_g": "0.2",
+        "fiber_g": "2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA",
+          "amount": "6300 IU",
+          "daily_value_percent": "126%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "55 mg",
+          "daily_value_percent": "92%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.7 mg",
+          "daily_value_percent": "9%"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "77 mg",
+          "daily_value_percent": "8%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ポリフェノール類（ルテイン、β-カロテン）",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、眼の健康維持"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "便秘の緩和",
+          "黄疸の治療",
+          "神経鎮静"
+        ],
+        "preparation": "ジュース、煎じ薬"
+      },
+      {
+        "region": "東南アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "解熱",
+          "解毒",
+          "利尿作用"
+        ],
+        "preparation": "生のジュース、茹で汁"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "血糖降下作用",
+        "肝保護作用",
+        "抗菌作用"
+      ],
+      "safety_considerations": "水生環境で栽培されるため、重金属や寄生虫を吸収する可能性がある。生食は避け、信頼できる水源からのものを十分に洗浄・加熱調理することが推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理文化における利用法は広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東南アジア・東アジア",
+        "methods": [
+          "炒める (Stir-frying)",
+          "茹でる (Boiling)",
+          "蒸す (Steaming)",
+          "スープ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ニンニク",
+          "唐辛子",
+          "エビペースト (Belacan/Gapi)",
+          "魚醤",
+          "オイスターソース",
+          "豆腐よう (腐乳)"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け・発酵",
+        "regions": [
+          "東南アジアの一部"
+        ],
+        "shelf_life": "数週間〜数ヶ月",
+        "quality_changes": "食感が柔らかくなり、酸味と塩味が付加される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかでわずかに甘みがあり、クセがない。調理法や調味料の味をよく吸収する。",
+      "aroma_compounds": [
+        "青葉アルコール (Cis-3-Hexenol)"
+      ],
+      "texture_characteristics": "茎は中空でシャキシャキとした歯ごたえがあり、葉は柔らかい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐水性に関する定性的な知見は豊富だが、定量的な実験データは限られる。将来予測は一般的な作物モデルからの類推を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生育可能だが、品質は低下する。",
+      "cold_tolerance": "5°C以下で枯死。霜には全く耐えられない。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "非常に低い。大量の水を消費する。",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "年間1500mm以上、もしくは恒常的な水源が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎がしなやかなため、強風で倒れても再生力が高い。",
+      "hail_damage_recovery": "葉や茎が傷ついても、節から新しい芽を出すため回復が早い。",
+      "rapid_temperature_change": "急激な低温には弱いが、高温への適応は速い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成と成長が促進される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中程度。強い日照を好むが、極端な紫外線は葉焼けの原因となる可能性がある。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやヨトウムシなどの害虫の発生期間が長くなるリスクがある。",
+      "disease_resistance_stability": "高温多湿環境での白さび病などの真菌性疾患のリスクが増加する可能性がある。",
+      "beneficial_organism_relationships": "水田環境では、害虫の天敵となる昆虫やカエルなどの生息地を提供する。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯全域、温帯の夏季",
+        "2050_projection": "温帯地域での栽培可能期間が延長。亜熱帯・熱帯地域では、水資源の利用可能性が大きな制約要因となる。",
+        "2100_projection": "現在の温帯北部まで栽培可能地域が拡大する可能性があるが、干ばつが頻発する地域では栽培が困難になる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "品種改良に関する研究は存在するが、自然交雑の動態や野生種との遺伝子流動に関する詳細な研究は非常に少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "水生品種（広葉）と陸生品種（細葉）間の交雑は可能。"
+      ],
+      "interspecific_compatibility": [
+        "近縁のIpomoea種との交雑は困難。特に倍数性の異なるサツマイモ（I. batatas）との自然交雑は起こらない。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告はない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "水生・陸生、茎の色（緑、白、紫）、葉の形（広葉、細葉、矢じり形）など、形態的に多様な在来品種が存在する。",
+      "wild_gene_pool": "野生化した個体群が各地に存在し、遺伝子プールとして機能している可能性がある。",
+      "adaptive_genetic_variation": "水生と陸生という異なる環境に適応した生態型の分化は、高い適応的遺伝変異の存在を示唆する。",
+      "inbreeding_depression_risk": "栄養繁殖が容易なため、特定のクローンに依存すると遺伝的多様性が低下し、近交弱勢のリスクが生じる可能性がある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アジア全域",
+        "environmental_pressure": "水利用可能性（湛水環境 vs. 湿潤土壌）",
+        "adaptive_response": "水生型（太く節間が長い茎、浮遊能力）と陸生型（細くしっかりした茎、匍匐性）への分化。",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "環境圧による自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "陸生型の耐乾性と水生型の耐暑性を組み合わせることで、より広範な環境に適応する品種作出の可能性がある。",
+      "improved_nutritional_content": "β-カロテンや鉄分含有量の高い系統を選抜・交配することで栄養価の向上が可能。",
+      "novel_characteristics": "葉の形や茎の色の多様化。",
+      "hybrid_vigor_potential": "異なる生態型間の交配により、生育旺盛な雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "自家不和合性を示すことがある。",
+      "chromosome_compatibility": "種内では問題ない（2n=30）。",
+      "fertility_of_hybrids": "種内交雑では通常、稔性は維持される。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水の有無",
+        "adaptive_traits": "茎の構造、根の発生様式",
+        "heritability": "中〜高",
+        "response_to_selection": "生態型の分化"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "定性的な効果は知られているが、定量的な研究は少ない。特に水田生態系での役割に関する知見が多い。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、不定根を多く出す。水上や湿った土壌表面を覆う。",
+      "organic_matter_contribution": "生育が早くバイオマス生産量が多いため、収穫後の残渣が豊富な有機物を土壌に供給する。",
+      "soil_structure_improvement": "陸生栽培では、地表を覆うことで土壌の乾燥や硬化を防ぐ。",
+      "erosion_control": "密な群落を形成し、特に水辺や傾斜地での土壌流出を抑制する。",
+      "nutrient_cycling_role": "水中の余剰な栄養分（特に窒素やリン）を吸収し、富栄養化を防ぐ水質浄化能力がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "アサガオに似た花は、ハチや蝶などの花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "水生栽培では、水生昆虫やカエル、トンボなどの生息地となる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "小動物の隠れ家や餌場となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により、雨滴による土壌の叩きつけを防ぎ、水の浸透を助ける。",
+      "moisture_retention": "地表を覆うことで土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "水田や水路での栽培は、水の流れを緩やかにし、洪水を緩和する効果がある。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "非常に高い。生育が旺盛なため、単位面積あたりのバイオマス生産性が高い。",
+      "below_ground_carbon": "根が浅いため、地下部への炭素蓄積は限定的。",
+      "soil_carbon_enhancement": "残渣の鋤き込みにより、土壌有機炭素を増加させるポテンシャルがある。",
+      "carbon_sequestration_rate": "生育期間中は高いが、一年草として扱われる場合は年間の純固定量は限定的。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "稲（水田での混作）、タロイモ（湿地での混作）"
+      ],
+      "natural_pest_control": "天敵の生息地を提供することで、害虫の発生を抑制する可能性がある。",
+      "nutrient_sharing": "水中の栄養を吸収するため、他の作物と競合する可能性がある。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "魚や他の水生生物と共存させる「アクアポニックス」や「稲魚共作」システムにおいて、生態系の安定性を高める重要な構成要素となる。",
+      "stress_tolerance": "高温や湛水というストレス環境下で高い生産性を示す。",
+      "recovery_capacity": "刈り取り後の再生能力が非常に高く、複数回の収穫が可能。",
+      "adaptability": "多様な水環境に適応できる。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食トレンドや市場動向に関する情報は広く入手可能。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミンやミネラルが豊富で、低カロリーなため、健康的な植物性食品として価値が高い。",
+      "food_security_contribution": "生育が早く、単位面積あたりの収量が高く、栽培が容易なため、特に熱帯地域の食料安全保障に大きく貢献している。",
+      "local_food_system_integration": "長距離輸送に向かないため、地産地消に適した作物。",
+      "alternative_protein_potential": "限定的（タンパク質含有量は高くない）。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エスニック料理の世界的な人気に伴う欧米市場での需要拡大",
+        "健康志向の高まりによる栄養価の高い葉物野菜としてのプロモーション"
+      ],
+      "value_added_products": [
+        "カット野菜",
+        "冷凍野菜",
+        "乾燥粉末（栄養補助食品）"
+      ],
+      "niche_market_value": "欧米ではアジア系食料品店を中心に流通しているが、より広い市場でのニッチな高級野菜としての可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種の保全状況は安定しているが、在来品種の多様性に関する体系的な調査や保全活動は不十分。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "開発による湿地や水辺の減少は、自生個体群や伝統的な栽培環境を脅かす。",
+    "climate_change_vulnerability": "水資源への依存度が高いため、干ばつが深刻化する地域では脆弱性が高い。",
+    "cultural_erosion_risk": "中",
+    "conservation_actions_needed": [
+      "各地域の在来品種（ランドレース）の収集、特性評価、および保存（ジーンバンク）",
+      "伝統的な水辺での栽培システムの維持・保全",
+      "気候変動（特に干ばつ）に適応可能な品種の選抜・育種"
+    ],
+    "priority_conservation_regions": [
+      "東南アジアのメコン川流域",
+      "中国南部",
+      "インド東部"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（World Vegetable Centerなど）で一部の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "限定的。一部の地域で伝統農法として維持されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "東南アジア",
+      "中国南部"
+    ],
+    "knowledge_gaps": [
+      "品種ごとの栄養価および機能性成分の定量的データ",
+      "異なる気候シナリオ下での生産性変動に関するモデル研究",
+      "野生近縁種との遺伝的関係と利用可能性"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種は学術的に確立されたものではなく、形態的な特徴に基づく通称が多い。"
+      },
+      "variety_name": "Broad Leaf (水蕹)",
+      "local_name": "Pak Boong Chin (Thai)",
+      "origin_region": "東南アジア・中国南部",
+      "distinctive_characteristics": "葉が広く、矢じり形。茎は太く柔らかい。水田や水路など水中で栽培されることが多い。",
+      "cultural_importance": "最も一般的に流通・消費されるタイプ。炒め物に適している。",
+      "climate_adaptation": "耐暑性・耐水性が非常に高いが、乾燥には弱い。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種は学術的に確立されたものではなく、形態的な特徴に基づく通称が多い。"
+      },
+      "variety_name": "Narrow Leaf (旱蕹)",
+      "local_name": "Pak Boong Na (Thai)",
+      "origin_region": "東南アジア・中国南部",
+      "distinctive_characteristics": "葉が細く、柳の葉に似る。茎は細く硬め。湿った土壌（畑）で栽培される。",
+      "cultural_importance": "スープや煮込み料理に利用されることがある。家庭菜園でも栽培される。",
+      "climate_adaptation": "水生タイプよりは乾燥に強いが、依然として多くの水分を必要とする。",
+      "conservation_status": "懸念なし"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "World Vegetable Center (AVRDC) publications",
+      "FAO agricultural reports",
+      "Ethnobiology and ethnomedicine academic journals",
+      "Regional culinary literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "遺伝的多様性の網羅的な評価"
+    ],
+    "regional_data_coverage": "アジア地域は豊富、アフリカ・ラテンアメリカは限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "先住民コミュニティにおける固有の利用法"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

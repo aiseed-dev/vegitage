@@ -1,0 +1,575 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "学名、科属、原産地などの基本情報は主要な植物学データベース（KEW, GBIF）に基づき確立されている。野生近縁種に関する詳細な遺伝的関係性は研究途上。"
+    },
+    "primary_name": "Pink and Blue Ginger",
+    "scientific_name": "Curcuma aeruginosa",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎",
+      "若芽"
+    ],
+    "origin_region": "南アジア、東南アジア（インド、東ヒマラヤ、ミャンマー、インドシナ半島）",
+    "wild_relatives": [
+      "Curcuma longa",
+      "Curcuma zedoaria"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アジア各地域の名称は民族植物学の文献で広く記録されている。"
+    },
+    "international": {
+      "en": [
+        "Pink and Blue Ginger",
+        "Arrowroot Ginger",
+        "Black Zedoary"
+      ],
+      "scientific_common": "Gajutsu"
+    },
+    "regional": [
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "id",
+            "name": "Temu Ireng",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Temu Hitam",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ว่านมหานก (Waan Maha Mek)",
+            "script": "Thai"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ガジュツ (Gajutsu)",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "莪术 (É Shù)",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "Kali Haldi",
+            "script": "Devanagari"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ジャワ（インドネシア）",
+        "name": "Temu Ireng",
+        "cultural_significance": "「黒いウコン」を意味し、伝統医療ジャムゥにおいて重要な薬草として扱われる。特に消化器系の不調や駆虫薬として用いられる。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物分類学的な位置づけは国際的なデータベースで確立されている。"
+    },
+    "family": {
+      "en": "Ginger family",
+      "la": "Zingiberaceae"
+    },
+    "genus": {
+      "en": "Turmeric",
+      "la": "Curcuma"
+    },
+    "species": {
+      "en": "Pink and Blue Ginger",
+      "la": "Curcuma aeruginosa"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "薬用としての利用は広く記録されているが、食文化や儀式での利用に関する情報は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "インドネシアの伝統医療ジャムゥで最も重要なハーブの一つ。消化促進、駆虫、産後の回復、抗炎症目的で使用。マレーシアやタイでも同様の薬用利用がみられる。",
+        "seasonal_significance": "乾季に根茎を収穫し、乾燥させて保存する。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "日本や中国では漢方薬「莪朮（がじゅつ）」として流通。主に健胃薬、婦人病薬として利用される。ウコン（姜黄）やキョウオウ（鬱金）と区別して用いられる。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インドネシア料理（特にスンダ料理）",
+        "role": "rare",
+        "traditional_dishes": [
+          "Lalab (生野菜サラダ)"
+        ],
+        "preparation_methods": [
+          "生食"
+        ],
+        "cultural_context": "根茎は苦味が強いため食用には向かないが、非常に若い若芽は苦味のある香味野菜として生で食べられることがある。主に薬用としての価値が高い。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "数世紀にわたりアジアの伝統医学、特にアーユルヴェーダやジャムゥで利用されてきた歴史がある。",
+      "trade_routes": "地域の交易網を通じて薬草として流通していたと考えられるが、スパイス貿易におけるウコンほど主要な品目ではなかった。",
+      "cultural_exchange": "伝統医療体系を通じて、その知識と利用法がアジア各地に伝播した。",
+      "domestication_history": "原産地で古くから薬用として選抜・栽培化されたと考えられるが、詳細な歴史は不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿、年間降水量1500mm以上、水はけの良い肥沃な土壌。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない地域。夏に成長し冬に休眠する。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "冬越しが困難なため、一年草としての栽培か温室栽培が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "乾季（地上部が枯れた後）",
+        "growing_period_days": 270
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "降水量",
+        "土壌の肥沃度と排水性",
+        "日照時間",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インドネシア",
+          "production_share": null,
+          "characteristics": "小規模農家による伝統的な栽培が中心。ジャムゥ産業向け。"
+        },
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "薬用植物として一部地域で栽培。"
+        },
+        {
+          "country": "タイ",
+          "production_share": null,
+          "characteristics": "伝統医療向けの栽培。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性成分に関する研究は進んでいるが、標準的な栄養成分データは乏しい。伝統的薬用利用は民族植物学の記録に基づき豊富。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Curcumol",
+        "concentration": "不明",
+        "health_effect": "抗腫瘍作用、抗炎症作用"
+      },
+      {
+        "compound": "Curdione",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、鎮痛作用"
+      },
+      {
+        "compound": "Zederone",
+        "concentration": "不明",
+        "health_effect": "抗アレルギー作用、抗血小板凝集作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東南アジア",
+        "medical_system": "ジャムゥ（インドネシア伝統医学）",
+        "uses": [
+          "消化不良",
+          "腹痛",
+          "食欲増進",
+          "駆虫",
+          "産後の回復促進",
+          "皮膚病"
+        ],
+        "preparation": "新鮮な根茎をすり潰してジュースにする、または乾燥粉末をお湯で溶かして飲む。"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学・漢方",
+        "uses": [
+          "気滞血瘀（気の巡りと血行の滞り）の改善",
+          "月経痛",
+          "腹部膨満感",
+          "打撲"
+        ],
+        "preparation": "乾燥させた根茎をスライスまたは粉末にし、他の生薬と共に煎じて服用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗がん作用",
+        "抗炎症作用",
+        "抗菌作用",
+        "肝保護作用"
+      ],
+      "safety_considerations": "過剰摂取は胃腸に負担をかける可能性がある。妊娠中の使用には注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "食用としての利用は非常に限定的であり、ほとんどが薬用。情報源は民族植物学の記録に限られる。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "インドネシア",
+        "methods": [
+          "生食 (若芽のみ)"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "他の生野菜",
+          "サンバル（チリソース）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・粉末化",
+        "regions": [
+          "東南アジア",
+          "東アジア"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "乾燥により水分が抜け、精油成分が凝縮されるが、揮発性の香りは一部失われる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い苦味、樟脳のような清涼感、土のような香り",
+      "aroma_compounds": [
+        "Camphor",
+        "Curcumene",
+        "Zederone"
+      ],
+      "texture_characteristics": "生の根茎は硬く、繊維質。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応の研究はほぼ存在しない。評価は熱帯性ショウガ科植物の一般的な特性に基づく定性的推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "5°C以下で生育停止、霜に非常に弱い"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地上部は倒れやすいが地下茎は残る）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "低"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（理論的には正の効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明。温暖化により根茎腐敗病などの土壌病害のリスク増加が懸念される。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯モンスーン地域",
+        "2050_projection": "現在の栽培地の北限が拡大する可能性があるが、降雨パターンの変化がリスクとなる。",
+        "2100_projection": "熱帯地域の極端な高温や干ばつ・豪雨の増加により、現在の主要産地でも不安定化する可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Curcuma属の遺伝的多様性は高いが、本種の交雑親和性に関する具体的な研究は乏しい。主に栄養繁殖で増えるため、自然交雑の機会は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域ごとのランドレースが存在すると考えられる"
+      ],
+      "interspecific_compatibility": [
+        "同属の近縁種（C. zedoariaなど）との人為的な交雑は可能かもしれないが、自然交雑の報告はない。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中程度と推定されるが、体系的な評価は行われていない。",
+      "wild_gene_pool": "原産地には近縁野生種が存在し、潜在的な遺伝子プールとなっている。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、遺伝的多様性が低い集団ではリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他のCurcuma種との交雑により、耐病性や特定の環境ストレス耐性を導入できる可能性がある。",
+      "improved_nutritional_content": "機能性成分（クルクモールなど）の含有量を高める育種の可能性がある。",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致、花粉の稔性の低さなどが障壁となる可能性がある。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫、土壌条件、気候",
+        "adaptive_traits": "特定の機能性成分の生産、根茎の成長パターン",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化したリジェネラティブ農業の研究はない。評価はショウガ科植物の一般的な生態的機能からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範に広がる根茎と吸収根が土壌を団粒化し、通気性を改善する。",
+      "organic_matter_contribution": "収穫後の地上部残渣や古い根茎が分解され、土壌有機物となる。",
+      "soil_structure_improvement": "根茎の成長が土壌を物理的に耕す効果を持つ。",
+      "erosion_control": "生育期には広い葉が地面を覆い、雨滴による土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "土壌深層から養分を吸収し、地表近くに再配分する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は特定のハチ類を引きつける可能性がある。",
+      "beneficial_insect_habitat": "地上部の葉が天敵昆虫（クモなど）の隠れ家を提供する。",
+      "soil_microorganism_interaction": "根圏微生物叢との共生関係が期待される。",
+      "above_ground_biodiversity": "アグロフォレストリーシステムにおいて下層植生として機能し、多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の働きにより土壌の浸透能を改善する。",
+      "moisture_retention": "地上部によるマルチング効果で土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "地表被覆により表面流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年生の根茎に炭素を長期間貯留する能力が高い。",
+      "soil_carbon_enhancement": "根の分泌物や残渣分解により土壌有機炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "樹木（アグロフォレストリー）、マメ科植物（窒素供給）"
+      ],
+      "natural_pest_control": "精油成分が土壌線虫や特定の害虫を忌避する効果を持つ可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の成長を抑制または促進するアレロパシー効果の可能性が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草であるため、単年草作物システムより安定性が高い。",
+      "stress_tolerance": "乾季に休眠することで季節的な乾燥ストレスを回避する。",
+      "recovery_capacity": "地下茎が残っていれば、地上部が損傷しても再生する能力が高い。",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "健康食品やサプリメントとしての商業的可能性に関する議論は存在するが、大規模な産業化には至っていない。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "直接的な栄養源ではないが、健康維持に貢献する機能性植物として価値がある。",
+      "food_security_contribution": "小規模農家の収入源となり、地域の医療システムを補完することで間接的に貢献する。",
+      "local_food_system_integration": "伝統医療と結びついた地域内での生産・消費システムに適している。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性サプリメント市場",
+        "自然派化粧品原料",
+        "ハーブティー",
+        "植物由来医薬品"
+      ],
+      "value_added_products": [
+        "高濃度エキス",
+        "エッセンシャルオイル",
+        "カプセル、錠剤"
+      ],
+      "niche_market_value": "伝統医療や自然療法に関心を持つ層をターゲットとしたニッチ市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "保全状況に関する公式な評価（IUCNレッドリストなど）はない。リスク評価は一般的な脅威からの推定。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地における森林伐採や土地利用の変化が野生集団の脅威となっている。",
+    "climate_change_vulnerability": "中。降雨パターンの変化に脆弱な可能性がある。",
+    "cultural_erosion_risk": "高。伝統医療の知識が失われることで、栽培と利用が放棄されるリスクがある。",
+    "conservation_actions_needed": [
+      "遺伝的多様性の評価と収集",
+      "域内・域外保全の確立",
+      "伝統知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "インドネシア（ジャワ島）",
+      "インド北東部",
+      "ミャンマー"
+    ],
+    "ex_situ_conservation_status": "一部の植物園や研究機関で保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "特定の保全プログラムは報告されていない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インドネシア",
+      "インド",
+      "タイ"
+    ],
+    "knowledge_gaps": [
+      "遺伝的多様性の全体像",
+      "気候変動に対する生理的応答の定量的データ",
+      "栽培最適化技術",
+      "リジェネラティブ農業システムでの具体的な効果"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "PubMed",
+      "Google Scholar",
+      "KEW Plants of the World Online",
+      "Ethnobiology letters",
+      "Journal of Ethnopharmacology"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栽培収量に関する統計データ",
+      "詳細な栄養成分プロファイル"
+    ],
+    "regional_data_coverage": "東南アジアに偏っており、南アジアや他の地域に関する情報は限定的。",
+    "missing_information": [
+      "商業生産量と貿易データ",
+      "品種ごとの特性"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GRIN）および農業研究機関の報告から統合。学名に関してはCanna indicaとの混同や分類学的再編の議論があるが、本データは伝統的に食用とされてきたCanna edulis Ker Gawl.を対象とする。"
+    },
+    "primary_name": "Achira",
+    "scientific_name": "Canna edulis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎",
+      "茎",
+      "葉"
+    ],
+    "origin_region": "南米アンデス山脈高地（ペルー、エクアドル、ボリビア、コロンビア）",
+    "wild_relatives": [
+      "Canna indica",
+      "Canna glauca"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の植物名データベースおよび民族植物学の記録から収集。特にアンデス地域と東南アジアでの名称は豊富に記録されている。"
+    },
+    "international": {
+      "en": [
+        "Achira",
+        "Edible Canna",
+        "Queensland Arrowroot"
+      ],
+      "scientific_common": "Edible Canna"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Achira, Sagú, Capacho, Bijuco",
+            "script": "Latin"
+          },
+          {
+            "lang": "qu",
+            "name": "Achira",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Biri, Meru",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Dong riềng",
+            "script": "Latin"
+          },
+          {
+            "lang": "id",
+            "name": "Ganyong",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "Sakhu",
+            "script": "Thai"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ショクヨウカンナ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "食用美人蕉",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "en-AU",
+            "name": "Queensland Arrowroot",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ケチュア族（アンデス）",
+        "name": "Achira",
+        "cultural_significance": "ジャガイモやトウモロコシが普及する以前の古代からの重要な澱粉源。儀式用の食料としても利用された歴史を持つ。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Canna family",
+      "la": "Cannaceae"
+    },
+    "genus": {
+      "en": "Canna",
+      "la": "Canna"
+    },
+    "species": {
+      "en": "Edible Canna",
+      "la": "edulis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "考古学、人類学、民族植物学の文献に基づき、特にアンデス地域とベトナムでの文化的価値は詳細に記録されている。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南米（アンデス）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "根茎を焼く（ワティア）、煮る、または乾燥させて粉にし、パンやビスケット（Bizcochos de achira）を作る。古代ナスカ文化の遺跡からも発見されており、歴史的に極めて重要。",
+        "seasonal_significance": "乾季前の収穫祭と関連することがある。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東南アジア（特にベトナム）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "経済作物",
+          "副菜"
+        ],
+        "traditional_uses": "根茎から澱粉を抽出し、透明な春雨（ミェンドン）を作る。これはテト（旧正月）などの祝祭料理に不可欠な食材である。",
+        "seasonal_significance": "テト前の需要期に生産がピークとなる。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "アンデス料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Huatia de Achira (土中での蒸し焼き)",
+          "Bizcochos de Achira (アチラ粉のビスケット)"
+        ],
+        "preparation_methods": [
+          "焙煎",
+          "製粉",
+          "蒸煮"
+        ],
+        "cultural_context": "共同体での収穫と調理が結びついた伝統的な食文化。インカ帝国以前からの食の記憶を伝える役割を持つ。"
+      },
+      {
+        "cuisine": "ベトナム料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Miến dong (カンナ春雨のスープや炒め物)"
+        ],
+        "preparation_methods": [
+          "澱粉抽出",
+          "製麺"
+        ],
+        "cultural_context": "祝祭や特別な日の料理に使われる高級食材としての位置づけ。その独特の食感が珍重される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アンデス地域で少なくとも4500年前から栽培されていた証拠がある。",
+      "trade_routes": "コロンブス交換以降、アジアやオセアニアに伝播した。",
+      "cultural_exchange": "アンデスの食文化がアジアの麺文化と融合し、新たな価値を生み出した例。",
+      "domestication_history": "アンデス山脈の多様な標高に適応する形で、数多くの地方品種（ランドレース）が生まれたと推定される。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好むが、低地から高地まで適応範囲が広い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "生育期に十分な温度と水分があれば良好に生育する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な地域、または夏作として栽培可能。冬期は根茎を掘り上げて保存する必要がある。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "厳しい冬の寒さに耐えられない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な灌漑がなければ生育は困難。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地であるアンデス高地（最大2,600m）に適応しているが、寒冷な高山気候には不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯・亜熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "乾季",
+        "growing_period_days": 240
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "初秋（初霜前）",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 85,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌肥沃度",
+        "水分供給",
+        "栽培期間",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ベトナム",
+          "production_share": "不明",
+          "characteristics": "主に春雨（ミェンドン）生産のための商業栽培が盛ん。"
+        },
+        {
+          "country": "ペルー",
+          "production_share": "不明",
+          "characteristics": "伝統的な自給自足農業や地域市場向けの小規模生産が中心。"
+        },
+        {
+          "country": "インドネシア",
+          "production_share": "不明",
+          "characteristics": "ガニョンとして知られ、地域の食料安全保障に貢献する作物。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "根茎の主要栄養素、特に澱粉に関するデータは豊富だが、微量栄養素や機能性成分に関する研究は限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "98",
+        "protein_g": "1.2",
+        "carbs_g": "22.6",
+        "fat_g": "0.1",
+        "fiber_g": "0.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "304 mg",
+          "daily_value_percent": 6
+        },
+        {
+          "nutrient": "リン",
+          "amount": "56 mg",
+          "daily_value_percent": 5
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "7.6 mg",
+          "daily_value_percent": 9
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール化合物",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "高アミロース澱粉",
+        "concentration": "澱粉の約30-40%",
+        "health_effect": "難消化性澱粉として機能し、血糖値の上昇を緩やかにする可能性がある。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "利尿作用",
+          "解熱"
+        ],
+        "preparation": "根茎の煎じ汁を飲用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "グルテンフリーの澱粉源"
+      ],
+      "ongoing_research": [
+        "難消化性澱粉の機能性",
+        "バイオプラスチック原料としての利用"
+      ],
+      "safety_considerations": "一般的に安全な食材とされるが、生食は推奨されない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の料理法に関する情報は、料理本や食文化研究から豊富に入手可能。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南米",
+        "methods": [
+          "焙煎",
+          "蒸し焼き",
+          "製粉して焼き菓子"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "チーズ",
+          "豚肉"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "澱粉抽出して麺",
+          "蒸して菓子"
+        ],
+        "flavor_role": "食感提供",
+        "typical_combinations": [
+          "鶏ガラスープ",
+          "キクラゲ",
+          "豚ひき肉"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "製粉",
+        "regions": [
+          "南米"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "乾燥により保存性が向上する。"
+      },
+      {
+        "method": "澱粉抽出・乾燥",
+        "regions": [
+          "東南アジア"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "純粋な炭水化物として長期保存が可能になる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生の根茎はわずかに土臭さと甘みがある。加熱すると甘みが増し、ホクホクとした食感になる。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "澱粉の粒子が非常に大きいため、独特の歯ごたえと滑らかさを持つ。アチラ粉のビスケットは脆く軽い食感になる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "18-28°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "0°C以下で地上部が枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1000-2000 mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部の葉は風で傷つきやすいが、地下の根茎は保護され、再生能力が高い。",
+      "hail_damage_recovery": "高い",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度上昇により光合成効率が向上する可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高い（高地原産のため）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "一般的に病害虫に強いとされるが、温暖化による新規病害虫への耐性は不明。",
+      "disease_resistance_stability": "遺伝的多様性が保たれている地域では安定性が高いと推定される。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯高地および低地",
+        "2050_projection": "温帯地域での栽培可能期間が延長される可能性がある。一方で、伝統的な栽培地域では干ばつリスクが増大する可能性がある。",
+        "2100_projection": "不明",
+        "confidence_level": "低い"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "観賞用カンナの育種史から、同属内での交雑親和性が高いことは知られている。しかし、食用種の自然交雑や適応に関する研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "アンデス地域の多様なランドレース間で交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "Canna indica",
+        "Canna flaccida",
+        "Canna glauca"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "観賞用カンナの多くは種間雑種に由来する。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地のアンデスには多様なランドレースが存在するが、遺伝的浸食が懸念される。",
+      "wild_gene_pool": "Canna indicaなどの野生近縁種が適応形質の遺伝子供給源となる可能性がある。",
+      "adaptive_genetic_variation": "標高、土壌、気候に対する地域適応の遺伝的変異が存在すると推定される。",
+      "inbreeding_depression_risk": "栄養繁殖が中心のため、クローン栽培ではリスクが高まる。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス山脈",
+        "environmental_pressure": "異なる標高（気温、日射、水分条件）",
+        "adaptive_response": "根茎の大きさ、澱粉の質、生育サイクルの異なるランドレースの分化",
+        "time_scale": "数千年",
+        "mechanism": "地域農家による人為選択と自然選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐病性を持つ野生種の遺伝子導入による向上可能性あり。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "澱粉の質（アミロース／アミロペクチン比）の改変の可能性がある。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "同属内では比較的低い。",
+      "chromosome_compatibility": "同属内では概ね良好。",
+      "fertility_of_hybrids": "多くは稔性を持つ。",
+      "backcrossing_success": "可能"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業システムでのショクヨウカンナの役割に関する直接的な研究は非常に少ない。本評価は植物の生物学的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く広がる多肉質の根茎が土壌を物理的に改良し、団粒構造を促進する可能性がある。",
+      "organic_matter_contribution": "地上部のバイオマスが大きく、収穫後の残渣は良質な有機物として土壌に還元される。",
+      "soil_structure_improvement": "高い",
+      "erosion_control": "広い葉が雨滴による土壌侵食を防ぎ、根茎が土壌を保持する。",
+      "nutrient_cycling_role": "カリウムを多く吸収する傾向がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きな花は鳥類や大型の昆虫（ハチなど）を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根圏微生物との相互作用に関する研究は不足している。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の活動が土壌の浸透性を高める可能性がある。",
+      "moisture_retention": "地上部の被覆が土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "高い",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い",
+      "below_ground_carbon": "大きな根茎に大量の炭素を蓄積する。",
+      "soil_carbon_enhancement": "高いポテンシャルを持つ。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）",
+        "カボチャ類（地面被覆）との混植が伝統的に行われる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、土壌を安定させ、年間を通じて被覆を提供する。",
+      "stress_tolerance": "一度定着すれば、ある程度の放置にも耐える。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食品産業や新素材分野での応用に関する研究が進展中である。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリーでアレルギーの少ない澱粉源として価値が高い。",
+      "food_security_contribution": "痩せ地や辺境地でも栽培しやすいため、小規模農家の食料安全保障に貢献する可能性がある。",
+      "local_food_system_integration": "加工品（粉、麺、菓子）への展開が容易で、地域の六次産業化に適している。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルテンフリー食品市場",
+        "健康志向食品市場（難消化性澱粉）",
+        "エスニック食品市場"
+      ],
+      "value_added_products": [
+        "アチラ粉ビスケット",
+        "高級春雨",
+        "ベビーフード",
+        "バイオプラスチック"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは指摘されているが、定量的な評価は不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "低い（栽培植物のため）",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "アンデス地域のランドレースの収集、評価、および種子銀行での保存",
+      "伝統的知識の記録と継承支援",
+      "地域コミュニティによる参加型保全活動の促進"
+    ],
+    "priority_conservation_regions": [
+      "ペルー、エクアドル、コロンビアのアンデス山脈地域"
+    ],
+    "ex_situ_conservation_status": "いくつかの国際的なジーンバンク（例：国際ポテトセンター）で限定的に保存されている。",
+    "in_situ_conservation_efforts": "小規模な地域コミュニティレベルでの保全活動に留まる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "アンデス高地（ペルー、エクアドル）",
+      "ベトナム北部"
+    ],
+    "knowledge_gaps": [
+      "ランドレースごとの栄養価と機能性成分の差異",
+      "気候変動ストレス（干ばつ、高温）に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける土壌改良効果の長期的モニタリングデータ"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "ショクヨウカンナには商業的な登録品種は少なく、主に地域ごとのランドレースとして認識されている。以下の記述は典型的な特徴をまとめたものである。"
+      },
+      "variety_name": "Andean Highland Landraces",
+      "local_name": "Achira",
+      "origin_region": "南米アンデス",
+      "distinctive_characteristics": "茎や葉の色（緑色から紫色）、根茎の大きさや形状に多様性が見られる。高地に適応し、冷涼な夜間に強い。",
+      "cultural_importance": "地域の食文化と密接に結びついた伝統品種群。",
+      "climate_adaptation": "高地の冷涼な気候、強い紫外線に適応している。",
+      "conservation_status": "遺伝的浸食が進行中"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Plants of the World Online (Kew Science)",
+      "GRIN-Global Taxonomy",
+      "Lost Crops of the Incas: Little-Known Plants of the Andes with Promise for Worldwide Cultivation (National Research Council, 1989)",
+      "Ethnobotanical studies on Andean crops"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "ランドレースの遺伝的多様性の網羅的評価"
+    ],
+    "regional_data_coverage": "南米アンデスと東南アジアに情報が集中しており、アフリカや他地域での利用に関するデータは限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "病害虫に関する体系的な研究"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

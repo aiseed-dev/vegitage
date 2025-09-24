@@ -1,0 +1,630 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食用ユリに関する情報は主に東アジアの植物学、農学、民族植物学の文献に集中している。学名情報は国際的な植物データベース（KEW, GBIF）に基づき、複数の食用種が存在することを反映している。"
+    },
+    "primary_name": "Edible Lily Bulb",
+    "scientific_name": "Lilium spp.",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "球根（鱗茎）",
+      "花",
+      "珠芽（ムカゴ）"
+    ],
+    "origin_region": "北半球の温帯地域（特に東アジア、北米）",
+    "wild_relatives": [
+      "Lilium属内の多数の野生種（例: L. speciosum, L. auratum）"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "東アジアでの名称は豊富だが、他の地域での食用としての名称は限定的または歴史的なものが多い。"
+    },
+    "international": {
+      "en": [
+        "Lily bulb",
+        "Edible lily"
+      ],
+      "scientific_common": "Lilium bulb"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ユリネ (百合根)",
+            "script": "日本語"
+          },
+          {
+            "lang": "zh",
+            "name": "百合",
+            "script": "繁体字/簡体字"
+          },
+          {
+            "lang": "ko",
+            "name": "나리",
+            "script": "ハングル"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Tiger lily",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "北米の複数の先住民族（例: Salish, Miwok）",
+        "name": "Tiger Lily, Leopard Lily (現地語名は多様)",
+        "cultural_significance": "伝統的な食料源として鱗茎を採集・調理。土地との繋がりを示す重要な植物。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Lily family",
+      "la": "Liliaceae"
+    },
+    "genus": {
+      "en": "Lily",
+      "la": "Lilium"
+    },
+    "species": {
+      "en": "Multiple edible species",
+      "la": "Lilium spp. (e.g., L. lancifolium, L. brownii, L. pumilum)"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "L. brownii var. viridulum (食用百合の主要栽培品種群)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアにおける文化的価値は非常に高い。北米先住民文化における価値は記録されているが、現代における実践は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "高級食材"
+        ],
+        "traditional_uses": "中国では肺を潤し精神を安定させる薬膳食材として、日本では茶碗蒸しやおせち料理などハレの日の食材として利用される。純粋さや多産（鱗茎が重なる様子から）の象徴でもある。",
+        "seasonal_significance": "秋から冬にかけての味覚",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "伝統食料"
+        ],
+        "traditional_uses": "一部の先住民族が野生種の鱗茎を掘り、蒸し焼きなどにして食していた。重要な生存食料であった。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "中華料理（特に広東、江南）",
+        "role": "essential",
+        "traditional_dishes": [
+          "百合とセロリの炒め物 (西芹百合)",
+          "百合の甘いスープ (百合糖水)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "煮る",
+          "蒸す"
+        ],
+        "cultural_context": "薬食同源の思想に基づき、健康維持のために食される。特に秋の乾燥した季節に良いとされる。"
+      },
+      {
+        "cuisine": "日本料理（懐石、京料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "茶碗蒸し",
+          "百合根饅頭",
+          "含め煮"
+        ],
+        "preparation_methods": [
+          "蒸す",
+          "煮る",
+          "裏ごしする"
+        ],
+        "cultural_context": "繊細な甘みとほっくりした食感が珍重され、料理の彩りやアクセントとして使われる。正月のおせち料理にも含まれる縁起物。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では漢代の文献に薬用としての記述が見られる。食用としての歴史も2000年以上と推定される。",
+      "trade_routes": "主に地域内での流通が中心。シルクロードなどを通じた広域交易の主要品目ではなかった。",
+      "cultural_exchange": "仏教の伝来と共に、薬用・食用としての知識が中国から日本へ伝わった可能性がある。",
+      "domestication_history": "各地域で野生種から有用な系統が選抜され、栽培化された。明確な単一の起源地は特定されていない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "低温要求期間を満たせないため栽培不可。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や冬季に十分な低温が得られる地域に限られる。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "明確な四季と冬季の低温期間がある冷涼な気候が最適。水はけの良い砂質土壌を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さに耐える品種が存在するが、乾燥には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱く栽培不可。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "多くの野生種が自生しており、高冷地での栽培に適した種も存在する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "秋（9月-11月）",
+        "harvest_season": "翌々年の秋から冬（10月-12月）",
+        "growing_period_days": 730
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000 - 15,000 kg/ha",
+      "factors_affecting_yield": [
+        "ウイルス病の発生",
+        "連作障害",
+        "土壌の排水性",
+        "収穫までの栽培年数（通常2-3年）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（正確な統計データなし）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 80,
+          "characteristics": "世界最大の生産国。蘭州、湖南省などが主産地。薬用・食用の両方で大規模栽培。"
+        },
+        {
+          "country": "日本",
+          "production_share": 15,
+          "characteristics": "北海道が主産地。高品質な食用専門品種が栽培されているが、生産量は減少傾向。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や地域による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "110-130",
+        "protein_g": "2.0-4.0",
+        "carbs_g": "25.0-30.0",
+        "fat_g": "0.1-0.3",
+        "fiber_g": "3.0-5.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "含有",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "グルコマンナン",
+          "amount": "含有",
+          "daily_value_percent": "N/A"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ステロイドサポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症、去痰作用の可能性"
+      },
+      {
+        "compound": "フェノール配糖体 (Regaloside A, B)",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用の可能性"
+      },
+      {
+        "compound": "多糖類",
+        "concentration": "不明",
+        "health_effect": "免疫調節作用の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学 (TCM)",
+        "uses": [
+          "鎮咳・去痰",
+          "滋養強壮",
+          "精神安定",
+          "不眠改善",
+          "肺の保湿"
+        ],
+        "preparation": "乾燥させた鱗茎を煎じ薬や薬膳スープに用いる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化作用",
+        "抗炎症作用",
+        "血糖降下作用",
+        "抗腫瘍作用"
+      ],
+      "safety_considerations": "ユリ科植物には有毒な種も多く、食用とされている種以外は摂取してはならない。特にネコに対しては猛毒。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア料理における利用法は確立されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒める",
+          "蒸す",
+          "煮る",
+          "揚げる",
+          "裏ごしする"
+        ],
+        "flavor_role": "主味/副味",
+        "typical_combinations": [
+          "セロリ",
+          "ぎんなん",
+          "鶏肉",
+          "エビ",
+          "白きくらげ",
+          "蓮の実"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "中国"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りが強まり、薬効成分が凝縮されるとされる。食感は硬くなるため、戻して使用する。"
+      },
+      {
+        "method": "おがくず詰め冷蔵",
+        "regions": [
+          "日本",
+          "中国"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "鮮度と水分を保つための伝統的な方法。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "上品な甘み、ほのかな苦味、デンプン質",
+      "aroma_compounds": [
+        "テルペノイド類"
+      ],
+      "texture_characteristics": "加熱するとホクホク（ジャガイモ様）、シャキシャキ（レンコン様）の両方の食感を持つ。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用ユリの気候変動適応性に関する直接的な研究は極めて少ない。耐性は主に自生地の気候条件からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上が続くと生育不良や病気が増加する。",
+      "cold_tolerance": "非常に高い（多くの種が越冬のために低温期間を必要とする）。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "年間800-1500mm程度の湿潤な環境を好む。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒れやすいが、地下の鱗茎は保護される。",
+      "hail_damage_recovery": "葉の損傷からの回復は遅い。",
+      "rapid_temperature_change": "春先の急な霜に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシなどのウイルス媒介害虫の活動期間が長くなり、ウイルス病のリスクが増大する懸念。",
+      "disease_resistance_stability": "高温多湿は球根腐敗病などの土壌病害を助長する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジア、北米の温帯地域",
+        "2050_projection": "栽培適地がより高緯度・高地へ移動する可能性",
+        "2100_projection": "現在の主産地の一部では栽培が困難になる可能性",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "観賞用ユリの育種史において、種間交雑が非常に活発に行われてきた実績がある。この知見は食用品種にも応用可能。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "品種内での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "非常に高い。アジアティック・ハイブリッド、オリエンタル・ハイブリッドなど多数の種間交雑群が存在する。"
+      ],
+      "intergeneric_possibility": [
+        "限定的だが、近縁のバイモ属（Fritillaria）との属間交雑の報告例がある。"
+      ],
+      "successful_natural_hybrids": [
+        "野生環境においても、分布域が重なる種間での自然交雑が報告されている（例: L. x maculatum）。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "中国には多様な地方品種が存在するが、保全状況は不明。",
+      "wild_gene_pool": "非常に広大で、耐病性、耐環境ストレス性など有用な遺伝子の宝庫である。",
+      "adaptive_genetic_variation": "高山から低地まで多様な環境に適応した野生種が存在し、遺伝的変異は大きい。",
+      "inbreeding_depression_risk": "栄養繁殖が容易なため、単一クローンに頼るとリスクが高い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ヒマラヤ山脈",
+        "environmental_pressure": "高地の強い紫外線、低温",
+        "adaptive_response": "矮小な草丈、特定の開花時期への同調",
+        "time_scale": "数千年単位",
+        "mechanism": "自然選択による遺伝的適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "高山性の野生種との交雑により、耐暑性や耐寒性を向上させる可能性は高い。",
+      "improved_nutritional_content": "野生種の成分を導入し、機能性成分を強化できる可能性がある。",
+      "novel_characteristics": "鱗茎のサイズ、形状、味、収穫までの期間短縮など、多様な形質の改良が可能。",
+      "hybrid_vigor_potential": "非常に高い。種間交雑により強健な性質を持つ雑種が生まれることが多い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部の種間組み合わせでは、胚珠の発育不全などの交雑障壁が存在するが、胚培養技術で克服可能。",
+      "chromosome_compatibility": "多くの種が同数の染色体（2n=24）を持つため、交雑は比較的容易。",
+      "fertility_of_hybrids": "多くの場合、稔性は保たれる。",
+      "backcrossing_success": "一般的に成功率が高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "ウイルス病",
+        "adaptive_traits": "ウイルス抵抗性遺伝子",
+        "heritability": "中〜高",
+        "response_to_selection": "抵抗性系統の選抜が可能"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈でユリを評価した研究はほぼ存在しない。多年草であることや根系の特性からポテンシャルを推定。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "鱗茎から多数のひげ根を出し、一部の種は地上茎からも根を出す（上根）。土壌を保持する能力を持つ可能性がある。",
+      "organic_matter_contribution": "多年生であるため、毎年の植え替えが不要な栽培体系ならば、土壌有機物の維持に貢献する可能性がある。",
+      "soil_structure_improvement": "根の活動が土壌団粒構造の形成を助ける可能性がある。",
+      "erosion_control": "不明",
+      "nutrient_cycling_role": "下層から養分を吸い上げる深根性の種もある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きく鮮やかな花は、チョウ、ガ、ハチ、ハチドリなど多様な花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌との共生関係が報告されており、土壌微生物叢の多様性に貢献する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の発達により土壌の浸透性を改善する可能性がある。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "大きな鱗茎を持つため、地下部での炭素貯留ポテンシャルは比較的高い。",
+      "soil_carbon_enhancement": "多年生作物として、土壌攪乱を減らすことで土壌炭素の蓄積に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "水はけの良い環境を好むため、浅根性の被覆植物との混植が考えられる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、単年生作物中心のシステムより安定性に寄与する可能性がある。",
+      "stress_tolerance": "ウイルス病や土壌病害に弱く、現在の栽培品種のストレス耐性は低い。",
+      "recovery_capacity": "地下鱗茎が残れば、地上部が損傷しても回復する能力がある。",
+      "adaptability": "遺伝的多様性が高いため、育種による適応性向上のポテンシャルは高い。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場はニッチだが、健康志向やガストロノミーツーリズムへの関心から新たな価値が見出されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリーのユニークなデンプン源として価値がある。",
+      "food_security_contribution": "主食にはならないが、食文化の多様性と栄養源の多様化に貢献する。",
+      "local_food_system_integration": "高品質な作物を少量生産する小規模農家や中山間地域に適した作物となる可能性がある。",
+      "alternative_protein_potential": "低い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "西洋料理における高級食材としての利用",
+        "健康食品・サプリメント原料"
+      ],
+      "value_added_products": [
+        "ユリ根パウダー",
+        "フリーズドライ製品",
+        "薬膳スープの素",
+        "エキス配合の化粧品"
+      ],
+      "niche_market_value": "非常に高い。アジア系スーパーマーケットや高級レストランで高価格で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "野生種の多くがIUCNレッドリストに掲載されている一方、食用の在来品種の保全状況に関する体系的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生種の自生地は、森林伐採、土地開発、気候変動により深刻な脅威にさらされている。",
+    "climate_change_vulnerability": "高い。特に低地の種は高温ストレスに脆弱。",
+    "cultural_erosion_risk": "高。伝統的な食利用や栽培知識が、若い世代に継承されずに失われつつある。",
+    "conservation_actions_needed": [
+      "野生種の自生地保全（域内保全）",
+      "食用の在来品種の収集と遺伝子バンクでの保存（域外保全）",
+      "伝統知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "中国南西部（雲南省、四川省）",
+      "ヒマラヤ地域",
+      "日本の山岳地帯"
+    ],
+    "ex_situ_conservation_status": "多くの植物園や研究機関で観賞用種が保存されているが、食用品種や野生の食用種の系統的収集は不十分。",
+    "in_situ_conservation_efforts": "一部の国立公園や保護区で自生地が保護されているが、食用目的の乱獲が問題となる地域もある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家AIとしての総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "中国・蘭州（高品質栽培技術）",
+      "日本の北海道（近代的な栽培システム）",
+      "北米太平洋岸北西部（先住民による野生種利用）"
+    ],
+    "knowledge_gaps": [
+      "食用ユリ品種の気候変動（特に高温・乾燥）への定量的応答データ",
+      "リジェネラティブ農業システムにおける具体的な効果と栽培方法",
+      "在来品種の遺伝的多様性と保全状況"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な栽培品種に関する情報。"
+      },
+      "variety_name": "蘭州百合 (Lanzhou Lily)",
+      "local_name": "兰州百合",
+      "origin_region": "中国・甘粛省蘭州市",
+      "distinctive_characteristics": "肉厚で非常に甘みが強く、繊維が少ない。世界最高品質の食用ユリとされる。",
+      "cultural_importance": "中国の地理的表示産品。高級贈答品や薬膳料理に用いられる。",
+      "climate_adaptation": "高地の冷涼で乾燥した気候に適応しているが、耐暑性は低い。",
+      "conservation_status": "商業的に栽培されているが、伝統的な栽培地域の環境変化が懸念される。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "代表的な栽培品種に関する情報。"
+      },
+      "variety_name": "オニユリ (Tiger Lily)",
+      "local_name": "鬼百合",
+      "origin_region": "日本、朝鮮半島、中国",
+      "distinctive_characteristics": "葉の付け根に珠芽（ムカゴ）をつけ、繁殖力が旺盛。鱗茎は少し苦味がある。",
+      "cultural_importance": "日本では古くから食用にされ、特にムカゴは「ゆり根ごはん」などに利用される。",
+      "climate_adaptation": "強健で広範囲の気候に適応する。耐病性も比較的高い。",
+      "conservation_status": "広く分布し、栽培もされているため、絶滅の危機は低い。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "Flora of China",
+      "民族植物学データベース",
+      "農業技術体系データベース"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界全体の正確な生産統計"
+    ],
+    "regional_data_coverage": "東アジアに偏っており、北米の先住民利用に関するデータは断片的。",
+    "missing_information": [
+      "栄養成分の品種間比較",
+      "栽培における炭素隔離能力の具体的な数値"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

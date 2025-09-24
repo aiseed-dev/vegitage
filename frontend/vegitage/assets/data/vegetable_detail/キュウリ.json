@@ -1,0 +1,766 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(Kew Gardens' Plants of the World Online)、農学研究論文、FAOSTATのデータを統合。野生近縁種の情報は確立されている。"
+    },
+    "primary_name": "Cucumber",
+    "scientific_name": "Cucumis sativus",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "花",
+      "葉"
+    ],
+    "origin_region": "ヒマラヤ山麓（インド北部からネパール）",
+    "wild_relatives": [
+      "Cucumis sativus var. hardwickii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の言語辞書、植物名データベース、民族植物学の記録から収集。"
+    },
+    "international": {
+      "en": [
+        "Cucumber",
+        "Gherkin"
+      ],
+      "scientific_common": "Cultivated cucumber"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Pepino",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Concombre",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Gurke",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Cetriolo",
+            "script": "Latn"
+          },
+          {
+            "lang": "ru",
+            "name": "Огурец",
+            "script": "Cyrl"
+          },
+          {
+            "lang": "el",
+            "name": "Αγγούρι",
+            "script": "Grek"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "خيار",
+            "script": "Arab"
+          },
+          {
+            "lang": "tr",
+            "name": "Salatalık",
+            "script": "Latn"
+          },
+          {
+            "lang": "fa",
+            "name": "خیار",
+            "script": "Arab"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "खीरा",
+            "script": "Deva"
+          },
+          {
+            "lang": "bn",
+            "name": "শসা",
+            "script": "Beng"
+          },
+          {
+            "lang": "ta",
+            "name": "வெள்ளரிக்காய்",
+            "script": "Taml"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "黄瓜",
+            "script": "Hans"
+          },
+          {
+            "lang": "ja",
+            "name": "キュウリ",
+            "script": "Jpan"
+          },
+          {
+            "lang": "ko",
+            "name": "오이",
+            "script": "Kore"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "แตงกวา",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Dưa chuột",
+            "script": "Latn"
+          },
+          {
+            "lang": "id",
+            "name": "Timun",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ヒマラヤ山麓のコミュニティ",
+        "name": "不明（多数の地域名が存在）",
+        "cultural_significance": "原産地であり、多様な在来種が伝統的に栽培・利用されてきた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Cucumber",
+      "la": "Cucumis"
+    },
+    "species": {
+      "en": "Cucumber",
+      "la": "sativus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Cucumis sativus var. hardwickii"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の食文化、歴史文献、民族植物学的研究に基づく。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "世界全域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "生食サラダ、ピクルス、スープ、ジュース、化粧品原料として世界中で利用。夏の野菜として象徴的な意味を持つことが多い。",
+        "seasonal_significance": "夏を代表する清涼感のある食材。",
+        "cultivation_decline_risk": "低（商業品種） / 高（在来種）"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "ライタ（ヨーグルトサラダ）やカレーの付け合わせに不可欠。アーユルヴェーダでは体を冷やす食材として重要視される。",
+        "seasonal_significance": "暑季の体を冷やす重要な食材。",
+        "cultivation_decline_risk": "中（多様な在来種がF1品種に置き換わりつつある）"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "地中海料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ギリシャ風サラダ",
+          "ガスパチョ",
+          "ザジキ"
+        ],
+        "preparation_methods": [
+          "生食",
+          "ピューレ"
+        ],
+        "cultural_context": "夏の暑さを乗り切るための、爽やかで水分補給に適した食材として中心的な役割を果たす。"
+      },
+      {
+        "cuisine": "東アジア料理",
+        "role": "common",
+        "traditional_dishes": [
+          "たたききゅうり",
+          "涼拌黄瓜（和え物）",
+          "漬物"
+        ],
+        "preparation_methods": [
+          "生食",
+          "漬ける",
+          "炒める"
+        ],
+        "cultural_context": "前菜や箸休めとして、食感と爽やかさを加えるために用いられる。炒め物にも使われることがある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "少なくとも3000年前からインドで栽培。古代エジプト、ギリシャ、ローマでも知られていた。",
+      "trade_routes": "古代の交易路を通じて中東からヨーロッパへ、またシルクロードを通じて東アジアへ伝播した。",
+      "cultural_exchange": "各地域で独自の品種と利用法が発展し、世界の食文化の多様化に貢献した。",
+      "domestication_history": "インドのヒマラヤ山麓に自生する野生種 C. sativus var. hardwickii から栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好むが、病害虫の管理が重要。乾季の灌漑が必須。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "栽培に非常に適している。春から秋にかけて長期間栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な季節に栽培。施設栽培が広く行われている。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の短い期間のみ露地栽培が可能。施設栽培が一般的。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "大規模な灌漑施設がなければ商業栽培は困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、低温のため栽培には適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": "50-70"
+      },
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年（乾季が望ましい）",
+        "harvest_season": "播種後約2ヶ月",
+        "growing_period_days": "45-60"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 150,000 kg/ha（露地栽培から高度な施設栽培まで幅がある）",
+      "factors_affecting_yield": [
+        "水管理",
+        "受粉（蜂の活動）",
+        "日照",
+        "病害虫",
+        "施肥",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約9,125万トン (FAOSTAT, 2020)",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 79.9,
+          "characteristics": "世界生産の圧倒的大部分を占める。国内消費および加工品輸出。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": 2.1,
+          "characteristics": "ヨーロッパおよび中東市場への主要供給国。"
+        },
+        {
+          "country": "ロシア",
+          "production_share": 1.8,
+          "characteristics": "広大な国土で栽培。国内消費が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価はUSDA等のデータベースで確立されているが、品種や栽培条件による機能性成分の変動に関するデータは限定的。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "15",
+        "protein_g": "0.7",
+        "carbs_g": "3.6",
+        "fat_g": "0.1",
+        "fiber_g": "0.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "16.4 µg",
+          "daily_value_percent": 14
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "147 mg",
+          "daily_value_percent": 3
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "2.8 mg",
+          "daily_value_percent": 3
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ククルビタシン類",
+        "concentration": "品種により変動、特にヘタ部分に多い",
+        "health_effect": "苦味成分。抗炎症、抗がん作用の可能性が研究されているが、高濃度では毒性を示す。"
+      },
+      {
+        "compound": "フラボノイド（フィセチン等）",
+        "concentration": "皮に多く含まれる",
+        "health_effect": "抗酸化作用、抗炎症作用、神経保護作用が研究されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "利尿作用",
+          "解熱",
+          "便秘解消",
+          "皮膚の冷却・保湿"
+        ],
+        "preparation": "生食、ジュース、スライスして皮膚に貼付。"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "清熱解毒（体の熱を冷まし毒素を排出）",
+          "利水（余分な水分を排出）"
+        ],
+        "preparation": "生食、スープ、ジュース。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "水分補給効果",
+        "低カロリー"
+      ],
+      "ongoing_research": [
+        "ククルビタシン類の抗がん作用",
+        "フィセチンの抗老化・認知機能改善効果",
+        "血糖降下作用"
+      ],
+      "safety_considerations": "ククルビタシンによる苦味が強いものは消化器系への刺激可能性がある。農薬残留に注意。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の料理書、食文化研究から広範な情報を収集。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "欧米",
+        "methods": [
+          "生食（スライス、ダイス）",
+          "ピクルス"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "トマト",
+          "レタス",
+          "玉ねぎ",
+          "フェタチーズ",
+          "ディル"
+        ]
+      },
+      {
+        "region": "アジア",
+        "methods": [
+          "和え物",
+          "漬物",
+          "炒め物",
+          "スープ"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ニンニク",
+          "ごま油",
+          "醤油",
+          "唐辛子",
+          "ヨーグルト"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ピクルス（酢漬け）",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "食感が硬くなり、酸味と塩味が加わる。ビタミンCは一部損失する。"
+      },
+      {
+        "method": "塩漬け・糠漬け",
+        "regions": [
+          "東アジア",
+          "東ヨーロッパ"
+        ],
+        "shelf_life": "数日から数週間",
+        "quality_changes": "発酵により独自の風味と旨味が付加される。乳酸菌が増加する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "淡白、爽やか、青々しい、わずかに甘みと苦み",
+      "aroma_compounds": [
+        "(E,Z)-2,6-ノナジエナール",
+        "(E)-2-ノネナール"
+      ],
+      "texture_characteristics": "シャキシャキ、パリパリとした歯ごたえ、水分が多い"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する一般的な記述は多いが、品種レベルでの定量的な閾値データは乏しい。将来予測は広域モデルに基づく一般的な推定であり、精度は低い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "18-30°C",
+      "extreme_heat_survival": "35°C以上で生育不良、40°C以上で受粉障害や落果が多発。",
+      "cold_tolerance": "5°C以下で生育停止、0°Cで枯死。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。果実の95%が水分であり、継続的な灌漑が必要。",
+      "flood_tolerance": "低。土壌の過湿は根腐れを引き起こし、致命的。",
+      "optimal_rainfall": "600-800 mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い。蔓が弱く、葉が大きいため風害を受けやすい。",
+      "hail_damage_recovery": "低い。果実や葉に傷がつくと病気の侵入経路となる。",
+      "rapid_temperature_change": "中程度の感受性。急激な温度変化は生育ストレスとなる。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。C3植物であるためCO2濃度上昇により光合成が促進される可能性があるが、高温や水ストレスで相殺される。",
+      "ozone_sensitivity": "高い。オゾンによる葉の斑点や生育阻害が報告されている。",
+      "uv_radiation_tolerance": "中程度。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシ、コナジラミ、ウリハムシなどの害虫の発生期間が長期化し、被害が増大する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境では、べと病やうどんこ病が蔓延しやすくなる。抵抗性品種の育成が重要だが、新たな病原菌レースの出現リスクもある。",
+      "beneficial_organism_relationships": "高温はマルハナバチなどの主要な送粉者の活動を阻害する可能性があり、受粉不良のリスクが高まる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "世界の温帯、亜熱帯、熱帯地域",
+        "2050_projection": "高緯度地域（カナダ、北欧など）での露地栽培可能期間が延長。低緯度の乾燥地域では水資源の制約から栽培が困難になる。",
+        "2100_projection": "水ストレスと熱ストレスが深刻化し、多くの現行栽培地で施設栽培や耐性品種への転換が必須となる。",
+        "confidence_level": "低い"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種内交雑と野生種との交雑に関する情報は豊富だが、自然環境下での適応事例の体系的な記録は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全ての栽培品種（C. sativus）間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "メロン（C. melo）など、他のCucumis属の種とは通常交雑しない。強い生殖的隔離が存在する。"
+      ],
+      "intergeneric_possibility": [
+        "ない。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培品種と野生種 C. sativus var. hardwickii との自然交雑が原産地周辺で起こりうる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地であるインドや、二次的な多様性中心地である中国・東南アジアには、形、色、大きさ、耐病性において非常に多様な在来種が存在する。",
+      "wild_gene_pool": "野生種 C. sativus var. hardwickii は、病害虫抵抗性（べと病、うどんこ病など）やストレス耐性（苦味成分に関連）の貴重な遺伝資源である。",
+      "adaptive_genetic_variation": "在来種は各地域の気候や土壌に適応した遺伝的変異を保持している。",
+      "inbreeding_depression_risk": "自家受粉も可能だが、他家受粉が主であるため、商業的なF1品種の生産を除けばリスクは比較的小さい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インド、ヒマラヤ山麓",
+        "environmental_pressure": "多様な病害虫、季節的な干ばつとモンスーン",
+        "adaptive_response": "野生種や在来種は、特定の病気への抵抗性や、変動する水分条件への一定の耐性を持つ遺伝子を発達させた。",
+        "time_scale": "数千年",
+        "mechanism": "自然選択と伝統的な農家による種子選抜。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐病性や乾燥・高温への耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "野生種や在来種から、特定の機能性成分（抗酸化物質など）を導入できる可能性がある。",
+      "novel_characteristics": "果実の形状、色、風味などの新しい特性の導入が可能。",
+      "hybrid_vigor_potential": "異なる遺伝的背景を持つ品種間の交配により、収量性や生育の旺盛さ（雑種強勢）が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほぼ存在しない。種間では強い交雑障壁がある。",
+      "chromosome_compatibility": "種内（2n=14）では問題ない。",
+      "fertility_of_hybrids": "種内雑種は完全に稔性を持つ。",
+      "backcrossing_success": "野生種との交雑後の戻し交配は、育種で広く行われている。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫（特にべと病、うどんこ病）",
+        "adaptive_traits": "抵抗性遺伝子（R遺伝子）",
+        "heritability": "中〜高",
+        "response_to_selection": "比較的速い"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "キュウリ単体でのリジェネラティブ効果に関する研究は非常に少ない。一般的なウリ科作物の特性と農業生態学の原則からの類推が主である。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い繊維状根。土壌深層の改良効果は限定的。",
+      "organic_matter_contribution": "収穫後の残渣は分解が速く、土壌有機物の短期的な供給源となる。",
+      "soil_structure_improvement": "限定的。むしろ、栽培には良好な土壌構造が要求される。",
+      "erosion_control": "つる性の品種を地這い栽培する場合、地面を覆うことで土壌の雨滴侵食や乾燥を防ぐマルチ効果がある。",
+      "nutrient_cycling_role": "窒素固定能力はない。むしろ、生育が速いため土壌からの養分吸収量が多い「ヘビーフィーダー」である。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "黄色い花はミツバチやマルハナバチなどの花粉媒介者を強く引きつける。ポリネーターの重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "地這い栽培の葉陰は、クモやカマキリなどの捕食性天敵の生息場所を提供することがある。",
+      "soil_microorganism_interaction": "一般的な植物と同様に根圏微生物との相互作用はあるが、特筆すべき共生関係は知られていない。",
+      "above_ground_biodiversity": "限定的。単作栽培では多様性への貢献は少ない。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆による土壌表面の硬化防止効果はあるが、限定的。",
+      "moisture_retention": "葉によるマルチング効果で土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "地表被覆により、緩やかな斜面での表面流出をある程度抑制できる。",
+      "groundwater_recharge": "特筆すべき効果はない。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "一年草であり、生育期間が短いため、地上部バイオマスによる炭素の長期貯留はない。",
+      "below_ground_carbon": "根系が浅く、年間バイオマスも小さいため、地下部への炭素蓄積効果は小さい。",
+      "soil_carbon_enhancement": "残渣のすき込みは土壌炭素の短期的な供給になるが、長期的な固定への貢献は小さい。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科（窒素供給）、ナスタチウムやマリーゴールド（害虫忌避）、トウモロコシやヒマワリ（支柱および日陰提供）"
+      ],
+      "natural_pest_control": "ディルなどのセリ科植物は寄生蜂を引き寄せ、ウリハムシの天敵を増やす可能性がある。",
+      "nutrient_sharing": "限定的。",
+      "allelopathic_interactions": "他の植物の生育を阻害する強いアレロパシーは報告されていない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "単作では脆弱。混植や輪作体系に組み込むことで、生態系の安定性に貢献できる。",
+      "stress_tolerance": "低い。水、栄養、病害虫管理への依存度が高い。",
+      "recovery_capacity": "低い。",
+      "adaptability": "品種は多様だが、作物単体としての適応性は高くない。"
+    },
+    "regenerative_score": 4
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、食品科学、公衆衛生に関する報告書に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "サラダやスムージーの基本食材として、植物性中心の食生活に不可欠。",
+      "food_security_contribution": "単位面積あたりの収量が高く、生育期間も短いため、特に施設栽培において食料の安定供給に貢献する。",
+      "local_food_system_integration": "家庭菜園でも容易に栽培でき、直売所など地域内流通に適している。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性（例：特定の成分を強化した品種）",
+        "スナック用小型キュウリ",
+        "エキゾチックな在来種のニッチ市場"
+      ],
+      "value_added_products": [
+        "ピクルス",
+        "レリッシュ",
+        "ジュース",
+        "スムージー",
+        "化粧品（抽出エキス）"
+      ],
+      "niche_market_value": "有機栽培、特定の在来種（例：レモンキューカンバー）は高付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCN、Crop Trust、生物多様性関連の報告書に基づく。在来種の消失リスク評価は定性的なものが多い。"
+    },
+    "genetic_erosion_risk": "高（特に原産地および多様性の中心地における在来種）",
+    "habitat_loss_threat": "野生種 C. sativus var. hardwickii の自生地であるヒマラヤ山麓の森林伐採や開発が脅威となっている。",
+    "climate_change_vulnerability": "高い。特に水資源の枯渇と病害虫パターンの変化に脆弱。",
+    "cultural_erosion_risk": "高い。在来種に結びついた伝統的な栽培知識や食文化が、F1品種の普及により失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来種と野生近縁種のジーンバンクでの系統的収集と保存（域外保全）",
+      "農家が主体となった種子保存システムと多様性保全の支援（域内保全）",
+      "野生種の自生地の保護区設定"
+    ],
+    "priority_conservation_regions": [
+      "インド（特にヒマラヤ山麓）",
+      "ネパール",
+      "ミャンマー",
+      "中国（雲南省など）"
+    ],
+    "ex_situ_conservation_status": "主要な国際・各国のジーンバンク（例：World Vegetable Center）で多数の系統が保存されているが、網羅性は不完全。",
+    "in_situ_conservation_efforts": "限定的。一部のNGOや地域コミュニティによる取り組みに留まる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本JSON内の全データに基づく総合的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高（特に耐乾性・耐熱性を持つ遺伝資源の探索と利用）",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド北部",
+      "ネパール",
+      "中国雲南省"
+    ],
+    "knowledge_gaps": [
+      "在来種の気候ストレス耐性に関する定量的データ",
+      "野生近縁種の遺伝的多様性の網羅的評価",
+      "リジェネラティブ農業システムにおけるキュウリの最適な組み合わせ"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "種子会社のカタログ、農業研究機関の報告書、園芸百科事典に基づく。"
+      },
+      "variety_name": "Marketmore 76",
+      "local_name": "Marketmore 76",
+      "origin_region": "アメリカ（コーネル大学）",
+      "distinctive_characteristics": "濃い緑色で、長さ20-25cm。べと病、うどんこ病、キュウリモザイクウイルスへの耐病性を持つ標準的なスライス用キュウリ。",
+      "cultural_importance": "北米の家庭菜園および商業生産の基準品種。",
+      "climate_adaptation": "温帯気候に適応。耐病性により安定生産が可能。",
+      "conservation_status": "広く利用可能、保全上の懸念なし。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "種子会社のカタログ、農業研究機関の報告書、園芸百科事典に基づく。"
+      },
+      "variety_name": "Suyo Long",
+      "local_name": "Suyo Long",
+      "origin_region": "中国北部",
+      "distinctive_characteristics": "長さ35-60cmになる細長い品種。皮は濃緑色でイボとトゲが多い。苦味が少なく甘みがあり、歯切れが良い。暑さに強い。",
+      "cultural_importance": "アジア料理、特に和え物や漬物で好まれる。",
+      "climate_adaptation": "耐暑性が高く、温暖な気候での栽培に適している。",
+      "conservation_status": "ヘアルーム品種（伝統品種）として種子が流通。遺伝資源として重要。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "種子会社のカタログ、農業研究機関の報告書、園芸百科事典に基づく。"
+      },
+      "variety_name": "Lemon Cucumber",
+      "local_name": "Lemon Cucumber",
+      "origin_region": "不明（1894年にアメリカで紹介）",
+      "distinctive_characteristics": "レモンのような球形で黄色い皮を持つ。味はマイルドで甘く、苦味がほとんどない。皮が薄く、種も小さい。",
+      "cultural_importance": "珍しい外観から家庭菜園やニッチ市場で人気。",
+      "climate_adaptation": "標準的なキュウリと同様の温帯気候を好む。",
+      "conservation_status": "ヘアルーム品種として広く種子が流通。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "Kew Gardens 'Plants of the World Online'",
+      "World Vegetable Center (AVRDC)",
+      "USDA FoodData Central",
+      "Relevant ethnobotanical and agricultural research papers"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する多様な在来品種の応答に関する定量的データ",
+      "リジェネラティブ農業システムにおける具体的な貢献度の評価",
+      "野生近縁種の遺伝資源の網羅的な特性評価"
+    ],
+    "regional_data_coverage": "生産量や商業品種に関するデータはグローバルに存在するが、在来種の多様性や文化的利用に関する情報はアジアに偏っている。",
+    "missing_information": [
+      "アフリカ、南米における在来種の詳細な情報",
+      "先住民コミュニティによる伝統的栽培・利用法"
+    ],
+    "update_priority": "高（特に気候変動適応性に関する研究の進展を反映するため）",
+    "quality_score": 8
+  }
+}

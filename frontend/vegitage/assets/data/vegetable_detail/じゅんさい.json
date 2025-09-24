@@ -1,0 +1,567 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（KEW, GBIF）および民族植物学的研究から統合。Braseniaは単型属であるため、野生近縁種の情報は属レベルで限定的。"
+    },
+    "primary_name": "Water Shield",
+    "scientific_name": "Brasenia schreberi",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "北米、南米、東アジア、オーストラリア、アフリカに広域分布するが、単一の原産地は特定されていない。温帯から亜熱帯の淡水域に自生。",
+    "wild_relatives": []
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食用としての名称は東アジアに集中している。他の地域では、しばしば水生雑草として認識されている。"
+    },
+    "international": {
+      "en": [
+        "Water Shield",
+        "Water Target",
+        "Purple Wen-dock"
+      ],
+      "scientific_common": "Watershield"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ジュンサイ",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "莼菜",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "순채",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": []
+      },
+      {
+        "region": "オセアニア",
+        "languages": []
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アイヌ（日本）",
+        "name": "トヌンペ (Tonunpe)",
+        "cultural_significance": "沼や池に自生する食用植物として認識されていたが、現代的な利用は限定的。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Water-shield family",
+      "la": "Cabombaceae"
+    },
+    "genus": {
+      "en": "Watershield",
+      "la": "Brasenia"
+    },
+    "species": {
+      "en": "Water Shield",
+      "la": "Brasenia schreberi"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "文化的価値は東アジア、特に日本と中国の一部地域に極めて集中している。他の分布域では文化的重要性はほとんどない。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（日本）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "初夏の味覚を代表する高級食材。独特のぬめりと食感を活かし、お吸い物、酢の物、鍋物などで利用される。清涼感の象徴。",
+        "seasonal_significance": "晩春から初夏にかけて収穫され、季節の移ろいを告げる食材として重要。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東アジア（中国）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "特に杭州の西湖周辺で珍重され、「西湖莼菜汤」は有名な伝統料理。歴史的な詩文にも登場する。",
+        "seasonal_significance": "春から夏にかけての季節料理に用いられる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 1,
+        "cultural_roles": [],
+        "traditional_uses": "一部の先住民コミュニティで食用の記録があるが、現代ではほぼ利用されず、水域の侵略的雑草と見なされることが多い。",
+        "seasonal_significance": "なし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（懐石・割烹）",
+        "role": "essential",
+        "traditional_dishes": [
+          "じゅんさいの吸い物",
+          "じゅんさいの酢の物"
+        ],
+        "preparation_methods": [
+          "湯通し",
+          "冷菜"
+        ],
+        "cultural_context": "清らかさ、涼やかさ、季節感を表現するための重要な食材。食感（喉ごし）が特に重視される。"
+      },
+      {
+        "cuisine": "中国・浙江料理",
+        "role": "common",
+        "traditional_dishes": [
+          "西湖莼菜汤 (West Lake Water Shield Soup)"
+        ],
+        "preparation_methods": [
+          "スープ"
+        ],
+        "cultural_context": "地域の歴史と風景を象徴する料理として、文化的な価値が高い。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本の『万葉集』や中国の古典文学に記述が見られ、少なくとも1200年以上にわたって食用とされてきた歴史を持つ。",
+      "trade_routes": "主に地域内で消費される高級食材であり、歴史的な広域交易の対象ではなかった。",
+      "cultural_exchange": "不明",
+      "domestication_history": "完全な栽培化というよりは、自生する沼や池を管理・維持する半栽培的な形で利用が始まったと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "水温が高すぎると生育が阻害される。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬に休眠期がある温暖な地域。水質が清浄であることが必須。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冬に水面が凍結しても、水中の地下茎で越冬可能。清浄で流れの緩やかな淡水の沼や池。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "極端な温度変化や乾燥に弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水生植物のため、乾燥地帯での栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高地の低温環境には適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（地下茎の移植）",
+        "harvest_season": "晩春～夏（5月～8月）",
+        "growing_period_days": null
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "水質（富栄養化、農薬汚染に極めて弱い）",
+        "水深",
+        "水温",
+        "競合する水生植物の存在"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "秋田県が最大の産地。伝統的な手摘みによる収穫が行われる。"
+        },
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "浙江省杭州市などが主要産地。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分は分析されているが、機能性成分に関する詳細な研究は限定的。伝統的薬用利用は主に中医学の文献に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "5",
+        "protein_g": "0.4",
+        "carbs_g": "1.1",
+        "fat_g": "0.0",
+        "fiber_g": "0.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "140μg",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "23μg",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "多糖類（ガラクトマンナン）",
+        "concentration": "不明",
+        "health_effect": "若芽を覆うゼリー状物質の主成分。食物繊維として整腸作用が期待されるほか、抗酸化作用や免疫調節作用に関する基礎研究がある。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "解熱",
+          "解毒",
+          "利尿",
+          "消腫"
+        ],
+        "preparation": "食用としてスープなどで摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "多糖類の抗酸化作用",
+        "免疫賦活作用"
+      ],
+      "safety_considerations": "特になし。ただし、清浄な水で育ったものに限る。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "調理法は東アジアの食文化に特化しており、その中では詳細に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "湯通し",
+          "吸い物",
+          "酢の物",
+          "鍋物"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "出汁",
+          "酢",
+          "醤油",
+          "生姜",
+          "鶏肉"
+        ]
+      },
+      {
+        "region": "中国",
+        "methods": [
+          "スープ"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "鶏ガラスープ",
+          "ハム",
+          "鶏肉の細切り"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "瓶詰め（水煮）",
+        "regions": [
+          "日本",
+          "中国"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "生の食感や風味はやや劣るが、通年で利用可能になる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "非常に淡白で、かすかな青々しさや水の風味がある。味よりも食感が重視される。",
+      "aroma_compounds": [],
+      "texture_characteristics": "外側のゼリー状物質による滑らかな喉ごし（つるりとした食感）と、中心部の若芽のかすかな歯ごたえ（シャキシャキ感）。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ジュンサイに特化した気候変動影響研究はほとんどない。水生植物としての一般的特性と、生育条件の厳しさからの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "水温15-25°C",
+      "extreme_heat_survival": "水温が30°Cを超えると生育不良や藻類の繁殖により衰退する。",
+      "cold_tolerance": "水中の地下茎は凍結に耐え、越冬可能。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "該当なし（水生植物）",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "該当なし（安定した水位が重要）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（強い水流で地下茎が流されるリスク）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "水温の急変に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（他の競合水生植物がより強く反応する可能性）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "水温上昇により、アブラムシや新規の病害が発生するリスクが増加する可能性。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の東北地方、中国の江南地方など、清浄な淡水沼が維持される温帯・亜熱帯地域。",
+        "2050_projection": "干ばつリスクの増加と水温上昇により、現在の適地が縮小・断片化する可能性が高い。",
+        "2100_projection": "水質・水量管理がなされない限り、多くの自生地・栽培地で存続が困難になる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "Braseniaが単型属であるという事実に基づき、交雑ポテンシャルは極めて低いと評価。適応は既存の種内遺伝的多様性に依存する。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間での交配は可能と考えられるが、人為的な育種は行われていない。"
+      ],
+      "interspecific_compatibility": [],
+      "intergeneric_possibility": [],
+      "successful_natural_hybrids": []
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "日本国内でも地域によって形態や生育特性に差があり、地域的な遺伝的分化が存在する。",
+      "wild_gene_pool": "栽培されているものは野生集団から選抜・維持されたものであり、野生遺伝子プールとの境界は曖昧。",
+      "adaptive_genetic_variation": "広範な地理的分布（北米、アジア、アフリカ等）を持つため、種全体としては高い遺伝的多様性と適応的変異を保持している可能性がある。",
+      "inbreeding_depression_risk": "栽培地が孤立しているため、地域レベルでの近交弱勢のリスクは存在する。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "交雑による向上は期待できない。",
+      "improved_nutritional_content": "交雑による向上は期待できない。",
+      "novel_characteristics": "交雑による獲得は期待できない。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "近縁種が存在しないため、交雑育種は不可能。",
+      "chromosome_compatibility": "該当なし",
+      "fertility_of_hybrids": "該当なし",
+      "backcrossing_success": "該当なし"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 1
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "「リジェネラティブ農業」の概念を水生環境に適用して評価。ジュンサイ自体が健全な水生生態系の指標となる。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "地下茎が水底の底質を安定させる。",
+      "organic_matter_contribution": "枯死した植物体が水底の有機物層を形成する。",
+      "soil_structure_improvement": "該当なし（底質の安定化）",
+      "erosion_control": "水流を緩和し、底質の侵食を防ぐ。",
+      "nutrient_cycling_role": "水中の栄養塩類を吸収し、植物バイオマスに変換する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は風媒または虫媒。水面に咲く花は昆虫の訪花対象となる。",
+      "beneficial_insect_habitat": "水中の茎や葉は水生昆虫や魚類の稚魚の隠れ家や産卵場所となる。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用については不明。",
+      "above_ground_biodiversity": "健全なジュンサイ沼は、トンボ、カエル、鳥類など多様な生物が集まる環境を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "該当なし",
+      "moisture_retention": "水分の蒸発を葉が覆うことで抑制する可能性がある。",
+      "runoff_reduction": "該当なし",
+      "groundwater_recharge": "沼や池自体の機能として貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "季節的なバイオマスを形成。",
+      "below_ground_carbon": "地下茎として炭素を貯蔵。",
+      "soil_carbon_enhancement": "枯死体が水底の泥炭（ピート）として蓄積し、長期的な炭素貯留に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を抑制するアレロパシー効果を持つ可能性が示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "ジュンサイの存在は、清浄な水質が維持されている証であり、生態系の安定性を示す指標となる。",
+      "stress_tolerance": "水質汚染には極めて弱い。",
+      "recovery_capacity": "水質が改善されれば、残存した地下茎から回復する能力はある。",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的価値は、主にニッチな高級食材や文化遺産としての側面に集中している。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養価は低いが、独特の食感と文化的価値を提供する。",
+      "food_security_contribution": "限定的。高級食材であり、主食や主要な栄養源ではない。",
+      "local_food_system_integration": "産地では地域経済と観光に貢献する重要な地域特産品。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "海外の高級日本食レストランへの輸出",
+        "ユニークな食感を活かした新しい加工食品の開発"
+      ],
+      "value_added_products": [
+        "瓶詰め",
+        "フリーズドライ製品",
+        "ジュンサイを配合した化粧品（研究段階）"
+      ],
+      "niche_market_value": "非常に高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストではLeast Concernだが、生息地の水質悪化により地域レベルでの絶滅リスクは高い。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "沼の埋め立て、水田への転用、水質汚染による生息地の喪失が最大の脅威。",
+    "climate_change_vulnerability": "高い。干ばつ、水温上昇、極端な降雨による水質悪化に脆弱。",
+    "cultural_erosion_risk": "高い。食文化の継承と収穫技術の担い手不足が課題。",
+    "conservation_actions_needed": [
+      "生息地である沼や池の水質保全",
+      "農薬や生活排水の流入防止策",
+      "遺伝的多様性を考慮した系統の域外保全（ジーンバンク）",
+      "伝統的利用法と食文化の記録・継承"
+    ],
+    "priority_conservation_regions": [
+      "日本（秋田県、山形県など）",
+      "中国（浙江省など）"
+    ],
+    "ex_situ_conservation_status": "一部の植物園や研究機関で保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "日本では、生産者組合や自治体が栽培池の環境保全に取り組んでいる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家AIとしての総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本（秋田県）",
+      "中国（浙江省）",
+      "北米の野生集団"
+    ],
+    "knowledge_gaps": [
+      "種内の遺伝的多様性の網羅的解析",
+      "気候変動（特に水温上昇と干ばつ）に対する生理学的応答の定量的データ",
+      "ゼリー状物質の機能性に関する科学的エビデンス"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "明確な品種登録制度はなく、地域系統として認識されているものが主である。"
+      },
+      "variety_name": "在来系統（例：秋田三種町産）",
+      "local_name": "じゅんさい",
+      "origin_region": "日本・秋田県三種町",
+      "distinctive_characteristics": "高品質で、ゼリー状の粘液質が豊富。若芽が大きく、食感が良いとされる。",
+      "cultural_importance": "地域の経済と文化を支える最も重要な特産品。",
+      "climate_adaptation": "不明。伝統的な管理下でのみ生育可能。",
+      "conservation_status": "地域による保全活動（In-situ）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GBIF (Global Biodiversity Information Facility)",
+      "KEW Plants of the World Online",
+      "民族植物学関連論文",
+      "日本の農林水産省統計・報告書"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する定量的応答データ",
+      "リジェネラティブ水生システムにおける定量的貢献度",
+      "種全体の遺伝的多様性マップ"
+    ],
+    "regional_data_coverage": "東アジアに偏っており、他の分布域に関する食文化や遺伝子資源の情報は乏しい。",
+    "missing_information": [
+      "世界全体の正確な生産量",
+      "品種・系統ごとの特性比較"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

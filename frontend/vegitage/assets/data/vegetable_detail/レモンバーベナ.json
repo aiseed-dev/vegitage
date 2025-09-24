@@ -1,0 +1,661 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(Kew, Tropicos)、民族植物学研究、園芸学の文献から情報を統合。ハーブとしての情報が豊富である。"
+    },
+    "primary_name": "Lemon Verbena",
+    "scientific_name": "Aloysia citriodora",
+    "plant_type": "木本",
+    "edible_parts": [
+      "葉"
+    ],
+    "origin_region": "南米 (アルゼンチン、パラグアイ、ブラジル、ウルグアイ、チリ、ボリビア、ペルー)",
+    "wild_relatives": [
+      "Aloysia gratissima",
+      "Aloysia virgata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の植物名データベースおよび言語資料から収集。特に南米とヨーロッパでの呼称が多様。"
+    },
+    "international": {
+      "en": [
+        "Lemon Verbena",
+        "Lemon Beebrush"
+      ],
+      "scientific_common": "Lemon Verbena"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Cedrón",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Hierba Luisa",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Lúcia-lima",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Bela-Luísa",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Verveine odorante",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Zitronenverbene",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Erba cedrina",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Hierbaluisa",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "レモンバーベナ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ja",
+            "name": "コウスイボク (香水木)",
+            "script": "Kanji/Katakana"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "グアラニー族 (推定)",
+        "name": "cedrón ka'a",
+        "cultural_significance": "薬草として、特に消化器系の不調や鎮静のために利用されたと推定されるが、詳細な民族植物学的記録は限定的。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Verbena family",
+      "la": "Verbenaceae"
+    },
+    "genus": {
+      "en": "Beebrush",
+      "la": "Aloysia"
+    },
+    "species": {
+      "en": "Lemon Verbena",
+      "la": "citriodora"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、食文化史、園芸史の文献に基づき、ハーブとしての文化的価値は非常に高い。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南米",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "鎮静、消化促進のためのハーブティー(cedrón)として広く飲用される。家庭の庭で薬草として栽培されることが非常に多い。",
+        "seasonal_significance": "通年利用されるが、特に体調を崩しやすい季節の変わり目に重宝される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ (特にフランス、スペイン)",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "食後のハーブティー(tisane)、リキュール(Verveine du Velayなど)、香水、ポプリの原料として18世紀以降に普及。リラックス効果が知られる。",
+        "seasonal_significance": "夏に収穫・乾燥させ、一年を通じて利用する。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北アフリカ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "ミントティーに香りを加えるために利用されることがある。また、伝統的なハーブ療法でも使用される。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "南米の伝統飲料",
+        "role": "essential",
+        "traditional_dishes": [
+          "Agua de Cedrón",
+          "Mate con Cedrón"
+        ],
+        "preparation_methods": [
+          "煎じる (infusion)"
+        ],
+        "cultural_context": "家庭的な健康飲料、食後の消化を助ける飲み物として日常的に消費される。"
+      },
+      {
+        "cuisine": "フランス料理 (特にパティスリー、リキュール)",
+        "role": "common",
+        "traditional_dishes": [
+          "Verveine Liqueur",
+          "Crème brûlée à la verveine",
+          "Sorbet à la verveine"
+        ],
+        "preparation_methods": [
+          "煎じる (infusion)",
+          "浸漬 (maceration)"
+        ],
+        "cultural_context": "爽やかな香りを活かし、デザートや食後酒に洗練された風味を加えるために使用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "南米の先住民によって古くから薬用として利用されていた。",
+      "trade_routes": "17世紀にスペイン人、ポルトガル人によってヨーロッパに導入され、大西洋を越えて伝播した。",
+      "cultural_exchange": "南米の伝統知がヨーロッパの園芸文化、香水文化、ハーブ療法に取り入れられた代表例。",
+      "domestication_history": "原産地では野生種に近い形で利用されてきたが、ヨーロッパ導入後に園芸植物として選抜・普及した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌であれば栽培可能だが、高湿度環境では病害のリスクがやや高まる。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "原産地の気候に近く、最も生育に適している。日当たりと水はけの良い場所を好む。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "温暖な地域では露地栽培が可能。冬に霜が降りる地域では、防寒対策または鉢植えでの室内越冬が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さに耐えられないため、露地栽培は困難。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に強いが、定期的な水やりが必要。強い日差しを好むため適応性は高い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため栽培は不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯/温帯",
+        "planting_season": "春 (霜の心配がなくなった後)",
+        "harvest_season": "初夏から秋",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照時間",
+        "剪定の頻度",
+        "土壌の水はけ",
+        "冬の寒さ"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "高品質なエッセンシャルオイル、リキュール、乾燥ハーブの生産が盛ん。"
+        },
+        {
+          "country": "モロッコ",
+          "production_share": "不明",
+          "characteristics": "主に乾燥ハーブとしてヨーロッパ市場向けに輸出。"
+        },
+        {
+          "country": "パラグアイ",
+          "production_share": "不明",
+          "characteristics": "国内消費および地域市場向けの伝統的な生産が多い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性成分に関する研究は多いが、微量栄養素の網羅的なデータは限定的。ハーブティーとしての利用が主であるため、主要栄養素の価値は低い。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "シトラール (ゲラニアール、ネラール)",
+        "concentration": "エッセンシャルオイルの主成分 (30-40%)",
+        "health_effect": "強いレモン様の香り。抗菌、抗真菌、鎮静作用。"
+      },
+      {
+        "compound": "リモネン",
+        "concentration": "エッセンシャルオイルの成分",
+        "health_effect": "抗酸化、抗炎症作用。"
+      },
+      {
+        "compound": "ベルバスコシド",
+        "concentration": "葉に含まれるポリフェノール",
+        "health_effect": "強力な抗酸化作用、抗炎症作用、神経保護作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "消化促進",
+          "鼓腸の緩和",
+          "鎮静、不眠改善",
+          "解熱"
+        ],
+        "preparation": "乾燥または生の葉を煎じてお茶として飲む。"
+      },
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "ハーブ療法 (Phytotherapy)",
+        "uses": [
+          "神経性の消化不良",
+          "軽度の不安、ストレス緩和",
+          "睡眠補助"
+        ],
+        "preparation": "乾燥葉のハーブティー(infusion)。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用",
+        "鎮静作用",
+        "抗菌作用"
+      ],
+      "ongoing_research": [
+        "関節の健康維持効果 (ベルバスコシド)",
+        "スポーツ後の筋肉回復促進",
+        "代謝改善効果"
+      ],
+      "safety_considerations": "一般に安全とされるが、精油の皮膚への直接塗布は光毒性の可能性がある。妊娠中の大量摂取は避けるべきとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の料理本や食文化研究から情報を収集。ハーブとしての利用法は確立されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界共通",
+        "methods": [
+          "煎じる (infusion)",
+          "浸漬 (maceration)"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "水 (ハーブティー)",
+          "アルコール (リキュール)",
+          "砂糖 (シロップ、デザート)",
+          "クリーム・牛乳 (カスタード、アイスクリーム)"
+        ]
+      },
+      {
+        "region": "ヨーロッパ、北米",
+        "methods": [
+          "風味付け"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "鶏肉",
+          "魚料理",
+          "フルーツサラダ",
+          "ジャム"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥 (Drying)",
+        "regions": [
+          "世界全域"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "香りは非常によく保持される。色は緑から茶色がかった緑に変化する。"
+      },
+      {
+        "method": "冷凍 (Freezing)",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "生の葉に近い新鮮な香りを保つことができる。"
+      },
+      {
+        "method": "エッセンシャルオイル抽出 (Distillation)",
+        "regions": [
+          "フランス",
+          "モロッコ"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "香気成分が高度に濃縮される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "苦味や渋みはほとんどなく、クリーンで爽やかなレモンの風味。",
+      "aroma_compounds": [
+        "シトラール",
+        "リモネン",
+        "ゲラニオール"
+      ],
+      "texture_characteristics": "生の葉はやや硬いが、乾燥葉はもろい。調理時には通常、風味を移した後に取り除かれる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐乾性や耐暑性に関する定性的な園芸情報は多いが、気候変動シナリオに基づく定量的な研究は非常に少ない。以下の評価は植物の生態的特性からの推定を多く含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上でも生存可能だが、水ストレスがかかると落葉する場合がある。",
+      "cold_tolerance": "約-5°C (短時間であれば耐えるが、持続的な霜で地上部が枯れ、-10°C以下で枯死する可能性が高い)"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中 (木質化しているためある程度の耐風性はあるが、強い嵐では枝が折れる可能性がある)",
+      "hail_damage_recovery": "中 (葉が傷つくが、新しい芽を出す回復力は高い)",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明 (一般的にC3植物として、CO2濃度上昇により光合成が促進される可能性はある)",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高 (原産地が高地で日差しが強い環境であるため)"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりハダニやカイガラムシの発生が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境では根腐れのリスクが高まる可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "亜熱帯、暖温帯 (USDAゾーン 8-11)",
+        "2050_projection": "栽培可能域が緯度・標高ともに高緯度・高地側へ拡大する可能性がある。一方で、現在の適地の一部では過度な高温や干ばつがリスクとなる。",
+        "2100_projection": "拡大傾向は続くが、極端気象の頻発化により安定生産が困難になる地域も増加すると予測される。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Aloysia属内の交雑に関する学術的報告は限定的。商業栽培は主にクローン繁殖に依存しており、自然交雑や育種に関する情報は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "商業的にはほとんど変異がないとされるが、原産地の個体群には遺伝的多様性が存在する可能性が高い。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種 (例: Aloysia gratissima) との人工交配は可能と推定されるが、自然交雑の報告はまれ。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告例は確認できず。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地の南米には、地域に適応した未調査の遺伝資源が存在する可能性がある。",
+      "wild_gene_pool": "栽培されている個体群は遺伝的に均一である可能性が高く、南米の野生遺伝子プールが多様性の源として重要。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、問題となりにくい。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐寒性の強い近縁種との交雑により、栽培可能域を広げる可能性がある。",
+      "improved_nutritional_content": "ベルバスコシドなど特定の機能性成分を高める可能性がある。",
+      "novel_characteristics": "異なる香りや花の色を持つ新品種の作出可能性がある。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 4
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "リジェネラティブ農業システムでの本種に特化した研究は少ないが、多年生木本植物としての一般的な生態学的機能からの類推は可能。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く広がる木質の根系を持つため、土壌の団粒構造を安定させる効果が期待できる。",
+      "organic_matter_contribution": "落葉により土壌表面に有機物を供給する。",
+      "soil_structure_improvement": "根が土壌深くに侵入し、水の浸透を助ける。",
+      "erosion_control": "多年生のため、年間を通じて土壌を被覆し、風雨による侵食を防ぐ。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さな白い花は、ミツバチ、チョウ、その他の多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "多年生の構造が、捕食性の昆虫やクモなどの隠れ家や越冬場所を提供する。",
+      "soil_microorganism_interaction": "根圏で多様な土壌微生物群集をサポートすると考えられる。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌に孔隙を作り、雨水の浸透を促進する。",
+      "moisture_retention": "落葉によるマルチング効果で土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "地表を覆うことで、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "木質部 (幹、枝) に炭素を固定する。",
+      "below_ground_carbon": "広範な根系に長期間炭素を貯蔵する。",
+      "soil_carbon_enhancement": "落葉落枝や根の代謝回転を通じて土壌有機炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "野菜畑の境界に植えることで、害虫を寄せ付けにくくし、有益な昆虫を呼び込む「バンカープランツ」として機能する可能性がある。"
+      ],
+      "natural_pest_control": "強い香りがアブラムシなどの害虫を忌避する効果が報告されている。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、農業生態系の永続性と安定性に貢献する。",
+      "stress_tolerance": "干ばつに強く、システム全体の水ストレス耐性を高める。",
+      "recovery_capacity": "剪定や軽微な損傷からの回復力が高い。",
+      "adaptability": "多様な土壌タイプに適応する能力がある。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、製品開発、健康志向に関する情報に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "機能性飲料や食品の天然香料として、人工添加物の代替となる。",
+      "food_security_contribution": "主要な食料ではないが、小規模農家の収入源となり、農業の多様化に貢献する。",
+      "local_food_system_integration": "家庭菜園や小規模農園で容易に栽培でき、地域のハーブ市場で価値を持つ。",
+      "alternative_protein_potential": "該当しない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性ハーブティー市場",
+        "ナチュラル・オーガニック化粧品市場",
+        "クラフトリキュール・カクテル市場",
+        "ウェルネス・サプリメント市場"
+      ],
+      "value_added_products": [
+        "乾燥ハーブティー",
+        "エッセンシャルオイル",
+        "ハイドロゾル (芳香蒸留水)",
+        "リキュール",
+        "チンキ剤",
+        "グルメ食品の香料"
+      ],
+      "niche_market_value": "非常に高い。その独特で強いレモンの香りは代替が難しく、高品質な製品は高値で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種の保全リスクは低いが、野生原種とその生息地の保全状況に関するデータは限定的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "南米の原産地における森林伐採や農地開発が、野生の遺伝資源に対する脅威となっている。",
+    "climate_change_vulnerability": "野生個体群は、気候変動による降雨パターンの変化や極端な干ばつの影響を受けやすい可能性がある。",
+    "cultural_erosion_risk": "中 (伝統的な薬用利用に関する知識が、若い世代に継承されないリスクがある)",
+    "conservation_actions_needed": [
+      "原産地における野生個体群の分布調査と遺伝的多様性の評価",
+      "野生遺伝資源の生息域内保全 (in-situ)",
+      "多様な遺伝資源の植物園やシードバンクでの生息域外保全 (ex-situ)"
+    ],
+    "priority_conservation_regions": [
+      "アルゼンチン、パラグアイ、ボリビアのアンデス山麓地域"
+    ],
+    "ex_situ_conservation_status": "世界中の多くの植物園で栽培されているが、収集された遺伝子の多様性は不明。",
+    "in_situ_conservation_efforts": "不明"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた多角的な情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "南米の原産地 (民族植物学、遺伝的多様性)",
+      "フランスのプロヴァンス地方 (高品質栽培技術、加工)",
+      "モロッコ (乾燥地での生産システム)"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオに対する生理学的応答の定量的データ",
+      "野生個体群の遺伝的多様性の網羅的評価",
+      "リジェネラティブ農業システムにおける土壌炭素蓄積への貢献度の定量化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "レモンバーベナは主に栄養繁殖で増やされるため、明確な品種分化はほとんど見られない。市販されているものはほぼ同一のジェノタイプと考えられる。"
+      },
+      "variety_name": "標準種 (Common Type)",
+      "local_name": "Cedrón, Hierba Luisa, Verveine odorante",
+      "origin_region": "南米",
+      "distinctive_characteristics": "強いレモン様の香りを持つ細長い披針形の葉。夏から秋にかけて小さな白い花を咲かせる。商業的に流通している系統は、この標準的な特徴を持つものがほとんどである。",
+      "cultural_importance": "ハーブティー、料理の香味付け、香料原料として世界中で利用される。",
+      "climate_adaptation": "耐乾性と耐暑性に優れるが、耐寒性は低い。",
+      "conservation_status": "Not Applicable (栽培上は安泰)"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Science - Plants of the World Online",
+      "World Flora Online",
+      "Journal of Ethnopharmacology",
+      "Horticultural academic publications"
+    ],
+    "major_knowledge_gaps": [
+      "野生遺伝資源の多様性と保全状況",
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答"
+    ],
+    "regional_data_coverage": "南米とヨーロッパに関する情報は豊富だが、アジアやアフリカでの利用に関するデータは限定的。",
+    "missing_information": [
+      "世界的な生産量・貿易量の統計データ",
+      "近縁種との交雑親和性に関する詳細な研究"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

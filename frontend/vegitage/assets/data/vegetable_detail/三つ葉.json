@@ -1,0 +1,621 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物学的な基本情報は、主要な植物データベース（Kew, USDA PLANTS）および日本の農学研究資料から統合。北米の亜種と東アジアの亜種（栽培種）の関係性についても明確な情報が存在する。"
+    },
+    "primary_name": "Mitsuba / Honewort",
+    "scientific_name": "Cryptotaenia canadensis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "根"
+    ],
+    "origin_region": "東アジア、北米（隔離分布）",
+    "wild_relatives": [
+      "Cryptotaenia canadensis subsp. canadensis (北米の野生亜種)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物名データベースおよび民族植物学の記録から収集。"
+    },
+    "international": {
+      "en": [
+        "Mitsuba",
+        "Japanese parsley",
+        "Japanese honewort",
+        "Canadian honewort"
+      ],
+      "scientific_common": "Honewort"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "三つ葉",
+            "script": "漢字"
+          },
+          {
+            "lang": "zh",
+            "name": "鸭儿芹",
+            "script": "漢字"
+          },
+          {
+            "lang": "ko",
+            "name": "파드득나물",
+            "script": "ハングル"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Canadian honewort",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Cherokee (チェロキー族)",
+        "name": "不明",
+        "cultural_significance": "根を解熱剤や蛇に噛まれた際の湿布薬として使用。伝統的な薬用植物。"
+      },
+      {
+        "community": "Iroquois (イロコイ族)",
+        "name": "不明",
+        "cultural_significance": "消化不良や発熱の治療に利用。薬用植物としての重要性を持つ。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Honewort",
+      "la": "Cryptotaenia"
+    },
+    "species": {
+      "en": "Canadian honewort",
+      "la": "canadensis"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "japonica (Hassk.) Hand.-Mazz."
+      },
+      {
+        "rank": "subspecies",
+        "name": "canadensis"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本での文化的価値に関する情報は豊富だが、北米先住民による利用の歴史的・現代的文脈に関する詳細な情報は限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（特に日本）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬味",
+          "儀式用"
+        ],
+        "traditional_uses": "日本の食文化に不可欠な香味野菜。お吸い物、茶碗蒸し、丼物などの仕上げに添えられ、彩りと香りを提供する。正月のお雑煮など、ハレの日の料理にも用いられる。",
+        "seasonal_significance": "春の訪れを告げる野菜として重要視されるが、水耕栽培により通年供給される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "薬用",
+          "食用（限定的）"
+        ],
+        "traditional_uses": "主に先住民コミュニティによって薬草として利用されてきた。食用としては、野生のものをポザーブ（葉菜）として利用する例があるが、主要な食料ではない。",
+        "seasonal_significance": "春から初夏にかけて野生の若葉を採集。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "お吸い物 (Osuimono)",
+          "茶碗蒸し (Chawanmushi)",
+          "親子丼 (Oyakodon)"
+        ],
+        "preparation_methods": [
+          "生食（薬味）",
+          "煮る",
+          "蒸す"
+        ],
+        "cultural_context": "料理の風味と見た目を引き立てるための最後の仕上げとして極めて重要。日本の美意識「わびさび」にも通じる、繊細な役割を担う。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本では江戸時代（17世紀）には栽培が始まっていたとされる記録がある。北米では、数世紀にわたり先住民が利用してきた。",
+      "trade_routes": "国際的な交易品としての歴史はほとんどない。",
+      "cultural_exchange": "近年、日本食の世界的普及に伴い、その存在が国際的に知られるようになった。",
+      "domestication_history": "栽培化は主に日本（C. canadensis subsp. japonica）で進んだ。野生種からの選抜育種により、香りが良く、茎が白い品種などが作られた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、商業栽培は困難。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季や標高の高い冷涼な地域での栽培が可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "半日陰で湿潤な環境が最適。多くの温帯地域で栽培可能。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の極端な高温と乾燥を避ければ栽培可能。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱く、栽培は不向き。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春、秋",
+        "harvest_season": "春〜秋（水耕栽培では通年）",
+        "growing_period_days": 60
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照量（半日陰を好む）",
+        "土壌水分",
+        "気温",
+        "施肥管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": 95,
+          "characteristics": "水耕栽培と土耕栽培が主流。品質管理が徹底されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本の食品成分データベースに基づく栄養価データは存在するが、機能性成分に関する研究は限定的。伝統的薬用利用は民族植物学の記録による。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "17",
+        "protein_g": "1.9",
+        "carbs_g": "3.1",
+        "fat_g": "0.1",
+        "fiber_g": "2.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "3800µg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "220µg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "100µg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "19mg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "500mg",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "クリプトテーネン (Cryptotaenene)",
+        "concentration": "不明",
+        "health_effect": "特有の香りの主成分。食欲増進、精神安定作用の可能性が示唆される。"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "北米",
+        "medical_system": "先住民の伝統医学（チェロキー族など）",
+        "uses": [
+          "解熱",
+          "鎮痛",
+          "蛇咬傷の治療"
+        ],
+        "preparation": "根を煎じる、または湿布として使用。"
+      },
+      {
+        "region": "日本",
+        "medical_system": "民間療法",
+        "uses": [
+          "食欲増進",
+          "不眠緩和",
+          "神経痛緩和"
+        ],
+        "preparation": "食事として摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化活性",
+        "抗炎症作用"
+      ],
+      "safety_considerations": "セリ科植物にアレルギーを持つ場合は注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "特に日本料理における利用法については、文献や料理書が豊富に存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "生食",
+          "煮る",
+          "蒸す",
+          "揚げる（天ぷら）"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "出汁",
+          "醤油",
+          "卵",
+          "鶏肉",
+          "魚介類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界各地（家庭内）"
+        ],
+        "shelf_life": "約1ヶ月",
+        "quality_changes": "香りがやや弱まるが、色と風味は比較的保たれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やかで清涼感のある独特の風味。セリとパセリの中間のような香り。",
+      "aroma_compounds": [
+        "クリプトテーネン",
+        "ミツバエン"
+      ],
+      "texture_characteristics": "シャキシャキとした軽快な食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動への応答に関する定量的な研究データは非常に少ない。評価は、本種の生態的特性（冷涼・湿潤な半日陰を好む）からの推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30°C以上で生育が著しく阻害される。",
+      "cold_tolerance": "-10°C程度（地上部は枯れるが根は越冬可能）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "湿潤な土壌を維持できる降水量が必要（定量データなし）。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎や葉が繊細なため、強風や豪雨に弱い。",
+      "hail_damage_recovery": "低い。",
+      "rapid_temperature_change": "感受性が高い可能性がある。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明（半日陰を好むため、強い紫外線には弱いと推定）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやハダニなどの発生時期や頻度が増加するリスクがある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "アリや寄生蜂などの天敵昆虫との関係が変化する可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域の冷涼な森林下層部や河川沿い。",
+        "2050_projection": "栽培適地はより高緯度・高標高地域へ移動する可能性が高い。",
+        "2100_projection": "現在の主要栽培地の一部は不適となるリスクがある。",
+        "confidence_level": "中程度の推定"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種の交雑和合性や遺伝的多様性に関する詳細な研究は限定的。評価は属内の関係性からの類推を含む。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "北米亜種(subsp. canadensis)と東アジア亜種(subsp. japonica)は交雑可能と推定される。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種との交雑可能性は不明。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告されていない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "日本国内にいくつかの在来系統が存在する（例：関東系の白茎、関西系の青茎）。",
+      "wild_gene_pool": "北米と東アジアに分布する野生集団は、気候適応性など有用な遺伝子の供給源となる可能性がある。",
+      "adaptive_genetic_variation": "大陸間で隔離された集団が存在するため、高い適応的遺伝変異が期待される。",
+      "inbreeding_depression_risk": "自家受粉もするため、小規模集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北米 vs 東アジア",
+        "environmental_pressure": "氷河期後の異なる気候・生態系への再適応。",
+        "adaptive_response": "形態や生態的特性の分化（亜種の形成）。",
+        "time_scale": "数万年単位",
+        "mechanism": "地理的隔離と自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "北米の野生亜種との交雑により、耐病性や異なる環境への耐性が向上する可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "香りや形態の新しいバリエーションが生まれる可能性がある。",
+      "hybrid_vigor_potential": "亜種間の交雑により雑種強勢が起こる可能性がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "亜種間では問題ないと推定される。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "光環境（林床の光）、土壌水分、気温",
+        "adaptive_traits": "耐陰性、成長速度、種子発芽特性",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 5
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈でミツバを評価した研究はほぼ存在しない。評価は、本種の生態的特性に基づく理論的なポテンシャル。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる繊細な根系。",
+      "organic_matter_contribution": "地上部の残渣が分解され、土壌有機物を供給するが、量は限定的。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "地表を覆うことで、雨滴による土壌侵食を軽減する効果がある。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "セリ科特有の散形花序は、ヒラタアブ、ハナアブ、寄生蜂など小型の多様な訪花昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "天敵昆虫の蜜源・花粉源となり、生態系のバランス維持に貢献する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "アグロフォレストリー（森林農業）の下層植生として利用可能。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地被植物として土壌の乾燥や硬化を防ぎ、水の浸透を助ける。",
+      "moisture_retention": "土壌表面の蒸発を抑制する。",
+      "runoff_reduction": "地表流を緩和する。",
+      "groundwater_recharge": "限定的だが、健全な土壌被覆の一部として貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "小さい。",
+      "below_ground_carbon": "多年草であるため、根系を通じて炭素を土壌に蓄積するが、量は少ない。",
+      "soil_carbon_enhancement": "限定的。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "樹木や高性の野菜の下草として（アグロフォレストリー）"
+      ],
+      "natural_pest_control": "天敵昆虫を誘引することで、周囲の作物の害虫管理に貢献する可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な昆虫相を支えることで、生態系の安定性に貢献する。",
+      "stress_tolerance": "個体レベルのストレス耐性は低いが、生態系の一員としての役割は大きい。",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場データは日本に偏在。将来性についてはトレンドからの推定。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "微量栄養素が豊富で、風味豊かな植物性食品として価値が高い。",
+      "food_security_contribution": "主食ではないが、食の多様性と栄養改善に貢献する。",
+      "local_food_system_integration": "小規模農家や家庭菜園でも栽培しやすく、地域の食料システムに組み込みやすい。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "日本食レストランの世界的な増加",
+        "健康志向の消費者向けハーブ市場",
+        "アグロフォレストリー・キットの一部としての販売"
+      ],
+      "value_added_products": [
+        "フリーズドライ三つ葉",
+        "三つ葉風味の調味料（オイル、塩）",
+        "ハーブティー"
+      ],
+      "niche_market_value": "アジア料理の食材を扱う専門市場や、高級レストラン向けに高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "野生集団の具体的な個体数データは乏しいが、生息地の一般的な脅威からの類推。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "北米・東アジアの野生集団は、森林伐採や開発による生息地の分断・喪失の脅威に晒されている。",
+    "climate_change_vulnerability": "高",
+    "cultural_erosion_risk": "中（特に北米先住民の伝統的知識）",
+    "conservation_actions_needed": [
+      "野生集団の生息域内保全（保護区設定）",
+      "日本の在来系統を含む遺伝資源の種子バンクでの域外保全",
+      "北米先住民の伝統的知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "アパラチア山脈（北米）",
+      "日本の冷温帯林"
+    ],
+    "ex_situ_conservation_status": "いくつかの国のジーンバンクに収集されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた知見に基づく総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "日本（在来系統と栽培文化）",
+      "アパラチア山脈（野生集団の遺伝的多様性と先住民利用）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "北米と東アジアの野生集団の遺伝的構造",
+      "リジェネラティブ農業システムにおける具体的な機能評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "日本の主要な品種分類に基づく情報。"
+      },
+      "variety_name": "白茎三つ葉（関東系）",
+      "local_name": "根三つ葉、切り三つ葉",
+      "origin_region": "日本・関東地方",
+      "distinctive_characteristics": "光を遮断して栽培（軟白栽培）し、茎が白く、柔らかで香りが高い。根付きで出荷されることもある。",
+      "cultural_importance": "高級料亭などで好まれる。おひたしや和え物に適する。",
+      "climate_adaptation": "施設栽培が主であり、環境制御されている。",
+      "conservation_status": "栽培品種として安定"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "日本の主要な品種分類に基づく情報。"
+      },
+      "variety_name": "青茎三つ葉（関西系）",
+      "local_name": "糸三つ葉",
+      "origin_region": "日本・関西地方",
+      "distinctive_characteristics": "露地や水耕で緑色のまま栽培される。香りが強く、葉が肉厚。一般的にスーパーで流通しているのはこのタイプ。",
+      "cultural_importance": "家庭料理で最も一般的に使用される。吸い物や丼物の薬味に最適。",
+      "climate_adaptation": "水耕栽培により気候変動の影響を受けにくいが、露地栽培は影響を受ける。",
+      "conservation_status": "栽培品種として安定"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "USDA PLANTS Database",
+      "Kew Plants of the World Online",
+      "Japanese agricultural research papers",
+      "Ethnobiology literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生集団の遺伝的多様性の詳細な解析"
+    ],
+    "regional_data_coverage": "東アジア（特に日本）の情報は豊富だが、北米の野生種や先住民利用に関する情報は限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "種間・属間交雑に関する実験データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

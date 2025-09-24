@@ -1,0 +1,631 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農学研究機関の情報を統合。原産地と植物学的特徴に関する情報は豊富。"
+    },
+    "primary_name": "Pepino",
+    "scientific_name": "Solanum muricatum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "果実"
+    ],
+    "origin_region": "南米アンデス山脈地域（ペルー、エクアドル、コロンビア）",
+    "wild_relatives": [
+      "Solanum caripense",
+      "Solanum tabanoense",
+      "Solanum basendopogon"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物名データベース、民族植物学の記録から集約。"
+    },
+    "international": {
+      "en": [
+        "Pepino",
+        "Pepino Melon",
+        "Melon Pear",
+        "Tree Melon"
+      ],
+      "scientific_common": "Pepino"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Pepino dulce",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Mataserrano",
+            "script": "Latin"
+          },
+          {
+            "lang": "qu",
+            "name": "Kachum",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ペピーノ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "人参果",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Pepino",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アンデス地域のケチュア語話者",
+        "name": "Kachum / Xachun",
+        "cultural_significance": "古代から食用とされてきた伝統的な果物。一部地域では儀式にも用いられた可能性が示唆されている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。品種レベルの分類は流動的。"
+    },
+    "family": {
+      "en": "Nightshade",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Nightshade",
+      "la": "Solanum"
+    },
+    "species": {
+      "en": "Pepino",
+      "la": "S. muricatum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アンデス地域に関する考古学的・民族植物学的記録は存在するが、他地域での文化的価値は新しい作物であるため限定的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南米アンデス地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "主に生食用の果物として消費。モチェ文化の陶器に描かれるなど、古代から重要な作物であった。儀式的な供物として使われた可能性も指摘されている。",
+        "seasonal_significance": "収穫期には市場に多く出回り、季節の味として親しまれる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "オセアニア（特にニュージーランド）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "1980年代に導入された新しい商業作物。輸出用のエキゾチックフルーツとして栽培されている。",
+        "seasonal_significance": "夏の果物として市場に出回る。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ペルー料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Ensalada de pepino dulce",
+          "Jugo de pepino"
+        ],
+        "preparation_methods": [
+          "生食",
+          "ジュース",
+          "サラダ"
+        ],
+        "cultural_context": "日常的なデザートや軽食、水分補給として消費される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "プレ・インカ時代（特にモチェ文化）から栽培されていた証拠が考古学遺物から見つかっている。",
+      "trade_routes": "アンデス地域内での交易品であった可能性はあるが、国際的な交易路での役割は歴史的には小さい。",
+      "cultural_exchange": "スペイン植民地時代にヨーロッパに紹介されたが、広く普及はしなかった。20世紀後半に世界各地に再導入された。",
+      "domestication_history": "アンデス高地で野生近縁種から栽培化されたと考えられているが、正確な起源地や過程は完全には解明されていない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿では生育不良や病気が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "温暖で霜の降りない地域が最適。年間を通じて栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "温暖な地域で一年草として栽培可能。霜害を避ける必要がある。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さが厳しく、栽培期間が短すぎるため不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑が必須。極度の乾燥と高温は生育を阻害する。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地がアンデス高地であり、冷涼な高地気候に適応している。ただし強い霜には弱い。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "通年",
+        "harvest_season": "植え付けから4-6ヶ月後",
+        "growing_period_days": 120
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（終霜後）",
+        "harvest_season": "夏から秋",
+        "growing_period_days": 150
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "受粉（昆虫または人工授粉）",
+        "気温（特に夜温）",
+        "霜害の有無",
+        "水管理",
+        "土壌肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ペルー",
+          "production_share": null,
+          "characteristics": "原産地であり、多様な在来種が国内市場向けに生産されている。"
+        },
+        {
+          "country": "エクアドル",
+          "production_share": null,
+          "characteristics": "伝統的な栽培地。国内消費が中心。"
+        },
+        {
+          "country": "ニュージーランド",
+          "production_share": null,
+          "characteristics": "商業的な輸出向け生産。品種改良が進んでいる。"
+        },
+        {
+          "country": "チリ",
+          "production_share": null,
+          "characteristics": "商業生産が盛んで、主に輸出向け。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価データは利用可能だが、品種や栽培条件による変動に関する研究は少ない。機能性成分に関する研究は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "25",
+        "protein_g": "0.6",
+        "carbs_g": "6",
+        "fat_g": "0.1",
+        "fiber_g": "1.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "25-50 mg",
+          "daily_value_percent": 30
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "200-300 mg",
+          "daily_value_percent": 6
+        },
+        {
+          "nutrient": "ビタミンA (βカロテンとして)",
+          "amount": "約150 mcg",
+          "daily_value_percent": 16
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール化合物（クロロゲン酸など）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米アンデス地域",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "利尿剤",
+          "高血圧の管理",
+          "喉の痛みの緩和"
+        ],
+        "preparation": "果実の生食またはジュース"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化活性",
+        "抗糖尿病効果",
+        "肝保護作用"
+      ],
+      "safety_considerations": "一般的に安全とされるが、ナス科アレルギーを持つ人は注意が必要な可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "料理レシピサイト、民族植物学の記録、食品科学の文献から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南米",
+        "methods": [
+          "生食",
+          "ジュース",
+          "サラダ",
+          "スープ（稀）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ライムジュース",
+          "チリパウダー",
+          "他のフルーツ"
+        ]
+      },
+      {
+        "region": "北米・ヨーロッパ・オセアニア",
+        "methods": [
+          "生食",
+          "フルーツサラダ",
+          "デザート",
+          "スムージー"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ヨーグルト",
+          "アイスクリーム",
+          "生ハム",
+          "ミント"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ジャム・ジェリー化",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "数ヶ月〜1年",
+        "quality_changes": "加熱によりフレッシュな香りは失われるが、甘みが凝縮される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "完熟すると、メロン、洋梨、キュウリを混ぜたような、穏やかでさっぱりとした甘みとほのかな酸味。",
+      "aroma_compounds": [
+        "エステル類"
+      ],
+      "texture_characteristics": "ジューシーで、メロンのように柔らかく、わずかにシャキッとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する定性的な記述は多いが、制御環境下での定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "18-25°C",
+      "extreme_heat_survival": "30℃以上で落花や生育不良が発生",
+      "cold_tolerance": "0℃以下で枯死。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm（年間）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低（茎が折れやすい）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "低"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般のC3植物同様、限定的な効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（原産地が高地であるため）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシ、ハダニなどの発生増加が懸念される。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "送粉者であるハチ類への依存度が高い。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アンデス高地、カリフォルニア沿岸部、ニュージーランド北島など",
+        "2050_projection": "現在の適地の高緯度側・高標高側へシフト。低地では高温ストレスが増加。",
+        "2100_projection": "シフトがさらに進行。現在の主要産地での栽培が困難になる可能性。",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "育種研究に関する学術論文は存在するが、自然環境下での交雑ダイナミクスに関するデータは限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "商業品種とアンデス地域の在来種との交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "S. caripense",
+        "S. tabanoense"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アンデス地域には果実の形、大きさ、色、模様に関して高い多様性が存在する。",
+      "wild_gene_pool": "近縁野生種は耐病性や環境ストレス耐性の重要な遺伝子源となっている。",
+      "adaptive_genetic_variation": "高地から低地まで多様な環境で栽培されてきた歴史があり、地域適応した遺伝子変異が存在する可能性が高い。",
+      "inbreeding_depression_risk": "栄養繁殖が容易なため、商業栽培ではクローン品種に偏り、遺伝的多様性が低下するリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により耐病性や耐乾性の向上が期待される。",
+      "improved_nutritional_content": "野生種が持つ機能性成分を導入できる可能性がある。",
+      "novel_characteristics": "果実の風味、色、貯蔵性の改良が可能。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部の野生種とは交雑不和合性が見られる。",
+      "chromosome_compatibility": "主要な近縁種とは染色体数が同じ（2n=24）で適合性が高い。",
+      "fertility_of_hybrids": "多くの場合、稔性は維持される。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "霜、乾燥",
+        "adaptive_traits": "開花時期の調整、気孔の制御",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ペピーノに特化したリジェネラティブ農業の研究はほぼ存在しない。以下の記述は、ナス科植物の一般的特性と栽培法からの類推を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い繊維状根。",
+      "organic_matter_contribution": "収穫後の残渣をすき込むことで有機物を供給できる。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "マルチングと組み合わせることで効果を発揮。",
+      "nutrient_cycling_role": "特筆すべき能力はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチやマルハナバチなどの送粉者を引きつける。",
+      "beneficial_insect_habitat": "適切な管理下で天敵昆虫の生息地となりうる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "限定的"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の影響は限定的だが、有機物マルチで改善可能。",
+      "moisture_retention": "マルチング栽培で土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度（低木状）",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "多年草として栽培し、有機物管理を行うことで貢献の可能性。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マリーゴールド（線虫忌避）",
+        "マメ科植物（窒素供給）"
+      ],
+      "natural_pest_control": "限定的",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物のひとつとして組み込むことで安定性に貢献。",
+      "stress_tolerance": "気候ストレス耐性は高くない。",
+      "recovery_capacity": "中",
+      "adaptability": "中"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場トレンドや食品科学の文献に基づく評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン・ミネラルが豊富な低カロリー果物としての価値。",
+      "food_security_contribution": "現状では限定的だが、小規模農家の収入源として地域の食料安全保障に貢献。",
+      "local_food_system_integration": "地産地消に適した作物。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エキゾチックフルーツ市場",
+        "健康志向消費者向け市場",
+        "レストラン・ケータリング業界"
+      ],
+      "value_added_products": [
+        "ジュース",
+        "ジャム",
+        "フルーツサラダのカットフルーツ",
+        "冷凍ピューレ"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源に関する報告書や保全団体の情報に基づく評価。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "原産地における土地利用の変化や農業の近代化が脅威。",
+    "climate_change_vulnerability": "高い（特に霜害と高温ストレスに対して）",
+    "cultural_erosion_risk": "中（伝統的な栽培知識が失われるリスク）",
+    "conservation_actions_needed": [
+      "アンデス地域の在来種の収集と特性評価",
+      "遺伝資源バンクでの域外保全",
+      "農家参加型の域内保全プログラムの推進"
+    ],
+    "priority_conservation_regions": [
+      "ペルー、エクアドル、コロンビアのアンデス山脈地域"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内遺伝資源バンク（例：国際ポテトセンター）に一部収集されている。",
+    "in_situ_conservation_efforts": "限定的だが、一部の地域コミュニティやNGOによる取り組みがある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "N/A",
+      "confidence_level": "N/A",
+      "source_comment": "本分析全体に基づく専門家としての統合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ペルー北部沿岸（モチェ文化との関連）",
+      "エクアドル南部高地（遺伝的多様性の中心地）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "在来品種の栄養価と機能性成分の詳細な分析",
+      "自然環境下での送粉生態"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "商業栽培の情報は多いが、在来種の体系的な情報は乏しい。"
+      },
+      "variety_name": "El Camino",
+      "local_name": "El Camino",
+      "origin_region": "ニュージーランド/米国（育種）",
+      "distinctive_characteristics": "比較的大型で、糖度が高い。自家和合性がある。",
+      "cultural_importance": "商業栽培における主要品種の一つ。",
+      "climate_adaptation": "特定の商業栽培環境に最適化されている。",
+      "conservation_status": "商業的に維持"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "民族植物学的記録に基づく。"
+      },
+      "variety_name": "Andean Landraces",
+      "local_name": "Pepino criollo (各種)",
+      "origin_region": "南米アンデス地域",
+      "distinctive_characteristics": "果実の形（丸型、卵型、長型）、色（クリーム、緑、紫の縞模様）が非常に多様。",
+      "cultural_importance": "地域の食文化と生物多様性の基盤。",
+      "climate_adaptation": "各地域の微気候に伝統的に適応している。",
+      "conservation_status": "脆弱（遺伝的侵食のリスク）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      "GBIF (Global Biodiversity Information Facility)",
+      "Prosea (Plant Resources of South-East Asia)",
+      "Scientific literature on Google Scholar and Scopus",
+      "CIAT (International Center for Tropical Agriculture) publications"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "アンデス地域における在来種の網羅的な遺伝的・形態的特性評価"
+    ],
+    "regional_data_coverage": "南米と商業生産国に偏っており、他の地域でのデータは乏しい。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "自然交雑の頻度と生態学的影響"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

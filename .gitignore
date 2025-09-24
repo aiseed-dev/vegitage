@@ -215,4 +215,11 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-raw_data/
+# 個人用のファイルや設定を格納するディレクトリ
+local/
+private/
+
+1_input_lists/**/*.jsonl
+2_raw_responses
+3_raw_data
+4_processing_data

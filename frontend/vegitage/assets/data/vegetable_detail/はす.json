@@ -1,0 +1,730 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is based on major botanical databases (Kew, Tropicos), agricultural research, and ethnobotanical studies. Data on wild relatives is complete for the genus."
+    },
+    "primary_name": "Lotus",
+    "scientific_name": "Nelumbo nucifera",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎",
+      "茎",
+      "葉",
+      "花",
+      "種子",
+      "雄蕊"
+    ],
+    "origin_region": "南アジア、東南アジア、東アジア、北オーストラリアに広がる広範な地域",
+    "wild_relatives": [
+      "Nelumbo lutea"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual botanical dictionaries and cultural records."
+    },
+    "international": {
+      "en": [
+        "Lotus",
+        "Sacred Lotus",
+        "Indian Lotus"
+      ],
+      "scientific_common": "Sacred Lotus"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "蓮 (lián), 荷 (hé)",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "蓮 (hasu), 蓮根 (renkon)",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "연 (yeon)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "कमल (kamal)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "sa",
+            "name": "पद्म (padma), कमल (kamala)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "தாமரை (tāmarai)",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "sen",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "บัวหลวง (bua luang)",
+            "script": "Thai"
+          },
+          {
+            "lang": "id",
+            "name": "teratai",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "オーストラリア先住民（北部地域）",
+        "name": "不明（複数の言語で名称あり）",
+        "cultural_significance": "種子と根茎は伝統的な食料源（ブッシュフード）であり、季節的な食料として重要。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification based on APG IV system."
+    },
+    "family": {
+      "en": "Lotus family",
+      "la": "Nelumbonaceae"
+    },
+    "genus": {
+      "en": "Lotus",
+      "la": "Nelumbo"
+    },
+    "species": {
+      "en": "Sacred Lotus",
+      "la": "nucifera"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivar Group",
+        "name": "多数の栽培品種が存在するが、正式な亜種階級は一般的に認められていない。"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "文化的価値は、宗教文書、歴史的記録、民族誌学研究において広範に文書化されている。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "薬用",
+          "副菜",
+          "象徴"
+        ],
+        "traditional_uses": "ヒンドゥー教と仏教における神聖な花。純粋さ、再生、神性の象徴。インドとベトナムの国花。寺院の供物や儀式に不可欠。",
+        "seasonal_significance": "モンスーン期に開花し、豊穣と生命の象徴とされる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "観賞用",
+          "象徴"
+        ],
+        "traditional_uses": "中国では君子の象徴。根茎（レンコン）は主要な食材。種子や葉も食用や薬用に広く利用。詩や絵画の題材として重要。",
+        "seasonal_significance": "夏を象徴する花。中秋節にはレンコンを食べる習慣がある。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "ベトナム料理ではサラダ、お茶、菓子に多用される。仏教文化が強い地域では宗教的象徴として重要。",
+        "seasonal_significance": "雨季の食文化と密接に関連。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "中華料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "炒藕片 (レンコンの炒め物)",
+          "蓮藕湯 (レンコンのスープ)",
+          "蓮蓉月餅 (蓮の実あんの月餅)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "煮込む",
+          "揚げる",
+          "餡にする"
+        ],
+        "cultural_context": "宴会料理や正月料理に欠かせない縁起の良い食材。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "きんぴら蓮根",
+          "蓮根の天ぷら",
+          "辛子蓮根"
+        ],
+        "preparation_methods": [
+          "炒め煮",
+          "揚げる",
+          "酢漬け"
+        ],
+        "cultural_context": "「先を見通す」として縁起物とされ、おせち料理などに使われる。"
+      },
+      {
+        "cuisine": "ベトナム料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Gỏi ngó sen (蓮の茎のサラダ)",
+          "Trà tim sen (蓮芯茶)"
+        ],
+        "preparation_methods": [
+          "生食（サラダ）",
+          "お茶",
+          "砂糖漬け"
+        ],
+        "cultural_context": "涼やかさと繊細な風味を活かした料理が多く、暑い気候に適している。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "数千年前からアジアで栽培・利用されてきた。1300年前の種子が発芽した例があり、生命力の象徴とされる。",
+      "trade_routes": "仏教の伝播とともに、シルクロードや海上の道を通じてアジア各地に広まった。",
+      "cultural_exchange": "宗教、芸術、食文化の媒体として、アジア文化圏の形成に寄与した。",
+      "domestication_history": "中国やインドで紀元前から栽培化されていたと考えられている。複数の地域で独立して栽培化された可能性もある。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通して温暖で、静水域が利用可能。日照時間が長いことが望ましい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "主な栽培地域。夏は高温多湿、冬は穏やかであることが最適。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏に十分な高温と日照があれば栽培可能。冬に根茎が凍結しないよう水深の管理が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さと短い生育期間のため、商業栽培には不向き。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "豊富な水資源を必要とするため、乾燥地での栽培は極めて困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため栽培は不可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "春 (3月-4月)",
+        "harvest_season": "秋から冬 (9月-1月)",
+        "growing_period_days": "180-240"
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春 (4月-5月)",
+        "harvest_season": "晩秋 (10月-11月)",
+        "growing_period_days": "150-180"
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 45,000 kg/ha (根茎)",
+      "factors_affecting_yield": [
+        "品種",
+        "水深と水質",
+        "日照時間",
+        "土壌の肥沃度",
+        "病害虫の管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（推定数百万トン規模）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 80,
+          "characteristics": "世界最大の生産国であり、消費国。根茎用、種子用など多様な品種が栽培されている。"
+        },
+        {
+          "country": "日本",
+          "production_share": 5,
+          "characteristics": "高品質な根茎生産に特化。特定の地域（茨城県、徳島県など）に集中。"
+        },
+        {
+          "country": "インド",
+          "production_share": 5,
+          "characteristics": "種子や茎の利用が主。国内消費が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "根茎の基本的な栄養価は確立されているが、品種や部位による機能性成分の差に関するデータは限定的。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "74",
+        "protein_g": "2.6",
+        "carbs_g": "17.2",
+        "fat_g": "0.1",
+        "fiber_g": "4.9"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "44 mg",
+          "daily_value_percent": "73"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "556 mg",
+          "daily_value_percent": "16"
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "0.261 mg",
+          "daily_value_percent": "13"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド（ケンフェロール、ケルセチン）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "アルカロイド（ヌシフェリン）",
+        "concentration": "不明",
+        "health_effect": "鎮静作用、血管拡張作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学 (TCM)",
+        "uses": [
+          "止血（節）",
+          "解熱（葉）",
+          "精神安定（芯）"
+        ],
+        "preparation": "乾燥、煎じ薬、粉末"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "解熱",
+          "下痢止め",
+          "皮膚疾患"
+        ],
+        "preparation": "ペースト、煎じ薬、ジュース"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗肥満効果",
+        "血糖値調節作用",
+        "肝保護作用"
+      ],
+      "safety_considerations": "生食は寄生虫のリスクがあるため、加熱調理が推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "料理利用に関する情報は、世界中の料理本や食文化研究で豊富に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒める",
+          "揚げる",
+          "煮る",
+          "蒸す",
+          "漬ける"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豚肉",
+          "椎茸",
+          "唐辛子",
+          "ごま油"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "カレーにする",
+          "炒める",
+          "ピクルスにする"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "スパイス（クミン、コリアンダー）",
+          "玉ねぎ",
+          "トマト",
+          "ヨーグルト"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "東アジア",
+          "南アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "種子や花に使用。風味が凝縮される。"
+      },
+      {
+        "method": "酢漬け・塩漬け",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "根茎に使用。シャキシャキした食感が保たれ、酸味が加わる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "根茎：ほのかに甘く、でんぷん質。種子：ナッツのような風味。花・芯：わずかに苦味とフローラルな香り。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "根茎：生ではシャキシャキ、加熱するとホクホク。部位によって異なる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な気候変動応答データは非常に限定的。評価は、植物の生態学的特性と一般的な気候モデルに基づく定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも水があれば生存可能",
+      "cold_tolerance": "-5°C（水中の根茎）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明（水生植物のため評価軸が異なる）",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "継続的な湛水状態が必要"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉や茎は損傷しやすいが、地下の根茎は保護されるため回復力は高い。",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "比較的強い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度上昇により光合成が促進される可能性がある（推定）。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやヨトウムシなどの害虫の発生期間が長期化する可能性がある。",
+      "disease_resistance_stability": "高温多湿は腐敗病などの病害を助長する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "亜熱帯から温帯",
+        "2050_projection": "温帯域での栽培可能エリアが北上する一方、亜熱帯の一部では水不足により栽培が困難になる可能性がある。",
+        "2100_projection": "水資源が確保できる高緯度地域への適地の移動がさらに進むと予測される。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培品種間の交配は活発だが、自然環境下での交雑や適応に関する研究は限られている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の栽培品種間で容易に交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "Nelumbo lutea（アメリカキバス）との交雑が可能で、園芸品種が作出されている。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "N. nuciferaとN. luteaの分布が重なる地域での自然交雑は報告されていないが、可能性は存在する。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジア各地に多様な在来品種が存在し、根茎の形状、種子の大きさ、花の形質などに幅広い変異が見られる。",
+      "wild_gene_pool": "野生集団は遺伝的多様性の重要なリザーバーだが、生息地の破壊により脅かされている。",
+      "adaptive_genetic_variation": "広範な地理的分布は、温度や日長に対する顕著な適応的遺伝変異の存在を示唆する。",
+      "inbreeding_depression_risk": "栄養繁殖が容易なため、単一クローンでの栽培が広まるとリスクが増大する。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "東アジア（高緯度地域）",
+        "environmental_pressure": "低温と短い生育期間",
+        "adaptive_response": "早期の萌芽と開花、低温条件下での根茎形成能力",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "日長感受性や低温応答性に関わる遺伝子の自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "N. luteaとの交配により、耐寒性や異なる環境への適応性を向上させる可能性がある。",
+      "improved_nutritional_content": "種子用と根茎用の品種を交配することで、栄養価の高い新品種を作出できる可能性がある。",
+      "novel_characteristics": "花の色や形、香りなど、園芸的価値の高い新しい形質を導入できる。",
+      "hybrid_vigor_potential": "遺伝的背景の異なる品種間の交配により、収量性や強健性が向上する雑種強勢が期待される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほとんどない。N. luteaとの間にも顕著な障壁はない。",
+      "chromosome_compatibility": "Nelumbo属は染色体数が安定しており（2n=16）、適合性は高い。",
+      "fertility_of_hybrids": "種間雑種は一般的に稔性がある。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水深、水質、温度、日長",
+        "adaptive_traits": "根茎の伸長パターン、休眠のタイミング、開花時期",
+        "heritability": "中〜高",
+        "response_to_selection": "中程度"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "「リジェネラティブ農業」の文脈での直接的な研究は乏しい。評価は、水生生態系における植物の生態学的機能からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範な根茎系が水底の土壌を安定させ、通気性を改善する。",
+      "organic_matter_contribution": "枯死した葉や根茎が水底に堆積し、有機物が豊富な底泥（ヘドロ）を形成する。",
+      "soil_structure_improvement": "根茎が底泥の物理的構造を改善する。",
+      "erosion_control": "水流を弱め、土壌の侵食を防ぐ。",
+      "nutrient_cycling_role": "底泥から養分を吸収し、植物バイオマスとして固定する。水中の富栄養化を緩和する（フィトレメディエーション）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "大きな花がミツバチや他の昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "葉や茎が多様な水生昆虫やトンボなどの生息地となる。",
+      "soil_microorganism_interaction": "根圏が特有の微生物叢を形成し、物質循環を促進する。",
+      "above_ground_biodiversity": "魚類や両生類の産卵場所や隠れ家、鳥類の餌場を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "水田や池での栽培は、地下水への浸透を促進する。",
+      "moisture_retention": "水面を覆う葉が水の蒸発を抑制する。",
+      "runoff_reduction": "水田システムの一部として、雨水の急激な流出を緩和する。",
+      "groundwater_recharge": "栽培地が地下水涵養の役割を果たす。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い",
+      "below_ground_carbon": "根茎と根に大量の炭素を貯蔵する。",
+      "soil_carbon_enhancement": "嫌気的な底泥環境は有機物の分解を遅らせ、土壌炭素の長期的な貯留に貢献する。",
+      "carbon_sequestration_rate": "高い（特に湿地生態系として）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "イネ（稲作との輪作や混作）",
+        "淡水魚（アヒルの放し飼いを含むアグロフォレストリーならぬアクアフォレストリーシステム）"
+      ],
+      "natural_pest_control": "魚類やカエルが害虫を捕食する。",
+      "nutrient_sharing": "魚の排泄物が肥料となる。",
+      "allelopathic_interactions": "藻類の増殖を抑制する効果が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "水田生態系の生物多様性を高め、安定させる。",
+      "stress_tolerance": "洪水などの水ストレスに対して極めて高い耐性を持つ。",
+      "recovery_capacity": "根茎が残存すれば、地上部が被害を受けても再生する能力が高い。",
+      "adaptability": "多年生作物として、毎年植え付ける必要がなく、土壌攪乱が少ない。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場動向や食品科学研究に関する情報は豊富に存在する。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリーの炭水化物源として、またビタミン・ミネラルが豊富な野菜として価値が高い。",
+      "food_security_contribution": "湿地や遊休水田を生産的に活用し、地域の食料供給に貢献する。",
+      "local_food_system_integration": "伝統的な食文化と結びつきが強く、地産地消に適している。",
+      "alternative_protein_potential": "種子はタンパク質が豊富で、粉末にしてプロテイン源として利用するポテンシャルがある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の消費者向けのスナック（レンコンチップス）",
+        "機能性食品素材（抽出物）",
+        "欧米市場でのエスニック食材としての需要拡大"
+      ],
+      "value_added_products": [
+        "粉末",
+        "お茶",
+        "冷凍食品",
+        "レトルト食品",
+        "化粧品原料"
+      ],
+      "niche_market_value": "「スーパーフード」やオーガニック製品としての付加価値が高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "保全状況は地域によって異なり、全体的な評価は難しい。遺伝的多様性に関するデータは蓄積されつつある。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "高（湿地の開発、水質汚染、農地転用が主な脅威）",
+    "climate_change_vulnerability": "中（水不足に対する脆弱性が高い）",
+    "cultural_erosion_risk": "中（伝統的な食文化の継承が課題）",
+    "conservation_actions_needed": [
+      "在来品種のジーンバンクでの収集・保存",
+      "野生集団の生息地である湿地の保全",
+      "伝統的知識を持つ農家の支援と記録"
+    ],
+    "priority_conservation_regions": [
+      "中国雲南省",
+      "インド東北部",
+      "メコンデルタ地域"
+    ],
+    "ex_situ_conservation_status": "主要な植物園やジーンバンクで多くの品種が保存されている。",
+    "in_situ_conservation_efforts": "一部の国立公園や保護区で野生集団が保護されているが、農地での保全活動は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家として、本植物の総合的な価値を評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "東南アジアのメコン川流域",
+      "インドの多様な生態系",
+      "オーストラリア北部の野生集団"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特にCO2濃度上昇と干ばつ）に対する品種レベルでの定量的応答",
+      "リジェネラティブ農業システムにおける炭素固定能力と生態系サービスの定量的評価",
+      "野生集団の遺伝的多様性と適応メカニズム"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は地域性が高く、国際的に標準化されていない。"
+      },
+      "variety_name": "備中種 (Bitchu)",
+      "local_name": "備中蓮根 (Bitchu Renkon)",
+      "origin_region": "日本",
+      "distinctive_characteristics": "根茎が長く、肉厚で節が少ない。粘りが強く、食感が良い。",
+      "cultural_importance": "日本の主要な商業用品種の一つ。",
+      "climate_adaptation": "温帯気候に適応している。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は地域性が高く、国際的に標準化されていない。"
+      },
+      "variety_name": "太空蓮 (Taikong Lian)",
+      "local_name": "太空蓮 (Tàikōng lián)",
+      "origin_region": "中国",
+      "distinctive_characteristics": "宇宙飛行を経て選抜された品種群。種子用で、大粒で収量性が高い。",
+      "cultural_importance": "現代の育種技術を象徴する品種。",
+      "climate_adaptation": "広範な亜熱帯地域に適応。",
+      "conservation_status": "広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "FAO agricultural production statistics (where available)",
+      "Ethnobotanical research papers",
+      "Journal of Ethnopharmacology"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生集団の詳細な遺伝的構造"
+    ],
+    "regional_data_coverage": "アジア地域に偏っており、他の地域でのデータは限定的。",
+    "missing_information": [
+      "アフリカや南米での利用に関する体系的なデータ",
+      "具体的な香り成分の分析"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

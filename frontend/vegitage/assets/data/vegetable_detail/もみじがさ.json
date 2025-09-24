@@ -1,0 +1,515 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "学名、分類、分布などの基本情報は植物学データベースで確認済み。野生近縁種との詳細な関係性についてのデータは限定的。"
+    },
+    "primary_name": "Momijigasa",
+    "scientific_name": "Japonicalia delphiniifolia",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "東アジア（日本、朝鮮半島、中国東北部）",
+    "wild_relatives": [
+      "Parasenecio属の各種（コウモリソウなど）"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "国際的に認知された名称は存在しない。学術文献や園芸分野でいくつかの英語名が散見されるが、一般的には「Momijigasa」が用いられる。"
+    },
+    "international": {
+      "en": [
+        "Shredded umbrella plant",
+        "Palmleaf umbrella plant"
+      ],
+      "scientific_common": "Momijigasa"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "モミジガサ",
+            "script": "カタカナ"
+          },
+          {
+            "lang": "ja",
+            "name": "紅葉傘",
+            "script": "漢字"
+          },
+          {
+            "lang": "ja",
+            "name": "シドケ",
+            "script": "カタカナ"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "最新のAPG体系に基づく分類。かつてはCacalia属やParasenecio属に分類されていたが、現在はJaponicalia属に整理されている。"
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Japonicalia",
+      "la": "Japonicalia"
+    },
+    "species": {
+      "en": "Unknown",
+      "la": "delphiniifolia"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本の山菜文化に関する情報は豊富だが、他地域での利用に関する情報はほぼ皆無。文化的価値は日本に極めて特化している。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "日本",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "季節の味覚"
+        ],
+        "traditional_uses": "春の山菜として、若芽と若葉を食用にする。独特の香りとほろ苦さを楽しむために、おひたし、和え物、天ぷら、炒め物などに利用される。特に東北地方や中部地方の山間部で重要な食材。",
+        "seasonal_significance": "春の訪れを告げる代表的な山菜の一つであり、雪解け後の山の恵みとして珍重される。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（特に郷土料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "もみじがさのおひたし",
+          "しどけのゴマ和え",
+          "もみじがさの天ぷら"
+        ],
+        "preparation_methods": [
+          "茹でる（アク抜き）",
+          "揚げる",
+          "和える"
+        ],
+        "cultural_context": "里山の自然と共生してきた日本の伝統的な食文化を象徴する食材。 foraging（山菜採り）という行為自体が文化的なレクリエーションでもある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "具体的な年代は不明だが、日本の山間部では古くから自生するものを採取し利用してきたと考えられる。",
+      "trade_routes": "該当なし",
+      "cultural_exchange": "該当なし",
+      "domestication_history": "栽培化はされておらず、野生種の利用が主。一部で趣味的な栽培が行われる程度。"
+    }
+  },
+  "cultivation_characteristics": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "商業的な栽培がほとんど行われていないため、栽培に関する定量的なデータは皆無。情報は野生での生育環境からの類推に基づく。"
+    },
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼で湿潤な落葉広葉樹林の林床。半日陰を好む。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "亜高山帯の下部まで分布するが、森林限界以上では生育しない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "（栽培の場合）秋または早春",
+        "harvest_season": "4月下旬から6月上旬",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照条件（半日陰）",
+        "土壌水分",
+        "腐植の量"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "ほぼ全てが野生からの採取品。一部、山菜として小規模な栽培が行われる。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "詳細な栄養成分分析データは乏しい。一般的な山菜としての栄養特性は知られているが、機能性成分に関する科学的研究は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "豊富に含まれると推定"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ポリフェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用が期待される"
+      },
+      {
+        "compound": "テルペノイド類",
+        "concentration": "不明",
+        "health_effect": "独特の香りの源であり、生理活性が期待される"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [],
+      "safety_considerations": "安全性に関する特筆すべき注意点は報告されていないが、山菜は一般的にアクを含むため、適切な下処理と適量の摂取が推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本国内での調理法は確立されているが、国際的な利用例はない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "茹でる（おひたし）",
+          "揚げる（天ぷら）",
+          "和える（ゴマ和え、味噌和え）",
+          "炒める",
+          "炊き込みご飯の具"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "ごま",
+          "鰹節",
+          "油"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩蔵",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "香りは弱まるが、食感は保たれる。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "茹でてから冷凍することで、色や風味の劣化を抑えられる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "独特の強い香り、爽やかなほろ苦さ、かすかな甘み",
+      "aroma_compounds": [
+        "フキノンなどのセスキテルペン類が関与すると推定"
+      ],
+      "texture_characteristics": "シャキシャキとした歯ごたえ"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動影響研究は存在しない。冷涼湿潤な環境を好む生態的特性からの定性的な推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-15°C以下（冬季休眠期）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1200mm以上"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が折れやすい",
+      "hail_damage_recovery": "低い",
+      "rapid_temperature_change": "弱い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "低い（林床植物のため）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化による南方系害虫の北上に対して脆弱な可能性",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の冷温帯落葉広葉樹林帯",
+        "2050_projection": "現在の分布域の標高が高い地域や、より北の地域に限定される可能性",
+        "2100_projection": "分布適地が大幅に縮小するリスクが高い",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "自然交雑に関する具体的な研究報告は非常に少ない。遺伝的多様性や近縁種との関係性からのポテンシャル推定。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間での交雑は可能"
+      ],
+      "interspecific_compatibility": [
+        "近縁のParasenecio属との交雑可能性は理論的に存在するが、報告はない"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培品種は存在しないが、野生集団内に相当な遺伝的多様性が存在すると推定される。",
+      "wild_gene_pool": "本種自体が野生種であり、遺伝子プールは自然状態にある。",
+      "adaptive_genetic_variation": "日本の多様な山岳環境に適応した地域変異が存在する可能性が高い。",
+      "inbreeding_depression_risk": "低い"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "日照条件、土壌水分、冬季の低温",
+        "adaptive_traits": "耐陰性、耐寒性、春の萌芽タイミング",
+        "heritability": "不明",
+        "response_to_selection": "世代時間が長いため、急速な環境変化への応答は遅いと推定"
+      }
+    ],
+    "hybridization_score": 5
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栽培作物としての研究データはない。森林生態系の一員としての役割から、アグロフォレストリーの文脈でポテンシャルを推定。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "地下茎を伸ばして繁殖し、比較的浅い根を張る。土壌表層の安定に寄与。",
+      "organic_matter_contribution": "毎年生育し枯死するため、落葉広葉樹林の腐植層（リター層）形成に貢献する。",
+      "soil_structure_improvement": "根と地下茎が土壌の団粒構造を維持する。",
+      "erosion_control": "林床を覆うことで雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "腐植層からの養分を吸収し、植物体として保持することで養分の流出を防ぐ。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "夏から秋にかけて咲く花は、アブ、ハナバチ、蝶など多様な昆虫が訪れる。",
+      "beneficial_insect_habitat": "林床の植生として、多様な昆虫や土壌生物の生息場所を提供する。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係が推定される。",
+      "above_ground_biodiversity": "草食性昆虫の食草となるなど、森林生態系の食物網の一部を構成する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "林床を覆うことで、雨水の土壌への浸透を助ける。",
+      "moisture_retention": "地表を覆い、土壌からの水分蒸発を防ぐ。",
+      "runoff_reduction": "地表流を緩和する。",
+      "groundwater_recharge": "土壌浸透を促進することで間接的に寄与。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的（草本のため）",
+      "below_ground_carbon": "地下茎や根に炭素を蓄積する。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌有機炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "落葉広葉樹（ブナ、ミズナラなど）との混生"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "アグロフォレストリーシステムに組み込むことで、下層植生としての生態的地位を占め、システムの多様性と安定性を高める可能性がある。",
+      "stress_tolerance": "日照や乾燥へのストレス耐性は低い。",
+      "recovery_capacity": "地下茎で繁殖するため、地上部が刈り取られても再生する能力は高い。",
+      "adaptability": "特定の環境への適応性は高いが、環境変化への適応力は低い。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主に日本の食文化の文脈での価値。国際的な応用はまだない。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "季節限定のユニークな野菜として、食の多様性に貢献。",
+      "food_security_contribution": "限定的だが、地域の食料自給や文化的多様性の維持に寄与。",
+      "local_food_system_integration": "直売所や道の駅などを通じて、地域の経済循環に貢献している。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級日本食レストランへの食材提供",
+        "Foraging（採集）文化に関心を持つ層への訴求"
+      ],
+      "value_added_products": [
+        "水煮の瓶詰・缶詰",
+        "フリーズドライ製品"
+      ],
+      "niche_market_value": "春を告げる季節の高級山菜として、高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物学的な絶滅リスク評価は限定的だが、文化的な消失リスクは高いと認識されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "里山の管理放棄や開発による落葉広葉樹林の減少。",
+    "climate_change_vulnerability": "高い。温暖化による自生地の縮小・消失が懸念される。",
+    "cultural_erosion_risk": "高。山菜採りの知識や食文化の継承者が高齢化・減少している。",
+    "conservation_actions_needed": [
+      "自生地である里山の保全・管理",
+      "山菜文化の記録と次世代への継承",
+      "気候変動影響のモニタリング"
+    ],
+    "priority_conservation_regions": [
+      "日本アルプス周辺",
+      "東北地方のブナ林帯"
+    ],
+    "ex_situ_conservation_status": "植物園などで系統保存されている例はあるが、網羅的ではない。",
+    "in_situ_conservation_efforts": "国定公園などの保護地域内での自生地保全が主。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "専門家としての総合評価。データ不足の項目も多いが、文化的多様性と気候変動脆弱性の観点から重要と判断。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 4,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "日本（東北地方、長野県、岐阜県）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答",
+      "詳細な栄養・機能性成分",
+      "遺伝的多様性の地理的構造",
+      "栽培技術"
+    ],
+    "global_dictionary_compatibility": 7
+  },
+  "representative_varieties": [],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "日本の植物図鑑",
+      "民族植物学関連論文",
+      "山菜に関する書籍・ウェブサイト"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "詳細な栄養分析データ"
+    ],
+    "regional_data_coverage": "日本に極端に偏っており、他地域との比較が不可能。",
+    "missing_information": [
+      "栽培収量データ",
+      "国際市場データ",
+      "科学的に証明された健康効果"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

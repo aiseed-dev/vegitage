@@ -1,0 +1,604 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(Kew, USDA)およびヨーロッパの民族植物学の記録から情報を統合。栽培品種に関する情報は限定的。"
+    },
+    "primary_name": "Salad Burnet",
+    "scientific_name": "Sanguisorba minor",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "花",
+      "根"
+    ],
+    "origin_region": "ヨーロッパ、西アジア、北アフリカ",
+    "wild_relatives": [
+      "Sanguisorba officinalis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "欧州言語圏での名称は広く記録されている。他の地域では主に移入種として知られる。"
+    },
+    "international": {
+      "en": [
+        "Salad Burnet",
+        "Small Burnet",
+        "Garden Burnet"
+      ],
+      "scientific_common": "Poterium sanguisorba"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Pimprenelle",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Kleiner Wiesenknopf",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Pimpinella",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Pimpinela menor",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "オランダワレモコウ",
+            "script": "Jpan"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Rose family",
+      "la": "Rosaceae"
+    },
+    "genus": {
+      "en": "Burnet",
+      "la": "Sanguisorba"
+    },
+    "species": {
+      "en": "Small Burnet",
+      "la": "minor"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "ssp. minor"
+      },
+      {
+        "rank": "subspecies",
+        "name": "ssp. muricata"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ヨーロッパでの歴史的利用は豊富に記録されているが、現代における文化的重要性は低下している。他の地域での文化的重要性は限定的。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "香味料"
+        ],
+        "traditional_uses": "中世からサラダやソース、ハーブビネガーに利用。特にイギリスのクールタンカード（ワイン飲料）やドイツのフランクフルト風グリューネゾーセ（緑のソース）に不可欠なハーブとして知られる。名前の由来（Sanguis=血、sorbere=吸う）が示す通り、止血薬として民間療法で用いられた歴史がある。",
+        "seasonal_significance": "春先の最初の緑のハーブとして重宝された。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "ヨーロッパからの入植者によって持ち込まれ、ハーブガーデンで栽培される。一部地域で野生化。主に料理愛好家の間で利用される。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ヨーロッパの伝統料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Frankfurter Grüne Soße",
+          "Cool Tankard",
+          "Mixed herb salads"
+        ],
+        "preparation_methods": [
+          "生食",
+          "ソース",
+          "ビネガー漬け"
+        ],
+        "cultural_context": "春の訪れを告げるハーブの一つとして、また消化を助ける薬草として食卓に取り入れられてきた。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマ時代から利用されていた可能性が示唆されている。プリニウスの記述に該当する植物が見られる。",
+      "trade_routes": "主要な交易品ではなかったが、ヨーロッパ内での種子や知識の伝播は活発であった。",
+      "cultural_exchange": "ヨーロッパからの移民と共に新大陸（北米、オセアニア）へ伝播し、各地のハーブガーデンに定着した。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、古くから野生のものを採集・利用し、徐々に庭で栽培されるようになったと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬越し可能で、夏は半日陰で管理"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最も生育に適した気候帯。日当たりの良い場所を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "耐寒性が高く、厳しい冬にも耐える。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に強いが、極度の乾燥では生育が停滞する。水はけの良い土壌が必須。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な気候にも適応する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "ほぼ通年（主に春から秋）",
+        "growing_period_days": 60
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照",
+        "水分",
+        "土壌の肥沃度",
+        "刈り取り頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "世界各地で小規模栽培",
+          "production_share": null,
+          "characteristics": "商業的な大規模生産はほとんどなく、主に家庭菜園や小規模なハーブ農家で生産される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ビタミンCなどの基本的な栄養価は知られているが、詳細な分析や地域変異に関するデータは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Vitamin C",
+          "amount": "高い",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "Vitamin K",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "Tannins",
+          "amount": "含有",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "タンニン",
+        "concentration": "不明",
+        "health_effect": "収斂作用、止血作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "不明"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "西洋伝統ハーブ医学",
+        "uses": [
+          "止血",
+          "消化促進",
+          "日焼けの緩和",
+          "下痢止め"
+        ],
+        "preparation": "葉の浸出液を内服または外用。新鮮な葉を傷口に貼る。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化能",
+        "抗菌作用"
+      ],
+      "safety_considerations": "通常、食用として安全とされるが、過剰摂取に関するデータはない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパの料理本やハーブに関する文献に多くの記述がある。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "生食",
+          "刻んでソースやドレッシングに混ぜる",
+          "ハーブビネガー",
+          "ハーブバター"
+        ],
+        "flavor_role": "香味料",
+        "typical_combinations": [
+          "卵料理",
+          "魚料理",
+          "クリームチーズ",
+          "ジャガイモ",
+          "他のハーブ（パセリ、チャイブ、タラゴン）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ビネガー漬け",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "香りがビネガーに移る。葉の色は褪せる。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "刻んで水やオリーブオイルと共に製氷皿で凍らせると香りを保ちやすい。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やかで、キュウリに似た風味と、わずかなナッツの香り。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "柔らかく、繊細な歯ざわり。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐乾性や耐寒性に関する定性的な記述は多いが、気候変動シナリオ下での応答に関する定量的な実験データは非常に少ない。評価は植物の生態的特性からの推測に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C以上では生育が停滞する可能性がある",
+      "cold_tolerance": "-20°C以下にも耐える"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高いと推定される（深い主根を持つため）",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "400-1000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "背が低いため倒伏しにくい",
+      "hail_damage_recovery": "刈り取りに強いため、地上部が損傷しても再生しやすい",
+      "rapid_temperature_change": "適応性が高いと推定される"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "もともと病害虫に強いため、大きな影響は受けにくいと予測される",
+      "disease_resistance_stability": "高い",
+      "beneficial_organism_relationships": "花はミツバチやアブなどの多様な送粉者を引きつける"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域",
+        "2050_projection": "温帯地域で安定、乾燥化する地域でも適応可能。亜寒帯へ分布域拡大の可能性。",
+        "2100_projection": "高緯度地域へのさらなる拡大が予測される。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同属他種との交雑は知られているが、自然環境下での適応進化に関する詳細な研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "ssp. minorとssp. muricataは容易に交雑する"
+      ],
+      "interspecific_compatibility": [
+        "Sanguisorba officinalis（ワレモコウ）など同属他種との交雑が可能"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "S. minor x S. officinalisの自然交雑が報告されている"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "明確な在来品種は少ないが、広範な分布域の中で地域的な遺伝的多様性が存在すると考えられる",
+      "wild_gene_pool": "ヨーロッパから西アジアにかけて広大な野生遺伝子プールが存在する",
+      "adaptive_genetic_variation": "高いと推定される",
+      "inbreeding_depression_risk": "低い"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ヨーロッパ全域",
+        "environmental_pressure": "石灰質土壌、乾燥、放牧圧",
+        "adaptive_response": "深い主根の発達、ロゼット状の草姿による耐踏圧性",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域生態系への適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他のSanguisorba種との交雑により、耐湿性や耐寒性をさらに向上させる可能性がある",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "葉の大きさや形、花の色（S. officinalisとの交雑で赤みが強まるなど）の改変が可能",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "同属内では比較的低い",
+      "chromosome_compatibility": "同属の近縁種とは適合性が高い場合がある",
+      "fertility_of_hybrids": "雑種は稔性を持つことが多い",
+      "backcrossing_success": "可能"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥",
+        "adaptive_traits": "深い主根、クチクラ層の発達",
+        "heritability": "不明",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "直接的な研究は少ないが、植物の形態的・生態的特性からリジェネラティブ農業への適性は高いと強く推測される。パーマカルチャーの実践では評価が高い。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く強力な主根を持ち、硬盤を破砕し、土壌の通気性と排水性を改善する。",
+      "organic_matter_contribution": "多年草であり、根の脱落や地上部の枯死により継続的に土壌有機物を供給する。",
+      "soil_structure_improvement": "団粒構造の形成を促進する。",
+      "erosion_control": "地表を密に覆うロゼット状の葉が雨滴による土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "深層から養分を吸い上げ、表層に還元する「ダイナミック・アキュムレーター」としての可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "地味な花だが、ミツバチ、ハナアブ、アリなど多様な昆虫が訪れる。",
+      "beneficial_insect_habitat": "株元がテントウムシなどの天敵昆虫の越冬場所となる。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係が示唆される。",
+      "above_ground_biodiversity": "草地生態系の構成種として多様性に貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "深い根が水の通り道を作り、土壌への浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて保水性を高める。",
+      "runoff_reduction": "地被率が高く、表面流出を抑制する。",
+      "groundwater_recharge": "浸透促進により地下水涵養に貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的",
+      "below_ground_carbon": "多年生草本であり、特に深い根系を通じて地下部に炭素を安定的に蓄積する能力が高い。",
+      "soil_carbon_enhancement": "根からの分泌物や分解を通じて土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トマト、キャベツ類、ブドウ"
+      ],
+      "natural_pest_control": "特定の害虫を忌避する効果は報告されていないが、多様な天敵を呼び寄せる。",
+      "nutrient_sharing": "深層からの養分供給により、浅根性の作物に利益をもたらす可能性がある。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生であり、毎年植え替える必要がないため、土壌攪乱を最小限に抑え、生態系の安定に貢献する。",
+      "stress_tolerance": "乾燥や貧栄養土壌に強く、管理の手間が少ない。",
+      "recovery_capacity": "刈り取りや踏圧からの回復力が高い。",
+      "adaptability": "多様な環境に適応する能力がある。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "パーマカルチャーや持続可能な食料システムにおける価値は認識されつつあるが、主流市場での展開は限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "新鮮なビタミンやミネラルを手軽に供給できるハーブとしての価値がある。",
+      "food_security_contribution": "気候変動下でも安定して栽培できる強靭な食料資源として、家庭菜園や地域の食料システムに貢献できる。",
+      "local_food_system_integration": "CSA（地域支援型農業）やファーマーズマーケット向けのニッチな作物として有望。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルメ向けサラダミックス",
+        "ハーブビネガーやドレッシング等の加工品",
+        "レストランへの直接販売"
+      ],
+      "value_added_products": [
+        "ハーブティー",
+        "シーズニングソルト"
+      ],
+      "niche_market_value": "ユニークな風味と歴史的背景を持つため、ストーリー性のある商品として高い価値を持つ可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としては絶滅の危機に瀕していないが、文化的利用の継承と、野生集団が生息する草地環境の保全が課題。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "ヨーロッパにおける伝統的な草地の減少は、野生集団の遺伝的多様性に対する脅威となる。",
+    "climate_change_vulnerability": "低い",
+    "cultural_erosion_risk": "中",
+    "conservation_actions_needed": [
+      "伝統的利用法に関する知識の記録と普及",
+      "野生集団が生息する半自然草地の保全",
+      "多様な遺伝資源の収集と保存"
+    ],
+    "priority_conservation_regions": [
+      "ヨーロッパの石灰質草地"
+    ],
+    "ex_situ_conservation_status": "多くの植物園や種子バンクで保存されている。",
+    "in_situ_conservation_efforts": "ヨーロッパの自然保護区における草地管理活動の一環として保全されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIによる総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "地中海沿岸地域",
+      "中央アジア"
+    ],
+    "knowledge_gaps": [
+      "気候変動要因（CO2濃度、オゾン等）への具体的な生理的応答",
+      "地域集団ごとの栄養価および機能性成分の差異",
+      "根圏微生物との相互作用"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "厳密な栽培品種は少ないが、亜種レベルでの区別が一般的。"
+      },
+      "variety_name": "Sanguisorba minor ssp. minor",
+      "local_name": "不明",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "葉は滑らかで、鋸歯が鋭くない。比較的小型。",
+      "cultural_importance": "最も一般的にサラダバーネットとして利用される系統。",
+      "climate_adaptation": "標準的な適応性を持つ。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "厳密な栽培品種は少ないが、亜種レベルでの区別が一般的。"
+      },
+      "variety_name": "Sanguisorba minor ssp. muricata",
+      "local_name": "Fodder Burnet",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "葉がより大きく、表面に凹凸があり、鋸歯が鋭い。より強健で大型。",
+      "cultural_importance": "葉が硬めなため食用としての評価はやや劣るが、飼料作物として利用された歴史がある。",
+      "climate_adaptation": "より乾燥した環境に適応しているとされる。",
+      "conservation_status": "懸念なし"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-24",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens 'Plants of the World Online'",
+      "USDA PLANTS Database",
+      "European ethnobotanical literature",
+      "Permaculture design manuals"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種・亜種レベルでの応答の定量的データ",
+      "リジェネラティブ農業システムにおける炭素隔離能や栄養循環への貢献に関する実証研究",
+      "栄養成分の詳細なプロファイルと健康効果に関する現代科学的エビデンス"
+    ],
+    "regional_data_coverage": "ヨーロッパに偏っており、アジアやアフリカでのデータは非常に少ない。",
+    "missing_information": [
+      "商業生産に関する統計データ",
+      "先住民による伝統的利用"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

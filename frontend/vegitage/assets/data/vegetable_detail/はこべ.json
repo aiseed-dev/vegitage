@@ -1,0 +1,606 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is widely available from global botanical databases and ethnobotanical literature due to its cosmopolitan distribution. It is primarily a foraged wild vegetable, not a cultivated crop."
+    },
+    "primary_name": "Common Chickweed",
+    "scientific_name": "Stellaria media",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "茎",
+      "葉",
+      "花"
+    ],
+    "origin_region": "ユーラシア大陸",
+    "wild_relatives": [
+      "Stellaria neglecta",
+      "Stellaria pallida",
+      "Stellaria aquatica"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are well-documented across multiple languages due to its global presence as a common weed and foraged green."
+    },
+    "international": {
+      "en": [
+        "Common Chickweed",
+        "Chickenwort",
+        "Starweed"
+      ],
+      "scientific_common": "Stellaria media"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ハコベ, ハコベラ",
+            "script": "Katakana, Hiragana"
+          },
+          {
+            "lang": "zh",
+            "name": "繁缕",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "별꽃",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Gewöhnliche Vogelmiere",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Mouron des oiseaux",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Pamplina",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established in global botanical systems like APG IV."
+    },
+    "family": {
+      "en": "Pink family",
+      "la": "Caryophyllaceae"
+    },
+    "genus": {
+      "en": "Starwort",
+      "la": "Stellaria"
+    },
+    "species": {
+      "en": "Common Chickweed",
+      "la": "Stellaria media"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural use is well-documented in ethnobotany, particularly in Europe as a traditional potherb and in Japan for the 'Nanakusa' festival."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "日本では「春の七草」の一つ「はこべら」として知られ、1月7日に無病息災を願って食べる七草粥に不可欠な食材。伝統的な薬草としても利用される。",
+        "seasonal_significance": "早春の生命力の象徴",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "飼料"
+        ],
+        "traditional_uses": "伝統的に春の強壮剤（スプリングトニック）としてサラダやスープで食されてきた。また、家禽の飼料として利用されたことが英名(Chickweed)の由来。皮膚炎の湿布薬など民間薬としても広く用いられる。",
+        "seasonal_significance": "冬の後の最初の緑の恵み",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（伝統行事食）",
+        "role": "essential",
+        "traditional_dishes": [
+          "七草粥"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "刻む"
+        ],
+        "cultural_context": "正月の疲れた胃を休め、冬に不足しがちな青菜を補い、一年の健康を祈願する儀式食の中心的な役割を担う。"
+      },
+      {
+        "cuisine": "ヨーロッパの伝統的家庭料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Wild Herb Salad",
+          "Spring Soup",
+          "Potherb"
+        ],
+        "preparation_methods": [
+          "生食",
+          "炒める",
+          "煮る"
+        ],
+        "cultural_context": "かつては冬の間のビタミン不足を補う重要な食料源であり、春の訪れを告げる食材として foraging（野草採集）文化の中で利用されてきた。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "ヨーロッパでは先史時代から利用されていた可能性が考古学的証拠から示唆されている。アジアでも古くから薬草として利用されてきた。",
+      "trade_routes": "特定の交易品ではないが、人間の移住や農耕の拡大に伴って世界中に広がった（人類散布植物）。",
+      "cultural_exchange": "不明",
+      "domestication_history": "栽培化はされておらず、野生種の採集利用が基本。意図的な栽培はほとんど行われない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や涼しい雨季に限られる。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しい季節（秋冬）に繁茂する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春と秋が最も生育に適す。冷涼で湿潤な環境を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏は生育が衰えるが、春と秋に繁茂する。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑があれば生育可能だが、自然環境では適さない。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "低標高地帯で生育可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "自然発生（主に秋）",
+        "harvest_season": "春、秋、暖冬期",
+        "growing_period_days": "30-60"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産データなし）",
+      "factors_affecting_yield": [
+        "水分量",
+        "土壌肥沃度",
+        "日照（半日陰を好む）",
+        "気温（冷涼気候を好む）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（統計なし）",
+      "major_producers": [
+        {
+          "country": "世界各地",
+          "production_share": 100,
+          "characteristics": "商業生産はほぼ存在せず、主に自生しているものを採集・利用する。日本の七草粥需要期に一部で商業的な採集・販売が行われる。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分のデータは存在するが、生育環境による変動が大きい。伝統的薬効に関する記述は豊富だが、臨床研究は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約20-30",
+        "protein_g": "1.5-2.5",
+        "carbs_g": "3-5",
+        "fat_g": "0.2-0.5",
+        "fiber_g": "1-2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "高",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンA（βカロテンとして）",
+          "amount": "高",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "中",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "中",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "サポニン",
+        "concentration": "変動",
+        "health_effect": "去痰作用、抗炎症作用の可能性。過剰摂取は消化器系への刺激の可能性あり。"
+      },
+      {
+        "compound": "フラボノイド（ルチンなど）",
+        "concentration": "変動",
+        "health_effect": "抗酸化作用、毛細血管強化作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "西洋ハーバリズム",
+        "uses": [
+          "皮膚の炎症・痒み・湿疹（外用）",
+          "咳・気管支炎（内服）",
+          "利尿・浄血（内服）"
+        ],
+        "preparation": "湿布、煎じ薬、チンキ剤"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "漢方・民間療法",
+        "uses": [
+          "催乳",
+          "利尿",
+          "歯痛・歯槽膿漏（うがい薬として）"
+        ],
+        "preparation": "煎じ薬、生の汁"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗炎症作用",
+        "抗酸化作用",
+        "抗菌作用"
+      ],
+      "safety_considerations": "サポニンを含むため、極端な大量摂取は避けるべき。硝酸塩を蓄積する可能性があるため、汚染された土地での採集には注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "利用法は世界各地の foraging 文化や伝統料理の中で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界共通",
+        "methods": [
+          "生食（サラダ、サンドイッチ）",
+          "加熱（スープ、おひたし、炒め物、粥）"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "他の野草、卵、米、ジャガイモ、レモン"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "香りは失われるが、薬効成分は保持されるためハーブティーとして利用。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感は失われるが、色や栄養は比較的保たれる。加熱調理向き。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "マイルド、わずかに甘い、草の香り、トウモロコシのひげに似た風味",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "柔らかい、シャキシャキ感（若いうち）、加熱すると少しぬめりが出る"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な実験データは乏しい。評価は、その広範な分布と雑草としての生態学的特性に基づく定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "12-20°C",
+      "extreme_heat_survival": "30°C以上で生育不良",
+      "cold_tolerance": "-15°C程度（種子や株元は越冬可能）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "湿潤な環境を好む"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "背が低いため倒伏しにくい",
+      "hail_damage_recovery": "成長が早いため回復は容易",
+      "rapid_temperature_change": "比較的強い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "あり（C3植物として）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "広範な耐性を持つが、アブラムシなどの被害は受ける。温暖化による害虫の活動期間長期化の影響を受ける可能性あり。",
+      "disease_resistance_stability": "うどんこ病などが発生するが、遺伝的多様性が高いため、地域レベルでの抵抗性は安定していると推定される。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "世界の温帯地域全般",
+        "2050_projection": "高緯度地域や高地へ分布が拡大・シフトする可能性。低緯度・乾燥地域では縮小。",
+        "2100_projection": "2050年の傾向がさらに進むと予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Stellaria属内の交雑は知られているが、適応進化に関する詳細な遺伝的研究は限定的。ポテンシャルは高いと推測される。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "極めて多様な生態型が存在し、相互に交配可能"
+      ],
+      "interspecific_compatibility": [
+        "S. neglectaなど近縁種との交雑が報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "Stellaria media aggregate（種群）を形成しており、自然交雑が種の分化と適応に寄与していると考えられる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培品種は存在しないが、地域ごとに適応した膨大な数の生態型が存在する。",
+      "wild_gene_pool": "本種自体が野生遺伝子プールそのものである。",
+      "adaptive_genetic_variation": "非常に高い。世界的な分布がその証拠。",
+      "inbreeding_depression_risk": "低い（主に自家受粉だが、他家受粉も行うため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界各地の都市環境",
+        "environmental_pressure": "踏圧、除草、汚染",
+        "adaptive_response": "小型化、早熟化、除草剤耐性の獲得（一部で報告）",
+        "time_scale": "数十年",
+        "mechanism": "強い選択圧による急速な適応進化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁種との交雑により、地域の気候への適応性が向上する可能性が高い。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "高いと推定される"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "近縁種間では比較的低い。",
+      "chromosome_compatibility": "倍数性が多様であり、交雑の複雑な要因となっている。",
+      "fertility_of_hybrids": "変動する",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候（温度、降水量）、土壌条件、除草圧",
+        "adaptive_traits": "開花時期、種子サイズ、草丈、生活史戦略（一年草/越年草）",
+        "heritability": "高いと推定",
+        "response_to_selection": "非常に早い"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的な研究は少ないが、被覆植物や雑草生態学の観点からその機能はよく知られている。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、密なひげ根",
+      "organic_matter_contribution": "生育が早く、分解も速いため、土壌表層の活性有機物を迅速に供給する。",
+      "soil_structure_improvement": "表層の土壌粒子を団粒化させ、安定させる。",
+      "erosion_control": "地表を密に覆うため、雨滴による土壌侵食を防ぐ効果が非常に高い。",
+      "nutrient_cycling_role": "土壌中の可溶性栄養素を素早く吸収し、植物体内に保持することで流出を防ぐ（栄養素のキャッチャークロップ）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さな花はハナアブや小型のハチなど多様な送粉者を引き寄せる。",
+      "beneficial_insect_habitat": "クモやテントウムシなどの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "活発な根圏は土壌微生物の活動を促進する。",
+      "above_ground_biodiversity": "鳥（特にニワトリ）の良い飼料となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により水の土壌への浸透を助ける。",
+      "moisture_retention": "土壌表面からの水分蒸発を防ぐ（リビングマルチ効果）。",
+      "runoff_reduction": "水の表面流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い（根が浅いため）",
+      "soil_carbon_enhancement": "土壌炭素の「フロー」には貢献するが、「ストック」への貢献は限定的。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "背の高い作物（トマト、トウモロコシなど）の株元を覆うリビングマルチとして機能する。"
+      ],
+      "natural_pest_control": "天敵昆虫の住処を提供することで害虫を抑制する可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "弱いアレロパシー効果が報告されているが、影響は限定的。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "土壌を保護し、生物多様性を高めることで、生態系の安定に寄与する。",
+      "stress_tolerance": "個体レベルでは低いが、個体群レベルでは高い回復力を持つ。",
+      "recovery_capacity": "非常に高い（土壌シードバンクからの迅速な発芽）。",
+      "adaptability": "非常に高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Foragingや野生食材への関心の高まりと共に、現代的な価値が見直されている段階。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ほとんどエネルギーを投入せずに得られる栄養価の高い緑黄色野菜として価値がある。",
+      "food_security_contribution": "非常食や、食料アクセスが困難な地域での栄養補助源としてのポテンシャルを持つ。",
+      "local_food_system_integration": "Foraging（採集）を通じて、最も身近なローカルフードシステムを構成する要素となりうる。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級レストラン向けのマイクログリーンやサラダミックス",
+        "健康志向の消費者向けの機能性食品・サプリメント",
+        "文化体験としてのForagingツアー"
+      ],
+      "value_added_products": [
+        "ハーブティー",
+        "チンキ剤・ハーブエキス",
+        "スキンケア製品"
+      ],
+      "niche_market_value": "日本の七草粥セットや、欧米のファーマーズマーケットで高い価値を持つことがある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "生物学的には全く絶滅の危機にないが、それを利用する文化的知識の消失が懸念される。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "低い（攪乱地に強い）",
+    "climate_change_vulnerability": "低い（個体群レベルでの適応力が高いため）",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "食利用や薬用利用に関する伝統的知識の記録と伝承",
+      "Foraging（採集）文化の振興"
+    ],
+    "priority_conservation_regions": [
+      "世界中の、伝統的知識が失われつつあるコミュニティ"
+    ],
+    "ex_situ_conservation_status": "多くのシードバンクで収集されているが、体系的な保全対象ではない。",
+    "in_situ_conservation_efforts": "不要（自生力が非常に強いため）"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "全体的な評価は、生物学的強さと文化的価値の組み合わせに基づく。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "日本（七草文化）",
+      "ヨーロッパ（伝統的ハーバリズム）"
+    ],
+    "knowledge_gaps": [
+      "生育環境と栄養価・機能性成分の相関関係",
+      "気候変動シナリオに対する具体的な生理学的応答",
+      "農業生態系における定量的貢献"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "本種には農業的な意味での「品種」は存在しない。遺伝的・形態的な変異は連続的であり、生態型として存在する。"
+      },
+      "variety_name": "該当なし",
+      "local_name": "該当なし",
+      "origin_region": "該当なし",
+      "distinctive_characteristics": "該当なし",
+      "cultural_importance": "該当なし",
+      "climate_adaptation": "該当なし",
+      "conservation_status": "該当なし"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Plants of the World Online",
+      "USDA PLANTS Database",
+      "Ethnobotanical literature",
+      "Agroecology research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "地域生態型ごとの栄養価の差異"
+    ],
+    "regional_data_coverage": "ヨーロッパと東アジアに偏っており、他の地域での文化的利用に関するデータは限定的。",
+    "missing_information": [
+      "商業生産に関する経済データ",
+      "詳細な生理学的ストレス応答データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

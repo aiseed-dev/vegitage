@@ -1,0 +1,663 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース (KEW, GRIN) 及び農学研究論文からの情報を統合。野生近縁種との関係性も明確。"
+    },
+    "primary_name": "Arugula/Rocket",
+    "scientific_name": "Eruca vesicaria",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "花",
+      "種子"
+    ],
+    "origin_region": "地中海地域、西アジア",
+    "wild_relatives": [
+      "Eruca vesicaria (野生株)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "多言語の植物名データベースと地域別料理文献から収集。"
+    },
+    "international": {
+      "en": [
+        "Arugula",
+        "Rocket",
+        "Garden Rocket",
+        "Salad Rocket"
+      ],
+      "scientific_common": "Eruca"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Rucola",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Roquette",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Rauke",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Rúcula",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "جرجير (Jarjir / Gargeer)",
+            "script": "Arab"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "तारामीरा (Taramira)",
+            "script": "Deva"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "統合分類学情報システム (ITIS) 及びGRIN分類データベースに基づく。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Eruca",
+      "la": "Eruca"
+    },
+    "species": {
+      "en": "Garden Rocket",
+      "la": "Eruca vesicaria"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Eruca vesicaria subsp. sativa"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史文献、民族植物学の記録、現代の食文化研究から情報を集約。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "サラダ、パスタ、ピザのトッピングとしてイタリア料理に不可欠。古代ローマでは媚薬としても知られていた。",
+        "seasonal_significance": "春と秋の味覚を代表する野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "サラダやメゼ（前菜）の一部として生食される。伝統医学では消化促進や強壮作用が期待された。",
+        "seasonal_significance": "涼しい季節に広く利用される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "主に種子からタラミラ油を搾油するために栽培。油は食用、灯火用、伝統医療に利用される。葉の食用は限定的。",
+        "seasonal_significance": "乾季の重要な油糧作物。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Insalata di Rucola",
+          "Pizza con Rucola, Prosciutto e Grana",
+          "Pasta con Rucola e Pomodorini"
+        ],
+        "preparation_methods": [
+          "生食",
+          "加熱"
+        ],
+        "cultural_context": "新鮮さと特徴的な辛味・苦味で料理の味を引き立てる重要なアクセント。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマ・ギリシャ時代から食用及び薬用として栽培されていた記録がある。プリニウスの『博物誌』にも記述が見られる。",
+      "trade_routes": "古代の交易路を通じて地中海から中東、南アジアへと伝播したと考えられる。",
+      "cultural_exchange": "20世紀後半のグローバル化に伴い、イタリア料理の世界的な人気と共に世界中に普及した。",
+      "domestication_history": "地中海沿岸に自生する野生種から、葉の大きさや辛味の少ない系統が選抜されて栽培化された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き。高地の冷涼な環境でのみ栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しく乾燥した冬期（乾季）に栽培が適する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春と秋の冷涼な気候が最適。夏の高温期は抽苔しやすく品質が低下する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "霜の危険がなくなった春から初夏、及び晩夏から秋にかけて栽培可能。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必要だが、乾燥した気候には比較的強い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温のため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3-5月）、秋（9-10月）",
+        "harvest_season": "春（4-6月）、秋（10-11月）",
+        "growing_period_days": "30-50"
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000-20,000 kg/ha",
+      "factors_affecting_yield": [
+        "気温（高温による抽苔）",
+        "水管理",
+        "土壌肥沃度",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "イタリア",
+          "production_share": null,
+          "characteristics": "多様な在来品種が存在し、国内消費・輸出共に盛ん。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": null,
+          "characteristics": "カリフォルニア州、アリゾナ州を中心に大規模な商業生産が行われている。"
+        },
+        {
+          "country": "メキシコ",
+          "production_share": null,
+          "characteristics": "北米市場向けの輸出生産が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による機能性成分の変動に関する研究は進行中。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "25",
+        "protein_g": "2.6",
+        "carbs_g": "3.7",
+        "fat_g": "0.7",
+        "fiber_g": "1.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "108.6 µg",
+          "daily_value_percent": "91"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "2373 IU",
+          "daily_value_percent": "47"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "15 mg",
+          "daily_value_percent": "25"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "97 µg",
+          "daily_value_percent": "24"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート（グルコエルシン）",
+        "concentration": "変動大",
+        "health_effect": "体内でイソチオシアネートに変換され、抗がん作用、抗酸化作用を示す可能性が研究されている。"
+      },
+      {
+        "compound": "フラボノイド（ケルセチン, ケンペロール）",
+        "concentration": "変動中",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      },
+      {
+        "compound": "硝酸塩",
+        "concentration": "高",
+        "health_effect": "体内で一酸化窒素に変換され、血圧降下や運動パフォーマンス向上に寄与する可能性がある。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "地中海地域",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "媚薬",
+          "消化促進",
+          "利尿"
+        ],
+        "preparation": "生食、または葉の浸出液。"
+      },
+      {
+        "region": "中東",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "咳止め",
+          "強壮剤"
+        ],
+        "preparation": "蜂蜜と混ぜて摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "特定のがん種に対する予防効果",
+        "心血管疾患リスクの低減効果",
+        "抗炎症作用のメカニズム解明"
+      ],
+      "safety_considerations": "ビタミンKの含有量が多いため、ワルファリンなどの抗凝固薬を服用している場合は摂取に注意が必要。硝酸塩の含有量も高いため、過剰摂取には注意。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の主要な料理データベースと食文化研究に基づき作成。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "生食（サラダ）",
+          "加熱（パスタ、ピザのトッピング）",
+          "ペースト"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "パルメザンチーズ",
+          "バルサミコ酢",
+          "トマト",
+          "生ハム"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "生食（サラダ、サンドイッチ）",
+          "スムージー"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ヤギのチーズ",
+          "ビーツ",
+          "クルミ",
+          "柑橘類のドレッシング"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷蔵",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "3-7日",
+        "quality_changes": "しおれ、黄変、風味の劣化。"
+      },
+      {
+        "method": "ペースト化（オイル漬け）",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数週間（冷蔵）",
+        "quality_changes": "食感は失われるが風味は保持される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "胡椒のような辛味、心地よい苦味、ゴマやナッツに似た風味。",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "柔らかく、やや張りがある。茎はシャキシャキしている。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、品種レベルでの定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり精度は低い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-20°C",
+      "extreme_heat_survival": "30°C以上で著しく生育不良・抽苔。",
+      "cold_tolerance": "-5°C程度まで耐えるが、霜害を受ける可能性がある。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間中に定期的な降雨または灌漑が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い。葉が傷つきやすい。",
+      "hail_damage_recovery": "生育が早いため、軽度の被害からは回復可能。",
+      "rapid_temperature_change": "抽苔を誘発する可能性がある。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。C3植物として光合成が促進される可能性があるが、栄養価が低下するリスクもある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやコナガの活動期間が延長し、被害が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境では、べと病などの病害リスクが高まる。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域の春・秋",
+        "2050_projection": "温帯地域では栽培期間が短縮。より高緯度・高標高地域へ適地がシフト。",
+        "2100_projection": "現在の主要生産地では夏期の栽培が困難になり、周年栽培には施設栽培が必須となる可能性が高い。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "同種内の交雑は容易だが、種間交雑に関する研究データは限定的。遺伝的多様性の中心地は地中海沿岸。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "Eruca vesicaria subsp. sativa",
+        "野生のEruca vesicaria個体群"
+      ],
+      "interspecific_compatibility": [
+        "Diplotaxis tenuifolia (セルバチコ)との稀な交雑例が報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "非常に低い"
+      ],
+      "successful_natural_hybrids": [
+        "地中海沿岸の野生集団内での自然交雑は頻繁に起こっていると考えられる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "イタリアや中東には形態や風味の異なる在来品種が存在する。",
+      "wild_gene_pool": "原産地の野生集団は、耐乾性や耐病性などの有用遺伝子の宝庫である。",
+      "adaptive_genetic_variation": "高い。多様な環境に適応した野生エコタイプが存在する。",
+      "inbreeding_depression_risk": "低い。自家不和合性を持つため、他家受精が基本。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "南イタリアの乾燥地域",
+        "environmental_pressure": "乾燥、高温",
+        "adaptive_response": "深い根系、クチクラ層の発達、開花時期の調整",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "自然選択による適応遺伝子の集積"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐塩性の向上が期待できる。",
+      "improved_nutritional_content": "特定のグルコシノレートを高含有する系統の育種が可能。",
+      "novel_characteristics": "葉の形、色、風味の多様化。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間・属間では花粉管の伸長阻害などの障壁が存在する。",
+      "chromosome_compatibility": "Eruca属は 2n=22。Diplotaxis属とは染色体数が異なるため交雑しにくい。",
+      "fertility_of_hybrids": "種間雑種は稔性が低い場合が多い。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水ストレス",
+        "adaptive_traits": "根の深さ、気孔密度",
+        "heritability": "中程度",
+        "response_to_selection": "中程度"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アブラナ科植物の一般的特性からの類推が多い。ルッコラに特化したリジェネラティブ農業研究は少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "直根性で、土壌の硬盤を物理的に破壊し、水や空気の通り道を改善する可能性がある。",
+      "organic_matter_contribution": "生育が早いため、緑肥として利用することで土壌に速やかに有機物を供給できる。",
+      "soil_structure_improvement": "根による団粒構造の形成促進。",
+      "erosion_control": "被覆作物として利用することで、雨滴による土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "グルコシノレートの分解産物（イソチオシアネート）が土壌中の病原菌を抑制する（バイオ燻蒸効果）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチ、ハナアブなどの多様な花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "アブラナ科を好む寄生蜂などの天敵昆虫の生息地となる可能性がある。",
+      "soil_microorganism_interaction": "根圏微生物叢との相互作用については研究途上。",
+      "above_ground_biodiversity": "多様な昆虫相をサポートする。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る孔隙により、水の土壌への浸透を促進する。",
+      "moisture_retention": "地上部がマルチとなり、土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "地表面を覆うことで、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い（一年草のため）。",
+      "below_ground_carbon": "中程度。根のバイオマスは大きい。",
+      "soil_carbon_enhancement": "緑肥としての利用により、土壌有機炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン（ニンジンの害虫を一部忌避）",
+        "マメ科植物（マメ科が固定した窒素を利用）",
+        "ミント類（害虫忌避効果）"
+      ],
+      "natural_pest_control": "特定の害虫を忌避する効果が報告されているが、逆にアブラナ科の害虫を引き寄せる可能性もある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "グルコシノレート分解産物が他の植物の種子発芽を抑制するアレロパシー効果を持つ可能性がある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作に組み込むことで、土壌病害のサイクルを断ち切る効果が期待できる。",
+      "stress_tolerance": "生育が早いため、短期的な環境ストレスからの回復が早い。",
+      "recovery_capacity": "高い",
+      "adaptability": "中程度"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド分析、栄養学、食品科学の最新の研究報告に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラル、機能性成分が豊富で、植物中心の食生活において重要な役割を果たす。",
+      "food_security_contribution": "生育期間が短く、限られた土地でも栽培が容易なため、都市農業や家庭菜園に適しており、地域の食料自給率向上に貢献しうる。",
+      "local_food_system_integration": "地産地消に適した品目であり、ファーマーズマーケットなどで人気が高い。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "加工品（ソース、パウダー）市場",
+        "機能性食品・サプリメント市場",
+        "ベビーリーフ市場のさらなる拡大"
+      ],
+      "value_added_products": [
+        "ルッコラペースト",
+        "フリーズドライ・ルッコラ",
+        "ルッコラ種子油"
+      ],
+      "niche_market_value": "オーガニック市場や特定の風味を持つ在来品種の市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源に関する研究報告と生物多様性保全の一般的な議論に基づく。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地である地中海沿岸の野生種の生息地が、開発や気候変動によって脅かされている。",
+    "climate_change_vulnerability": "高い（耐暑性が低いため）。",
+    "cultural_erosion_risk": "低い。世界的に利用が拡大している。",
+    "conservation_actions_needed": [
+      "野生集団の生息域内保全",
+      "多様な在来品種の収集と種子バンクでの域外保全",
+      "地域農家による在来品種の栽培継続支援"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸諸国（特にイタリア、ギリシャ、トルコ）",
+      "北アフリカ",
+      "西アジア"
+    ],
+    "ex_situ_conservation_status": "主要な国際種子バンク（Svalbard Global Seed Vault, GRINなど）に多数のアクセスが保存されている。",
+    "in_situ_conservation_efforts": "一部の保護区で野生集団が保全されているが、体系的な取り組みは限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全項目を統合的に評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "地中海地域（遺伝的多様性と伝統的利用法の調査）",
+      "南アジア（油糧作物としての利用と適応性の調査）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する品種レベルでの生理的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果（炭素隔離、水循環改善など）の測定",
+      "野生遺伝資源の評価と育種への利用"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "一般的な種苗カタログと農学文献に基づく情報。"
+      },
+      "variety_name": "Standard/Common Arugula",
+      "local_name": "Rucola coltivata",
+      "origin_region": "地中海地域",
+      "distinctive_characteristics": "葉は丸みを帯び、切れ込みが浅い。辛味はマイルドで、生育が非常に早い。",
+      "cultural_importance": "世界で最も広く流通している商業栽培品種。",
+      "climate_adaptation": "冷涼な気候を好む。耐暑性は低い。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "民族植物学および遺伝資源研究に基づく情報。"
+      },
+      "variety_name": "Wild populations in Southern Italy",
+      "local_name": "不明",
+      "origin_region": "南イタリア、シチリア島",
+      "distinctive_characteristics": "葉の形や大きさに多様性がある。辛味や香りが強い傾向。乾燥への耐性が高い個体群が存在する。",
+      "cultural_importance": "地域の食文化に利用され、遺伝資源として非常に重要。",
+      "climate_adaptation": "地域の乾燥した気候に適応している。",
+      "conservation_status": "生息地の減少により危殆"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-23",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN (Germplasm Resources Information Network)",
+      "KEW Plants of the World Online",
+      "FAOSTAT",
+      "Relevant ethnobotanical and agricultural research papers"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの応答の定量的データ",
+      "リジェネラティブ農業適性の実証的研究",
+      "正確な世界生産統計"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に関するデータは豊富だが、アジア、アフリカの伝統的利用に関するデータは限定的。",
+    "missing_information": [
+      "先住民コミュニティによる特有の利用法",
+      "気候変動適応性に関する定量的な生理学的データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

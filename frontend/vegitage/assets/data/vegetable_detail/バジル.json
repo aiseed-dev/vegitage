@@ -1,0 +1,778 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), ethnobotanical studies, and agricultural research. Data on wild relatives is extensive but relationships can be complex."
+    },
+    "primary_name": "Basil",
+    "scientific_name": "Ocimum basilicum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "花",
+      "茎"
+    ],
+    "origin_region": "熱帯アフリカ、南アジア、東南アジア",
+    "wild_relatives": [
+      "Ocimum americanum",
+      "Ocimum africanum",
+      "Ocimum minimum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual dictionaries, ethnobotanical records, and culinary literature. Distinctions between O. basilicum and other culturally significant Ocimum species (e.g., O. tenuiflorum) are noted where overlap occurs."
+    },
+    "international": {
+      "en": [
+        "Basil",
+        "Sweet Basil"
+      ],
+      "scientific_common": "Basil"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Basilico",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Basilic",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Albahaca",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Basilikum",
+            "script": "Latin"
+          },
+          {
+            "lang": "el",
+            "name": "Βασιλικός (Vasilikós)",
+            "script": "Greek"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "बाबची (Babchi)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "திருநீற்றுப்பச்சை (Thiruneetruppachai)",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "โหระพา (Horapha)",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Húng quế",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "ريحان (Rayḥān)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "ریحان (Reyhân)",
+            "script": "Persian"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Hindu traditions (Note: Often conflated with O. tenuiflorum/Tulsi)",
+        "name": "Tulsi (as a general term for sacred basil)",
+        "cultural_significance": "Represents purity, protection, and is used in religious ceremonies. The distinction from Holy Basil (O. tenuiflorum) is often blurred in folk traditions."
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic information is based on the World Flora Online (WFO) and Germplasm Resources Information Network (GRIN)."
+    },
+    "family": {
+      "en": "Mint family",
+      "la": "Lamiaceae"
+    },
+    "genus": {
+      "en": "Basil",
+      "la": "Ocimum"
+    },
+    "species": {
+      "en": "Sweet Basil",
+      "la": "basilicum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "Ocimum basilicum var. thyrsiflorum (Thai Basil)"
+      },
+      {
+        "rank": "var.",
+        "name": "Ocimum basilicum var. purpurascens (Purple Basil)"
+      },
+      {
+        "rank": "cultivar",
+        "name": "'Genovese'"
+      },
+      {
+        "rank": "cultivar",
+        "name": "'Cinnamon'"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is well-documented in historical texts, culinary history, and ethnobotany across multiple regions."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "薬用"
+        ],
+        "traditional_uses": "イタリア料理（特にペスト・ジェノヴェーゼ）に不可欠。古代ギリシャ・ローマでは「王のハーブ」とされ、神聖視と不吉の象徴という両義的な意味を持っていた。",
+        "seasonal_significance": "夏の食卓を象徴するハーブ",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "主食"
+        ],
+        "traditional_uses": "タイ、ベトナム、カンボジア料理で生食される重要な香味野菜。スープ（フォーなど）、カレー、炒め物に独特の風味を加える。",
+        "seasonal_significance": "年間を通じて利用されるが、雨季に最も繁茂する",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "儀式用",
+          "副菜"
+        ],
+        "traditional_uses": "アーユルヴェーダで薬用として広く利用。料理にも使われるが、聖なるトゥルシー（Ocimum tenuiflorum）との文化的・宗教的関連性が強い。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Pesto alla Genovese",
+          "Insalata Caprese",
+          "Pizza Margherita"
+        ],
+        "preparation_methods": [
+          "生食",
+          "ソース",
+          "オイル漬け"
+        ],
+        "cultural_context": "夏の新鮮さとイタリアの国民的アイデンティティを象徴する食材。"
+      },
+      {
+        "cuisine": "ベトナム料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Phở",
+          "Gỏi cuốn (生春巻き)"
+        ],
+        "preparation_methods": [
+          "生食（ハーブプレートとして提供）",
+          "スープの香りづけ"
+        ],
+        "cultural_context": "料理の味のバランスを取る上で不可欠な要素であり、新鮮さが重視される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インドで5000年以上前から栽培。古代エジプトではミイラ作りに使用されたとの説もある。",
+      "trade_routes": "古代の香辛料交易路を通じてインドから中東、ヨーロッパへと伝播した。",
+      "cultural_exchange": "伝播の過程で各地の文化と結びつき、ギリシャでは「王」、インドでは「神聖」、一部ヨーロッパでは「悪」の象徴と多様な意味が付与された。",
+      "domestication_history": "インド亜大陸またはアフリカが原産地と考えられ、そこから多様な品種が分化し世界中に広がった。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて栽培可能。高い湿度と日照を好む。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけての栽培が最適。冬の霜には弱い。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の間の栽培に限定される。霜に非常に弱いため、一年草として扱われる。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "栽培期間が短すぎるため、商業栽培には不向き。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。強い日差しを好むが、水ストレスには弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため栽培は困難。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "通年",
+        "growing_period_days": 60
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春（終霜後）",
+        "harvest_season": "夏から初秋（初霜前）",
+        "growing_period_days": 70
+      }
+    ],
+    "productivity": {
+      "yield_range": "生葉で10,000 - 15,000 kg/ha",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌肥沃度",
+        "水分供給",
+        "品種",
+        "病害（特にべと病）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（データが分散しているため）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "精油および国内消費向けの大規模生産"
+        },
+        {
+          "country": "エジプト",
+          "production_share": null,
+          "characteristics": "乾燥ハーブの主要輸出国"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": null,
+          "characteristics": "カリフォルニア州を中心に生鮮市場向け生産"
+        },
+        {
+          "country": "イタリア",
+          "production_share": null,
+          "characteristics": "高品質な『ジェノベーゼ』品種の生産と加工"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による精油成分の変動が大きい。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "23",
+        "protein_g": "3.2",
+        "carbs_g": "2.7",
+        "fat_g": "0.6",
+        "fiber_g": "1.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "414.8 mcg",
+          "daily_value_percent": "346%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "5275 IU",
+          "daily_value_percent": "175%"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "1.1 mg",
+          "daily_value_percent": "57%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "リナロール",
+        "concentration": "変動大",
+        "health_effect": "鎮静、抗不安、抗菌作用"
+      },
+      {
+        "compound": "オイゲノール",
+        "concentration": "変動大",
+        "health_effect": "抗酸化、抗炎症、鎮痛作用"
+      },
+      {
+        "compound": "エストラゴール",
+        "concentration": "変動大",
+        "health_effect": "抗菌作用（高濃度での安全性に注意）"
+      },
+      {
+        "compound": "ロズマリン酸",
+        "concentration": "変動大",
+        "health_effect": "強力な抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "咳・風邪の緩和",
+          "消化促進",
+          "解熱",
+          "ストレス軽減"
+        ],
+        "preparation": "葉の煎じ薬、生食、蒸気吸入"
+      },
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統的ハーブ療法",
+        "uses": [
+          "消化不良の改善",
+          "鎮静",
+          "駆風（ガス抜き）"
+        ],
+        "preparation": "ハーブティー、チンキ剤"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗菌作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "血糖コントロール",
+        "心血管保護効果"
+      ],
+      "safety_considerations": "エストラゴール成分には肝毒性の懸念が指摘されており、長期間の大量摂取は避けるべきとされる。妊娠中の精油の使用は禁忌。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究で広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "生食",
+          "ペースト化",
+          "オイル注入"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "トマト",
+          "ニンニク",
+          "オリーブオイル",
+          "松の実",
+          "チーズ"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "生食",
+          "加熱調理の最後に加える"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "牛肉",
+          "鶏肉",
+          "シーフード",
+          "もやし",
+          "ライム",
+          "唐辛子"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "香りの多くが失われ、風味が変化する。"
+      },
+      {
+        "method": "冷凍（ペストまたはオイルと共に）",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "6-12ヶ月",
+        "quality_changes": "新鮮な香りと色を比較的良好に保持できる。"
+      },
+      {
+        "method": "オイル漬け・ビネガー漬け",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "香りが液体に移る。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘く、やや胡椒のようなスパイシーさがあり、品種によってはアニス、クローブ、シナモン、レモンのニュアンスを持つ。",
+      "aroma_compounds": [
+        "リナロール",
+        "オイゲノール",
+        "エストラゴール",
+        "シネオール"
+      ],
+      "texture_characteristics": "生の葉は柔らかく滑らか。加熱するとすぐにしなびる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定性的な耐性は知られているが、気候変動シナリオに対する品種レベルでの定量的な応答データは限定的。予測は一般的な植物生理学の知見に基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上でも水分があれば生存可能だが、精油の質が変化する可能性がある。",
+      "cold_tolerance": "0°C（霜に非常に弱い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "中程度。定期的な灌漑が必要。",
+      "flood_tolerance": "低。根腐れを起こしやすい。",
+      "optimal_rainfall": "600-800 mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い。茎が折れやすく、葉が傷つきやすい。",
+      "hail_damage_recovery": "低い。葉が主要な収穫部位であるため、被害は大きい。",
+      "rapid_temperature_change": "適応性は低い。特に急な低温には対応できない。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。C3植物として、CO2濃度の上昇により光合成とバイオマス生産が増加する可能性があるが、精油成分の組成が変わる可能性も指摘されている。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンは葉の損傷を引き起こす可能性がある。",
+      "uv_radiation_tolerance": "中程度"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやハダニの発生が増加する可能性がある。",
+      "disease_resistance_stability": "べと病（Peronospora belbahrii）の世界的拡大が大きな脅威。温暖多湿な条件で発生しやすく、気候変動によりリスクが増大する。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯、温帯の夏",
+        "2050_projection": "温帯地域での栽培可能期間の延長、亜熱帯・熱帯地域での水ストレス増加",
+        "2100_projection": "高緯度地域への栽培適地の北上、現在の主要産地での熱・水ストレスによる生産性低下リスク",
+        "confidence_level": "中程度の推定"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Ocimum属内の交雑親和性はよく知られているが、自然環境下での適応進化に関する詳細な研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "O. basilicum内の多様な品種（ジェノベーゼ、タイバジル、パープルバジル等）は容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Ocimum americanum（レモンバジル）、Ocimum africanumなどと容易に交雑し、稔性のある雑種を形成する。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "レモンバジル（O. × africanum）は自然交雑または人為的交配に由来すると考えられている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地であるアジア・アフリカには、多様な形質を持つ在来種が豊富に存在する。",
+      "wild_gene_pool": "近縁野生種との遺伝子流動の可能性があり、これが適応性の源泉となっている。",
+      "adaptive_genetic_variation": "精油成分、葉の形や色、耐病性などにおいて大きな遺伝的変異が存在する。",
+      "inbreeding_depression_risk": "自家受粉も可能だが、他家受粉が主であり、近交弱勢のリスクは比較的高くない。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "東南アジア vs. 地中海",
+        "environmental_pressure": "気候（高温多湿 vs. 高温乾燥）、病害虫圧、利用法（生食 vs. 加工）",
+        "adaptive_response": "タイバジルのようなアニス香の強い品種と、ジェノベーゼのような甘い香りの品種への分化。",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "人間による選抜と地域の環境への自然適応の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "特定の機能性成分（例：抗酸化物質）を増強できる可能性がある。",
+      "novel_characteristics": "新しい香りや風味（例：レモン、シナモン）を持つ品種が作出されてきた実績がある。",
+      "hybrid_vigor_potential": "高い。種間雑種ではしばしば旺盛な生育が見られる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Ocimum属内では比較的低い。",
+      "chromosome_compatibility": "多くの近縁種間で染色体の適合性が高い。",
+      "fertility_of_hybrids": "多くの場合、稔性は維持される。",
+      "backcrossing_success": "比較的容易である。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害（特にべと病）",
+        "adaptive_traits": "抵抗性遺伝子",
+        "heritability": "中程度",
+        "response_to_selection": "抵抗性品種の育種が進んでいる。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業システムにおけるバジルの役割に関する直接的な研究は少ない。評価は植物の一般的特性（花、根系）とコンパニオンプランツとしての知見に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い繊維状根系。土壌構造の改善効果は限定的。",
+      "organic_matter_contribution": "地上部のバイオマスは大きいが、一年草であるため有機物の年間蓄積量は少ない。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "密植すれば地表面を覆い、雨滴による侵食を軽減できる。",
+      "nutrient_cycling_role": "特筆すべき能力はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "非常に高い。開花期にはミツバチ、マルハナバチ、その他の多様な訪花昆虫を強く誘引する。",
+      "beneficial_insect_habitat": "捕食性昆虫や寄生蜂などの天敵昆虫に蜜源や生息地を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "地域の生態系において重要なポリネーターハブとして機能する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "地表被覆による土壌水分の蒸発抑制効果がある。",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "寄与は小さい。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トマト",
+        "ピーマン",
+        "アスパラガス"
+      ],
+      "natural_pest_control": "トマトホーンワームやアブラムシを忌避する効果があるとされる伝統的知識があるが、科学的証拠は限定的。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "限定的"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "ポリネーターを誘引することで、他の作物の受粉を助け、生態系全体の安定性に貢献する。",
+      "stress_tolerance": "植物個体としてのストレス耐性は高くない。",
+      "recovery_capacity": "低い",
+      "adaptability": "遺伝的多様性は高いが、個体レベルでの適応性は低い。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、食品科学、公衆衛生に関するデータは豊富に存在する。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "風味豊かで栄養価の高い植物性食品として、食事の多様性を高める上で価値が高い。",
+      "food_security_contribution": "主要なカロリー源ではないが、小規模農家にとって重要な現金収入源となりうる。",
+      "local_food_system_integration": "家庭菜園や小規模農業で容易に栽培でき、地域の食料システムに貢献する。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性飲料",
+        "植物由来の防腐剤",
+        "自然な香料"
+      ],
+      "value_added_products": [
+        "精油（エッセンシャルオイル）",
+        "ペストソース",
+        "ハーブビネガー",
+        "冷凍製品"
+      ],
+      "niche_market_value": "特定の品種（例：有機栽培のジェノベーゼバジル）や由来（例：フェアトレード）は高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な商業品種の保全状況は良好だが、世界中の在来種の遺伝的多様性の消失リスクに関するデータは不完全。"
+    },
+    "genetic_erosion_risk": "高（在来種に関して）",
+    "habitat_loss_threat": "近縁野生種の自生地では、開発による生息地の喪失が脅威となっている。",
+    "climate_change_vulnerability": "中程度。べと病の拡大や水ストレスの増大が懸念される。",
+    "cultural_erosion_risk": "中程度。グローバルな商業品種への置き換えにより、地域固有の利用法や品種が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "原産地における在来種の収集と評価",
+      "種子バンクでの遺伝資源の長期保存（域外保全）",
+      "地域コミュニティによる伝統品種の栽培奨励（域内保全）"
+    ],
+    "priority_conservation_regions": [
+      "インド亜大陸",
+      "東南アジア",
+      "中央アフリカ"
+    ],
+    "ex_situ_conservation_status": "主要な遺伝資源バンク（例：米国農務省GRIN）には多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的。主に地域コミュニティや小規模農家によって維持されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価は、本報告書で分析された全項目に基づく専門家判断による。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高（特に耐病性と耐乾性に関する研究）",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "タイ",
+      "ベトナム",
+      "インド",
+      "エチオピア"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する品種ごとの生理的応答の定量的データ",
+      "在来種の遺伝的多様性の網羅的評価",
+      "リジェネラティブ農業システムにおける生態系サービス機能の定量化"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種情報は園芸学の文献や種子カタログで広く利用可能。"
+      },
+      "variety_name": "Genovese Basil",
+      "local_name": "Basilico Genovese",
+      "origin_region": "イタリア、リグーリア州",
+      "distinctive_characteristics": "大きく柔らかいカップ状の葉。甘くクローブのような香りが強い。ペストに最適。",
+      "cultural_importance": "イタリア料理、特にペスト・ジェノヴェーゼの象徴。DOP（保護原産地呼称）認定を受けている。",
+      "climate_adaptation": "温暖な気候を好む。べと病に感受性。",
+      "conservation_status": "広く栽培されているが、DOP認定地域の伝統的系統は保護されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種情報は園芸学の文献や種子カタログで広く利用可能。"
+      },
+      "variety_name": "Thai Sweet Basil",
+      "local_name": "โหระพา (Horapha)",
+      "origin_region": "東南アジア",
+      "distinctive_characteristics": "紫色の茎と花。葉はより頑丈で、強いアニスまたは甘草のような香りを持つ。",
+      "cultural_importance": "タイ料理、ベトナム料理、カンボジア料理に不可欠。生食や加熱調理に用いられる。",
+      "climate_adaptation": "高温多湿の気候によく適応している。比較的耐病性が高い。",
+      "conservation_status": "広く栽培されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "品種情報は園芸学の文献や種子カタログで広く利用可能。"
+      },
+      "variety_name": "Dark Opal Basil",
+      "local_name": "不明",
+      "origin_region": "アメリカ合衆国（育種）",
+      "distinctive_characteristics": "濃い紫色の葉。観賞価値が高く、風味はジェノベーゼよりややスパイシー。",
+      "cultural_importance": "主に観賞用および料理の彩りとして利用される。ハーブビネガーの色付けにも使われる。",
+      "climate_adaptation": "一般的なスイートバジルに準じる。",
+      "conservation_status": "園芸品種として広く利用可能。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      "GRIN Global",
+      "PubMed",
+      "ScienceDirect",
+      "Ethnobotanical literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "在来種の遺伝資源の包括的評価"
+    ],
+    "regional_data_coverage": "ヨーロッパと東南アジアは豊富だが、アフリカの在来種に関するデータは限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "野生近縁種の個体群動態"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

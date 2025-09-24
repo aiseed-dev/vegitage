@@ -1,0 +1,725 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GRIN), agricultural reports (FAO), and ethnobotanical research. Data is robust for agricultural and botanical aspects."
+    },
+    "primary_name": "Safflower",
+    "scientific_name": "Carthamus tinctorius",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "花",
+      "種子"
+    ],
+    "origin_region": "中東（肥沃な三日月地帯）、恐らくイラン高原から地中海東部にかけての地域",
+    "wild_relatives": [
+      "Carthamus palaestinus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical dictionaries and agricultural glossaries."
+    },
+    "international": {
+      "en": [
+        "Safflower",
+        "Bastard Saffron",
+        "Dyer's Saffron"
+      ],
+      "scientific_common": "Safflower"
+    },
+    "regional": [
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "عُصْفُر",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "گلرنگ",
+            "script": "Persian"
+          },
+          {
+            "lang": "tr",
+            "name": "Aspir",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "कुसुम",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "sa",
+            "name": "कुसुम्भ",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "குங்குமப்பூ",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "红花",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "紅花",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "홍화",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Cártamo",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Carthame",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Färberdistel",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "古代エジプト",
+        "name": "不明（象形文字での表現は存在する）",
+        "cultural_significance": "ミイラの包帯や化粧品の赤色染料として、また儀式用の花輪として利用された。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification follows the APG IV system."
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Safflower",
+      "la": "Carthamus"
+    },
+    "species": {
+      "en": "Safflower",
+      "la": "tinctorius"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is based on historical records, archaeological findings, and ethnobotanical literature from various regions."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "中東・北アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "染料",
+          "食用油",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "古代エジプトではファラオの墓から発見されるほど重要な染料。伝統的に米料理やパンの着色料として、また儀式の花輪として使用。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "食用油",
+          "薬用",
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "インドでは主要な食用油源の一つ。アーユルヴェーダでは薬草として重要。若葉は野菜として食される。",
+        "seasonal_significance": "冬の乾季（ラビ作物）に栽培される重要な作物。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用",
+          "染料",
+          "食用油"
+        ],
+        "traditional_uses": "中国伝統医学(TCM)では血行促進の生薬「紅花(こうか)」として極めて重要。日本では高級な赤色染料「紅」の原料として歴史的に価値が高かった。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "染料",
+          "食用油",
+          "経済作物"
+        ],
+        "traditional_uses": "中世ヨーロッパでは「偽サフラン」としてサフランの安価な代替品、また織物の染料として利用された。近代以降は油糧作物としての価値が主。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ペルシャ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Tahdig (おこげご飯)",
+          "Polo (ピラフ)"
+        ],
+        "preparation_methods": [
+          "乾燥花弁を水で浸出し、着色料として使用"
+        ],
+        "cultural_context": "サフランの代替または補完として、米料理に豊かな黄金色を与えるために不可欠。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前1600年頃の古代エジプト第18王朝の墓から発見されており、4000年以上の栽培史を持つ。",
+      "trade_routes": "シルクロードや海の交易路を通じて、染料、薬、油として中東からアジア、ヨーロッパへと伝播した。",
+      "cultural_exchange": "安価なサフラン代替品として、また独特の赤色染料として、各地の食文化や織物文化に影響を与えた。",
+      "domestication_history": "野生種のCarthamus palaestinusが自生する肥沃な三日月地帯で栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿は病害（特に炭疽病）を引き起こすため不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "乾燥した冬と春に栽培されることが多い。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春に播種し、乾燥した夏に収穫するサイクルに適応。収穫期の降雨を嫌う。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "乾燥し、日照時間の長い気候を好む。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "優れた耐乾性を持ち、年間降水量300-600mmの地域で栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯・大陸性",
+        "planting_season": "早春",
+        "harvest_season": "晩夏",
+        "growing_period_days": "110-150"
+      },
+      {
+        "climate_zone": "亜熱帯（インドなど）",
+        "planting_season": "秋（雨季明け）",
+        "harvest_season": "冬の終わりから春",
+        "growing_period_days": "120-160"
+      }
+    ],
+    "productivity": {
+      "yield_range": "800 - 2,500 kg/ha (種子、灌漑条件による)",
+      "factors_affecting_yield": [
+        "播種時期",
+        "土壌水分",
+        "収穫期の天候",
+        "病害虫の発生",
+        "受粉"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約600,000 - 800,000 トン（年により変動）",
+      "major_producers": [
+        {
+          "country": "カザフスタン",
+          "production_share": 30,
+          "characteristics": "世界最大の生産国の一つ。大規模機械化栽培。"
+        },
+        {
+          "country": "インド",
+          "production_share": 20,
+          "characteristics": "伝統的な油糧作物として広範な地域で栽培。"
+        },
+        {
+          "country": "メキシコ",
+          "production_share": 15,
+          "characteristics": "主に輸出向けの油糧作物として栽培。"
+        },
+        {
+          "country": "アメリカ",
+          "production_share": 10,
+          "characteristics": "カリフォルニアなどで高オレイン酸品種が栽培される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種子（油）の栄養価データは豊富だが、花弁や葉のデータは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "884 (油)",
+        "protein_g": "16 (種子)",
+        "carbs_g": "34 (種子)",
+        "fat_g": "100 (油), 38 (種子)",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンE",
+          "amount": "34.1 mg/100g (油)",
+          "daily_value_percent": 227
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "カルタミン",
+        "concentration": "花弁に0.3-0.6%",
+        "health_effect": "強力な赤色色素、抗酸化作用"
+      },
+      {
+        "compound": "サフロールイエローA",
+        "concentration": "花弁に20-30%",
+        "health_effect": "水溶性黄色素、抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "リノール酸",
+        "concentration": "油に最大80%",
+        "health_effect": "オメガ6必須脂肪酸、血中コレステロール低下作用"
+      },
+      {
+        "compound": "オレイン酸",
+        "concentration": "油に最大80%（高オレイン酸品種）",
+        "health_effect": "オメガ9脂肪酸、心血管疾患リスク低減"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中国伝統医学 (TCM)",
+        "uses": [
+          "活血化瘀（血行促進、うっ血除去）",
+          "通経（月経促進）",
+          "心血管疾患の治療"
+        ],
+        "preparation": "乾燥した花弁を煎じ薬や丸薬として使用。"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "関節炎の緩和",
+          "解熱",
+          "下剤"
+        ],
+        "preparation": "種子油や花の煎じ薬を利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血中脂質の改善（特に高リノール酸油）",
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "神経保護作用",
+        "骨粗鬆症予防",
+        "抗がん作用"
+      ],
+      "safety_considerations": "妊娠中の使用は禁忌（子宮収縮作用のため）。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "料理利用に関する情報は世界各地の料理書や食文化研究から収集。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "中東・中央アジア",
+        "methods": [
+          "着色料"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米（ピラフ）",
+          "パン",
+          "スープ"
+        ]
+      },
+      {
+        "region": "南アジア・東南アジア",
+        "methods": [
+          "炒め物",
+          "煮物"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "若葉を他の野菜や豆と調理"
+        ]
+      },
+      {
+        "region": "世界",
+        "methods": [
+          "食用油として利用"
+        ],
+        "flavor_role": "調理媒体",
+        "typical_combinations": [
+          "サラダドレッシング",
+          "揚げ物",
+          "炒め物"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1-2年（花弁）",
+        "quality_changes": "色や香りが徐々に退色する。"
+      },
+      {
+        "method": "圧搾（油）",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年（未開封）",
+        "quality_changes": "酸化により品質が劣化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "花弁はわずかに苦味と土のような香りを持つが、風味への影響は小さい。油は非常にニュートラルな風味。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "若葉は柔らかい。乾燥花弁は料理に溶け込む。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性に関する定性的な評価は豊富だが、極端気象への耐性に関する定量データは少ない。将来予測は一般的な作物モデルからの類推を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "24-32°C",
+      "extreme_heat_survival": "40°C以上でも短期間なら耐えるが、受精障害が起こる可能性がある。",
+      "cold_tolerance": "-7°C（ロゼット期）まで耐えるが、開花期の霜害には弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い。深根性（1.5-3m）のため、土壌深層の水分を利用できる。",
+      "flood_tolerance": "低。過湿や湛水は根腐れや病害の原因となる。",
+      "optimal_rainfall": "300-600mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。茎は比較的丈夫だが、開花期の強い嵐は物理的損傷を与える。",
+      "hail_damage_recovery": "低。開花期の雹害は収量に致命的な影響を与える。",
+      "rapid_temperature_change": "中。急激な温度変化には比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。C3植物であるため、CO2濃度上昇による光合成促進効果が期待される。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高。乾燥地帯原産のため、強い紫外線への耐性を持つと考えられる。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやハエの発生時期・頻度が変化する可能性。",
+      "disease_resistance_stability": "湿度上昇により、Alternaria葉枯病などの真菌性疾患のリスクが増加する。",
+      "beneficial_organism_relationships": "花は多様な送粉者を引き寄せるため、生物多様性の高い環境では有利。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海性気候、ステップ気候、温暖冬季少雨気候の地域",
+        "2050_projection": "現在よりも高緯度・高地の半乾燥地域へ適地が拡大する可能性。",
+        "2100_projection": "多くの穀物地帯が乾燥化する中で、重要な代替作物となる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "育種に関する研究は多いが、自然環境下での交雑事例の報告は限定的。野生近縁種との交雑親和性からポテンシャルを評価。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "高オレイン酸型と高リノール酸型、有棘種と無棘種など、多様な品種間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "C. palaestinus, C. oxyacanthus, C. lanatusなどの野生種と交雑可能で、育種の遺伝資源となっている。"
+      ],
+      "intergeneric_possibility": [
+        "報告されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培地周辺で野生種との自然交雑が起こる可能性は理論的に存在するが、具体的な報告は少ない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地周辺（中東、エチオピア、インド）には多様な在来種が残存しており、形質（草型、耐病性、油分含量）の変異が大きい。",
+      "wild_gene_pool": "近縁野生種は耐病性や耐塩性、耐乾性などの有用遺伝子の供給源として極めて重要。",
+      "adaptive_genetic_variation": "高い。",
+      "inbreeding_depression_risk": "低。他家受精性（約5-40%）のため、ある程度の遺伝的多様性が維持されやすい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インドのデカン高原",
+        "environmental_pressure": "長期の乾季と不規則な降雨",
+        "adaptive_response": "強力な深根性の発達、開花時期の調整",
+        "time_scale": "数百年以上",
+        "mechanism": "地域農家による種子選抜と自然選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐塩性や極端な耐乾性を導入できる可能性が高い。",
+      "improved_nutritional_content": "油の脂肪酸組成や、花の色素含量を改良する育種が活発に行われている。",
+      "novel_characteristics": "除草剤耐性や新規の病害抵抗性の導入。",
+      "hybrid_vigor_potential": "高い。ハイブリッド品種が開発され、収量性が向上している。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部の遠縁な野生種とは交雑不和合性が存在する。",
+      "chromosome_compatibility": "栽培種と主要な近縁野生種の染色体数は同じ(2n=24)であり、交雑は比較的容易。",
+      "fertility_of_hybrids": "種間雑種の第一世代(F1)では稔性が低下することがある。",
+      "backcrossing_success": "戻し交配により、有用遺伝子を栽培種に導入する試みが成功している。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水ストレス",
+        "adaptive_traits": "深根性、クチクラ層の発達",
+        "heritability": "中程度から高い",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "植物の特性からの類推が主であり、リジェネラティブ農業システムでの実証研究はまだ少ない。ポテンシャルは高いと評価される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "非常に発達した主根（タップルート）を持ち、土壌の硬盤層を破砕する能力がある。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物の供給源となる。深い根系は地下部の炭素蓄積に貢献する。",
+      "soil_structure_improvement": "根が土壌深くにチャネルを作り、通気性や透水性を改善する。",
+      "erosion_control": "初期生育は遅いが、成長後は地面を覆い、風食や水食を軽減する。",
+      "nutrient_cycling_role": "深層土壌からリンなどの養分を吸い上げ、表層に再配分する能力がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "鮮やかな色の花は、ミツバチ、マルハナバチ、アブなど多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "天敵昆虫（テントウムシ、寄生バチなど）の生息地や蜜源となる。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用に関する研究は発展途上。",
+      "above_ground_biodiversity": "不耕起栽培や輪作体系に組み込むことで、農地の生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る孔隙により、降雨の土壌浸透が促進される。",
+      "moisture_retention": "土壌構造の改善を通じて、間接的に土壌の保水性を高める可能性がある。",
+      "runoff_reduction": "地表被覆により、表面流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。",
+      "below_ground_carbon": "高い。深根性のため、安定的な土壌炭素として地下深くに炭素を蓄積するポテンシャルが高い。",
+      "soil_carbon_enhancement": "高い可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）、穀物（輪作体系での病害虫サイクル遮断）"
+      ],
+      "natural_pest_control": "有益昆虫を誘引することで、アブラムシなどの害虫を抑制する可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "限定的、または不明。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "乾燥地帯の輪作体系に組み込むことで、システムの安定性を向上させる。",
+      "stress_tolerance": "高い耐乾性により、気候変動下での農業生産の安定化に貢献する。",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場データ、健康食品トレンド、産業利用に関する報告書に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高オレイン酸油は健康的な植物性脂肪源として価値が高い。",
+      "food_security_contribution": "乾燥・半乾燥の限界地での栽培が可能であり、地域の食料安全保障（特に食用油）に貢献する。",
+      "local_food_system_integration": "小規模農家でも栽培可能で、地域の油糧自給や収入源となりうる。",
+      "alternative_protein_potential": "搾油後の種子粕は、家畜飼料や植物性プロテイン源としての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の食用油市場",
+        "自然着色料市場",
+        "機能性食品・サプリメント市場"
+      ],
+      "value_added_products": [
+        "高オレイン酸サフラワー油",
+        "カルタミン色素",
+        "紅花茶",
+        "化粧品原料"
+      ],
+      "niche_market_value": "伝統的な赤色染料としての価値が、文化的な体験や持続可能な製品として再評価されている。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の保全状況は gene bank の報告に基づくが、在来種の文化的消失リスクの評価は定性的なもの。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "近縁野生種の自生地が、農地開発や過放牧により脅かされている。",
+    "climate_change_vulnerability": "栽培種自体の脆弱性は低いが、野生種の生息地は気候変動の影響を受ける可能性がある。",
+    "cultural_erosion_risk": "高。合成染料の普及により、伝統的な染料としての利用知識が失われつつある。",
+    "conservation_actions_needed": [
+      "在来種のオンファーム（農家による）保全の支援",
+      "野生近縁種の自生地（インサイチュ）保全",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "中東",
+      "エチオピア",
+      "中央アジア"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（例：米国農務省、ICARDA）には多数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "限定的であり、更なる取り組みが必要。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "エチオピアの在来種と栽培システム",
+      "中央アジアにおける伝統的利用法",
+      "野生近縁種の生態と遺伝的多様性"
+    ],
+    "knowledge_gaps": [
+      "リジェネラティブ農業システムにおける土壌改良効果の定量的評価",
+      "花弁に含まれる機能性成分の品種間差異と健康効果",
+      "気候変動シナリオ下での送粉者との相互作用の変化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "商業品種の情報は豊富だが、伝統的な在来種の体系的な情報は少ない。"
+      },
+      "variety_name": "NARI-6",
+      "local_name": "NARI-6",
+      "origin_region": "インド",
+      "distinctive_characteristics": "無棘で手作業での収穫が容易。高い種子収量と油分含量を持つ。アブラムシへの耐性がある。",
+      "cultural_importance": "インドの近代育種における重要な品種の一つ。",
+      "climate_adaptation": "インドの半乾燥地帯の気候に適応している。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "商業品種の情報は豊富だが、伝統的な在来種の体系的な情報は少ない。"
+      },
+      "variety_name": "Centennial",
+      "local_name": "Centennial",
+      "origin_region": "アメリカ",
+      "distinctive_characteristics": "無棘の品種。種子収量が高い。",
+      "cultural_importance": "北米での機械化栽培を容易にした品種。",
+      "climate_adaptation": "アメリカ西部の乾燥地帯に適応。",
+      "conservation_status": "広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "GRIN-Global Taxonomy Database",
+      "Journal of Ethnopharmacology",
+      "Field Crops Research"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "伝統的薬用利用の薬理学的メカニズム"
+    ],
+    "regional_data_coverage": "北米、南アジア、ヨーロッパのデータは比較的豊富。中央アジア、アフリカのデータは限定的。",
+    "missing_information": [
+      "土壌微生物との相互作用",
+      "品種ごとの詳細な栄養成分プロファイル"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

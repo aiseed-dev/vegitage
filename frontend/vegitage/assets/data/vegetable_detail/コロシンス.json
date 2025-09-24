@@ -1,0 +1,608 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew Gardens, GRIN-Global）および民族植物学の文献から統合。野生種との関係は明確。"
+    },
+    "primary_name": "Colocynth",
+    "scientific_name": "Citrullus colocynthis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "種子",
+      "果実"
+    ],
+    "origin_region": "地中海沿岸およびアジアの乾燥・半乾燥地域",
+    "wild_relatives": [
+      "Citrullus lanatus (スイカ)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な言語での名称は広く記録されている。先住民コミュニティ固有の名称に関するデータは限定的。"
+    },
+    "international": {
+      "en": [
+        "Colocynth",
+        "Bitter apple",
+        "Bitter cucumber",
+        "Desert gourd",
+        "Vine of Sodom"
+      ],
+      "scientific_common": "Colocynth"
+    },
+    "regional": [
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "حنظل (Hanzal)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "he",
+            "name": "אבטיח הפקועה (Avatiach Hapekua)",
+            "script": "Hebrew"
+          }
+        ]
+      },
+      {
+        "region": "北アフリカ",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "العلقم (Alqam)",
+            "script": "Arabic"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "इंद्रायण (Indrayan)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "sa",
+            "name": "इन्द्रवारुणी (Indravaruni)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ur",
+            "name": "اندرائن (Indrayan)",
+            "script": "Arabic"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "サハラ地域の遊牧民（例：トゥアレグ族）",
+        "name": "不明",
+        "cultural_significance": "家畜および人間のための伝統的な下剤として利用されるが、特定の伝統名は文献で確認困難。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Watermelon",
+      "la": "Citrullus"
+    },
+    "species": {
+      "en": "Colocynth",
+      "la": "colocynthis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史的文献、聖書、コーラン、アーユルヴェーダの古典に記述があり、文化的重要性は非常に高い。食文化としての価値は低い。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "中東・北アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "非常に強力な下剤として伝統医学で広く利用。ラクダの病気の治療にも用いられる。その極端な苦さから、裏切りや苦難の象徴として文学や宗教文書に登場する。",
+        "seasonal_significance": "乾燥期の重要な薬草資源",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "アーユルヴェーダ医学において「インドラヴァルニ」として知られ、便秘、黄疸、リウマチなどの治療に用いられる重要な生薬。果実の根や粉末が利用される。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "サハラ・サヘル地域の食文化",
+        "role": "rare",
+        "traditional_dishes": [
+          "Roasted seeds"
+        ],
+        "preparation_methods": [
+          "種子を果肉から分離し、苦味と毒性を除くために繰り返し煮沸・洗浄後、焙煎または製粉して利用する。"
+        ],
+        "cultural_context": "主に救荒食物として、またはタンパク質と油分の供給源として限定的に利用される。果肉は食用ではない。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト、ギリシャ、ローマ時代から薬用植物として知られ、パピルスや大プリニウスの『博物誌』に記載がある。聖書にも「野性のひょうたん」として登場する。",
+      "trade_routes": "古代より地中海および中東の交易路を通じて、乾燥させた果実が薬として取引されていた。",
+      "cultural_exchange": "イスラム医学の発展と共に、その薬効知識がヨーロッパやアジアに広まった。",
+      "domestication_history": "明確な栽培化の歴史は不明。主に野生または半野生の状態で利用されてきたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "乾季のある熱帯地域に適応。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高温・乾燥の亜熱帯気候に最適。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱く、温帯での越冬は困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さが厳しいため不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "原産地であり、極度の乾燥と高温に耐える。年間降水量250mm以下でも生育可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "乾燥地・亜熱帯",
+        "planting_season": "春の雨季の始まり",
+        "harvest_season": "夏から秋",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "降雨量",
+        "受粉の成功率",
+        "土壌の排水性"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "スーダン",
+          "production_share": null,
+          "characteristics": "主に野生採取"
+        },
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "野生採取および小規模栽培（薬用）"
+        },
+        {
+          "country": "エジプト",
+          "production_share": null,
+          "characteristics": "野生採取"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種子の栄養価に関するデータは存在するが、果肉は毒性が高く食用ではない。薬効成分に関する研究は多いが、臨床応用は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約550-600 (種子)",
+        "protein_g": "約25-30 (種子)",
+        "carbs_g": "約8-12 (種子)",
+        "fat_g": "約45-50 (種子)",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "Linoleic acid (Omega-6)",
+          "amount": "種子油の60-70%",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "Cucurbitacins (E, I, B, etc.)",
+        "concentration": "果肉に高濃度",
+        "health_effect": "強力な細胞毒性、抗炎症作用、下剤作用。抗がん・抗糖尿病作用が研究されている。"
+      },
+      {
+        "compound": "Flavonoids and Phenolic acids",
+        "concentration": "果実全体",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中東・北アフリカ",
+        "medical_system": "伝統アラブ・イスラム医学",
+        "uses": [
+          "強力な下剤",
+          "堕胎薬",
+          "抗リウマチ薬",
+          "糖尿病治療"
+        ],
+        "preparation": "乾燥させた果実の粉末を少量経口摂取、または湿布として外用。"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "便秘解消",
+          "肝臓疾患",
+          "腹水",
+          "関節痛"
+        ],
+        "preparation": "根や果実の粉末、煎じ薬、または他のハーブと調合した製剤。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗がん作用（特に乳がん、前立腺がん細胞株）",
+        "血糖降下作用",
+        "抗炎症作用",
+        "殺虫・抗菌作用"
+      ],
+      "safety_considerations": "ククルビタシンは毒性が非常に高く、過剰摂取は致命的。腎不全、消化管出血を引き起こす。妊婦や授乳中の女性は禁忌。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用としての利用は極めて限定的で、救荒食としての位置づけ。文献は少ない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "サハラ砂漠周辺",
+        "methods": [
+          "焙煎（種子）",
+          "煮沸（種子）",
+          "製粉（種子）"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "穀物（クスクス、ミレット）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "中東",
+          "北アフリカ",
+          "南アジア"
+        ],
+        "shelf_life": "数年間（薬用果実）",
+        "quality_changes": "有効成分は長期間保持される。"
+      },
+      {
+        "method": "デビタリング（脱苦味処理）",
+        "regions": [
+          "サハラ砂漠周辺"
+        ],
+        "shelf_life": "不明",
+        "quality_changes": "種子を食用にするために、複数回の煮沸と水洗いで苦味成分と毒性物質を除去する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "果肉：極めて強烈な苦味。種子（処理後）：ナッツのような風味、やや淡白。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "果肉：スポンジ状。種子（焙煎後）：カリカリとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述や生態学的特性は豊富だが、気候変動シナリオ下での応答に関する定量的な実験データは少ない。ポテンシャルは非常に高いと推定される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-40°C",
+      "extreme_heat_survival": "45°C以上でも生存可能",
+      "cold_tolerance": "0°C以下で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "非常に高い。深い主根と広範な側根により効率的に水分を吸収。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "150-300mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地面を這うため、強風による倒伏のリスクは低い。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "高い適応性を持つと推定される。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。C3植物として、限定的な効果が期待される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "その毒性から多くの草食動物や昆虫を忌避する。温暖化による新規害虫への耐性は不明。",
+      "disease_resistance_stability": "スイカの重要病害（フザリウム萎凋病など）に対する抵抗性を持つことが知られている。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "サハラ、中東、インド北西部の乾燥・半乾燥地域",
+        "2050_projection": "現在の適地が拡大し、地中海沿岸のより広範な地域や他大陸の乾燥地域も適地となる可能性がある。",
+        "2100_projection": "砂漠化が進行する地域でさらに分布域が拡大する可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "スイカとの交雑親和性は育種学において十分に確立されており、多くの研究が存在する。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地理的に隔離された多様な野生集団が存在し、種内交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Citrullus lanatus (スイカ)"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": "自然環境下でのスイカとの交雑も報告されているが、人為的な交配が主。"
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "主に野生種であるため、栽培品種（ランドレース）は稀。しかし、地域集団間に高い遺伝的多様性が存在する。",
+      "wild_gene_pool": "本種自体が重要な野生遺伝子プールであり、スイカの改良に利用される。",
+      "adaptive_genetic_variation": "異なる乾燥・塩性環境に適応した多様な遺伝子型が存在する。",
+      "inbreeding_depression_risk": "低い"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "サハラ砂漠",
+        "environmental_pressure": "極度の乾燥、高温、高い日射",
+        "adaptive_response": "深い主根系、クチクラ層が厚い葉、苦味成分による草食動物からの防御",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による適応進化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "スイカに耐乾性・耐暑性を付与する遺伝子源として非常に有望。",
+      "improved_nutritional_content": "種子の高い油分やタンパク質含量を他のウリ科作物に導入する可能性。",
+      "novel_characteristics": "病害虫抵抗性（特に土壌伝染性病害）を付与する。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "スイカとの間では比較的低い。",
+      "chromosome_compatibility": "スイカと同じ2n=22であり、適合性は高い。",
+      "fertility_of_hybrids": "F1雑種は稔性を持つことが多い。",
+      "backcrossing_success": "戻し交配により、有用形質をスイカに導入する育種が成功している。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水ストレス",
+        "adaptive_traits": "根系の発達、気孔制御",
+        "heritability": "高いと推定",
+        "response_to_selection": "迅速"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種をリジェネラティブ農業システムに組み込んだ研究はほぼ存在しない。評価は植物の生態学的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "非常に深い主根（数メートルに達する）と広範な側根を持ち、土壌の硬盤を破砕し、深層の養分を地表に循環させる可能性がある。",
+      "organic_matter_contribution": "地上部のバイオマスは限定的だが、広範な根系が枯死後に土壌有機物を供給する。",
+      "soil_structure_improvement": "根による土壌団粒化の促進。",
+      "erosion_control": "地面を広く覆うため、風食・水食を効果的に抑制する可能性がある。",
+      "nutrient_cycling_role": "深層からの養分吸収能力。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの地域の花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "その毒性により、多くの大型草食動物を排除し、特定の耐性を持つ昆虫相を形成する可能性がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が土壌に亀裂を入れることで水の浸透を助ける可能性がある。",
+      "moisture_retention": "地上部がマルチング効果を持ち、土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "匍匐性の茎葉が地表流を遅くする。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "深い根系を持つため、地下部への炭素蓄積ポテンシャルが高い可能性がある。",
+      "soil_carbon_enhancement": "根の分解を通じて土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": "不明",
+      "natural_pest_control": "その忌避成分により、線虫や他の土壌害虫を抑制する可能性がある（アレロパシー）。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "強いアレロパシー効果を持つ可能性が示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "乾燥地での緑化や土地被覆に貢献し、システムの安定性を高める可能性がある。",
+      "stress_tolerance": "極めて高い",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "医薬品や育種素材としてのポテンシャルは高いが、商業的製品化はまだ限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "種子はタンパク質と良質な油の供給源となりうるが、毒性除去プロセスが課題。",
+      "food_security_contribution": "気候変動で農地が限界化する地域での作物生産（特にスイカの台木として）に貢献できる。",
+      "local_food_system_integration": "伝統的知識を持つコミュニティでのみ、限定的な食料・薬品として統合されている。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "医薬品（抗がん剤、抗糖尿病薬）の原料",
+        "天然由来の殺虫剤・殺鼠剤",
+        "スイカの耐乾性台木としての商業生産"
+      ],
+      "value_added_products": [
+        "ククルビタシン抽出物",
+        "種子油（化粧品または工業用）"
+      ],
+      "niche_market_value": "薬用ハーブ市場、および農業資材（台木）市場で高いニッチ価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでは評価されていないが、地域レベルでの脅威は存在する。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "砂漠化の進行は生息域を広げる可能性がある一方、過放牧や都市開発による生息地の破壊が脅威となる地域もある。",
+    "climate_change_vulnerability": "低い",
+    "cultural_erosion_risk": "高。伝統的な薬用知識が失われつつあり、それに伴い植物への関心も薄れている。",
+    "conservation_actions_needed": [
+      "遺伝的多様性の評価とジーンバンクでの系統的収集・保存（ex-situ）",
+      "伝統的知識の記録と保全",
+      "持続可能な収穫方法の確立と普及"
+    ],
+    "priority_conservation_regions": [
+      "異なる生態環境に適応した地域個体群（エコタイプ）が存在するサヘル地域、アラビア半島、インド・タール砂漠"
+    ],
+    "ex_situ_conservation_status": "いくつかの主要なジーンバンク（例：ICARDA、米農務省）に種子サンプルが保存されている。",
+    "in_situ_conservation_efforts": "特定の保護区内での自生個体群の保護が行われているが、本種を対象とした積極的な域内保全プログラムは稀。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、収集された情報に基づく専門家としての総合的判断。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "サハラ・サヘル地域",
+      "アラビア半島",
+      "インド・パキスタンの乾燥地帯"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオに対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な役割と相互作用",
+      "地域集団間の遺伝的多様性と適応形質の詳細なマッピング"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "C. colocynthisは主に野生種であり、明確に定義された栽培品種やランドレースはほとんど存在しない。以下は地理的変異に基づく仮説的な記述。"
+      },
+      "variety_name": "北アフリカ系統",
+      "local_name": "Hanzal / Alqam",
+      "origin_region": "北アフリカ（サハラ砂漠）",
+      "distinctive_characteristics": "極度の乾燥と高温への高い耐性。果実が比較的小さい傾向がある可能性がある。",
+      "cultural_importance": "伝統医学での利用が非常に重要。",
+      "climate_adaptation": "極度の乾燥気候に特化。",
+      "conservation_status": "未評価"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "C. colocynthisは主に野生種であり、明確に定義された栽培品種やランドレースはほとんど存在しない。以下は地理的変異に基づく仮説的な記述。"
+      },
+      "variety_name": "南アジア系統",
+      "local_name": "Indrayan",
+      "origin_region": "インド・パキスタン（タール砂漠）",
+      "distinctive_characteristics": "モンスーン気候下の半乾燥地に適応。特定の病害虫への耐性が異なる可能性がある。",
+      "cultural_importance": "アーユルヴェーダにおける重要な薬草。",
+      "climate_adaptation": "季節的な降雨がある半乾燥気候に適応。",
+      "conservation_status": "未評価"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Science - Plants of the World Online",
+      "USDA GRIN Global",
+      "Journal of Ethnopharmacology",
+      "Journal of Arid Environments"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "食用利用のための安全な毒性除去技術"
+    ],
+    "regional_data_coverage": "中東、北アフリカ、南アジアは比較的豊富。サハラ以南のアフリカは限定的。",
+    "missing_information": [
+      "商業生産に関する統計データ",
+      "先住民コミュニティによる詳細な利用法と名称"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

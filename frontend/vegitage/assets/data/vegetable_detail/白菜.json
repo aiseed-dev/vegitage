@@ -1,0 +1,681 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（KEW, GRIN）および農学文献から統合。野生近縁種との正確な系統関係は現在も研究対象。"
+    },
+    "primary_name": "Napa Cabbage",
+    "scientific_name": "Brassica rapa subsp. pekinensis",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉"
+    ],
+    "origin_region": "中国",
+    "wild_relatives": [
+      "Brassica rapa var. sylvestris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各国の農産物データベースおよび言語資料に基づく。先住民固有の名称は、栽培作物としての歴史が比較的新しいため該当例は少ない。"
+    },
+    "international": {
+      "en": [
+        "Napa cabbage",
+        "Chinese cabbage",
+        "Peking cabbage"
+      ],
+      "scientific_common": "Pekinensis Group"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "大白菜",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "ハクサイ",
+            "script": "Kana"
+          },
+          {
+            "lang": "ko",
+            "name": "배추",
+            "script": "Hang"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Cải thảo",
+            "script": "Latn"
+          },
+          {
+            "lang": "th",
+            "name": "ผักกาดขาวปลี",
+            "script": "Thai"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Chinakohl",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Chou de Pékin",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Cabbage",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Field mustard",
+      "la": "Brassica rapa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "pekinensis"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアの食文化史に関する文献は豊富。他地域での重要性は比較的新しく、文化的位置づけは発展途上。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食的野菜",
+          "副菜",
+          "保存食",
+          "経済作物"
+        ],
+        "traditional_uses": "中国では炒め物、スープ、餃子の具として不可欠。韓国ではキムチの主原料であり、国民食の根幹をなす。日本では鍋物や漬物として冬の食卓に欠かせない。",
+        "seasonal_significance": "秋から冬にかけての主要野菜。特に越冬用の保存食として歴史的に重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "主にアジア系移民のコミュニティで消費されるほか、サラダやコールスローの材料として一般的に利用される。伝統的な位置づけは弱い。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "韓国料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "キムチ",
+          "ペチュジョン（白菜チヂミ）",
+          "ペチュクク（白菜スープ）"
+        ],
+        "preparation_methods": [
+          "発酵",
+          "塩漬け",
+          "煮込み"
+        ],
+        "cultural_context": "キムチ作り（キムジャン文化）はユネスコ無形文化遺産に登録されており、共同体の絆を強める重要な社会的行事。"
+      },
+      {
+        "cuisine": "中国北部料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "酸菜（白菜の漬物）",
+          "餃子",
+          "火鍋"
+        ],
+        "preparation_methods": [
+          "炒め",
+          "煮込み",
+          "漬物"
+        ],
+        "cultural_context": "冬の間の主要な野菜供給源として歴史的に重要。特に酸菜は厳しい冬を乗り越えるための知恵の結晶。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "鍋物",
+          "白菜漬け",
+          "八宝菜"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "漬物",
+          "炒め"
+        ],
+        "cultural_context": "冬の家庭料理の象徴。特に「鍋を囲む」という日本の食文化において中心的な役割を果たす。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "15世紀の中国（明代）で栽培化された比較的新しい野菜。それ以前の原種（カブなど）の歴史は古い。",
+      "trade_routes": "19世紀後半から20世紀にかけて、中国人移民と共に世界各地へ伝播。",
+      "cultural_exchange": "キムチの世界的な普及などを通じて、東アジアの食文化を代表するアイコンとなっている。",
+      "domestication_history": "中国華北地方で、非結球性の近縁種から選抜育種されて成立したと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、平地での商業栽培は困難。高冷地では可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の冷涼な気候を利用して栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育適温は15-20℃。春と秋の栽培が最も適している。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な夏を利用した栽培が可能。霜に当たると甘みが増す。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "多量の水分を要求するため、灌漑設備がなければ栽培は困難。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "夏の冷涼な気候を利用した「夏どり栽培」が可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩夏～初秋",
+        "harvest_season": "晩秋～冬",
+        "growing_period_days": "60-90"
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春",
+        "harvest_season": "晩春～初夏",
+        "growing_period_days": "50-70"
+      }
+    ],
+    "productivity": {
+      "yield_range": "40,000 - 80,000 kg/ha",
+      "factors_affecting_yield": [
+        "気温（高温による抽苔）",
+        "水分供給",
+        "土壌肥沃度",
+        "病害虫（根こぶ病、軟腐病）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 70,
+          "characteristics": "世界最大の生産国であり消費国。多様な品種が国内各地で栽培されている。"
+        },
+        {
+          "country": "韓国",
+          "production_share": 10,
+          "characteristics": "キムチ用の品種が中心。国内消費が主だが、キムチとして輸出される。"
+        },
+        {
+          "country": "日本",
+          "production_share": 5,
+          "characteristics": "国内消費が主。季節ごとに産地をリレーする周年供給体制が確立している。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "13",
+        "protein_g": "1.2",
+        "carbs_g": "2.2",
+        "fat_g": "0.2",
+        "fiber_g": "1.2"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "42.9 µg",
+          "daily_value_percent": "36"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "27 mg",
+          "daily_value_percent": "30"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "66 µg",
+          "daily_value_percent": "17"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート",
+        "concentration": "可変",
+        "health_effect": "体内でイソチオシアネートに変換され、抗酸化作用や抗がん作用の可能性が研究されている。"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "清熱（体の熱を冷ます）",
+          "利尿",
+          "整腸"
+        ],
+        "preparation": "スープやおかゆとして摂取。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "低カロリーで満腹感を得やすいため、体重管理に有益"
+      ],
+      "ongoing_research": [
+        "グルコシノレートの含有量とがん予防効果の関係"
+      ],
+      "safety_considerations": "ビタミンKを多く含むため、抗凝固薬（ワルファリンなど）を服用している場合は摂取量に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本や食文化研究から多様な利用法が確認できる。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "発酵",
+          "炒め",
+          "煮込み",
+          "蒸し",
+          "漬物"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豚肉",
+          "唐辛子",
+          "ニンニク",
+          "生姜",
+          "シーフード"
+        ]
+      },
+      {
+        "region": "北米・ヨーロッパ",
+        "methods": [
+          "生食（サラダ）",
+          "炒め",
+          "グリル"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ドレッシング",
+          "鶏肉",
+          "他の葉物野菜"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乳酸発酵",
+        "regions": [
+          "韓国（キムチ）",
+          "中国（酸菜）"
+        ],
+        "shelf_life": "数ヶ月～1年以上",
+        "quality_changes": "酸味と旨味が増加。ビタミン類が増加し、プロバイオティクスが豊富になる。"
+      },
+      {
+        "method": "塩漬け",
+        "regions": [
+          "日本（白菜漬け）"
+        ],
+        "shelf_life": "数週間～数ヶ月",
+        "quality_changes": "食感が向上し、保存性が高まる。浅漬けから古漬けまで熟成度合いで風味が変化。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "中国"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "水分が抜け、風味が凝縮される。水で戻してスープや煮物に使用。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生ではほのかな甘みと瑞々しさ、かすかな辛味。加熱すると甘みが増し、柔らかくなる。",
+      "aroma_compounds": [
+        "ジメチルスルフィド（加熱時のキャベツ様の香り）",
+        "イソチオシアネート類（かすかな辛味成分）"
+      ],
+      "texture_characteristics": "生の芯の部分はシャキシャキと歯切れが良い。葉の部分は柔らかい。加熱すると全体がとろけるように柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、品種レベルでの定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、精度は低い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30℃以上が続くと生育不良や病害が発生し、結球しない。",
+      "cold_tolerance": "-5°C（軽度の霜は甘みを増すが、強い霜は組織を破壊する）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。葉からの蒸散が多く、多量の水分を必要とする。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "栽培期間中に700-800mm相当の均一な水分供給が必要"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い。強風や豪雨で葉が傷つきやすい。",
+      "hail_damage_recovery": "低い。葉が広いため被害を受けやすく、回復は困難。",
+      "rapid_temperature_change": "低い。急激な高温は抽苔（トウ立ち）を誘発する。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。CO2濃度上昇による光合成促進の可能性があるが、高温ストレスがそれを上回る可能性が高い。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやコナガなどの害虫の発生期間が長期化し、被害が増加するリスクがある。",
+      "disease_resistance_stability": "高温多湿は軟腐病などの細菌性疾患の発生を助長するため、抵抗性の安定性が低下する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域全般",
+        "2050_projection": "現在の栽培適地の南限が北上し、高緯度地域や高標高地域での栽培可能性が拡大する。",
+        "2100_projection": "温帯低地での秋作が困難になる地域が増加する可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Brassica rapa種内の交雑親和性に関する情報は豊富。自然環境下での適応事例に関する具体的な記録は少ないが、遺伝的多様性からのポテンシャルは高い。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "カブ (B. rapa subsp. rapa)",
+        "チンゲンサイ (B. rapa subsp. chinensis)",
+        "コマツナ (B. rapa var. perviridis)"
+      ],
+      "interspecific_compatibility": [
+        "セイヨウアブラナ (Brassica napus) とは交雑しにくい（染色体数が異なるため）"
+      ],
+      "intergeneric_possibility": [
+        "ほとんどない"
+      ],
+      "successful_natural_hybrids": [
+        "畑で他のアブラナ科アブラナ属の作物（カブ、コマツナなど）と容易に交雑する事例が知られている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地の中国を中心に多様な在来品種が存在するが、F1品種の普及により減少傾向にある。",
+      "wild_gene_pool": "野生種のB. rapa var. sylvestrisとの遺伝子流動の可能性がある。",
+      "adaptive_genetic_variation": "種として（B. rapa全体として）は、耐病性、耐乾性、耐暑性に関する多様な遺伝資源が存在する。",
+      "inbreeding_depression_risk": "自家不和合性を持つため、他家受粉が基本であり、近交弱勢のリスクは比較的低い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他のB. rapa亜種（例：耐暑性のある在来種）との交雑により、耐暑性や耐病性を向上させる高いポテンシャルがある。",
+      "improved_nutritional_content": "近縁種が持つ高濃度の機能性成分（グルコシノレートなど）を導入できる可能性がある。",
+      "novel_characteristics": "結球しない、あるいは新しい形状の葉を持つ品種の作出が可能。",
+      "hybrid_vigor_potential": "亜種間の交雑により、生育旺盛な雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "B. rapa種内では交雑障壁はほとんどない。",
+      "chromosome_compatibility": "B. rapaは2n=20であり、同じ染色体数を持つ亜種間では適合性が高い。",
+      "fertility_of_hybrids": "種内雑種は通常、高い稔性を持つ。",
+      "backcrossing_success": "戻し交配は容易であり、育種の基本的な手法として用いられる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "高温",
+        "adaptive_traits": "抽苔の遅延、結球性の維持",
+        "heritability": "中程度",
+        "response_to_selection": "選抜による耐暑性品種の育成は可能。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "白菜自体を対象としたリジェネラティブ農業の研究は限定的。評価はアブラナ科作物の一般的特性からの類推を多く含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い根系（主根は深いが、吸収根は表層に多い）。",
+      "organic_matter_contribution": "収穫後の残渣が多く、すき込むことで土壌有機物を供給できる（中程度）。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "生育初期は土壌被覆率が低いが、結球期には地上部が土壌を覆い、雨滴による侵食をある程度防ぐ。",
+      "nutrient_cycling_role": "養分吸収量が大きい「収奪型」の作物。ただし、緑肥として利用した場合は土壌に養分を還元できる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期にはミツバチなどの花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根こぶ病菌など特定の病原菌を増やすリスクがあるため、連作を避ける必要がある。",
+      "above_ground_biodiversity": "限定的。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "地上部によるマルチング効果で、土壌表面の水分蒸発を抑制する。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度（一年草として）。",
+      "below_ground_carbon": "低い。",
+      "soil_carbon_enhancement": "残渣のすき込みによる一時的な効果はあるが、永続的な炭素貯留への貢献は小さい。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科（窒素供給）",
+        "セリ科（コンパニオンプランツ）",
+        "キク科（レタスなど、害虫忌避）"
+      ],
+      "natural_pest_control": "カモミールやミントなどの芳香植物を混植することで、アブラムシなどの害虫を忌避する効果が報告されている。",
+      "nutrient_sharing": "限定的。",
+      "allelopathic_interactions": "アブラナ科作物はアレロパシー物質を放出することが知られているが、白菜における具体的な効果は不明。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "単作では病害虫のリスクが高く不安定。輪作や混植体系に組み込むことで安定性が向上する。",
+      "stress_tolerance": "低い。",
+      "recovery_capacity": "低い。",
+      "adaptability": "品種レベルでは多様だが、作物単体としては低い。"
+    },
+    "regenerative_score": 4
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界的な食品市場と健康トレンドに関する情報に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーで栄養価が高く、植物中心の食生活において重要な役割を果たす。",
+      "food_security_contribution": "単位面積当たりの収量が高く、栽培期間も比較的短いため、特に東アジアの食料安全保障に大きく貢献している。",
+      "local_food_system_integration": "世界各地で地域生産・地域消費されており、地産地消に適した作物。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "カット野菜やサラダキットとしての需要拡大",
+        "キムチなど発酵食品の健康価値に着目したグローバル市場の成長"
+      ],
+      "value_added_products": [
+        "キムチ",
+        "漬物",
+        "冷凍食品（餃子など）",
+        "乾燥野菜"
+      ],
+      "niche_market_value": "特定の料理（高級中華、本格韓国料理など）向けの高品質な品種にはニッチな価値がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源に関する報告書に基づくが、在来種の消失速度に関する正確なデータは不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "栽培植物であるため、直接的な生息地喪失の脅威はない。しかし、原産地周辺での都市化や農業近代化が在来種の栽培放棄につながっている。",
+    "climate_change_vulnerability": "高",
+    "cultural_erosion_risk": "中。伝統的な自家採種や種子交換の文化が、商業的なF1種子の普及によって失われつつある。",
+    "conservation_actions_needed": [
+      "原産地（中国）における在来種の探索と収集",
+      "ジーンバンクでの種子保存（域外保全）",
+      "農家による在来種の栽培維持支援（域内保全）",
+      "耐暑性などの有用形質を持つ在来種の特性評価"
+    ],
+    "priority_conservation_regions": [
+      "中国華北・東北地方",
+      "朝鮮半島"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンク（世界野菜センターなど）には多数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域で、伝統野菜として在来種の保全・振興活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロンプトで収集した情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "中国（遺伝的多様性の中心地）",
+      "韓国（発酵文化と品種の特化）",
+      "気候変動の影響を強く受ける亜熱帯地域"
+    ],
+    "knowledge_gaps": [
+      "多様な在来品種の耐暑性・耐乾性に関する定量的データ",
+      "気候変動シナリオ下での病害虫発生パターンの変化予測",
+      "リジェネラティブな栽培体系における白菜の役割と土壌への影響"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は多岐にわたるため、代表的なタイプを記載。"
+      },
+      "variety_name": "Chee-Foo (芝罘)",
+      "local_name": "芝罘白菜",
+      "origin_region": "中国山東省",
+      "distinctive_characteristics": "大型で固く結球する。葉は肉厚で甘みが強い。耐寒性があり、貯蔵性に優れる。",
+      "cultural_importance": "伝統的な結球白菜の代表格。多くの交配親として利用されてきた歴史がある。",
+      "climate_adaptation": "耐寒性に優れるが、耐暑性は低い。",
+      "conservation_status": "多くの改良品種の元となっているが、純粋な在来種は減少。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は多岐にわたるため、代表的なタイプを記載。"
+      },
+      "variety_name": "Michihli",
+      "local_name": "不明",
+      "origin_region": "中国北部",
+      "distinctive_characteristics": "細長く、背が高い円筒形の結球（半結球）。葉は柔らかい。生育期間が比較的短い。",
+      "cultural_importance": "欧米で「Chinese Cabbage」として広く知られるようになった品種タイプ。",
+      "climate_adaptation": "結球タイプよりやや耐暑性があるとされる。",
+      "conservation_status": "商業的に広く栽培。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Vegetable Center (AVRDC) databases",
+      "FAOSTAT",
+      "Ethnobotanical and agroecological academic journals",
+      "Genetic Resources and Crop Evolution (Journal)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答の定量的データ",
+      "野生近縁種との自然交雑の実態"
+    ],
+    "regional_data_coverage": "東アジアに関する情報は豊富だが、他の地域での適応や利用に関する学術的データは限定的。",
+    "missing_information": [
+      "先住民コミュニティによる伝統的利用法（該当例が少ないため）",
+      "オゾンや紫外線など大気汚染物質への感受性データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

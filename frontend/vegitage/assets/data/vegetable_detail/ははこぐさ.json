@@ -1,0 +1,565 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（GBIF, POWO）から統合。野生近縁種に関する詳細な遺伝的関係性のデータは限定的。"
+    },
+    "primary_name": "Jersey Cudweed",
+    "scientific_name": "Pseudognaphalium affine",
+    "plant_type": "一年草/越年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "東アジア、東南アジア、南アジア",
+    "wild_relatives": [
+      "Gnaphalium uliginosum",
+      "Pseudognaphalium luteoalbum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアにおける名称は文献で広く確認されている。他の地域での現地名は限定的。"
+    },
+    "international": {
+      "en": [
+        "Jersey Cudweed",
+        "Cotton weed",
+        "Sweet everlasting"
+      ],
+      "scientific_common": "Cudweed"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ハハコグサ (Hahakogusa), 御形 (Gogyō)",
+            "script": "漢字・カタカナ"
+          },
+          {
+            "lang": "zh",
+            "name": "鼠麴草 (Shǔ qū cǎo)",
+            "script": "繁体字/簡体字"
+          },
+          {
+            "lang": "ko",
+            "name": "떡쑥 (Tteokssuk)",
+            "script": "ハングル"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Rau khúc",
+            "script": "ラテン文字"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、POWO (Plants of the World Online) の情報を参照。"
+    },
+    "family": {
+      "en": "Daisy family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Cudweed",
+      "la": "Pseudognaphalium"
+    },
+    "species": {
+      "en": "Jersey Cudweed",
+      "la": "affine"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "東アジアでの文化的価値は歴史的文献から豊富に得られるが、他地域での利用に関する体系的データは少ない。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "日本では春の七草の一つ「御形」として粥に、また草餅の材料として利用される。中国や台湾では清明節に「草仔粿」という餅菓子を作るのに不可欠な食材。韓国やベトナムでも同様に餅類の材料として利用される。",
+        "seasonal_significance": "春の訪れを象徴する重要な季節食材。特に日本の人日（1月7日）や中国の清明節と強く結びついている。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本の伝統食",
+        "role": "essential",
+        "traditional_dishes": [
+          "七草粥 (Nanakusa-gayu)",
+          "草餅 (Kusa mochi)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "刻む",
+          "餅に練り込む"
+        ],
+        "cultural_context": "無病息災を願う正月の行事食に不可欠。ただし現代の草餅は、より入手しやすく香りの強いヨモギで代用されることが多く、本来のハハコグサの利用は減少傾向にある。"
+      },
+      {
+        "cuisine": "中国・台湾の伝統食",
+        "role": "essential",
+        "traditional_dishes": [
+          "草仔粿 (Cǎo zǐ guǒ)",
+          "鼠麴粿 (Shǔ qū guǒ)"
+        ],
+        "preparation_methods": [
+          "茹でてペースト状にする",
+          "米粉と混ぜて生地にする"
+        ],
+        "cultural_context": "清明節に祖先を敬うための供物、また季節の食べ物として広く食される。地域コミュニティの繋がりを象徴する食文化。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本の平安時代の文献に「御形」として記述が見られるなど、1000年以上にわたる利用史がある。中国でも古くから薬草および食用として利用されてきた。",
+      "trade_routes": "不明",
+      "cultural_exchange": "東アジアの米作文化圏において、餅と野草を組み合わせる食文化の一環として共有・伝播した可能性がある。",
+      "domestication_history": "明確な栽培化はされておらず、主に半野生状態のものを採取または管理する形で利用されてきた。畑の雑草として自然に生えるものを活用する伝統がある。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な季節に生育可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "秋から春にかけて生育する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "秋に発芽し、越冬して春に収穫される。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さには適さない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に弱く、一定の湿度が必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高山環境には適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "9月-10月（自然発芽）",
+        "harvest_season": "3月-5月",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照",
+        "土壌水分",
+        "競合する雑草"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "データなし",
+          "production_share": "不明",
+          "characteristics": "商業生産はほとんど行われておらず、主に自家消費のための採取や小規模なローカル市場での販売に限られる。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栄養成分に関する科学的データは非常に限定的。機能性に関する研究は主に伝統中国医学の文脈で行われている。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "ジテルペノイド類",
+        "concentration": "不明",
+        "health_effect": "鎮咳作用、去痰作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "伝統中国医学 (TCM)",
+        "uses": [
+          "鎮咳",
+          "去痰",
+          "風邪の症状緩和",
+          "消炎"
+        ],
+        "preparation": "全草を乾燥させて煎じ薬として使用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗炎症作用のメカニズム解明",
+        "抗酸化活性成分の同定"
+      ],
+      "safety_considerations": "キク科アレルギーを持つ人は注意が必要な可能性があるが、通常食用する量では安全と考えられている。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアの食文化における利用法は、民俗学的・料理研究の文献で詳細に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる",
+          "蒸す",
+          "スープにする",
+          "餅や生地に練り込む"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "米",
+          "もち米",
+          "小豆",
+          "大根"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りが弱まるが、薬効は保持されると考えられている。"
+      },
+      {
+        "method": "塩漬け",
+        "regions": [
+          "東アジア（一部）"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が変化し、保存性が高まる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかな苦味と甘み、春を思わせる独特の草の香り（ヨモギより繊細）",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "茹でると柔らかくなる。餅に練り込むと、繊維感が心地よい食感を与える。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応研究は存在しない。評価は、広範囲に分布する雑草としての生態学的特性からの類推に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-5°C程度（ロゼット葉で越冬）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低い（草丈が低いため物理的損傷は受けにくい）",
+      "hail_damage_recovery": "中（成長点が生きていれば回復可能）",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として、一定の増収効果が期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明（雑草としての性質から、比較的広範な耐性を持つと推測される）",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯から亜熱帯",
+        "2050_projection": "栽培可能域がやや高緯度・高地に移動する可能性",
+        "2100_projection": "不明",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "交雑に関する具体的な研究はほとんどない。評価はキク科植物の一般的な特性と、近縁種の存在からの推測に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間での交雑は容易と推測される"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種（例：チチコグサモドキ属）との交雑可能性あり"
+      ],
+      "intergeneric_possibility": [
+        "近縁のチチコグサ属（Gnaphalium）との交雑可能性は低いがゼロではない"
+      ],
+      "successful_natural_hybrids": [
+        "記録なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "明確な在来品種は存在しないが、広範な分布域にわたる遺伝的多様性が存在すると考えられる。",
+      "wild_gene_pool": "栽培種と野生種の区別がなく、全ての個体が野生遺伝子プールの一部である。",
+      "adaptive_genetic_variation": "高いと推測される。",
+      "inbreeding_depression_risk": "低い（他家受粉性が主であるため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "東アジア全域",
+        "environmental_pressure": "多様な土地利用（水田、畑、道端）と気候条件",
+        "adaptive_response": "様々な環境下での生育。ロゼットでの越冬能力。",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域個体群の分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁種との交雑により、耐乾性や耐病性などの形質が導入される可能性。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "草刈り、踏圧",
+        "adaptive_traits": "ロゼット形成、早期開花",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業における本種の役割に関する直接的な研究はない。評価は、畑の雑草としての生態学的役割からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がるひげ根。表土の安定に寄与。",
+      "organic_matter_contribution": "枯死体が分解され、土壌有機物となる。",
+      "soil_structure_improvement": "限定的",
+      "erosion_control": "地表を覆うことで、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "表層土壌の養分を捕捉・保持する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小規模な花はハナアブや小型のハチなど多様な送粉者を引きつける。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシやヒラタアブの生息場所となる可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "草地生態系の構成員として貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表を覆うことで水の浸透を助ける。",
+      "moisture_retention": "土壌表面の蒸発を抑制する効果がある。",
+      "runoff_reduction": "軽度",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "不明"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な「有益な雑草」の一つとして、生態系の安定性に寄与する可能性がある。",
+      "stress_tolerance": "高い",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な利用は主に伝統文化の継承やニッチ市場に限られる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "伝統的な野草利用の一例として価値がある。",
+      "food_security_contribution": "限定的だが、食料源の多様化に貢献する。",
+      "local_food_system_integration": "地域の食文化と結びついた「地産地消」の好例。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "伝統食材としてのブランド化",
+        "体験型ツーリズム（七草摘みなど）"
+      ],
+      "value_added_products": [
+        "乾燥ハハコグサ（製菓材料用）",
+        "ハーブティー"
+      ],
+      "niche_market_value": "伝統的な祝祭（正月、清明節）の時期に地域限定で高まる。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種の保全状況は安定しているが、文化的利用の消失リスクは高い。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "中（除草剤の使用や圃場整備により、伝統的な生育環境である水田の畦などが減少）",
+    "climate_change_vulnerability": "低",
+    "cultural_erosion_risk": "高（特に日本では、ヨモギによる代替が進み、食文化としての継承が危ぶまれている）",
+    "conservation_actions_needed": [
+      "食文化としての利用法の記録と伝承活動",
+      "伝統的な生育環境（半自然的な草地）の保全"
+    ],
+    "priority_conservation_regions": [
+      "日本",
+      "台湾",
+      "中国南部"
+    ],
+    "ex_situ_conservation_status": "不明（主要なシードバンクでの体系的な収集は行われていない可能性が高い）",
+    "in_situ_conservation_efforts": "特になし"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中（文化的利用と伝統知識の記録に関して）",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 5,
+    "recommended_study_regions": [
+      "日本",
+      "台湾"
+    ],
+    "knowledge_gaps": [
+      "栄養成分と機能性に関する科学的データ",
+      "気候変動に対する生理的応答",
+      "遺伝的多様性の地理的構造"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "本種には商業的に確立された品種は存在しない。以下は概念的な記述。"
+      },
+      "variety_name": "該当なし（地域個体群）",
+      "local_name": "ハハコグサ、鼠麴草など",
+      "origin_region": "東アジア各地",
+      "distinctive_characteristics": "明確な品種分化はないが、地域によって葉の形や毛の密度に僅かな変異が見られる可能性がある。",
+      "cultural_importance": "品種レベルではなく、種として文化的に重要である。",
+      "climate_adaptation": "各地域の気候に局所適応している。",
+      "conservation_status": "Not Applicable"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Plants of the World Online (POWO)",
+      "GBIF (Global Biodiversity Information Facility)",
+      " ethnobotanical studies on East Asian food culture"
+    ],
+    "major_knowledge_gaps": [
+      "定量的栄養データ",
+      "気候変動への応答に関する実験データ",
+      "リジェネラティブ農業における具体的効果"
+    ],
+    "regional_data_coverage": "東アジアに偏っており、南アジアや東南アジアの情報は限定的。",
+    "missing_information": [
+      "商業生産データ",
+      "交雑和合性に関する研究"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

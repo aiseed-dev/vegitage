@@ -1,0 +1,673 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, USDA GRIN）および民族植物学の文献から統合。野生近縁種に関する詳細な遺伝的関係は部分的に不明。"
+    },
+    "primary_name": "Arrowroot",
+    "scientific_name": "Maranta arundinacea",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎"
+    ],
+    "origin_region": "南米熱帯雨林（特にブラジル、ガイアナのアマゾン川流域）",
+    "wild_relatives": [
+      "Maranta gibba",
+      "Maranta zingiberina"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の農業・植物学データベース、民族植物学の記録から名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Arrowroot",
+        "West Indian arrowroot",
+        "Bermuda arrowroot"
+      ],
+      "scientific_common": "Maranta"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Araruta",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Arrurruz",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "अरारोट (Ararot)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "கூவைக்கிழங்கு (Koovaikizhangu)",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Arurú",
+            "script": "Latin"
+          },
+          {
+            "lang": "id",
+            "name": "Garut",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "クズウコン (Kuzuukon)",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "竹芋 (Zhú yù)",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "fj",
+            "name": "Yabia",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アラワク族 (Arawak people)",
+        "name": "Aru-aru",
+        "cultural_significance": "「根の粉」を意味し、食料および矢の毒を抜くための湿布薬として利用された。英名Arrowrootの語源とされる。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Arrowroot family",
+      "la": "Marantaceae"
+    },
+    "genus": {
+      "en": "Maranta",
+      "la": "Maranta"
+    },
+    "species": {
+      "en": "Arrowroot",
+      "la": "arundinacea"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、食文化史、地域農業史の文献に基づく。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "カリブ海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "経済作物",
+          "主食",
+          "薬用"
+        ],
+        "traditional_uses": "セントビンセント・グレナディーン諸島では主要な輸出品。伝統的に消化器系の不調を整えるための食品、乳幼児の離乳食として重視される。",
+        "seasonal_significance": "乾季に収穫され、重要な現金収入源となる。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "原産地であり、先住民コミュニティでは古くからデンプン源として利用。毒抜き（解毒剤）としての伝統的知識が残る。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "薬用",
+          "副菜"
+        ],
+        "traditional_uses": "アーユルヴェーダでは、体を冷やし、消化を助ける食材として病人食や夏場の食品に用いられる。特にケララ州で栽培。",
+        "seasonal_significance": "モンスーン期後に収穫される。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "カリブ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Arrowroot porridge",
+          "Conkies"
+        ],
+        "preparation_methods": [
+          "増粘剤",
+          "製粉",
+          "プディング"
+        ],
+        "cultural_context": "消化しやすく栄養価が高いとされ、病人や乳幼児向けの回復食として重要な役割を果たす。"
+      },
+      {
+        "cuisine": "ヴィクトリア朝英国料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Blancmange",
+          "Biscuits",
+          "Puddings"
+        ],
+        "preparation_methods": [
+          "増粘剤",
+          "製菓"
+        ],
+        "cultural_context": "19世紀に植民地から輸入され、コーンスターチが普及するまで高級な増粘剤として珍重された歴史を持つ。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "南米の先住民によって少なくとも7000年前から栽培・利用されていた考古学的証拠がある。",
+      "trade_routes": "18世紀以降、大航海時代と植民地貿易を通じてカリブ海地域からヨーロッパ、そして世界中に伝播した。",
+      "cultural_exchange": "先住民の薬草知識が植民者に伝わり、商業作物へと転換した事例。",
+      "domestication_history": "南米のアマゾン川流域で、他の根菜類（キャッサバなど）と共に栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間降雨量1500-2000mm、平均気温23-29℃、湿度が高い半日陰の環境。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜が降りない地域。冬期は成長が停滞するが、根茎は越冬可能。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱く、露地栽培は不可能。温室栽培は可能。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度を要求するため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "植え付けから10-12ヶ月後",
+        "growing_period_days": 300
+      }
+    ],
+    "productivity": {
+      "yield_range": "12,000-35,000 kg/ha（根茎）",
+      "factors_affecting_yield": [
+        "土壌の肥沃度と排水性",
+        "日照条件（半日陰が最適）",
+        "降雨量",
+        "病害虫（特に根茎腐敗病）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "セントビンセント・グレナディーン",
+          "production_share": "不明",
+          "characteristics": "世界最高品質のクズウコン粉の生産地として知られ、国の主要な農業輸出品。"
+        },
+        {
+          "country": "ブラジル",
+          "production_share": "不明",
+          "characteristics": "原産国の一つであり、国内消費および小規模な輸出が行われている。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "主にケララ州で伝統的な作物として栽培されている。"
+        },
+        {
+          "country": "フィリピン",
+          "production_share": "不明",
+          "characteristics": "地域的な食品加工（ビスケット、菓子）のために栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "デンプンの栄養価はよく知られているが、微量栄養素に関する品種・地域差のデータは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "65",
+        "protein_g": "4.2",
+        "carbs_g": "13.4",
+        "fat_g": "0.2",
+        "fiber_g": "1.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸 (Folate)",
+          "amount": "338 µg",
+          "daily_value_percent": "84%"
+        },
+        {
+          "nutrient": "リン (Phosphorus)",
+          "amount": "98 mg",
+          "daily_value_percent": "14%"
+        },
+        {
+          "nutrient": "カリウム (Potassium)",
+          "amount": "454 mg",
+          "daily_value_percent": "13%"
+        },
+        {
+          "nutrient": "鉄 (Iron)",
+          "amount": "2.2 mg",
+          "daily_value_percent": "12%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "レジスタントスターチ",
+        "concentration": "不明",
+        "health_effect": "プレバイオティクスとして腸内環境を改善する可能性がある。"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用が期待される。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米・カリブ海地域",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "下痢止め",
+          "消化不良の改善",
+          "毒虫の刺し傷や矢傷の湿布薬（解毒）"
+        ],
+        "preparation": "根茎をすり潰し、水に溶いて上澄みを飲む、または患部に塗布する。"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "ピッタ（火のエネルギー）の鎮静",
+          "泌尿器系の不調改善",
+          "滋養強壮"
+        ],
+        "preparation": "デンプンを粥や飲料にして摂取する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "グルテンフリー食品素材",
+        "乳幼児向け離乳食としての高い消化性"
+      ],
+      "ongoing_research": [
+        "プレバイオティクス効果",
+        "血糖値コントロールへの影響",
+        "免疫調節機能"
+      ],
+      "safety_considerations": "一般的に安全な食品として認識されている。特筆すべき毒性やアレルギー報告は少ない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の料理書、食文化研究、食品科学の文献から情報を統合。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "世界共通",
+        "methods": [
+          "増粘剤として利用（ソース、スープ、グレービー）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "果物（パイフィリング、ジャム）",
+          "肉汁（グレービー）",
+          "乳製品（カスタード、プディング）"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "製菓（ビスケット、クッキー）",
+          "麺類やゼリーの製造"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "パームシュガー"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "デンプン抽出・乾燥",
+        "regions": [
+          "世界中の生産地域"
+        ],
+        "shelf_life": "数年（乾燥粉末）",
+        "quality_changes": "湿気を吸うと固化し、風味が劣化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "非常にニュートラルで、無味無臭に近い。他の食材の風味を妨げない。",
+      "aroma_compounds": [
+        "特になし"
+      ],
+      "texture_characteristics": "加熱すると透明で光沢のある滑らかなジェル状になる。コーンスターチのような粉っぽさや濁りがない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性や耐乾性に関する定性的な記述は多いが、品種レベルでの定量的な実験データは少ない。将来予測は栽培適地の気候モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "23-29°C",
+      "extreme_heat_survival": "40°C以上でも短期間なら生存可能だが、成長は阻害される。",
+      "cold_tolerance": "5°C以下で地上部が枯死。霜に耐えられない。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2000 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "背が低いため、強風による倒伏のリスクは低い。",
+      "hail_damage_recovery": "葉が損傷しても根茎が無事であれば回復可能。",
+      "rapid_temperature_change": "低い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。C3植物であるため、一定の増収効果が期待されるが、研究データはない。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、線虫や根茎腐敗病の発生範囲が拡大する可能性がある。",
+      "disease_resistance_stability": "在来種は地域の病害にある程度の抵抗性を持つが、新しい病原体への脆弱性は不明。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯低地",
+        "2050_projection": "現在の亜熱帯地域から温帯の南縁部へ適地が拡大する可能性がある。",
+        "2100_projection": "適地の北上は進むが、熱帯地域での極端な高温や干ばつの増加により生産性が低下するリスクがある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "クズウコンの育種や自然交雑に関する学術的研究は非常に限られている。ポテンシャルは同属他種からの類推が主。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多くの在来品種（ランドレース）が存在し、それらの間での交雑は可能。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種（例：Maranta leuconeura）との交雑可能性は理論的には存在するが、成功例の報告は少ない。"
+      ],
+      "intergeneric_possibility": [
+        "近縁のCalathea属などとの属間交雑は極めて困難と推測される。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地の南米には、根茎の形状、大きさ、デンプン含有量が異なる多様な在来品種が存在する。",
+      "wild_gene_pool": "野生の近縁種が適応形質（耐病性、耐乾性）の遺伝資源となる可能性があるが、十分に調査・収集されていない。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、遺伝的多様性が低い集団ではリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "デンプン以外の微量栄養素を強化する可能性がある。",
+      "novel_characteristics": "デンプンの質（糊化特性など）を改変できる可能性がある。",
+      "hybrid_vigor_potential": "高いと推測されるが、実証データはない。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致や、稔性の低さが交配の障壁となる可能性がある。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "より深い根系、クチクラ層の発達",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アグロフォレストリーシステムでの利用事例は多いが、土壌改良効果などを定量化した研究は少ない。特性は植物の形態からの類推を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる根茎と、そこから伸びるひげ根からなる。土壌表層を保持する。",
+      "organic_matter_contribution": "豊富な葉が枯れて地表を覆い、有機物として土壌に還元される。",
+      "soil_structure_improvement": "根系の活動が土壌の団粒構造を促進する可能性がある。",
+      "erosion_control": "地被植物として機能し、雨滴による土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "広範な根系が土壌表層の養分を効率的に吸収する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は小さく目立たないが、特定の昆虫を引き寄せる可能性がある。",
+      "beneficial_insect_habitat": "密な葉群が天敵昆虫などの隠れ家を提供する。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係が示唆されるが、詳細は不明。",
+      "above_ground_biodiversity": "アグロフォレストリーシステムの下層を構成し、複雑な生態系を支える。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により雨水の土壌への浸透を促進する。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表流を遅らせ、土壌の保水能力を高める。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。葉が豊富。",
+      "below_ground_carbon": "高い。収穫物である根茎に大量の炭素を蓄積する。",
+      "soil_carbon_enhancement": "有機物の供給を通じて土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "バナナ",
+        "カカオ",
+        "コーヒー",
+        "ココナッツ（高木の日陰を利用）"
+      ],
+      "natural_pest_control": "多様な植生環境を作ることで、特定の害虫の大発生を抑制する。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物であり、アグロフォレストリーに組み込むことで生態系の安定性を高める。",
+      "stress_tolerance": "日陰に強く、他の作物が育ちにくい環境を利用できる。",
+      "recovery_capacity": "地上部が被害を受けても、地下の根茎から再生する能力が高い。",
+      "adaptability": "多様な熱帯アグロフォレストリーシステムに適応可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、食品科学、国際開発関連の報告書に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリー、アレルゲンフリーの炭水化物源として価値が高い。",
+      "food_security_contribution": "日陰で育つため、土地利用効率を高め、小規模農家の食料安全保障と収入向上に貢献する。",
+      "local_food_system_integration": "地域の気候に適した作物であり、持続可能な地域内食料循環に貢献できる。",
+      "alternative_protein_potential": "なし。デンプン源としての利用が主。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品市場（グルテンフリー、オーガニック）",
+        "ベビーフード市場",
+        "自然派化粧品の原料（タルクの代替）"
+      ],
+      "value_added_products": [
+        "クズウコンビスケット",
+        "栄養補助食品",
+        "プレバイオティクス製品"
+      ],
+      "niche_market_value": "コーンスターチや片栗粉に比べ、高価格帯のニッチ市場を形成している。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源に関する報告は散発的。リスク評価は類似の伝統作物からの類推を含む。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "原産地であるアマゾン熱帯雨林の破壊は、野生近縁種の遺伝資源を脅かしている。",
+    "climate_change_vulnerability": "特定の在来品種は、地域の気候変動（特に干ばつ）に対して脆弱な可能性がある。",
+    "cultural_erosion_risk": "安価な代替デンプン（キャッサバ、コーンスターチ）の普及により、伝統的な栽培・加工技術が失われつつある。",
+    "conservation_actions_needed": [
+      "原産地での在来品種の収集と特性評価（インシチュ保全）",
+      "ジーンバンクでの遺伝資源の保存（エクスシチュ保全）",
+      "伝統的知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "南米アマゾン川流域",
+      "カリブ海諸島",
+      "インド・ケララ州"
+    ],
+    "ex_situ_conservation_status": "主要な国際ジーンバンク（CIATなど）で一部の系統が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "小規模な地域コミュニティやNGOによる保全活動が散見されるが、国家レベルでの大規模な取り組みは少ない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロンプトで収集した情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "セントビンセント・グレナディーン（商業栽培と文化）",
+      "ブラジル（遺伝的多様性と先住民利用）",
+      "インド・ケララ州（アーユルヴェーダと食文化）"
+    ],
+    "knowledge_gaps": [
+      "品種ごとの気候変動耐性の定量的データ",
+      "自然交雑の可能性と野生近縁種の遺伝的特性",
+      "根圏微生物との相互作用と土壌改良効果のメカニズム"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種に関する体系的な記録は少ない。これは代表的な商業品種の記述。"
+      },
+      "variety_name": "St. Vincent Creole",
+      "local_name": "Creole",
+      "origin_region": "セントビンセント・グレナディーン",
+      "distinctive_characteristics": "高いデンプン含有量と、白く上質な粉が特徴。根茎が大きく、収量性が高い。",
+      "cultural_importance": "同国の経済と食文化を支える最も重要な品種。",
+      "climate_adaptation": "地域の火山性土壌と気候によく適応している。",
+      "conservation_status": "商業的に栽培されているため安定しているが、遺伝的多様性は限定的。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Plants of the World Online",
+      "FAO agricultural reports",
+      "Journal of Ethnopharmacology",
+      "Journal of Food Science and Technology"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "自然交雑と遺伝的多様性に関する詳細な研究"
+    ],
+    "regional_data_coverage": "カリブ海地域と南アジアの情報は比較的豊富だが、アフリカやオセアニアに関する情報は乏しい。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "各品種の染色体数と交配親和性"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

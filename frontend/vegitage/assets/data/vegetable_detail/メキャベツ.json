@@ -1,0 +1,666 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is well-documented in major botanical and agricultural databases. Origin history is based on historical records."
+    },
+    "primary_name": "Brussels sprout",
+    "scientific_name": "Brassica oleracea var. gemmifera",
+    "plant_type": "二年草（通常一年草として栽培）",
+    "edible_parts": [
+      "葉芽",
+      "葉"
+    ],
+    "origin_region": "ヨーロッパ（現在のベルギー周辺）",
+    "wild_relatives": [
+      "Brassica oleracea var. oleracea (Wild Cabbage)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names in European languages are well-established. Names in other regions are typically direct translations or transliterations, reflecting its European origin."
+    },
+    "international": {
+      "en": [
+        "Brussels sprout",
+        "Brussels sprouts"
+      ],
+      "scientific_common": "Gemmifera group cabbage"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Chou de Bruxelles",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Rosenkohl",
+            "script": "Latn"
+          },
+          {
+            "lang": "nl",
+            "name": "Spruitkool",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Cavolino di Bruxelles",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Col de Bruselas",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "メキャベツ (芽キャベツ)",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "抱子甘蓝 (bàozǐ gānlán)",
+            "script": "Hans"
+          },
+          {
+            "lang": "ko",
+            "name": "방울양배추 (bang-ul yangbaechu)",
+            "script": "Kore"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "該当なし",
+        "name": "不明",
+        "cultural_significance": "メキャベツは比較的新しい栽培品種であり、ヨーロッパ起源であるため、特定の先住民コミュニティにおける伝統的な名称や深い文化的意義は確認されていない。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established within the Brassicaceae family."
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Cabbage",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Cabbage",
+      "la": "Brassica oleracea"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "gemmifera"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Cultural importance is heavily concentrated in Europe and North America. Global spread is recent and primarily culinary, lacking deep traditional roots elsewhere."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ (特に北西ヨーロッパ)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "主に冬の野菜としてローストやボイルで利用される。特にイギリスではクリスマスの伝統的な付け合わせとして象徴的な存在。",
+        "seasonal_significance": "晩秋から冬にかけての重要な野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ヨーロッパからの移民によって持ち込まれ、感謝祭やクリスマスの料理の一部として定着。近年、健康志向の高まりから人気が再燃している。",
+        "seasonal_significance": "秋から冬の野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "伝統的な利用は存在しない。近年、西洋料理の普及と共に消費が拡大しているが、文化的な重要性は低い。",
+        "seasonal_significance": "該当なし",
+        "cultivation_decline_risk": "該当なし"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イギリス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Christmas Dinner Roast Sprouts"
+        ],
+        "preparation_methods": [
+          "ロースト",
+          "ボイル",
+          "蒸し"
+        ],
+        "cultural_context": "クリスマスの祝祭料理に欠かせない要素と見なされている。しばしばベーコンや栗と組み合わされる。"
+      },
+      {
+        "cuisine": "現代アメリカ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Roasted Brussels Sprouts with Balsamic Glaze",
+          "Shaved Brussels Sprout Salad"
+        ],
+        "preparation_methods": [
+          "ロースト",
+          "グリル",
+          "生食（スライス）"
+        ],
+        "cultural_context": "レストランや家庭料理で人気の高い野菜。苦味を抑え甘みを引き出すロースト調理が普及し、評価が大きく変わった。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代からの利用歴史はない。比較的新しい栽培品種。",
+      "trade_routes": "近代以降、ヨーロッパ内および大西洋を越えて普及した。",
+      "cultural_exchange": "ヨーロッパの食文化が他地域へ広がる一例。",
+      "domestication_history": "16世紀頃にベルギーのブリュッセル近郊で、野生のキャベツ (Brassica oleracea) から選抜育種されて成立したと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "結球しないため商業栽培は困難。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "冬期が冷涼な高地でのみ限定的に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育に冷涼な気候を要し、特に収穫前の軽い霜は芽の甘みを増すため好ましい。平均気温15-18℃が最適。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏が冷涼な地域で栽培可能。厳しい冬の凍結には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水分要求量が多く、乾燥には非常に弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春〜初夏",
+        "harvest_season": "晩秋〜冬",
+        "growing_period_days": "90-180"
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "気温",
+        "土壌水分",
+        "窒素施肥量",
+        "アブラムシなどの害虫",
+        "根こぶ病などの土壌病害"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約90万トン（推定）",
+      "major_producers": [
+        {
+          "country": "オランダ",
+          "production_share": "不明",
+          "characteristics": "ヨーロッパ最大の生産・輸出国。高度な栽培技術と育種。"
+        },
+        {
+          "country": "メキシコ",
+          "production_share": "不明",
+          "characteristics": "主に北米市場向けに冬期に生産。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "カリフォルニア州などが主要産地。国内消費が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な栄養素に関するデータは豊富。機能性成分に関する研究も多数存在するが、伝統的薬用利用の記録はほとんどない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "43",
+        "protein_g": "3.4",
+        "carbs_g": "9",
+        "fat_g": "0.3",
+        "fiber_g": "3.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "177 µg",
+          "daily_value_percent": "147%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "85 mg",
+          "daily_value_percent": "102%"
+        },
+        {
+          "nutrient": "葉酸 (ビタミンB9)",
+          "amount": "61 µg",
+          "daily_value_percent": "15%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "754 IU",
+          "daily_value_percent": "15%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート（シニグリン等）",
+        "concentration": "品種や栽培条件による",
+        "health_effect": "体内でイソチオシアネートに変換され、抗がん作用や抗酸化作用を持つ可能性が研究されている。"
+      },
+      {
+        "compound": "スルフォラファン",
+        "concentration": "グルコラファニンから生成",
+        "health_effect": "強力な抗酸化作用と解毒酵素誘導作用が報告されている。"
+      },
+      {
+        "compound": "ケンフェロール",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用を持つフラボノイドの一種。"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "ビタミンKによる血液凝固と骨の健康維持"
+      ],
+      "ongoing_research": [
+        "特定のがん種に対する予防効果",
+        "心血管疾患リスクの低減",
+        "認知機能の維持"
+      ],
+      "safety_considerations": "ビタミンK含有量が多いため、ワルファリンなどの抗凝固薬を服用している場合は摂取に注意が必要。甲状腺機能に影響を与える可能性のあるゴイトロゲンを含むが、通常の食事量では問題ないとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "調理法は西洋料理を中心に広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ・北米",
+        "methods": [
+          "ロースト",
+          "ソテー",
+          "グリル",
+          "ボイル",
+          "蒸し",
+          "生食（スライス）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ベーコン",
+          "ナッツ類（栗、クルミ）",
+          "チーズ（パルメザン）",
+          "バルサミコ酢",
+          "メープルシロップ",
+          "ニンニク"
+        ]
+      },
+      {
+        "region": "東アジア（現代）",
+        "methods": [
+          "炒め物",
+          "天ぷら",
+          "スープの具"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "豚肉",
+          "ごま油",
+          "醤油",
+          "味噌"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "食感が柔らかくなるが、栄養価の損失は比較的少ない。"
+      },
+      {
+        "method": "ピクルス",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "酸味が加わり、食感が変化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "特有の苦味、ナッツのような風味、甘み。加熱しすぎると硫黄化合物が生成され不快な匂いと強い苦味が出る。ローストすると苦味が和らぎ甘みと香ばしさが増す。",
+      "aroma_compounds": [
+        "ジメチルスルフィド",
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "生ではシャキシャキしている。適切に加熱すると、外側は柔らかく、中心部は歯ごたえが残る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "メキャベツに特化した定量的データは少ない。評価は主にBrassica oleracea種全般の特性と、冷涼な気候を好むという栽培要件からの推測に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "25℃以上が続くと生育が阻害され、結球不良（芽が緩む）を引き起こす。",
+      "cold_tolerance": "-5℃程度までの軽い霜には耐え、品質が向上するが、-10℃以下では凍害を受ける。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。一貫した土壌水分を必要とする。",
+      "flood_tolerance": "低。根腐れを起こしやすい。",
+      "optimal_rainfall": "生育期間中に定期的で十分な降雨または灌漑が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。背が高くなるため、強風で倒伏するリスクがある。",
+      "hail_damage_recovery": "低い。葉や芽が直接損傷を受けやすい。",
+      "rapid_temperature_change": "春先の急激な高温は抽苔（トウ立ち）を誘発する可能性がある。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。他のC3植物と同様に、光合成が促進される可能性があるが、高温や水ストレスが制限要因となる可能性が高い。",
+      "ozone_sensitivity": "不明。一般的にアブラナ科野菜はオゾン感受性が高いとされる。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやコナガなどの害虫の発生期間が長期化し、被害が増大するリスクが高い。",
+      "disease_resistance_stability": "高温多湿は根こぶ病や黒腐病などの病害の発生を助長する可能性がある。",
+      "beneficial_organism_relationships": "天敵昆虫の活動時期とのズレ（フェノロジーミスマッチ）が生じる可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "北ヨーロッパ、北米の沿岸部および北部",
+        "2050_projection": "栽培適地はより高緯度、高標高の地域へ移動する可能性が高い。",
+        "2100_projection": "現在の主要産地の多くで、夏の高温により栽培が困難になるリスクがある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Brassica oleraceaは種内での交雑和合性が非常に高く、これは人為的育種の歴史によって実証されている。自然環境下での交雑も容易に起こる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "キャベツ",
+        "カリフラワー",
+        "ブロッコリー",
+        "ケール",
+        "コールラビなど、Brassica oleraceaの全ての変種と容易に交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Brassica rapa（カブ、ハクサイ）やBrassica nigra（クロガラシ）など、他のBrassica属の種とは交雑しにくい（ゲノムが異なるため）。"
+      ],
+      "intergeneric_possibility": [
+        "自然環境下ではほぼ不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "農地や庭で異なるB. oleraceaの変種が近接して栽培された場合、容易に交雑種が形成される。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "商業栽培が主流であり、伝統的な在来品種の多様性は限定的。",
+      "wild_gene_pool": "原種である野生キャベツ（B. oleracea var. oleracea）がヨーロッパ大西洋岸に自生しており、耐塩性や耐病性などの有用な遺伝子の供給源となりうる。",
+      "adaptive_genetic_variation": "種としては極めて高い。メキャベツ自体は限定的だが、交雑可能な近縁変種群に膨大な遺伝的変異が蓄積されている。",
+      "inbreeding_depression_risk": "F1品種が多いため自家採種での近交弱勢は起こりうるが、育種プログラム全体としてはリスクは低い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "ケールや野生キャベツとの交雑により、耐暑性や耐乾性を向上させるポテンシャルは非常に高い。",
+      "improved_nutritional_content": "ブロッコリーとの交雑でスルフォラファン含有量を高めるなど、栄養価の改善が可能。",
+      "novel_characteristics": "紫色のカリフラワーやブロッコリーの遺伝子を導入することで、アントシアニンが豊富な紫メキャベツが作出されている。",
+      "hybrid_vigor_potential": "F1品種の利用により、収量性や均一性といった雑種強勢が広く活用されている。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "B. oleracea種内には実質的な交雑障壁はない。",
+      "chromosome_compatibility": "B. oleraceaの変種はすべて同じ染色体数（2n=18）を持ち、完全に適合する。",
+      "fertility_of_hybrids": "種内交雑によって生じた雑種は完全に稔性を持つ。",
+      "backcrossing_success": "戻し交配は育種で一般的に行われ、成功率は高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "害虫圧（アブラムシ、コナガ）",
+        "adaptive_traits": "グルコシノレートのプロファイル、葉のワックス量、毛の有無",
+        "heritability": "中〜高",
+        "response_to_selection": "選択に対する応答は可能。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "メキャベツに特化した研究は少ないが、アブラナ科作物全般の特性から多くの利点が推測される。これらはカバークロップや緑肥としての研究に基づいている。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的深い主根を持ち、土壌の硬盤を破砕する可能性がある。",
+      "organic_matter_contribution": "収穫後の残渣が多く、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "根の活動により土壌団粒構造の形成を促進する。",
+      "erosion_control": "生育期間中は広い葉で地面を覆い、土壌侵食を軽減する。",
+      "nutrient_cycling_role": "深層の養分を土壌表層に引き上げる「養分ポンプ」としての機能が期待される。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期にはミツバチなどの花粉媒介者を引きつけるが、通常は開花前に収穫される。",
+      "beneficial_insect_habitat": "アブラムシを捕食するテントウムシや寄生蜂などの天敵昆虫の生息地となる。",
+      "soil_microorganism_interaction": "グルコシノレートの分解物が土壌微生物相に影響を与え、特定の病原菌を抑制する「バイオフュミゲーション」効果を持つ可能性がある。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作るチャンネルが水の浸透を助ける。",
+      "moisture_retention": "地上部の被覆と有機物投入により、土壌の水分蒸発を抑制する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。大きな茎と葉を持つ。",
+      "below_ground_carbon": "中程度。深い根系が地下に炭素を供給する。",
+      "soil_carbon_enhancement": "残渣の分解を通じて土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ローズマリーやタイムなどの芳香性ハーブ（害虫忌避）、マメ科植物（窒素供給）"
+      ],
+      "natural_pest_control": "コンパニオンプランツによる害虫の混乱や忌避効果。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "アブラナ科植物は他の植物の生育を抑制するアレロパシー効果を持つことがある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌病害のサイクルを断ち切る効果が期待できる。",
+      "stress_tolerance": "生物的ストレス（病害虫）に対して一定の化学的防御を持つが、非生物的ストレス（旱魃、高温）には弱い。",
+      "recovery_capacity": "低い",
+      "adaptability": "品種レベルでは低いが、種全体としては高い。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食文化や市場での位置づけは明確である。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養価が高く、植物中心の食事において重要な役割を果たす。",
+      "food_security_contribution": "冷涼な温帯地域における重要な冬野菜として、食料供給の多様性に貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットなどで人気が高く、地域食品システムに適している。",
+      "alternative_protein_potential": "タンパク質含有量は野菜の中では比較的高めだが、主要なタンパク源ではない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "調理済み・半調理済みの冷凍食品",
+        "スナック（チップス化）",
+        "サラダ用の細切りパック"
+      ],
+      "value_added_products": [
+        "紫メキャベツのような新規性のある品種",
+        "オーガニック製品"
+      ],
+      "niche_market_value": "グルメ市場や健康志向の消費者の間で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商業品種は安定しているが、古い在来品種の状況は不明。保全の焦点は主に野生の原種に向けられる。"
+    },
+    "genetic_erosion_risk": "中。商業栽培では少数のF1品種に集中する傾向があり、古い固定種の遺伝的多様性が失われるリスクがある。",
+    "habitat_loss_threat": "原種である野生キャベツ(B. oleracea var. oleracea)の自生地（ヨーロッパ大西洋岸）は、開発や気候変動による脅威に晒されている。",
+    "climate_change_vulnerability": "高。冷涼な気候を好むため、温暖化による栽培適地の縮小が懸念される。",
+    "cultural_erosion_risk": "低。西洋文化圏での文化的地位は安定している。",
+    "conservation_actions_needed": [
+      "古い在来品種の収集と種子バンクでの保存",
+      "野生原種の生息域内および生息域外保全"
+    ],
+    "priority_conservation_regions": [
+      "ヨーロッパ大西洋沿岸（野生原種）",
+      "ベルギー、オランダ、イギリス（歴史的品種）"
+    ],
+    "ex_situ_conservation_status": "主要な種子バンク（ジーンバンク）には、多くの商業品種と一部の近縁野生種が保存されている。",
+    "in_situ_conservation_efforts": "野生キャベzツの自生地保全活動が一部で行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価は、提供された情報に基づいて行われた。"
+    },
+    "cultural_heritage_value": 6,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 5,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "北西ヨーロッパ",
+      "北米太平洋岸"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する品種ごとの生理学的応答の定量的データ",
+      "土壌微生物との相互作用の詳細なメカニズム",
+      "非ヨーロッパ地域での栽培適応性の評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に種子会社のカタログや農業ガイドに基づく。"
+      },
+      "variety_name": "Long Island Improved",
+      "local_name": "Long Island Improved",
+      "origin_region": "アメリカ合衆国",
+      "distinctive_characteristics": "耐寒性が高く、コンパクトな株で家庭菜園にも向く。固定種（OP）であり、自家採種が可能。",
+      "cultural_importance": "アメリカにおける標準的な固定品種として歴史的に重要。",
+      "climate_adaptation": "耐寒性に優れるが、耐暑性は低い。",
+      "conservation_status": "広く利用可能"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主に種子会社のカタログや農業ガイドに基づく。"
+      },
+      "variety_name": "Falstaff",
+      "local_name": "Falstaff",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "芽が赤紫色になる品種。加熱しても色が残りやすい。風味は緑色の品種よりややマイルド。",
+      "cultural_importance": "彩りの良さから現代の料理で人気がある。",
+      "climate_adaptation": "不明。一般的な緑色品種に準ずると考えられる。",
+      "conservation_status": "商業的に利用可能"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "CABI Digital Library",
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "USDA National Nutrient Database",
+      "Peer-reviewed agricultural and botanical journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "土壌生態系への具体的な影響"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に偏っており、他の地域でのデータは限定的。",
+    "missing_information": [
+      "先住民による利用",
+      "伝統医学での利用"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

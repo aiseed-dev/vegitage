@@ -1,0 +1,547 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "植物学的な基本情報は日本のデータベースで確立されているが、栽培、栄養、気候変動適応性に関する定量的な科学データは極めて乏しい。情報は主に民族植物学的記録と生態学的特性からの推論に基づく。"
+    },
+    "primary_name": "Uwabamisou",
+    "scientific_name": "Elatostema involucratum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "東アジア（日本、朝鮮半島、中国）",
+    "wild_relatives": [
+      "Elatostema umbellatum",
+      "その他同属の多数の種"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本での呼称は一般的だが、国際的に標準化された英語名は存在しない。韓国語、中国語の名称は植物学データベースで確認できる。"
+    },
+    "international": {
+      "en": [
+        "Rock nettle (非標準名)"
+      ],
+      "scientific_common": "Uwabamisou"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ウワバミソウ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ja",
+            "name": "蟒蛇草",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "좀깨잎나무",
+            "script": "Hangul"
+          },
+          {
+            "lang": "zh",
+            "name": "头花赤车",
+            "script": "Hanzi"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "日本の山村地域コミュニティ",
+        "name": "ミズナ、ミズ",
+        "cultural_significance": "春の訪れを告げる代表的な山菜（サンサイ）の一つとして、季節の恵みを象徴する。名称は生育地の湿潤な環境や、茎の瑞々しさに由来する。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類学上の位置づけは国際的な植物データベースで確立されている。"
+    },
+    "family": {
+      "en": "Nettle family",
+      "la": "Urticaceae"
+    },
+    "genus": {
+      "en": "Elatostema",
+      "la": "Elatostema"
+    },
+    "species": {
+      "en": "不明",
+      "la": "involucratum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本における文化的価値は高いが、世界的な普及や認知度はほぼ皆無。情報は日本の民族植物学研究に集中している。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（特に日本）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "季節の食材"
+        ],
+        "traditional_uses": "主に春に収穫される山菜として利用される。アク抜きのために茹でた後、おひたし、和え物、炒め物、汁物の具材として食される。特有のぬめりが特徴で、食感を楽しむ食材としての価値が高い。",
+        "seasonal_significance": "春の山菜採りの対象として、季節の移ろいと自然の恵みを享受する文化活動と深く結びついている。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（特に山村地域の郷土料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "ウワバミソウのおひたし",
+          "ウワバミソウのたたき",
+          "ウワバミソウの味噌汁"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒める",
+          "漬ける"
+        ],
+        "cultural_context": "里山文化の一部として、地域住民が自ら採取し消費する自給自足的な食文化を反映している。商業的な大規模流通はほとんどない。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古くから日本の山間部で食用にされてきたと推測されるが、具体的な文献記録は限定的。",
+      "trade_routes": "不明",
+      "cultural_exchange": "不明",
+      "domestication_history": "栽培化はされておらず、野生種の採取利用が基本。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼で湿潤な環境に限る。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "落葉広葉樹林内の湿潤な渓谷沿いや、日陰の多い斜面。土壌の湿度維持が重要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "乾燥と厳しい冬のため不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "森林限界以下の湿潤な場所に限る。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "（主に野生採取のため該当せず）",
+        "harvest_season": "春（4月～6月）",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産データなし）",
+      "factors_affecting_yield": [
+        "日照条件（半日陰を好む）",
+        "土壌水分",
+        "林床の豊かさ"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（統計なし）",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "商業生産ではなく、主に個人による野生種の採取（山菜採り）に依存している。一部が直売所などで販売される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "詳細な栄養分析データはほとんど存在しない。含まれる成分は他の山菜からの類推が主。伝統的薬用利用は民間伝承レベルに留まる。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明（ぬめり成分は水溶性食物繊維と推定）"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ムシレージ（粘液質）",
+        "concentration": "不明",
+        "health_effect": "粘膜保護、血糖値上昇抑制の可能性（推測）"
+      },
+      {
+        "compound": "ポリフェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用（推測）"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "日本",
+        "medical_system": "民間療法",
+        "uses": [
+          "解熱",
+          "利尿",
+          "咳止め"
+        ],
+        "preparation": "生葉の汁を塗布、または茹で汁を飲むなど。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [],
+      "safety_considerations": "生食は避けるべき。アク（シュウ酸など）を含む可能性があるため、必ず加熱調理が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本国内での調理法は豊富に記録されているが、国際的な利用例はない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "茹でる（おひたし、和え物）",
+          "炒める（油との相性が良い）",
+          "揚げる（天ぷら）",
+          "煮る（味噌汁、煮物）",
+          "刻んで叩く（郷土料理「たたき」）"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "鰹節",
+          "ごま油"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩蔵",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月～1年",
+        "quality_changes": "食感は柔らかくなるが、独特の風味は保たれる。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "茹でてから冷凍することで、ぬめりや色をある程度保つことができる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "味は淡白でクセがない。わずかな青臭さと土の香り。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "加熱すると現れる強いぬめり（粘液質）と、シャキシャキとした歯ごたえが最大の特徴。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動応答研究は存在しない。評価は、その生育環境（冷涼・湿潤な林床）の脆弱性に基づく生態学的推論である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C（推定）",
+      "extreme_heat_survival": "不明（夏の高温と乾燥に弱い）",
+      "cold_tolerance": "中（地上部は枯れるが地下茎で越冬）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明（低いと推定）",
+      "flood_tolerance": "中（渓流沿いに自生するため、一時的な増水には耐性があると推測）",
+      "optimal_rainfall": "1500mm以上（推定）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低（茎が折れやすい）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明（感受性が高いと推定）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "低（林床植物のため高強度の紫外線に弱い）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明（温暖化により、南方系の害虫被害が増加する可能性）",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の温帯林（本州、四国、九州の山地）",
+        "2050_projection": "現在の分布域が北上、またはより高地へシフトする可能性が高い。南部の低地では消失リスク。",
+        "2100_projection": "分布適地が大幅に縮小する可能性。",
+        "confidence_level": "中（定性的予測）"
+      }
+    ],
+    "climate_adaptation_score": 2
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Elatostema属は種分化が進んでいるが、本種に関する自然交雑や育種の研究は皆無に等しい。評価は属の一般的な特徴からの推測。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間に遺伝的変異が存在する可能性"
+      ],
+      "interspecific_compatibility": [
+        "不明（同属の近縁種との交雑可能性は理論的には存在する）"
+      ],
+      "intergeneric_possibility": [
+        "極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "該当せず（栽培品種なし）",
+      "wild_gene_pool": "地域ごとに隔離された個体群が独自の遺伝子プールを形成している可能性。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "不明（個体群のサイズに依存）"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "日照量、土壌湿度、冬季の低温",
+        "adaptive_traits": "耐陰性、保湿能力",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 2
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "アグロフォレストリーの観点からのポテンシャルはあるが、研究データは存在しない。評価は野生での生態的役割からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる根茎を持つ。",
+      "organic_matter_contribution": "落葉や枯れた地上部が林床の腐植層を形成する。",
+      "soil_structure_improvement": "不明",
+      "erosion_control": "群生することで地表を覆い、雨滴による土壌侵食を抑制する。",
+      "nutrient_cycling_role": "林床の栄養循環の一部を担う。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小型の昆虫が訪花する可能性があるが、詳細は不明。",
+      "beneficial_insect_habitat": "林床の多様な昆虫や土壌生物に生息場所を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により水の浸透を助ける。",
+      "moisture_retention": "林床の湿度を保つ。",
+      "runoff_reduction": "地表流を緩和する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "不明",
+      "soil_carbon_enhancement": "腐植供給を通じて土壌炭素の蓄積に寄与する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "（アグロフォレストリー文脈で）樹木の下層植生として"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "森林生態系の一員として安定性に寄与。",
+      "stress_tolerance": "低い（特定の環境に特化）",
+      "recovery_capacity": "不明",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な価値は、主にニッチな食文化や持続可能性の文脈で見出される。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "多様な食生活に貢献する可能性。",
+      "food_security_contribution": "限定的だが、地域の食料自給と食文化の維持に貢献。",
+      "local_food_system_integration": "「道の駅」や郷土料理店など、地域内経済循環への貢献。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級日本料理店への食材提供",
+        "エコツーリズムと連携した山菜採り体験",
+        "珍しい野菜として海外のシェフへの紹介"
+      ],
+      "value_added_products": [
+        "塩蔵品",
+        "漬物",
+        "乾燥粉末（可能性）"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物学的評価は可能だが、保全活動の具体的なデータは少ない。文化的な消失リスクは高い。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "高（森林伐採、開発、気候変動による乾燥化）",
+    "climate_change_vulnerability": "高",
+    "cultural_erosion_risk": "高（山菜を利用する食文化と採取知識の継承者減少）",
+    "conservation_actions_needed": [
+      "自生地である湿潤な森林環境の保全",
+      "山菜利用に関する伝統的知識の記録と継承",
+      "気候変動影響のモニタリング"
+    ],
+    "priority_conservation_regions": [
+      "日本の温帯広葉樹林帯"
+    ],
+    "ex_situ_conservation_status": "不明（植物園などで保存されている可能性はあるが、体系的な収集は行われていない）",
+    "in_situ_conservation_efforts": "国立公園などの保護地域内での間接的な保全に留まる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 4,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "日本（特に東北地方、紀伊半島など山深い地域）"
+    ],
+    "knowledge_gaps": [
+      "栄養成分と機能性に関する科学的データ",
+      "気候変動に対する生理学的応答",
+      "遺伝的多様性の地理的分布",
+      "栽培技術の確立"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "high",
+        "source_comment": "本種は栽培化されておらず、農業的な意味での「品種」は存在しない。野生の地域変異に関する研究も乏しい。"
+      },
+      "variety_name": "野生種（Wild type）",
+      "local_name": "ウワバミソウ、ミズナ",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "特定の品種分化はなく、生育環境によって形態に多少の変異が見られる。",
+      "cultural_importance": "山菜として地域文化に根付いている。",
+      "climate_adaptation": "日本の温帯気候に適応。",
+      "conservation_status": "未評価（Not Evaluated）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "日本の植物図鑑",
+      "民族植物学に関する学術論文",
+      "オンライン植物データベース (KEGG, GBIF)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "詳細な栄養価・機能性成分の分析"
+    ],
+    "regional_data_coverage": "日本に極度に集中しており、他の地域での情報はほぼ皆無。",
+    "missing_information": [
+      "商業生産データ",
+      "国際貿易データ",
+      "育種に関する研究"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

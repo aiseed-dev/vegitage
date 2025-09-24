@@ -1,0 +1,711 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "学名、科属、原産地、植物学的特徴に関する情報は、主要な植物学データベース（KEW, GBIF）および複数の学術論文に基づき統合。野生近縁種の情報は広範なAllium属に関する知見に基づく。"
+    },
+    "primary_name": "Victory Onion",
+    "scientific_name": "Allium victorialis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "鱗茎"
+    ],
+    "origin_region": "ユーラシア大陸の温帯から亜寒帯山岳地帯",
+    "wild_relatives": [
+      "Allium ursinum (ラムソン)",
+      "Allium tricoccum (ランプ)",
+      "その他多数のAllium属野生種"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各国・各地域の植物誌、民族植物学の記録、言語データベースから名称を収集。特に東アジアとロシアでの呼称は豊富。"
+    },
+    "international": {
+      "en": [
+        "Victory Onion",
+        "Alpine Leek",
+        "Alpine Garlic"
+      ],
+      "scientific_common": "Allium victorialis"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ギョウジャニンニク (Gyouja-ninniku)",
+            "script": "漢字/カタカナ"
+          },
+          {
+            "lang": "ko",
+            "name": "산마늘 (San-maneul)",
+            "script": "ハングル"
+          },
+          {
+            "lang": "zh",
+            "name": "茖葱 (gé cōng)",
+            "script": "漢字"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Sieg-Lauch",
+            "script": "ラテン"
+          },
+          {
+            "lang": "fr",
+            "name": "Ail de la Victoire",
+            "script": "ラテン"
+          },
+          {
+            "lang": "ru",
+            "name": "Черемша (Cheremsha)",
+            "script": "キリル"
+          },
+          {
+            "lang": "it",
+            "name": "Aglio serpentino",
+            "script": "ラテン"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アイヌ (日本)",
+        "name": "プクサ (Pukusa) / キトピロ (Kitopiro)",
+        "cultural_significance": "春の訪れを告げる重要な食料であり、儀式にも用いられる。共同体での採集活動は文化伝承の場でもある。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。亜種の情報は地域変異の大きさを反映している。"
+    },
+    "family": {
+      "en": "Amaryllis family",
+      "la": "Amaryllidaceae"
+    },
+    "genus": {
+      "en": "Onion",
+      "la": "Allium"
+    },
+    "species": {
+      "en": "Victory Onion",
+      "la": "A. victorialis"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Allium victorialis subsp. platyphyllum"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学的研究、歴史的文献、民俗記録から情報を集約。特に日本の山岳文化、アイヌ文化、ロシアの食文化における重要性が顕著。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア (特に日本)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "山菜文化の中心的存在。修験道の行者が厳しい修行中の滋養源とした歴史を持つ。アイヌ民族にとっては春の重要な食料であり、文化的核心種。醤油漬けや天ぷら、おひたしなど多様な調理法がある。",
+        "seasonal_significance": "早春の訪れを象徴する最初の恵みの一つ。雪解け直後に採集される。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "ロシア (シベリア、極東)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "「チェレムシャ」として広く知られ、春のビタミン源として極めて重要。生でサラダにしたり、ピロシキの具、スープ、塩漬けなど、国民食レベルで消費される。市場での売買も盛ん。",
+        "seasonal_significance": "長い冬の後の健康を支える重要な食材。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ (アルプス、カルパチア山脈)",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "山岳地域の伝統的な食材。スープ、ソース、チーズの風味付けに利用される。民間療法では強壮剤や消化促進剤として用いられてきた歴史がある。",
+        "seasonal_significance": "山岳地帯における春の味覚。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本の山菜料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ギョウジャニンニクの醤油漬け",
+          "おひたし",
+          "天ぷら",
+          "卵とじ"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "漬ける",
+          "揚げる",
+          "炒める"
+        ],
+        "cultural_context": "春の訪れを祝う季節の味。山からの恵みへの感謝と結びついている。"
+      },
+      {
+        "cuisine": "ロシア料理",
+        "role": "common",
+        "traditional_dishes": [
+          "チェレムシャのサラダ",
+          "チェレムシャ入りピロシキ",
+          "塩漬けチェレムシャ"
+        ],
+        "preparation_methods": [
+          "生食",
+          "塩漬け",
+          "パン生地に練り込む",
+          "スープの具"
+        ],
+        "cultural_context": "厳しい冬を乗り越えた後の生命力と健康の象徴。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "ユーラシア大陸の山岳民族によって古代から利用されていたと推定される。日本の修験道との関連は中世に遡る。",
+      "trade_routes": "地域内での交易品としては重要だったが、広域の歴史的交易路での役割は限定的。",
+      "cultural_exchange": "シベリアから北海道にかけて、先住民族間での利用法や知識の交流があった可能性が指摘されている。",
+      "domestication_history": "主に野生採集に依存してきた歴史が長い。商業的な栽培化は20世紀後半から始まった比較的新しい動きであり、まだ限定的。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "高地の冷涼な環境でのみ可能性あり"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼で湿潤な落葉広葉樹林の林床。夏期に高温にならない場所。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冬期に十分な低温期間があり、夏期は冷涼な亜寒帯地域。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "森林限界付近の冷涼で湿潤な環境。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯/冷帯",
+        "planting_season": "秋（種子または鱗茎）",
+        "harvest_season": "春（雪解け後から4月〜6月）",
+        "growing_period_days": "種子からの収穫まで3年以上"
+      }
+    ],
+    "productivity": {
+      "yield_range": "栽培では 1,000-3,000 kg/ha。野生採集は場所により大きく変動。",
+      "factors_affecting_yield": [
+        "日照条件（半日陰）",
+        "土壌水分",
+        "有機物含有量",
+        "乱獲による資源枯渇"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "北海道、長野県などで小規模な商業栽培。大半は野生採集に依存。"
+        },
+        {
+          "country": "ロシア",
+          "production_share": "不明",
+          "characteristics": "商業的な栽培はほとんどなく、ほぼ全てが野生からの大規模な採集に依存。地域経済で重要。"
+        },
+        {
+          "country": "韓国",
+          "production_share": "不明",
+          "characteristics": "鬱陵島が名産地として知られ、栽培と野生採集が行われている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要なビタミンやミネラルに関するデータは存在するが、機能性成分（硫黄化合物など）の定量データや地域変異に関する研究は限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約45 kcal",
+        "protein_g": "2.5",
+        "carbs_g": "8.0",
+        "fat_g": "0.5",
+        "fiber_g": "2.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA (β-カロテン)",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "アリシン（硫化アリル類）",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "中程度",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "硫化アリル類 (Alkyl sulfides)",
+        "concentration": "ニンニクやニラより多いとされるが、定量データは少ない",
+        "health_effect": "抗菌作用、血行促進、抗酸化作用、抗血栓作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、免疫調節作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "滋養強壮",
+          "食欲増進",
+          "風邪予防",
+          "疲労回復"
+        ],
+        "preparation": "生食、または料理に加えて摂取"
+      },
+      {
+        "region": "ロシア",
+        "medical_system": "民間療法",
+        "uses": [
+          "壊血病予防（春のビタミン源）",
+          "消化促進",
+          "抗菌・駆虫"
+        ],
+        "preparation": "生でサラダとして大量に摂取"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化活性",
+        "抗菌活性",
+        "抗血小板凝集作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "免疫調節機能",
+        "生活習慣病予防効果"
+      ],
+      "safety_considerations": "有毒植物であるスズランやバイケイソウとの誤食に注意が必要。過剰摂取は胃腸障害を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の料理本、食文化研究、民族誌的記録から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "漬ける（醤油、味噌）",
+          "茹でる（おひたし）",
+          "揚げる（天ぷら）",
+          "炒める（卵とじ、肉炒め）"
+        ],
+        "flavor_role": "主味/薬味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "卵",
+          "豚肉"
+        ]
+      },
+      {
+        "region": "ロシア/東欧",
+        "methods": [
+          "生食（サラダ）",
+          "塩漬け",
+          "スープ",
+          "パイやパンの具"
+        ],
+        "flavor_role": "主味/香辛料",
+        "typical_combinations": [
+          "サワークリーム",
+          "ジャガイモ",
+          "卵",
+          "ディル"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "醤油漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "辛味が和らぎ、旨味が増す。食感は柔らかくなる。"
+      },
+      {
+        "method": "塩漬け/発酵",
+        "regions": [
+          "ロシア",
+          "東欧"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "強い香りが少しマイルドになり、酸味と塩味が加わる。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "生のシャキシャキした食感は失われるが、香りは比較的保たれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ニンニクとニラ、ネギを合わせたような強い風味と辛味。加熱すると甘みが増す。",
+      "aroma_compounds": [
+        "ジメチルジスルフィド",
+        "アリルメチルスルフィド",
+        "ジアリルジスルフィド"
+      ],
+      "texture_characteristics": "生の状態ではシャキシャキとした歯ごたえ。加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動応答の定量的研究は非常に少ない。評価は、その生態的ニッチ（冷涼湿潤な林床）と類似の山岳・北方系植物の研究からの類推が主である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-20°C",
+      "extreme_heat_survival": "28°C以上が続くと生育不良",
+      "cold_tolerance": "-30°C以下（積雪下での休眠）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "年間1000mm以上の湿潤な環境を好む"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "林床植物であるため直接的な風害は受けにくい",
+      "hail_damage_recovery": "葉が傷つくと光合成能力が低下し、回復は遅い",
+      "rapid_temperature_change": "春先の急激な温暖化は生育期間を短縮させ、鱗茎の肥大を妨げる可能性がある"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。林床植物のため、樹冠層の応答に影響される可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明。通常は林冠に保護されているため、耐性は低い可能性がある。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により南方系の病害虫の分布が北上・高地化した場合、新たな脅威にさらされるリスクがある。",
+      "disease_resistance_stability": "硫黄化合物による自己防衛機能を持つが、環境ストレスで低下する可能性がある。",
+      "beneficial_organism_relationships": "土壌菌根菌との共生関係が気候変動で変化する可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の本州中部以北の山地、北海道、ユーラシア大陸の亜寒帯林",
+        "2050_projection": "現在の分布域の南限や低地から消失し、より高緯度・高標高の地域に限定される可能性が高い",
+        "2100_projection": "分布適地が大幅に縮小するリスクがある",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Allium属全体の交雑親和性は知られているが、A. victorialisに特化した自然交雑事例の報告は限定的。遺伝的多様性に関する評価は、その広範な分布域からの推定に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "ユーラシア大陸内の地域個体群間での交雑は可能"
+      ],
+      "interspecific_compatibility": [
+        "近縁のAllium種と人為的な交配は可能であるが、自然交雑は稀"
+      ],
+      "intergeneric_possibility": [
+        "非常に低い"
+      ],
+      "successful_natural_hybrids": [
+        "明確な報告は少ない"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培化の歴史が浅いため、明確な在来品種は少ないが、地域ごとに遺伝的に分化した個体群が存在する。",
+      "wild_gene_pool": "ユーラシア大陸に広がる広大な野生個体群が巨大な遺伝子プールを形成している。",
+      "adaptive_genetic_variation": "各地の気候に適応した遺伝的変異が豊富に存在すると推定される。",
+      "inbreeding_depression_risk": "野生集団が分断されるとリスクが増大する。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ユーラシア大陸の各山岳地帯",
+        "environmental_pressure": "標高、積雪期間、夏期の気温",
+        "adaptive_response": "開葉時期、成長速度、休眠開始時期の変異",
+        "time_scale": "数千年〜数万年",
+        "mechanism": "地域的な自然選択による遺伝的分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "異なる地域の個体群を交配することで、耐病性や生育期間の異なる系統を作出できる可能性がある。",
+      "improved_nutritional_content": "機能性成分の含有量が異なる個体群の交配による高含有系統の作出可能性。",
+      "novel_characteristics": "葉の幅や鱗茎の大きさなど、形態的特性の改良。",
+      "hybrid_vigor_potential": "遺伝的に離れた個体群間の交配で雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期のずれが障壁となりうる。",
+      "chromosome_compatibility": "近縁種とは比較的良好。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "温暖化による生育期間の変化",
+        "adaptive_traits": "早期の成長完了、耐暑性",
+        "heritability": "不明",
+        "response_to_selection": "世代時間が長いため、自然選択による応答速度は遅い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "本種をリジェネラティブ農業システムに組み込んだ研究は少ないが、その生態的特性（多年生、林床植物）から高い適性が推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深くはないが、密なひげ根を張り巡らせ、土壌の団粒構造を安定させる。",
+      "organic_matter_contribution": "毎年生育する葉が枯れて地表に供給され、良質な有機物となる。",
+      "soil_structure_improvement": "根系の活動が土壌の通気性や排水性を改善する。",
+      "erosion_control": "地表を被覆し、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "春先に素早く養分を吸収・保持し、落葉を通じて土壌に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "早春に開花し、活動を開始したばかりのハナバチ類やアブ類に蜜源を提供する。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根圏で多様な土壌微生物と共生関係を築いていると推定される。",
+      "above_ground_biodiversity": "特定の昆虫の食草となる可能性。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根と有機物供給により、土壌の雨水浸透能力を高める。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表流を抑制する。",
+      "groundwater_recharge": "浸透促進により地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的",
+      "below_ground_carbon": "多年草であるため、根系と鱗茎に炭素を長期間貯留する。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素の蓄積に貢献する。",
+      "carbon_sequestration_rate": "不明。森林生態系の一部として機能する。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "落葉広葉樹（カエデ、ブナなど）との混植（アグロフォレストリー）"
+      ],
+      "natural_pest_control": "強い香りが他の植物の害虫を忌避する効果（アレロパシー）が期待される。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "硫黄化合物が土壌病原菌を抑制する可能性がある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、不耕起栽培システムの中核となりうる。",
+      "stress_tolerance": "耐寒性は高いが、他のストレス耐性は低い。",
+      "recovery_capacity": "乱獲からの回復は非常に遅い。",
+      "adaptability": "特定の環境への適応性は高いが、環境変化への適応速度は遅い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現在の市場動向、食文化のトレンド、持続可能な農業に関する議論を基に評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "強い風味と機能性成分を持ち、植物性食品の魅力を高める食材。",
+      "food_security_contribution": "アグロフォレストリー（森林農業）における高付加価値作物として、山間地域の食料生産と経済を支える可能性がある。",
+      "local_food_system_integration": "「旬」を強く意識させる食材であり、地域の食文化と観光を結びつける役割を持つ。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級レストラン向けの食材",
+        "健康志向消費者向けの機能性食品",
+        "エコツーリズムと連携した体験型商品"
+      ],
+      "value_added_products": [
+        "醤油漬け、味噌漬けなどの加工品",
+        "フリーズドライ製品",
+        "香味油、ソースなどの調味料"
+      ],
+      "niche_market_value": "非常に高い。希少性と独特の風味から、高価格で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "IUCNの評価基準や各国のレッドリスト、保全生態学の文献を参考に評価。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "森林伐採や土地開発による自生地の減少。",
+    "climate_change_vulnerability": "高。温暖化による自生地の縮小・消失が最も大きな脅威の一つ。",
+    "cultural_erosion_risk": "高。採集文化の担い手の高齢化や、伝統的知識の喪失。",
+    "conservation_actions_needed": [
+      "自生地の保護区設定",
+      "持続可能な採集ルールの策定と普及",
+      "栽培技術の開発と普及による野生資源への圧力軽減",
+      "遺伝的多様性を考慮した種子の収集と保存（ジーンバンク）"
+    ],
+    "priority_conservation_regions": [
+      "日本の高山帯・亜高山帯",
+      "ロシア極東の原生林",
+      "ヨーロッパアルプス",
+      "アイヌ文化圏"
+    ],
+    "ex_situ_conservation_status": "一部の植物園や研究機関で系統が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "国立公園などでの採集規制が行われているが、密猟や盗掘が問題となっている地域もある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全項目を総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "北海道（アイヌ文化との関連）",
+      "シベリア（大規模な野生利用の実態）",
+      "アルプス山脈（気候変動影響の最前線）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理的応答の定量的データ",
+      "地域個体群間の遺伝的多様性の詳細な解析",
+      "持続可能な栽培技術と経済性の評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "栽培品種は確立されていないため、生物地理学的な変異を代表的なタイプとして記載。"
+      },
+      "variety_name": "東アジア系統 (subsp. platyphyllum)",
+      "local_name": "ギョウジャニンニク、サンマヌル",
+      "origin_region": "日本、朝鮮半島、中国東北部、シベリア東部",
+      "distinctive_characteristics": "ヨーロッパ系統に比べて葉が広く、香りが強い傾向があるとされる。",
+      "cultural_importance": "日本の山菜文化、アイヌ文化、韓国の食文化で非常に重要。",
+      "climate_adaptation": "多雪地帯の冷涼な気候に適応。",
+      "conservation_status": "多くの地域で乱獲により減少。絶滅危惧種に指定されている都道府県もある。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "栽培品種は確立されていないため、生物地理学的な変異を代表的なタイプとして記載。"
+      },
+      "variety_name": "ヨーロッパ・西アジア系統 (subsp. victorialis)",
+      "local_name": "Sieg-Lauch, Alpine Leek",
+      "origin_region": "ヨーロッパの山岳地帯から中央アジア",
+      "distinctive_characteristics": "葉が比較的細い傾向がある。",
+      "cultural_importance": "アルプスなどの山岳民族の伝統食。",
+      "climate_adaptation": "大陸性の冷涼な山岳気候に適応。",
+      "conservation_status": "地域によっては乱獲や環境変化で減少している。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "GBIF (Global Biodiversity Information Facility)",
+      "民族植物学関連の学術論文",
+      "各国の食文化に関する文献"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種・地域個体群レベルでの生理的応答",
+      "栽培における経済性や生産性に関する詳細データ"
+    ],
+    "regional_data_coverage": "東アジアとロシアに関する情報は豊富だが、中央アジアやヨーロッパの一部地域に関する情報は比較的少ない。",
+    "missing_information": [
+      "受粉生態系の詳細",
+      "土壌微生物との共生関係に関する具体的な研究"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

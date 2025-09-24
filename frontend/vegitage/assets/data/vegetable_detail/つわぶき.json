@@ -1,0 +1,535 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベースと東アジアの民族植物学研究から統合。野生近縁種に関する詳細な遺伝的データは限定的。"
+    },
+    "primary_name": "Tsuwabuki",
+    "scientific_name": "Farfugium japonicum",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎"
+    ],
+    "origin_region": "東アジア（日本、韓国、台湾、中国東部沿岸）",
+    "wild_relatives": [
+      "Farfugium hiberniflorum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "園芸名としての英語名は普及しているが、食材としての国際的な名称は確立されていない。地域名は各国の植物誌に基づく。"
+    },
+    "international": {
+      "en": [
+        "Leopard Plant",
+        "Japanese Silverleaf",
+        "Green Leopard Plant"
+      ],
+      "scientific_common": "Farfugium"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ツワブキ",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "ja",
+            "name": "石蕗",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "털머위",
+            "script": "Hangul"
+          },
+          {
+            "lang": "zh",
+            "name": "大吴风草",
+            "script": "Hanzi"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類体系はAPG IVシステムに基づき、主要な植物データベースで確認済み。"
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Farfugium",
+      "la": "Farfugium"
+    },
+    "species": {
+      "en": "Japanese silverleaf",
+      "la": "japonicum"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "variety",
+        "name": "Farfugium japonicum var. luchuense"
+      },
+      {
+        "rank": "variety",
+        "name": "Farfugium japonicum var. formosanum"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本、特に南西部での文化的価値は高いが、国際的な認知度は低く、データは地域に偏在。歴史的文献は存在するが、定量的データは少ない。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "日本（特に九州、沖縄、四国）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "季節の食材"
+        ],
+        "traditional_uses": "若い葉柄をアク抜きして食用とする山菜（さんさい）として重要。春の訪れを告げる食材であり、煮物、佃煮、天ぷらなどに利用される。民間療法では、葉を腫れ物や火傷に外用することもあった。",
+        "seasonal_significance": "早春から春にかけて収穫される、季節性の高い食材。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（郷土料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "ツワブキの煮物",
+          "キャラブキ（佃煮）",
+          "ツワブキの天ぷら"
+        ],
+        "preparation_methods": [
+          "煮る",
+          "炒める",
+          "揚げる",
+          "塩蔵"
+        ],
+        "cultural_context": "山菜文化の一部として、自然の恵みを享受する伝統に根差している。毒性を持つピロリジジンアルカロイドを除去するための「アク抜き」という調理技術が不可欠であり、食文化と生活の知恵が一体となっている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本では古くから食用や薬用として利用されていた記録があるが、主要な作物ではなかったため、詳細な歴史的記録は限定的。",
+      "trade_routes": "国際的な交易品としての役割は確認されていない。",
+      "cultural_exchange": "主に日本国内の地域文化として発展。江戸時代以降、園芸植物として観賞価値が見出され、多様な品種が生まれた。",
+      "domestication_history": "明確な栽培化の歴史は不明。多くは半野生状態または庭先での栽培であり、野生採集に大きく依存している。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には弱い可能性がある。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "日本の南西諸島などが自生地。湿潤な半日陰を好む。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日本の本州沿岸部が自生地。耐寒性があり、冬でも常緑を保つ。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の極端な暑さと冬の厳しい寒さ、乾燥には不向き。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高山環境には適応していない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯・亜熱帯",
+        "planting_season": "春または秋",
+        "harvest_season": "春（食用部である葉柄）",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照条件（半日陰が最適）",
+        "土壌水分",
+        "株の年齢"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "主に自家消費、直売所、郷土料理店向けの小規模生産・野生採集。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栄養成分の標準的なデータは限定的。機能性成分、特にピロリジジンアルカロイドに関する研究は存在するが、毒性評価が中心。伝統的利用は伝承に基づくものが多い。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "豊富とされている",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ピロリジジンアルカロイド（PA）",
+        "concentration": "変動あり",
+        "health_effect": "肝毒性、発がん性のリスク。フキノトキシンなどを含む。"
+      },
+      {
+        "compound": "ポリフェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用が期待される。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "日本",
+        "medical_system": "民間療法",
+        "uses": [
+          "解毒",
+          "腫れ物",
+          "魚の中毒"
+        ],
+        "preparation": "生葉を炙って患部に貼る外用が主。内服は毒性のため一般的ではない。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "ピロリジジンアルカロイドの毒性評価",
+        "一部の化合物の抗炎症作用"
+      ],
+      "safety_considerations": "ピロリジジンアルカロイドによる肝障害のリスクが非常に高い。食用にするには、茹でこぼしや長時間の水さらしなどの徹底したアク抜きが絶対に必要。素人判断での調理・摂取は危険。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "日本の郷土料理に関する情報は豊富だが、他地域での利用はほぼない。味覚プロファイルは定性的評価に基づく。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "煮る（煮しめ）",
+          "炒める（油いため）",
+          "佃煮にする",
+          "揚げる（天ぷら）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "醤油",
+          "みりん",
+          "砂糖",
+          "油揚げ",
+          "豚肉"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩蔵、佃煮",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "食感が柔らかくなり、味が濃縮される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "独特のほろ苦さと香り、シャキシャキとした歯ごたえ。",
+      "aroma_compounds": [
+        "フキノナール類（フキ属と共通する香り成分の可能性）"
+      ],
+      "texture_characteristics": "加熱後も残る繊維質な歯切れの良さ（シャキシャキ感）。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動への応答に関する実験的データは皆無。評価は自生地の生態的特性からの推測に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "不明。直射日光と高温に弱い。",
+      "cold_tolerance": "-5°C程度"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "1500mm以上（湿潤環境を好む）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。葉は大きいが茎が丈夫で、群生することで風害を軽減する。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。C3植物として一定の効果は見込まれるが、他のストレス要因が上回る可能性。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "低。半日陰を好むため、紫外線増加には弱いと推測される。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、南方系の害虫の越冬が可能になり、被害が増加する可能性。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の暖温帯・亜熱帯の沿岸部および林床",
+        "2050_projection": "分布域がより北上、または高地へ移動する可能性。南部の低地では高温と乾燥により減少する可能性。",
+        "2100_projection": "南部の沿岸域での生息が困難になるリスク。",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "園芸品種作出のための人為的な交配は行われているが、自然環境下での種間交雑や適応進化に関する研究は少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "斑入りや葉の形状が異なる多数の園芸品種が存在し、種内交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "同属のFarfugium hiberniflorumとの交雑可能性は不明。"
+      ],
+      "intergeneric_possibility": [
+        "近縁属（Ligulariaなど）との属間交雑の可能性は低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告されていない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "食用としての在来品種は明確に分化していないが、地域個体群間に遺伝的多様性が存在すると考えられる。",
+      "wild_gene_pool": "栽培されている個体の多くが野生由来であり、野生遺伝子プールは豊富でアクセス可能。",
+      "adaptive_genetic_variation": "南北に広い分布域を持つため、耐寒性や耐暑性に関する地域的な遺伝的変異が存在する可能性が高い。",
+      "inbreeding_depression_risk": "自家不和合性を持つため、他家受粉が必要。これにより遺伝的多様性が維持されやすく、近交弱勢のリスクは低い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "地域個体群間の交配により、耐寒性や耐暑性の範囲を広げる可能性がある。",
+      "improved_nutritional_content": "不明。毒性（PA）レベルの低い系統の選抜が優先される。",
+      "novel_characteristics": "園芸分野では葉の形や斑の色など多様な新奇形質が作出されている。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "日照、水分、塩分（沿岸部）",
+        "adaptive_traits": "葉の形状、クチクラ層の厚さ、根系の発達",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 5
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での研究は皆無。評価は植物の生態的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "太い根茎とひげ根が発達し、土壌を保持する。",
+      "organic_matter_contribution": "常緑性で大きな葉を持つため、落葉による有機物供給は限定的だが、枯死した根が土壌有機物を供給する。",
+      "soil_structure_improvement": "根茎が土壌の団粒構造を安定させる可能性がある。",
+      "erosion_control": "地表を密に覆うため、特に林床や傾斜地での土壌侵食防止効果が高い。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "秋に咲く黄色い花は、活動時期の終盤にあるハナアブやミツバチなどの訪花昆虫にとって貴重な蜜源となる。",
+      "beneficial_insect_habitat": "大きな葉の下は、多様な土壌生物や昆虫のシェルターとなる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "葉が雨滴の衝撃を和らげ、土壌への水の浸透を助ける。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地被植物として地表流を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。常緑の葉が年間を通じて炭素を固定する。",
+      "below_ground_carbon": "多年草であり、発達した根茎に炭素を蓄積する。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "樹木の下層植生（アグロフォレストリー）として利用可能。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生の地被植物として、生態系の安定に貢献する可能性がある。",
+      "stress_tolerance": "日陰や湿潤環境への耐性は高いが、乾燥や高温への耐性は低い。",
+      "recovery_capacity": "根茎が残っていれば、地上部が損傷しても再生する能力は高い。",
+      "adaptability": "遺伝的多様性は存在するが、適応範囲は限定的。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸植物としての価値は確立されているが、食材としての現代的応用は毒性の問題で限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "毒性処理が必須なため、一般的な植物性栄養源としての普及は困難。",
+      "food_security_contribution": "限定的。救荒食としての歴史はあるが、主要作物にはならない。",
+      "local_food_system_integration": "地域の山菜文化を継承する食材として、直売所や道の駅などで重要な役割を担う。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "伝統食や高級和食の食材としてのニッチ市場",
+        "毒性を除去した加工食品開発"
+      ],
+      "value_added_products": [
+        "佃煮、漬物などの伝統的加工品"
+      ],
+      "niche_market_value": "園芸植物としての市場価値は高い。食材としては地域限定で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "広域での絶滅リスクは低いが、地域個体群の減少や食文化の消失が懸念される。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "沿岸部の開発や森林伐採による自生地の減少が脅威。",
+    "climate_change_vulnerability": "高い。特に南部の個体群は高温・乾燥化に脆弱。",
+    "cultural_erosion_risk": "高。アク抜きなどの伝統的な調理知識の継承が途絶えるリスクがある。",
+    "conservation_actions_needed": [
+      "自生地の保全",
+      "伝統的知識の記録と継承",
+      "地域個体群の遺伝的多様性の評価と保全"
+    ],
+    "priority_conservation_regions": [
+      "南西諸島を含む日本の沿岸域",
+      "台湾の固有変種が生息する地域"
+    ],
+    "ex_situ_conservation_status": "多くの植物園で園芸品種が保存されているが、野生系統の体系的な収集・保存は不十分。",
+    "in_situ_conservation_efforts": "一部の国定公園などで自生地が保護されているが、特定の保全プログラムは少ない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家AIとしての総合的評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 3,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 6,
+    "recommended_study_regions": [
+      "日本（南西諸島、九州）",
+      "台湾"
+    ],
+    "knowledge_gaps": [
+      "ピロリジジンアルカロイドの含有量と毒性の地域・個体変異",
+      "気候変動に対する生理学的応答",
+      "伝統的アク抜き手法の科学的評価"
+    ],
+    "global_dictionary_compatibility": 6
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主に園芸品種の情報が中心。食用品種としての分化は明確ではない。"
+      },
+      "variety_name": "斑入りツワブキ (Variegated Tsuwabuki)",
+      "local_name": "フイリツワブキ",
+      "origin_region": "日本",
+      "distinctive_characteristics": "葉に黄や白の斑が入る。観賞価値が高い。",
+      "cultural_importance": "日本の伝統的な園芸植物（古典園芸植物）として価値が高い。",
+      "climate_adaptation": "原種に準じるが、斑入り品種は日焼けに弱い傾向がある。",
+      "conservation_status": "園芸的に維持されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "民族植物学データベース",
+      "植物学データベース (KEW, GBIF)",
+      "日本の郷土料理に関する文献",
+      "毒性学に関する科学論文"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栄養価に関する信頼性の高いデータ"
+    ],
+    "regional_data_coverage": "東アジア、特に日本に偏っている。",
+    "missing_information": [
+      "世界的な生産・消費統計",
+      "栽培における収量データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

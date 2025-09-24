@@ -1,0 +1,739 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業研究機関の報告、民族植物学の文献から情報を統合。野生近縁種との交雑に関する詳細なデータは限定的。"
+    },
+    "primary_name": "Fenugreek",
+    "scientific_name": "Trigonella foenum-graecum",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "種子",
+      "茎"
+    ],
+    "origin_region": "地中海東部から西アジア",
+    "wild_relatives": [
+      "Trigonella caerulea",
+      "Trigonella corniculata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の言語辞書、植物名データベース、料理書から収集。"
+    },
+    "international": {
+      "en": [
+        "Fenugreek",
+        "Methi"
+      ],
+      "scientific_common": "Fenugreek"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "मेथी",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "வெந்தயம்",
+            "script": "Tamil"
+          },
+          {
+            "lang": "bn",
+            "name": "মেথি",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "حلبة",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "شنبلیله",
+            "script": "Perso-Arabic"
+          },
+          {
+            "lang": "tr",
+            "name": "Çemen otu",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "am",
+            "name": "አብሽ",
+            "script": "Ge'ez"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Bockshornklee",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Fenugrec",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Alholva",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "コロハ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "葫芦巴",
+            "script": "Han"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "統合分類学情報システム（ITIS）およびAPG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Trigonella",
+      "la": "Trigonella"
+    },
+    "species": {
+      "en": "Fenugreek",
+      "la": "foenum-graecum"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史文献、民族植物学研究、地域料理の専門書から情報を統合。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "香辛料",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "種子はカレーやピクルスの必須香辛料。葉はサブジ（炒め煮）やパラタ（パン）の具材として広く利用される。アーユルヴェーダでは消化促進や母乳分泌促進に用いられる。",
+        "seasonal_significance": "冬の野菜（葉）として重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東・北アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "香辛料",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "イエメンでは国民食「サルタ」に欠かせないソース「ヒルベ」の主原料。エジプトではパンの風味付けや薬用茶として利用。ラマダン明けの食事にも使われることがある。",
+        "seasonal_significance": "通年（乾燥種子）",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "アフリカの角",
+        "importance_level": 4,
+        "cultural_roles": [
+          "香辛料",
+          "飲料",
+          "薬用"
+        ],
+        "traditional_uses": "エチオピアでは、ミックススパイス「ベルベレ」の材料の一つ。種子を煎じて作る「アブシュ」という飲料は健康飲料として飲まれる。",
+        "seasonal_significance": "通年（乾燥種子）",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Aloo Methi",
+          "Methi Thepla",
+          "Sambar",
+          "Panch Phoron"
+        ],
+        "preparation_methods": [
+          "テンパリング（炒めて香りを出す）",
+          "粉砕（カレー粉）",
+          "煮込み（葉）",
+          "生地への練り込み"
+        ],
+        "cultural_context": "インド料理の風味の基盤をなす重要な香辛料であり、地域によっては日常的な野菜。苦味と香りが料理に深みを与える。"
+      },
+      {
+        "cuisine": "イエメン料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Saltah",
+          "Fahsa"
+        ],
+        "preparation_methods": [
+          "浸水",
+          "攪拌（ペースト化）"
+        ],
+        "cultural_context": "種子を浸水させて作る泡状のソース「ヒルベ」が特徴。国民食サルタの味と食感を決定づける中心的な食材。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前4000年頃のイラクの遺跡から発見。古代エジプトのツタンカーメン王の墓からも出土し、ミイラ作りの防腐剤や薬、香として利用された記録がある。",
+      "trade_routes": "古代ギリシャ・ローマ時代には地中海世界で広く栽培・利用され、「ギリシャの干し草」を意味する学名がつけられた。シルクロードを通じてアジア全域に伝播した。",
+      "cultural_exchange": "アラブ商人を通じて、香辛料および薬草として世界中に広まった。インドのアーユルヴェーダと中東のユナニ医学の双方で重要な生薬として位置づけられている。",
+      "domestication_history": "原産地である地中海東部から西アジアにかけての地域で栽培化され、長い年月をかけて各地の食文化や伝統医学に適応した多様な在来種が生まれた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き。病害が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "乾燥した涼しい季節（冬）が栽培に最適。インドの主要生産地帯がこの気候に属する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の心配がない春に播種し、夏に収穫する。穏やかな気候を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "短い夏を持つ地域でも栽培可能だが、収量は限定的。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に非常に強い。水利用効率が高く、灌漑が限られる半乾燥地での栽培に適している。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯（インド）",
+        "planting_season": "10月-11月（ラビ期）",
+        "harvest_season": "2月-4月",
+        "growing_period_days": "100-140"
+      },
+      {
+        "climate_zone": "温帯（ヨーロッパ）",
+        "planting_season": "4月-5月",
+        "harvest_season": "8月-9月",
+        "growing_period_days": "120-150"
+      }
+    ],
+    "productivity": {
+      "yield_range": "800-2500 kg/ha (種子)",
+      "factors_affecting_yield": [
+        "播種時期",
+        "灌漑の有無とタイミング",
+        "土壌の肥沃度",
+        "開花期の気象条件",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約200,000トン（推定）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": 80,
+          "characteristics": "世界最大の生産国かつ消費国。特にラジャスタン州が主産地。多様な在来種と改良品種が栽培されている。"
+        },
+        {
+          "country": "ネパール",
+          "production_share": 5,
+          "characteristics": "テライ平原で栽培される主要な香辛料作物の一つ。"
+        },
+        {
+          "country": "エジプト",
+          "production_share": 3,
+          "characteristics": "ナイル川流域で古くから栽培。国内消費が主。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変動が大きい。機能性成分に関する研究は活発だが、多くは実験室レベル。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "323 kcal",
+        "protein_g": "23 g",
+        "carbs_g": "58.4 g",
+        "fat_g": "6.4 g",
+        "fiber_g": "24.6 g"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "鉄",
+          "amount": "33.5 mg",
+          "daily_value_percent": "186%"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "191 mg",
+          "daily_value_percent": "48%"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "1.2 mg",
+          "daily_value_percent": "62%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ガラクトマンナン",
+        "concentration": "種子の約50%",
+        "health_effect": "水溶性食物繊維。血糖値上昇抑制、コレステロール低下作用。"
+      },
+      {
+        "compound": "サポニン（ジオスゲニン等）",
+        "concentration": "不明",
+        "health_effect": "コレステロール低下、抗炎症作用の可能性。"
+      },
+      {
+        "compound": "4-ヒドロキシイソロイシン",
+        "concentration": "不明",
+        "health_effect": "インスリン分泌促進作用が報告されている。"
+      },
+      {
+        "compound": "ソトロン",
+        "concentration": "微量",
+        "health_effect": "加熱により生成される特徴的なメープルシロップ様の香気成分。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "消化促進",
+          "食欲増進",
+          "母乳分泌促進（催乳）",
+          "血糖値コントロール",
+          "関節炎の緩和"
+        ],
+        "preparation": "種子の粉末、煎じ薬、ペースト"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "腎臓の強化",
+          "体を温める",
+          "痛みの緩和（腹痛、ヘルニア）"
+        ],
+        "preparation": "種子（葫芦巴）を他の生薬と共に煎じる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖降下作用（2型糖尿病）",
+        "脂質改善作用（総コレステロール、LDLコレステロール低下）",
+        "催乳作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "抗炎症作用",
+        "テストステロン向上作用",
+        "パーキンソン病への影響"
+      ],
+      "safety_considerations": "過剰摂取は消化器系の不快感を引き起こす可能性がある。妊娠中の大量摂取は避けるべき。ワルファリンなどの抗凝固薬との相互作用に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の料理書、食文化研究、食品科学の文献に基づく。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "ホールスパイスとして油で炒める（テンパリング）",
+          "挽いてスパイスミックス（マサラ）にする",
+          "葉を野菜として炒める、煮る、パンに練り込む",
+          "発芽させてサラダにする"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "ジャガイモ",
+          "レンズ豆",
+          "タマリンド",
+          "マスタードシード",
+          "クミン"
+        ]
+      },
+      {
+        "region": "中東",
+        "methods": [
+          "種子を水に浸し、ペースト状にする",
+          "粉末をパン生地に混ぜ込む"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "トマト",
+          "ニンニク",
+          "コリアンダー",
+          "肉（羊、牛）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（種子）",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "適切に保管すれば香りと効能は長期間維持される。"
+      },
+      {
+        "method": "乾燥（葉）",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "「カスリメティ」として知られ、生の葉とは異なる、より深く濃厚な香りが生まれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生の種子は強い苦味と渋み。加熱すると苦味が和らぎ、ナッツのような香ばしさとセロリに似た風味、メープルシロップのような甘い香りが現れる。葉は心地よい苦味と爽やかな香りを持つ。",
+      "aroma_compounds": [
+        "ソトロン",
+        "ピラジン類",
+        "テルペン類"
+      ],
+      "texture_characteristics": "種子は硬い。浸水させると粘性（ムチレージ）が出る。葉は柔らかい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性に関する定性的な評価は多いが、品種レベルでの耐暑性や極端気象への耐性に関する定量的データは少ない。将来予測は一般的な作物モデルからの類推を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "10-32°C",
+      "extreme_heat_survival": "開花・結実期の高温（35°C以上）は収量低下を招く。",
+      "cold_tolerance": "5°C以下で生育が停滞。霜に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い。深根性のため土壌深層の水分を利用できる。",
+      "flood_tolerance": "低。過湿や湛水状態に非常に弱い。",
+      "optimal_rainfall": "400-800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "草丈が低いため、強風による倒伏のリスクは比較的低い。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成効率が向上し、収量が増加する可能性があるが、高温や水ストレスが相殺する可能性もある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシなどの害虫の発生時期や頻度が増加する可能性がある。",
+      "disease_resistance_stability": "うどんこ病や立ち枯れ病は高温多湿で発生しやすく、気候変動によりリスクが増大する可能性がある。",
+      "beneficial_organism_relationships": "根粒菌との共生は、ストレス環境下での窒素供給に重要。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "インドのラジャスタン州、グジャラート州、地中海沿岸、ナイル川流域",
+        "2050_projection": "現在の主産地で冬季の気温上昇による収量減のリスク。より高緯度・高地の温帯地域での栽培可能性が広がる可能性がある。",
+        "2100_projection": "水ストレスの増大に適応できる可能性がある一方、極端な高温が栽培を制限する要因となる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "主に人為的な育種研究からの情報であり、自然環境下での交雑に関するデータは非常に限られている。野生遺伝子プールの評価は進行中。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "種内の在来種間、改良品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "同属のTrigonella caeruleaなど一部の近縁種との交雑が試みられているが、成功率は低い。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告例はほとんどない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "インド、中東、エチオピアに多様な在来種（ランドレース）が存在し、形態、収量、成分に大きな変異が見られる。",
+      "wild_gene_pool": "原産地には野生のTrigonella属植物が多数存在するが、これらが持つ有用遺伝子の評価と利用はまだ十分に進んでいない。",
+      "adaptive_genetic_variation": "在来種はそれぞれの地域の気候や土壌に適応した遺伝的特性を持つと考えられる。",
+      "inbreeding_depression_risk": "主に自家受粉するため、在来種内ではある程度の近交が進んでいるが、集団としての遺伝的多様性は維持されている。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インド、ラジャスタン州",
+        "environmental_pressure": "高温、乾燥、塩類土壌",
+        "adaptive_response": "高い耐乾性と耐塩性を持つ在来種の存在。",
+        "time_scale": "数世紀以上",
+        "mechanism": "地域の環境圧に対する長年の自然選択と農家による人為選択。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、さらなる耐乾性や耐病性を導入できる可能性がある。",
+      "improved_nutritional_content": "品種改良により、特定の機能性成分（ジオスゲニンなど）の含有量を高めることが可能。",
+      "novel_characteristics": "非シャッタリング性（種子が自然に落ちない性質）など、機械収穫に適した形質の導入。",
+      "hybrid_vigor_potential": "他家受粉率が低いため、ハイブリッド品種の利用は一般的ではないが、潜在的な可能性はある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑における受精後の胚珠の発育不全など。",
+      "chromosome_compatibility": "同属内でも染色体数や構造が異なる種があり、交雑の障壁となる。",
+      "fertility_of_hybrids": "種間雑種はしばしば不稔となる。",
+      "backcrossing_success": "戻し交配は有用遺伝子の導入に不可欠だが、連鎖する不要な遺伝子の除去が課題。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水ストレス",
+        "adaptive_traits": "深根性、クチクラ層の発達、気孔の制御",
+        "heritability": "中程度から高い",
+        "response_to_selection": "耐乾性の高い系統の選抜が可能。"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物としての一般的な特性からの類推が多く、コロハに特化したリジェネラティブ農業システムでの定量的研究はまだ少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的深い主根と、根粒菌が共生する側根を持つ。土壌の硬盤を破砕し、通気性を改善する。",
+      "organic_matter_contribution": "収穫後の残渣は分解されやすく、土壌有機物の供給源となる。緑肥としても利用価値が高い。",
+      "soil_structure_improvement": "根系の活動と有機物供給により、土壌の団粒構造を促進する。",
+      "erosion_control": "被覆作物として利用することで、風食や水食を防ぐ。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。後作の窒素肥料を削減できる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫にとって蜜源となる。",
+      "beneficial_insect_habitat": "多様な昆虫相を育む。",
+      "soil_microorganism_interaction": "根粒菌だけでなく、菌根菌など多様な土壌微生物との共生関係を築く。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "土壌構造の改善により、雨水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて、土壌の保水能力を高める。",
+      "runoff_reduction": "地表を被覆し、雨水の流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "根系を通じて炭素を土壌に供給し、安定した土壌有機炭素（SOC）の形成に寄与する。",
+      "soil_carbon_enhancement": "窒素固定により植物の生育が促進され、結果として土壌への炭素供給量が増加する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "穀物（トウモロコシ、ソルガム）との輪作や間作"
+      ],
+      "natural_pest_control": "一部の線虫を抑制する効果が報告されている。",
+      "nutrient_sharing": "後作の作物に固定した窒素を供給する。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌肥沃度を維持し、病害虫のサイクルを断ち切る。",
+      "stress_tolerance": "耐乾性が高いため、不安定な降水パターンを持つ地域での農業システムの安定化に貢献する。",
+      "recovery_capacity": "不明",
+      "adaptability": "多様な土壌条件に適応する能力がある。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場調査レポート、健康食品業界のトレンド、持続可能な食料システムに関する研究に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "種子は高タンパク質・高食物繊維であり、植物性食品としての価値が高い。",
+      "food_security_contribution": "乾燥地帯における重要な換金作物であり、栄養補助食品として微量栄養素の欠乏を防ぐ役割も担う。",
+      "local_food_system_integration": "小規模農家でも栽培が容易で、地域の食料自給と収入向上に貢献する。",
+      "alternative_protein_potential": "タンパク質抽出物として、代替肉やプロテインサプリメントへの利用ポテンシャルがある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康補助食品（血糖値、コレステロール管理）",
+        "自然食品・オーガニック市場",
+        "機能性食品原料（ガラクトマンナンなど）",
+        "自然香料（メープルフレーバー代替）"
+      ],
+      "value_added_products": [
+        "カプセル・錠剤サプリメント",
+        "ハーブティー",
+        "スパイスミックス",
+        "カスリメティ（乾燥葉）"
+      ],
+      "niche_market_value": "伝統医学や特定の民族料理（エスニックフード）市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性に関する研究はあるが、全国レベルでの体系的な遺伝資源消失リスク評価は不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の自生地は、土地開発や気候変動の脅威に晒されている可能性がある。",
+    "climate_change_vulnerability": "栽培品種は比較的高い適応性を持つが、特定の在来種は局所的な環境変化に対して脆弱な可能性がある。",
+    "cultural_erosion_risk": "主産地では低いが、食文化のグローバル化によりマイナーな地域での伝統的利用法が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来種の体系的な収集、評価、および特性評価",
+      "農家が在来種を栽培し続けることを奨励する参加型保全プログラムの推進",
+      "野生近縁種の生息域内（in-situ）および生息域外（ex-situ）保全"
+    ],
+    "priority_conservation_regions": [
+      "インド（ラジャスタン州）",
+      "イラン",
+      "トルコ",
+      "エチオピア"
+    ],
+    "ex_situ_conservation_status": "主要な国際・国内ジーンバンク（インド国立植物遺伝資源局など）に多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "限定的だが、一部の地域ではコミュニティ・シードバンクなどの取り組みがある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報を基にした総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド（ラジャスタン州の乾燥地帯）",
+      "イエメン（伝統的利用法と栽培システム）",
+      "エチオピア（遺伝的多様性と利用法）"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオ（高温、CO2濃度上昇）に対する品種ごとの生理学的応答",
+      "リジェネラティブ農業システムにおける炭素隔離能の定量的評価",
+      "野生近縁種が持つ有用遺伝子の網羅的探索"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主にインドの農業研究機関の報告に基づく。"
+      },
+      "variety_name": "Kasuri",
+      "local_name": "Kasuri Methi",
+      "origin_region": "パキスタン、カソール地方",
+      "distinctive_characteristics": "ゆっくりと生育し、草丈が低い。葉は小さく丸みを帯び、乾燥させると非常に強い芳香を放つ。",
+      "cultural_importance": "乾燥葉（カスリメティ）として、特に北インド料理で仕上げの香りづけに不可欠な高級食材。",
+      "climate_adaptation": "不明",
+      "conservation_status": "地域特産品として栽培が継続されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は主にインドの農業研究機関の報告に基づく。"
+      },
+      "variety_name": "Pusa Early Bunching",
+      "local_name": "Pusa Early Bunching",
+      "origin_region": "インド（育種品種）",
+      "distinctive_characteristics": "早生で多収。分枝が多く、葉物としての収穫に優れる。再生力が強く、複数回の収穫が可能。",
+      "cultural_importance": "商業的な葉物生産で広く利用される改良品種。",
+      "climate_adaptation": "幅広い環境への適応性を持つように育種されている。",
+      "conservation_status": "広く普及。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Kew Gardens 'Plants of the World Online'",
+      "FAOSTAT",
+      "Indian Council of Agricultural Research (ICAR) publications",
+      "Journal of Ethnopharmacology",
+      "Agronomy Journal"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種の遺伝子資源としての具体的なポテンシャル"
+    ],
+    "regional_data_coverage": "南アジアと中東に関する情報は豊富だが、アフリカや他の地域に関する詳細な栽培・利用データは比較的少ない。",
+    "missing_information": [
+      "特定の先住民コミュニティにおける固有の利用法",
+      "自然環境下での交雑頻度に関する実測データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

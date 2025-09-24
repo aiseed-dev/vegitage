@@ -1,0 +1,767 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical, agricultural (FAOSTAT, CGIAR), and anthropological databases. Wild relative information is well-documented."
+    },
+    "primary_name": "Maize",
+    "scientific_name": "Zea mays",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "花"
+    ],
+    "origin_region": "メソアメリカ（現メキシコ南部）",
+    "wild_relatives": [
+      "Zea mays subsp. parviglumis",
+      "Zea mays subsp. mexicana",
+      "Zea diploperennis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical and linguistic sources. The distinction between 'Corn' and 'Maize' is noted."
+    },
+    "international": {
+      "en": [
+        "Maize",
+        "Corn"
+      ],
+      "scientific_common": "Maize"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Maíz",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Milho",
+            "script": "Latin"
+          },
+          {
+            "lang": "qu",
+            "name": "Sara",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Mahindi",
+            "script": "Latin"
+          },
+          {
+            "lang": "af",
+            "name": "Mielie",
+            "script": "Latin"
+          },
+          {
+            "lang": "am",
+            "name": "በቆሎ (Bäk’olo)",
+            "script": "Ge'ez"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "玉米 (Yùmǐ)",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "トウモロコシ (Tōmorokoshi)",
+            "script": "Kanji/Kana"
+          },
+          {
+            "lang": "ko",
+            "name": "옥수수 (Oksusu)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "मक्का (Makka)",
+            "script": "Devanagari"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ナワ族（アステカ）",
+        "name": "Centeotl / Tlaolli",
+        "cultural_significance": "トウモロコシの神そのものを指し、生命、豊穣、宇宙の中心を象徴する。単なる食料ではなく、神聖な存在。"
+      },
+      {
+        "community": "マヤ族",
+        "name": "Ixim",
+        "cultural_significance": "創世神話ポポル・ヴフにおいて、人間はトウモロコシの生地から創られたとされ、人間の肉体そのものを意味する。"
+      },
+      {
+        "community": "ホピ族",
+        "name": "Qa'ö",
+        "cultural_significance": "青、赤、白、黄色のトウモロコシがそれぞれ方角、季節、人生の段階を象徴し、儀式や生活暦の基盤となっている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic information follows the APG IV system. Subspecific ranks represent key divisions in its evolutionary history."
+    },
+    "family": {
+      "en": "Grass family",
+      "la": "Poaceae"
+    },
+    "genus": {
+      "en": "Maize/Teosinte",
+      "la": "Zea"
+    },
+    "species": {
+      "en": "Maize",
+      "la": "Zea mays"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Subspecies",
+        "name": "Zea mays subsp. mays (栽培種トウモロコシ)"
+      },
+      {
+        "rank": "Subspecies",
+        "name": "Zea mays subsp. parviglumis (主要な祖先野生種テオシント)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is based on extensive anthropological and historical records. The cultural significance in the Americas is exceptionally well-documented."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "メソアメリカ・アンデス",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "トルティーヤ、タマル、ポソレ等の主食。チチャ（発酵飲料）。神々への供物、宇宙観の中心。",
+        "seasonal_significance": "植え付けから収穫までの一連のサイクルが、共同体の宗教儀式や年中行事と不可分に結びついている。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "サハラ以南アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物"
+        ],
+        "traditional_uses": "ウガリ、サザ、パップ等の粥状の主食として、数億人のカロリー源となっている。ビール醸造にも使用。",
+        "seasonal_significance": "乾季と雨季のサイクルに合わせた栽培が食料安全保障の基盤。収穫期はコミュニティの祝祭と関連。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米（先住民）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "儀式用"
+        ],
+        "traditional_uses": "豆、カボチャと共に「三姉妹」として混植。コーンブレッド、ホーミニー。儀式における象徴的な役割。",
+        "seasonal_significance": "トウモロコシの生育サイクルがカレンダーの役割を果たし、グリーンコーン祭りなど季節の儀式を規定する。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "メキシコ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "トルティーヤ",
+          "タマル",
+          "ポソレ",
+          "アトーレ"
+        ],
+        "preparation_methods": [
+          "ニシュタマリゼーション（石灰水処理）",
+          "製粉",
+          "発酵",
+          "焙煎"
+        ],
+        "cultural_context": "全ての食事の基本であり、地域や家庭のアイデンティティを形成する上で不可欠な要素。"
+      },
+      {
+        "cuisine": "東アフリカ・南部アフリカ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "ウガリ",
+          "ンシマ",
+          "サザ",
+          "パップ"
+        ],
+        "preparation_methods": [
+          "乾燥",
+          "製粉",
+          "練り粥"
+        ],
+        "cultural_context": "日々のエネルギー源であり、共同体の食事の中心。肉や野菜のシチューと共に食される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "約9000年前にメソアメリカで栽培化。オルメカ、マヤ、アステカ文明の基盤となった。",
+      "trade_routes": "コロンブス交換によって15世紀末以降、旧世界（ヨーロッパ、アフリカ、アジア）へ急速に伝播。",
+      "cultural_exchange": "世界各地の農業システムと食文化を根本的に変容させ、人口増加を支える要因となった。",
+      "domestication_history": "野生のテオシントから、数千年かけて人間の選択圧によって現在の姿に進化した。人類の作物改良史における最も劇的な例の一つ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿に適応した品種群が存在。年間を通じて栽培可能だが、病害虫圧が高い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "多くの品種にとって好適な気候。長い生育期間を確保できる。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "世界の主要生産地帯（コーンベルト）。夏の高温と十分な日照、降雨が必要。霜に弱い。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏が短くても生育可能な早生品種が必要。昼夜の寒暖差が糖度を高めることがある。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "灌漑なしでは栽培は非常に困難。ただし、ホピ族のトウモロコシなど、極度の乾燥に適応した在来種も存在する。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "アンデス山脈などで栽培される高地適応品種が存在する。生育期間が短く、低温耐性を持つ。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（北半球）",
+        "planting_season": "4月下旬～6月上旬",
+        "harvest_season": "8月～10月",
+        "growing_period_days": "90-120"
+      },
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "雨季の中盤～終わり",
+        "growing_period_days": "100-150"
+      }
+    ],
+    "productivity": {
+      "yield_range": "2,000 - 12,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "窒素施肥量",
+        "水利用可能性（特に開花期）",
+        "栽植密度",
+        "雑草・病害虫管理",
+        "日照量"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約12億トン (2022年)",
+      "major_producers": [
+        {
+          "country": "アメリカ合衆国",
+          "production_share": 32,
+          "characteristics": "大規模機械化農業。主に飼料用、エタノール用のデントコーン（黄粒種）。遺伝子組換え品種が主流。"
+        },
+        {
+          "country": "中国",
+          "production_share": 23,
+          "characteristics": "国内消費が主。飼料用と食用が中心。生産性の向上に注力。"
+        },
+        {
+          "country": "ブラジル",
+          "production_share": 11,
+          "characteristics": "輸出大国。二期作が一般的で、主に飼料用として生産される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な栄養価データは豊富。品種による機能性成分の差異に関する研究も進んでいる。伝統的知識は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "86",
+        "protein_g": "3.2",
+        "carbs_g": "19",
+        "fat_g": "1.2",
+        "fiber_g": "2.7"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "チアミン (ビタミンB1)",
+          "amount": "0.155 mg",
+          "daily_value_percent": "13"
+        },
+        {
+          "nutrient": "葉酸 (ビタミンB9)",
+          "amount": "42 µg",
+          "daily_value_percent": "11"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "37 mg",
+          "daily_value_percent": "10"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ルテインとゼアキサンチン",
+        "concentration": "高（黄粒種）",
+        "health_effect": "目の健康維持、特に加齢黄斑変性のリスク低減に関連する抗酸化物質。"
+      },
+      {
+        "compound": "アントシアニン",
+        "concentration": "高（青、紫、赤粒種）",
+        "health_effect": "強力な抗酸化作用を持ち、抗炎症、心血管疾患予防効果が期待される。"
+      },
+      {
+        "compound": "フェルラ酸",
+        "concentration": "豊富",
+        "health_effect": "主要なフェノール酸で、抗酸化作用や抗がん作用が研究されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "メソアメリカ",
+        "medical_system": "伝統医学",
+        "uses": [
+          "利尿作用（コーンシルク／絹糸）",
+          "消化促進",
+          "皮膚疾患の湿布"
+        ],
+        "preparation": "コーンシルクを煎じてお茶として飲用。トウモロコシの粉を湿布として使用。"
+      },
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "利水消腫（水分の排出とむくみ解消）",
+          "清肝利胆（肝臓の熱を取り、胆汁分泌を促進）"
+        ],
+        "preparation": "穂軸（玉米軸）やコーンシルク（玉米鬚）を煎じて用いる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用による細胞保護",
+        "食物繊維による腸内環境改善",
+        "目の健康維持（ルテイン、ゼアキサンチン）"
+      ],
+      "ongoing_research": [
+        "特定のアントシアニンの抗がん・抗糖尿病効果",
+        "難消化性デンプンのプレバイオティクス効果"
+      ],
+      "safety_considerations": "アフラトキシン（カビ毒）による汚染リスクが、特に湿潤な気候での不適切な貯蔵で問題となる。ニシュタマリゼーション未処理のトウモロコシを主食とするとナイアシン欠乏症（ペラグラ）のリスクがある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理での利用法は非常に多岐にわたり、文献も豊富。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ラテンアメリカ",
+        "methods": [
+          "製粉（マサ）",
+          "茹でる",
+          "蒸す",
+          "焼く",
+          "発酵"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豆類",
+          "唐辛子",
+          "石灰",
+          "チーズ",
+          "肉類"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "ロースト",
+          "グリル",
+          "製粉（コーンミール）",
+          "ポップ（爆裂）"
+        ],
+        "flavor_role": "主味/副味",
+        "typical_combinations": [
+          "バター",
+          "塩",
+          "豆類",
+          "カボチャ"
+        ]
+      },
+      {
+        "region": "アジア",
+        "methods": [
+          "茹でる",
+          "炒める",
+          "スープ",
+          "蒸す"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "鶏肉",
+          "卵",
+          "醤油",
+          "ココナッツミルク"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ニシュタマリゼーション",
+        "regions": [
+          "メソアメリカ"
+        ],
+        "shelf_life": "数日（マサ生地）",
+        "quality_changes": "栄養価（特にナイアシン）の向上、独特の風味と香りの付与、生地の加工性向上。"
+      },
+      {
+        "method": "乾燥・製粉",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数ヶ月～数年",
+        "quality_changes": "長期保存が可能になるが、ビタミン類は一部減少。風味は凝縮される。"
+      },
+      {
+        "method": "発酵",
+        "regions": [
+          "アンデス地域",
+          "アフリカ"
+        ],
+        "shelf_life": "数日～数週間（飲料）",
+        "quality_changes": "アルコールと酸を生成し、保存性を高める。独特の風味が付与され、消化性が向上する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "甘味（スイートコーン）、でんぷん質の旨味（フリントコーン、デントコーン）、ナッツのような香り（焙煎時）、独特の石灰の風味（ニシュタマリゼーション後）",
+      "aroma_compounds": [
+        "ジメチルスルフィド（加熱時の典型的な香り）",
+        "ピラジン類（焙煎時の香ばしい香り）"
+      ],
+      "texture_characteristics": "もちもち（ワキシーコーン）、ぷちぷち（スイートコーン）、粉質（フラワーコーン）、硬質（フリントコーン）など多様。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "商用品種のデータは多いが、伝統的な在来種の定量的データは限定的。将来予測は広域モデルに基づくものであり、地域や品種による差異が大きい。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "25-33°C",
+      "extreme_heat_survival": "38°C以上で受粉障害や生育不良が深刻化する。",
+      "cold_tolerance": "10°C以下で生育が著しく阻害される。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "C4植物であるため比較的に高いが、絶対的な水分要求量は多い。",
+      "flood_tolerance": "低。数日間の湛水で根が壊死し、枯死する。",
+      "optimal_rainfall": "生育期間中に500-800mmの降水量が必要。特に開花・受粉期（タッセリング）の水分不足は致命的。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中。背が高いため強風で倒伏しやすい（lodging）。",
+      "hail_damage_recovery": "葉の損傷からの回復力は比較的高いが、成長点や穂が損傷すると収量は激減する。",
+      "rapid_temperature_change": "適応力は低い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "限定的。C4植物であるため、C3植物ほどCO2濃度上昇による光合成促進効果は大きくない。",
+      "ozone_sensitivity": "中程度。高濃度のオゾンは葉の損傷を引き起こす。",
+      "uv_radiation_tolerance": "高。高地原産の植物であるため、紫外線耐性は比較的高い。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、熱帯性の害虫（ツマジロクサヨトウ等）の分布域が拡大し、被害が深刻化している。",
+      "disease_resistance_stability": "高温多湿はカビ毒（アフラトキシン）を生成する真菌の繁殖を助長し、食の安全上の脅威となる。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アメリカ中西部、中国東北部、ブラジル高原、アルゼンチンパンパ",
+        "2050_projection": "適地がより高緯度（カナダ、ロシア南部）へ移動。現在の中緯度地帯では熱ストレスと干ばつリスクが増大。",
+        "2100_projection": "主要生産地帯での安定生産が困難になる可能性。高地や高緯度での栽培が重要になる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "トウモロコシの交雑和合性に関する研究は育種学の根幹であり、データは豊富。野生種との交雑は遺伝資源保全の観点から重要。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全ての栽培種トウモロコシ（デント、フリント、スイート、ポップ等）は相互に極めて容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "野生種のテオシント（Zea属の他種、例えばZea diploperennis）と容易に交雑し、稔性のある子孫を残す。"
+      ],
+      "intergeneric_possibility": [
+        "近縁のTripsacum属との交雑例が報告されているが、自然条件下では極めて稀。"
+      ],
+      "successful_natural_hybrids": [
+        "メキシコの伝統的な農地では、栽培トウモロコシと野生テオシント間の遺伝子流動が継続的に起きている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "極めて高い。メキシコだけでも59以上の人種（races）が記録され、粒の色、形、大きさ、生態的適応性が非常に豊か。",
+      "wild_gene_pool": "祖先野生種であるテオシントが、病害虫抵抗性や環境ストレス耐性に関する貴重な遺伝子供給源となっている。",
+      "adaptive_genetic_variation": "高地、低地、乾燥地、湿潤地など、多様な環境に適応した遺伝的変異が在来種内に豊富に存在する。",
+      "inbreeding_depression_risk": "高い。他家受精植物であるため、近親交配を続けると著しい近交弱勢を示す。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "メキシコ・オアハカ州",
+        "environmental_pressure": "多様な標高、土壌、降水量",
+        "adaptive_response": "各地域の微気候に特化した多数の在来種が分化。農民による種子選抜と、テオシントとの自然交雑が適応を促進。",
+        "time_scale": "数千年",
+        "mechanism": "農民による人為選択と、遺伝子流動を伴う自然選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "テオシントとの交雑により、干ばつ耐性や病害虫抵抗性を向上させる可能性がある。",
+      "improved_nutritional_content": "多様な在来種を交配することで、特定のアミノ酸（リジン、トリプトファン）や機能性成分（アントシアニン）を強化できる。",
+      "novel_characteristics": "多年生のテオシントとの交雑により、多年生トウモロコシの開発が研究されている。",
+      "hybrid_vigor_potential": "極めて高い。雑種強勢（ヘテロシス）の利用は、現代のトウモロコシ育種の基本原理である。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Zea属内では交雑障壁はほとんどない。",
+      "chromosome_compatibility": "Zea属の種は染色体数が同じ（2n=20）か倍数体であり、適合性は高い。",
+      "fertility_of_hybrids": "Zea maysとテオシントの雑種は通常、高い稔性を持つ。",
+      "backcrossing_success": "戻し交配は容易であり、育種で一般的に用いられる手法である。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い根系、気孔の早期閉鎖、葉の巻き込み（ローリング）",
+        "heritability": "中〜高",
+        "response_to_selection": "在来種の中に高い耐乾性を持つ系統が存在する。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "伝統的な混植システム（ミルパ）に関する知見は豊富だが、現代的なリジェネラティブ農法におけるトウモロコシの役割に関する定量的データはまだ発展途上。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く、広範囲に広がる繊維状の根系を持つ。土壌の団粒構造を形成し、生物的耕起の効果がある。",
+      "organic_matter_contribution": "収穫後の残渣（茎、葉、根）のバイオマスが大きく、土壌有機物の重要な供給源となる。",
+      "soil_structure_improvement": "根の活動と有機物供給により、土壌の通気性や保水性を改善する。",
+      "erosion_control": "生育中はキャノピーが雨滴の衝撃を和らげるが、畝間が裸地になりやすく、適切な被覆作物がないと侵食を助長する。",
+      "nutrient_cycling_role": "窒素要求量が大きい「栄養消費者」であるが、アーバスキュラー菌根菌と共生し、リンの吸収を促進する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "風媒花であるため、花粉媒介者への直接的な貢献は少ない。",
+      "beneficial_insect_habitat": "背の高い構造は、捕食性の昆虫やクモなどに生息地を提供する。",
+      "soil_microorganism_interaction": "根から糖を分泌し、多様な土壌微生物群集の活動を支える。",
+      "above_ground_biodiversity": "「三姉妹（ミルパ）」農法では、豆やカボチャと混植することで、多様な昆虫や鳥類を引き寄せる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の発達が土壌の孔隙を増やし、水の浸透を助ける。",
+      "moisture_retention": "残渣によるマルチングは土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "等高線栽培や被覆作物の併用により、表面流出を削減できる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "非常に大きい。C4植物の高い光合成能力により、大量の炭素を固定する。",
+      "below_ground_carbon": "根系のバイオマスも大きく、土壌への炭素供給源として重要。",
+      "soil_carbon_enhancement": "不耕起栽培や被覆作物の導入により、土壌炭素貯留量を増加させるポテンシャルが高い。",
+      "carbon_sequestration_rate": "栽培方法に大きく依存する。リジェネラティブな管理下では高い隔離速度が期待される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "インゲンマメ（窒素固定、トウモロコシを支柱にする）",
+        "カボチャ（地面を覆い、雑草抑制と水分保持）"
+      ],
+      "natural_pest_control": "混植により害虫の天敵の生息地を提供し、単一作物よりも害虫の発生を抑制する。",
+      "nutrient_sharing": "マメ科植物が固定した窒素を、菌根菌ネットワークを介してトウモロコシが利用する。",
+      "allelopathic_interactions": "限定的。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "ミルパのような多様なシステムでは、単一作物の栽培よりも生産が安定し、気候変動に対する緩衝能力が高い。",
+      "stress_tolerance": "生物多様性が高いシステムでは、病害虫の蔓延が抑制され、ストレス耐性が向上する。",
+      "recovery_capacity": "不明",
+      "adaptability": "多様な遺伝資源を持つ在来種を用いることで、システム全体の適応性が向上する。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "トウモロコシの工業的・商業的利用に関する情報は広範囲にわたる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "主要なエネルギー源。タンパク質品質（リジン、トリプトファンが不足）は他の穀物や豆類との組み合わせで補完する必要がある。",
+      "food_security_contribution": "米、小麦と並ぶ三大穀物の一つであり、世界の食料安全保障の根幹を支えている。",
+      "local_food_system_integration": "伝統的な在来種は、地域の食文化と生物多様性を維持し、地域食品システムの核となりうる。",
+      "alternative_protein_potential": "トウモロコシタンパク質（ゼイン）は、植物性食品の原料として利用されるが、栄養価の点では限定的。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品（例：アントシアニン豊富な紫トウモロコシ製品）",
+        "グルテンフリー食品市場",
+        "伝統的なニシュタマライズ製品の高級市場"
+      ],
+      "value_added_products": [
+        "コーンスターチ",
+        "コーンシロップ（異性化糖）",
+        "コーン油",
+        "バイオエタノール",
+        "バイオプラスチック（PLA）",
+        "ウイスキー（バーボン）"
+      ],
+      "niche_market_value": "カラフルな在来種（グラスジェムコーン等）や、特定の料理（ポレンタ用、トルティーヤ用）に特化した品種は、高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "トウモロコシの遺伝資源保全は国際的な重要課題であり、多くの研究機関が取り組んでいる。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "原産地における野生近縁種（テオシント）の生息地が、農地拡大や都市化によって脅かされている。",
+    "climate_change_vulnerability": "多くの在来種は特定の微気候に適応しているため、気候変動によって栽培適地が失われるリスクがある。",
+    "cultural_erosion_risk": "近代的な均一品種の導入により、伝統的な種子交換システムや栽培知識が失われつつある。",
+    "conservation_actions_needed": [
+      "在来種のオンファーム（農家による）保全の支援",
+      "野生近縁種の生息域内（in-situ）保全",
+      "公的なジーンバンクでの域外（ex-situ）保全の強化",
+      "遺伝子組換え品種からの遺伝子汚染を防ぐための隔離措置"
+    ],
+    "priority_conservation_regions": [
+      "メキシコ（特にオアハカ州、チアパス州）",
+      "グアテマラ",
+      "アンデス山脈地域（ペルー、ボリビア）"
+    ],
+    "ex_situ_conservation_status": "国際トウモロコシ・コムギ改良センター（CIMMYT）や各国のジーンバンクに、多数の系統が保存されている。",
+    "in_situ_conservation_efforts": "メキシコやペルーで、農家が主体となった在来種の保全活動や、コミュニティ・シードバンクが設立されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "トウモロコシの多面的な価値に基づき、総合的に評価。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 10,
+    "biodiversity_conservation_importance": 10,
+    "recommended_study_regions": [
+      "メキシコ、中央アメリカ（遺伝的多様性の中心地）",
+      "アンデス高地（高地適応品種の研究）",
+      "アフリカのサヘル地帯（乾燥適応品種の研究）"
+    ],
+    "knowledge_gaps": [
+      "多数の在来種が持つ気候変動適応関連形質の定量的評価",
+      "伝統的混植システムにおける土壌微生物叢の機能解明",
+      "気候変動がカビ毒汚染リスクに与える影響の地域別予測"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "よく知られた代表的な在来品種。"
+      },
+      "variety_name": "Oaxaca Green Dent",
+      "local_name": "Maíz Verde de Oaxaca",
+      "origin_region": "メキシコ、オアハカ州",
+      "distinctive_characteristics": "美しい緑色のデント（凹粒）種。粉が柔らかく、トルティーヤやタマル用のマサとして最高品質とされる。",
+      "cultural_importance": "オアハカの食文化、特に伝統的なメモラやタマルの味を決定づける重要な品種。",
+      "climate_adaptation": "地域の気候に適応しているが、特定の環境以外での栽培情報は限定的。",
+      "conservation_status": "地域内で農家により保全されているが、近代品種の普及により脆弱。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "文化的、生態的に重要な品種。"
+      },
+      "variety_name": "Hopi Blue Corn",
+      "local_name": "Sakwaqa'o",
+      "origin_region": "アメリカ合衆国南西部（ホピ族）",
+      "distinctive_characteristics": "濃い青紫色のフリント（硬粒）種。深く植える農法に適応した長い中胚軸を持つ。ナッツのような風味。",
+      "cultural_importance": "ホピ族の儀式や食生活の中心。ピキ（パン）などの伝統料理に不可欠。",
+      "climate_adaptation": "極度の乾燥と砂質土壌に非常に強い耐性を持つ。",
+      "conservation_status": "ホピ族コミュニティにより積極的に保全されているが、文化の継承が課題。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "CIMMYT (International Maize and Wheat Improvement Center)",
+      "FAOSTAT",
+      "Germplasm Resources Information Network (GRIN)",
+      "Major ethnobotanical and anthropological academic journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "在来種の栄養・機能性成分に関する網羅的なデータ"
+    ],
+    "regional_data_coverage": "アメリカ大陸は非常に豊富。アフリカ、アジアの在来種に関する体系的データは比較的少ない。",
+    "missing_information": [
+      "多くの在来種の具体的な栽培マニュアル",
+      "伝統的な病害虫管理法の科学的評価"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

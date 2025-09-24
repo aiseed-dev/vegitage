@@ -1,0 +1,727 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物学、農学、歴史学の主要なデータベース及び文献から情報を統合。栽培化の歴史は考古学的証拠に基づいている。"
+    },
+    "primary_name": "Lentil",
+    "scientific_name": "Lens culinaris",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子"
+    ],
+    "origin_region": "西アジア（肥沃な三日月地帯）",
+    "wild_relatives": [
+      "Lens orientalis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "多言語の植物名データベース、各地域の農業・料理文献から収集。"
+    },
+    "international": {
+      "en": [
+        "Lentil"
+      ],
+      "scientific_common": "Lentil"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "मसूर",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ur",
+            "name": "مسور",
+            "script": "Arabic"
+          },
+          {
+            "lang": "bn",
+            "name": "মসুর ডাল",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "عدس",
+            "script": "Arabic"
+          },
+          {
+            "lang": "tr",
+            "name": "Mercimek",
+            "script": "Latin"
+          },
+          {
+            "lang": "fa",
+            "name": "عدس",
+            "script": "Arabic"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Lenteja",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Lentille",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Lenticchia",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Linse",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "am",
+            "name": "ምስር",
+            "script": "Ge'ez"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Lentil",
+      "la": "Lens"
+    },
+    "species": {
+      "en": "Lentil",
+      "la": "Lens culinaris"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "culinaris"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "人類学、歴史学、民族植物学の文献に基づき、世界的な重要性を評価。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "副菜"
+        ],
+        "traditional_uses": "ダール（豆の煮込み）として日常的に消費される、最も重要なタンパク源の一つ。様々なカレーや米料理に使用される。",
+        "seasonal_significance": "主に冬作物として栽培され、年間を通じて保存食として利用される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東・北アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "儀式用",
+          "副菜"
+        ],
+        "traditional_uses": "スープ（ショルバ・アッダス）や、米と合わせた料理（ムジャッダラ）として広く食される。ラマダン期間中の食事にも頻繁に登場する。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "スープ、シチュー、サラダなどに利用される。特にイタリアでは大晦日に富を象徴する食べ物としてレンズ豆を食べる習慣がある。",
+        "seasonal_significance": "大晦日の食文化など",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Dal Tadka",
+          "Masoor Dal",
+          "Khichdi"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "挽き割り"
+        ],
+        "cultural_context": "ベジタリアン人口が多いインド亜大陸において、不可欠なタンパク質源であり、日常食の根幹をなす。"
+      },
+      {
+        "cuisine": "レバント料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Mujaddara",
+          "Shorbat Adas"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "ピューレ"
+        ],
+        "cultural_context": "古代から続く庶民の味であり、栄養価が高く安価なため、家庭料理の基本となっている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "旧約聖書にエサウがレンズ豆の煮物と引き換えに長子の権利を売った記述がある。古代エジプト、ギリシャ、ローマでも広く食されていた。",
+      "trade_routes": "古代から地中海貿易やシルクロードを通じてアジア、ヨーロッパ、アフリカへ伝播した。",
+      "cultural_exchange": "安価で栄養価の高い保存食として、軍隊の食料や貧困層の食料となり、人口維持と文化の拡大に貢献した。",
+      "domestication_history": "約1万年前に西アジアの肥沃な三日月地帯で、野生種Lens orientalisから栽培化された、人類最古の作物の一つ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冷涼で乾燥した冬作物として栽培される。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼で比較的乾燥した気候を好む。春に播種し、夏に収穫。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "短い生育期間の品種が適応。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "マメ科作物の中でも特に乾燥に強い。年間降水量300mm程度でも栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（カナダ平原など）",
+        "planting_season": "春（5月）",
+        "harvest_season": "晩夏（8月）",
+        "growing_period_days": "80-110"
+      },
+      {
+        "climate_zone": "亜熱帯（インド北部など）",
+        "planting_season": "秋（10月-11月）",
+        "harvest_season": "冬から早春（2月-3月）",
+        "growing_period_days": "100-130"
+      }
+    ],
+    "productivity": {
+      "yield_range": "1000-2500 kg/ha",
+      "factors_affecting_yield": [
+        "降水量",
+        "気温",
+        "土壌肥沃度",
+        "雑草管理",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約650万トン（2022年, FAOSTAT）",
+      "major_producers": [
+        {
+          "country": "カナダ",
+          "production_share": "約35%",
+          "characteristics": "世界最大の生産国かつ輸出国。大規模機械化農業。"
+        },
+        {
+          "country": "インド",
+          "production_share": "約25%",
+          "characteristics": "世界第2位の生産国だが、国内消費が膨大で世界最大の輸入国でもある。"
+        },
+        {
+          "country": "オーストラリア",
+          "production_share": "約10%",
+          "characteristics": "主要な輸出国の一つ。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "USDA FoodData Centralなどの主要栄養データベースに基づく標準値。品種や調理法による変動は存在する。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "352 (乾燥)",
+        "protein_g": "24.6",
+        "carbs_g": "63.3",
+        "fat_g": "1.1",
+        "fiber_g": "10.7"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸",
+          "amount": "479 µg",
+          "daily_value_percent": "120%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "6.5 mg",
+          "daily_value_percent": "36%"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "1.3 mg",
+          "daily_value_percent": "57%"
+        },
+        {
+          "nutrient": "リン",
+          "amount": "281 mg",
+          "daily_value_percent": "22%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ポリフェノール（プロシアニジン、フラボノール）",
+        "concentration": "品種によるが豊富",
+        "health_effect": "強力な抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "中程度",
+        "health_effect": "コレステロール低下作用の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "便秘の改善",
+          "滋養強壮"
+        ],
+        "preparation": "スープや粥として調理される。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "心血管疾患リスクの低減",
+        "2型糖尿病のリスク低減",
+        "血糖コントロールの改善",
+        "体重管理"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "腸内フローラの改善効果"
+      ],
+      "safety_considerations": "レクチンやフィチン酸を含むが、適切に調理（浸水、加熱）することで大部分は不活性化される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各国の料理書や食文化研究に基づき作成。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア・中東",
+        "methods": [
+          "煮込み",
+          "スープ",
+          "ピューレ",
+          "カレー"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "玉ねぎ",
+          "ニンニク",
+          "クミン",
+          "コリアンダー",
+          "ターメリック"
+        ]
+      },
+      {
+        "region": "ヨーロッパ・北米",
+        "methods": [
+          "スープ",
+          "サラダ",
+          "シチュー",
+          "付け合わせ"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "野菜（人参、セロリ）",
+          "ハーブ（タイム、ローズマリー）",
+          "ソーセージ",
+          "ベーコン"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "適切に保存すれば品質劣化は少ない。"
+      },
+      {
+        "method": "缶詰",
+        "regions": [
+          "北米",
+          "ヨーロッパ"
+        ],
+        "shelf_life": "2-5年",
+        "quality_changes": "食感が柔らかくなる。ビタミンの一部が失われる可能性がある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "素朴で土のような（Earthy）風味。品種によりナッツのような風味やコショウのようなスパイシーさを持つものもある。",
+      "aroma_compounds": [
+        "ピラジン類",
+        "アルデヒド類"
+      ],
+      "texture_characteristics": "品種による。赤レンズ豆は煮崩れやすくクリーミーに。緑や茶色のレンズ豆は形が残りやすい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性に関する研究は多いが、極端気象やCO2濃度変化への応答に関する定量的データは限定的。将来予測は広域モデルに基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "18-30°C",
+      "extreme_heat_survival": "開花期の35°C以上の高温は受粉と着莢に深刻なダメージを与える。",
+      "cold_tolerance": "-5°C程度までの霜には耐えるが、厳しい凍結には弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "比較的高い。深い根系が水分を効率的に吸収する。",
+      "flood_tolerance": "低。湛水状態に非常に弱く、根腐れを起こしやすい。",
+      "optimal_rainfall": "300-500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "草丈が低いため、強風による倒伏のリスクは中程度。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度上昇による光合成促進効果が期待される。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやマメゾウムシなどの害虫の発生期間が長くなる可能性がある。",
+      "disease_resistance_stability": "高温多湿は炭疽病や萎凋病のリスクを高める。",
+      "beneficial_organism_relationships": "根粒菌との共生は高温や乾燥ストレスで阻害される可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "カナダ南部平原、インド北部、トルコのアナトリア高原、オーストラリア南部",
+        "2050_projection": "適地がより高緯度地域（カナダ北部など）へシフトする可能性。既存の乾燥地域ではさらなる水ストレスが懸念される。",
+        "2100_projection": "不明",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "育種学的な交雑データは豊富だが、自然環境下での交雑頻度に関するデータは少ない。主に自家受粉性である。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "野生祖先種 Lens orientalis や他の野生近縁種（L. nigricans, L. ervoides）との交雑が可能で、育種の遺伝資源として活用されている。"
+      ],
+      "intergeneric_possibility": [
+        "非常に低いか不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "自然環境下での種間交雑の報告は稀。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地周辺（中東、中央アジア）には多様な在来種が存在するが、商業栽培の拡大により遺伝的浸食が懸念される。",
+      "wild_gene_pool": "野生近縁種は耐病性、耐乾性、栄養価など、栽培種にはない有用な遺伝子を保持している。",
+      "adaptive_genetic_variation": "高い",
+      "inbreeding_depression_risk": "低い（主に自家受粉性のため）。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "中東の乾燥地帯",
+        "environmental_pressure": "水不足、塩害",
+        "adaptive_response": "早生性、深い根系、浸透圧調節能力の発達",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる高いポテンシャルがある。",
+      "improved_nutritional_content": "鉄や亜鉛などの微量栄養素の含有量を高める育種が進められている。",
+      "novel_characteristics": [
+        "除草剤耐性",
+        "機械収穫適性"
+      ],
+      "hybrid_vigor_potential": "中程度"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間交雑では胚珠の敗退などが見られることがある。",
+      "chromosome_compatibility": "Lens属内では染色体数は2n=14で安定している。",
+      "fertility_of_hybrids": "種間雑種では稔性が低下することがある。",
+      "backcrossing_success": "戻し交配は育種で一般的に用いられる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥",
+        "adaptive_traits": [
+          "早期開花",
+          "深い根系",
+          "気孔コンダクタンスの低下"
+        ],
+        "heritability": "中〜高",
+        "response_to_selection": "比較的速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "マメ科植物としての一般的な特性に基づく評価が多い。ヒラマメに特化したリジェネラティブ農業システムの研究は進行中。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が深く伸びる（1m以上）ため、土壌の硬盤を破砕し、水の浸透を助ける。",
+      "organic_matter_contribution": "収穫後の残渣は土壌有機物の良い供給源となる。",
+      "soil_structure_improvement": "根系が土壌団粒構造の形成を促進する。",
+      "erosion_control": "生育初期の被覆は遅いが、密植により土壌侵食を軽減できる。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を年間50-110 kg/ha固定し、化学肥料の必要性を減らす。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの花粉媒介者にとっての蜜源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根粒菌やアーバスキュラー菌根菌との共生関係を通じて、土壌微生物叢の多様性を高める。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が水の浸透を促進する。",
+      "moisture_retention": "作物残渣の土壌被覆が蒸発を抑制し、土壌水分を保持する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系により、土壌深層への炭素供給に貢献する可能性がある。",
+      "soil_carbon_enhancement": "不耕起栽培や輪作体系に組み込むことで土壌炭素貯留を促進する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "穀物（小麦、大麦）との輪作体系が一般的。ヒラマメが土壌に窒素を供給し、後作の穀物の収量を向上させる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作に組み込むことで、土壌肥沃度を維持し、病害虫のサイクルを断ち切り、システムの安定性を高める。",
+      "stress_tolerance": "乾燥に強いため、水資源が限られた地域での農業システムのレジリエンスを高める。",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場調査レポート、食品科学、栄養学の最新の研究動向を反映。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "植物性タンパク質ブームの中心的な食材。栄養価が高く、環境負荷が低い。",
+      "food_security_contribution": "安価で保存性が高く、栄養価に優れるため、特に開発途上国における食料安全保障に大きく貢献する。",
+      "local_food_system_integration": "小規模農家でも栽培しやすく、地域の食料自給率向上に貢献する。",
+      "alternative_protein_potential": "ミートアナログ、植物性ミルク、プロテインパウダーなどの原料として高いポテンシャルを持つ。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品市場",
+        "ベジタリアン・ヴィーガン市場",
+        "グルテンフリー食品市場"
+      ],
+      "value_added_products": [
+        "レンズ豆パスタ",
+        "レンズ豆チップス",
+        "スープやカレーのレトルト製品",
+        "植物性タンパク質分離物"
+      ],
+      "niche_market_value": "フランスの「ピュイ・レンズ豆（Lentille verte du Puy）」のように、特定の産地の品種はAOP（原産地呼称保護）認証を受け、高付加価値商品となっている。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "国際的な遺伝資源機関（ICARDAなど）の報告に基づくが、全ての地域の状況が網羅されているわけではない。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種の自生地である中東地域は、気候変動や土地開発の脅威にさらされている。",
+    "climate_change_vulnerability": "栽培品種は熱ストレスに脆弱な面があり、温暖化の進行は生産に影響を与える可能性がある。",
+    "cultural_erosion_risk": "低。世界中で食文化に深く根付いている。",
+    "conservation_actions_needed": [
+      "在来種の収集と特性評価",
+      "野生近縁種の生息域内保全（in-situ）とジーンバンクでの域外保全（ex-situ）の強化",
+      "参加型育種による地域適応品種の開発"
+    ],
+    "priority_conservation_regions": [
+      "肥沃な三日月地帯（トルコ、シリア、イラン、イラク）",
+      "中央アジア",
+      "エチオピア"
+    ],
+    "ex_situ_conservation_status": "ICARDA（国際乾燥地農業研究センター）や世界各地のジーンバンクに多数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "一部の地域で、農家による在来種の保全活動やコミュニティ・シードバンクの取り組みが行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全ての情報を総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "南アジアの多様なダール文化",
+      "中東の伝統的栽培システム",
+      "エチオピアの遺伝的多様性"
+    ],
+    "knowledge_gaps": [
+      "極端気象（豪雨、熱波）に対する品種レベルでの応答",
+      "土壌微生物叢との相互作用の詳細なメカニズム",
+      "先住民コミュニティにおける伝統的知識の体系的な記録"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主要な品種に関する情報は存在するが、世界中の無数の在来種に関する体系的なデータは不足している。"
+      },
+      "variety_name": "Puy Lentil (Lentille verte du Puy)",
+      "local_name": "Lentille verte du Puy",
+      "origin_region": "フランス、オーヴェルニュ地域",
+      "distinctive_characteristics": "濃い緑色で青い斑点がある。小粒で煮崩れしにくい。独特のナッツのような風味と胡椒のような香り。",
+      "cultural_importance": "フランス料理における高級食材。AOP（原産地呼称保護）に指定されている。",
+      "climate_adaptation": "冷涼で火山性の土壌に適応している。",
+      "conservation_status": "商業的に保護されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主要な品種に関する情報は存在するが、世界中の無数の在来種に関する体系的なデータは不足している。"
+      },
+      "variety_name": "Masoor (Red Lentil)",
+      "local_name": "Masoor Dal",
+      "origin_region": "南アジア、中東",
+      "distinctive_characteristics": "皮を剥いた状態では赤橙色。小粒で非常に早く調理でき、煮崩れてクリーミーな食感になる。",
+      "cultural_importance": "インド亜大陸で最も一般的に消費されるダールの一つ。",
+      "climate_adaptation": "乾燥した亜熱帯気候に適応。",
+      "conservation_status": "広く栽培されているが、多様な在来種が存在。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主要な品種に関する情報は存在するが、世界中の無数の在来種に関する体系的なデータは不足している。"
+      },
+      "variety_name": "Beluga Lentil",
+      "local_name": "Black Lentil",
+      "origin_region": "カナダ、アメリカ",
+      "distinctive_characteristics": "小さく光沢のある黒い種子で、見た目がキャビアに似ている。調理後も形が崩れにくい。豊かな土の風味。",
+      "cultural_importance": "現代的な西洋料理やグルメ市場で人気が高い。",
+      "climate_adaptation": "北米の温帯気候に適応。",
+      "conservation_status": "商業品種として安定。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "USDA FoodData Central",
+      "Kew Gardens - Plants of the World Online",
+      "ICARDA Genebank",
+      "Academic journals in agronomy, anthropology, and food science"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動下の病害虫圧力の変化に対する具体的な適応策",
+      "多様な在来種の栄養価と機能性成分の比較分析",
+      "リジェネラティブ農法における炭素隔離能力の定量的評価"
+    ],
+    "regional_data_coverage": "南アジア、中東、北米、ヨーロッパは比較的豊富。アフリカや南米に関するデータは限定的。",
+    "missing_information": [
+      "先住民コミュニティにおける儀式的な利用に関する詳細",
+      "アレルゲン性に関する地域差"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

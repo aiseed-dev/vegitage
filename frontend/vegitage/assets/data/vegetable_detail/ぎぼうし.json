@@ -1,0 +1,567 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "植物学的な基本情報は確立されているが、食用としての科学的データは日本に限定される。属全体を対象としているため、種による差異が存在する。"
+    },
+    "primary_name": "Hosta",
+    "scientific_name": "Hosta spp.",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "若芽",
+      "若葉",
+      "花"
+    ],
+    "origin_region": "東アジア（日本、朝鮮半島、中国東部）",
+    "wild_relatives": [
+      "Hosta montana",
+      "Hosta sieboldiana",
+      "Hosta sieboldii",
+      "Hosta longipes"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "観賞用植物としての名称は世界的に知られている。食用としての名称は地域限定的。"
+    },
+    "international": {
+      "en": [
+        "Hosta",
+        "Plantain Lily"
+      ],
+      "scientific_common": "Hosta"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ギボウシ, ウルイ（山菜名）",
+            "script": "漢字/仮名"
+          },
+          {
+            "lang": "ko",
+            "name": "비비추",
+            "script": "ハングル"
+          },
+          {
+            "lang": "zh",
+            "name": "玉簪",
+            "script": "漢字"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "日本の山間部コミュニティ",
+        "name": "ウルイ、ギンボ",
+        "cultural_significance": "春の訪れを告げる代表的な山菜の一つ。季節の味として地域で親しまれてきた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく現代の分類。古くはユリ科に分類されていた。"
+    },
+    "family": {
+      "en": "Asparagus family",
+      "la": "Asparagaceae"
+    },
+    "genus": {
+      "en": "Hosta",
+      "la": "Hosta"
+    },
+    "species": {
+      "en": "Multiple species",
+      "la": "Hosta spp."
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "代表的な食用種",
+        "name": "Hosta montana (オオバギボウシ)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "観賞用としては世界的価値が高いが、食用としての文化的価値は日本に極めて集中している。歴史的文献の解釈には諸説ある。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（日本）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "季節の食材"
+        ],
+        "traditional_uses": "春の山菜として、おひたし、和え物、天ぷら、汁物の具として利用される。特有のぬめりと食感を楽しむ。",
+        "seasonal_significance": "早春の味覚として、雪解け後の季節の始まりを象徴する。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ、北米",
+        "importance_level": 1,
+        "cultural_roles": [
+          "観賞用"
+        ],
+        "traditional_uses": "食用としての利用はほぼ皆無。庭園のシェードガーデン用植物として絶大な人気を誇る。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（特に郷土料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "うるいのおひたし",
+          "うるいの味噌汁",
+          "うるいの天ぷら"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "揚げる",
+          "炒める"
+        ],
+        "cultural_context": "里山の恵みとして、自然との共生や季節感を大切にする日本の食文化を反映している。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本では古くから自生し、食用にされてきたと考えられているが、明確な古代の記録は少ない。観賞用としては江戸時代に園芸化が進んだ。",
+      "trade_routes": "18世紀から19世紀にかけてシーボルトらによりヨーロッパに紹介され、観賞用植物として世界に広まった。",
+      "cultural_exchange": "日本の自然美や園芸文化が西洋に伝わる一例となった。",
+      "domestication_history": "食用としては主に野生種の採集が中心だが、近年商業栽培も行われている。観賞用としては数百年にわたる育種の歴史がある。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、休眠ができないため不適。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "冬季の低温が不足するため生育不良となりやすい。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "湿潤で水はけの良い半日陰の環境。冬季に休眠期間が必要。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "耐寒性が強く、-30℃以下にも耐える種が多い。夏の乾燥に注意が必要。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に極めて弱く、不適。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高山帯に自生する種もあり、冷涼な気候に適応する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "春（若芽）",
+        "growing_period_days": 9999
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照条件（半日陰が最適）",
+        "土壌水分",
+        "株の年齢",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": 99,
+          "characteristics": "食用としての商業生産はほぼ日本に限定される。山形県などが主要産地。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "詳細な栄養成分分析データは非常に少ない。伝統的な知識が中心であり、科学的エビデンスは限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約15-25",
+        "protein_g": "約2.0",
+        "carbs_g": "約3.0",
+        "fat_g": "約0.2",
+        "fiber_g": "約2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "高",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンA（β-カロテン）",
+          "amount": "中",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "中",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "中",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ムコ多糖類",
+        "concentration": "不明",
+        "health_effect": "ぬめり成分。粘膜保護作用の可能性。"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "種によっては微量に含有。抗炎症作用等が知られるが、過剰摂取は注意。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "解毒",
+          "消腫"
+        ],
+        "preparation": "根茎を乾燥させ、煎じて使用することがあるが、一般的ではない。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "食用ギボウシの機能性成分に関する研究はほとんど行われていない。"
+      ],
+      "safety_considerations": "観賞用の品種には有毒成分を含む可能性があるため、食用の品種（ウルイなど）以外は食べないこと。過剰摂取は避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "日本の食文化における利用法はよく知られているが、世界的には皆無に等しい。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "茹でる（おひたし、和え物）",
+          "揚げる（天ぷら）",
+          "煮る（汁物）",
+          "炒める"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "鰹節",
+          "ごま",
+          "酢"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍保存",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "茹でてから冷凍することで食感をある程度保つことができる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "淡白、わずかな甘みと苦味、クセがない",
+      "aroma_compounds": [
+        "青葉アルコールなど、若葉に共通する香り"
+      ],
+      "texture_characteristics": "シャキシャキとした歯ごたえ、ぬめり"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動適応性に関する直接的な研究はほぼ存在しない。植物の生態的特性からの定性的な推定が中心。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "30℃以上が続くと葉焼けや生育不良を起こす。",
+      "cold_tolerance": "-30°C以下（多くの種で耐寒性が非常に高い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "年間1000mm以上の湿潤な環境を好む"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が大きく柔らかいため強風で傷みやすいが、地下茎が残れば回復する。",
+      "hail_damage_recovery": "葉に穴が開くなど被害を受けやすいが、生命力は強いため回復可能。",
+      "rapid_temperature_change": "春先の晩霜には弱く、若芽が被害を受けることがある。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中（主に林床植物であり、強い紫外線には弱い）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりナメクジやカタツムリの活動期間が長期化し、食害が増加する可能性。",
+      "disease_resistance_stability": "ホスタウイルスXなどのウイルス病が知られる。温暖化が媒介昆虫の活動に影響する可能性。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の冷温帯から暖温帯の山間部",
+        "2050_projection": "栽培適地がより高緯度、高標高へ移動する可能性",
+        "2100_projection": "現在の暖温帯地域では夏の高温により栽培が困難になる可能性",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "観賞用ホスタの育種史において、種間交雑が容易であることは広く知られており、膨大な数の園芸品種が作出されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "変異が多く、容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "属内のほとんどの種間で交雑が可能。"
+      ],
+      "intergeneric_possibility": [
+        "知られていない。"
+      ],
+      "successful_natural_hybrids": [
+        "自生地では、近縁種が混生する場所で自然交雑個体が見られることがある。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "食用としての在来品種は明確ではないが、地域ごとに採集される野生集団に多様性がある。",
+      "wild_gene_pool": "日本はホスタの多様性の中心地であり、極めて多様な野生遺伝子プールが存在する。",
+      "adaptive_genetic_variation": "日照条件、水分、標高など、多様な環境に適応した生態型が存在する。",
+      "inbreeding_depression_risk": "自家不和合性の種が多く、他家受粉が基本のためリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本の山岳地帯",
+        "environmental_pressure": "標高、日照条件、積雪量",
+        "adaptive_response": "葉の大きさや形、草丈、開花時期などの分化",
+        "time_scale": "数千年〜数万年",
+        "mechanism": "地理的隔離と自然選択による適応放散"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐暑性や耐乾性を持つ特定の野生種との交雑により、気候耐性を向上させる高いポテンシャルがある。",
+      "improved_nutritional_content": "食用種と他種の交雑による栄養価の変化については未知数だが、可能性はある。",
+      "novel_characteristics": "葉の色、形、大きさ、食感など、多様な形質を導入可能。",
+      "hybrid_vigor_potential": "非常に高い。種間交雑により強健な性質を持つ品種が多く作出されている。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違いなど、一部の組み合わせでは交雑障壁が存在する。",
+      "chromosome_compatibility": "基本的には高いが、種によって異なる。",
+      "fertility_of_hybrids": "多くの場合、雑種にも稔性がある。",
+      "backcrossing_success": "一般的に可能。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "鹿の採食圧",
+        "adaptive_traits": "アルカロイドなどの不食成分の含有量、成長点の位置",
+        "heritability": "不明",
+        "response_to_selection": "採食圧の高い地域での個体数減少が報告されている。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "リジェネラティブ農業の文脈での研究はない。多年草としての一般的な生態学的特性からの推定。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "太く多肉質な根茎とひげ根が発達し、土壌を保持する。",
+      "organic_matter_contribution": "毎年葉が枯れて地表に堆積し、土壌有機物を供給する（リター）。",
+      "soil_structure_improvement": "根の活動により土壌の団粒構造を促進する可能性がある。",
+      "erosion_control": "大きな葉が地表を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "落葉を通じて養分を土壌に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は蜜が豊富で、マルハナバチなど多くの送粉者を引き寄せる。",
+      "beneficial_insect_habitat": "株元は多様な土壌生物や昆虫の隠れ家となる。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係が示唆されるが詳細は不明。",
+      "above_ground_biodiversity": "林床の植生として、生態系の多層構造に貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が土壌孔隙を作り、水の浸透を助ける。",
+      "moisture_retention": "葉がマルチング効果を持ち、土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地被率が高く、地表水の流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的（地上部は毎年枯れる）。",
+      "below_ground_carbon": "多年生の根茎に炭素を長期間蓄積する。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "樹木の下層植生（アグロフォレストリー）として有望。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草のため、毎年の耕起が不要で土壌生態系を安定させる。",
+      "stress_tolerance": "一度定着すると強健で管理が容易。",
+      "recovery_capacity": "地上部が損傷しても地下茎から再生する能力が高い。",
+      "adaptability": "半日陰の環境を有効活用できる。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主に食文化の観点からの評価であり、産業的な応用は限定的。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "春季限定のユニークな野菜として、食事の多様性を高める。",
+      "food_security_contribution": "限定的だが、耕作不適な林床などを活用できるパーマカルチャー的食材としての可能性がある。",
+      "local_food_system_integration": "地域の食文化と結びついた「地産地消」の象徴的な食材。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級食材としてレストランへの販路拡大",
+        "食文化体験ツーリズムのコンテンツ"
+      ],
+      "value_added_products": [
+        "調理済み冷凍食品",
+        "山菜漬け"
+      ],
+      "niche_market_value": "「春の味覚」「伝統的山菜」として高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物学的保全と文化的保全の両面からの評価が必要。データは地域によって異なる。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "森林伐採、土地開発、鹿の食害による自生地の減少。",
+    "climate_change_vulnerability": "高山帯に分布する種は、温暖化による生育域の消失リスクが高い。",
+    "cultural_erosion_risk": "高（山菜を採集・利用する文化の継承者不足）",
+    "conservation_actions_needed": [
+      "自生地の保全",
+      "遺伝的多様性のモニタリング",
+      "食文化の記録と継承活動",
+      "園芸品種の逸出管理"
+    ],
+    "priority_conservation_regions": [
+      "日本の山岳地帯（特に多様性の高い地域）"
+    ],
+    "ex_situ_conservation_status": "多くの植物園や育種家によって多数の種・品種が栽培・保存されている。",
+    "in_situ_conservation_efforts": "一部の国立公園や保護区で自生地が保全されているが、網羅的ではない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食用植物としての評価は地域性が非常に高く、グローバルな視点での評価は難しい。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 5,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本（山形県、長野県など）",
+      "朝鮮半島"
+    ],
+    "knowledge_gaps": [
+      "食用種の正確な栄養成分と機能性",
+      "気候変動に対する生理的応答の定量的データ",
+      "野生集団の遺伝的多様性の網羅的評価"
+    ],
+    "global_dictionary_compatibility": 6
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本で最も一般的に食用にされる野生種の一つ。"
+      },
+      "variety_name": "オオバギボウシ",
+      "local_name": "ウルイ",
+      "origin_region": "日本",
+      "distinctive_characteristics": "大型で、葉が柔らかく、アクが少なく食べやすい。ぬめりが特徴。",
+      "cultural_importance": "日本の山菜文化を代表する種の一つ。",
+      "climate_adaptation": "冷涼な温帯気候に適応。耐寒性が強い。",
+      "conservation_status": "一般的だが、地域によっては鹿の食害で減少。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "植物学データベース (KEW, GBIF)",
+      "民族植物学的研究報告",
+      "園芸専門書",
+      "日本の農林水産関連情報"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "食用としての栄養・機能性の科学的分析"
+    ],
+    "regional_data_coverage": "食用利用に関する情報は日本に極度に偏っている。",
+    "missing_information": [
+      "世界的な生産・消費統計",
+      "食用種の詳細な化学成分"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

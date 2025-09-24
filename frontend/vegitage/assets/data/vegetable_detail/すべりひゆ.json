@@ -1,0 +1,794 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew, USDA GRIN）および民族植物学の文献から統合。野生近縁種に関する網羅的なリストは作成が困難。"
+    },
+    "primary_name": "Purslane",
+    "scientific_name": "Portulaca oleracea",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "花",
+      "種子"
+    ],
+    "origin_region": "中東からインド亜大陸にかけての広範な地域と推定されるが、古代からの世界的普及により正確な原産地の特定は困難。",
+    "wild_relatives": [
+      "Portulaca umbraticola",
+      "Portulaca pilosa",
+      "その他多数"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の植物名データベース、料理書、民族植物学的研究から収集。"
+    },
+    "international": {
+      "en": [
+        "Common Purslane",
+        "Verdolaga",
+        "Pigweed",
+        "Little Hogweed",
+        "Pusley"
+      ],
+      "scientific_common": "Purslane"
+    },
+    "regional": [
+      {
+        "region": "地中海地域",
+        "languages": [
+          {
+            "lang": "el",
+            "name": "γλιστρίδα (glistrida)",
+            "script": "Greek"
+          },
+          {
+            "lang": "tr",
+            "name": "Semizotu",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Portulaca",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "بقلة (baqleh)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "خرفه (khorfeh)",
+            "script": "Persian"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "कुलफा (kulfa)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "பருப்பு கீரை (paruppu keerai)",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "スベリヒユ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "马齿苋 (mǎ chǐ xiàn)",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Pourpier",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Verdolaga",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Portulak",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Verdolaga",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Beldroega",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "オーストラリア先住民の一部",
+        "name": "Munyi",
+        "cultural_significance": "種子を粉にしてパンを作るなど、乾燥地帯における重要な食料源であった。"
+      },
+      {
+        "community": "北米の先住民の一部",
+        "name": "不明（多数の部族で利用）",
+        "cultural_significance": "食料および薬草として広く利用されていた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "統合分類学情報システム（ITIS）およびAPG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Purslane family",
+      "la": "Portulacaceae"
+    },
+    "genus": {
+      "en": "Purslane",
+      "la": "Portulaca"
+    },
+    "species": {
+      "en": "Common Purslane",
+      "la": "oleracea"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "P. oleracea subsp. oleracea"
+      },
+      {
+        "rank": "subspecies",
+        "name": "P. oleracea subsp. sativa"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、歴史学、食文化研究の文献を横断的に分析。多くの文化で「雑草」と「有用植物」の二重の評価が存在する。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海・中東",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "サラダ（例：ファットゥーシュ）、煮込み料理、ヨーグルトとの和え物として日常的に消費。夏の重要な野菜。",
+        "seasonal_significance": "夏の暑さを乗り切るための清涼感のある食材として価値が高い。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米・西欧の一部",
+        "importance_level": 2,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "主に厄介な雑草として認識されるが、近年、健康志向の消費者の間で「忘れられた野菜」として再評価され、ファーマーズマーケットなどで販売される。",
+        "seasonal_significance": "夏の雑草としての認識が強い。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア・東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "カレー、炒め物、スープに利用。アーユルヴェーダなどの伝統医学で重要な薬草。",
+        "seasonal_significance": "雨季に豊富に自生し、安価で栄養価の高い食料源となる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "おひたしや和え物、乾燥させて保存食や漢方薬（馬歯莧）として利用。",
+        "seasonal_significance": "夏の野草として利用される。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "レバント料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Fattoush"
+        ],
+        "preparation_methods": [
+          "生食"
+        ],
+        "cultural_context": "夏のサラダに不可欠な食材で、爽やかな酸味と食感を加える。"
+      },
+      {
+        "cuisine": "ギリシャ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Horiatiki (一部地域で)"
+        ],
+        "preparation_methods": [
+          "生食",
+          "煮込み"
+        ],
+        "cultural_context": "オリーブオイルとレモンで和えたり、肉料理の付け合わせとして煮込んだりする。"
+      },
+      {
+        "cuisine": "メキシコ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Verdolagas con Puerco"
+        ],
+        "preparation_methods": [
+          "煮込み"
+        ],
+        "cultural_context": "豚肉と一緒にトマトベースのソースで煮込む伝統的な家庭料理。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト、ギリシャ、ローマで食料および薬草として利用された記録がある。プリニウスの『博物誌』にも記載。",
+      "trade_routes": "特定の交易品ではなかったが、人間の移動に伴い、食料や薬として、あるいは意図せずして世界中に伝播した「キャンプ追従植物」の典型。",
+      "cultural_exchange": "世界中で雑草として自生するため、各文化が独自にその利用法を発見・発展させた例が多い。",
+      "domestication_history": "野生種と栽培種（subsp. sativa）が存在するが、明確な栽培化の歴史は不明。野生のものをそのまま利用することが多い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿にも耐えるが、水はけの良い土壌を好む。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "最適。長い生育期間を確保できる。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜が降りない夏期に旺盛に生育する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の高温期に短期間で生育可能。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に非常に強いが、一定の水分があれば収量は増加する。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春～夏",
+        "harvest_season": "夏～初秋",
+        "growing_period_days": "40-60"
+      },
+      {
+        "climate_zone": "亜熱帯・熱帯",
+        "planting_season": "通年（乾季・雨季による）",
+        "harvest_season": "通年",
+        "growing_period_days": "30-50"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業生産データが限定的）",
+      "factors_affecting_yield": [
+        "日照量",
+        "水分供給",
+        "土壌の肥沃度",
+        "雑草としての競合"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（大部分が非公式な収穫・流通のため統計が存在しない）",
+      "major_producers": [
+        {
+          "country": "地中海諸国",
+          "production_share": "不明",
+          "characteristics": "地域市場向けの小規模栽培および野生種の収穫が中心。"
+        },
+        {
+          "country": "メキシコ",
+          "production_share": "不明",
+          "characteristics": "国内消費向けに商業栽培が行われている。"
+        },
+        {
+          "country": "インド",
+          "production_share": "不明",
+          "characteristics": "主に地域市場向けに栽培、または自生しているものを収穫。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や地域による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "20",
+        "protein_g": "2.0",
+        "carbs_g": "3.4",
+        "fat_g": "0.4",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "21 mg",
+          "daily_value_percent": "25%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "1320 IU",
+          "daily_value_percent": "44%"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "68 mg",
+          "daily_value_percent": "17%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "494 mg",
+          "daily_value_percent": "11%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "α-リノレン酸 (ALA)",
+        "concentration": "植物界で最高レベル",
+        "health_effect": "心血管疾患リスクの低減、抗炎症作用"
+      },
+      {
+        "compound": "メラトニン",
+        "concentration": "食用植物の中で最高レベル",
+        "health_effect": "睡眠サイクルの調節、抗酸化作用"
+      },
+      {
+        "compound": "ベタレイン色素",
+        "concentration": "高濃度",
+        "health_effect": "強力な抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "解熱",
+          "解毒",
+          "皮膚疾患",
+          "下痢止め"
+        ],
+        "preparation": "生食、搾り汁、乾燥粉末"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "肝臓保護",
+          "利尿作用",
+          "消化促進"
+        ],
+        "preparation": "全草を利用した煎じ薬やペースト"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "血糖値調節作用",
+        "神経保護作用",
+        "抗がん作用"
+      ],
+      "safety_considerations": "シュウ酸を多く含むため、腎臓結石のリスクがある人は過剰摂取に注意が必要。調理によりシュウ酸は減少する。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理文献や民族誌から情報を収集。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海・中東",
+        "methods": [
+          "生食（サラダ）",
+          "煮込み",
+          "ソテー"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "トマト",
+          "キュウリ",
+          "ニンニク",
+          "レモン汁",
+          "オリーブオイル",
+          "ヨーグルト"
+        ]
+      },
+      {
+        "region": "メキシコ",
+        "methods": [
+          "煮込み"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "豚肉",
+          "トマト",
+          "唐辛子",
+          "タマネギ"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる（おひたし）",
+          "和え物",
+          "乾燥"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "ごま油",
+          "酢"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け・ピクルス",
+        "regions": [
+          "南アジア",
+          "中東"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が柔らかくなり、酸味と塩味が増す。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "東アジア",
+          "アフリカ"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "栄養素が凝縮される。水で戻して煮込み料理などに使用。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やかな酸味（リンゴ酸）、わずかな塩味、青々しい風味。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "多肉質でシャキシャキした食感（生）、加熱するとぬめりが出る（ムチレージ質）。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述や生理学的研究は多いが、気候変動モデル下での定量的な栽培適地予測データは少ない。スコアは生理学的特性に基づく評価。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "45°C以上でも生存可能",
+      "cold_tolerance": "0°C以下で枯死（霜に弱い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "非常に高い（C4光合成回路とCAM代謝を併用）",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "250-500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地面を這うように生育するため、強風による倒伏のリスクは低い。",
+      "hail_damage_recovery": "成長が早いため、葉や茎が損傷しても速やかに回復する能力が高い。",
+      "rapid_temperature_change": "高温への適応は高いが、急激な霜には非常に弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C4植物であるため、CO2濃度上昇による光合成促進効果はC3植物より限定的だが、水利用効率はさらに向上する可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（強光条件に適応している）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "強健な性質から多くの病害虫に耐性があるが、温暖化による新奇の害虫への脆弱性は不明。",
+      "disease_resistance_stability": "遺伝的多様性が高いため、地域レベルでの病害抵抗性は安定していると推測される。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "世界の温帯～熱帯地域",
+        "2050_projection": "現在よりも高緯度・高標高地域へ栽培可能域が拡大すると予測される。",
+        "2100_projection": "乾燥・半乾燥地域の重要性が増す一方、極端な干ばつ地域では限界を迎える可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Portulaca属内での交雑は知られているが、P. oleraceaの自然交雑に関する詳細な生態学的研究は限られている。スコアは属の特性と種の広範な遺伝的多様性からの推定。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種と野生型の間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "P. umbraticolaなどの近縁種との交雑が報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は低い。"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "世界中に多様な生態型が存在し、遺伝的多様性は非常に高いと推定される。",
+      "wild_gene_pool": "野生集団が栽培集団と混在・交雑しており、遺伝子流動が活発。",
+      "adaptive_genetic_variation": "異なる環境への局所適応を示す形態的・生理的多様性が観察される。",
+      "inbreeding_depression_risk": "自家和合性があるが、他家受粉も行うためリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界中の都市部・農耕地",
+        "environmental_pressure": "除草剤、踏圧、貧栄養土壌",
+        "adaptive_response": "短い生活環、高い種子生産能力、除草剤耐性系統の出現",
+        "time_scale": "数十年",
+        "mechanism": "強い選択圧による急速な進化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種の持つストレス耐性遺伝子を栽培種に取り込むポテンシャルが高い。",
+      "improved_nutritional_content": "栄養成分の異なる系統間の交雑による栄養価向上の可能性がある。",
+      "novel_characteristics": "葉の色、形、大きさ、匍匐性／立性の違いなど、多様な形質を組み合わせ可能。",
+      "hybrid_vigor_potential": "高いと推定される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "近縁種間では低い。",
+      "chromosome_compatibility": "倍数性が報告されており、交雑の複雑要因となりうる。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥ストレス",
+        "adaptive_traits": "CAM代謝の誘導、多肉性、深い主根",
+        "heritability": "中～高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的なリジェネラティブ農業システムでの研究は少ないが、植物の生理生態学的特性から高い適性が推測される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深い主根と、表層に広がるひげ根を持ち、土壌の団粒構造を安定させる。",
+      "organic_matter_contribution": "生育が早くバイオマス生産量が多いため、緑肥として土壌有機物を供給する。",
+      "soil_structure_improvement": "主根が硬盤層を穿孔する可能性がある。",
+      "erosion_control": "地面を覆うように生育するため、雨滴による土壌侵食を防ぐリビングマルチとして機能する。",
+      "nutrient_cycling_role": "深い根が土壌深層から養分を吸い上げ、植物体として地表に還元する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さな黄色い花は、ハナアブやミツバチなど多様な小型の送粉者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により土壌表面のクラスト形成を防ぎ、水の浸透を助ける。",
+      "moisture_retention": "リビングマルチとして機能し、土壌からの水分蒸発を抑制する。",
+      "runoff_reduction": "地表を覆うことで、降雨時の表面流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。生育は早いが一年草である。",
+      "below_ground_carbon": "中程度。深い主根を持つ。",
+      "soil_carbon_enhancement": "緑肥としての利用により、土壌炭素の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ",
+        "トマトなどの果菜類"
+      ],
+      "natural_pest_control": "リビングマルチとして他の雑草を抑制する可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "限定的、または報告されていない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "乾燥や高温などの環境ストレスに強く、農業生態系の生産安定に貢献する。",
+      "stress_tolerance": "非常に高い。",
+      "recovery_capacity": "踏圧や刈り取りからの回復力が高い。",
+      "adaptability": "非常に高い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "近年の健康食品市場や持続可能な食料システムに関する議論を反映。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "植物由来のオメガ3脂肪酸の貴重な供給源として、植物性食品のトレンドに合致する。",
+      "food_security_contribution": "最小限の資源で栽培・収穫でき、栄養価も高いため、特に乾燥地や資源の乏しい地域での食料安全保障に貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットやCSA（地域支援型農業）で容易に取り扱うことができる。",
+      "alternative_protein_potential": "限定的だが、他の作物との組み合わせで価値を持つ。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "スーパーフードとしての健康食品市場",
+        "高級レストラン向けの食材",
+        "栄養補助食品や化粧品の原料"
+      ],
+      "value_added_products": [
+        "乾燥粉末",
+        "ピクルス",
+        "種子油",
+        "栄養強化ジュース"
+      ],
+      "niche_market_value": "「忘れられた野菜」「野生のハーブ」として、食の多様性を求める消費者に訴求力がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種全体としてのリスクは低いが、地域固有の遺伝資源とそれに関連する文化の保全は重要。"
+    },
+    "genetic_erosion_risk": "低（種全体として）/ 中（地域固有の栽培品種や生態型）",
+    "habitat_loss_threat": "自生地は農耕地や荒地など撹乱環境であり、生息地喪失の脅威は低い。",
+    "climate_change_vulnerability": "低い。むしろ適応性が高い。",
+    "cultural_erosion_risk": "高。食生活の近代化に伴い、すべりひゆを採集・利用する伝統的知識が失われつつある地域が多い。",
+    "conservation_actions_needed": [
+      "地域固有の系統（ランドレース）の収集と評価",
+      "伝統的知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸",
+      "中東",
+      "インド亜大陸など、食文化として深く根付いている地域"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには収集されているが、網羅性は不明。",
+    "in_situ_conservation_efforts": "特定の保全活動は少ないが、農地や庭先で半野生的に維持されていることが多い。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査全体を通した総合的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "地中海地域",
+      "メキシコ",
+      "インド"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する品種・系統レベルでの応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果の測定",
+      "地域ごとの遺伝的多様性の網羅的解析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種と野生種の情報に基づく。"
+      },
+      "variety_name": "Common wild type (P. oleracea subsp. oleracea)",
+      "local_name": "（各地域の名称）",
+      "origin_region": "全世界",
+      "distinctive_characteristics": "匍匐性で地面を這うように広がる。葉は小さく、茎は赤みを帯びることが多い。強健で繁殖力が旺盛。",
+      "cultural_importance": "世界中で食用、薬用、あるいは雑草として最も一般的に認識されているタイプ。",
+      "climate_adaptation": "非常に高い耐乾性・耐暑性を持つ。",
+      "conservation_status": "Not applicable (懸念なし)"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種の情報に基づく。"
+      },
+      "variety_name": "Golden Purslane (P. oleracea subsp. sativa)",
+      "local_name": "Goldgelber, Golden Pigweed",
+      "origin_region": "ヨーロッパ・中東で選抜された栽培系統",
+      "distinctive_characteristics": "立性または半立性で、収穫が容易。葉は野生種より大きく、色が明るい黄緑色。酸味がマイルド。",
+      "cultural_importance": "主にヨーロッパや北米で野菜として栽培される品種群。",
+      "climate_adaptation": "野生種に比べてストレス耐性がやや低い可能性があるが、依然として強健。",
+      "conservation_status": "栽培下で維持"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Gardens 'Plants of the World Online'",
+      "USDA GRIN Global",
+      "民族植物学関連の学術論文",
+      "FAOSTAT"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界全体の正確な生産・消費統計"
+    ],
+    "regional_data_coverage": "地中海、中東、北米に関する情報は豊富だが、アフリカ、南米、東南アジアの一部地域に関する詳細情報は限定的。",
+    "missing_information": [
+      "特定の先住民コミュニティにおける詳細な利用法と名称",
+      "自然交雑の実態に関する生態学的データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

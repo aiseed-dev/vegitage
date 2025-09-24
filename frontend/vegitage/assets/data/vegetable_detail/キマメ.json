@@ -1,0 +1,722 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "情報は、国際半乾燥熱帯作物研究所（ICRISAT）、FAOSTAT、および主要な植物学データベース（Kew Gardens 'Plants of the World Online'）からのデータを統合。野生近縁種の情報も比較的豊富。"
+    },
+    "primary_name": "Pigeon Pea",
+    "scientific_name": "Cajanus cajan",
+    "plant_type": "多年草 (木本)",
+    "edible_parts": [
+      "種子",
+      "未熟な莢",
+      "葉",
+      "花"
+    ],
+    "origin_region": "南アジア（インド）",
+    "wild_relatives": [
+      "Cajanus cajanifolius",
+      "Cajanus scarabaeoides"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の農業・民族植物学の記録から名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Pigeon pea",
+        "Red gram",
+        "Congo pea",
+        "Gungo pea"
+      ],
+      "scientific_common": "Cajan"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "अरहर (Arhar), तुवर (Tuvar/Toor)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "துவரம் பருப்பு (Tuvaram paruppu)",
+            "script": "Tamil"
+          },
+          {
+            "lang": "bn",
+            "name": "অড়হর (Arhar)",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Mbaazi",
+            "script": "Latin"
+          },
+          {
+            "lang": "ha",
+            "name": "Waken Turawa",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Gandul, Frijol de palo",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Feijão-guandu",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "fil",
+            "name": "Kadyos",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "キマメ (Kimame), リュウキュウマメ (Ryukyumame)",
+            "script": "Japanese"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "オリッサ州（インド）の先住民コミュニティ",
+        "name": "Kandula",
+        "cultural_significance": "主要なタンパク質源であり、多くの儀式や祭りで供物として使用される。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Pigeonpea",
+      "la": "Cajanus"
+    },
+    "species": {
+      "en": "Pigeon pea",
+      "la": "Cajanus cajan"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、食文化史、農業史の文献に基づき評価。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "薬用",
+          "飼料"
+        ],
+        "traditional_uses": "インド料理におけるダール（豆のスープ・シチュー）の主要な材料。ベジタリアンにとって最も重要なタンパク質源の一つ。",
+        "seasonal_significance": "乾季を乗り越えるための重要な保存食糧。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "アフリカ（東部・南部）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "土壌改良"
+        ],
+        "traditional_uses": "未熟な豆は野菜として、乾燥豆はシチューとして消費。間作システムにおいて不可欠な作物。",
+        "seasonal_significance": "不作の年の食料安全保障を支える飢饉作物としての役割を持つ。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ラテンアメリカ・カリブ海地域",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "儀式用"
+        ],
+        "traditional_uses": "プエルトリコやドミニカ共和国などで、米と一緒に炊き込む「Arroz con Gandules」は国民食であり、特にクリスマスの食卓に欠かせない。",
+        "seasonal_significance": "祝祭シーズンと収穫期が重なり、祝祭料理として重要。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Toor Dal",
+          "Sambar",
+          "Bisi Bele Bath"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "挽き割り",
+          "発酵"
+        ],
+        "cultural_context": "日常生活に不可欠なタンパク質源であり、地域やカーストによって異なる調理法が存在する。"
+      },
+      {
+        "cuisine": "カリブ料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Arroz con Gandules",
+          "Gungo Peas Soup"
+        ],
+        "preparation_methods": [
+          "炊き込み",
+          "煮込み"
+        ],
+        "cultural_context": "アフリカから奴隷貿易を通じて伝播した歴史的背景を持ち、アフロ・カリビアン文化のアイデンティティを象徴する食材。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "インドで少なくとも3500年前から栽培。古代エジプトの墓からも発見されている。",
+      "trade_routes": "アフリカへは2000年以上前に伝播。大航海時代以降、奴隷貿易ルートを通じてアメリカ大陸へ伝わった。",
+      "cultural_exchange": "アフリカとアメリカ大陸の食文化の融合（クレオール料理）において重要な役割を果たした。",
+      "domestication_history": "インド東部のガーツ山脈周辺で野生種 C. cajanifolius から栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間降水量600-1000mm。高温多湿に強い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "生育初期に十分な水分があれば、乾季にも耐える。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱く、生育期間が短いため商業栽培は困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の低温と夏の極端な高温が不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "半乾燥地での栽培に非常に適しており、他の豆類が育たない場所でも生産可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため栽培不可。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯・亜熱帯",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "乾季",
+        "growing_period_days": "100-300日（品種による）"
+      }
+    ],
+    "productivity": {
+      "yield_range": "600-2000 kg/ha",
+      "factors_affecting_yield": [
+        "品種（早生/晩生）",
+        "降水量",
+        "土壌肥沃度",
+        "病害虫（特にポッドボーラー）の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約630万トン (2022年FAOSTAT)",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": 63,
+          "characteristics": "世界最大の生産国かつ消費国。国内消費が主。"
+        },
+        {
+          "country": "ミャンマー",
+          "production_share": 13,
+          "characteristics": "主要な輸出国。主にインドへ輸出。"
+        },
+        {
+          "country": "マラウイ",
+          "production_share": 5,
+          "characteristics": "アフリカにおける主要生産国の一つ。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価はUSDA等のデータベースで確立されているが、品種や栽培条件による機能性成分の変動に関する研究は発展途上。伝統的利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "343",
+        "protein_g": "21.7",
+        "carbs_g": "62.8",
+        "fat_g": "1.5",
+        "fiber_g": "15.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸",
+          "amount": "456 µg",
+          "daily_value_percent": "114%"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "1.8 mg",
+          "daily_value_percent": "78%"
+        },
+        {
+          "nutrient": "リン",
+          "amount": "373 mg",
+          "daily_value_percent": "30%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド（カジャニン、カジャノール）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "スチルベン（カジャナストルベン）",
+        "concentration": "不明",
+        "health_effect": "エストロゲン様作用、抗がん作用の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "黄疸",
+          "咳",
+          "気管支炎",
+          "泌尿器系の問題"
+        ],
+        "preparation": "葉の煎じ薬や湿布"
+      },
+      {
+        "region": "アフリカ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "下痢止め",
+          "皮膚病",
+          "傷の治療"
+        ],
+        "preparation": "根や葉の抽出液"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高タンパク・高食物繊維による血糖値コントロール",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "肝保護作用",
+        "抗マラリア活性"
+      ],
+      "safety_considerations": "生豆にはトリプシン阻害物質などの反栄養素が含まれるため、加熱調理が必須。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の料理書や食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "煮込み（ダール）",
+          "製粉（ドーサ生地）",
+          "揚げ物（ヴァーダ）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "スパイス（クミン、コリアンダー、ターメリック）",
+          "野菜"
+        ]
+      },
+      {
+        "region": "ラテンアメリカ・カリブ海地域",
+        "methods": [
+          "炊き込みご飯",
+          "シチュー"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "豚肉",
+          "ココナッツミルク",
+          "ピーマン",
+          "オリーブ"
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "methods": [
+          "煮込み",
+          "茹でる（未熟豆）"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "トウモロコシ粉（ウガリ）",
+          "キャッサバ",
+          "葉物野菜"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "適切に保存すれば品質は安定。硬化することがある。"
+      },
+      {
+        "method": "挽き割り（スプリット）",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "調理時間が短縮される。"
+      },
+      {
+        "method": "缶詰・冷凍",
+        "regions": [
+          "北米",
+          "ヨーロッパ",
+          "ラテンアメリカ"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "利便性が高いが、風味や食感は乾燥豆と異なる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッツのような風味、甘み、わずかな土の香り",
+      "aroma_compounds": [
+        "ピラジン類",
+        "ヘキサナール"
+      ],
+      "texture_characteristics": "調理後は柔らかく、やや粉っぽい食感。煮崩れしにくい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的評価は多数あるが、極端気象やCO2濃度変化に対する品種レベルでの定量的データは限定的。将来予測は広域モデルに基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "18-38°C",
+      "extreme_heat_survival": "40°C以上でも生存可能だが、受粉・着莢に影響が出る。",
+      "cold_tolerance": "0°C以下で枯死。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "深い主根系により、土壌深層の水分を利用できるため効率が高い。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1000 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "木質化するため、一年草の豆類よりは倒伏しにくい。",
+      "hail_damage_recovery": "再生能力がある程度ある。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度上昇により光合成と成長が促進される可能性がある。",
+      "ozone_sensitivity": "中程度",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により害虫（Maruca vitrata, Helicoverpa armigera）の発生地域・時期が拡大するリスクがある。",
+      "disease_resistance_stability": "不稔性モザイク病やフザリウム萎凋病への耐性を持つ品種が開発されているが、病原菌のレース変化への対応が必要。",
+      "beneficial_organism_relationships": "根粒菌との共生は高温で影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "半乾燥熱帯地域",
+        "2050_projection": "現在の栽培地域での熱ストレス増加。一部の温帯地域の亜熱帯化により、栽培可能域が北上・南下する可能性。",
+        "2100_projection": "主要生産地であるインド中央部での収量低下リスクが高まるが、アフリカの一部地域では適地が拡大するとの予測もある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "育種学的研究は多いが、自然環境下での交雑頻度や適応進化に関する長期的データは少ない。遺伝的多様性の評価はICRISATのジーンバンク情報に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の在来種、栽培品種間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Cajanus cajanifolius（祖先野生種）とは容易に交雑可能。",
+        "C. scarabaeoidesなど他の近縁野生種とも交雑可能で、耐病性遺伝子の導入源となっている。"
+      ],
+      "intergeneric_possibility": [
+        "Rhynchosia属などとの属間交雑の報告があるが、成功率は低い。"
+      ],
+      "successful_natural_hybrids": "栽培圃場の近くに野生種が生育している地域では、自然交雑が起こっている可能性がある。"
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "インドとアフリカに多様な在来種が存在し、成熟期間、種子の大きさ・色、草姿などに大きな変異がある。",
+      "wild_gene_pool": "近縁野生種は、耐塩性、耐病性、耐虫性などの貴重な遺伝子プールを形成している。",
+      "adaptive_genetic_variation": "様々なストレス環境に適応した遺伝子型が在来種の中に存在する。",
+      "inbreeding_depression_risk": "常自家受粉性だが、ある程度の他家受粉（5-40%）も起こるためリスクは比較的低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インドの半乾燥地域",
+        "environmental_pressure": "断続的な干ばつと高温",
+        "adaptive_response": "開花時期の調整、深い根系の発達、葉の気孔調節機能",
+        "time_scale": "数千年",
+        "mechanism": "農家による長年の種子選抜と自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐塩性や耐乾性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "メチオニンなどの必須アミノ酸含有量を高める育種が進められている。",
+      "novel_characteristics": "超早生品種や、機械収穫に適した草姿の品種が開発されている。",
+      "hybrid_vigor_potential": "細胞質雄性不稔を利用したハイブリッド品種が開発され、収量が大幅に向上している。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "遠縁の野生種との間には交雑後の胚珠敗退などの障壁が存在する。",
+      "chromosome_compatibility": "基本染色体数はn=11で、多くの近縁種と適合性がある。",
+      "fertility_of_hybrids": "近縁野生種とのF1雑種は多くの場合稔性がある。",
+      "backcrossing_success": "戻し交配により有用遺伝子を栽培種に導入する試みが成功している。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "早期の根の伸長、浸透圧調節能力",
+        "heritability": "中程度から高い",
+        "response_to_selection": "干ばつ耐性系統の選抜が可能"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "キマメの農業生態学的機能は、アグロフォレストリーや間作システムの研究で十分に文書化されている。マメ科植物としての一般的な特性も適用可能。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "強力な主根が土壌の硬盤層を貫通し、水と空気の通り道を改善する。",
+      "organic_matter_contribution": "落葉量が多く、土壌有機物を豊富に供給する。",
+      "soil_structure_improvement": "根系が土壌粒子を団粒化し、安定した土壌構造を形成する。",
+      "erosion_control": "生育が旺盛で地表を覆うため、風食・水食を効果的に防ぐ。",
+      "nutrient_cycling_role": "根が土壌深層からリンなどの養分を吸い上げ、落葉を通じて表層に還元する（養分ポンプ）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなど多様な訪花昆虫に蜜と花粉を供給する。",
+      "beneficial_insect_habitat": "天敵昆虫の隠れ家や代替餌を提供し、生態系全体の害虫抑制機能を高める。",
+      "soil_microorganism_interaction": "根粒菌と共生し窒素を固定するほか、アーバスキュラー菌根菌との共生によりリン吸収を促進する。",
+      "above_ground_biodiversity": "鳥の営巣場所や休息場所となることがある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作った孔隙が水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加により、土壌の保水性が向上する。",
+      "runoff_reduction": "キャノピーが雨滴の衝撃を和らげ、地表流出を減少させる。",
+      "groundwater_recharge": "浸透の改善は地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "木質化する茎や枝に炭素を貯蔵する。",
+      "below_ground_carbon": "広くて深い根系に大量の炭素を蓄積する。",
+      "soil_carbon_enhancement": "有機物の供給と土壌団粒化により、土壌炭素の安定的な貯留を促進する。",
+      "carbon_sequestration_rate": "一年生作物よりも高い炭素隔離率を持つ。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ソルガム",
+        "ミレット",
+        "トウモロコシ",
+        "綿",
+        "落花生との間作が伝統的に行われる。"
+      ],
+      "natural_pest_control": "穀類をネコブセンチュウから保護する効果が報告されている。",
+      "nutrient_sharing": "固定した窒素を間作した穀類が利用できる。",
+      "allelopathic_interactions": "特定の雑草の生育を抑制する効果が示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "間作システムに組み込むことで、単一栽培に比べて生産の安定性が向上する。",
+      "stress_tolerance": "個体としてのストレス耐性が、農業生態系全体のレジリエンスを高める。",
+      "recovery_capacity": "干ばつの後、雨が降ると速やかに回復する能力がある。",
+      "adaptability": "多様な環境に適応する遺伝的多様性を持つ。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食品科学、持続可能な農業、市場トレンドに関する最新の報告書に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高品質な植物性タンパク質源として、世界的な健康志向と完全に合致する。",
+      "food_security_contribution": "気候変動の影響を最も受けやすい半乾燥地域の食料安全保障と栄養改善に不可欠。",
+      "local_food_system_integration": "自家消費と地域市場での販売を通じて、小規模農家の生計を支える。",
+      "alternative_protein_potential": "プロテインパウダーや植物肉の原料としての利用可能性が研究されている。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高い先進国市場でのエスニック食材、スーパーフードとしての需要拡大。"
+      ],
+      "value_added_products": [
+        "調理済みダール、冷凍食品、スナック、グルテンフリーのパスタや製パン用粉。"
+      ],
+      "niche_market_value": "特定の在来種や有機栽培品は、その物語性や風味で高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の消失リスクは広く認識されているが、地域レベルでの定量的な評価は不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "近縁野生種の生息地である森林や低木地が、農地拡大や都市化により脅かされている。",
+    "climate_change_vulnerability": "在来種の適応範囲を超える急激な気候変動は、特定の地域での消失リスクを高める。",
+    "cultural_erosion_risk": "伝統的な食文化や農法の喪失に伴い、特定の用途を持つ在来種が栽培されなくなるリスク。",
+    "conservation_actions_needed": [
+      "在来種のオンファーム（農家による）保全活動の支援",
+      "地域コミュニティが運営するシードバンクの設立",
+      "近縁野生種の生息地の保護"
+    ],
+    "priority_conservation_regions": [
+      "インド東ガーツ山脈（多様性の中心地）",
+      "東アフリカの半乾燥地帯"
+    ],
+    "ex_situ_conservation_status": "ICRISAT（国際半乾燥熱帯作物研究所）のジーンバンクに15,000点以上の遺伝資源が保存されており、世界最大級のコレクションとなっている。",
+    "in_situ_conservation_efforts": "インドやアフリカの一部で、NGOや地域コミュニティによる在来種の保全・普及活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報を統合し、専門家として総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド（特にオリッサ州とマディヤ・プラデーシュ州）",
+      "東アフリカ（ケニア、タンザニア、マラウイ）",
+      "カリブ海地域（プエルトリコ、ドミニカ共和国）"
+    ],
+    "knowledge_gaps": [
+      "気候変動下の病害虫ダイナミクス変化に対する品種レベルでの応答",
+      "多様な在来種の機能性成分の網羅的解析",
+      "自然環境下での野生種との遺伝子流動の実態"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種情報は多岐にわたるため、代表的なタイプを例示。"
+      },
+      "variety_name": "ICP 8863 (Maruti)",
+      "local_name": "Maruti",
+      "origin_region": "インド (ICRISAT開発)",
+      "distinctive_characteristics": "フザリウム萎凋病と不稔性モザイク病に対する複合耐性を持つ画期的な品種。中生。",
+      "cultural_importance": "インドのデカン高原におけるキマメ生産を安定させ、数百万人の農家の生計を救った。",
+      "climate_adaptation": "病害への耐性を通じて、気候変動による病害圧の増加に適応。",
+      "conservation_status": "広く普及しているが、遺伝的多様性の観点からは他の在来種も重要。"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "在来種は文書化が不十分なことが多い。"
+      },
+      "variety_name": "Assam local",
+      "local_name": "不明",
+      "origin_region": "インド北東部アッサム州",
+      "distinctive_characteristics": "多年生で、庭木のように数年間収穫できる。比較的高湿度な環境に適応している。",
+      "cultural_importance": "伝統的なアグロフォレストリーシステムや自給自足的な家庭菜園で利用される。",
+      "climate_adaptation": "高湿度環境への適応性を持つ可能性がある。",
+      "conservation_status": "遺伝的浸食のリスクが高い。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "ICRISAT",
+      "FAOSTAT",
+      "Kew Gardens 'Plants of the World Online'",
+      "Peer-reviewed scientific journals on crop science and ethnobotany"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性に関する定量的データ（特に炭素隔離速度）",
+      "気候変動シナリオに対する多様な在来品種の生理学的応答の詳細な比較"
+    ],
+    "regional_data_coverage": "南アジアに関する情報は豊富だが、アフリカやラテンアメリカの在来種に関する詳細なデータは比較的少ない。",
+    "missing_information": [
+      "先住民コミュニティにおける儀式的な利用法の詳細な民族誌的記録",
+      "品種ごとの味覚プロファイルと調理特性の科学的データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

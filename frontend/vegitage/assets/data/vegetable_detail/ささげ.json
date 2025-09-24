@@ -1,0 +1,733 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is based on major botanical and agricultural databases such as Kew's Plants of the World Online, FAOSTAT, and CGIAR research portals (especially IITA)."
+    },
+    "primary_name": "Cowpea",
+    "scientific_name": "Vigna unguiculata",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "葉",
+      "果実"
+    ],
+    "origin_region": "アフリカ（西アフリカから中央アフリカのサバンナ地帯と推定）",
+    "wild_relatives": [
+      "Vigna unguiculata subsp. dekindtiana"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Common international and regional names are well-documented. However, specific indigenous names and their cultural significance across Africa and Asia are vast and not comprehensively cataloged."
+    },
+    "international": {
+      "en": [
+        "Cowpea",
+        "Black-eyed pea",
+        "Southern pea",
+        "Crowder pea"
+      ],
+      "scientific_common": "Vigna"
+    },
+    "regional": [
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "yo",
+            "name": "Ewa",
+            "script": "Latin"
+          },
+          {
+            "lang": "ha",
+            "name": "Wake",
+            "script": "Latin"
+          },
+          {
+            "lang": "sw",
+            "name": "Kunde",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "Lobia",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "Karamani",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Paayap",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ササゲ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "豇豆",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "pt",
+            "name": "Feijão-fradinho",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明",
+        "name": "不明",
+        "cultural_significance": "アフリカの多数の民族グループにおいて主食級のタンパク源であり、それぞれの言語で固有の名称を持つが、包括的なリストは存在しない。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established in botanical databases."
+    },
+    "family": {
+      "en": "Legume family",
+      "la": "Fabaceae"
+    },
+    "genus": {
+      "en": "Vigna",
+      "la": "Vigna"
+    },
+    "species": {
+      "en": "Cowpea",
+      "la": "unguiculata"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "unguiculata (Cultigroup Unguiculata - Black-eyed pea)"
+      },
+      {
+        "rank": "subsp.",
+        "name": "cylindrica (Cultigroup Catjang)"
+      },
+      {
+        "rank": "subsp.",
+        "name": "sesquipedalis (Cultigroup Sesquipedalis - Yardlong bean)"
+      },
+      {
+        "rank": "subsp.",
+        "name": "dekindtiana (Wild progenitor)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural importance is widely documented in ethnobotanical studies, agricultural history, and culinary anthropology, particularly for Africa and the Americas."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "西アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "経済作物",
+          "副菜",
+          "儀式用"
+        ],
+        "traditional_uses": "主要な植物性タンパク源。乾燥豆、若莢、葉が食用にされる。市場で広く取引され、家庭の食料安全保障に不可欠。フリッター（Akara）や豆のペースト料理は日常食かつ儀式食。",
+        "seasonal_significance": "乾季の重要な保存食糧",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "アメリカ南部",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "儀式用"
+        ],
+        "traditional_uses": "ソウルフードの象徴的な食材。新年にHoppin' John（黒目豆と米の料理）を食べると幸運を呼ぶという伝統がある。奴隷貿易を通じてアフリカから伝来した歴史を持つ。",
+        "seasonal_significance": "夏の収穫物、新年の象徴",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "カレーや炒め物（サブジ）に利用される。他の豆類と並んで重要なタンパク源の一つ。地域によって多様な品種が栽培されている。",
+        "seasonal_significance": "モンスーン期後の主要作物",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "西アフリカ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Akara (Bean fritters)",
+          "Moi Moi (Steamed bean pudding)",
+          "Ewa Agoyin (Stewed beans)"
+        ],
+        "preparation_methods": [
+          "製粉",
+          "煮込み",
+          "揚げ物",
+          "蒸し物"
+        ],
+        "cultural_context": "日常の食事から祝祭、儀式まで幅広く利用される、生命とコミュニティを支える基本食材。"
+      },
+      {
+        "cuisine": "アメリカ南部ソウルフード",
+        "role": "essential",
+        "traditional_dishes": [
+          "Hoppin' John",
+          "Texas caviar (bean salad)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "サラダ"
+        ],
+        "cultural_context": "アフリカ系アメリカ人の食文化と歴史の象徴。家族の集まりや祝祭、特に新年の食卓に欠かせない。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アフリカで5000年以上前から栽培されている証拠がある。",
+      "trade_routes": "大西洋奴隷貿易を通じてアフリカから新大陸へ、また古代の交易路を通じてアジアへ伝播した。",
+      "cultural_exchange": "アフリカの食文化が世界に広がる上で中心的な役割を果たした。特にカリブ海、ブラジル、アメリカ南部の食文化形成に大きく寄与した。",
+      "domestication_history": "西アフリカのサバンナ地帯で野生種のVigna unguiculata subsp. dekindtianaから栽培化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿に強いが、水はけの良い土壌を好む。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "主要な栽培地域。高温期に生育が旺盛。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏季の高温期に栽培可能。霜には非常に弱い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、霜害のリスクが高い。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に非常に強い。年間降水量400-700mmの半乾燥地で栽培可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため栽培は不可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯（サヘル地域）",
+        "planting_season": "雨季の始まり（6-7月）",
+        "harvest_season": "雨季の終わり（9-10月）",
+        "growing_period_days": "60-90"
+      },
+      {
+        "climate_zone": "温帯（アメリカ南部）",
+        "planting_season": "晩春（5-6月）",
+        "harvest_season": "夏から初秋（8-9月）",
+        "growing_period_days": "70-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "300 - 4000 kg/ha（伝統的農法から改良品種・適正管理まで幅がある）",
+      "factors_affecting_yield": [
+        "品種",
+        "水ストレス",
+        "土壌肥沃度",
+        "病害虫（特にマメハモグリバエ、アブラムシ）",
+        "雑草管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約1,000万トン（2022年、FAOSTAT推定）",
+      "major_producers": [
+        {
+          "country": "ナイジェリア",
+          "production_share": "45%",
+          "characteristics": "世界最大の生産国であり消費国。小規模農家による生産が中心。"
+        },
+        {
+          "country": "ニジェール",
+          "production_share": "25%",
+          "characteristics": "サヘル地帯の主要作物。食料安全保障と家畜飼料として重要。"
+        },
+        {
+          "country": "ブラジル",
+          "production_share": "不明",
+          "characteristics": "北東部で広く栽培され、地域経済に重要。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価はよく知られているが、数千に及ぶ品種間の栄養価や機能性成分の差異に関するデータは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "116",
+        "protein_g": "8",
+        "carbs_g": "21",
+        "fat_g": "0.5",
+        "fiber_g": "7"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール化合物",
+        "concentration": "品種により変動",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "品種により変動",
+        "health_effect": "抗炎症作用、抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アフリカ各地",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "消化不良の改善",
+          "浮腫の治療",
+          "産後の回復促進"
+        ],
+        "preparation": "豆の煎じ汁や粉末を内服または外用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高タンパク・高食物繊維による血糖値管理",
+        "心血管疾患リスクの低減"
+      ],
+      "ongoing_research": [
+        "特定のポリフェノールの抗がん作用",
+        "腸内フローラへの影響"
+      ],
+      "safety_considerations": "生豆にはレクチンなどの消化阻害物質が含まれるため、必ず加熱調理が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理での利用法は非常に豊富で、多くの料理本や民族誌で記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "アフリカ",
+        "methods": [
+          "煮込み",
+          "揚げ物",
+          "ペースト化",
+          "製粉"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ヤムイモ",
+          "キャッサバ",
+          "パーム油",
+          "唐辛子"
+        ]
+      },
+      {
+        "region": "アメリカ",
+        "methods": [
+          "煮込み",
+          "サラダ",
+          "スープ"
+        ],
+        "flavor_role": "主味/副味",
+        "typical_combinations": [
+          "米",
+          "豚肉（ハムホック）",
+          "コラードグリーン",
+          "玉ねぎ"
+        ]
+      },
+      {
+        "region": "アジア",
+        "methods": [
+          "炒め物",
+          "煮込み",
+          "カレー"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "米",
+          "各種スパイス",
+          "ココナッツミルク",
+          "野菜"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "適切に保存すれば栄養価の損失は少ない。"
+      },
+      {
+        "method": "製粉",
+        "regions": [
+          "西アフリカ"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "揚げ物や蒸し料理の原料となる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "土のような素朴な風味、クリーミー、品種によりわずかな甘み",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "調理後は柔らかくクリーミー、品種によっては粉質。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性の高さは広く認識されているが、定量的な閾値データは品種や環境により大きく変動する。将来予測は広域モデルに基づくもので、精度には限界がある。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生存可能だが、受粉・結実が阻害されることがある。",
+      "cold_tolerance": "15°C以下で生育が著しく阻害される。霜には耐えられない。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "C3植物としては高い。深い主根が土壌深層の水分を吸収する。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "400-700 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性品種は倒伏しやすいが、株自体は比較的強健。",
+      "hail_damage_recovery": "中程度。生育初期の被害は大きいが、旺盛な再生力を持つ。",
+      "rapid_temperature_change": "中程度。急激な低温には弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。光合成は促進されるが、タンパク質含有量が低下する可能性が指摘されている。",
+      "ozone_sensitivity": "中程度",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により害虫（アブラムシ、ササゲゾウムシ）の発生時期や頻度が変化し、被害が増加する可能性がある。",
+      "disease_resistance_stability": "多様な在来種の中に多くの抵抗性遺伝子が存在する。",
+      "beneficial_organism_relationships": "根粒菌との共生は高温で影響を受ける可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯のサバンナおよび半乾燥地",
+        "2050_projection": "温帯地域での栽培可能期間が延長。一部の熱帯地域では極端な高温により収量が低下する可能性。",
+        "2100_projection": "不明",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種内交雑と野生祖先種との交雑はよく研究されている。しかし、他のVigna属との自然交雑の実例は稀。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種群（Unguiculata, Sesquipedalis, Bifloraなど）間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "野生祖先種 V. unguiculata subsp. dekindtiana とは容易に交雑し、稔性のある子孫を生じる。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "栽培圃場周辺で野生種との遺伝子流動が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。特にアフリカの多様性センターには数千の在来種が存在する。",
+      "wild_gene_pool": "野生祖先種が持つ耐乾性、耐病性遺伝子は育種において非常に重要。",
+      "adaptive_genetic_variation": "様々な環境（乾燥、貧栄養土壌）に適応した遺伝子型が多数存在する。",
+      "inbreeding_depression_risk": "低。自家受粉性だが、一定の他家受粉も起こる。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "サヘル地域",
+        "environmental_pressure": "極度の乾燥、高温、不規則な降雨",
+        "adaptive_response": "早生性（短期間での成熟）、深い根系、気孔の制御能力",
+        "time_scale": "数千年",
+        "mechanism": "農家による長年の種子選抜と、野生種との時折の交雑。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性・耐暑性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "高タンパク、高ミネラルの特性を持つ在来種との交配による栄養価改善。",
+      "novel_characteristics": "害虫抵抗性（ササゲゾウムシなど）や除草剤耐性。",
+      "hybrid_vigor_potential": "中程度。主に特定形質の導入に利用される。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "Vigna属の他種とは交雑不和合性が強い。",
+      "chromosome_compatibility": "種内および野生祖先種とは完全に和合性がある。",
+      "fertility_of_hybrids": "種内交雑では高い。",
+      "backcrossing_success": "高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "早期開花、深い根系、葉のクチクラ層の発達",
+        "heritability": "中〜高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "窒素固定などのマメ科植物としての一般的な利点はよく知られている。しかし、炭素隔離速度などの定量的なデータは研究途上である。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深い主根と広範な側根を持ち、土壌の硬盤層を破砕し、通水性を改善する。",
+      "organic_matter_contribution": "収穫後の残渣が豊富で、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "根系の活動により土壌団粒構造の形成を促進する。",
+      "erosion_control": "生育初期から地面を広く覆い、風食・水食を抑制する。",
+      "nutrient_cycling_role": "根粒菌との共生により大気中の窒素を固定し、土壌を肥沃にする。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫にとって魅力的な蜜源となる。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシなどの生息地を提供する。",
+      "soil_microorganism_interaction": "根粒菌や菌根菌など、多様な土壌微生物との共生関係を築く。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が雨水の浸透を助ける。",
+      "moisture_retention": "地上部の被覆が土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "地表流を減少させ、水資源の保持に貢献する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い根系により、地下深くに炭素を蓄積するポテンシャルが高い。",
+      "soil_carbon_enhancement": "窒素固定によるバイオマス増加を通じて、土壌炭素貯留に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ソルガム、ミレット、トウモロコシ（穀物の支柱利用と窒素供給）",
+        "キャッサバ"
+      ],
+      "natural_pest_control": "間作により害虫の蔓延を抑制する効果が報告されている。",
+      "nutrient_sharing": "後作の穀物などが、ササゲが固定した窒素を利用できる。",
+      "allelopathic_interactions": "限定的"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "間作システムに組み込むことで、単一栽培に比べて生態系の安定性が向上する。",
+      "stress_tolerance": "作物自体が乾燥などのストレスに強いため、システム全体の失敗リスクを低減する。",
+      "recovery_capacity": "不明",
+      "adaptability": "多様な品種が存在するため、様々な環境に適応したシステムを構築可能。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食料安全保障や植物性タンパク質源としての価値は、国際機関や研究機関によって広く認識されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高品質な植物性タンパク質、食物繊維、ミネラルの優れた供給源。",
+      "food_security_contribution": "乾燥地や貧栄養土壌でも栽培可能なため、特にアフリカや南アジアの食料安全保障に不可欠。",
+      "local_food_system_integration": "小規模農家が自家消費および地域市場向けに生産するのに適している。",
+      "alternative_protein_potential": "プロテインパウダーや植物肉の原料としての高いポテンシャルを持つ。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品市場",
+        "グルテンフリー食品市場",
+        "ベジタリアン・ヴィーガン市場"
+      ],
+      "value_added_products": [
+        "ササゲ粉",
+        "缶詰・レトルト食品",
+        "スナック菓子",
+        "植物性ミルク"
+      ],
+      "niche_market_value": "特定の品種（例：Yardlong bean）や有機栽培品は、ニッチ市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝子バンクでの収集は進んでいるが、農家の畑での在来種の多様性（域内保全）の減少が懸念されている。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生祖先種の自生地は、農地拡大や気候変動の脅威にさらされている。",
+    "climate_change_vulnerability": "作物全体としては強靭だが、特定の地域在来種は気候変動に脆弱な可能性がある。",
+    "cultural_erosion_risk": "高。伝統的な食文化や栽培知識が失われつつある地域がある。",
+    "conservation_actions_needed": [
+      "在来種の域内保全（オンファーム保全）の支援",
+      "コミュニティ・シードバンクの設立",
+      "伝統知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "西アフリカ・サヘル地帯",
+      "アフリカ南部"
+    ],
+    "ex_situ_conservation_status": "国際農業研究協議グループ（CGIAR）のIITAなどのジーンバンクに数万点の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "一部の国やNGOによって推進されているが、まだ限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家のコンセンサスに基づく評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 10,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "ナイジェリア、ニジェール、ブルキナファソ（遺伝的多様性と伝統的利用法）",
+      "ブラジル北東部（文化変容と利用法）"
+    ],
+    "knowledge_gaps": [
+      "特定の在来種の栄養成分と機能性成分の定量データ",
+      "気候変動シナリオ下での各品種の生産性変動予測"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "これらの栽培品種群は国際的に広く認知されている。"
+      },
+      "variety_name": "Black-eyed pea (Cultigroup Unguiculata)",
+      "local_name": "Black-eyed pea",
+      "origin_region": "アフリカ",
+      "distinctive_characteristics": "淡い色の豆に黒い「目」がある。クリーミーな食感。",
+      "cultural_importance": "アメリカ南部、特にアフリカ系アメリカ人の食文化において象徴的な存在。",
+      "climate_adaptation": "耐乾性、耐暑性が高い。",
+      "conservation_status": "広く栽培されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "これらの栽培品種群は国際的に広く認知されている。"
+      },
+      "variety_name": "Yardlong bean (Cultigroup Sesquipedalis)",
+      "local_name": "ジュウロクササゲ (日本), 豇豆 (中国)",
+      "origin_region": "東アジアまたは東南アジア",
+      "distinctive_characteristics": "30cmから90cmにもなる非常に長い未熟莢を食べる。豆は小さく、莢は柔らかい。",
+      "cultural_importance": "アジア料理、特に炒め物で広く利用される。",
+      "climate_adaptation": "高温多湿を好む。",
+      "conservation_status": "広く栽培されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "CGIAR-IITA",
+      "Kew Gardens (Plants of the World Online)",
+      "Purdue University Horticulture",
+      "Ethnobotanical research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ（特に炭素隔離速度）",
+      "気候変動に対する数千の在来品種レベルでの詳細な応答予測",
+      "アフリカ全域にわたる先住民名と文化的意味の包括的データベース"
+    ],
+    "regional_data_coverage": "アフリカと北米に関するデータは豊富だが、南米やアジアの特定地域に関する詳細な文化データは比較的少ない。",
+    "missing_information": [
+      "特定の機能性成分の濃度に関する品種間比較",
+      "野生祖先種の個体群動態と保全状況"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

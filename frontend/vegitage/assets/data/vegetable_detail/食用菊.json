@@ -1,0 +1,641 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース(KEW, GRIN)および農学研究から統合。栽培化の歴史が長く、交雑種であるため野生種との直接的な関係性は複雑。"
+    },
+    "primary_name": "Edible Chrysanthemum",
+    "scientific_name": "Chrysanthemum × morifolium",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "花",
+      "葉"
+    ],
+    "origin_region": "東アジア（中国）",
+    "wild_relatives": [
+      "Chrysanthemum indicum",
+      "Chrysanthemum vestitum",
+      "Chrysanthemum zawadskii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアでの名称は豊富だが、他の地域では観賞用としての名称が主であり、食用の名称は限定的。"
+    },
+    "international": {
+      "en": [
+        "Edible Chrysanthemum",
+        "Florist's Daisy",
+        "Hardy Garden Mum"
+      ],
+      "scientific_common": "Chrysanthemum"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "食用菊",
+            "script": "漢字/かな"
+          },
+          {
+            "lang": "ja",
+            "name": "ショクヨウギク",
+            "script": "カタカナ"
+          },
+          {
+            "lang": "zh",
+            "name": "食用菊花",
+            "script": "繁体字/簡体字"
+          },
+          {
+            "lang": "ko",
+            "name": "식용국화",
+            "script": "ハングル"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Hoa cúc ăn được",
+            "script": "クオック・グー"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "日本の伝統的栽培地域（例：山形県）",
+        "name": "もってのほか (Motte-no-hoka)",
+        "cultural_significance": "「とんでもない（ほど美味しい）」という意味を持つ品種名。天皇家の紋章である菊を食べることへの畏敬と、その美味への驚きが込められている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類体系に基づく。"
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Chrysanthemum",
+      "la": "Chrysanthemum"
+    },
+    "species": {
+      "en": "Florist's Daisy",
+      "la": "× morifolium"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivar Group",
+        "name": "Numerous edible cultivars"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "東アジアにおける文化的重要性の記録は豊富だが、他地域ではほぼ観賞用に限定されるため情報が乏しい。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア (特に日本、中国)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "装飾",
+          "季節の象徴"
+        ],
+        "traditional_uses": "日本では、秋の味覚としておひたし、酢の物、天ぷらにして食される。中国では主に乾燥させて菊花茶として飲用し、薬膳料理にも用いられる。長寿や高貴の象徴。",
+        "seasonal_significance": "晩秋の収穫物であり、季節の移ろいを告げる食材として重要。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（特に郷土料理）",
+        "role": "essential",
+        "traditional_dishes": [
+          "菊のおひたし",
+          "菊花の酢の物",
+          "菊の天ぷら"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "酢で締める",
+          "揚げる"
+        ],
+        "cultural_context": "秋の収穫を祝う宴席や、見た目の華やかさから祝いの席で供されることが多い。特に山形県や新潟県で食文化として根付いている。"
+      },
+      {
+        "cuisine": "中華料理（薬膳）",
+        "role": "common",
+        "traditional_dishes": [
+          "菊花茶",
+          "菊花羹（スープ）",
+          "菊花火鍋"
+        ],
+        "preparation_methods": [
+          "乾燥",
+          "煮込む",
+          "煎じる"
+        ],
+        "cultural_context": "体の熱を冷まし、目の疲れを癒すといった効能を期待して利用される。医食同源の思想に基づき、健康維持のために食される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国で約1500年以上前から栽培。当初は薬用として利用され、後に観賞用、食用へと発展した。",
+      "trade_routes": "不明",
+      "cultural_exchange": "奈良時代から平安時代にかけて日本に伝来。日本の宮廷文化において重要な位置を占め、独自の品種改良と食文化が発展した。",
+      "domestication_history": "中国の野生種（C. indicum等）が複雑に交雑し、人為選択を経て成立した栽培種。詳細な交雑の系譜は完全には解明されていない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "開花に必要な短日条件と低温が得られない。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や冬季に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "四季の変化があり、秋に気温が下がり短日条件となる気候が最適。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さと冬の寒さに耐える品種であれば可能。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "一定の湿度を必要とし、乾燥に弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温に耐えられない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（4月-5月）",
+        "harvest_season": "秋（10月-11月）",
+        "growing_period_days": "180-210"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日長管理",
+        "品種",
+        "気象条件（特に秋の気温と日照）",
+        "病害虫管理",
+        "施肥"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "山形県、新潟県、青森県などで高品質な食用品種を小規模に生産。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "安徽省、浙江省、河南省などで菊花茶用の品種を大規模に生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や地域による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "20-30",
+        "protein_g": "2-3",
+        "carbs_g": "4-6",
+        "fat_g": "0.2-0.5",
+        "fiber_g": "2-4"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンB群",
+          "amount": "含有",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "含有",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ルテオリン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用, 抗炎症作用"
+      },
+      {
+        "compound": "アピゲニン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用, 鎮静作用"
+      },
+      {
+        "compound": "クロロゲン酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学 (TCM)",
+        "uses": [
+          "解熱",
+          "解毒",
+          "眼精疲労の緩和",
+          "高血圧の改善",
+          "鎮静"
+        ],
+        "preparation": "乾燥させた花を煎じてお茶（菊花茶）として飲用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "神経保護作用",
+        "抗がん作用",
+        "心血管保護作用"
+      ],
+      "safety_considerations": "キク科アレルギーを持つ人は注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "特に日本と中国の食文化における利用法は詳細に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "茹でる（おひたし）",
+          "酢漬け",
+          "揚げる（天ぷら）",
+          "汁物の具",
+          "刺身のつま"
+        ],
+        "flavor_role": "主味/香辛料",
+        "typical_combinations": [
+          "醤油",
+          "酢",
+          "だし",
+          "ほうれん草",
+          "きのこ"
+        ]
+      },
+      {
+        "region": "中国",
+        "methods": [
+          "乾燥・煎じる（茶）",
+          "煮込む（スープ、鍋）"
+        ],
+        "flavor_role": "香辛料/薬味",
+        "typical_combinations": [
+          "クコの実",
+          "鶏肉",
+          "豆腐"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "中国"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りが凝縮される。色や栄養成分は若干変化する。"
+      },
+      {
+        "method": "酢漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "シャキシャキした食感が保たれる。苦味が和らぐ。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな苦味、甘み、フローラルな香り、独特の清涼感",
+      "aroma_compounds": [
+        "カンファー",
+        "ボルネオール",
+        "テルペン類"
+      ],
+      "texture_characteristics": "花びらはシャキシャキとした繊細な歯ざわり"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用菊に特化した気候変動適応の研究は非常に少ない。観賞用キクや一般的な温帯作物からの類推に基づく評価。品種による差異が大きいと推定される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C以上で生育不良、花芽形成阻害",
+      "cold_tolerance": "-5°C（品種による）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "800-1200mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "花が傷つきやすいため低い",
+      "hail_damage_recovery": "低い",
+      "rapid_temperature_change": "開花時期の急激な温度変化は品質を著しく低下させる"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "中程度と推定",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシ、ハダニなどの発生時期が早まり、期間が長くなるリスクがある。",
+      "disease_resistance_stability": "高温多湿は白さび病などの病害を助長する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯地域",
+        "2050_projection": "栽培適地がより高緯度、高標高へ移動する可能性。既存産地では高温対策が必要。",
+        "2100_projection": "不明",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "観賞用キクの育種研究は豊富で、交雑親和性の高さは実証されている。自然環境下での適応事例は少ないが、遺伝的ポテンシャルは高い。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の栽培品種間で容易に交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "C. indicum, C. zawadskiiなどの近縁野生種と交雑可能"
+      ],
+      "intergeneric_possibility": [
+        "一部の近縁属（Argyranthemumなど）との属間交雑の報告がある"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "日本や中国の各地に多様な在来品種が存在するが、減少傾向にある。",
+      "wild_gene_pool": "中国に分布する野生近縁種は、耐病性や環境ストレス耐性の遺伝資源として極めて重要。",
+      "adaptive_genetic_variation": "栽培品種内に多様な開花特性や形態的変異が存在する。",
+      "inbreeding_depression_risk": "栄養繁殖が主なため、特定のクローンに依存するとリスクが高まる。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐暑性や耐乾性を向上させる高い可能性がある。",
+      "improved_nutritional_content": "機能性成分（フラボノイド等）の含有量を高める可能性がある。",
+      "novel_characteristics": "新しい花色、形状、香りを導入できる可能性がある。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性の違いが交雑障壁になることがある。",
+      "chromosome_compatibility": "基本染色体数はx=9だが、多くの栽培品種は異数体や高次倍数体である。",
+      "fertility_of_hybrids": "組み合わせによっては稔性が低下することがある。",
+      "backcrossing_success": "一般的に可能"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "開花時期の気候変動（温暖化による開花遅延または早期化）",
+        "adaptive_traits": "日長感受性、温度感受性",
+        "heritability": "中程度から高い",
+        "response_to_selection": "育種による応答性は高い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用菊をリジェネラティブ農業の文脈で評価した研究はほぼ皆無。多年草であること、キク科の一般的性質からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる繊維状の根系。",
+      "organic_matter_contribution": "毎年の地上部の枯死により、土壌表層に有機物を供給する。",
+      "soil_structure_improvement": "限定的。根系が土壌を保持する。",
+      "erosion_control": "多年草であるため、被覆作物として土壌侵食を軽減する可能性がある。",
+      "nutrient_cycling_role": "特筆すべき能力は知られていない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期が秋であるため、他の花が少ない時期のミツバチやチョウなどの訪花昆虫にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシやヒラタアブなどを誘引する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "高い"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "マルチング効果により表土の乾燥を防ぐ可能性がある。",
+      "runoff_reduction": "地上部が雨滴の衝撃を和らげ、流出を軽減する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "多年草であるため、根系を通じて炭素を土壌に蓄積するが、量は限定的と推定される。",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トマト、ナス、キャベツなどのコンパニオンプランツとして利用されることがある。"
+      ],
+      "natural_pest_control": "キク科植物が持つ特有の香り成分が一部の害虫を忌避する効果がある（アレロパシー）。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "線虫（ネマトーダ）の密度を抑制する効果が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な生物を誘引することで、生態系の安定に貢献する可能性がある。",
+      "stress_tolerance": "限定的",
+      "recovery_capacity": "地下茎や株から再生するため、地上部が被害を受けても回復しやすい。",
+      "adaptability": "遺伝的多様性は高いが、個々のクローン品種の適応性は低い。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場動向や食文化のトレンドに基づく評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "料理に彩りと独特の風味、微量栄養素を加える食材としての価値。",
+      "food_security_contribution": "主食ではないため限定的だが、食文化の多様性を維持する上で重要。",
+      "local_food_system_integration": "伝統野菜として地域の食文化と経済を支える役割を持つ。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ガストロノミー分野での高級食材",
+        "エディブルフラワー市場",
+        "健康志向の消費者向け機能性食品（茶、エキス）"
+      ],
+      "value_added_products": [
+        "菊花茶",
+        "菊花漬け",
+        "菊花エキス入りサプリメント",
+        "冷凍食用菊"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "保全状況に関する公式データは少ないが、栽培農家の高齢化や食生活の変化からリスクは高いと推定される。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "栽培地の宅地化や耕作放棄による脅威。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "在来品種の遺伝子バンク（ジーンバンク）での保存",
+      "栽培技術と食文化の記録・伝承",
+      "地域ブランド化による生産奨励"
+    ],
+    "priority_conservation_regions": [
+      "日本（山形県、新潟県）",
+      "中国（安徽省、浙江省）"
+    ],
+    "ex_situ_conservation_status": "一部の品種が農業関連研究機関で保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "一部の生産者団体や自治体による保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた情報を統合した総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本（山形県）",
+      "中国（安徽省）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する品種ごとの生理的応答の定量的データ",
+      "リジェネラティブ農業システムにおける生態系サービス機能の評価",
+      "在来品種の網羅的な遺伝子情報と機能性成分の分析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の代表的な品種に関する情報は比較的豊富。"
+      },
+      "variety_name": "もってのほか (Motte-no-hoka)",
+      "local_name": "もってのほか",
+      "origin_region": "日本（山形県）",
+      "distinctive_characteristics": "鮮やかな赤紫色の花びら。筒状の花弁（管物）。茹でても色褪せにくく、シャキシャキとした食感が特徴。苦味が少なく香りが良い。",
+      "cultural_importance": "山形県の秋を代表する伝統野菜。品種名自体がその美味しさを物語る文化的アイコンとなっている。",
+      "climate_adaptation": "日本の東北地方の気候に適応しているが、温暖化による開花時期のズレが懸念されている。",
+      "conservation_status": "地域ブランドとして保護されているが、生産者は減少傾向にある。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "日本の代表的な品種に関する情報は比較的豊富。"
+      },
+      "variety_name": "阿房宮 (Abōkyū)",
+      "local_name": "あぼうきゅう",
+      "origin_region": "日本（青森県南部町）",
+      "distinctive_characteristics": "鮮やかな黄色の花びら。苦味が少なく、甘みが強いのが特徴。乾燥させても香りが残りやすい。",
+      "cultural_importance": "刺身のつまや、おひたしとして古くから利用されてきた。地域の重要な特産品。",
+      "climate_adaptation": "冷涼な気候に適応している。",
+      "conservation_status": "地域ブランドとして保護され、栽培が奨励されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN-Global Taxonomy",
+      "Plants of the World Online (Kew)",
+      "民族植物学論文",
+      "日本の農林水産省統計・報告書"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの生理的応答データ",
+      "グローバルな生産・流通量の統計"
+    ],
+    "regional_data_coverage": "東アジアに偏っており、他地域での情報は極めて限定的。",
+    "missing_information": [
+      "収量性の定量的データ",
+      "野生近縁種との自然交雑事例",
+      "炭素固定能力"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,777 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヤムイモは600種以上を含むDioscorea属の総称であり、本データは主要な食用種（D. alata, D. rotundata, D. cayenensisなど）を中心に統合した。種ごとの特性には大きな差異が存在する。"
+    },
+    "primary_name": "Yam",
+    "scientific_name": "Dioscorea spp.",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根"
+    ],
+    "origin_region": "アフリカ、アジア、アメリカ大陸の熱帯・亜熱帯地域に複数の独立した栽培化の中心地を持つ",
+    "wild_relatives": [
+      "多数の野生種が各大陸に分布。例：Dioscorea praehensilis (アフリカ)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要言語と、文化的・経済的に重要な地域の呼称を収集。"
+    },
+    "international": {
+      "en": [
+        "Yam"
+      ],
+      "scientific_common": "Dioscorea"
+    },
+    "regional": [
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Igname",
+            "script": "Latn"
+          },
+          {
+            "lang": "yo",
+            "name": "Isu",
+            "script": "Latn"
+          },
+          {
+            "lang": "ig",
+            "name": "Ji",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Ñame",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Inhame",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Ube",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ヤマイモ",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "山药",
+            "script": "Hans"
+          }
+        ]
+      },
+      {
+        "region": "オセアニア",
+        "languages": [
+          {
+            "lang": "tpi",
+            "name": "Mami",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "イボ族 (ナイジェリア)",
+        "name": "Ji",
+        "cultural_significance": "「ヤムの王様」とされ、富と男性性の象徴。新年を祝う収穫祭の中心となる。"
+      },
+      {
+        "community": "アベルラム族 (パプアニューギニア)",
+        "name": "不明 (儀式用の長芋)",
+        "cultural_significance": "男性の社会的地位を誇示するため、儀式的な交換が行われる。栽培には精霊の力が宿ると信じられている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類体系に基づく。"
+    },
+    "family": {
+      "en": "Yam family",
+      "la": "Dioscoreaceae"
+    },
+    "genus": {
+      "en": "Yam",
+      "la": "Dioscorea"
+    },
+    "species": {
+      "en": "Multiple species, e.g., Water Yam, White Guinea Yam",
+      "la": "Dioscorea alata, Dioscorea rotundata"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Complex",
+        "name": "D. cayenensis-rotundata complex"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "人類学、民族植物学の文献に基づき、主要な文化圏での価値を記述。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "西アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "主要な炭水化物源。富、社会的地位、豊饒の象徴として、結婚や収穫祭など人生儀礼に不可欠。",
+        "seasonal_significance": "新ヤム祭は収穫期の始まりを告げ、コミュニティの結束を強める重要な年中行事。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "オセアニア (メラネシア)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "主食"
+        ],
+        "traditional_uses": "巨大なヤムを栽培・交換することで社会的地位や威信を示す。祖先崇拝や精霊との繋がりを示す儀式で中心的な役割を果たす。",
+        "seasonal_significance": "ヤムの栽培サイクルが社会生活や儀式のカレンダーを規定する。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "特に紫ヤム（ウベ）は菓子やデザートの色と風味付けに広く利用される。伝統的な主食としての地位は米に譲っている。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "生食（とろろ）や加熱調理で利用される。漢方では滋養強壮の生薬「山薬」として重要。",
+        "seasonal_significance": "秋から冬にかけてが旬とされる。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "西アフリカ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Pounded Yam (Iyan)",
+          "Fufu",
+          "Asaro (Yam Porridge)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "搗く",
+          "煮込む",
+          "揚げる"
+        ],
+        "cultural_context": "日常の主食であり、饗宴や儀式の食事の中心。搗く作業は共同体の労働を示す。"
+      },
+      {
+        "cuisine": "フィリピン料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Ube Halaya",
+          "Ube Ice Cream",
+          "Halo-halo"
+        ],
+        "preparation_methods": [
+          "蒸す",
+          "すり潰す",
+          "甘く煮る"
+        ],
+        "cultural_context": "紫色のウベはデザートや菓子の風味と鮮やかな色彩の源として国民的に愛されている。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "とろろ汁",
+          "山かけ",
+          "磯辺揚げ"
+        ],
+        "preparation_methods": [
+          "生ですりおろす",
+          "焼く",
+          "揚げる"
+        ],
+        "cultural_context": "粘り気の強いナガイモやジネンジョを生食する世界でも珍しい食文化。滋養強壮食として食される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "アフリカとアジアでは少なくとも5万年前から野生種が利用されていた痕跡があり、栽培化は数千年前に遡る。",
+      "trade_routes": "大航海時代に、D. alataなどがアフリカ経由でアメリカ大陸へ、D. bulbiferaが奴隷船の食料として大西洋を渡った。",
+      "cultural_exchange": "ヤムの栽培技術と食文化は、人の移動と共に大陸を越えて伝播し、各地の食文化に深く根付いた。",
+      "domestication_history": "アフリカ（D. rotundata）、東南アジア（D. alata）、南米（D. trifida）でそれぞれ独立して異なる種が栽培化された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間降水量1500mm以上、平均気温25-30℃、明確な乾季と雨季がある地域。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な気候。生育期間中の十分な降雨が必要。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "D. opposita（ナガイモ）などの一部の種に限られる。夏に高温多湿で、冬に塊茎が凍結しない地域。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の寒さが厳しすぎるため不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水分要求量が高いため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯 (西アフリカ)",
+        "planting_season": "雨季の始まり (3-4月)",
+        "harvest_season": "乾季の始まり (11-1月)",
+        "growing_period_days": "180-300"
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 40,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "土壌肥沃度",
+        "支柱の有無と質",
+        "降水量",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約75,000,000トン (2020年時点)",
+      "major_producers": [
+        {
+          "country": "ナイジェリア",
+          "production_share": "65",
+          "characteristics": "世界の圧倒的な生産国。小規模農家による伝統的な栽培が中心。"
+        },
+        {
+          "country": "ガーナ",
+          "production_share": "10",
+          "characteristics": "主要な輸出国の一つ。栽培技術の近代化が進んでいる。"
+        },
+        {
+          "country": "コートジボワール",
+          "production_share": "9",
+          "characteristics": "西アフリカの主要生産国の一つ。国内消費が主。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要種の基本的な栄養価は確立されているが、数百種に及ぶ品種ごとの詳細データや地域変異は限定的。機能性成分に関する研究は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "118",
+        "protein_g": "1.5",
+        "carbs_g": "27.9",
+        "fat_g": "0.2",
+        "fiber_g": "4.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "816 mg",
+          "daily_value_percent": "17"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "17.1 mg",
+          "daily_value_percent": "19"
+        },
+        {
+          "nutrient": "ビタミンB6",
+          "amount": "0.3 mg",
+          "daily_value_percent": "23"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.4 mg",
+          "daily_value_percent": "17"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ディオスゲニン",
+        "concentration": "種により大きく異なる",
+        "health_effect": "ステロイドホルモン（プロゲステロン、コルチゾン）の前駆体。抗炎症、抗酸化作用が研究されている。"
+      },
+      {
+        "compound": "アントシアニン",
+        "concentration": "紫ヤム (D. alata) に豊富",
+        "health_effect": "強力な抗酸化作用を持ち、細胞の損傷を防ぐ効果が期待される。"
+      },
+      {
+        "compound": "アミラーゼ",
+        "concentration": "ナガイモ (D. opposita) に豊富",
+        "health_effect": "デンプン分解酵素。消化を助ける働きがある。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "滋養強壮",
+          "消化促進",
+          "肺と腎の機能補強"
+        ],
+        "preparation": "乾燥させて粉末にした「山薬」を煎じて服用、または料理に用いる。"
+      },
+      {
+        "region": "中米・南米",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "月経困難症の緩和",
+          "更年期障害の症状緩和",
+          "リウマチの痛み止め"
+        ],
+        "preparation": "根茎の抽出物や煎じ薬として利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖値上昇抑制効果（難消化性デンプンによる）"
+      ],
+      "ongoing_research": [
+        "抗酸化・抗炎症作用",
+        "認知機能改善効果",
+        "ホルモン様作用"
+      ],
+      "safety_considerations": "多くの野生種や一部の栽培種は生の状態で有毒なアルカロイド（ジオスコリンなど）を含むため、適切な調理（加熱、水さらし）が必須。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の多様な食文化における利用法をまとめた。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "西アフリカ",
+        "methods": [
+          "茹でる",
+          "搗く",
+          "煮込む",
+          "揚げる",
+          "焼く"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "スープ（Egusi, Ogbono）",
+          "パーム油",
+          "唐辛子"
+        ]
+      },
+      {
+        "region": "カリブ海",
+        "methods": [
+          "茹でる",
+          "煮込む",
+          "ローストする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "塩漬け魚",
+          "根菜類"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "生食（すりおろし）",
+          "炒める",
+          "煮る",
+          "揚げる"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "出汁",
+          "海苔",
+          "マグロ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・製粉 (Yam flour)",
+        "regions": [
+          "西アフリカ"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "風味は変化するが、長期保存が可能になり、調理が容易になる（お湯で練るだけでペースト状になる）。"
+      },
+      {
+        "method": "貯蔵穴 (Yam barn)",
+        "regions": [
+          "西アフリカ",
+          "オセアニア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "適切な換気と温度管理により、塊茎の休眠状態を保ち、新鮮な状態を維持する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "種により多様。多くは加熱すると土の香りがし、ほのかな甘みとデンプン質の風味を持つ。ナガイモは淡白でみずみずしい。ウベはナッツのような独特の甘い香りを持つ。",
+      "aroma_compounds": [
+        "ジオスミン（土の香り）"
+      ],
+      "texture_characteristics": "加熱するとホクホク（粉質）またはネットリ（粘質）。ナガイモは生ですりおろすと強い粘り気が出る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐性に関する定性的な知見は多いが、品種レベルでの定量的なデータは限定的。遺伝的多様性が高いため、適応ポテンシャルは高いと評価される。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "25-30°C",
+      "extreme_heat_survival": "40℃を超えると生育が著しく阻害される。",
+      "cold_tolerance": "ほとんどの種は霜に弱い。ナガイモなどは-5℃程度まで耐える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2000 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物で支柱が必要なため、強風に弱い。",
+      "hail_damage_recovery": "葉の損傷からの回復力は中程度。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物としてポジティブな効果が期待されるが、塊茎への炭素分配や栄養価への影響は研究途上。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりヤム炭疽病や線虫、ヤムイモゾウムシの分布域が拡大し、被害が増加する懸念がある。",
+      "disease_resistance_stability": "多様な在来種や野生種に抵抗性遺伝子が存在するため、育種による対応のポテンシャルは高い。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "西アフリカ、カリブ海、東南アジア、オセアニアの熱帯・亜熱帯地域",
+        "2050_projection": "熱帯低地の適地は高温ストレスで減少する可能性があるが、亜熱帯や高地の適地は拡大する可能性。",
+        "2100_projection": "シナリオによるが、大幅な適地の移動が予測される。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "属内の遺伝的多様性は膨大だが、種間の交雑和合性に関する体系的データは限られる。野生種との遺伝子流動は重要な適応メカニズム。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "同一種内の在来種間では交雑が容易。"
+      ],
+      "interspecific_compatibility": [
+        "D. rotundataとD. cayenensisなど、近縁な栽培種間では交雑可能。",
+        "栽培種と一部の野生近縁種との交雑も報告されている。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "アフリカの農地周辺で、栽培種と野生種の自然交雑が起きていることが確認されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培化の中心地には形態、食味、耐性などが異なる膨大な数の在来品種が存在する。",
+      "wild_gene_pool": "各大陸に分布する野生種は、病害虫抵抗性や環境ストレス耐性の貴重な遺伝子源である。",
+      "adaptive_genetic_variation": "高い",
+      "inbreeding_depression_risk": "栄養繁殖が主だが、周期的な有性生殖によりリスクは軽減されている。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "西アフリカ",
+        "environmental_pressure": "サバンナ化による乾燥ストレス、新たな病害虫",
+        "adaptive_response": "農家が管理する農地周辺で、栽培種と乾燥に強い野生種が自然交雑し、より強健な雑種が生まれている。",
+        "time_scale": "数十年〜数百年",
+        "mechanism": "遺伝子浸透 (Introgression)"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種の耐乾性・耐病性遺伝子を導入することで、気候変動への適応力を向上させる可能性が高い。",
+      "improved_nutritional_content": "β-カロテンや鉄分を多く含む野生種との交雑による栄養強化の可能性がある。",
+      "novel_characteristics": "新たな塊茎の形状、食味、機能性成分を持つ品種の創出。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "多くの種間で倍数性の違いや開花時期の不一致が交雑障壁となる。",
+      "chromosome_compatibility": "種によって染色体数や構造が異なり、不和合性を示すことが多い。",
+      "fertility_of_hybrids": "種間雑種は不稔になる場合がある。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い根系、早期の塊茎形成、休眠能力",
+        "heritability": "中〜高",
+        "response_to_selection": "高い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での直接的な研究は少ない。植物の特性や伝統的農法からの類推に基づく評価が多い。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "種によるが、深く広く張る根系を持つものが多く、土壌の団粒構造を改善する可能性がある。",
+      "organic_matter_contribution": "収穫後のつるや葉は大量の有機物として土壌に還元される。",
+      "soil_structure_improvement": "塊茎の収穫時に土壌を深く耕すことになり、土壌の物理性を改善する。",
+      "erosion_control": "生育期には葉が地面を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "深い土層から養分を吸い上げ、地表に還元する役割が期待される。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は小さく、主に小昆虫が訪れる。顕著な貢献はない。",
+      "beneficial_insect_habitat": "繁茂したつるや葉は、天敵昆虫などの隠れ家を提供する。",
+      "soil_microorganism_interaction": "アーバスキュラー菌根菌との共生関係が報告されており、リン酸吸収を助ける。",
+      "above_ground_biodiversity": "伝統的な混植システムでは多様な作物が共存し、生物多様性を高める。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の働きと有機物供給により、土壌の透水性を改善する可能性がある。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "葉による被覆が地表流を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "つる性でバイオマスは中程度。",
+      "below_ground_carbon": "巨大な塊茎は大量の炭素を蓄積する。多年生の塊茎は長期的な炭素貯蔵庫となりうる。",
+      "soil_carbon_enhancement": "有機物残渣の供給により、土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）、トウモロコシ（初期の支柱役）、カボチャ類（地面の被覆）"
+      ],
+      "natural_pest_control": "伝統的な混植・間作システムは、特定の害虫の蔓延を抑制する効果がある。",
+      "nutrient_sharing": "菌根菌ネットワークを介した養分共有の可能性がある。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "伝統的な多品目栽培システムに組み込むことで、生態系の安定性を高める。",
+      "stress_tolerance": "品種の多様性が、様々な環境ストレスに対するシステム全体のリスクを分散させる。",
+      "recovery_capacity": "塊茎の一部が残っていれば再生する能力が高い。",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現在の食品トレンドと食料安全保障の文脈から評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "グルテンフリーで栄養価の高い炭水化物源として価値が高い。",
+      "food_security_contribution": "熱帯地域の数億人の人々にとって基本的なカロリー源であり、食料安全保障の基盤。",
+      "local_food_system_integration": "主に地域内で生産・消費されるため、地域の食料自給と経済循環に貢献。",
+      "alternative_protein_potential": "限定的。タンパク質含有量は高くない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルテンフリー市場",
+        "エスニック食品市場",
+        "スーパーフード市場（特に紫ヤム）"
+      ],
+      "value_added_products": [
+        "ヤム粉（フラワー）",
+        "チップス",
+        "冷凍食品",
+        "天然着色料（ウベパウダー）",
+        "機能性食品原料"
+      ],
+      "niche_market_value": "紫ヤム（ウベ）は、その鮮やかな色と風味から、デザートや飲料の原料として国際的に高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の重要性は広く認識されているが、各種・各地域の保全状況に関する網羅的なデータは不足している。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種の自生地は、森林伐採や農地拡大によって脅かされている。",
+    "climate_change_vulnerability": "栽培適地の移動や極端気象により、特定の地域にしか存在しない在来種が絶滅するリスクがある。",
+    "cultural_erosion_risk": "食生活の近代化や伝統儀式の衰退に伴い、特定の品種の栽培が放棄されるリスクが高い。",
+    "conservation_actions_needed": [
+      "在来品種の網羅的な収集と特性評価",
+      "農家参加型の域内保全（オンファーム保全）の推進",
+      "ジーンバンクでの域外保全の強化",
+      "野生近縁種の自生地の保全"
+    ],
+    "priority_conservation_regions": [
+      "西アフリカのヤムベルト地帯",
+      "パプアニューギニア高地",
+      "東南アジアの島嶼部"
+    ],
+    "ex_situ_conservation_status": "国際農業研究協議グループ（CGIAR）の国際熱帯農業研究所（IITA）などが世界最大級のジーンバンクを保有しているが、全ての多様性をカバーするには至っていない。",
+    "in_situ_conservation_efforts": "各国の研究機関やNGOによる地域コミュニティと連携した保全プロジェクトが散発的に行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "西アフリカ（栽培種と野生種の相互作用）",
+      "オセアニア（儀式的利用と遺伝的多様性）",
+      "南米（未解明の種の探索）"
+    ],
+    "knowledge_gaps": [
+      "各種・品種レベルでの環境ストレス（高温、乾燥）への定量的応答データ",
+      "リジェネラティブ農業システムにおける具体的な土壌・生態系への貢献度の測定",
+      "伝統的知識に基づく病害虫管理技術の科学的検証"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Water Yam / Ube (D. alata)",
+      "local_name": "Ube (フィリピン), Ratalu (インド)",
+      "origin_region": "東南アジア",
+      "distinctive_characteristics": "塊茎の形状が多様。肉色が白、黄、紫など多彩。特に紫色はアントシアニンが豊富。",
+      "cultural_importance": "東南アジア、特にフィリピンでデザート原料として不可欠。世界中に広く伝播している。",
+      "climate_adaptation": "広い適応性を持ち、湿潤な気候を好む。",
+      "conservation_status": "広く栽培されているが、地域固有の在来種は減少傾向にある。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "White Guinea Yam (D. rotundata)",
+      "local_name": "Isu funfun (ヨルバ語)",
+      "origin_region": "西アフリカ",
+      "distinctive_characteristics": "円筒形の大きな塊茎。白色の肉質で、搗くと良質のペーストになる。",
+      "cultural_importance": "西アフリカのヤムベルト地帯で最も重要な主食。文化、儀式、経済の中心。",
+      "climate_adaptation": "比較的、乾燥に強い。",
+      "conservation_status": "主要な栽培種だが、在来品種の多様性は遺伝的浸食のリスクに晒されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": ""
+      },
+      "variety_name": "Chinese Yam / Nagaimo (D. opposita/polystachya)",
+      "local_name": "ナガイモ (日本), 山药 (中国)",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "細長い形状。粘り気が強く、生食が可能。アミラーゼなどの消化酵素を多く含む。",
+      "cultural_importance": "日本や中国で食材および漢方薬として利用される。生で食べる文化は特異的。",
+      "climate_adaptation": "温帯気候に適応し、耐寒性がある。",
+      "conservation_status": "商業栽培が確立している。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAOSTAT",
+      "CGIAR Research Program on Roots, Tubers and Bananas (RTB)",
+      "International Institute of Tropical Agriculture (IITA)",
+      "Kew Royal Botanic Gardens - Plants of the World Online",
+      "Ethnobiology and anthropology academic journals"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する数百の栽培品種それぞれの生理学的応答に関する定量的データ",
+      "伝統的アグロフォレストリーシステムにおけるヤムイモの生態系サービス機能の定量化",
+      "多くの野生近縁種の遺伝的特性と利用可能性"
+    ],
+    "regional_data_coverage": "アフリカとアジアに関する情報は豊富だが、南米とオセアニアの在来種に関する体系的データは比較的少ない。",
+    "missing_information": [
+      "水利用効率(WUE)の品種別データ",
+      "CO2濃度上昇が塊茎の栄養価に与える影響"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

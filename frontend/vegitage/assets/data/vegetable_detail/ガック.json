@@ -1,0 +1,659 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、民族植物学、農業研究論文からの情報を統合。野生近縁種との正確な関係については更なる研究が必要。"
+    },
+    "primary_name": "Gac",
+    "scientific_name": "Momordica cochinchinensis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "果実",
+      "種子の仮種皮",
+      "若葉・蔓",
+      "若い果実"
+    ],
+    "origin_region": "東南アジア（特にベトナム）からオーストラリア北東部",
+    "wild_relatives": [
+      "Momordica dioica"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物名データベース及び文化資料から収集。先住民名は限定的。"
+    },
+    "international": {
+      "en": [
+        "Gac",
+        "Baby Jackfruit",
+        "Spiny Bitter Gourd",
+        "Sweet Gourd",
+        "Cochinchin Gourd"
+      ],
+      "scientific_common": "Momordica cochinchinensis"
+    },
+    "regional": [
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Gấc",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ฟักข้าว",
+            "script": "Thai"
+          },
+          {
+            "lang": "lo",
+            "name": "ໝາກຂີ້ກາ",
+            "script": "Lao"
+          },
+          {
+            "lang": "km",
+            "name": "ផ្កាข้าว",
+            "script": "Khmer"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "木鳖果",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "ナンバンカラスウリ",
+            "script": "Katakana"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "भट केरेला",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "কাঁকরোল",
+            "script": "Bengali"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Momordica",
+      "la": "Momordica"
+    },
+    "species": {
+      "en": "Gac",
+      "la": "cochinchinensis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "文化人類学、民族植物学の文献に基づき、特にベトナム文化における重要性を確認。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "儀式用",
+          "副菜",
+          "薬用",
+          "染料"
+        ],
+        "traditional_uses": "ベトナムでは、テト（旧正月）や結婚式などの祝祭に欠かせない赤いおこわ「ソイ・ガック」の着色と風味付けに使用。赤色は幸運と幸福を象徴する。若い果実は野菜として、種子は伝統薬として利用される。",
+        "seasonal_significance": "主に年末から年始にかけて収穫され、新年の祝祭と強く結びついている。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 2,
+        "cultural_roles": [
+          "薬用",
+          "健康食品"
+        ],
+        "traditional_uses": "中国南部や台湾では、主に伝統医学で「木鳖子」として種子が利用されてきた。近年、果実の栄養価が注目され、健康食品として利用が拡大している。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ベトナム料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Xôi Gấc (ガックおこわ)"
+        ],
+        "preparation_methods": [
+          "蒸す",
+          "煮る"
+        ],
+        "cultural_context": "祝祭、特にテト（旧正月）や結婚式で提供される縁起の良い料理。赤い色が幸運を象徴する。"
+      },
+      {
+        "cuisine": "タイ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Gaeng Khae (ケーン・ケー、ハーブ入りカレー)",
+          "Luak jim nam prik (茹で野菜のディップ添え)"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "茹でる"
+        ],
+        "cultural_context": "若い緑色の果実をウリ科野菜として利用。主にタイ北部で消費される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "東南アジアで古くから利用されてきたが、具体的な古代の記録は少ない。",
+      "trade_routes": "主要な国際交易路に乗る作物ではなかった。地域内での伝播が中心。",
+      "cultural_exchange": "東南アジア大陸部での文化交流を通じて、利用法が周辺地域に伝播した。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、庭先での栽培を通じて、果実が大きい、仮種皮が赤いなどの形質が選抜されてきたと考えられる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿。年間平均気温20-30℃、年間降水量1500mm以上が理想的。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない地域。冬期の生育は停滞するが、根は越冬可能。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜害に非常に弱いため、屋外での栽培は困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度を要求するため不適。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯モンスーン気候",
+        "planting_season": "雨季の始まり（例：5月-6月）",
+        "harvest_season": "乾季の始まり（例：11月-2月）",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "30,000-60,000 kg/ha",
+      "factors_affecting_yield": [
+        "受粉の成功率（雌雄異株のため、人工授粉が有効）",
+        "棚の設置",
+        "土壌の肥沃度と水分",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ベトナム",
+          "production_share": null,
+          "characteristics": "世界最大の生産国。伝統的な小規模農家での栽培が中心だが、商業的な大規模栽培も増加。"
+        },
+        {
+          "country": "タイ",
+          "production_share": null,
+          "characteristics": "主に国内消費向けに栽培。若い果実の利用が多い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "主要な機能性成分に関する研究は豊富だが、一般的な栄養成分の地域変異データは限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "極めて豊富（ニンジンの10倍以上）",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "リコピン",
+          "amount": "極めて豊富（トマトの70倍以上）",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンE（α-トコフェロール）",
+          "amount": "豊富",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "リコピン",
+        "concentration": "仮種皮に非常に高濃度で含有。シス体異性体の比率が高く、生体利用効率が高いとされる。",
+        "health_effect": "強力な抗酸化作用、心血管疾患リスクの低減、特定のがん予防の可能性。"
+      },
+      {
+        "compound": "β-カロテン",
+        "concentration": "仮種皮に高濃度で含有。プロビタミンAとして機能。",
+        "health_effect": "視機能の維持、免疫機能のサポート、抗酸化作用。"
+      },
+      {
+        "compound": "脂肪酸（オレイン酸、リノール酸）",
+        "concentration": "仮種皮に豊富に含まれ、脂溶性カロテノイドの吸収を助ける。",
+        "health_effect": "心血管系の健康維持。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ベトナム",
+        "medical_system": "伝統医学",
+        "uses": [
+          "皮膚疾患（おでき、やけど）の治療",
+          "ドライアイ、夜盲症の改善",
+          "滋養強壮"
+        ],
+        "preparation": "種子の殻を剥いた中身（木鼈子、Mộc miết tử）をすり潰して軟膏として外用する。仮種皮を食用または油として摂取する。"
+      },
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "腫れ物の解消",
+          "解毒",
+          "痛みの緩和"
+        ],
+        "preparation": "種子（木鳖子）を他の生薬と配合して使用。毒性があるため専門家の指導が必要。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高い抗酸化活性",
+        "プロビタミンA源としての有効性"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "抗炎症作用",
+        "心血管保護効果",
+        "皮膚の健康増進効果"
+      ],
+      "safety_considerations": "未調理の種子には毒性があるため、摂取は避けるべき。伝統的な調製法に従う必要がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "料理本、文化研究、地域食文化の調査報告から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ベトナム",
+        "methods": [
+          "蒸す（もち米と共に）",
+          "煮込み（スープやシチューに）"
+        ],
+        "flavor_role": "着色料、風味付け",
+        "typical_combinations": [
+          "もち米",
+          "ココナッツミルク",
+          "砂糖"
+        ]
+      },
+      {
+        "region": "タイ",
+        "methods": [
+          "煮る（カレー）",
+          "茹でる（ディップソースと共に）"
+        ],
+        "flavor_role": "主菜の具材",
+        "typical_combinations": [
+          "ハーブ",
+          "スパイス",
+          "唐辛子ペースト（ナムプリック）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "オイル抽出",
+        "regions": [
+          "ベトナム"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "カロテノイドが光や熱で分解しやすいため、冷暗所での保存が必要。"
+      },
+      {
+        "method": "粉末化",
+        "regions": [
+          "世界（商業製品）"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "フリーズドライ製法が栄養素の保持に優れる。"
+      },
+      {
+        "method": "冷凍保存",
+        "regions": [
+          "ベトナム",
+          "輸出市場"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "仮種皮を冷凍することで、色や栄養価を長期間保持できる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "仮種皮は非常にマイルドで、わずかにアボカドのような油分とナッツのような風味。若い果実はキュウリやズッキーニに似て淡白。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "仮種皮は柔らかくペースト状。若い果実は加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性に関する定性的な記述は多いが、耐乾性や極端気象耐性に関する定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "5°C以下で生育停止、0°C以下で枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2500 mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低（蔓性植物のため、強風で棚が倒壊するリスクがある）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的にC3植物は効果があるとされる）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、果実を食害するミバエ類の発生時期や範囲が拡大する可能性がある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "開花が夜間から早朝にかけて行われるため、夜行性の送粉者（蛾など）への依存度が高い。これらの送粉者の生態系変化が受粉に影響する可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東南アジア、南アジアの熱帯・亜熱帯地域",
+        "2050_projection": "現在の栽培適地は維持されるが、一部地域で水ストレスが増加。亜熱帯地域のより高緯度帯へ適地が拡大する可能性。",
+        "2100_projection": "不明",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "人為的な品種改良に関する情報は存在するが、自然交雑の実態や野生近縁種との遺伝子流動に関する研究は極めて少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "ベトナム国内の多様な在来種間で交雑可能"
+      ],
+      "interspecific_compatibility": [
+        "Momordica dioicaなど近縁種との交雑可能性は理論的に考えられるが、自然環境での報告例は少ない。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地であるベトナムには、果実の大きさ、形、色、油分含有量において高い遺伝的多様性が存在する。",
+      "wild_gene_pool": "野生集団との関係や遺伝子流動の実態は不明。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "雌雄異株であるため、他家受精が基本であり、近交弱勢のリスクは比較的低い。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁の野生種が持つ耐乾性や耐病性の遺伝子を導入できる可能性がある。",
+      "improved_nutritional_content": "カロテノイドや脂肪酸の含有量が異なる品種間の交配により、さらに栄養価の高い品種を作出できる可能性がある。",
+      "novel_characteristics": "雌雄同株性の導入による受粉効率の改善。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈で本種を扱った直接的な研究はない。以下の評価は、多年生蔓植物としての一般的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "多年生のため、深く広い根系を発達させ、土壌構造を安定させる可能性がある。",
+      "organic_matter_contribution": "毎年の落葉や剪定枝が土壌有機物を供給する。",
+      "soil_structure_improvement": "根が土壌団粒構造の形成を促進する。",
+      "erosion_control": "地表を覆う葉が雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "深層の養分を地表に引き上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花が蜜や花粉を供給し、蛾などの夜行性送粉者を支援する。",
+      "beneficial_insect_habitat": "繁茂した葉が、捕食性の昆虫やクモなどの天敵の生息地となる。",
+      "soil_microorganism_interaction": "根圏が多様な土壌微生物群集を育む可能性がある。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌の浸透性を高める。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "蔓や葉に炭素を固定。",
+      "below_ground_carbon": "多年生の根系に長期間炭素を貯留する。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科のカバークロップと組み合わせることで、窒素供給と雑草抑制が期待できる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、年次変動の少ない安定した生産システムを構築できる可能性がある。",
+      "stress_tolerance": "一度定着すれば、一年生作物よりも一定のストレス耐性を持つ可能性がある。",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場調査レポート、健康食品業界の動向、食品科学研究に基づき評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "「スーパーフード」として、天然のビタミンA源、抗酸化物質源として非常に高い価値を持つ。",
+      "food_security_contribution": "栄養改善、特にビタミンA欠乏症が問題となる地域での貢献が期待される。",
+      "local_food_system_integration": "家庭菜園や小規模農家で栽培しやすく、地域の食料自給と栄養改善に貢献できる。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康補助食品市場（オイル、パウダー）",
+        "自然食品着色料市場",
+        "化粧品原料市場（抗酸化作用）",
+        "機能性飲料市場"
+      ],
+      "value_added_products": [
+        "ガックオイルカプセル",
+        "フリーズドライパウダー",
+        "濃縮ジュース・ピューレ",
+        "ガック入りスキンケア製品"
+      ],
+      "niche_market_value": "非常に高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源に関する報告は存在するが、体系的な保全状況の評価は不足している。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生種の生息地は開発により脅威にさらされている可能性がある。",
+    "climate_change_vulnerability": "送粉者の減少や極端な気象が生産に影響を与える可能性がある。",
+    "cultural_erosion_risk": "高（伝統的な利用法、特に祝祭食としての役割が、若者世代で失われつつある）",
+    "conservation_actions_needed": [
+      "在来品種の収集、評価、およびジーンバンクでの保存（域外保全）",
+      "農家による伝統品種の栽培と利用を奨励するプログラム（域内保全）",
+      "伝統的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "ベトナム北部",
+      "タイ北部"
+    ],
+    "ex_situ_conservation_status": "いくつかの国のジーンバンクで種子が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "限定的。一部のNGOや地域コミュニティによる活動が見られる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報を統合して評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ベトナム",
+      "タイ",
+      "中国南部"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "野生近縁種との遺伝的関係と交雑可能性",
+      "リジェネラティブ農業システムにおける具体的な効果測定",
+      "多様な在来品種の網羅的な栄養分析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "ベトナムの農業研究機関の報告に基づくが、国際的に認知された品種名は少ない。"
+      },
+      "variety_name": "Gac Nep",
+      "local_name": "Gấc Nếp",
+      "origin_region": "ベトナム",
+      "distinctive_characteristics": "果実が大きく、仮種皮が厚く、色が濃い。油分含有量が多く、粘り気があるため「ソイ・ガック」に適しているとされる。",
+      "cultural_importance": "「ソイ・ガック」用の最高品質の品種として高く評価される。",
+      "climate_adaptation": "地域の気候によく適応している。",
+      "conservation_status": "農家によって維持されているが、公式な保全プログラムは不明。"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "ベトナムの農業研究機関の報告に基づくが、国際的に認知された品種名は少ない。"
+      },
+      "variety_name": "Gac Te",
+      "local_name": "Gấc Tẻ",
+      "origin_region": "ベトナム",
+      "distinctive_characteristics": "果実が比較的小さく、仮種皮が薄い。水分が多く、油分は少なめ。",
+      "cultural_importance": "日常的な料理やスープなどに使われることが多い。",
+      "climate_adaptation": "広範な環境に適応する。",
+      "conservation_status": "広く栽培されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-24",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      "PubMed",
+      "Google Scholar",
+      "民族植物学関連の学術論文",
+      "ベトナム農業科学研究所の報告書"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種との遺伝子流動の実態"
+    ],
+    "regional_data_coverage": "東南アジア、特にベトナムに情報が集中しており、他の地域は限定的。",
+    "missing_information": [
+      "世界の正確な生産統計",
+      "栽培品種ごとの詳細な気候耐性データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

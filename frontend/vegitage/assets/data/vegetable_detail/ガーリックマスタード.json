@@ -1,0 +1,574 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew Gardens, USDA PLANTS）および生態学の学術論文に基づいています。野生近縁種に関する情報は、属の分類学的見解により変動します。"
+    },
+    "primary_name": "Garlic Mustard",
+    "scientific_name": "Alliaria petiolata",
+    "plant_type": "二年草",
+    "edible_parts": [
+      "葉",
+      "花",
+      "種子",
+      "根"
+    ],
+    "origin_region": "ヨーロッパ、西アジア、中央アジア、北西アフリカ",
+    "wild_relatives": [
+      "Alliaria brachycarpa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパの主要言語における名称は広く記録されています。北米では侵略的外来種としての文脈で語られることがほとんどです。"
+    },
+    "international": {
+      "en": [
+        "Garlic Mustard",
+        "Jack-by-the-hedge",
+        "Hedge Garlic",
+        "Sauce-alone"
+      ],
+      "scientific_common": "Garlic Mustard"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Knoblauchsrauke",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Alliaire officinale",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Alliaria",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Hierba de ajo",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づいています。"
+    },
+    "family": {
+      "en": "Mustard Family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Garlic-mustard",
+      "la": "Alliaria"
+    },
+    "species": {
+      "en": "Garlic Mustard",
+      "la": "petiolata"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "ヨーロッパでの歴史的利用は考古学的・文献的に確認されていますが、現代での重要性は低下しています。北米では侵略種としての負の価値が支配的です。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "香辛料"
+        ],
+        "traditional_uses": "伝統的に春の強壮剤として、またサラダ、ソース、スープの風味付けに利用されてきた。貧者のスパイスとしても知られる。現代では主に野草採集家によって利用される。",
+        "seasonal_significance": "春の訪れを告げる最初の食用野草の一つとして重要。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "北米",
+        "importance_level": 1,
+        "cultural_roles": [
+          "侵略的外来種"
+        ],
+        "traditional_uses": "文化的重要性が負の側面で極めて高い。生態系を破壊する侵略種として認識され、駆除の対象となっている。「invasivore（侵略種を食べる人）」ムーブメントの一環として食用が試みられることがある。",
+        "seasonal_significance": "春に一斉に繁茂し、在来種を駆逐するため、生態学的脅威の象徴となっている。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ヨーロッパの伝統的野草料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Garlic Mustard Pesto",
+          "Salads with young leaves",
+          "Sauces for fish and lamb"
+        ],
+        "preparation_methods": [
+          "生食",
+          "加熱調理（ソテー、スープ）",
+          "ペースト化"
+        ],
+        "cultural_context": "かつては農村部で広く利用されたが、現代では忘れられつつある食材。持続可能な食料収集（foraging）への関心の高まりと共に再評価されている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "ヨーロッパでは少なくとも新石器時代から利用されていたことが、デンマークやドイツの考古学的遺跡から出土した土器の残渣分析で示されている。最古の香辛料の一つ。",
+      "trade_routes": "主要な交易品ではなかったが、人々の移動に伴ってヨーロッパ全域に広がった。",
+      "cultural_exchange": "ヨーロッパからの移民によって、食用および薬用として意図的に北米に持ち込まれたと考えられている。",
+      "domestication_history": "栽培化はされておらず、一貫して野生採集によって利用されてきた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "湿潤で冷涼な気候、特に落葉樹林の林床を好む。半日陰から日陰に適応。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "耐寒性が高く、冬の積雪下でも生存可能。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "低山帯の森林限界付近まで分布する。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "自然繁殖（秋に種子散布）",
+        "harvest_season": "春（2年目の株の若葉）、初夏（花、種子）",
+        "growing_period_days": "約600-700（二年草）"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "商業栽培されていないためデータなし。自然環境下では、日照条件、土壌水分、競争相手の有無が密度に影響する。"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "0",
+      "major_producers": [
+        {
+          "country": "該当なし",
+          "production_share": 0,
+          "characteristics": "商業生産は行われていない。消費はすべて野生採集による。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養素に関するデータは存在するが、網羅的ではない。機能性成分（グルコシノレート）に関する研究は、主にそのアレロパシー効果に焦点を当てている。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンA（β-カロテンとして）",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "不明",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート（特にシニグリン）",
+        "concentration": "変動あり",
+        "health_effect": "抗酸化作用、抗菌作用の可能性。体内でイソチオシアネートに変換される。"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "不明"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "去痰",
+          "利尿",
+          "発汗促進",
+          "外用（傷の消毒、潰瘍治療）",
+          "駆虫"
+        ],
+        "preparation": "葉の湿布、煎じ薬、チンキ剤"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "アレロパシー（他感作用）物質の特定とメカニズム解明",
+        "抗菌・抗真菌活性"
+      ],
+      "safety_considerations": "微量のシアン配糖体を含むが、通常の食用量では無害とされる。しかし、大量摂取は避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパの野草料理に関する文献やウェブサイトに多くのレシピが存在する。風味特性はよく知られている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "ヨーロッパ",
+        "methods": [
+          "生食（サラダ）",
+          "ペースト（ペスト）",
+          "加熱（スープ、ソース、炒め物）",
+          "スパイス（乾燥種子）"
+        ],
+        "flavor_role": "香辛料/薬味",
+        "typical_combinations": [
+          "ジャガイモ",
+          "卵",
+          "魚（特に白身魚）",
+          "羊肉",
+          "チーズ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍（ペースト状で）",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "風味は比較的保たれる。"
+      },
+      {
+        "method": "乾燥（種子）",
+        "regions": [
+          "ヨーロッパ"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香辛料として利用可能。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ニンニクとマスタードを混ぜたような、刺激的で辛味のある風味。若い葉はマイルドだが、成長するにつれて苦味が増す。",
+      "aroma_compounds": [
+        "アリルイソチオシアネート",
+        "その他硫黄化合物"
+      ],
+      "texture_characteristics": "若い葉は柔らかく、サラダに適している。加熱するとしんなりする。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "侵略的性質から高い環境適応性が示唆される。定量的なストレス耐性データは少ないが、生態学的研究から多くの推論が可能。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "10-20°C",
+      "extreme_heat_survival": "夏の高温期には地上部が枯れるが、種子や根で越夏する。",
+      "cold_tolerance": "非常に高い。ロゼット状で越冬し、-15°C以下にも耐える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "湿潤な環境を好むが、ある程度の乾燥には耐える。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "草本であるため物理的損傷は受けるが、個体群としての回復力は高い。",
+      "hail_damage_recovery": "高い",
+      "rapid_temperature_change": "春先の急な温度変化に強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "高いと予測される。CO2濃度上昇は成長を促進し、競争力を高める可能性がある。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "林床植物であるため、高いUV耐性はない可能性がある。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "原産地では天敵昆虫や病原菌が存在するが、侵入地では天敵が少なく非常に有利。温暖化による天敵の分布変化が将来的な抑制要因になる可能性がある。",
+      "disease_resistance_stability": "高い",
+      "beneficial_organism_relationships": "アレロパシーにより土壌菌根菌を阻害し、自身の競争力を高める。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯の広葉樹林帯",
+        "2050_projection": "分布域の北方および高標高への拡大が予測される。",
+        "2100_projection": "さらなる北方拡大と、南部での乾燥による分布域縮小の可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "主に自家受粉するため、自然交雑の機会は限定的。遺伝的多様性研究は、侵入生態学の文脈で行われている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域的なエコタイプ間での交雑は可能。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種が非常に少ないため、可能性は極めて低い。"
+      ],
+      "intergeneric_possibility": [
+        "自然環境下での報告例はない。"
+      ],
+      "successful_natural_hybrids": []
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培品種は存在しない。",
+      "wild_gene_pool": "原産地のヨーロッパに高い遺伝的多様性が存在する。北米の侵入個体群は、ヨーロッパの多様性の一部に由来する。",
+      "adaptive_genetic_variation": "侵入地での急速な拡散は、高い表現型可塑性または局所適応を示唆する。",
+      "inbreeding_depression_risk": "主に自家受粉であるため、近交弱勢のリスクは低いと考えられる。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北米",
+        "environmental_pressure": "新たな生態系、天敵の不在",
+        "adaptive_response": "爆発的な個体群増加、アレロパシーによる在来種の抑制、成長サイクルの最適化",
+        "time_scale": "約150年",
+        "mechanism": "表現型可塑性、および複数回の導入による遺伝的多様性の混合（Admixture）"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "自家受粉が優勢であることが障壁となる。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "日照条件、競争、草食圧（原産地）",
+        "adaptive_traits": "成長速度、種子生産量、アレロパシー物質の生産量",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 3
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "侵入生態学の研究により、生態系への負の影響が広く報告されている。これはリジェネラティブ農業の原則とは相容れない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "二年目には主根が発達するが、土壌構造を積極的に改善するほどではない。",
+      "organic_matter_contribution": "二年草であり、バイオマスは多いが、アレロパシー物質が分解を阻害する可能性が指摘されている。",
+      "soil_structure_improvement": "限定的",
+      "erosion_control": "冬期のロゼットは地表を覆い、一定の侵食防止効果がある。",
+      "nutrient_cycling_role": "特筆すべき役割はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "多様な訪花昆虫が訪れるが、在来の春植物（スプリング・エフェメラル）を駆逐するため、生態系全体では花粉媒介者ネットワークに負の影響を与える。",
+      "beneficial_insect_habitat": "天敵が少ないため、有益昆虫の生息地としての価値は低い。",
+      "soil_microorganism_interaction": "強い負の影響。アレロパシー物質がアーバスキュラー菌根菌の共生を阻害し、多くの在来植物の成長を妨げる。",
+      "above_ground_biodiversity": "侵入地では、密な群落を形成し、在来の草本植物を排除するため、植物多様性を著しく低下させる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "不明",
+      "moisture_retention": "不明",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "限定的",
+      "soil_carbon_enhancement": "負の影響の可能性。菌根菌ネットワークの破壊は土壌炭素蓄積を妨げる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [],
+      "natural_pest_control": "自身の防御物質により多くの草食昆虫を寄せ付けない。",
+      "nutrient_sharing": "なし。むしろ競争相手を排除する。",
+      "allelopathic_interactions": "非常に強い負のアレロパシー効果を持つ。他の植物の成長を阻害する。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "侵入した生態系の安定性を破壊し、均質化させる。",
+      "stress_tolerance": "植物個体としては高い。",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 1
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な利用は、 foraging（野生採集）と invasivorism（侵略的外来種の喫食）というニッチな分野に限られる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養価の高い野草として利用可能。",
+      "food_security_contribution": "限定的。あくまで補助的な食料源。",
+      "local_food_system_integration": "侵略地において、駆除活動と連携した地域食材としての利用が模索されている。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ニッチなレストランへの供給",
+        "野生食品（Wild Foods）市場"
+      ],
+      "value_added_products": [
+        "ペスト",
+        "シーズニング（種子）"
+      ],
+      "niche_market_value": "侵略種を食べるというストーリー性を持つ点で、特定の消費者層にアピールする可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "保全の文脈では、この種自体の保護ではなく、この種が侵入した生態系の保全が最優先課題となる。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "本種は脅威を受ける側ではなく、与える側である。",
+    "climate_change_vulnerability": "低い",
+    "cultural_erosion_risk": "高（ヨーロッパにおける伝統的知識の消失）",
+    "conservation_actions_needed": [
+      "侵入地（特に北米）における分布拡大の監視と管理・駆除",
+      "原産地（ヨーロッパ）における遺伝的多様性の保全",
+      "ヨーロッパにおける本種の利用に関する伝統的生態学的知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "北米の生物多様性の高い温帯林",
+      "ヨーロッパの遺伝的多様性センター"
+    ],
+    "ex_situ_conservation_status": "いくつかの植物園やシードバンクで収集されているが、優先度は低い。",
+    "in_situ_conservation_efforts": "本種の保全活動は行われていない。むしろ、本種から生態系を保全する活動が活発である。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本種は、文化的価値と生態学的脅威という二面性を持ち、辞典において多角的な記述が求められるユニークな事例である。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 5,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "北米（侵入生態学と管理）",
+      "ヨーロッパ（遺伝的多様性と伝統的利用）"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオ下でのアレロパシー効果の変化",
+      "侵入地における進化・適応の遺伝的メカニズム",
+      "伝統的利用に関する民族植物学的記録の集約"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "high",
+        "source_comment": "本種は栽培化されておらず、農業的な意味での「品種」は存在しない。存在するのは地理的な変異を持つ野生の系統（エコタイプ）のみである。"
+      },
+      "variety_name": "該当なし（野生種）",
+      "local_name": "不明",
+      "origin_region": "不明",
+      "distinctive_characteristics": "形態や化学成分に地理的クライン（連続的変異）が存在する可能性が示唆されている。",
+      "cultural_importance": "不明",
+      "climate_adaptation": "不明",
+      "conservation_status": "Not Applicable"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "CABI Invasive Species Compendium",
+      "USDA PLANTS Database",
+      "Ecological and evolutionary literature on Alliaria petiolata invasion",
+      "European ethnobotanical studies"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栄養価に関する網羅的で信頼性の高いデータ"
+    ],
+    "regional_data_coverage": "北米とヨーロッパに偏っており、アジアの原産地における情報は限定的。",
+    "missing_information": [
+      "商業生産データ",
+      "栽培品種情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

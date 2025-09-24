@@ -1,0 +1,703 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew, Tropicos）および民族植物学的研究から統合。野生近縁種との詳細な関係性についてはデータが限定的。"
+    },
+    "primary_name": "Ivy Gourd",
+    "scientific_name": "Coccinia grandis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "果実",
+      "葉",
+      "茎"
+    ],
+    "origin_region": "熱帯アフリカ及びアジア",
+    "wild_relatives": [
+      "Coccinia abyssinica",
+      "Coccinia rehmannii"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の植物名データベース、料理書、民族植物学の記録から収集。名称は非常に多様。"
+    },
+    "international": {
+      "en": [
+        "Ivy Gourd",
+        "Scarlet Gourd",
+        "Tindora",
+        "Kowai fruit"
+      ],
+      "scientific_common": "Coccinia"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "कुंदरू",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "கோவைக்காய்",
+            "script": "Tamil"
+          },
+          {
+            "lang": "bn",
+            "name": "তেলাকুচা",
+            "script": "Bengali"
+          },
+          {
+            "lang": "te",
+            "name": "దొండకాయ",
+            "script": "Telugu"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "ตำลึง",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "Dây Bát",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Pepasan",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ヤサイカラスウリ",
+            "script": "Katakana"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Mtango wa mwitu",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明",
+        "name": "不明",
+        "cultural_significance": "多くの地域で伝統的な食料源および薬草として利用されているが、特定の先住民族コミュニティに固有の名称と意味に関する集約されたデータは乏しい。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類体系（APG IV）に基づく。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Coccinia",
+      "la": "Coccinia"
+    },
+    "species": {
+      "en": "Ivy Gourd",
+      "la": "grandis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、文化人類学、料理史の研究に基づき、特に南アジアと東南アジアでの重要性は非常に高い。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "インド料理では日常的な野菜（サブジ）として不可欠。アーユルヴェーダでは糖尿病や皮膚病の治療に古くから用いられる。",
+        "seasonal_significance": "雨季に最もよく生育し、栄養価の高い食料源として重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "特にタイやベトナムでは葉がスープや炒め物によく利用される。伝統医学で解熱や抗炎症作用があるとされる。",
+        "seasonal_significance": "通年で利用可能だが、特に雨季に豊富。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "アフリカ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "救荒作物"
+        ],
+        "traditional_uses": "自生しているものを採集、または小規模栽培される。果実と葉が食用に、根が薬用にされる。干ばつ時の貴重な食料源。",
+        "seasonal_significance": "乾季を生き延びる能力があるため、食料が乏しい時期に重要。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Kundru ki Sabzi (炒め煮)",
+          "Dondakaya Fry (揚げ炒め)",
+          "Achar (漬物)"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "煮る",
+          "揚げる",
+          "漬ける"
+        ],
+        "cultural_context": "家庭料理の定番であり、手頃で栄養価の高い日常野菜として広く消費される。"
+      },
+      {
+        "cuisine": "タイ料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Kaeng Jued Tamlueng (タムルンの葉のクリアスープ)"
+        ],
+        "preparation_methods": [
+          "スープ",
+          "炒める"
+        ],
+        "cultural_context": "主に葉が利用され、優しい味わいのスープの具材として人気。家庭の庭先で栽培されることも多い。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "サンスクリット語の文献や古代の医学書（アーユルヴェーダ）に記述があり、数千年前から利用されていたことが示唆される。",
+      "trade_routes": "大規模な国際交易の対象ではなかったが、人の移動に伴いアジア・アフリカの熱帯地域全域に伝播した。",
+      "cultural_exchange": "東南アジアと南アジアの料理文化の交流において、共通の食材として役割を果たした可能性がある。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、野生種からの選抜が各地で独立して行われたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿。年間を通じて生育・収穫が可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な季節に生育。冬期は地上部が枯れるが、根は越冬可能。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "露地栽培は困難。温室栽培が必要。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必要だが、根が水分を蓄えるため乾燥には比較的強い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年",
+        "harvest_season": "通年",
+        "growing_period_days": 90
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "春",
+        "harvest_season": "夏から秋",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000-15,000 kg/ha",
+      "factors_affecting_yield": [
+        "水供給",
+        "施肥管理",
+        "つるの誘引・剪定",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "国内消費が主。広範な地域で商業栽培および家庭菜園で生産。"
+        },
+        {
+          "country": "タイ",
+          "production_share": null,
+          "characteristics": "主に国内市場向け。葉と果実の両方が生産される。"
+        },
+        {
+          "country": "インドネシア",
+          "production_share": null,
+          "characteristics": "地域市場向けの小規模生産が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や地域による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "18",
+        "protein_g": "1.2",
+        "carbs_g": "3.1",
+        "fat_g": "0.2",
+        "fiber_g": "1.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "690 μg",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "1.4 mg",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "40 mg",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.4 mg",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症、血糖値降下作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "アルカロイド",
+        "concentration": "不明",
+        "health_effect": "多様な生理活性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "糖尿病（血糖値コントロール）",
+          "皮膚病（ハンセン病、乾癬）",
+          "気管支炎",
+          "黄疸"
+        ],
+        "preparation": "葉や果実のジュース、根の煎じ薬、ペースト状にして塗布。"
+      },
+      {
+        "region": "東南アジア",
+        "medical_system": "伝統医学",
+        "uses": [
+          "解熱",
+          "抗炎症",
+          "便秘解消"
+        ],
+        "preparation": "葉を調理して摂取、または煎じて飲む。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "血糖降下作用"
+      ],
+      "ongoing_research": [
+        "抗酸化作用",
+        "抗炎症作用",
+        "脂質代謝改善効果"
+      ],
+      "safety_considerations": "一般的に安全な食品とされるが、薬用として大量に摂取する場合は専門家との相談が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の料理文化に関する文献から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "炒め煮（サブジ）",
+          "揚げ炒め（フライ）",
+          "カレー",
+          "漬物（アチャール）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "スパイス（クミン、コリアンダー、ターメリック）",
+          "玉ねぎ",
+          "トマト",
+          "ジャガイモ"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "スープ",
+          "炒め物"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "豚ひき肉",
+          "ニンニク",
+          "ナンプラー",
+          "豆腐"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "漬物（ピクルス）",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が柔らかくなり、酸味とスパイスの風味が浸透する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "未熟果はニュートラルでわずかに苦味があり、キュウリに似る。加熱すると甘みが増す。葉はマイルドな緑の風味。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "生の状態ではシャキシャキしている。加熱すると柔らかくなるが、煮崩れしにくい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生育可能だが、生産性は低下する。",
+      "cold_tolerance": "5°C以下で生育停止、霜で地上部は枯死。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "塊根に水分を貯蔵する能力があり、乾季を生き延びることができる。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1000-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる植物であるため強風で損傷しやすいが、成長が旺盛なため回復は早い。",
+      "hail_damage_recovery": "中程度。葉や果実が損傷するが、新しい芽が再生する。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成効率が向上する可能性がある（データなし）。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりウリミバエなどの害虫の発生時期や地域が拡大するリスクがある。",
+      "disease_resistance_stability": "うどんこ病やべと病への感受性があるが、在来種は地域環境に適応した抵抗性を持つ可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯",
+        "2050_projection": "現在の亜熱帯地域での安定性が増し、温帯の一部地域でも夏季の栽培が可能になる可能性がある。",
+        "2100_projection": "赤道直下の地域では極端な高温によるストレスが増加する一方、栽培適地はさらに高緯度へ拡大すると予測される。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "人為的な育種に関する情報は限定的で、自然交雑に関する体系的な研究はほとんどない。ポテンシャルは同属種の存在からの類推に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "各地の在来種間で交雑は可能と考えられる。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種（例：Coccinia abyssinica）との交雑可能性は理論的に存在するが、実例は報告されていない。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "果実の大きさ、形、苦味の有無など、地域ごとに多様な在来品種が存在する。",
+      "wild_gene_pool": "アフリカとアジアに分布する野生集団は、有用な遺伝子（耐病性、耐乾性など）の供給源となる可能性がある。",
+      "adaptive_genetic_variation": "広範な地理的分布は、高い適応的遺伝変異の存在を示唆する。",
+      "inbreeding_depression_risk": "栄養繁殖（挿し木）が容易なため、単一クローンの栽培が広まると遺伝的多様性が低下し、リスクが高まる。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "サヘル地域（アフリカ）",
+        "environmental_pressure": "長期の乾季",
+        "adaptive_response": "発達した塊根による水分・養分貯蔵能力",
+        "time_scale": "数千年",
+        "mechanism": "乾燥気候への自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "アフリカの耐乾性系統とアジアの多収性系統の交雑による、気候変動に強い品種育成の可能性がある。",
+      "improved_nutritional_content": "葉の栄養価が高い系統と果実の食味が良い系統の特性を組み合わせる可能性がある。",
+      "novel_characteristics": "苦味成分の制御、果実の大きさや形の改良。",
+      "hybrid_vigor_potential": "高い可能性があるが、研究は不足している。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "同属内での研究が必要。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "塊根の発達、気孔の制御",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的な研究は少ないが、植物の特性（多年生、つる性、強健性）から高い適性が推測される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "塊根を持つ深い根系が土壌の団粒構造を改善し、水分の浸透を助ける。",
+      "organic_matter_contribution": "旺盛な成長による落葉が土壌有機物を供給する。",
+      "soil_structure_improvement": "多年生であるため、不耕起栽培に適しており、土壌構造の破壊を防ぐ。",
+      "erosion_control": "つるが地表を覆うことで、雨滴による土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "深い根が土壌深層から養分を吸い上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "白い花が夜から朝にかけて咲き、ハチやガなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "密な葉は、クモやカマキリなどの天敵昆虫の隠れ家や生息地となる。",
+      "soil_microorganism_interaction": "根圏での土壌微生物との共生関係が期待されるが、詳細は不明。",
+      "above_ground_biodiversity": "果実が鳥などの食料となることがある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌に亀裂を作り、水の浸透を促進する。",
+      "moisture_retention": "地表被覆により土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "葉や茎が雨の勢いを和らげ、地表流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "成長が早く、地上部のバイオマス蓄積量が大きい。",
+      "below_ground_carbon": "多年生の塊根に炭素を長期間貯蔵する。",
+      "soil_carbon_enhancement": "有機物の供給を通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明だが、多年生作物として高いポテンシャルを持つ。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "アグロフォレストリーシステムにおいて、樹木の支柱を利用して栽培可能。",
+        "トウモロコシやモリンガなど、背の高い作物と混植できる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生であるため、農業生態系に永続的な構造と被覆をもたらす。",
+      "stress_tolerance": "干ばつや高温に対する耐性が高く、システムの安定性に貢献する。",
+      "recovery_capacity": "刈り取りや軽微な被害からの回復力が非常に高い。",
+      "adaptability": "多様な土壌条件で生育可能。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食トレンドと健康志向に関する市場分析に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミンやミネラルが豊富で、植物性の食事において重要な役割を果たす。",
+      "food_security_contribution": "栽培が容易で生産性が高く、気候変動下でも安定した食料供給に貢献できる。",
+      "local_food_system_integration": "家庭菜園や小規模農家で容易に栽培でき、地域の自給率向上に貢献する。",
+      "alternative_protein_potential": "限定的。葉にはタンパク質が含まれるが、主食となるほどではない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "欧米における南アジア・東南アジア系移民コミュニティ向けの市場。",
+        "健康志向の消費者に対する「機能性食品」としてのプロモーション。"
+      ],
+      "value_added_products": [
+        "ピクルス",
+        "乾燥葉パウダー（サプリメント用）",
+        "血糖値管理を目的とした健康補助食品"
+      ],
+      "niche_market_value": "「エキゾチック野菜」や「スーパーフード」としてのニッチ市場での価値が高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストには未記載。リスク評価は農業の近代化と遺伝的多様性の観点から推定。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生種の自生地は開発による脅威に晒されている可能性がある。",
+    "climate_change_vulnerability": "低いが、極端な気象（洪水など）は局所的な個体群に影響を与える可能性がある。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "各地の在来種の収集、特性評価、および遺伝子バンクでの保存。",
+      "伝統的な利用法に関する知識の記録と継承。",
+      "オンファーム（農家での）保全活動の支援。"
+    ],
+    "priority_conservation_regions": [
+      "インド亜大陸",
+      "東南アジア大陸部",
+      "東アフリカ"
+    ],
+    "ex_situ_conservation_status": "主要な国際遺伝子バンク（World Vegetable Centerなど）で一部の系統が保存されている。",
+    "in_situ_conservation_efforts": "体系的な活動は限定的。主に伝統的な農家によって維持されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全項目を総合的に評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "インド（特にアーユルヴェーダ利用との関連）",
+      "タイ（葉の利用文化）",
+      "エチオピア（野生種と栽培種の遺伝的多様性）"
+    ],
+    "knowledge_gaps": [
+      "品種レベルでの気候変動応答に関する定量的データ",
+      "在来品種の網羅的な遺伝子解析",
+      "薬効成分の同定と作用機序の解明"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "正式な品種登録は少なく、多くは「在来種」として地域で区別される。以下は代表的なタイプの記述。"
+      },
+      "variety_name": "Long Fruit Type",
+      "local_name": "不明",
+      "origin_region": "南アジア",
+      "distinctive_characteristics": "果実が細長く、長さ10-15cmに達する。調理しやすく、商業栽培で好まれる傾向がある。",
+      "cultural_importance": "市場での流通量が多い。",
+      "climate_adaptation": "標準的な耐性を持つ。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "正式な品種登録は少なく、多くは「在来種」として地域で区別される。以下は代表的なタイプの記述。"
+      },
+      "variety_name": "Short/Round Fruit Type",
+      "local_name": "不明",
+      "origin_region": "東南アジア、南アジア",
+      "distinctive_characteristics": "果実が短く、ずんぐりしている。苦味が少ない品種が多いとされる。",
+      "cultural_importance": "家庭菜園や地域の市場でよく見られる。",
+      "climate_adaptation": "地域の気候によく適応している。",
+      "conservation_status": "地域的に維持"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "PROSEA (Plant Resources of South-East Asia)",
+      "World Vegetable Center (AVRDC) publications",
+      "Journal of Ethnopharmacology",
+      "Kew Royal Botanic Gardens, Plants of the World Online"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "自然交雑の頻度と遺伝子流動の実態"
+    ],
+    "regional_data_coverage": "南アジアと東南アジアに関する情報は豊富だが、アフリカに関する情報は比較的少ない。",
+    "missing_information": [
+      "商業生産における世界的な統計データ",
+      "アレルゲン情報",
+      "品種ごとの詳細な栄養価分析"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

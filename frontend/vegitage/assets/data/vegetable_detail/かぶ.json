@@ -1,0 +1,737 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業研究機関の情報を統合。原産地については複数の説が存在するが、主要な学説を記載。"
+    },
+    "primary_name": "Turnip",
+    "scientific_name": "Brassica rapa var. rapa",
+    "plant_type": "二年草（通常は一年生として栽培）",
+    "edible_parts": [
+      "肥大化した胚軸（根）",
+      "葉"
+    ],
+    "origin_region": "ヨーロッパまたは中央アジアと推定（複数の起源中心地が存在）",
+    "wild_relatives": [
+      "Brassica rapa subsp. sylvestris"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要言語圏での名称は広く記録されている。古代の名称や先住民固有の名称の特定は困難。"
+    },
+    "international": {
+      "en": [
+        "Turnip",
+        "White Turnip"
+      ],
+      "scientific_common": "Turnip"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "カブ (蕪)",
+            "script": "Kanji/Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "蕪菁 (wújīng)",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "순무 (sunmu)",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Navet",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Weiße Rübe / Speiserübe",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Rapa",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Nabo",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Репа (Repa)",
+            "script": "Cyrillic"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "शलगम (Shalgam)",
+            "script": "Devanagari"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "لفت (Lift)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "شلغم (Shalgham)",
+            "script": "Persian"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Mustard",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Field mustard",
+      "la": "Brassica rapa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "rapa"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史的記録、民族植物学の文献は豊富。特にヨーロッパと東アジアでの文化的価値はよく記録されている。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食（歴史的）",
+          "副菜",
+          "家畜飼料",
+          "儀式用"
+        ],
+        "traditional_uses": "ジャガイモが普及する以前の主要な根菜類。アイルランドやスコットランドでは、カブをくり抜いてランタン（ジャック・オー・ランタンの原型）を作る伝統があった。",
+        "seasonal_significance": "秋から冬にかけての重要な保存食料。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "漬物",
+          "儀式用"
+        ],
+        "traditional_uses": "日本では古事記にも記載がある最古の野菜の一つ。春の七草粥の「すずな」として無病息災を祈る儀式に用いられる。多様な在来品種が各地に存在する。",
+        "seasonal_significance": "冬の代表的な野菜であり、特に漬物文化と深く結びついている。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "中東・北アフリカ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "漬物"
+        ],
+        "traditional_uses": "ビーツと共に漬け込んだピンク色の漬物（Torshi Lift）が広く食される。煮込み料理にも頻繁に利用される。",
+        "seasonal_significance": "冬の一般的な野菜。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "千枚漬け",
+          "かぶら蒸し",
+          "かぶの味噌汁"
+        ],
+        "preparation_methods": [
+          "漬ける",
+          "蒸す",
+          "煮る"
+        ],
+        "cultural_context": "繊細な風味と食感を活かし、京料理などの伝統料理で重要な役割を果たす。"
+      },
+      {
+        "cuisine": "伝統的ヨーロッパ料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "マッシュドターニップ",
+          "アイリッシュシチュー",
+          "ポトフ"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "ロースト",
+          "煮込む"
+        ],
+        "cultural_context": "ジャガイモ以前の炭水化物源として、素朴な家庭料理や農民の食事の中心であった。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャ・ローマ時代から栽培されており、大プリニウスの『博物誌』にも記述がある。",
+      "trade_routes": "特定の交易品ではなかったが、農業の伝播と共にユーラシア大陸全域に広がった。",
+      "cultural_exchange": "ジャガイモの導入は、ヨーロッパにおけるカブの地位を主食から副菜へと変化させ、食文化の大きな転換点となった。",
+      "domestication_history": "野生のBrassica rapaから数千年前に栽培化されたと考えられている。ヨーロッパとアジアで独立して多様な品種が分化した可能性がある。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高地などの冷涼な地域でのみ栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の涼しく乾燥した時期に栽培される。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育適温15-20℃。冷涼な気候で最も品質が良くなる。春まきと秋まきが可能。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "短い夏を利用して栽培される。霜に強い品種が多い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "安定した灌漑が必要。乾燥は根の品質を著しく低下させる。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高の低い、夏の短い冷涼な地域で栽培可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3-5月）、秋（8-10月）",
+        "harvest_season": "初夏（5-7月）、晩秋から冬（10-12月）",
+        "growing_period_days": "40-70"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 45,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌水分",
+        "土壌肥沃度",
+        "アブラナ科特有の病害虫（根こぶ病、コナガ、アブラムシなど）",
+        "栽培時期の気温"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（多くの国で他の根菜類と合算されるため、正確な統計データは限定的）",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "多様な品種が栽培され、国内消費が中心。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "高品質な品種が多く、漬物などの加工用途も多い。"
+        },
+        {
+          "country": "ロシア",
+          "production_share": "不明",
+          "characteristics": "伝統的な野菜であり、ダーチャ（家庭菜園）での栽培が盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "根と葉の基本的な栄養価データは豊富だが、品種や栽培条件による機能性成分の含有量変動に関する研究は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "28",
+        "protein_g": "0.9",
+        "carbs_g": "6.4",
+        "fat_g": "0.1",
+        "fiber_g": "1.8"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC（根）",
+          "amount": "21 mg",
+          "daily_value_percent": "23%"
+        },
+        {
+          "nutrient": "ビタミンK（葉）",
+          "amount": "368 mcg",
+          "daily_value_percent": "307%"
+        },
+        {
+          "nutrient": "ビタミンA（葉）",
+          "amount": "6373 IU",
+          "daily_value_percent": "212%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート",
+        "concentration": "品種や部位により変動",
+        "health_effect": "体内でイソチオシアネートに変換され、抗がん作用、抗酸化作用を持つとされる。"
+      },
+      {
+        "compound": "アントシアニン",
+        "concentration": "紫色の品種の皮に豊富",
+        "health_effect": "強力な抗酸化作用を持つ。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "利尿",
+          "咳止め",
+          "痛風の湿布"
+        ],
+        "preparation": "生食、ジュース、煮汁の飲用、すりおろして湿布として使用。"
+      },
+      {
+        "region": "東アジア",
+        "medical_system": "漢方・民間療法",
+        "uses": [
+          "消化促進",
+          "去痰",
+          "解毒"
+        ],
+        "preparation": "大根と同様に、消化を助ける食材として料理に用いられる。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "アブラナ科野菜の摂取と特定のがんリスク低下との関連性"
+      ],
+      "ongoing_research": [
+        "グルコシノレート由来のイソチオシアネートによる抗炎症作用および抗がん作用のメカニズム解明"
+      ],
+      "safety_considerations": "グルコシノレートは甲状腺ホルモンの生成を阻害する可能性があるため、甲状腺機能に問題がある場合は大量摂取に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の料理本や食文化研究において、カブの利用法は広く記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "漬ける（塩漬け、酢漬け、糠漬け）",
+          "煮る（だし）",
+          "蒸す",
+          "炒める（葉）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "出汁",
+          "味噌",
+          "鶏肉",
+          "油揚げ"
+        ]
+      },
+      {
+        "region": "ヨーロッパ・北米",
+        "methods": [
+          "ロースト",
+          "茹でてマッシュする",
+          "煮込む（シチュー）",
+          "スープ"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "バター",
+          "ハーブ（タイム、ローズマリー）",
+          "豚肉",
+          "鴨肉"
+        ]
+      },
+      {
+        "region": "中東",
+        "methods": [
+          "漬ける（ビーツと共）",
+          "煮込む"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "羊肉",
+          "ひよこ豆",
+          "レモン",
+          "ニンニク"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "漬物",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "乳酸発酵により酸味と旨味が増し、保存性が向上する。"
+      },
+      {
+        "method": "根菜貯蔵（Root cellaring）",
+        "regions": [
+          "寒冷な気候の地域"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "低温多湿の環境で鮮度を保つ。時間と共に水分が失われることがある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生ではほのかな甘みと、わずかに辛味（ピリッとした風味）。加熱すると甘みが増し、辛味は和らぐ。",
+      "aroma_compounds": [
+        "イソチオシアネート類（辛味成分）"
+      ],
+      "texture_characteristics": "生ではシャキシャキとした歯ごたえ。加熱すると柔らかく、滑らかになる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "カブに特化した気候変動適応の定量的研究は非常に少ない。評価はアブラナ科の冷涼性作物としての一般的特性と、栽培条件からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30℃を超えると生育不良、根の肥大停止、早期抽苔（とう立ち）のリスクが著しく高まる。",
+      "cold_tolerance": "霜に強く、-5℃程度まで耐える品種もある。霜に当たると糖度が増すことが多い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。根の肥大期に安定した水分を必要とする。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期間を通じて週に25mm程度の降水量または灌漑が望ましい。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が傷つく可能性があるが、根が無事であれば回復可能。",
+      "hail_damage_recovery": "低い。根に傷がつくと腐敗の原因となる。",
+      "rapid_temperature_change": "急激な高温は抽苔を引き起こすため、適応力は低い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（C3植物として理論的には光合成が促進される可能性があるが、高温ストレスの影響が上回ると考えられる）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシ、コナガ、キスジノミハムシなどの害虫の活動期間が長期化し、被害が増加するリスクが高い。",
+      "disease_resistance_stability": "高温多湿は根こぶ病や軟腐病の発生を助長するため、抵抗性は低下する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯全域、亜熱帯の冬季",
+        "2050_projection": "栽培適地がより高緯度・高地へ移動。温帯低地では秋作に限定される地域が増加。",
+        "2100_projection": "現在の主要産地での夏場の栽培は困難になる可能性が高い。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Brassica rapa種の遺伝的多様性と交雑親和性はよく研究されている。多くの野菜が同種内に含まれるため、交雑ポテンシャルは非常に高い。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "ハクサイ",
+        "コマツナ",
+        "チンゲンサイ",
+        "ミズナ",
+        "アブラナ（在来ナタネ）"
+      ],
+      "interspecific_compatibility": [
+        "Brassica napus (セイヨウアブラナ)",
+        "Brassica juncea (カラシナ)"
+      ],
+      "intergeneric_possibility": [
+        "ダイコン属（Raphanus）との交雑は可能だが、通常は胚珠培養などの技術が必要。"
+      ],
+      "successful_natural_hybrids": [
+        "野生のB. rapaとの交雑は容易に起こり、雑草化の一因となることがある。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い。日本だけでも100以上の在来品種が存在し、形状、色、味、生育特性が多様。",
+      "wild_gene_pool": "世界中に分布する野生種（B. rapa subsp. sylvestris）が、耐病性や環境ストレス耐性などの有用な遺伝子供給源となる。",
+      "adaptive_genetic_variation": "種内に広範な遺伝的変異が存在し、異なる環境への適応育種の高いポテンシャルを持つ。",
+      "inbreeding_depression_risk": "他家受精性のため、自家受精を続けると近交弱勢が起こりやすい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界各地",
+        "environmental_pressure": "多様な気候と人間の選択圧",
+        "adaptive_response": "根、葉、花芽など、異なる部位を利用するための形態的な分化（カブ、ハクサイ、コマツナ、アブラナなど）。",
+        "time_scale": "数千年",
+        "mechanism": "選択育種と地域環境への適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁の耐暑性や耐乾性を持つ品種・変種（例：一部のカラシナ類）との交雑により、耐性向上の可能性がある。",
+      "improved_nutritional_content": "葉の栄養価が高い近縁種との交雑により、根と葉の両方で栄養価の高い品種作出の可能性がある。",
+      "novel_characteristics": "多様な形態を持つ種内変種との交雑により、新しい形状や色のカブが生まれる可能性がある。",
+      "hybrid_vigor_potential": "高い。F1品種では生育旺盛で均一な形質が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "自家不和合性が強いため、交配には注意が必要。",
+      "chromosome_compatibility": "同種内（2n=20）では問題ない。",
+      "fertility_of_hybrids": "種内交雑では稔性は高い。",
+      "backcrossing_success": "高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫（根こぶ病など）",
+        "adaptive_traits": "抵抗性遺伝子",
+        "heritability": "中〜高",
+        "response_to_selection": "抵抗性品種の育成に成功している。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "カブに特化したリジェネラティブ農業の研究は限定的。評価は、アブラナ科緑肥や根菜の一般的な特性からの類推を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "主根が土壌を穿孔し、硬盤を部分的に破砕する効果が期待できる。",
+      "organic_matter_contribution": "葉のバイオマスが多く、すき込むことで土壌有機物を増やすことができる。",
+      "soil_structure_improvement": "根が作る孔隙や有機物の供給により、土壌の団粒構造を改善する。",
+      "erosion_control": "生育初期の被覆は遅いが、生育旺盛期には広い葉で地面を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "アブラナ科植物は土壌深層からの養分（特に硫黄）を吸い上げる能力がある（養分スカベンジャー）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期にはミツバチなどの花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "アブラナ科を好む寄生蜂などの天敵昆虫の生息地となる可能性がある。",
+      "soil_microorganism_interaction": "根圏微生物叢との相互作用があるが、根こぶ病菌の宿主にもなるため連作は避けるべき。",
+      "above_ground_biodiversity": "限定的。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌の孔隙形成が水の浸透を助ける。",
+      "moisture_retention": "土壌への有機物供給により、保水性が向上する。",
+      "runoff_reduction": "地上部の被覆により、地表流出を低減する。",
+      "groundwater_recharge": "不明。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。葉の量が多い。",
+      "below_ground_carbon": "中程度。収穫後の残根が炭素源となる。",
+      "soil_carbon_enhancement": "緑肥としてすき込むことで、土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "生育が速いため、短期間での炭素固定速度は比較的高い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科（土壌窒素を供給）",
+        "ミントなどの芳香性ハーブ（害虫忌避効果が期待される）"
+      ],
+      "natural_pest_control": "コンパニオンプランツによる限定的な効果。",
+      "nutrient_sharing": "不明。",
+      "allelopathic_interactions": "アブラナ科植物は、他の植物の生育を抑制するアレロパシー物質を放出することがある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "輪作体系に組み込むことで、土壌構造改善や養分循環に貢献する。",
+      "stress_tolerance": "環境ストレスへの耐性は高くないが、生育期間が短いため、天候の良い時期を狙って栽培できる。",
+      "recovery_capacity": "中程度。",
+      "adaptability": "品種が豊富で、様々な冷涼な環境に適応した品種が存在する。"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食トレンドや市場動向に関する情報は広く入手可能。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーでビタミン・ミネラルが豊富な根菜として、また栄養価の高い葉物野菜（Turnip greens）として価値が高い。",
+      "food_security_contribution": "生育期間が短く、単位面積あたりの収量も比較的多いため、地域の食料安全保障に貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットなどで人気があり、地域内消費に適している。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "伝統野菜・在来品種への関心の高まり",
+        "葉（Turnip greens）の栄養価への注目",
+        "グルメ・高級レストランでの利用"
+      ],
+      "value_added_products": [
+        "高品質な漬物",
+        "ベビーベジタブルとしての販売",
+        "ジュース、スープなどの加工品"
+      ],
+      "niche_market_value": "特定の伝統品種（聖護院かぶ、日野菜かぶ等）は、地域ブランドとして高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の消失リスクは広く認識されているが、各品種の具体的な保全状況に関するデータは断片的。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種の自生地は開発や農業の変化により脅かされている可能性がある。",
+    "climate_change_vulnerability": "高い。冷涼な気候を好むため、温暖化による栽培適地の減少が懸念される。",
+    "cultural_erosion_risk": "高",
+    "conservation_actions_needed": [
+      "在来品種の種子収集とジーンバンクでの長期保存（域外保全）",
+      "在来品種を栽培し続ける農家への支援（オンファーム保全）",
+      "伝統的な利用法や食文化の記録と継承",
+      "気候変動耐性を持つ遺伝資源の探索と評価"
+    ],
+    "priority_conservation_regions": [
+      "日本（多様な在来品種の宝庫）",
+      "地中海沿岸地域",
+      "中央アジア"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多くの品種が保存されているが、網羅性は不明。",
+    "in_situ_conservation_efforts": "一部の地域で、NPOや自治体による在来品種の保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "日本",
+      "地中海沿岸諸国",
+      "中央アジア"
+    ],
+    "knowledge_gaps": [
+      "各在来品種の耐暑性・耐乾性に関する定量的データ",
+      "気候変動下の病害虫圧変化に対する応答",
+      "土壌微生物叢との相互作用"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "著名な品種に関する情報は豊富。"
+      },
+      "variety_name": "Shogoin Kabu",
+      "local_name": "聖護院かぶ",
+      "origin_region": "日本、京都",
+      "distinctive_characteristics": "日本最大級のカブ。直径15cm以上になる。肉質は緻密で甘みが強い。",
+      "cultural_importance": "京野菜の代表格。高級漬物「千枚漬け」の原料として不可欠。",
+      "climate_adaptation": "寒さに強いが、暑さには弱い。",
+      "conservation_status": "地域ブランドとして保全・栽培されている。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "世界的に最も普及している品種の一つ。"
+      },
+      "variety_name": "Purple Top White Globe",
+      "local_name": "パープル・トップ・ホワイト・グローブ",
+      "origin_region": "ヨーロッパ（詳細不明）",
+      "distinctive_characteristics": "地上部が紫色、地下部が白色の球形。生育が早く、作りやすい。",
+      "cultural_importance": "欧米で最も一般的な品種であり、カブの標準的なイメージを形成している。",
+      "climate_adaptation": "幅広い温帯気候に適応するが、耐暑性は低い。",
+      "conservation_status": "広く商業栽培されており、保全上の懸念はない。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本で広く利用される小カブの代表。"
+      },
+      "variety_name": "Kanamachi Kokabu",
+      "local_name": "金町小蕪",
+      "origin_region": "日本、東京",
+      "distinctive_characteristics": "小型で純白。生育日数が30-40日と非常に短い。肉質が柔らかく、サラダなど生食にも向く。",
+      "cultural_importance": "日本の市場で最も流通している小カブの原型。家庭菜園でも人気。",
+      "climate_adaptation": "周年栽培が可能だが、夏の高温期は品質が落ちる。",
+      "conservation_status": "多数の改良品種が存在するが、原種系統の保全が重要。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "USDA FoodData Central",
+      "Royal Botanic Gardens, Kew",
+      "各種民族植物学論文",
+      "農業研究機関の公開資料"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動（特に高温・乾燥）に対する品種レベルでの生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果測定データ",
+      "世界中の在来品種の網羅的な遺伝子情報と保全状況"
+    ],
+    "regional_data_coverage": "ヨーロッパと東アジアに関するデータは豊富だが、アフリカや南米、中央アジアに関する情報は限定的。",
+    "missing_information": [
+      "先住民コミュニティにおける伝統的利用法",
+      "世界規模での正確な生産統計"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

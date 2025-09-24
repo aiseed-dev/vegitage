@@ -1,0 +1,738 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業研究機関の報告書、民族植物学の文献から情報を統合。野生近縁種に関する詳細な生態学的データは限定的。"
+    },
+    "primary_name": "Moringa",
+    "scientific_name": "Moringa oleifera",
+    "plant_type": "木本",
+    "edible_parts": [
+      "根",
+      "茎",
+      "葉",
+      "花",
+      "果実",
+      "種子"
+    ],
+    "origin_region": "南アジアのヒマラヤ山麓地域（インド、パキスタン、バングラデシュ、アフガニスタン）",
+    "wild_relatives": [
+      "Moringa concanensis",
+      "Moringa peregrina"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の言語データベースと民族植物学の記録から広範な名称を収集。"
+    },
+    "international": {
+      "en": [
+        "Moringa",
+        "Drumstick tree",
+        "Horseradish tree",
+        "Ben oil tree"
+      ],
+      "scientific_common": "Moringa"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "सहजन",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "முருங்கை",
+            "script": "Tamil"
+          },
+          {
+            "lang": "bn",
+            "name": "সজিনা",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Malunggay",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "มะรุม",
+            "script": "Thai"
+          }
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Mlonge",
+            "script": "Latin"
+          },
+          {
+            "lang": "ha",
+            "name": "Zogale",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Moringa",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Moringa",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アーユルヴェーダ伝承コミュニティ（南アジア）",
+        "name": "Shigru (शिग्रु)",
+        "cultural_significance": "「矢のように速く体内組織に浸透する」という意味を持つサンスクリット名。300以上の病を癒す薬木として神聖視される。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく標準的な植物分類情報。"
+    },
+    "family": {
+      "en": "Moringaceae",
+      "la": "Moringaceae"
+    },
+    "genus": {
+      "en": "Moringa",
+      "la": "Moringa"
+    },
+    "species": {
+      "en": "oleifera",
+      "la": "oleifera"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、文化人類学、歴史学の広範な文献に基づく情報。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "経済作物",
+          "浄水"
+        ],
+        "traditional_uses": "若い果実（ドラムスティック）や葉はカレーやスープの具材として日常的に消費される。アーユルヴェーダ医学では全草が薬として利用される。種子は水の浄化に使われる。",
+        "seasonal_significance": "乾季の終わりから雨季にかけての食料・栄養源として重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "アフリカ（特に西アフリカ、東アフリカ）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "主食",
+          "副菜",
+          "薬用",
+          "栄養改善",
+          "経済作物"
+        ],
+        "traditional_uses": "葉は粉末にされ、ソースや粥に混ぜて栄養価を高める。特に乳幼児や授乳中の母親の栄養失調対策として「奇跡の木」と呼ばれる。伝統医療でも広く利用される。",
+        "seasonal_significance": "乾季でも葉を収穫できるため、食料が乏しい時期の貴重なビタミン・ミネラル源となる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東南アジア（特にフィリピン）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "栄養補助"
+        ],
+        "traditional_uses": "「Malunggay」として知られ、鶏肉スープ（Tinolang manok）などの国民的料理に不可欠。授乳中の母親の母乳分泌を促すと言われ、「母親の親友」と呼ばれる。",
+        "seasonal_significance": "年間を通じて収穫可能であり、家庭菜園で常備されることが多い。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "南インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "サンバール",
+          "アヴィヤル"
+        ],
+        "preparation_methods": [
+          "煮込み"
+        ],
+        "cultural_context": "ドラムスティックは野菜として、豆とタマリンドのスープ「サンバール」に欠かせない具材であり、独特の風味と食感を与える。"
+      },
+      {
+        "cuisine": "フィリピン料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Tinolang manok",
+          "Ginisang monggo"
+        ],
+        "preparation_methods": [
+          "スープ",
+          "炒め物"
+        ],
+        "cultural_context": "葉はスープや炒め物に加えられ、手軽な栄養源として広く利用される。家庭の庭で育てられることが多く、フィリピンの食生活に深く根付いている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前2000年頃からインドで利用されていた記録がある。古代ローマ、ギリシャ、エジプトでも薬効や油（ベンオイル）が知られていた。",
+      "trade_routes": "アラブ商人やインドからの移住者により、古代からアフリカや東南アジアへ伝播した。大航海時代以降、アメリカ大陸にも導入された。",
+      "cultural_exchange": "アーユルヴェーダ医学の知識と共に伝播し、各地域の伝統医療体系に組み込まれていった。食文化としても、各地域の料理法と融合し多様な利用法が生まれた。",
+      "domestication_history": "原産地であるインド北西部の亜ヒマラヤ地域で栽培化されたと考えられている。明確な単一の栽培化イベントよりは、長期間にわたる利用と選抜の歴史を持つ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿、明確な乾季があることが望ましい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜が降りない地域。生育は熱帯より緩やかになる。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に非常に弱く、越冬できない。一年草としての栽培は可能。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の低温と夏の極端な高温変動には不向き。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "高い乾燥耐性を持ち、年間降水量250mm以上の地域で生育可能。灌漑があればさらに良く育つ。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と強い紫外線には不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯モンスーン気候",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "葉は年間を通じて、果実は植え付け後6-8ヶ月から収穫開始",
+        "growing_period_days": 180
+      }
+    ],
+    "productivity": {
+      "yield_range": "葉：50,000-70,000 kg/ha（集約栽培）、果実：30,000-40,000 kg/ha",
+      "factors_affecting_yield": [
+        "水管理",
+        "施肥",
+        "剪定方法",
+        "栽植密度",
+        "病害虫"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（多くが非公式な国内消費のため、正確な世界統計は存在しないが、数百万トンと推定される）",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": 80,
+          "characteristics": "世界最大の生産・消費国。特にタミル・ナードゥ州、アーンドラ・プラデーシュ州が主産地。"
+        },
+        {
+          "country": "ナイジェリア",
+          "production_share": 5,
+          "characteristics": "アフリカ最大の生産国の一つ。主に葉が国内で消費される。"
+        },
+        {
+          "country": "フィリピン",
+          "production_share": 3,
+          "characteristics": "国内消費が中心。家庭菜園での栽培が非常に盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "多数の栄養分析研究が存在するが、値は生育条件、品種、収穫時期、加工法により変動する。伝統的利用法は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "64",
+        "protein_g": "9.4",
+        "carbs_g": "8.3",
+        "fat_g": "1.4",
+        "fiber_g": "2.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "51.7 mg",
+          "daily_value_percent": 86
+        },
+        {
+          "nutrient": "ビタミンA (β-カロテン)",
+          "amount": "378 µg",
+          "daily_value_percent": 42
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "185 mg",
+          "daily_value_percent": 19
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "337 mg",
+          "daily_value_percent": 10
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "4.0 mg",
+          "daily_value_percent": 22
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "イソチオシアネート類（グルコモリンギン由来）",
+        "concentration": "可変",
+        "health_effect": "抗炎症、抗がん作用の可能性"
+      },
+      {
+        "compound": "フラボノイド（ケルセチン、ケンペロール）",
+        "concentration": "可変",
+        "health_effect": "強力な抗酸化作用"
+      },
+      {
+        "compound": "フェノール酸（クロロゲン酸）",
+        "concentration": "可変",
+        "health_effect": "血糖値調節、抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "関節炎",
+          "貧血",
+          "消化不良",
+          "高血圧",
+          "皮膚病"
+        ],
+        "preparation": "葉のジュース、根の樹皮の煎じ薬、花のスープ、種子油のマッサージ"
+      },
+      {
+        "region": "アフリカ",
+        "medical_system": "伝統民間医療",
+        "uses": [
+          "マラリアの治療補助",
+          "栄養失調の改善",
+          "糖尿病",
+          "感染症"
+        ],
+        "preparation": "葉の粉末を食事に混ぜる、根や葉を煎じて飲む"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用",
+        "血糖値降下作用",
+        "コレステロール低下作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "神経保護作用",
+        "肝保護作用",
+        "抗菌作用"
+      ],
+      "safety_considerations": "根の樹皮には神経毒性のあるアルカロイド（スピロキン）が含まれるため、過剰摂取は避けるべき。妊娠中の大量摂取は子宮収縮を誘発する可能性が示唆されている。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書、食文化研究、農業普及資料から情報を収集。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南アジア",
+        "methods": [
+          "煮込み（カレー、スープ）",
+          "炒め物",
+          "蒸し物"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "レンズ豆",
+          "タマリンド",
+          "ココナッツ",
+          "各種スパイス"
+        ]
+      },
+      {
+        "region": "アフリカ",
+        "methods": [
+          "煮込み（ソース、シチュー）",
+          "粉末化して混ぜる"
+        ],
+        "flavor_role": "副味/栄養強化",
+        "typical_combinations": [
+          "ピーナッツ",
+          "トマト",
+          "タマネギ",
+          "トウモロコシ粉"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "スープ",
+          "炒め物"
+        ],
+        "flavor_role": "副味/香味",
+        "typical_combinations": [
+          "鶏肉",
+          "魚醤",
+          "ショウガ",
+          "ニンニク"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（葉の粉末化）",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "6ヶ月以上（遮光・密閉容器）",
+        "quality_changes": "ビタミンCなどの熱に弱い栄養素は減少するが、ミネラルやタンパク質は濃縮される。"
+      },
+      {
+        "method": "搾油（種子）",
+        "regions": [
+          "南アジア",
+          "アフリカ"
+        ],
+        "shelf_life": "数年（非常に酸化しにくい）",
+        "quality_changes": "高品質で安定した食用油（ベンオイル）が得られる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "葉：穏やかなほうれん草様、わずかに辛味。果実（ドラムスティック）：アスパラガスとインゲンの中間のような繊細な甘み。根：西洋わさびに似た強い辛味。",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "葉：柔らかい。果実：外皮は硬いが、中の種子とパルプは柔らかい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述や実地観察は多いが、制御環境下での定量的な実験データは少ない。将来予測は広域モデルに基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "48°Cまでの高温に耐えることができる",
+      "cold_tolerance": "軽い霜には耐えるが、-3°C以下で枯死する可能性がある。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "塊根状の主根に水分を貯蔵する能力があり、水利用効率が高い。",
+      "flood_tolerance": "低。土壌の湛水状態に弱く、根腐れを起こしやすい。",
+      "optimal_rainfall": "250-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "幹が脆く強風で折れやすいが、根からの再生能力が非常に高い。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "比較的強い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成と成長が促進される可能性があるが、具体的な研究は限定的。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により害虫の発生地域が拡大するリスクがあるが、固有の抗菌・殺虫成分を持つため一定の抵抗性を示す。",
+      "disease_resistance_stability": "比較的強健だが、集約的な単一栽培では特定の病害（根腐れ病など）が問題となる可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯の乾燥〜半乾燥地域",
+        "2050_projection": "現在の栽培可能域が緯度的に北上・南下し、一部の温帯地域でも一年草としての栽培が可能になる可能性がある。",
+        "2100_projection": "栽培適地はさらに拡大するが、極端な干ばつや豪雨の頻発が栽培の安定性を脅かす可能性もある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "人為的な育種プログラムに関する情報は存在するが、自然環境下での種間交雑に関する科学的報告は非常に少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "'PKM-1', 'PKM-2'など多数の栽培品種間で交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Moringa concanensisなど近縁種との人工交配は研究レベルで試みられている。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告されていない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地であるインドを中心に、形態や生産性に多様性を持つ多くの在来系統が存在する。",
+      "wild_gene_pool": "野生または半野生の個体群が遺伝的多様性のリザーバーとして重要。",
+      "adaptive_genetic_variation": "広範な環境に適応していることから、高い適応的遺伝変異を持つと推定される。",
+      "inbreeding_depression_risk": "自家和合性があるため、隔離された小集団では近交弱勢のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アフリカ・サヘル地域",
+        "environmental_pressure": "長期的な干ばつと高温",
+        "adaptive_response": "深い主根の発達、乾季の落葉による水分蒸散の抑制",
+        "time_scale": "数世紀",
+        "mechanism": "表現型可塑性と適応的な遺伝子型の自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐塩性や耐寒性を持つ近縁種との交雑により、さらなる耐性向上が期待される。",
+      "improved_nutritional_content": "特定の栄養素や機能性成分を多く含む系統との交雑による品種改良が可能。",
+      "novel_characteristics": "異なる成長習性（矮性など）や果実の特性を持つ品種の作出可能性がある。",
+      "hybrid_vigor_potential": "異なる遺伝的背景を持つ系統間の交雑により、雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "Moringa属は多くが2n=28であり、種間交雑の可能性を示唆する。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥ストレス",
+        "adaptive_traits": "塊根形成、浸透圧調節能力、落葉性",
+        "heritability": "中〜高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アグロフォレストリーシステムでの利用事例は多いが、土壌改良や炭素固定に関する定量的な研究データは蓄積途上である。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く土壌を貫く主根と、表層に広がる側根からなる二重構造。硬盤層を破壊し、通気性・透水性を改善する。",
+      "organic_matter_contribution": "豊富な落葉が分解され、土壌有機物を供給する（緑肥）。",
+      "soil_structure_improvement": "根系が土壌粒子を団粒化し、安定した土壌構造を形成する。",
+      "erosion_control": "樹冠が雨滴による土壌侵食を緩和し、根系が土壌を保持する。",
+      "nutrient_cycling_role": "深層から養分を吸い上げ、落葉を通じて表層に還元する「栄養ポンプ」として機能する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの多様な花粉媒介者にとって重要な蜜源となる。",
+      "beneficial_insect_habitat": "樹冠が天敵昆虫などの隠れ家や生息地を提供する。",
+      "soil_microorganism_interaction": "根圏で菌根菌など多様な土壌微生物と共生関係を築く可能性がある。",
+      "above_ground_biodiversity": "鳥類の営巣場所となるなど、地上部の生物多様性にも貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作る土壌孔隙が水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加により、土壌の保水性が向上する。",
+      "runoff_reduction": "樹冠と地表の被覆が地表流出を減少させる。",
+      "groundwater_recharge": "浸透の促進により、地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "非常に成長が速いため、地上部バイオマスへの炭素固定速度が速い。",
+      "below_ground_carbon": "深い主根系により、土壌深層への炭素貯留が期待される。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素（SOC）を増加させる。",
+      "carbon_sequestration_rate": "不明（栽培密度や管理方法によるが、年間5-20 t-CO2/haと推定する研究もある）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ",
+        "ソルガム",
+        "マメ科作物との混植（アグロフォレストリー）"
+      ],
+      "natural_pest_control": "特定の害虫を忌避する効果が報告されている。",
+      "nutrient_sharing": "栄養ポンプ効果により、混植作物が利用しやすい形で養分を供給する可能性がある。",
+      "allelopathic_interactions": "限定的だが、他感作用に関する報告がある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な生態系サービスを提供し、農業生態系の安定性を高める。",
+      "stress_tolerance": "個体レベルでの高いストレス耐性が、システム全体のレジリエンスに貢献する。",
+      "recovery_capacity": "剪定や軽微な被害からの回復力が非常に高く、システムの迅速な回復を助ける。",
+      "adaptability": "多様な環境に適応する能力が、不確実な気候条件下でのシステムの柔軟性を高める。"
+    },
+    "regenerative_score": 9
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場調査レポート、国際開発機関の報告、健康食品業界の動向に基づく情報。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "「スーパーフード」として世界的に認知され、植物由来の栄養補助食品市場で重要な位置を占める。",
+      "food_security_contribution": "栄養失調が深刻な地域において、低コストで栽培可能な栄養源として食料安全保障に大きく貢献する。",
+      "local_food_system_integration": "家庭菜園から小規模商業栽培までスケールが多様で、地域の食料システムに容易に統合できる。",
+      "alternative_protein_potential": "葉は高いタンパク質含有量を誇り、持続可能な代替タンパク質源としての可能性がある。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "栄養補助食品",
+        "健康飲料（お茶、スムージー）",
+        "自然派化粧品（種子油）",
+        "植物性プロテイン製品"
+      ],
+      "value_added_products": [
+        "葉の粉末・カプセル・タブレット",
+        "種子油（ベンオイル）",
+        "ティーバッグ",
+        "エナジーバー"
+      ],
+      "niche_market_value": "オーガニック、フェアトレード、リジェネラティブ農法による製品は、高い付加価値を持つニッチ市場を形成している。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種としての情報は豊富だが、原産地における野生個体群の保全状況に関するデータは限定的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地であるインド・パキスタンのシワリク丘陵地帯における森林伐採や土地開発が、野生個体群の生息地を脅かしている。",
+    "climate_change_vulnerability": "個体レベルでは気候変動に強いが、野生集団は生息地の分断化と気候変動の複合影響に脆弱である可能性がある。",
+    "cultural_erosion_risk": "低。世界中で利用が拡大しているが、伝統的な利用法や在来品種に関する知識の喪失は一部地域で懸念される。",
+    "conservation_actions_needed": [
+      "野生個体群の生息域内保全（In-situ）",
+      "多様な在来品種の収集と遺伝子バンクでの域外保全（Ex-situ）",
+      "伝統知識の記録と保全"
+    ],
+    "priority_conservation_regions": [
+      "インド北西部シワリク丘陵",
+      "パキスタン"
+    ],
+    "ex_situ_conservation_status": "世界の主要な遺伝子バンク（World Vegetable Centerなど）で多数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "限定的であり、保護区の設定など、より体系的な取り組みが必要。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた多角的な情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 9,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "原産地（インド北西部）での遺伝的多様性と生態学的研究",
+      "アフリカ・サヘル地域での気候変動適応メカニズムの研究"
+    ],
+    "knowledge_gaps": [
+      "野生個体群の正確な分布と遺伝構造",
+      "気候変動要因（CO2、極端気象）に対する品種レベルでの定量的応答",
+      "リジェネラティブ農業システムにおける炭素固定能と土壌改良効果の定量化"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "育種された商用品種の情報は存在するが、世界中の多様な在来種の体系的データは不十分。"
+      },
+      "variety_name": "PKM-1",
+      "local_name": "PKM-1",
+      "origin_region": "インド、タミル・ナードゥ州",
+      "distinctive_characteristics": "矮性で分枝が多く、果実（ドラムスティック）の収量が高い多収穫品種。植え付けから短期間で収穫が始まる。",
+      "cultural_importance": "インドにおける商業生産の標準品種の一つとして、農業経済において重要。",
+      "climate_adaptation": "高温と乾燥に強いが、集約的管理を前提とする。",
+      "conservation_status": "広く栽培されているため、保全上の懸念はない。"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "在来種は地域ごとに多様な名称と特性を持つが、学術的な記録は断片的。"
+      },
+      "variety_name": "African Landraces",
+      "local_name": "Zogale (Hausa), Mlonge (Swahili)など多数",
+      "origin_region": "アフリカ各地",
+      "distinctive_characteristics": "葉の生産に特化した系統が多い。地域の気候や土壌に高度に適応しており、遺伝的多様性が豊か。",
+      "cultural_importance": "地域の食料安全保障と伝統医療に不可欠な役割を果たしている。",
+      "climate_adaptation": "各地域の厳しい気候（特に干ばつ）に対する高い耐性を持つ。",
+      "conservation_status": "遺伝的侵食のリスクがあり、保全が重要。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "FAO EcoCrop database",
+      "World Vegetable Center (AVRDC) reports",
+      "Kew Royal Botanic Gardens - Plants of the World Online",
+      "Journal of Ethnopharmacology",
+      "Agronomy for Sustainable Development"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ（特に炭素固定速度）",
+      "気候変動に対する品種レベルでの生理学的応答メカニズム",
+      "自然環境下での種間交雑の可能性と実態"
+    ],
+    "regional_data_coverage": "南アジアとアフリカに関するデータは豊富だが、ラテンアメリカや他の地域に関する詳細な文化・栽培データは比較的少ない。",
+    "missing_information": [
+      "特定の栽培品種の耐病性に関する詳細データ",
+      "野生個体群の保全状況に関する最新の評価"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

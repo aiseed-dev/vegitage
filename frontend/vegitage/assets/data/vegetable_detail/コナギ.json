@@ -1,0 +1,636 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, GBIF), ethnobotanical studies, and agricultural research on aquatic weeds. The dual identity as both food and weed is well-documented."
+    },
+    "primary_name": "Heartshape false pickerelweed",
+    "scientific_name": "Monochoria vaginalis",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "花",
+      "根"
+    ],
+    "origin_region": "熱帯・亜熱帯アジア、アフリカ北東部",
+    "wild_relatives": [
+      "Monochoria hastata"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual ethnobotanical literature and plant databases, reflecting its wide distribution across Asia."
+    },
+    "international": {
+      "en": [
+        "Heartshape false pickerelweed",
+        "Oval-leafed pondweed",
+        "Pickerel weed"
+      ],
+      "scientific_common": "Monochoria"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "コナギ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "鸭舌草",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "물달개비",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "fil",
+            "name": "gabi-gabihan",
+            "script": "Latin"
+          },
+          {
+            "lang": "id",
+            "name": "eceng",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "ขาเขียด",
+            "script": "Thai"
+          },
+          {
+            "lang": "vi",
+            "name": "rau mác",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "bn",
+            "name": "Pani kachu",
+            "script": "Bengali"
+          },
+          {
+            "lang": "hi",
+            "name": "Nanka",
+            "script": "Devanagari"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification follows the APG IV system, widely accepted in modern botany."
+    },
+    "family": {
+      "en": "Pickerelweed family",
+      "la": "Pontederiaceae"
+    },
+    "genus": {
+      "en": "Monochoria",
+      "la": "Monochoria"
+    },
+    "species": {
+      "en": "Heartshape false pickerelweed",
+      "la": "vaginalis"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "While its use as food is documented across Asia, its cultural significance varies dramatically. In some regions it is a staple foraged green, while in others it is solely viewed as an agricultural pest. Quantitative data on cultural decline is scarce."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "農村地域で日常的に採集され、スープ、サラダ、炒め物として利用される重要な緑黄色野菜。特に雨季の食料として重宝される。",
+        "seasonal_significance": "雨季の食料源",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "特に東インドやバングラデシュで、カレーや炒め物に使われる。アーユルヴェーダでは薬草としても利用される。",
+        "seasonal_significance": "モンスーン期の食料源",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 1,
+        "cultural_roles": [
+          "その他"
+        ],
+        "traditional_uses": "日本ではかつて救荒植物として利用された歴史があるが、現代では主に水田雑草として認識され、食用の文化はほぼ消失している。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フィリピン農村料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Sinigang (酸味スープの具)",
+          "Ensaladang gabi-gabihan (サラダ)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒める",
+          "生食"
+        ],
+        "cultural_context": "水田から容易に入手できる、自給自足の生活を支える重要な食材。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "稲作文化の拡大と共に、食料および雑草としてアジア全域に広がったと考えられる。明確な栽培化の歴史はなく、野生採集が主。",
+      "trade_routes": "不明",
+      "cultural_exchange": "稲作技術と共に、その利用知識も伝播した可能性がある。",
+      "domestication_history": "栽培化はされておらず、野生または半野生の状態。雑草としての側面が強い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて温暖で、水位が安定した湿地や水田。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "夏季の高温多湿な環境、特に水田で繁殖する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏季のみ生育可能。霜には弱い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "乾燥と低温のため適さない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水生植物のため適さない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年（水があれば）",
+        "harvest_season": "通年",
+        "growing_period_days": "30-60"
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春～初夏",
+        "harvest_season": "夏～初秋",
+        "growing_period_days": "45-70"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業栽培されていないため）",
+      "factors_affecting_yield": [
+        "水量",
+        "日照",
+        "栄養塩濃度",
+        "稲などとの競合"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（公式統計なし）",
+      "major_producers": [
+        {
+          "country": "N/A (非商業作物)",
+          "production_share": null,
+          "characteristics": "主にアジア全域の水田や湿地で自生・採集される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、地域や生育条件による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約20-30",
+        "protein_g": "約2.0-3.0",
+        "carbs_g": "約3.0-5.0",
+        "fat_g": "約0.2-0.5",
+        "fiber_g": "約1.5-2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カルシウム",
+          "amount": "高",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "中",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "ビタミンA（βカロテンとして）",
+          "amount": "高",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "歯痛緩和",
+          "喘息治療",
+          "肝臓保護"
+        ],
+        "preparation": "全草の搾り汁やペーストを利用"
+      },
+      {
+        "region": "東南アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "解熱",
+          "皮膚病治療",
+          "利尿作用"
+        ],
+        "preparation": "葉を湿布として使用、または煎じて飲用"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化活性",
+        "抗菌活性",
+        "抗炎症作用"
+      ],
+      "safety_considerations": "生食は推奨されない場合がある。シュウ酸を含む可能性があるため、アク抜きや加熱が一般的。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "調理法は地域コミュニティの口承伝承に依存する部分が多く、体系的な記録は限定的。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東南アジア",
+        "methods": [
+          "茹でる",
+          "炒める",
+          "スープに入れる",
+          "生でサラダにする"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "唐辛子",
+          "ニンニク",
+          "魚醤",
+          "エビペースト"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "炒める（サブジ）",
+          "カレーの具材"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "マスタードオイル",
+          "スパイス（クミン、コリアンダー）",
+          "玉ねぎ",
+          "レンズ豆"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し",
+        "regions": [
+          "一部の東南アジア地域"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "栄養価、特にビタミンの減少。風味の変化。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "穏やかで癖が少ない。わずかに青臭さがある。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "加熱するとややぬめりが出る。葉は柔らかく、茎はシャキシャキしている。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する定性的な記述は多いが、定量的な実験データは非常に少ない。評価は、その生態的地位（水生雑草）と広範な分布に基づく専門的推論による。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "40°C以上でも生育可能",
+      "cold_tolerance": "低（霜で枯死）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明（水生植物のため概念が適用しにくい）",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "高（水田環境を好む）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（物理的に流されるリスクはあるが、個体群としての回復は速い）",
+      "hail_damage_recovery": "高（栄養繁殖と種子バンクにより速やかに回復）",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "高（C3植物であり、CO2濃度上昇により光合成と成長が促進される可能性が高い）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "高い遺伝的多様性により、新たな病害虫への適応能力が高いと推定される。",
+      "disease_resistance_stability": "高",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯・亜熱帯アジアの水田・湿地",
+        "2050_projection": "温帯地域への分布拡大、特に灌漑農業地域で顕著になる可能性",
+        "2100_projection": "さらなる高緯度地域への進出が予測される",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "遺伝的多様性に関する研究は主に雑草管理の観点から行われており、交雑による有用形質の獲得に関する研究はほとんどない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域間で形態的、遺伝的変異が大きい"
+      ],
+      "interspecific_compatibility": [
+        "同属のMonochoria hastataとの交雑可能性が示唆される"
+      ],
+      "intergeneric_possibility": [
+        "不明"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "在来品種は存在しないが、地域個体群の遺伝的多様性は非常に高い。",
+      "wild_gene_pool": "本種自体が野生遺伝子プールそのものである。",
+      "adaptive_genetic_variation": "高い。除草剤抵抗性の急速な進化がその証拠。",
+      "inbreeding_depression_risk": "低（自家和合性でありながら他家受粉も行うため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アジア全域",
+        "environmental_pressure": "除草剤（スルホニルウレア系）の多用",
+        "adaptive_response": "除草剤抵抗性遺伝子の獲得と急速な拡散",
+        "time_scale": "10-20年",
+        "mechanism": "単一遺伝子の点突然変異"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "高いと推定される"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "農業管理（除草剤、水管理、作付体系）",
+        "adaptive_traits": "除草剤抵抗性、早期開花、種子休眠性",
+        "heritability": "高",
+        "response_to_selection": "非常に速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "評価は水田生態系における本種の生態的機能からの類推に基づく。リジェネラティブ農業の文脈での直接的な研究は存在しない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、ひげ根状の根系。水中の栄養塩を効率的に吸収する。",
+      "organic_matter_contribution": "高い。旺盛なバイオマス生産により、分解後は水田土壌の有機物となる。",
+      "soil_structure_improvement": "限定的。水田の嫌気的環境を維持する。",
+      "erosion_control": "水面を覆うことで、雨滴による土壌侵食を防ぐ。",
+      "nutrient_cycling_role": "水中の過剰な栄養塩（特に窒素、リン）を吸収し、バイオマスとして固定する（グリーンマニュアとしてのポテンシャル）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチなどの訪花昆虫を引きつける。",
+      "beneficial_insect_habitat": "水生昆虫やクモなどの天敵の生息地となる。",
+      "soil_microorganism_interaction": "根圏はメタン生成菌などの微生物活動の場となる。",
+      "above_ground_biodiversity": "水田の生物多様性を構成する一員。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "影響は軽微。",
+      "moisture_retention": "水面の蒸発を抑制する効果がある。",
+      "runoff_reduction": "水田システムの一部として貯水機能に貢献。",
+      "groundwater_recharge": "水田システムの一部として地下水涵養に貢献。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。季節的に高い生産量を示す。",
+      "below_ground_carbon": "低",
+      "soil_carbon_enhancement": "分解されたバイオマスが土壌炭素の供給源となる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "稲作においては、資源（光、栄養、水）を巡る強力な競合相手となる。"
+      ],
+      "natural_pest_control": "天敵の隠れ家を提供。",
+      "nutrient_sharing": "競合する。",
+      "allelopathic_interactions": "稲の生育を阻害するアレロパシー効果が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "水田生態系の安定性に貢献する一方、作物の収量を不安定化させる要因にもなる。",
+      "stress_tolerance": "高",
+      "recovery_capacity": "高",
+      "adaptability": "高"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な利用は主に小規模な地域市場に限られるが、未利用資源としてのポテンシャルは高い。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "化学肥料や農薬なしで成長する栄養価の高い緑黄色野菜としての価値。",
+      "food_security_contribution": "特に気候変動の影響を受けやすい地域の農村コミュニティにとって、重要な補助的食料源。",
+      "local_food_system_integration": "地産地消に適した食材。ファーマーズマーケットなどでの販売ポテンシャル。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エスニック料理レストラン",
+        "健康志向の消費者向けニッチ市場",
+        "「忘れられた野菜」としてのブランディング"
+      ],
+      "value_added_products": [
+        "乾燥野菜",
+        "パウダー",
+        "健康茶"
+      ],
+      "niche_market_value": "高いポテンシャルを持つが、現在は未開拓。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物種としては安泰（Least Concern）だが、食文化としての保全が課題。この二面性を評価に反映。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "中（湿地の開発や水田の乾田化は脅威となりうる）",
+    "climate_change_vulnerability": "低",
+    "cultural_erosion_risk": "高（特に東アジアにおいて、食用としての知識と利用が急速に失われている）",
+    "conservation_actions_needed": [
+      "食用利用に関する伝統的知識の記録と継承",
+      "地域コミュニティによる持続可能な採集と利用の促進",
+      "食文化イベントでの紹介"
+    ],
+    "priority_conservation_regions": [
+      "東南アジアの農村地域",
+      "日本の過疎地域"
+    ],
+    "ex_situ_conservation_status": "多くの植物園や種子バンクで雑草として収集されているが、食用品種としての保全は行われていない。",
+    "in_situ_conservation_efforts": "特になし。水田生態系の一部として自然に保全されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIの総合的評価。食料と雑草という二面性、高い気候適応性、そして消えゆく食文化という点が特徴的。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高（伝統的知識の記録）",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 5,
+    "recommended_study_regions": [
+      "フィリピン",
+      "ベトナム",
+      "タイ",
+      "インド（西ベンガル州）"
+    ],
+    "knowledge_gaps": [
+      "地域ごとの栄養成分の差異",
+      "気候変動シナリオ下での収量と生態的役割の変化",
+      "栽培化に向けた基礎研究"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "本種は栽培化されておらず、正式な「品種」は存在しない。これは、地域生態型（ecotype）に関する記述である。"
+      },
+      "variety_name": "地域生態型（品種ではない）",
+      "local_name": "N/A",
+      "origin_region": "アジア各地",
+      "distinctive_characteristics": "葉の形、大きさ、草丈、開花時期などに地域的な変異が見られる。これらは特定の環境への適応の結果と考えられる。",
+      "cultural_importance": "地域によって食用とされる生態型と、そうでない生態型が存在する可能性がある。",
+      "climate_adaptation": "各地域の気候（雨季の長さ、温度など）に高度に適応している。",
+      "conservation_status": "未評価"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Ethnobotanical studies in Southeast Asia",
+      "Weed science journals",
+      "Royal Botanic Gardens Kew 'Plants of the World Online'"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する生理学的応答の定量的データ",
+      "栽培化のための研究"
+    ],
+    "regional_data_coverage": "東南アジアに情報が豊富で、東アジア、南アジアはそれに次ぐ。アフリカでの利用に関する情報は限定的。",
+    "missing_information": [
+      "商業的な生産・流通データ",
+      "品種レベルでの情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

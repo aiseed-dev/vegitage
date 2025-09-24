@@ -1,0 +1,606 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "ユーザー指定の学名 Melothria sphaerocarpa は、一般的に「エグシメロン」として知られる西アフリカの主要作物とは異なる南アフリカの種を指す可能性が高い。本データは、文化的な文脈からユーザーが意図したであろう西アフリカで広く栽培される種子用スイカ、Citrullus lanatus (Egusi Group) を対象として情報を整理した。この種に関する情報は比較的豊富だが、品種レベルでの詳細な科学的データは限定的。"
+    },
+    "primary_name": "Egusi Melon",
+    "scientific_name": "Citrullus lanatus (Egusi Group)",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子"
+    ],
+    "origin_region": "アフリカ（西アフリカで高度に多様化）",
+    "wild_relatives": [
+      "Citrullus amarus",
+      "Citrullus ecirrhosus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "西アフリカの主要言語における名称を網羅。Egusiはヨルバ語に由来し、広域で通じる。"
+    },
+    "international": {
+      "en": [
+        "Egusi melon",
+        "White-seed melon",
+        "Gourd seed"
+      ],
+      "scientific_common": "Egusi"
+    },
+    "regional": [
+      {
+        "region": "アフリカ",
+        "languages": [
+          {
+            "lang": "yo",
+            "name": "Ègúsí",
+            "script": "Latin"
+          },
+          {
+            "lang": "ig",
+            "name": "Égwúsi",
+            "script": "Latin"
+          },
+          {
+            "lang": "ha",
+            "name": "Agushi",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Pistache (terme commun en Afrique francophone)",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ヨルバ族（ナイジェリア、ベナン）",
+        "name": "Ègúsí",
+        "cultural_significance": "スープの主原料であり、富と栄養の象徴。儀式や祝祭の料理に不可欠。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "標準的な植物分類データベースに基づく。Egusiは栽培品種群（Group）として扱われる。"
+    },
+    "family": {
+      "en": "Gourd family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Watermelon",
+      "la": "Citrullus"
+    },
+    "species": {
+      "en": "Watermelon",
+      "la": "Citrullus lanatus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "Cultivar Group",
+        "name": "Egusi Group"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学的研究や地域研究から、西アフリカにおける文化的重要性が明確に報告されている。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "西アフリカ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "主食（スープの主原料として）",
+          "経済作物",
+          "栄養源"
+        ],
+        "traditional_uses": "乾燥・粉砕した種子をスープやシチューのとろみ付けとタンパク質・脂肪源として利用する。ナイジェリアの国民食とも言える『Egusi Soup』が代表的。",
+        "seasonal_significance": "乾季の間の重要な保存食料となる。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ナイジェリア料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Egusi Soup",
+          "Egusi Pudding"
+        ],
+        "preparation_methods": [
+          "粉砕してスープに溶かす",
+          "ペースト状にして炒める",
+          "蒸す"
+        ],
+        "cultural_context": "日常食から結婚式などの祝祭まで、あらゆる場面で食される。地域や家庭によってレシピが多様に存在する。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "西アフリカで数世紀にわたり栽培されてきた歴史を持つ。",
+      "trade_routes": "主にサハラ以南のアフリカ域内の交易路で取引されてきた。",
+      "cultural_exchange": "西アフリカから中央アフリカにかけて食文化の伝播に貢献した。",
+      "domestication_history": "スイカと同種だが、食用部位が果肉ではなく種子に特化する形で選択・栽培化された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿の雨季に生育し、収穫期に乾燥する気候が最適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない温暖な季節に栽培可能。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため商業栽培は困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "乾燥に強いが、一定の降雨は必要。サヘル地帯などで栽培される。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯（西アフリカ）",
+        "planting_season": "雨季の始まり（例: 4月-6月）",
+        "harvest_season": "雨季の終わりから乾季の初め（例: 8月-10月）",
+        "growing_period_days": "90-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "300 - 1000 kg/ha (乾燥種子)",
+      "factors_affecting_yield": [
+        "降水量",
+        "土壌肥沃度",
+        "品種",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（正確な統計なし。数百万トンと推定）",
+      "major_producers": [
+        {
+          "country": "ナイジェリア",
+          "production_share": "不明（世界最大と推定）",
+          "characteristics": "国内消費が主。小規模農家による生産が中心。"
+        },
+        {
+          "country": "ガーナ",
+          "production_share": "不明",
+          "characteristics": "国内市場および近隣諸国への輸出向けに生産。"
+        },
+        {
+          "country": "カメルーン",
+          "production_share": "不明",
+          "characteristics": "地域経済における重要な作物。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種子の主要栄養素に関するデータは比較的多いが、微量栄養素や機能性成分に関する詳細な研究は限られている。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "約550-600",
+        "protein_g": "約30-40",
+        "carbs_g": "約10-15",
+        "fat_g": "約45-55",
+        "fiber_g": "約4-5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "マグネシウム",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "亜鉛",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "リン",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンB群",
+          "amount": "含有",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "リノール酸",
+        "concentration": "脂肪酸の主要成分",
+        "health_effect": "必須脂肪酸。心血管系の健康維持に寄与。"
+      },
+      {
+        "compound": "アルギニン",
+        "concentration": "タンパク質の主要アミノ酸",
+        "health_effect": "血流改善、免疫機能のサポート。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "西アフリカ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "消化促進",
+          "駆虫"
+        ],
+        "preparation": "種子を粉砕し、水に溶かして飲用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "優れたタンパク質および必須脂肪酸源"
+      ],
+      "ongoing_research": [
+        "血圧降下作用",
+        "抗酸化作用",
+        "血糖値調節機能"
+      ],
+      "safety_considerations": "特になし。アフラトキシン汚染のリスク管理が重要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "西アフリカ料理に関する文献やレシピが豊富に存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "西アフリカ",
+        "methods": [
+          "煮込み（スープ、シチュー）",
+          "炒め物",
+          "蒸し物"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "葉物野菜（ビターリーフ、ウグ）",
+          "魚（干し魚、燻製魚）",
+          "肉（牛肉、ヤギ肉）",
+          "唐辛子",
+          "パームオイル"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "西アフリカ全域"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "適切に乾燥・保管すれば品質は安定。湿気によるカビ発生に注意が必要。"
+      },
+      {
+        "method": "製粉",
+        "regions": [
+          "西アフリカ全域"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "油分が酸化しやすくなるため、長期保存には向かない。"
+      },
+      {
+        "method": "搾油",
+        "regions": [
+          "ナイジェリアなど"
+        ],
+        "shelf_life": "不明",
+        "quality_changes": "食用油として利用される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ナッツに似た風味、クリーミー、濃厚なコク",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "粉砕して調理すると、ざらつきのある、または滑らかなペースト状になる。スープにとろみを与える。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、気候変動シナリオに対する応答をモデル化した定量的な実験データは非常に少ない。評価は主にその起源と現在の栽培環境に基づいている。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "25-35°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "低（霜に弱い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "比較的高いと推定",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1500mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地面を這うため風には比較的強い）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（理論的には期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により新たな病害虫の発生が予測されるが、具体的な耐性は不明。",
+      "disease_resistance_stability": "在来品種は地域の病害虫に耐性を持つが、その安定性は不明。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "西アフリカ、中央アフリカのサバンナ・熱帯雨林移行帯",
+        "2050_projection": "現在の栽培地域は維持される可能性が高い。サヘル地帯の乾燥化により一部北限が南下する可能性。",
+        "2100_projection": "不明",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "スイカとの交雑親和性は高いが、自然環境下での適応に関する詳細な遺伝学的研究は限られている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "食用スイカ（Citrullus lanatus var. lanatus）",
+        "他のEgusi品種"
+      ],
+      "interspecific_compatibility": [
+        "Citrullus amarus"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "多様なEgusiの在来品種の存在が、種内での自然交雑と選択の歴史を示唆する。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "西アフリカには形態や種子の色が異なる多数の在来品種が存在し、高い。",
+      "wild_gene_pool": "南アフリカに分布する野生近縁種との遺伝子流動は地理的に限定的。",
+      "adaptive_genetic_variation": "高いと推定される。",
+      "inbreeding_depression_risk": "自家受粉もするため、品種によってはリスクあり。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "西アフリカ",
+        "environmental_pressure": "乾燥、高温、低肥沃度土壌",
+        "adaptive_response": "耐乾性、耐暑性、痩せ地での生育能力",
+        "time_scale": "数世紀以上",
+        "mechanism": "農家による長年の種子選抜と自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により耐病性や耐乾性のさらなる向上が期待できる。",
+      "improved_nutritional_content": "油分やタンパク質の含量が異なる品種との交雑による改善可能性がある。",
+      "novel_characteristics": "種子の大きさや殻の剥きやすさなどの形質改善。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほとんどない。",
+      "chromosome_compatibility": "Citrullus属内では比較的高い。",
+      "fertility_of_hybrids": "種内交雑では高い。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深い根系、水利用効率",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での直接的な研究は非常に少ない。評価は、植物の特性と伝統的な混植システムからの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的広く浅いが、主根は深く伸びる。",
+      "organic_matter_contribution": "収穫後の残渣が有機物として土壌に還元される。",
+      "soil_structure_improvement": "不明",
+      "erosion_control": "つる性の茎葉が地面を覆うため、雨滴による土壌侵食を軽減する（カバークロップ効果）。",
+      "nutrient_cycling_role": "痩せ地から養分を吸収する能力が高い。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花がミツバチなどの花粉媒介者を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "地面を覆うことで小動物の生息地を提供。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "不明",
+      "moisture_retention": "地面被覆により土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "葉が雨滴の衝撃を和らげ、流出を遅らせる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "不明",
+      "soil_carbon_enhancement": "限定的（一年草のため）",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシ（支柱の役割）",
+        "キャッサバ",
+        "ヤムイモ"
+      ],
+      "natural_pest_control": "混植による病害虫の発生抑制効果が期待される。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "伝統的な混植システムにおいて重要な構成要素であり、システムの安定性に寄与する。",
+      "stress_tolerance": "高い",
+      "recovery_capacity": "不明",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "国際市場でのポテンシャルに関する議論はあるが、商業化はまだ初期段階。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高タンパク、良質な脂質源として非常に価値が高い。",
+      "food_security_contribution": "乾燥に強く痩せ地でも育つため、気候変動下の食料安全保障への貢献が期待される。",
+      "local_food_system_integration": "西アフリカの地域食品システムに深く根付いている。",
+      "alternative_protein_potential": "植物性タンパク質源として世界市場でのポテンシャルを持つ。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向食品市場（植物性プロテイン、スーパーフード）",
+        "欧米のアフリカ系ディアスポラ市場"
+      ],
+      "value_added_products": [
+        "エグシプロテインパウダー",
+        "食用エグシオイル",
+        "スナック食品"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源の重要性は認識されているが、体系的な保全活動は限定的。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "栽培植物のため直接的な脅威は低いが、野生近縁種の生息地は脅威にさらされている。",
+    "climate_change_vulnerability": "中（栽培適地の変化や極端気象）",
+    "cultural_erosion_risk": "低（食文化に深く根付いているため）",
+    "conservation_actions_needed": [
+      "多様な在来品種の収集、特性評価、および種子銀行での保存（ex-situ）",
+      "農家による種子保存システム（in-situ）の支援"
+    ],
+    "priority_conservation_regions": [
+      "ナイジェリア",
+      "ガーナ",
+      "ベナン"
+    ],
+    "ex_situ_conservation_status": "国際的なジーンバンク（例: IITA）で一部の系統が保存されている。",
+    "in_situ_conservation_efforts": "主に伝統的な農家による種子保存に依存している。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ナイジェリア南部",
+      "ガーナ北部"
+    ],
+    "knowledge_gaps": [
+      "品種ごとの栄養価と機能性成分の差異",
+      "気候変動シナリオに対する生理的応答",
+      "リジェネラティブ農業システムにおける定量的効果"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "品種名は地域ごとに多様であり、学術的に確立された分類は少ない。以下は代表的なタイプを示す。"
+      },
+      "variety_name": "Bara",
+      "local_name": "Bara",
+      "origin_region": "ナイジェリア",
+      "distinctive_characteristics": "比較的小さな果実で、滑らかな表面を持つ。種子も小さい。",
+      "cultural_importance": "広く栽培されている一般的なタイプ。",
+      "climate_adaptation": "不明",
+      "conservation_status": "Not threatened"
+    },
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "品種名は地域ごとに多様であり、学術的に確立された分類は少ない。以下は代表的なタイプを示す。"
+      },
+      "variety_name": "Serewe",
+      "local_name": "Serewe",
+      "origin_region": "ナイジェリア",
+      "distinctive_characteristics": "大きな果実で、重い。種子も大きく、収量性が高いとされる。",
+      "cultural_importance": "商業栽培で好まれることがある。",
+      "climate_adaptation": "不明",
+      "conservation_status": "Not threatened"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "PROTA (Plant Resources of Tropical Africa) database",
+      "World Vegetable Center resources",
+      "Ethnobiological and agricultural science journals"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "国際的なサプライチェーンと市場規模に関する正確なデータ"
+    ],
+    "regional_data_coverage": "西アフリカに集中しており、他地域の情報はほぼない。",
+    "missing_information": [
+      "詳細な品種ごとの特性",
+      "炭素固定能力",
+      "薬効成分の科学的検証"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

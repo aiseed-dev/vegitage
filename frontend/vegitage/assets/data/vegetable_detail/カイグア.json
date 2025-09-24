@@ -1,0 +1,634 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(KEW, GRIN), 民族植物学の研究報告に基づき情報を統合。野生近縁種に関する詳細な生態学的データは限定的。"
+    },
+    "primary_name": "Caigua",
+    "scientific_name": "Cyclanthera pedata (L.) Schrad.",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "果実",
+      "葉",
+      "茎"
+    ],
+    "origin_region": "南米アンデス地域",
+    "wild_relatives": [
+      "Cyclanthera brachystachya",
+      "Cyclanthera explodens"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "多言語の植物名データベース及び地域ごとの民族植物学的研究から収集。"
+    },
+    "international": {
+      "en": [
+        "Caigua",
+        "Achocha",
+        "Slipper Gourd",
+        "Stuffing Cucumber",
+        "Korila"
+      ],
+      "scientific_common": "Lady's Slipper"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Caigua, Achocha, Achoccha, Caihua, Pepino de rellenar",
+            "script": "Latn"
+          },
+          {
+            "lang": "pt",
+            "name": "Chuchu-de-vento",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "ne",
+            "name": "Korila (कोइराला)",
+            "script": "Deva"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "dưa leo dại",
+            "script": "Latn"
+          },
+          {
+            "lang": "tl",
+            "name": "Pepino de Comer",
+            "script": "Latn"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ケチュア語圏 (アンデス)",
+        "name": "Kaywa, Qaywa, Achuqcha",
+        "cultural_significance": "食料及び伝統薬として古くから利用される重要な作物。儀式での利用は確認されていないが、日常食として生活に密着している。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Integrated Taxonomic Information System (ITIS) 及び World Flora Online (WFO) に準拠。"
+    },
+    "family": {
+      "en": "Gourd Family",
+      "la": "Cucurbitaceae"
+    },
+    "genus": {
+      "en": "Cyclanthera",
+      "la": "Cyclanthera"
+    },
+    "species": {
+      "en": "Slipper Gourd",
+      "la": "pedata"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アンデス地域の考古学、人類学、民族植物学の文献に基づく。他地域への伝播後の文化的価値に関する情報は断片的。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南米アンデス地域 (ペルー、ボリビア、エクアドル)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "果実を詰め物料理(Rellena)にするのが最も代表的。ジュースにして飲用することも。伝統医学ではコレステロールや血糖値の調整、高血圧、抗炎症目的で利用される。",
+        "seasonal_significance": "雨季に豊富に収穫され、食卓を豊かにする重要な野菜。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "南アジア (ヒマラヤ地域)",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "主にカレーや炒め物(タルカリ)の具材として利用される。アンデス地域ほどの薬用利用は一般的ではない。",
+        "seasonal_significance": "モンスーン期の重要な野菜の一つ。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "ペルー料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Caigua Rellena",
+          "Jugo de Caigua",
+          "Saltado de Caigua"
+        ],
+        "preparation_methods": [
+          "Stuffed and baked/stewed",
+          "Blended into juice",
+          "Stir-fried"
+        ],
+        "cultural_context": "家庭料理の定番であり、健康志向の料理として現代でも人気が高い。「Caigua Rellena」は、ひき肉や野菜、卵などを詰めてトマトソースで煮込む国民的な料理。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "プレ・インカ時代から栽培されていたことが考古学的証拠から示されている。モチェ文化(100-700 AD)の土器にその姿が描かれている。",
+      "trade_routes": "アンデス山脈内の地域間交易で重要な品目であったと考えられるが、長距離交易の主要産品ではなかった。",
+      "cultural_exchange": "スペイン植民地時代以降、限定的に他大陸へ伝播したが、大規模な文化交流の象徴となることはなかった。",
+      "domestication_history": "アンデス地域で数千年前に野生種から栽培化されたと考えられているが、正確な起源地やプロセスは不明な点が多い。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高地で冷涼な熱帯山地気候に適応。低地の高温多湿環境では生育不良となる可能性がある。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や冷涼な季節に最適。霜には弱い。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏が温暖な温帯気候に適応可能。霜の降りない期間が栽培期間となる。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の高温と冬の厳しい寒さに適さない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な灌漑が必要であり、乾燥には弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地であるアンデス高地(標高1000-3000m)の気候に最も適応している。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "アンデス高地",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "雨季の中盤から終わり",
+        "growing_period_days": 90
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春 (終霜後)",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": 100
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000-50,000 kg/ha",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水分供給",
+        "土壌肥沃度",
+        "支柱の有無"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ペルー",
+          "production_share": null,
+          "characteristics": "主に国内市場向けの小規模農家による生産。リマ周辺の沿岸部やアンデス山間部が主産地。"
+        },
+        {
+          "country": "ボリビア",
+          "production_share": null,
+          "characteristics": "伝統的な農業システムの中で自家消費および地域市場向けに栽培。"
+        },
+        {
+          "country": "エクアドル",
+          "production_share": null,
+          "characteristics": "ペルーやボリビアと同様に、国内消費が中心。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分のデータは存在するが、品種や栽培条件による変動に関する研究は少ない。機能性に関する研究は主にペルーで行われているが、大規模な臨床試験は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "17",
+        "protein_g": "0.8",
+        "carbs_g": "3.5",
+        "fat_g": "0.2",
+        "fiber_g": "1.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "15 mg",
+          "daily_value_percent": "25%"
+        },
+        {
+          "nutrient": "リン",
+          "amount": "190 mg",
+          "daily_value_percent": "19%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.5 mg",
+          "daily_value_percent": "8%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "β-シトステロール",
+        "concentration": "不明",
+        "health_effect": "コレステロール吸収抑制作用が示唆されている。"
+      },
+      {
+        "compound": "ペクチン",
+        "concentration": "不明",
+        "health_effect": "食物繊維として整腸作用、血糖値上昇抑制効果。"
+      },
+      {
+        "compound": "フェノール化合物",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "アンデス地域",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "高コレステロール血症の改善",
+          "糖尿病の補助療法",
+          "高血圧の緩和",
+          "抗炎症",
+          "肥満防止"
+        ],
+        "preparation": "果実をジュースにして空腹時に飲用する。種子を取り除き、生で食べるか、乾燥させて粉末にする。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "脂質降下作用",
+        "血糖降下作用",
+        "抗酸化作用"
+      ],
+      "safety_considerations": "通常の食材としての摂取では安全とされるが、薬用として大量摂取する場合の安全性に関するデータは不十分。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "特にアンデス料理に関するレシピや料理本からの情報が豊富。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南米",
+        "methods": [
+          "詰め物料理(煮込み、オーブン焼き)",
+          "炒め物",
+          "スープ",
+          "ジュース",
+          "サラダ(生食)"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ひき肉",
+          "玉ねぎ",
+          "トマト",
+          "チーズ",
+          "米",
+          "キヌア"
+        ]
+      },
+      {
+        "region": "南アジア",
+        "methods": [
+          "カレー",
+          "炒め物(漬物にする場合も)"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "ジャガイモ",
+          "スパイス(クミン、コリアンダー、ターメリック)",
+          "トマト",
+          "玉ねぎ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "ピクルス",
+        "regions": [
+          "南アジア",
+          "一部の南米"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感がよりクリスピーになり、酸味が加わる。"
+      },
+      {
+        "method": "乾燥・粉末化",
+        "regions": [
+          "南米 (薬用目的)"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "栄養成分が凝縮されるが、風味は大きく変化する。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "マイルドで爽やか。キュウリとピーマンの中間のような風味。加熱するとわずかに甘みが出る。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "生ではシャキシャキしている。加熱すると柔らかくなるが、煮崩れしにくい。内部が空洞であるため、詰め物料理に最適。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動適応性に関する直接的な定量的研究は非常に少ない。高地作物としての一般的特性と栽培地域の気候からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上で生育が著しく阻害される可能性。",
+      "cold_tolerance": "0°C以下では枯死。霜に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "800-1200 mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "つる性植物であるため、強風による被害を受けやすいが、地面を這うことで回避も可能。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高。高地原産であるため、強い紫外線への耐性を持つと考えられる。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、低地の害虫が高地へ移動することで新たな脅威にさらされる可能性がある。",
+      "disease_resistance_stability": "伝統的な多様なランドレースが、病害抵抗性の遺伝子源として重要となる可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アンデス山脈の中腹 (1000-3000m)",
+        "2050_projection": "栽培適地がより高標高へシフトする可能性が高いと推定される。",
+        "2100_projection": "現在の主産地の一部では栽培が困難になるリスクがあると推定される。",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Cyclanthera属の交雑親和性に関する体系的な研究は非常に少ない。情報は近縁種の一般的な交配能力からの類推を含む。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "ランドレース間での交雑は容易と考えられる。"
+      ],
+      "interspecific_compatibility": [
+        "同属の野生種 (C. brachystachya等) との交雑可能性は理論的に存在するが、自然界での報告は稀。"
+      ],
+      "intergeneric_possibility": [
+        "属間交雑は極めて困難、または不可能。"
+      ],
+      "successful_natural_hybrids": [
+        "確認された報告はない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地のアンデス地域には、果実の形、大きさ、色において多様なランドレースが存在する。",
+      "wild_gene_pool": "野生近縁種は存在するが、栽培種との遺伝子流動の実態は不明。",
+      "adaptive_genetic_variation": "高地環境への適応に関連する遺伝的多様性が豊富に存在すると推測される。",
+      "inbreeding_depression_risk": "自家受粉も可能だが、他家受粉が主であり、リスクは比較的小さい。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アンデス山脈",
+        "environmental_pressure": "標高、日長、温度、紫外線",
+        "adaptive_response": "多様な標高に適応した形態的・生理的多様性を持つランドレースの分化。",
+        "time_scale": "数千年",
+        "mechanism": "地域農家による人為選択と自然選択の組み合わせ。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生近縁種との交雑により、耐病性やストレス耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "果実の形状や風味に関する新規形質導入の可能性。",
+      "hybrid_vigor_potential": "ランドレース間の交配により雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "病害虫耐性",
+        "adaptive_traits": "特定の病害に対する抵抗性遺伝子",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 4
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業への適性に関する直接的な研究はない。つる性植物としての一般的特性や、伝統的な混植システムからの類推に基づく評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い繊維状の根系。",
+      "organic_matter_contribution": "生育旺盛で、収穫後の残渣は良質な有機物となり土壌に還元される。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "地面を覆うように栽培することで、雨滴による土壌侵食を軽減する効果が期待できる。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はハチなどの花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "繁茂した葉は、クモやテントウムシなどの天敵昆虫の生息地を提供する。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "立体的な構造を提供し、小動物の隠れ家となる可能性がある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により土壌の急激な乾燥を防ぎ、水の浸透を助ける可能性がある。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "地表流を緩和し、流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "成長が速いため、短期間で相当量のバイオマスを生成する。",
+      "below_ground_carbon": "根系の炭素蓄積量は限定的と推測される。",
+      "soil_carbon_enhancement": "植物残渣の分解により土壌有機炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "トウモロコシやマメ科植物との混植（アグロフォレストリーや伝統的混植システム）に適している。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "トウモロコシを支柱として利用可能。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物が共存するアグロフォレストリーシステムに組み込むことで、生態系の安定性に貢献する。",
+      "stress_tolerance": "特定のストレス（高温、乾燥）には弱いが、栽培が容易で生育が早いため、失敗からの回復は早い。",
+      "recovery_capacity": "高い。",
+      "adaptability": "多様なランドレースが存在するため、地域環境への適応ポテンシャルは高い。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "機能性食品としてのポテンシャルに関する研究と、エスニックフード市場での動向に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーで栄養価の高い野菜として、健康志向の食生活に貢献する。",
+      "food_security_contribution": "栽培が容易で生産性が高いため、特に山間地域の食料安全保障に貢献する。",
+      "local_food_system_integration": "主に地域市場で流通しており、地産地消モデルの重要な構成要素である。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・スーパーフード市場",
+        "世界のペルー料理レストラン",
+        "エスニック野菜市場"
+      ],
+      "value_added_products": [
+        "健康補助食品（粉末、カプセル）",
+        "健康飲料（ジュース）",
+        "加工食品（ピクルス、冷凍詰め物）"
+      ],
+      "niche_market_value": "アンデス原産のユニークな野菜として、またその健康効果から高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の評価は存在するが、具体的な消失リスクに関する定量的データは不足。文化的多様性の消失は定性的に指摘されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "直接的な生息地喪失の脅威は低いが、栽培地の近代化や他作物への転換がリスクとなりうる。",
+    "climate_change_vulnerability": "高。栽培適地の標高上昇が予測され、山間地コミュニティの農業に影響を与える可能性がある。",
+    "cultural_erosion_risk": "高。食生活のグローバル化に伴い、伝統的な調理法や薬用利用の知識が失われる危険性がある。",
+    "conservation_actions_needed": [
+      "ランドレースの収集とジーンバンクでの保存(ex situ)",
+      "伝統的栽培システムの維持・奨励を通じた域内保全(in situ)",
+      "伝統知識の記録と次世代への継承"
+    ],
+    "priority_conservation_regions": [
+      "ペルー、ボリビア、エクアドルのアンデス山間部"
+    ],
+    "ex_situ_conservation_status": "国際ポテトセンター(CIP)などのジーンバンクで一定数の遺伝資源が保存されている。",
+    "in_situ_conservation_efforts": "地域コミュニティやNGOによる小規模な活動が中心。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報の統合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ペルー・アンカシュ県",
+      "ボリビア・ユンガス地方"
+    ],
+    "knowledge_gaps": [
+      "気候変動(高温・乾燥)に対する生理学的応答の定量的データ",
+      "ランドレース間の遺伝的多様性の網羅的解析",
+      "機能性成分の含有量と栽培条件の関係"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "公式な品種登録制度はほとんどなく、地域ごとのランドレースとして認識されている。以下の記述は典型的な特徴を一般化したもの。"
+      },
+      "variety_name": "Andean Highland Landrace (General)",
+      "local_name": "Caigua Serrana",
+      "origin_region": "南米アンデス高地",
+      "distinctive_characteristics": "果実は淡緑色で、長さ10-15cmの湾曲した形状。表面には柔らかい棘があるものとないものがある。果肉は薄く、内部が空洞。冷涼な気候を好む。",
+      "cultural_importance": "アンデス地域の伝統的な食文化と民間療法の中核をなす。",
+      "climate_adaptation": "高地の冷涼な気候、強い紫外線に適応しているが、高温や霜には弱い。",
+      "conservation_status": "Not formally assessed. Vulnerable due to cultural and genetic erosion."
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Ethnobotanical research papers",
+      "GRIN Global database",
+      "Scientific articles on nutritional and phytochemical analysis",
+      "Peruvian agricultural ministry reports"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "自然交雑に関する実証的研究",
+      "栽培地域の害虫・病害に関する詳細データ"
+    ],
+    "regional_data_coverage": "南米アンデス地域に偏っており、アジアなど他の栽培地域に関する学術的情報は限定的。",
+    "missing_information": [
+      "Aroma compounds",
+      "Chromosome compatibility",
+      "Specific pest and disease resistance profiles"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

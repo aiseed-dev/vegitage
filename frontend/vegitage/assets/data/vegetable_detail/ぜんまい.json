@@ -1,0 +1,583 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GBIF）および民族植物学的研究から統合。野生近縁種の情報も属レベルでは明確。"
+    },
+    "primary_name": "Japanese royal fern",
+    "scientific_name": "Osmunda japonica",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉"
+    ],
+    "origin_region": "東アジア（日本、朝鮮半島、中国、サハリンなど）",
+    "wild_relatives": [
+      "Osmunda regalis",
+      "Osmunda cinnamomea",
+      "Osmunda claytoniana"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアにおける名称は広く記録されている。英語名は複数存在するが、学名由来のものが最も正確。"
+    },
+    "international": {
+      "en": [
+        "Japanese royal fern",
+        "Japanese flowering fern",
+        "Zenmai"
+      ],
+      "scientific_common": "Japanese Flowering Fern"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ぜんまい",
+            "script": "Hiragana/Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "참고비",
+            "script": "Hangul"
+          },
+          {
+            "lang": "zh",
+            "name": "紫萁",
+            "script": "Han"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アイヌ（日本）",
+        "name": "rurun-kina",
+        "cultural_significance": "春の重要な食料源であり、季節の訪れを告げる植物。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類体系は国際的な植物分類データベースに基づき、広く合意されている。"
+    },
+    "family": {
+      "en": "Royal fern family",
+      "la": "Osmundaceae"
+    },
+    "genus": {
+      "en": "Royal fern",
+      "la": "Osmunda"
+    },
+    "species": {
+      "en": "Japanese royal fern",
+      "la": "japonica"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "特に日本における文化的価値は、文献や民俗学的記録で豊富に文書化されている。栽培化されていないため、山菜文化と密接に結びついている。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "保存食",
+          "経済作物",
+          "季節の象徴"
+        ],
+        "traditional_uses": "春の山菜（サンサイ）として、若芽を食用にする。収穫後、茹でて乾燥させることで長期保存食となる。地域のコミュニティでは現金収入源でもある。",
+        "seasonal_significance": "春の訪れを告げる代表的な食材であり、厳しい冬を越えた後の重要な栄養源。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（和食）",
+        "role": "essential",
+        "traditional_dishes": [
+          "ぜんまいの煮物",
+          "山菜おこわ",
+          "天ぷら"
+        ],
+        "preparation_methods": [
+          "灰汁抜き（アク抜き）",
+          "煮る",
+          "炒める",
+          "和える"
+        ],
+        "cultural_context": "日本の里山文化を象徴する食材。調理には手間がかかるが、その過程も含めて食文化の一部とされている。"
+      },
+      {
+        "cuisine": "韓国料理（韓食）",
+        "role": "common",
+        "traditional_dishes": [
+          "ナムル（和え物）",
+          "ユッケジャン（辛いスープ）の具材"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "乾燥",
+          "和える",
+          "炒める"
+        ],
+        "cultural_context": "他の山菜と同様に、春の味覚として親しまれ、ビビンバの具材などにも利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本の古文書『万葉集』にも詠まれるなど、古代から食用にされてきた歴史がある。",
+      "trade_routes": "地域内交易品として、乾燥ぜんまいが山間部から都市部へ流通した。",
+      "cultural_exchange": "不明",
+      "domestication_history": "商業的な栽培化は行われておらず、主に野生種の採集に依存している。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に不適"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "山間部の冷涼で湿潤な環境に限る"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "落葉樹林内の湿潤で半日陰の環境。腐植質に富む土壌を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冬期の低温には耐えるが、夏の極端な乾燥と高温には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に極めて弱い"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "低標高の亜高山帯まで分布するが、森林限界以上では生育できない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "（栽培されない）",
+        "harvest_season": "早春（4月～5月）",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "（野生採集のため、haあたりの収量データは存在しない）",
+      "factors_affecting_yield": [
+        "天候（春の気温と降水量）",
+        "森林の健康状態",
+        "乱獲"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（大部分が非公式な採集・流通）",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "国内消費が主。乾燥加工品が流通の中心。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "主に日本への輸出向けに乾燥品が生産されている。"
+        },
+        {
+          "country": "韓国",
+          "production_share": "不明",
+          "characteristics": "国内での消費が主。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分のデータは存在するが、機能性成分に関する科学的研究は限定的。伝統的利用法は豊富だが、臨床的エビデンスは乏しい。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "31",
+        "protein_g": "2.3",
+        "carbs_g": "5.6",
+        "fat_g": "0.3",
+        "fiber_g": "3.4"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "1200μg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "67μg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "120μg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "310mg",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール類",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "民間療法",
+        "uses": [
+          "解熱",
+          "利尿",
+          "解毒"
+        ],
+        "preparation": "煎じて飲む、または食用にする。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗酸化能に関する研究"
+      ],
+      "safety_considerations": "生食は禁物。チアミナーゼというビタミンB1分解酵素を含むため、必ず加熱処理（茹でる、あく抜き）が必要。処理が不十分な場合、脚気様症状を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア、特に日本における調理法・加工法は非常によく文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "煮る（煮物）",
+          "炒める（きんぴら）",
+          "和える（おひたし、白和え）",
+          "揚げる（天ぷら）",
+          "炊き込む（山菜おこわ）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "油揚げ",
+          "人参",
+          "こんにゃく",
+          "醤油",
+          "みりん"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（天日干し）",
+        "regions": [
+          "日本",
+          "中国",
+          "韓国"
+        ],
+        "shelf_life": "数年間",
+        "quality_changes": "乾燥・再水和の過程で独特の食感と風味が増す。栄養価が凝縮される。"
+      },
+      {
+        "method": "塩蔵",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "食感は残るが、風味は乾燥品に劣る場合がある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほのかな土の香り、わずかな苦みと甘み、滋味深い味わい",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "シャキシャキとした歯ごたえと、繊維質な食感"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動応答の研究はほぼ存在しない。評価は、その生育環境（温帯林床）の一般的な脆弱性からの推測に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "不明。30°C以上が続くと生育不良を起こす可能性が高い。",
+      "cold_tolerance": "高（休眠状態での耐寒性は高い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "1000-2000mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "低（地上部は脆弱）",
+      "hail_damage_recovery": "低（その年の収穫は不可）",
+      "rapid_temperature_change": "中（季節変化には強いが、異常な霜や熱波には弱い）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "低（林床植物のため、強い直射日光に弱い）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明。温暖化により、南方系の病害虫の影響を受ける可能性がある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "土壌菌類との共生関係に依存している可能性が高い。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯林",
+        "2050_projection": "分布域の北上および高地への移動。低地の個体群は減少・消失の可能性。",
+        "2100_projection": "分布域の大幅な縮小と断片化が予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Osmunda属内での自然交雑は報告されているが、O. japonicaが関与する事例や適応への貢献に関する研究は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域個体群間に遺伝的変異が存在する"
+      ],
+      "interspecific_compatibility": [
+        "Osmunda regalisなど近縁種との交雑可能性は理論的に存在する"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "（栽培化されていないため、ランドレースは存在しない）",
+      "wild_gene_pool": "野生個体群が唯一の遺伝子プールであり、地域ごとに多様化していると考えられる。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "中（生息地の断片化によりリスク増大の可能性）"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、高温、林床の光環境変化",
+        "adaptive_traits": "耐乾性、耐暑性",
+        "heritability": "不明",
+        "response_to_selection": "不明（世代時間が長いため、応答は遅いと推定される）"
+      }
+    ],
+    "hybridization_score": 4
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "農業作物ではないため、直接的なデータはない。評価は、森林生態系における役割からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "強固な地下茎（リゾーム）が密に広がる。",
+      "organic_matter_contribution": "高（毎年の枯れた葉が腐植として土壌に還元される）",
+      "soil_structure_improvement": "地下茎が土壌を保持し、団粒構造の形成を助ける。",
+      "erosion_control": "高（特に傾斜地において土壌流出を防ぐ効果が高い）",
+      "nutrient_cycling_role": "落葉を通じて土壌表層に栄養素を還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "（シダ植物のため花はなく、花粉媒介者への貢献はない）",
+      "beneficial_insect_habitat": "林床の多様な昆虫や土壌生物に生息環境を提供する。",
+      "soil_microorganism_interaction": "菌根菌と共生関係にある可能性が高い。",
+      "above_ground_biodiversity": "林床の植生被覆として機能する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "高（腐植豊かな土壌を形成し、水の浸透を促進）",
+      "moisture_retention": "高（土壌の保水能力を高める）",
+      "runoff_reduction": "高",
+      "groundwater_recharge": "貢献する"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中",
+      "below_ground_carbon": "高（地下茎に多くの炭素を蓄積）",
+      "soil_carbon_enhancement": "高（土壌有機炭素の形成に寄与）",
+      "carbon_sequestration_rate": "不明（遅いと推定される）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "（アグロフォレストリーの文脈で）落葉広葉樹との相性が良い"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "（森林生態系において）安定性に貢献する。",
+      "stress_tolerance": "火災や伐採には弱いが、地下茎が残れば再生する。",
+      "recovery_capacity": "中",
+      "adaptability": "低"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "トレンドや市場性に関する情報は定性的だが、その文化的価値からポテンシャルは認識されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "伝統的な植物性食品として価値がある。",
+      "food_security_contribution": "地域レベルでの食料多様性に貢献する。",
+      "local_food_system_integration": "里山における持続可能な食料採集のモデルケース。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級和食レストラン",
+        "スローフード市場",
+        "エコツーリズムと連携した体験型商品"
+      ],
+      "value_added_products": [
+        "調理済み水煮パック",
+        "高級乾燥ぜんまい",
+        "山菜加工品"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでの評価はないが、生息地の減少と気候変動のリスクは多くの研究で指摘されている。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "高（森林伐採、土地開発）",
+    "climate_change_vulnerability": "高",
+    "cultural_erosion_risk": "高（採集・加工技術の継承者不足）",
+    "conservation_actions_needed": [
+      "生息地である里山の保全",
+      "持続可能な採集ルールの策定",
+      "伝統知識の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "日本の里山地域",
+      "朝鮮半島の山岳地帯"
+    ],
+    "ex_situ_conservation_status": "植物園などで一部収集されているが、体系的な遺伝資源保全は行われていない。",
+    "in_situ_conservation_efforts": "一部の自然保護区や国立公園内で保護されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本プロジェクトの目的に対する適合性を総合的に評価した。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本（東北地方、信越地方）",
+      "韓国（江原道）"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答",
+      "栽培技術の確立",
+      "野生個体群の遺伝的多様性の定量的評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "medium",
+        "source_comment": "栽培品種は存在しないため、野生の典型的な生態型を代表として記載。"
+      },
+      "variety_name": "（野生種）",
+      "local_name": "ぜんまい",
+      "origin_region": "東アジア",
+      "distinctive_characteristics": "春に綿毛に覆われた若芽（こごみ）を出す。雄株（栄養葉）と雌株（胞子葉）がある。",
+      "cultural_importance": "日本の山菜文化を代表する種。",
+      "climate_adaptation": "温帯の湿潤な森林に適応しているが、気候変動には脆弱。",
+      "conservation_status": "未評価（Not Evaluated）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-22",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "民族植物学論文",
+      "植物データベース(POWO, GBIF)",
+      "各国の栄養成分データベース"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栽培技術"
+    ],
+    "regional_data_coverage": "東アジアに偏っている",
+    "missing_information": [
+      "定量的な気候変動耐性データ",
+      "栽培収量データ",
+      "交雑親和性に関する実験データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

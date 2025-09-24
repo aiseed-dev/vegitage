@@ -1,0 +1,713 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information compiled from major botanical databases (Kew, GRIN), agricultural encyclopedias, and ethnobotanical research. Wild relative information is straightforward as the wild type is widespread."
+    },
+    "primary_name": "Chicory",
+    "scientific_name": "Cichorium intybus",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "葉",
+      "花"
+    ],
+    "origin_region": "ヨーロッパ、西アジア、北アフリカ",
+    "wild_relatives": [
+      "Cichorium intybus L. (wild form)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names sourced from multilingual dictionaries, ethnobotanical literature, and agricultural naming conventions. Distinctions between cultivars are noted."
+    },
+    "international": {
+      "en": [
+        "Chicory",
+        "Radicchio",
+        "Belgian Endive",
+        "Witloof",
+        "Succory"
+      ],
+      "scientific_common": "Common Chicory"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Cicoria, Radicchio",
+            "script": "Latn"
+          },
+          {
+            "lang": "fr",
+            "name": "Chicorée, Endive",
+            "script": "Latn"
+          },
+          {
+            "lang": "nl",
+            "name": "Witlof",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Zichorie, Wegwarte",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Achicoria",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Chicory, New Orleans Coffee",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "هندباء برية (Hindiba bariya)",
+            "script": "Arab"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification based on the APG IV system, sourced from established taxonomic databases."
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Chicory",
+      "la": "Cichorium"
+    },
+    "species": {
+      "en": "Common chicory",
+      "la": "Cichorium intybus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "Cichorium intybus var. foliosum (Radicchio group)"
+      },
+      {
+        "rank": "var.",
+        "name": "Cichorium intybus var. sativum (Root chicory group)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural information is well-documented in European history, gastronomy, and ethnobotany. Data on non-European use is less extensive."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物",
+          "飲料"
+        ],
+        "traditional_uses": "イタリアではラディッキオとしてサラダやグリルに、ベルギーではアンディーブ（ウィットルーフ）として冬の高級野菜に、フランスでは根を焙煎してコーヒーの代替品や混ぜ物として利用。特に戦時中の代用コーヒーとして歴史的に重要。",
+        "seasonal_significance": "ウィットルーフは冬の野菜として、ラディッキオは秋から冬にかけての野菜として重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "飲料",
+          "副菜"
+        ],
+        "traditional_uses": "ルイジアナ州ニューオーリンズのクレオール文化において、チコリコーヒーは象徴的な飲み物。フランス文化の影響が強い。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Insalata di Radicchio",
+          "Radicchio alla griglia",
+          "Risotto al Radicchio"
+        ],
+        "preparation_methods": [
+          "生食",
+          "グリル",
+          "リゾット",
+          "ソテー"
+        ],
+        "cultural_context": "地域ごとの多様な品種（トレヴィーゾ、キオッジャなど）があり、地方料理のアイデンティティと深く結びついている。"
+      },
+      {
+        "cuisine": "フランス・ベルギー料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Endives au jambon (Ham and chicory gratin)",
+          "Salade d'endives"
+        ],
+        "preparation_methods": [
+          "軟白栽培（forcing）",
+          "グラタン",
+          "生食"
+        ],
+        "cultural_context": "軟白栽培されたアンディーブ（ウィットルーフ）は、冬の味覚として珍重される。独特の栽培技術が文化遺産となっている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプトで薬用として利用された記録がある。古代ギリシャ・ローマでも肝臓の薬として知られていた。",
+      "trade_routes": "ヨーロッパ内での品種の伝播が主で、大規模な国際交易の対象ではなかった。",
+      "cultural_exchange": "ナポレオン戦争時の大陸封鎖令をきっかけに、コーヒー代替品としてヨーロッパ全土に普及。アメリカの南北戦争や第二次世界大戦でも同様の役割を果たした。",
+      "domestication_history": "葉を利用する品種は中世から、根をコーヒー代替品として利用する栽培は17世紀のオランダで本格化した。軟白栽培のウィットルーフは19世紀のベルギーで偶然発見された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しい季節（冬）に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最適。冷涼な気候を好み、特に生育初期の涼しさが重要。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さと冬の寒さに耐えるが、極端な場合は生育が阻害される。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "深い主根により乾燥に強いが、商業生産には灌漑が必要。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "標高の高い冷涼地でも栽培可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春～初夏",
+        "harvest_season": "秋～冬",
+        "growing_period_days": "85-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 60,000 kg/ha (根)",
+      "factors_affecting_yield": [
+        "品種",
+        "土壌の質",
+        "水分供給",
+        "軟白栽培技術の有無"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（FAO等の統計では個別品目として扱われないことが多い）",
+      "major_producers": [
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "根チコリ（コーヒー用、イヌリン抽出用）と葉チコリの両方が主要。"
+        },
+        {
+          "country": "ベルギー",
+          "production_share": "不明",
+          "characteristics": "ウィットルーフ（軟白チコリ）の主要生産国。"
+        },
+        {
+          "country": "イタリア",
+          "production_share": "不明",
+          "characteristics": "ラディッキオなど多様な葉チコリの主要生産国。"
+        },
+        {
+          "country": "オランダ",
+          "production_share": "不明",
+          "characteristics": "根チコリとウィットルーフの主要生産国。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は確立されているが、特に根のイヌリン含有量は品種や収穫時期で大きく変動する。伝統的利用に関する民族植物学的記録は豊富。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "23 (raw leaves)",
+        "protein_g": "1.7",
+        "carbs_g": "4.7",
+        "fat_g": "0.3",
+        "fiber_g": "4.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "297.6 µg",
+          "daily_value_percent": "248%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "5717 IU",
+          "daily_value_percent": "114%"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "110 µg",
+          "daily_value_percent": "28%"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.4 mg",
+          "daily_value_percent": "21%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "イヌリン",
+        "concentration": "非常に高い（特に根）",
+        "health_effect": "プレバイオティクス効果、血糖値上昇抑制、腸内環境改善"
+      },
+      {
+        "compound": "セスキテルペンラクトン（ラクチュシン、ラクチュコピクリン）",
+        "concentration": "中程度（葉）",
+        "health_effect": "苦味成分、鎮静作用、消化促進"
+      },
+      {
+        "compound": "ポリフェノール類",
+        "concentration": "中程度",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ療法",
+        "uses": [
+          "消化不良",
+          "肝臓・胆嚢機能のサポート",
+          "食欲増進",
+          "便秘解消"
+        ],
+        "preparation": "根や葉の煎じ薬、チンキ剤"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "プレバイオティクス効果による腸内フローラの改善",
+        "血糖値管理のサポート",
+        "便通改善"
+      ],
+      "ongoing_research": [
+        "肝保護作用",
+        "抗炎症作用",
+        "体重管理への応用"
+      ],
+      "safety_considerations": "キク科アレルギーを持つ人は注意が必要。過剰摂取は腹部膨満感やガスを引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "ヨーロッパの料理本や食文化研究で広く記述されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "イタリア",
+        "methods": [
+          "生食（サラダ）",
+          "グリル",
+          "ロースト",
+          "ソテー",
+          "リゾット"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "バルサミコ酢",
+          "チーズ（ゴルゴンゾーラ）",
+          "ナッツ",
+          "豚肉製品（パンチェッタ）"
+        ]
+      },
+      {
+        "region": "フランス・ベルギー",
+        "methods": [
+          "グラタン",
+          "ブレイズ（蒸し煮）",
+          "生食（サラダ）"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ハム",
+          "チーズ（グリュイエール）",
+          "クリームソース",
+          "リンゴ",
+          "クルミ"
+        ]
+      },
+      {
+        "region": "世界（根）",
+        "methods": [
+          "焙煎",
+          "粉砕",
+          "抽出"
+        ],
+        "flavor_role": "飲料の主味・風味付け",
+        "typical_combinations": [
+          "コーヒー",
+          "牛乳",
+          "砂糖"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "軟白栽培（Forcing/Blanching）",
+        "regions": [
+          "ベルギー",
+          "フランス",
+          "オランダ"
+        ],
+        "shelf_life": "数週間（根の保存後）",
+        "quality_changes": "苦味が減少し、甘みが増す。葉が白く柔らかくなる。"
+      },
+      {
+        "method": "乾燥・焙煎（根）",
+        "regions": [
+          "フランス",
+          "世界中"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "香ばしい風味と苦味が増し、コーヒーに似たキャラクターが生まれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "特徴的な苦味、ナッツのような風味、焙煎した根には甘みと香ばしさ",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "葉はシャキシャキしている（生）または柔らかい（加熱）。軟白した葉は非常に柔らかくみずみずしい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性に関する定性的な評価は多いが、気候変動シナリオ下での品種ごとの定量的応答データは限定的。評価は植物の一般的特性に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-18°C",
+      "extreme_heat_survival": "35°C以上では生育不良",
+      "cold_tolerance": "-5°C程度まで耐える。根はより強い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い（深い主根が地下深くの水分を利用するため）",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（地上部は倒れるが、根が残れば再生可能）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度（C3植物として恩恵を受ける可能性がある）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりナメクジやアブラムシの活動期間が延長する可能性。",
+      "disease_resistance_stability": "高温多湿はうどんこ病や軟腐病のリスクを高める。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域",
+        "2050_projection": "現在の栽培地の北限が拡大し、南限では夏の栽培が困難になる可能性。",
+        "2100_projection": "さらに高緯度・高地への適地シフトが予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培品種と野生型との交雑は一般的。種間の交雑に関するデータは少ない。遺伝的多様性は主にヨーロッパのランドレースに集中している。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種（ラディッキオ、ウィットルーフ等）と野生型チコリは容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "同属のCichorium endivia（エンダイブ）との交雑は困難または不可能。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は非常に低い。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培圃場の周辺で、栽培型と野生型の交雑個体が頻繁に見られる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "非常に高い（特にイタリアに多様なラディッキオのランドレースが存在）",
+      "wild_gene_pool": "広く分布する野生型が、適応形質を供給する巨大な遺伝子プールとして機能している。",
+      "adaptive_genetic_variation": "高い（広範な環境への適応が示唆）",
+      "inbreeding_depression_risk": "低い（他家受精性植物であるため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "地中海沿岸",
+        "environmental_pressure": "夏の乾燥と高温",
+        "adaptive_response": "深い主根の発達、ロゼット葉による地面の被覆",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による乾燥耐性遺伝子の蓄積"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生型との交雑により、耐病性や耐乾性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "野生型の持つ二次代謝産物を栽培品種に導入する可能性がある。",
+      "novel_characteristics": "葉の形、色、苦味の程度の新しい組み合わせ。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほとんどない。",
+      "chromosome_compatibility": "種内では問題ない（2n=18）。",
+      "fertility_of_hybrids": "種内雑種は通常、高い稔性を持つ。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "草刈りや放牧",
+        "adaptive_traits": "低いロゼット葉の形成、早い再生能力",
+        "heritability": "中〜高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "植物の特性（深根性など）からの類推が主。チコリを組み込んだリジェネラティブシステムに関する定量的研究はまだ少ない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "非常に長く強力な主根を持ち、土壌の硬盤を破砕する。",
+      "organic_matter_contribution": "収穫後の根の分解により、土壌深層に有機物を供給する。",
+      "soil_structure_improvement": "根が作ったチャネルが水と空気の浸透を促進し、団粒構造を改善する。",
+      "erosion_control": "ロゼット状の葉が地表を覆い、雨滴による侵食を軽減する。",
+      "nutrient_cycling_role": "深層の養分（カルシウムなど）を土壌表層に引き上げる「ダイナミック・アキュムレーター」として機能する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "鮮やかな青い花は、ミツバチ、マルハナバチ、ハナアブなど多様な訪花昆虫を引きつける。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根から分泌されるイヌリンが、有益な土壌微生物の餌となる可能性がある。",
+      "above_ground_biodiversity": "開花期には多様な昆虫相をサポートする。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根による土壌構造改善が水の浸透を促進する。",
+      "moisture_retention": "土壌有機物の増加を通じて保水性を高める。",
+      "runoff_reduction": "地表被覆と浸透改善により、地表流出を減らす。",
+      "groundwater_recharge": "浸透の促進は地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "高いポテンシャル（巨大で深い根系のため）",
+      "soil_carbon_enhancement": "根の分解物を通じて土壌炭素の増加に貢献する。",
+      "carbon_sequestration_rate": "不明（定量的データなし）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（カバークロップとして）",
+        "ニンジン（チコリがニンジンの害虫を一部忌避する可能性がある）"
+      ],
+      "natural_pest_control": "多様な訪花昆虫を誘引することで、天敵昆虫も増える可能性がある。",
+      "nutrient_sharing": "深層から養分を引き上げることで、浅根性の植物が利用しやすくなる可能性がある。",
+      "allelopathic_interactions": "セスキテルペンラクトンが他の植物の生育に影響を与える可能性が研究されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "牧草地に混播することで、干ばつ時の飼料生産を安定させる。",
+      "stress_tolerance": "高い耐乾性を持つため、乾燥しやすい土地での緑化や生産に貢献する。",
+      "recovery_capacity": "刈り取りや軽度のダメージからの再生能力が高い。",
+      "adaptability": "多様な土壌条件に適応する。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食品業界のトレンド、健康志向、市場分析に関する情報に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "高繊維質（特にプレバイオティクス）の供給源として価値が高い。",
+      "food_security_contribution": "痩せた土地や乾燥地でも栽培可能であり、限界的な農地の活用に貢献できる可能性がある。",
+      "local_food_system_integration": "多様な品種が地域ごとの食文化を豊かにし、地産地消に適している。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "プレバイオティクス（イヌリン）市場の拡大",
+        "機能性食品・飲料",
+        "グルテンフリーのコーヒー代替品"
+      ],
+      "value_added_products": [
+        "イヌリン抽出物・パウダー",
+        "チコリコーヒーブレンド",
+        "ラディッキオの加工品（漬物、ペースト）"
+      ],
+      "niche_market_value": "「Farm-to-table」レストランや健康志向の消費者向けに、特定の品種（例：タルディーヴォ）が高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種の保全状況は安定しているが、特定の地域在来品種（ランドレース）の消失リスクは存在する。"
+    },
+    "genetic_erosion_risk": "中（特定のランドレースに関して）",
+    "habitat_loss_threat": "低い（野生型は広範囲に分布）",
+    "climate_change_vulnerability": "低い（種としては）",
+    "cultural_erosion_risk": "中（伝統的な栽培技術や食文化の継承が課題）",
+    "conservation_actions_needed": [
+      "地域固有のランドレースの特定と評価",
+      "種子バンクでの系統保存（ex-situ）",
+      "伝統的栽培農家への支援とオンファーム保全（in-situ）"
+    ],
+    "priority_conservation_regions": [
+      "イタリアのヴェネト州（多様なラディッキオの原産地）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数のアクセッションが保存されている。",
+    "in_situ_conservation_efforts": "イタリアの特定の地域で、IGP（地理的表示保護）などを通じた保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "これまでの分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "イタリア",
+      "ベルギー",
+      "地中海沿岸の野生集団"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する各ランドレースの生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける炭素隔離能力の測定",
+      "アジアやアフリカでの伝統的利用に関する記録"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な品種の情報は園芸書や農業団体により十分に文書化されている。"
+      },
+      "variety_name": "Radicchio Rosso di Treviso",
+      "local_name": "Radicchio di Treviso",
+      "origin_region": "イタリア、ヴェネト州",
+      "distinctive_characteristics": "細長い形状、深い赤色と白い葉脈。軟白栽培により独特の苦味と甘みを持つ。",
+      "cultural_importance": "ヴェネト料理の象徴。IGP（地理的表示保護）に認定されている。",
+      "climate_adaptation": "冷涼な秋と冬を必要とする。",
+      "conservation_status": "商業的に栽培されているが、伝統的な栽培方法は保護対象。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な品種の情報は園芸書や農業団体により十分に文書化されている。"
+      },
+      "variety_name": "Witloof / Belgian Endive",
+      "local_name": "Witloof, Chicon",
+      "origin_region": "ベルギー",
+      "distinctive_characteristics": "暗所で軟白栽培された、白くコンパクトな芽。マイルドな苦味と甘み、シャキシャキした食感。",
+      "cultural_importance": "ベルギーとフランスの国民的野菜。独特の二段階栽培法が特徴。",
+      "climate_adaptation": "根の育成には温帯気候、軟白栽培には温度管理された施設が必要。",
+      "conservation_status": "安定"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な品種の情報は園芸書や農業団体により十分に文書化されている。"
+      },
+      "variety_name": "Magdeburg Chicory",
+      "local_name": "Magdeburger",
+      "origin_region": "ドイツ",
+      "distinctive_characteristics": "大きく肥大した根を生産するために栽培される。葉はあまり利用されない。",
+      "cultural_importance": "コーヒー代替品およびイヌリン抽出の主要原料として歴史的に重要。",
+      "climate_adaptation": "幅広い温帯気候に適応する。",
+      "conservation_status": "安定"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew",
+      "USDA GRIN Database",
+      "Food and Agriculture Organization (FAO)",
+      "Ethnobotanical and agroecological academic literature"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "アジア・アフリカ地域での利用実態"
+    ],
+    "regional_data_coverage": "ヨーロッパに非常に偏っており、他の地域に関するデータは限定的。",
+    "missing_information": [
+      "非ヨーロッパ圏での伝統的知識",
+      "野生集団の遺伝子解析データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

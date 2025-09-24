@@ -1,0 +1,567 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GRIN）および民族植物学の文献から統合。野生近縁種に関する詳細な遺伝的関係は限定的。"
+    },
+    "primary_name": "Wild Turmeric",
+    "scientific_name": "Curcuma aromatica Salisb.",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根茎"
+    ],
+    "origin_region": "南アジア（東ヒマラヤ、インド）",
+    "wild_relatives": [
+      "Curcuma longa",
+      "Curcuma zedoaria",
+      "Curcuma amada"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物名データベース、民族植物学の記録から収集。特に南アジアでの呼称は豊富。"
+    },
+    "international": {
+      "en": [
+        "Wild Turmeric",
+        "Cochin turmeric",
+        "Aromatic turmeric",
+        "Kasthuri manjal"
+      ],
+      "scientific_common": "Aromatic Turmeric"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "sa",
+            "name": "Vana haridra",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "hi",
+            "name": "जंगली हल्दी (Jangli Haldi)",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "ta",
+            "name": "கஸ்தூரி மஞ்சள் (Kasturi Manjal)",
+            "script": "Tamil"
+          },
+          {
+            "lang": "ml",
+            "name": "കസ്തൂരി മഞ്ഞൾ (Kasthoori Manjal)",
+            "script": "Malayalam"
+          },
+          {
+            "lang": "bn",
+            "name": "শটি (Shoti)",
+            "script": "Bengali"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "キョウオウ (Kyoo)",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "郁金 (Yùjīn)",
+            "script": "Han"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "南インドのタミル語圏コミュニティ",
+        "name": "Kasturi Manjal",
+        "cultural_significance": "「ムスクのような香りのウコン」を意味し、主に伝統的なスキンケアや儀式に用いられる。食用ウコン(Manjal)とは区別される。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な植物分類体系（APG IV）に基づき、Kew's Plants of the World Onlineで検証済み。"
+    },
+    "family": {
+      "en": "Ginger family",
+      "la": "Zingiberaceae"
+    },
+    "genus": {
+      "en": "Turmeric",
+      "la": "Curcuma"
+    },
+    "species": {
+      "en": "Aromatic Turmeric",
+      "la": "aromatica"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "民族植物学、アーユルヴェーダ文献、地域文化研究から情報を集約。食文化での利用は限定的で、薬用・美容目的の情報が主。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "薬用",
+          "儀式用",
+          "美容"
+        ],
+        "traditional_uses": "主にアーユルヴェーダで皮膚疾患、捻挫、打撲の治療に外用薬として使用される。また、新生児や女性のスキンケアに広く用いられる。ヒンドゥー教の儀式で神聖な粉として使われることがある。",
+        "seasonal_significance": "収穫期が地域の祭りと結びつくことは少ない。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 2,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "一部地域で伝統医療に利用されるが、C. longaやC. zedoariaほど一般的ではない。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "不明"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "南インド料理（一部）",
+        "role": "rare",
+        "traditional_dishes": [
+          "特定のピクルス（Achar）"
+        ],
+        "preparation_methods": [
+          "生の根茎をスライス",
+          "乾燥粉末"
+        ],
+        "cultural_context": "食用ウコン（C. longa）とは異なり、強い樟脳様の香りがあるため、食用としての利用は非常に限定的。主に香りのアクセントとして稀に使用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代から南アジア、特にインドでアーユルヴェーダ医学体系の一部として利用されてきた。",
+      "trade_routes": "古代のスパイスルートでの主要な交易品ではなかった。主に地域内で消費・交易されていたと考えられる。",
+      "cultural_exchange": "アーユルヴェーダ医学やインド文化の伝播に伴い、東南アジアや一部東アジアに伝わった。",
+      "domestication_history": "栽培化の正確な歴史は不明だが、野生種からの選択が長期間にわたって行われたと考えられる。C. longaとは異なる目的（薬用・香料）で栽培化された。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿のモンスーン気候。年間降水量1500mm以上。明確な乾季と雨季がある地域。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い肥沃な土壌。夏の高温多湿期に生育し、冬の乾季に休眠する。"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "霜に弱く、屋外での越冬は困難。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "適さない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度を必要とするため適さない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯モンスーン",
+        "planting_season": "雨季の始まり（例：5月-6月）",
+        "harvest_season": "乾季の始まり（例：1月-2月）",
+        "growing_period_days": 210
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "降水量",
+        "土壌の肥沃度と水はけ",
+        "日照条件（半日陰を好む）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "インド",
+          "production_share": null,
+          "characteristics": "主に西ガーツ山脈周辺や南インドで栽培。商業生産はC. longaに比べて小規模で、地域市場向けが多い。"
+        },
+        {
+          "country": "スリランカ",
+          "production_share": null,
+          "characteristics": "小規模な栽培が行われている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栄養成分データは非常に限定的。機能性成分に関する研究は存在するが、多くは精油成分の分析に集中している。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "クルクメン (Curcumene)",
+        "concentration": "精油の主要成分",
+        "health_effect": "抗炎症、抗菌作用の可能性"
+      },
+      {
+        "compound": "カンファー (Camphor)",
+        "concentration": "精油成分",
+        "health_effect": "清涼感、鎮痛、防虫作用"
+      },
+      {
+        "compound": "ボルネオール (Borneol)",
+        "concentration": "精油成分",
+        "health_effect": "鎮静、抗菌作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "皮膚病治療",
+          "美白・肌の調子を整える",
+          "捻挫や打撲の湿布",
+          "抗菌・抗炎症"
+        ],
+        "preparation": "生の根茎をすり潰してペースト状にするか、乾燥粉末を水や油で練って外用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗菌活性",
+        "抗炎症活性"
+      ],
+      "ongoing_research": [
+        "抗酸化作用",
+        "創傷治癒促進効果",
+        "抗がん作用の可能性"
+      ],
+      "safety_considerations": "外用は一般的に安全とされるが、内服に関する安全性データはC. longaほど豊富ではない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用利用が限定的なため、調理法に関する体系的な情報は少ない。民族植物学の記録に散見される程度。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南インド",
+        "methods": [
+          "生で漬け物にする"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "マンゴー",
+          "ライム",
+          "塩",
+          "唐辛子"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥・粉末化",
+        "regions": [
+          "南アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香気成分が揮発しやすい。光を避けて密閉容器で保存する必要がある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "苦味が強く、樟脳（カンファー）様の清涼感と土のような香り。",
+      "aroma_compounds": [
+        "カンファー",
+        "ボルネオール",
+        "クルクメン"
+      ],
+      "texture_characteristics": "生の根茎は硬く、繊維質。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応研究はほぼ存在しない。同属のC. longaや原産地の気候特性からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-35°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "5°C以下で生育停止、霜で地上部が枯れる"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "1500-2500mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部が倒れやすいが、地下茎は生き残る可能性が高い。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化による根茎腐敗病やネマトーダの増加リスクが考えられる。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "南アジア、東南アジアの熱帯モンスーン地域",
+        "2050_projection": "適地がわずかに高緯度・高地に移動する可能性があるが、降雨パターンの変化がより大きな影響を与える可能性がある。",
+        "2100_projection": "極端な干ばつや洪水の頻発により、現在の適地でも生産が不安定になるリスクがある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Curcuma属内の交雑親和性に関する研究は存在するが、C. aromaticaに特化した自然交雑の事例や遺伝的多様性の定量的データは乏しい。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "地域ごとに遺伝的に異なるランドレースが存在すると推定される。"
+      ],
+      "interspecific_compatibility": [
+        "C. longaなど近縁種との人為的交配は試みられているが、自然交雑の報告は稀。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地であるインドの西ガーツ山脈には高い遺伝的多様性が存在すると考えられるが、網羅的な調査は不足している。",
+      "wild_gene_pool": "野生集団が存在し、遺伝子プールとして重要。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、遺伝的多様性の低い集団ではリスクがある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "近縁の耐乾性種との交雑による耐乾性向上の可能性。",
+      "improved_nutritional_content": "C. longaとの交雑によるクルクミン含量の変化の可能性。",
+      "novel_characteristics": "香気成分のプロファイルが異なる新品種の創出。",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期の不一致や倍数性の違いが障壁となりうる。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "種間雑種では稔性が低下する可能性がある。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 4
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種をリジェネラティブ農業の文脈で評価した研究はない。ショウガ科植物の一般的特性からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる根茎と吸収根が土壌表層の団粒構造を維持する。",
+      "organic_matter_contribution": "毎年生育する地上部と更新される根茎が土壌有機物となる。",
+      "soil_structure_improvement": "根茎の伸長が土壌を耕し、通気性や排水性を改善する可能性がある。",
+      "erosion_control": "生育期には密な葉が地表を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "カリウム要求性が高い可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は特定のハチなどによって受粉されるが、農業システム全体への貢献度は不明。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "根圏微生物叢との共生関係が示唆されるが、詳細は不明。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の働きにより土壌への水の浸透を助ける可能性がある。",
+      "moisture_retention": "地上部の被覆が土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "根茎に炭素を貯蔵するため、地下部炭素蓄積に貢献する。",
+      "soil_carbon_enhancement": "不明",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "アグロフォレストリーシステムにおいて、樹木の株元で栽培されることがある。"
+      ],
+      "natural_pest_control": "精油成分に防虫効果がある可能性があり、コンパニオンプランツとしてのポテンシャルが考えられる。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年草であり、一度定着すると毎年収穫可能なため、システムの安定性に寄与する可能性がある。",
+      "stress_tolerance": "乾季には休眠することで乾燥ストレスを回避する。",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 6
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主に化粧品および代替医療分野での関心が高まっている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "栄養源としての価値は低いが、機能性食品素材としての可能性がある。",
+      "food_security_contribution": "限定的。主食や主要な野菜にはならない。",
+      "local_food_system_integration": "南アジアの地域市場では重要な薬用・美容植物。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "自然派化粧品市場",
+        "アロマセラピー市場",
+        "機能性食品・サプリメント市場"
+      ],
+      "value_added_products": [
+        "精油（エッセンシャルオイル）",
+        "化粧品用パウダー",
+        "ハーブティー",
+        "抽出エキス"
+      ],
+      "niche_market_value": "「Kasturi Manjal」として、伝統的なスキンケアに関心を持つ層に高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "保全状況に関する公式な評価（IUCNレッドリスト等）はない。脅威は定性的な推測に基づく。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地である西ガーツ山脈などの森林伐採や土地開発が野生集団の脅威となっている。",
+    "climate_change_vulnerability": "降雨パターンの変化に脆弱である可能性が高い。",
+    "cultural_erosion_risk": "高。伝統的な知識が若い世代に継承されず、安価な代替品に取って代わられるリスクがある。",
+    "conservation_actions_needed": [
+      "野生集団の分布調査と遺伝的多様性の評価",
+      "在来品種（ランドレース）の収集と域外保全（ジーンバンク）",
+      "伝統的知識の記録と保全",
+      "持続可能な栽培方法の確立と普及"
+    ],
+    "priority_conservation_regions": [
+      "インド（西ガーツ山脈）"
+    ],
+    "ex_situ_conservation_status": "一部の植物園や研究機関で保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "特定の保護区で自生している可能性はあるが、本種を対象とした積極的な域内保全活動は不明。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "インド（特にケーララ州、タミル・ナードゥ州）",
+      "スリランカ"
+    ],
+    "knowledge_gaps": [
+      "定量的栽培データ（収量、最適条件）",
+      "気候変動に対する生理的応答",
+      "遺伝的多様性の網羅的評価",
+      "リジェネラティブ農業システムへの貢献度の実証的研究"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "商業的な品種登録はほとんどなく、地域ごとのランドレースとして存在するが、体系的な分類はされていない。"
+      },
+      "variety_name": "不明",
+      "local_name": "地域ごとの系統",
+      "origin_region": "南アジア",
+      "distinctive_characteristics": "根茎の色、大きさ、香りの強さなどに地域変異があるとされる。",
+      "cultural_importance": "各地域コミュニティで伝統的に利用されてきた系統が存在する。",
+      "climate_adaptation": "不明",
+      "conservation_status": "未評価"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Plants of the World Online",
+      "GRIN-Global Taxonomy",
+      "PubMed (for functional properties)",
+      "Ethnobotany research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "栽培における収量性と最適条件",
+      "網羅的な栄養成分データ"
+    ],
+    "regional_data_coverage": "南アジアに偏っており、その他の地域に関する情報は限定的。",
+    "missing_information": [
+      "世界的な生産統計",
+      "商業品種の情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

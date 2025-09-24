@@ -1,0 +1,626 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GRIN-Global）および農学研究文献から統合。野生近縁種に関する確定的な情報は限定的。"
+    },
+    "primary_name": "Chinese Onion",
+    "scientific_name": "Allium chinense",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "鱗茎",
+      "葉"
+    ],
+    "origin_region": "中国",
+    "wild_relatives": [
+      "不明"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の主要言語における名称を文献およびデータベースから収集。先住民コミュニティ固有の名称に関する記録は極めて少ない。"
+    },
+    "international": {
+      "en": [
+        "Chinese onion",
+        "Chinese scallion",
+        "Rakkyo",
+        "Kiukiang onion"
+      ],
+      "scientific_common": "不明"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ラッキョウ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "薤",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "염교",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "củ kiệu",
+            "script": "Latin"
+          },
+          {
+            "lang": "th",
+            "name": "กระเทียมโทนจีน",
+            "script": "Thai"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、最新の植物分類情報を反映。"
+    },
+    "family": {
+      "en": "Amaryllis family",
+      "la": "Amaryllidaceae"
+    },
+    "genus": {
+      "en": "Onion",
+      "la": "Allium"
+    },
+    "species": {
+      "en": "Chinese",
+      "la": "chinense"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジア・東南アジアの食文化、伝統医学に関する文献調査に基づき評価。他の地域での文化的重要性は低い。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "日本ではカレーライスの付け合わせとして、甘酢漬けが国民食の一部。中国では古くから薬用植物「薤白（がいはく）」として胸痛や消化促進に利用されてきた歴史がある。",
+        "seasonal_significance": "初夏に収穫され、漬物として一年中消費される。夏の食欲増進の役割を持つ。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "儀式用"
+        ],
+        "traditional_uses": "特にベトナムで、テト（旧正月）を祝うための伝統的な漬物「củ kiệu muối」として不可欠な食材。家族の繁栄を願う象徴的な料理。",
+        "seasonal_significance": "テト（旧正月）に集中して消費される。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ラッキョウの甘酢漬け"
+        ],
+        "preparation_methods": [
+          "漬物"
+        ],
+        "cultural_context": "カレーライスの薬味として、また箸休めとして広く普及。独特の食感と風味が特徴。"
+      },
+      {
+        "cuisine": "ベトナム料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Củ kiệu muối"
+        ],
+        "preparation_methods": [
+          "漬物"
+        ],
+        "cultural_context": "テト（旧正月）のお祝い料理の一部として、バインチュンなどと共に食される。家族の団欒を象徴する。"
+      },
+      {
+        "cuisine": "中国伝統医学",
+        "role": "common",
+        "traditional_dishes": [
+          "薬膳スープ",
+          "炒め物"
+        ],
+        "preparation_methods": [
+          "煎じ薬",
+          "調理"
+        ],
+        "cultural_context": "「薤白」として生薬利用。気血の巡りを良くし、胸のつかえを取り除く効果があるとされる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では2000年以上前の文献（『詩経』など）に記述が見られ、古くから栽培・利用されていた。",
+      "trade_routes": "明確な交易路での主要品目ではなかったが、仏教伝来など文化交流と共に東アジア一円に伝播したと考えられる。",
+      "cultural_exchange": "日本へは平安時代に中国から薬草として伝わったとされる。",
+      "domestication_history": "中国の長江流域で栽培化されたと考えられているが、詳細なプロセスは不明。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿では鱗茎の肥大が阻害され、病害が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "温暖な気候を好み、鱗茎の分球と肥大に適している。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育適温は15-22℃。耐寒性があり、冬を越して栽培される。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "厳しい冬の凍結により枯死するリスクが高い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "生育には一定の水分が必要であり、乾燥には弱い。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、低温のため栽培には適さない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "8月下旬～9月上旬",
+        "harvest_season": "翌年6月～7月",
+        "growing_period_days": "約300"
+      }
+    ],
+    "productivity": {
+      "yield_range": "10,000 - 25,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "土壌の水はけ",
+        "施肥管理",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産国。生鮮および加工品として国内消費・輸出される。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "鳥取県、鹿児島県、宮崎県が主産地。国内消費が中心で、特に漬物加工用が多い。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "一般的な栄養成分データは存在するが、品種や栽培条件による詳細な差異に関する研究は少ない。機能性成分に関する研究は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "84",
+        "protein_g": "1.7",
+        "carbs_g": "20.2",
+        "fat_g": "0.1",
+        "fiber_g": "3.3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "葉酸",
+          "amount": "67 µg",
+          "daily_value_percent": "17"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "280 mg",
+          "daily_value_percent": "8"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フルクタン",
+        "concentration": "高",
+        "health_effect": "プレバイオティクス効果、血糖値上昇抑制"
+      },
+      {
+        "compound": "硫化アリル",
+        "concentration": "中",
+        "health_effect": "血行促進、ビタミンB1吸収促進"
+      },
+      {
+        "compound": "サポニン",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用、コレステロール低下作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "胸痛・心臓痛の緩和（通陽散結）",
+          "気滞の改善（行気導滞）",
+          "下痢・腹痛の治療"
+        ],
+        "preparation": "鱗茎（薤白）を乾燥させ、他の生薬と共に煎じて服用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "プレバイオティクス効果"
+      ],
+      "ongoing_research": [
+        "抗酸化作用",
+        "抗炎症作用",
+        "心血管疾患予防効果"
+      ],
+      "safety_considerations": "過剰摂取は胃腸に刺激を与える可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主に東アジア・東南アジアの料理文化に特化しているため、その範囲内での情報は豊富。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "漬物",
+          "炒め物",
+          "天ぷら"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "米",
+          "カレー",
+          "肉料理"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "漬物",
+          "サラダ"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "豚肉",
+          "エビ",
+          "米料理"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "甘酢漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "辛味が抜け、甘酸っぱい風味とシャキシャキした食感になる。"
+      },
+      {
+        "method": "塩漬け・砂糖漬け",
+        "regions": [
+          "ベトナム",
+          "中国"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "発酵により酸味と旨味が増す。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "中国"
+        ],
+        "shelf_life": "数年",
+        "quality_changes": "薬用として利用。水分が抜け、成分が凝縮される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "生の時はタマネギやニンニクに似た辛味と刺激臭。加熱・漬け込みで辛味が和らぎ、甘みが増す。",
+      "aroma_compounds": [
+        "硫化アリル類"
+      ],
+      "texture_characteristics": "シャキシャキとした独特の歯ごたえが特徴。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ラッキョウの気候変動適応に関する直接的な研究は非常に少ない。評価は栽培地域の気候特性とネギ属植物の一般的性質からの定性的推定に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "30℃以上が続くと生育不良",
+      "cold_tolerance": "-5°C程度まで耐えるが、凍結は不可"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が細く倒伏しにくいが、豪雨による土壌流出に弱い。",
+      "hail_damage_recovery": "葉の損傷からの回復は可能だが、鱗茎の肥大に影響。",
+      "rapid_temperature_change": "休眠期に入ることで一定の適応を示す。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、南方系の病害虫（ネギアザミウマなど）の発生増加が懸念される。",
+      "disease_resistance_stability": "品種によるが、特定の病害（白色疫病など）への抵抗性は環境ストレスで低下する可能性。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯・亜熱帯地域",
+        "2050_projection": "栽培適地がやや高緯度・高標高へ移動する可能性。亜熱帯地域では夏の高温ストレスが増加。",
+        "2100_projection": "現在の主産地の一部で栽培が困難になる可能性。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "ラッキョウの多くは3倍体または5倍体であり、種子繁殖が極めて困難。この不稔性が自然交雑の大きな障壁となっている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栄養繁殖が主であり、自然な交雑はほぼ起こらない。"
+      ],
+      "interspecific_compatibility": [
+        "極めて低い。胚珠培養などの技術を用いない限り、自然交雑は不可能に近い。"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栄養繁殖のため、遺伝的多様性はクローン内の体細胞突然変異に依存しており、極めて低い。",
+      "wild_gene_pool": "近縁野生種との遺伝子流動は自然界ではほぼない。",
+      "adaptive_genetic_variation": "低い。環境変化への適応は既存のクローンの選抜に依存する。",
+      "inbreeding_depression_risk": "栄養繁殖のため該当しない。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "自然交雑による獲得は期待できない。",
+      "improved_nutritional_content": "自然交雑による獲得は期待できない。",
+      "novel_characteristics": "自然交雑による獲得は期待できない。",
+      "hybrid_vigor_potential": "自然交雑では期待できない。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "倍数性、不稔性",
+      "chromosome_compatibility": "低い",
+      "fertility_of_hybrids": "ほぼゼロ",
+      "backcrossing_success": "極めて低い"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 1
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ラッキョウをリジェネラティブ農業の文脈で評価した研究はほぼ存在しない。ネギ属の一般的特性からの類推を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、密なひげ根。土壌表層の団粒構造維持に寄与する可能性がある。",
+      "organic_matter_contribution": "収穫後の残渣は少なく、有機物供給量は限定的。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "密植栽培により、地表面を覆い土壌侵食をある程度抑制する。",
+      "nutrient_cycling_role": "ネギ属植物は菌根菌との共生が見られ、リン酸吸収効率が高い可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "多くの栽培品種は不稔で開花しないか、開花しても結実しないため、花粉媒介者への貢献は低い。",
+      "beneficial_insect_habitat": "特筆すべき効果は報告されていない。",
+      "soil_microorganism_interaction": "硫黄化合物が特定の土壌微生物に影響を与える可能性（バイオフューミゲーション効果）。",
+      "above_ground_biodiversity": "限定的。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "中程度",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を抑制。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン（ニンジンの害虫を忌避）",
+        "トマト",
+        "バラ"
+      ],
+      "natural_pest_control": "特有の香りが一部の害虫を忌避する効果があるとされる。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "限定的"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作付体系に組み込むことで貢献の可能性。",
+      "stress_tolerance": "中程度",
+      "recovery_capacity": "栄養繁殖のため、一部が被害を受けても分球で回復可能。",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 4
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場データと健康食品トレンドに基づき評価。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "漬物として、食感や風味のアクセントを提供。プレバイオティクス源としての価値。",
+      "food_security_contribution": "主食ではないが、地域レベルでの食文化の多様性と経済に貢献。",
+      "local_food_system_integration": "加工品として地域特産品となりやすく、道の駅などで販売される。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の高まりによる機能性食品としての市場開拓",
+        "アジア料理の世界的普及に伴う漬物需要の増加"
+      ],
+      "value_added_products": [
+        "機能性成分（フルクタン）を抽出したサプリメント",
+        "フリーズドライ製品",
+        "パウダー"
+      ],
+      "niche_market_value": "漬物市場において高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝的多様性の低さと栄養繁殖への依存から、リスクは高いと評価される。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "栽培植物のため直接的な影響は少ないが、栽培放棄による在来系統の消失リスク。",
+    "climate_change_vulnerability": "中",
+    "cultural_erosion_risk": "中",
+    "conservation_actions_needed": [
+      "在来品種・地方系統の収集と遺伝子バンクでの保存（ex-situ）",
+      "伝統的栽培を続ける農家への支援（in-situ）",
+      "文化的利用の継承と普及活動"
+    ],
+    "priority_conservation_regions": [
+      "日本（鳥取、鹿児島）",
+      "中国（長江流域）"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには保存されているが、網羅性は不明。",
+    "in_situ_conservation_efforts": "一部の地域で、農家や自治体による保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の総括的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 3,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "中国",
+      "日本",
+      "ベトナム"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "栽培品種間の遺伝的差異と特性評価",
+      "土壌生態系への影響"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主に日本の品種情報に基づく。"
+      },
+      "variety_name": "らくだ",
+      "local_name": "らくだ",
+      "origin_region": "日本（福井県）",
+      "distinctive_characteristics": "大玉で、身が締まり、歯切れが良い。漬け加工に適している。",
+      "cultural_importance": "日本のラッキョウ漬けの代表的品種。",
+      "climate_adaptation": "日本の温帯気候に適応している。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主に日本の品種情報に基づく。"
+      },
+      "variety_name": "玉錦",
+      "local_name": "たまにしき",
+      "origin_region": "日本",
+      "distinctive_characteristics": "小玉で、分球数が多い。主にエシャロットとして若採りで利用される。",
+      "cultural_importance": "生食用としての価値が高い。",
+      "climate_adaptation": "日本の温帯気候に適応している。",
+      "conservation_status": "栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN-Global Taxonomy",
+      "Plants of the World Online (Kew)",
+      "民族植物学関連論文",
+      "各国の農業研究機関報告"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの応答",
+      "リジェネラティブ農業適性の定量的データ",
+      "自然交雑の可能性と近縁野生種の探索"
+    ],
+    "regional_data_coverage": "東アジアに偏っており、他の地域に関する情報は限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "中国、ベトナムにおける在来品種の詳細情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 7
+  }
+}

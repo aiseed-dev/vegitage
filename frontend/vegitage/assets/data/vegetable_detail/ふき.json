@@ -1,0 +1,558 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、日本の農林水産省のデータ、民族植物学的記録を統合。野生近縁種との詳細な遺伝的関係は研究途上。"
+    },
+    "primary_name": "Japanese Butterbur",
+    "scientific_name": "Petasites japonicus",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "花"
+    ],
+    "origin_region": "東アジア（日本、朝鮮半島、中国、サハリン）",
+    "wild_relatives": [
+      "Petasites hybridus",
+      "Petasites frigidus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジアでの名称は豊富だが、他の地域での認知度は低いため名称は限定的。アイヌ語の名称は歴史的記録に基づく。"
+    },
+    "international": {
+      "en": [
+        "Japanese Butterbur",
+        "Fuki",
+        "Giant butterbur",
+        "Sweet-coltsfoot"
+      ],
+      "scientific_common": "Petasites japonicus"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "フキ (蕗)",
+            "script": "漢字・カタカナ"
+          },
+          {
+            "lang": "ko",
+            "name": "머위",
+            "script": "ハングル"
+          },
+          {
+            "lang": "zh",
+            "name": "蜂斗菜",
+            "script": "繁体字"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アイヌ（日本）",
+        "name": "コロコニ (korkoni)",
+        "cultural_significance": "伝統的な食用植物であり、葉を雨具や物の包装に利用した。飢饉時の重要な食料源でもあった。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Daisy family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Butterbur",
+      "la": "Petasites"
+    },
+    "species": {
+      "en": "Japanese Butterbur",
+      "la": "japonicus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "giganteus (秋田蕗)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "日本における文化的価値に関する情報は豊富だが、他の地域での情報は限定的。文化的価値は東アジアに集中している。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（特に日本）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "季節の象徴"
+        ],
+        "traditional_uses": "春を告げる山菜として珍重される。葉柄は煮物や佃煮に、花蕾（ふきのとう）は天ぷらや味噌和え（ふき味噌）にして、特有の苦みと香りを楽しむ。",
+        "seasonal_significance": "早春の訪れを告げる食材として、季節感を表現する上で非常に重要。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（和食）",
+        "role": "common",
+        "traditional_dishes": [
+          "ふきの煮物 (Fuki no Nimono)",
+          "きゃらぶき (Kyarabuki)",
+          "ふき味噌 (Fuki-miso)"
+        ],
+        "preparation_methods": [
+          "煮る",
+          "炒める",
+          "揚げる",
+          "漬ける"
+        ],
+        "cultural_context": "精進料理や懐石料理において、季節感を表現するための重要な食材。春の苦みは冬の間に体に溜まった毒素を排出すると信じられている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本の平安時代の文献にも登場し、古くから食用・薬用として利用されてきた歴史がある。",
+      "trade_routes": "国際的な交易品としての役割はほとんどない。",
+      "cultural_exchange": "不明",
+      "domestication_history": "野生種から、より大きく苦みの少ない品種（愛知早生蕗など）が選抜され、栽培化が進んだ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には適さない。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "夏季の高温が成長を阻害する。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼で湿潤な半日陰の環境を好む。特に沢沿いや林床など。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冬期の低温に強く、積雪地帯でも生育可能。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な気候に適応するが、生育期間が短くなる。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋（株分け）",
+        "harvest_season": "春（花蕾）、晩春から初夏（葉柄）",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "水分供給",
+        "日照条件（半日陰）",
+        "土壌の有機物含有量",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約10,000トン（推定）",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": 99,
+          "characteristics": "愛知県、群馬県、大阪府が主要産地。ハウス栽培と露地栽培が行われている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価は利用可能だが、機能性成分に関する研究は主に欧州産の同属種に関するものが多い。ピロリジジンアルカロイドの含有と除去に関する注意が不可欠。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "14",
+        "protein_g": "0.9",
+        "carbs_g": "3.3",
+        "fat_g": "0.1",
+        "fiber_g": "2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "330mg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "63µg",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ペタシン、フキノン",
+        "concentration": "不明",
+        "health_effect": "抗アレルギー作用、抗炎症作用の可能性が示唆されている。"
+      },
+      {
+        "compound": "ピロリジジンアルカロイド (PAs)",
+        "concentration": "品種や部位により変動",
+        "health_effect": "肝毒性、発がん性のリスクがある。伝統的なアク抜き処理で低減される。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "伝統的民間療法（日本）、中医学",
+        "uses": [
+          "鎮咳",
+          "去痰",
+          "解毒"
+        ],
+        "preparation": "乾燥させた根茎や花蕾を煎じて使用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "抗アレルギー作用",
+        "抗炎症作用",
+        "偏頭痛緩和効果（同属のP. hybridusで研究が進んでいる）"
+      ],
+      "safety_considerations": "ピロリジジンアルカロイドを含有するため、生食は危険。伝統的なアク抜き（茹でこぼし等）が必須。アク抜き済みの市販品や、PAを含まないように改良された製品（主にサプリメント）以外は注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主に日本料理における利用法に関する情報は豊富に存在する。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "煮る (Simmering)",
+          "漬ける (Pickling)",
+          "炒める (Sautéing)",
+          "揚げる (Deep-frying)"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "油揚げ",
+          "鶏肉",
+          "味噌",
+          "醤油",
+          "みりん"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "アク抜き (Aku-nuki)",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "調理前処理",
+        "quality_changes": "苦みやえぐみが抜け、色が鮮やかになる。有害なアルカロイドを低減させる効果がある。"
+      },
+      {
+        "method": "佃煮 (Tsukudani)",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "醤油と砂糖で濃く煮詰めることで長期保存が可能になる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "独特の苦み、ほのかな甘み、土のような香り（アーシー）",
+      "aroma_compounds": [
+        "フキノン"
+      ],
+      "texture_characteristics": "シャキシャキとした歯ごたえ"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "フキに特化した気候変動適応研究はほぼ存在しない。以下の評価は、本種の生態的特性（冷涼湿潤な環境を好む）からの定性的推論である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-15°C以下（根茎）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "1200mm以上"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が大きく風で倒れやすいが、地下茎で再生するため個体群の耐性は中程度。",
+      "hail_damage_recovery": "葉の損傷は大きいが、根茎からの再生能力は高い。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により南方系の病害虫の北上が脅威となる可能性がある。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "日本の冷温帯・中間温帯",
+        "2050_projection": "栽培適地がより高緯度・高標高へ移動する可能性が高い。",
+        "2100_projection": "西南日本の平野部では栽培が困難になる可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "フキの自然交雑に関する体系的な研究は少ない。栽培品種と野生集団が近いため、遺伝子流動のポテンシャルは高いと推測される。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種と野生集団との間での交雑は容易に起こる。"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種との自然交雑の記録は限定的。"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "不明"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "日本各地に在来品種や特有の野生系統が存在し、多様性は比較的に高い。",
+      "wild_gene_pool": "栽培品種は野生集団から直接的に選抜されたものが多く、遺伝的距離が近い。",
+      "adaptive_genetic_variation": "広い緯度範囲に分布していることから、光周期や温度に対する適応的な遺伝変異が存在すると考えられる。",
+      "inbreeding_depression_risk": "栄養繁殖が主であるため、特定の集団では遺伝的多様性が低下している可能性がある。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "高地の耐寒性系統や、より日陰を好む系統との交雑により、環境ストレス耐性を向上させる可能性がある。",
+      "improved_nutritional_content": "ピロリジジンアルカロイド低含有の野生系統との交雑による安全性向上の可能性がある。",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈でフキを評価した研究はない。以下の評価は、多年草としての生態的特性からの類推である。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がる地下茎（根茎）を持つ。",
+      "organic_matter_contribution": "大きな葉が枯死後に分解され、土壌有機物を豊富に供給する。",
+      "soil_structure_improvement": "根茎が土壌を保持し、団粒構造の形成を助ける可能性がある。",
+      "erosion_control": "地表を密に覆うため、特に傾斜地や水辺での土壌侵食防止効果が高い。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "早春に開花し、活動を開始したばかりのハナアブやハチ類などの花粉媒介者にとって貴重な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "大きな葉の下は、カエルや昆虫などの多様な小動物のシェルターとなる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "葉が雨滴の衝撃を和らげ、根茎が土壌を保持するため、水の浸透を促進する。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "高い被覆度により、地表流出を大幅に削減する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年草であり、広範な根茎系を持つため、地下部への炭素蓄積ポテンシャルは高い。",
+      "soil_carbon_enhancement": "有機物供給により土壌炭素の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "森林農法（アグロフォレストリー）において、樹木の下層植生として利用可能。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の成長を抑制するアレロパシー効果を持つ可能性が指摘されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "不耕起栽培が可能な多年草であるため、土壌生態系を安定させる。",
+      "stress_tolerance": "一度定着すれば、根茎により再生するため回復力が高い。",
+      "recovery_capacity": "高い",
+      "adaptability": "中"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的な価値は主に食文化とニッチ市場に集中している。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "伝統的な植物性食品として、食の多様性に貢献する。",
+      "food_security_contribution": "限定的だが、耕作不適地（湿潤な林床など）を活用できる可能性がある。",
+      "local_food_system_integration": "「山菜」として地域の食料システムや直売所と親和性が高い。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "日本食レストランの世界的普及に伴う需要増",
+        "ユニークな風味を持つ野菜として、西洋料理での新しい利用法の開発"
+      ],
+      "value_added_products": [
+        "ピクルス、佃煮などの加工品",
+        "フリーズドライ製品",
+        "安全性が確保された機能性食品・サプリメント（PAフリー）"
+      ],
+      "niche_market_value": "春の季節感を象徴する高級食材としての価値が高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としての絶滅リスクは低いが、地域固有の在来品種や食文化の消失リスクは存在する。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "生育地である湿潤な里山の減少が脅威となる。",
+    "climate_change_vulnerability": "高い。温暖化による生育適地の減少が懸念される。",
+    "cultural_erosion_risk": "高い。食生活の変化やアク抜きの知識を持つ世代の高齢化により、伝統的利用が失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来品種の遺伝資源としての収集・保存",
+      "伝統的な利用法に関する知識の記録と継承",
+      "生育環境である里山の保全"
+    ],
+    "priority_conservation_regions": [
+      "日本各地の山間部"
+    ],
+    "ex_situ_conservation_status": "一部の農業試験場や植物園で系統が保存されている。",
+    "in_situ_conservation_efforts": "里山保全活動の中で間接的に保全されている例がある。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 5,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "日本"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する生理学的応答の定量的データ",
+      "ピロリジジンアルカロイドの含有量に関する品種・地域変異",
+      "リジェネラティブ農業システムにおける具体的な効果測定"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の主要な栽培品種に関する情報。"
+      },
+      "variety_name": "愛知早生蕗 (Aichi-wase-buki)",
+      "local_name": "愛知早生蕗",
+      "origin_region": "愛知県、日本",
+      "distinctive_characteristics": "葉柄が長く、緑色が鮮やかで香りが良い。苦みが少なく、早生で収量性が高い。",
+      "cultural_importance": "日本で最も広く栽培されている代表的な品種。",
+      "climate_adaptation": "比較的温暖な地域でのハウス栽培に適応している。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の伝統的な巨大品種に関する情報。"
+      },
+      "variety_name": "秋田蕗 (Akita-buki)",
+      "local_name": "秋田蕗",
+      "origin_region": "秋田県、日本",
+      "distinctive_characteristics": "葉柄が直径10cm、高さ2mにも達する巨大な品種。水分が多く、食感は柔らかい。",
+      "cultural_importance": "秋田県の伝統野菜。傘の代わりにもなるほどの大きさで知られ、地域の象徴的存在。",
+      "climate_adaptation": "冷涼で多雪な気候に適応している。",
+      "conservation_status": "地域限定で栽培・保全"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Plants of the World Online",
+      "Japanese ethnobotanical records",
+      "日本の農林水産省統計データ",
+      "Scientific literature on Petasites genus"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "日本国外での栽培・利用実態"
+    ],
+    "regional_data_coverage": "日本に極めて偏っている。",
+    "missing_information": [
+      "収量に関する具体的な数値",
+      "国際的な貿易データ",
+      "同属他種との交雑親和性に関する詳細"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

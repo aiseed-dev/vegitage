@@ -1,0 +1,509 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本情報は主要な植物学データベース（KEW, GBIF）から統合。しかし、栽培や利用に関する詳細な学術文献は非常に限定的。"
+    },
+    "primary_name": "Galo Nut",
+    "scientific_name": "Anacolosa frutescens",
+    "plant_type": "木本",
+    "edible_parts": [
+      "果実",
+      "種子"
+    ],
+    "origin_region": "東南アジア（フィリピン、マレーシア、インドネシアなど）",
+    "wild_relatives": [
+      "Anacolosa属の他種"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "フィリピンやマレーシアでの現地名は確認できるが、先住民コミュニティ固有の名称に関する体系的な記録は乏しい。"
+    },
+    "international": {
+      "en": [
+        "Galo Nut",
+        "Galonut"
+      ],
+      "scientific_common": "Anacolosa frutescens"
+    },
+    "regional": [
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "tl",
+            "name": "Galo",
+            "script": "Latin"
+          },
+          {
+            "lang": "tl",
+            "name": "Aluloy",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Galoh",
+            "script": "Latin"
+          },
+          {
+            "lang": "ms",
+            "name": "Kayu bawang",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "フィリピンの山岳民族（例：アエタ族）",
+        "name": "不明",
+        "cultural_significance": "伝統的な森林採集食料の一つとして利用されてきた可能性が高いが、具体的な名称や儀礼的利用に関する記録は乏しい。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物分類学的情報は国際的なデータベースで確立されている。"
+    },
+    "family": {
+      "en": "Olax family",
+      "la": "Olacaceae"
+    },
+    "genus": {
+      "en": "Anacolosa",
+      "la": "Anacolosa"
+    },
+    "species": {
+      "en": "不明",
+      "la": "frutescens"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "民族植物学的な記録は散在しているが、文化的重要性を体系的に評価した研究はほぼ存在しない。情報は主に口承や地域の逸話に基づく。"
+    },
+    "world_prevalence": "極限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "フィリピン",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "主に森林で採集され、ナッツを茹でるか炒るかして食用にする。地域の市場で少量取引されることがある。油を抽出して利用する地域もある。",
+        "seasonal_significance": "特定の季節に採集される重要な森林資源だが、儀式的な重要性は報告されていない。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フィリピン郷土料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "茹でガロ（Boiled Galo）",
+          "炒りガロ（Roasted Galo）"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒る"
+        ],
+        "cultural_context": "主食ではなく、おやつや料理の付け合わせとして利用される。商業作物への転換や森林減少により、その利用は減少傾向にある。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "有史以前から地域の先住民によって採集・利用されてきたと推測されるが、考古学的な証拠は乏しい。",
+      "trade_routes": "国際的、あるいは広域的な交易品としての歴史的役割は確認されていない。",
+      "cultural_exchange": "不明",
+      "domestication_history": "明確な栽培化の歴史はなく、主に野生採集または半野生状態での利用に留まる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて高温多湿な熱帯雨林気候。明確な乾季がない、または短い地域。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      },
+      "temperate": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不明"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "（多年生樹木のため、特定の播種時期はない）",
+        "harvest_season": "地域によって異なるが、一般的に雨季の後半から乾季の初めにかけて結実する。",
+        "growing_period_days": "不明（実生から結実まで数年を要する）"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（商業的なプランテーションが存在しないため、収量データはない）",
+      "factors_affecting_yield": [
+        "森林の健全性",
+        "受粉成功率",
+        "気象条件（台風など）",
+        "採集圧"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（公式な統計は存在しない）",
+      "major_producers": [
+        {
+          "country": "フィリピン",
+          "production_share": "不明",
+          "characteristics": "商業生産ではなく、主に地域住民による野生採集。"
+        },
+        {
+          "country": "マレーシア",
+          "production_share": "不明",
+          "characteristics": "商業生産ではなく、主に地域住民による野生採集。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "栄養成分に関する断片的な報告はあるが、標準化された分析データは非常に少ない。機能性成分に関する研究はほぼ皆無。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明（ナッツであるため脂質は豊富と推測される）",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [],
+      "bioactive_compounds": [],
+      "traditional_medicinal_uses": [
+        {
+          "region": "東南アジア",
+          "medical_system": "民間療法",
+          "uses": [
+            "皮膚疾患の治療（オイルとして）"
+          ],
+          "preparation": "種子から油を抽出し、外用薬として塗布する。"
+        }
+      ],
+      "modern_research": {
+        "proven_benefits": [],
+        "ongoing_research": [],
+        "safety_considerations": "不明"
+      }
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "調理法は地域の口承伝承が主。風味に関する記述はあるが、化学的な分析は行われていない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "フィリピン",
+        "methods": [
+          "茹でる",
+          "炒る",
+          "蒸す"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "砂糖",
+          "ココナッツ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "天日干し",
+        "regions": [
+          "東南アジア全般"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "水分が減少し、保存性が高まる。風味が凝縮される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "栗や茹でたサツマイモに似た、甘くナッティな風味。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "茹でるとホクホクとした食感、炒るとカリッとした食感。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種に特化した気候変動適応研究は存在しない。以下の評価は、その自生地である熱帯雨林の一般的特性からの推測に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "22-32°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "低（霜害に非常に弱い）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "1500-2500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（森林内の樹木としてある程度の耐風性を持つが、大型の台風には脆弱）",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "低"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般の樹木同様、ある程度の効果は期待される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明",
+      "disease_resistance_stability": "不明（野生種であるため、地域の病害虫には一定の耐性を持つと推測される）",
+      "beneficial_organism_relationships": "不明（地域の受粉昆虫や菌根菌との共生関係が重要と推測）"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東南アジアの低地熱帯雨林",
+        "2050_projection": "生息地の断片化と乾燥化により適地が縮小する可能性が高い",
+        "2100_projection": "さらなる縮小と、標高の高い地域への移動圧力がかかると予測される",
+        "confidence_level": "低（一般モデルからの類推）"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "none",
+      "confidence_level": "low",
+      "source_comment": "本種の交雑に関する遺伝学的研究や育種記録は存在しない。評価は属の一般的特性からの理論的な推測。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "不明"
+      ],
+      "interspecific_compatibility": [
+        "同属の他種と交雑可能かは不明"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培品種は存在しないが、地域個体群間に遺伝的多様性が存在すると推測される。",
+      "wild_gene_pool": "現在の利用は全て野生遺伝子プールに依存している。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "生息地の断片化によりリスク増大の可能性"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 2
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種を用いたリジェネラティブ農業の実践例はない。評価は、アグロフォレストリーシステムにおける多年生樹木の一般的役割からのポテンシャル評価。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深根性であると推測され、土壌深層からの養分吸収と土壌構造の安定に貢献する可能性がある。",
+      "organic_matter_contribution": "落葉により土壌に有機物を供給する。",
+      "soil_structure_improvement": "根系が土壌の団粒構造を促進する可能性がある。",
+      "erosion_control": "樹冠が雨滴を緩和し、根が土壌を保持するため、侵食防止効果が高い。",
+      "nutrient_cycling_role": "深層の養分を地表に還元する役割（ニュートリエントポンプ）を持つ可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花が地域の昆虫に蜜や花粉を提供する。",
+      "beneficial_insect_habitat": "地域の昆虫や鳥類の生息地となる。",
+      "soil_microorganism_interaction": "菌根菌との共生関係を通じて土壌微生物叢を豊かにする可能性がある。",
+      "above_ground_biodiversity": "立体的な構造を提供し、多様な生物のニッチとなる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌の浸透能を改善する。",
+      "moisture_retention": "樹冠が蒸発を抑制し、有機物供給が土壌の保水性を高める。",
+      "runoff_reduction": "高い侵食防止効果により、地表流出を削減する。",
+      "groundwater_recharge": "浸透改善により地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "樹木として幹や枝に炭素を固定する。",
+      "below_ground_carbon": "根系に炭素を蓄積する。",
+      "soil_carbon_enhancement": "有機物供給を通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "カカオ、コーヒー、アバカなど、他のシェードガーデン作物の混植に適している可能性がある。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生樹木として、農業生態系の安定性に貢献するポテンシャルを持つ。",
+      "stress_tolerance": "不明",
+      "recovery_capacity": "不明",
+      "adaptability": "不明"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "現代的な利用は非常に限定的であり、ほとんどがポテンシャルの議論に留まる。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "未利用のナッツ資源として、植物性タンパク質・脂質源となる可能性がある。",
+      "food_security_contribution": "地域の食料安全保障、特に森林に依存するコミュニティの栄養改善に貢献する可能性がある。",
+      "local_food_system_integration": "アグロフォレストリーやフードフォレストに組み込むことで、地域の食料システムを多様化させる可能性がある。",
+      "alternative_protein_potential": "不明"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "フェアトレード市場",
+        "エキゾチックフード市場",
+        "サステナブル食材を求める高級レストラン"
+      ],
+      "value_added_products": [
+        "ナッツオイル",
+        "ローストナッツ",
+        "製菓材料"
+      ],
+      "niche_market_value": "「失われた作物」や「森の恵み」としてのストーリー性を持つため、ニッチ市場での価値は高い可能性がある。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストでの評価はないが、自生地の森林減少が深刻であることから脅威度は高いと推測される。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "熱帯雨林の伐採、農地転換が最大の脅威。",
+    "climate_change_vulnerability": "高い（特定の気候帯に依存するため）",
+    "cultural_erosion_risk": "高（伝統的な食文化の継承が途絶えるリスク）",
+    "conservation_actions_needed": [
+      "自生地の保全（In-situ conservation）",
+      "遺伝資源の収集と保存（Ex-situ conservation、種子バンク）",
+      "持続可能な利用法の確立と地域コミュニティへの経済的インセンティブ付与",
+      "民族植物学的調査と知識の記録"
+    ],
+    "priority_conservation_regions": [
+      "フィリピンのシエラマドレ山脈",
+      "ボルネオ島の低地熱帯雨林"
+    ],
+    "ex_situ_conservation_status": "不明（主要な植物園や種子バンクでの体系的な保存は行われていない可能性が高い）",
+    "in_situ_conservation_efforts": "保護区設定など一般的な森林保全活動に含まれるが、本種を特に対象とした活動は報告されていない。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "専門家としての総合的評価。データ不足を考慮しつつ、その潜在性と危機的状況を評価した。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "フィリピン（ルソン島、パラワン島）",
+      "マレーシア（サラワク州）"
+    ],
+    "knowledge_gaps": [
+      "栄養成分と機能性",
+      "栽培技術と生理生態",
+      "遺伝的多様性の評価",
+      "気候変動に対する具体的な応答"
+    ],
+    "global_dictionary_compatibility": 8
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "none",
+        "confidence_level": "low",
+        "source_comment": "本種には商業的な品種や伝統的な在来品種は存在しない。以下は野生種の代表的な形質を記述したものである。"
+      },
+      "variety_name": "野生種 (Wild Type)",
+      "local_name": "Galo / Aluloy",
+      "origin_region": "東南アジア",
+      "distinctive_characteristics": "熱帯雨林に自生する小高木。果実は緑色から黄色に熟し、中に硬い殻を持つ種子（ナッツ）が1つ含まれる。",
+      "cultural_importance": "地域の森林採集民にとって伝統的な食料源。",
+      "climate_adaptation": "高温多湿な熱帯雨林気候に特化している。",
+      "conservation_status": "未評価だが、生息地の破壊により危機に瀕していると推測される。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "低",
+    "primary_sources": [
+      "KEW Plants of the World Online",
+      "Global Biodiversity Information Facility (GBIF)",
+      "Philippine medicinal plants database",
+      "Ethnobotanical survey reports (fragmentary)"
+    ],
+    "major_knowledge_gaps": [
+      "定量的な栽培データ",
+      "詳細な栄養分析",
+      "気候変動に対する生理的応答の実験データ",
+      "遺伝資源の評価"
+    ],
+    "regional_data_coverage": "東南アジアに極端に偏っており、その他の地域に関する情報はない。",
+    "missing_information": [
+      "収量性",
+      "交雑親和性",
+      "ほとんどの定量的データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 5
+  }
+}

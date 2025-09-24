@@ -1,0 +1,848 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、FAOSTAT、および民族植物学の文献からの情報を統合。野生近縁種との詳細な遺伝的関係については研究が進行中。"
+    },
+    "primary_name": "Eggplant",
+    "scientific_name": "Solanum melongena",
+    "plant_type": "多年草（温帯では一年草として栽培）",
+    "edible_parts": [
+      "果実"
+    ],
+    "origin_region": "南アジア・東南アジア（特にインド・ビルマ地域）",
+    "wild_relatives": [
+      "Solanum incanum",
+      "Solanum linnaeanum",
+      "Solanum insanum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の料理書、言語データベース、植物名辞典から収集。先住民コミュニティ固有の名称は網羅的ではない。"
+    },
+    "international": {
+      "en": [
+        "Eggplant",
+        "Aubergine",
+        "Brinjal"
+      ],
+      "scientific_common": "Melongene"
+    },
+    "regional": [
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "बैंगन",
+            "script": "Devanagari"
+          },
+          {
+            "lang": "bn",
+            "name": "বেগুন",
+            "script": "Bengali"
+          },
+          {
+            "lang": "ta",
+            "name": "கத்தரிக்காய்",
+            "script": "Tamil"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "茄子",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "ナス",
+            "script": "Katakana"
+          },
+          {
+            "lang": "ko",
+            "name": "가지",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "th",
+            "name": "มะเขือ",
+            "script": "Thai"
+          },
+          {
+            "lang": "id",
+            "name": "Terong",
+            "script": "Latin"
+          },
+          {
+            "lang": "vi",
+            "name": "Cà tím",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東・地中海地域",
+        "languages": [
+          {
+            "lang": "tr",
+            "name": "Patlıcan",
+            "script": "Latin"
+          },
+          {
+            "lang": "ar",
+            "name": "باذنجان",
+            "script": "Arabic"
+          },
+          {
+            "lang": "fa",
+            "name": "بادمجان",
+            "script": "Perso-Arabic"
+          },
+          {
+            "lang": "it",
+            "name": "Melanzana",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Berenjena",
+            "script": "Latin"
+          },
+          {
+            "lang": "el",
+            "name": "Μελιτζάνα",
+            "script": "Greek"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明（南アジアの多様な民族グループ）",
+        "name": "多数の地域名・部族名が存在",
+        "cultural_significance": "原産地であるため、各コミュニティで独自の品種が維持され、食文化や伝統儀式に深く根付いている。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "統合分類学情報システム（ITIS）およびAPG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Nightshade",
+      "la": "Solanaceae"
+    },
+    "genus": {
+      "en": "Nightshade",
+      "la": "Solanum"
+    },
+    "species": {
+      "en": "Eggplant",
+      "la": "S. melongena"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "食文化史、民族植物学、地域研究の文献から広範な情報を統合。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "主食（一部料理で）",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "カレー、炒め物、焼き物（Bharta）、漬物など、日常食に不可欠。アーユルヴェーダで薬用利用される。",
+        "seasonal_significance": "主に夏からモンスーン期にかけての重要な野菜。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "中東・地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "前菜",
+          "経済作物"
+        ],
+        "traditional_uses": "ムサカ、ババガヌーシュ、ラタトゥイユなど象徴的な料理に使用。オリーブオイルとの相性が重視される。",
+        "seasonal_significance": "夏の食卓を代表する食材。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "漬物"
+        ],
+        "traditional_uses": "炒め物、煮物、焼き物、漬物として広く利用。特に日本では夏の野菜として親しまれる。",
+        "seasonal_significance": "夏野菜の代表格。お盆のお供え物としても利用される。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "香辛料（一部品種）"
+        ],
+        "traditional_uses": "グリーンカレーなどの煮込み料理に不可欠。サンバル（唐辛子ソース）の具材としても多用される。",
+        "seasonal_significance": "通年栽培されるが、雨季に最も豊富。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "インド料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Baingan Bharta",
+          "Sambar",
+          "Gutti Vankaya Kura"
+        ],
+        "preparation_methods": [
+          "焼く",
+          "炒める",
+          "煮込む",
+          "揚げる"
+        ],
+        "cultural_context": "地域やカーストによって数百の調理法が存在する、最も一般的な野菜の一つ。"
+      },
+      {
+        "cuisine": "地中海料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Moussaka",
+          "Ratatouille",
+          "Parmigiana di melanzane",
+          "Baba ghanoush"
+        ],
+        "preparation_methods": [
+          "焼く",
+          "揚げる",
+          "煮込む",
+          "ペーストにする"
+        ],
+        "cultural_context": "夏の野菜の象徴であり、肉の代用品としても利用される歴史を持つ。"
+      },
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "焼きなす",
+          "麻婆茄子（中華由来）",
+          "なすの揚げ浸し",
+          "柴漬け"
+        ],
+        "preparation_methods": [
+          "焼く",
+          "揚げる",
+          "煮る",
+          "漬ける"
+        ],
+        "cultural_context": "体を冷やす効果があるとされ、夏の食卓に欠かせない。地域固有の多様な品種が存在する。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "紀元前5世紀にはインドで栽培されていた記録がある。古代中国の文献にも記述が見られる。",
+      "trade_routes": "アラブ商人によってペルシャから中東、アフリカ、そしてムーア人を通じてスペインへと伝播した。",
+      "cultural_exchange": "イスラム文化圏の拡大とともに、その食文化が地中海世界に広まる上で重要な役割を果たした。",
+      "domestication_history": "インド亜大陸で野生種から栽培化されたと考えられており、その後、中国で第二の多様化が起きたとされる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高温多湿を好むが、過湿による病害に注意が必要。短日条件で着果が促進される品種が多い。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "栽培に最も適した気候帯。生育適温は22-30℃。長い栽培期間と高い収量が見込める。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "夏の作物として栽培可能。霜に非常に弱いため、晩霜の危険がなくなってから定植する。ビニールハウス栽培も一般的。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、夏の高温も不足するため、露地栽培は困難。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必須。乾燥はハダニの発生を助長するが、湿度が低いため病気は少ない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため栽培は不可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年（雨季の過湿を避ける）",
+        "harvest_season": "通年",
+        "growing_period_days": 90
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "早春・秋",
+        "harvest_season": "初夏・冬",
+        "growing_period_days": 100
+      },
+      {
+        "climate_zone": "温帯",
+        "planting_season": "晩春",
+        "harvest_season": "夏から初秋",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 90,000 kg/ha",
+      "factors_affecting_yield": [
+        "品種",
+        "温度",
+        "日照時間",
+        "水管理",
+        "土壌肥沃度",
+        "病害虫管理"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "約5930万トン (2022年, FAOSTAT)",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": 64,
+          "characteristics": "世界最大の生産国であり消費国。多様な品種が国内市場向けに生産されている。"
+        },
+        {
+          "country": "インド",
+          "production_share": 22,
+          "characteristics": "原産地の一つであり、生産量世界第2位。小規模農家による生産が主体で、国内消費がほとんど。"
+        },
+        {
+          "country": "エジプト",
+          "production_share": 2,
+          "characteristics": "中東・アフリカ地域における主要な生産国。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": 1.5,
+          "characteristics": "地中海料理文化圏の主要供給国であり、多様な伝統料理に利用される。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データはUSDA FoodData Central等から入手可能だが、品種や調理法による変動が大きい。機能性成分に関する研究は主に皮に含まれるアントシアニンに集中している。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "25",
+        "protein_g": "1",
+        "carbs_g": "6",
+        "fat_g": "0.2",
+        "fiber_g": "3"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "マンガン",
+          "amount": "0.2mg",
+          "daily_value_percent": 10
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "229mg",
+          "daily_value_percent": 5
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "3.5µg",
+          "daily_value_percent": 3
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "22µg",
+          "daily_value_percent": 5
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ナスニン（アントシアニンの一種）",
+        "concentration": "皮に高濃度で含有",
+        "health_effect": "強力な抗酸化作用、鉄キレート作用、抗炎症作用。"
+      },
+      {
+        "compound": "クロロゲン酸",
+        "concentration": "果肉に含有",
+        "health_effect": "抗酸化作用、抗ウイルス作用、血糖値上昇抑制効果の可能性。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "消化促進",
+          "神経系の鎮静",
+          "利尿作用",
+          "血糖コントロール"
+        ],
+        "preparation": "調理した果実、根の煎じ薬など。"
+      },
+      {
+        "region": "中国",
+        "medical_system": "中医学",
+        "uses": [
+          "解熱",
+          "止血",
+          "鎮痛",
+          "デトックス"
+        ],
+        "preparation": "調理した果実、ヘタの粉末など。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用による細胞保護"
+      ],
+      "ongoing_research": [
+        "心血管疾患リスクの低減",
+        "認知機能の改善",
+        "抗がん作用",
+        "血糖管理"
+      ],
+      "safety_considerations": "ナス科アレルギーを持つ人は注意が必要。シュウ酸を含むため、腎臓結石のリスクがある人は過剰摂取を避けるべき。アルカロイド（ソラニン）を含むが、通常の食用量では問題ない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界の料理データベースと食文化研究に基づき、広範な利用法をまとめた。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海・中東",
+        "methods": [
+          "焼く",
+          "グリル",
+          "揚げる",
+          "煮込む",
+          "詰物をする"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "オリーブオイル",
+          "トマト",
+          "ニンニク",
+          "タヒニ",
+          "羊肉"
+        ]
+      },
+      {
+        "region": "南アジア・東南アジア",
+        "methods": [
+          "炒める",
+          "煮込む（カレー）",
+          "マッシュする",
+          "揚げる"
+        ],
+        "flavor_role": "副味（スパイスの味を吸収する）",
+        "typical_combinations": [
+          "ココナッツミルク",
+          "タマリンド",
+          "各種スパイス",
+          "唐辛子"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒める",
+          "揚げる（天ぷら）",
+          "煮る",
+          "漬ける"
+        ],
+        "flavor_role": "副味（調味料の味を吸収する）",
+        "typical_combinations": [
+          "味噌",
+          "醤油",
+          "油",
+          "生姜"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "漬物",
+        "regions": [
+          "日本",
+          "インド",
+          "中東"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "食感が変化し、発酵による酸味や旨味が付加される。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "トルコ",
+          "イタリア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "水分が抜け、風味が凝縮される。水で戻して煮込み料理などに使用。"
+      },
+      {
+        "method": "ピュレ・ペースト化",
+        "regions": [
+          "中東",
+          "ギリシャ"
+        ],
+        "shelf_life": "冷凍で数ヶ月",
+        "quality_changes": "焼いてからペーストにすることで、燻製のような香ばしい風味が加わる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "淡白でわずかに苦味がある。加熱すると甘みと旨味が増す。スポンジ状の果肉が油や調味料をよく吸収する。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "生ではスポンジ状。加熱するとクリーミーで柔らかくなる。品種によって固さや種子の多さが異なる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述や品種比較研究は存在するが、気候変動モデルと連動した定量的な予測データは少ない。野生近縁種の特性からのポテンシャル推定を含む。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "22-30°C",
+      "extreme_heat_survival": "35℃以上が続くと花が落ち、受粉不良が起こる。品種による差が大きい。",
+      "cold_tolerance": "10℃以下で生育が停止。霜に非常に弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "比較的深い根系を持つため、ある程度の乾燥には耐えるが、果実の肥大には安定した水分が必要。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "生育期に週25-40mm相当の水分が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が比較的もろく、強風で折れやすい。果実も傷つきやすい。",
+      "hail_damage_recovery": "葉や茎の損傷からの回復力は中程度だが、果実へのダメージは致命的。",
+      "rapid_temperature_change": "急激な温度変化は生育ストレスとなり、落花の原因となる。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度の増収効果が期待されるが、高温ストレスがそれを相殺する可能性がある。",
+      "ozone_sensitivity": "中程度の感受性を持つとされる。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アザミウマ、ハダニ、コナジラミなどの害虫の発生期間が長期化し、被害が増加する懸念がある。",
+      "disease_resistance_stability": "高温多湿は、青枯病や半身萎凋病などの土壌伝染性病害の発生を助長する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯、亜熱帯、温帯の夏期",
+        "2050_projection": "温帯での栽培可能期間は延長する可能性があるが、現在の亜熱帯・熱帯地域では高温ストレスによる収量低下のリスクが増大。",
+        "2100_projection": "栽培適地が全体的に高緯度・高地側へシフトする可能性が高い。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "育種学的な交雑親和性に関するデータは豊富だが、自然環境下での交雑頻度や適応進化に関する研究は限定的。野生近縁種との遺伝子流動の可能性に焦点を当てる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "S. melongenaの全栽培品種・在来種間で容易に交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Solanum incanum",
+        "Solanum insanum",
+        "Solanum aethiopicum（アフリカンエッグプラント）",
+        "Solanum macrocarpon"
+      ],
+      "intergeneric_possibility": [
+        "なし"
+      ],
+      "successful_natural_hybrids": [
+        "栽培地周辺で野生種との自然交雑が報告されているが、頻度は高くない。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地である南アジアを中心に、形状、色、大きさ、耐病性などに関して極めて高い多様性が存在する。",
+      "wild_gene_pool": "S. incanumやS. insanumなどの野生近縁種は、耐乾性、耐病性などの有用な遺伝子の宝庫である。",
+      "adaptive_genetic_variation": "各地域の在来種は、その土地の気候や病害虫に適応した遺伝的特性を持つ。",
+      "inbreeding_depression_risk": "自家受粉性だが、他家受粉も起こる。商業的育種における近交弱勢のリスクは存在する。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "インド・デカン高原",
+        "environmental_pressure": "高温、乾燥、特定の土壌病害",
+        "adaptive_response": "深く発達した根系、厚いクチクラ層を持つ葉、特定の病害への抵抗性を持つ在来種の分化。",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "地域農家による世代を超えた種子選抜と、周辺の野生種との偶発的な遺伝子流動。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性、耐暑性、耐塩性を大幅に向上させる可能性が高い。",
+      "improved_nutritional_content": "他のSolanum種から機能性成分（抗酸化物質など）を導入できる可能性がある。",
+      "novel_characteristics": "新しい色、形、風味を持つ品種の創出。",
+      "hybrid_vigor_potential": "遠縁の在来種間や種間交雑により、強健性や収量性が向上する雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "栽培種と一部の野生種との間には、受精後の胚発生が失敗するなどの交雑障壁が存在する。",
+      "chromosome_compatibility": "主要な近縁種とは染色体数が同じ（2n=24）であり、交雑は比較的容易。",
+      "fertility_of_hybrids": "多くの種間雑種は稔性を持つが、一部組み合わせでは稔性が低下する。",
+      "backcrossing_success": "戻し交配は育種において一般的に用いられ、成功率は高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "干ばつ",
+        "adaptive_traits": "深根性、気孔の開閉制御能力",
+        "heritability": "中程度",
+        "response_to_selection": "数世代で乾燥に適応した個体群が形成される可能性がある。"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "ナスに特化したリジェネラティブ農業の研究は非常に少ない。一般的なナス科植物の特性や、伝統的な混植栽培の事例からの類推が主となる。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的深い主根と、広く張る側根を持ち、土壌の団粒構造形成に寄与する可能性がある。",
+      "organic_matter_contribution": "収穫後の残渣は豊富で、土壌有機物の供給源となる。",
+      "soil_structure_improvement": "根が土壌孔隙を作り、通気性や排水性を改善する可能性がある。",
+      "erosion_control": "生育旺盛な時期には広い葉がキャノピーを形成し、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "深根性により、表層から流亡した養分を深層から吸い上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチやマルハナバチなど、多くの訪花昆虫にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "テントウムシや寄生蜂などの天敵昆虫に隠れ家を提供する。",
+      "soil_microorganism_interaction": "根圏微生物との相互作用については不明な点が多いが、AM菌との共生が報告されている。",
+      "above_ground_biodiversity": "ポリカルチャーシステムにおいて、多様な生物の生息空間を提供する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系の活動が土壌の浸透能を改善する可能性がある。",
+      "moisture_retention": "地上部のマルチ効果により、土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "キャノピーが地表への雨の直撃を和らげ、表面流出を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。大きな個体は相当量のバイオマスを形成する。",
+      "below_ground_carbon": "根系のバイオマスが土壌炭素貯留に貢献するが、その量は不明。",
+      "soil_carbon_enhancement": "残渣のすき込みにより、土壌炭素を増加させる可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）",
+        "マリーゴールド（ネマトーダ忌避）",
+        "ハーブ類（ミント、バジルなど、害虫忌避）"
+      ],
+      "natural_pest_control": "コンパニオンプランツとの組み合わせで、害虫の天敵を誘引する。",
+      "nutrient_sharing": "マメ科との混植で窒素の供給を受ける。",
+      "allelopathic_interactions": "クルミなどアレロパシーの強い植物の近くでは生育が阻害される。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多様な作物との輪作や間作に組み込むことで、生態系の安定性に貢献する。",
+      "stress_tolerance": "単作に比べ、多様な生態系内では病害虫や気候ストレスへの耐性が向上する可能性がある。",
+      "recovery_capacity": "不明",
+      "adaptability": "在来種の多様性を活用することで、さまざまな環境に適応したシステムを構築できる。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド分析、食品科学、および持続可能な食料システムに関する報告書に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "肉のような食感を持つため、ベジタリアンやヴィーガン料理で肉の代替として中心的な役割を担う。",
+      "food_security_contribution": "比較的栽培が容易で、多様な気候に適応するため、世界中の小規模農家の収入源と食料源となっている。",
+      "local_food_system_integration": "新鮮さが味に大きく影響するため、地産地消に適しており、ファーマーズマーケットなどで人気が高い。",
+      "alternative_protein_potential": "タンパク質含有量は低いが、他の植物性タンパク質源と組み合わせて料理のかさ増しや食感の向上に貢献する。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ユニークな色や形のヘアルーム品種（伝統品種）への関心の高まり。",
+        "植物由来食品市場の拡大に伴う、加工品（バーガーパティ、ミートボール等）の原料としての需要増。"
+      ],
+      "value_added_products": [
+        "ナスのディップ（ババガヌーシュ等）",
+        "漬物",
+        "冷凍加工品（グリルナス、パルミジャーナ等）",
+        "スナック菓子（ナスチップス）"
+      ],
+      "niche_market_value": "オーガニック栽培や、特定の料理（タイカレー用など）に特化した品種は高い付加価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "国際自然保護連合（IUCN）の評価はないが、作物多様性の観点からの保全の必要性は多くの研究で指摘されている。遺伝資源の消失リスク評価に基づく。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "野生近縁種の自生地が、開発や農地拡大によって脅かされている。",
+    "climate_change_vulnerability": "特定の地域環境に高度に適応した在来種が、急激な気候変動によって絶滅するリスクがある。",
+    "cultural_erosion_risk": "在来種に結びついた伝統知識や食文化が、市場のグローバル化や次世代への継承不足により失われつつある。",
+    "conservation_actions_needed": [
+      "在来種の種子収集とジーンバンクでの長期保存（域外保全）",
+      "在来種を栽培し続ける農家への支援とコミュニティシードバンクの設立（域内保全）",
+      "野生近縁種の自生地の保護",
+      "伝統的知識の記録と活用"
+    ],
+    "priority_conservation_regions": [
+      "インド",
+      "中国南部",
+      "東南アジア大陸部"
+    ],
+    "ex_situ_conservation_status": "世界各地のジーンバンク（World Vegetable Centerなど）で多数の遺伝資源が保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "各国のNGOや研究機関、農民グループによって小規模な取り組みが行われているが、公的な支援は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本レポートの全項目を総合的に評価した結果。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 10,
+    "global_food_security_relevance": 8,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "インド（遺伝的多様性の中心地）",
+      "アフリカ（近縁種の多様性と利用法）",
+      "地中海沿岸（気候変動影響の最前線）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、CO2濃度上昇）に対する品種レベルでの生理的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な土壌・生態系への貢献度の評価",
+      "野生近縁種が持つ有用遺伝子の網羅的な探索と機能解明"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸学の文献および種子会社のカタログ情報に基づく。"
+      },
+      "variety_name": "Black Beauty",
+      "local_name": "Black Beauty",
+      "origin_region": "アメリカ合衆国（20世紀初頭に育成）",
+      "distinctive_characteristics": "大型（釣鐘型）で光沢のある黒紫色の果実。世界の西洋ナスの標準品種。",
+      "cultural_importance": "北米およびヨーロッパの市場で最も一般的な品種であり、多くの西洋料理のレシピで基準とされる。",
+      "climate_adaptation": "温帯の夏期に適応。耐病性は中程度。",
+      "conservation_status": "商業的に広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本の園芸学の文献および種子会社のカタログ情報に基づく。"
+      },
+      "variety_name": "Senryo No.2",
+      "local_name": "千両二号",
+      "origin_region": "日本",
+      "distinctive_characteristics": "中長の卵形で、皮が柔らかく、果肉が緻密。調理しても色落ちしにくい。",
+      "cultural_importance": "日本で最も広く栽培されている品種の一つ。焼きなす、煮物、漬物など、あらゆる日本料理に適する。",
+      "climate_adaptation": "日本の高温多湿な夏に適応。耐病性が高い。",
+      "conservation_status": "商業的に広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "東南アジアの食文化に関する文献に基づく。"
+      },
+      "variety_name": "Thai Green Pea Eggplant",
+      "local_name": "มะเขือพวง (Makheua phuang)",
+      "origin_region": "東南アジア",
+      "distinctive_characteristics": "ブドウの房のようになる、非常に小さい緑色の丸い果実。独特の苦味とプチプチした食感がある。",
+      "cultural_importance": "タイのグリーンカレーやレッドカレーに不可欠な食材。料理に食感と風味のアクセントを加える。",
+      "climate_adaptation": "熱帯気候に非常によく適応している。",
+      "conservation_status": "地域的に広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "イタリアの食文化に関する文献に基づく。"
+      },
+      "variety_name": "Rosa Bianca",
+      "local_name": "Rosa Bianca",
+      "origin_region": "イタリア",
+      "distinctive_characteristics": "丸型で、白地にラベンダー色の縞模様が入る美しい果実。苦味が少なくクリーミーな食感。",
+      "cultural_importance": "イタリアの伝統品種（ヘアルーム）。グリルやローストに適しており、グルメ市場で人気が高い。",
+      "climate_adaptation": "地中海性気候に適応。",
+      "conservation_status": "伝統品種として維持"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "FAOSTAT",
+      "World Vegetable Center (AVRDC)",
+      "Scientific literature on ethnobotany, crop science, and genetics (e.g., journals like 'Economic Botany', 'Theoretical and Applied Genetics')",
+      "USDA FoodData Central"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "先住民・地域コミュニティにおける伝統知識の体系的記録"
+    ],
+    "regional_data_coverage": "アジアとヨーロッパに関するデータは豊富だが、アフリカと南米の在来種や利用法に関する体系的データは比較的少ない。",
+    "missing_information": [
+      "香り成分の科学的分析",
+      "野生近縁種の個体群動態と保全状況"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

@@ -1,0 +1,715 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は主要な植物学データベース（Kew, GRIN）から統合。野生種との関係性も明確に確立されている。"
+    },
+    "primary_name": "Chard",
+    "scientific_name": "Beta vulgaris",
+    "plant_type": "二年草（通常一年草として栽培）",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "地中海沿岸",
+    "wild_relatives": [
+      "Beta vulgaris subsp. maritima (Sea Beet)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "欧州・北米での名称は豊富だが、アフリカや南米の地域固有名称に関する情報は限定的。先住民文化での伝統名は、その導入の歴史的背景からほぼ存在しない。"
+    },
+    "international": {
+      "en": [
+        "Chard",
+        "Swiss Chard",
+        "Silverbeet",
+        "Spinach Beet",
+        "Leaf Beet"
+      ],
+      "scientific_common": "Leaf Beet"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "it",
+            "name": "Bietola",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Bette, Poirée",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Mangold",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Acelga",
+            "script": "Latin"
+          },
+          {
+            "lang": "pt",
+            "name": "Acelga",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "フダンソウ (Fudansou)",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "莙荙菜 (jūndá cài)",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "tr",
+            "name": "Pazı",
+            "script": "Latin"
+          },
+          {
+            "lang": "ar",
+            "name": "سلق (Salq)",
+            "script": "Arabic"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類体系はAPG IVに基づき確立されている。栽培品種群の分類も一般的である。"
+    },
+    "family": {
+      "en": "Amaranth family",
+      "la": "Amaranthaceae"
+    },
+    "genus": {
+      "en": "Beet",
+      "la": "Beta"
+    },
+    "species": {
+      "en": "Beet",
+      "la": "vulgaris"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "vulgaris"
+      },
+      {
+        "rank": "Group",
+        "name": "Cicla Group"
+      },
+      {
+        "rank": "Group",
+        "name": "Flavescens Group"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "地中海地域における文化的価値は非常に高い。他の地域では主に実用的な野菜としての位置づけが強い。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "主食の一部",
+          "経済作物"
+        ],
+        "traditional_uses": "パイの詰め物（例：イタリアのTorta Pasqualina）、スープ、詰め物料理、ソテーなど、日常食に不可欠な緑黄色野菜として利用される。",
+        "seasonal_significance": "春の訪れを告げる食材、また年間を通じて収穫できる安定供給源として重要。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "ヨーロッパ（地中海除く）",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "家庭菜園作物"
+        ],
+        "traditional_uses": "ほうれん草の代替または同様の調理法で利用されることが多い。特にドイツ語圏で人気が高い。",
+        "seasonal_significance": "初夏から秋にかけての主要な葉物野菜。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "健康食品"
+        ],
+        "traditional_uses": "伝統的利用は少ないが、健康志向の高まりと共にサラダ、スムージー、ソテーなどで消費が拡大。家庭菜園で人気。",
+        "seasonal_significance": "特になし。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "おひたしや炒め物で利用されるが、他の伝統的な葉物野菜（例：コマツナ、チンゲンサイ）に比べて重要度は低い。",
+        "seasonal_significance": "特になし。",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "イタリア料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Torta Pasqualina",
+          "Bietola saltata in padella"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "炒める",
+          "焼く（パイ）"
+        ],
+        "cultural_context": "復活祭の料理や、質素ながら栄養価の高い家庭料理（cucina povera）の代表的食材。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ギリシャ・ローマ時代から栽培・利用されていた記録がある。アリストテレスの記述にも登場する。",
+      "trade_routes": "ローマ帝国拡大と共にヨーロッパ全域に伝播した。",
+      "cultural_exchange": "地中海食文化の重要な構成要素として世界に広まった。",
+      "domestication_history": "地中海沿岸に自生する野生種 Beta vulgaris subsp. maritima から、葉を利用する目的で選抜・栽培化された。根を利用するビートとは同じ種から分化した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "乾季や高地での栽培が適する。高温多湿では病害が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "秋から春にかけての涼しい季節が最適。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけて栽培可能。冷涼な気候を好み、生育が旺盛になる。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さが厳しくない地域で栽培可能。霜には比較的強い。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "灌漑が必要だが、乾燥には比較的強い。塩類土壌への耐性も持つ。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため、商業栽培は困難。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春、初夏、晩夏",
+        "harvest_season": "初夏から晩秋",
+        "growing_period_days": "50-70"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋、冬",
+        "harvest_season": "冬、春",
+        "growing_period_days": "60-80"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 60,000 kg/ha",
+      "factors_affecting_yield": [
+        "土壌肥沃度",
+        "水分供給",
+        "日照",
+        "栽培密度",
+        "品種"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（データはビート類と合算されることが多く、フダンソウ単体での正確な統計は乏しい）",
+      "major_producers": [
+        {
+          "country": "ヨーロッパ諸国（特にフランス、イタリア）",
+          "production_share": null,
+          "characteristics": "伝統的な消費地であり、多様な地方品種が栽培されている。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": null,
+          "characteristics": "カリフォルニア州を中心に商業生産。カラフルな品種が市場で人気。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変異の科学的データは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "19",
+        "protein_g": "1.8",
+        "carbs_g": "3.7",
+        "fat_g": "0.2",
+        "fiber_g": "1.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "830 mcg",
+          "daily_value_percent": "692%"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "6184 IU",
+          "daily_value_percent": "124%"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "30 mg",
+          "daily_value_percent": "33%"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "81 mg",
+          "daily_value_percent": "20%"
+        },
+        {
+          "nutrient": "鉄",
+          "amount": "1.8 mg",
+          "daily_value_percent": "10%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "ベタレイン類（ベタシアニン、ベタキサンチン）",
+        "concentration": "品種（特に赤・黄色系）により変動",
+        "health_effect": "強力な抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "シリング酸",
+        "concentration": "不明",
+        "health_effect": "血糖値調節作用の可能性"
+      },
+      {
+        "compound": "フラボノイド（ケンフェロール、クェルセチン）",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、心血管保護作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法",
+        "uses": [
+          "緩下剤",
+          "利尿",
+          "湿布（抗炎症）"
+        ],
+        "preparation": "葉の煎じ汁を内服、または葉を潰して外用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "血糖コントロール効果",
+        "抗がん作用",
+        "認知機能改善"
+      ],
+      "safety_considerations": "シュウ酸を多く含むため、腎臓結石のリスクがある人は過剰摂取に注意が必要。調理（茹でるなど）によりシュウ酸は減少する。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地、特に地中海沿岸での調理法は豊富に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海",
+        "methods": [
+          "ソテー",
+          "茹でる",
+          "蒸す",
+          "パイやタルトの詰め物",
+          "スープ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "オリーブオイル",
+          "ニンニク",
+          "松の実",
+          "レーズン",
+          "チーズ"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "生食（ベビーリーフ）",
+          "スムージー",
+          "ソテー",
+          "チップス"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "レモン汁",
+          "ナッツ",
+          "果物（スムージー）"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "世界中"
+        ],
+        "shelf_life": "6-12ヶ月",
+        "quality_changes": "食感が柔らかくなるが、栄養価は比較的保たれる。"
+      },
+      {
+        "method": "ピクルス（茎）",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "酸味が加わり、シャキシャキした食感になる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "わずかな苦味と土の香り（ジオスミン由来）、ほうれん草に似るがよりマイルド。茎はほのかな甘みを持つ。",
+      "aroma_compounds": [
+        "ジオスミン"
+      ],
+      "texture_characteristics": "葉は柔らかく、茎はシャキシャキしている。加熱すると全体が柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐暑性・耐乾性に関する定性的な記述は多いが、品種レベルでの定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、精度は低い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "35°C以上で生育が著しく阻害され、抽苔（とうだち）しやすくなる。",
+      "cold_tolerance": "-5°C程度までの軽い霜には耐える。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "深い主根を持つため、ある程度の乾燥には耐えるが、高品質な葉を生産するには安定した水分が必要。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-800 mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が大きいため強風で傷みやすいが、株自体の回復力は高い。",
+      "hail_damage_recovery": "葉に穴が開くが、新しい葉が再生するため回復可能。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物であるため、CO2濃度の上昇により光合成が促進され、生育が向上する可能性がある。",
+      "ozone_sensitivity": "中程度と推定される。",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、リーフマイナーやアブラムシの発生期間が長期化する可能性がある。",
+      "disease_resistance_stability": "べと病や褐斑病の発生が、高温多湿条件の増加により深刻化する可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯および冷涼な亜熱帯地域",
+        "2050_projection": "栽培適地が高緯度・高標高地域へシフト。低緯度地域では冬作に限定される傾向が強まる。",
+        "2100_projection": "温帯地域でも夏の栽培が困難になるエリアが増加する可能性がある。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Beta vulgaris種内の交雑親和性が非常に高いことはよく知られており、育種学的に広く利用されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "テーブルビート",
+        "シュガービート",
+        "マンゲルワーゼル"
+      ],
+      "interspecific_compatibility": [
+        "Beta vulgaris subsp. maritima (野生種)"
+      ],
+      "intergeneric_possibility": [
+        "ほぼ不可能"
+      ],
+      "successful_natural_hybrids": "栽培地周辺では、フダンソウとビートが容易に自然交雑する。これは種子生産において重要な問題となる。"
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "地中海地域を中心に多様な在来品種が存在する。",
+      "wild_gene_pool": "野生種のBeta vulgaris subsp. maritimaが広範に分布しており、耐塩性や耐病性などの有用な遺伝子供給源となる。",
+      "adaptive_genetic_variation": "高い。野生種との交雑により、多様な環境への適応的遺伝変異が期待できる。",
+      "inbreeding_depression_risk": "風媒花であり他家受精が主であるため、通常は低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "地中海沿岸",
+        "environmental_pressure": "塩類土壌、乾燥",
+        "adaptive_response": "野生種との遺伝子流動により、地域のストレス環境に適応した個体群が形成されている可能性がある。",
+        "time_scale": "数百年〜数千年",
+        "mechanism": "自然選択、遺伝子浸透"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐塩性や耐乾性を向上させる可能性が高い。",
+      "improved_nutritional_content": "ビートとの交雑により、ベタレイン含量などを改変する可能性がある。",
+      "novel_characteristics": "葉と根の両方を利用できる新しいタイプの品種作出の可能性がある。",
+      "hybrid_vigor_potential": "高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほぼ存在しない。",
+      "chromosome_compatibility": "完全に適合する (2n=18)。",
+      "fertility_of_hybrids": "高い。",
+      "backcrossing_success": "高い。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "土壌塩分濃度",
+        "adaptive_traits": "浸透圧調節能力、ナトリウム排出能力",
+        "heritability": "中〜高",
+        "response_to_selection": "速いと期待される。"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "フダンソウに特化したリジェネラティブ農業の研究は少ないが、その植物学的特性から適性は高いと類推される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "長く太い主根が土壌深くまで達し、硬盤層を穿孔し、水や空気の通り道を改善する。",
+      "organic_matter_contribution": "地上部のバイオマスが大きく、収穫後の残渣は土壌有機物の良い供給源となる。",
+      "soil_structure_improvement": "根による物理的な土壌団粒構造の改善効果。",
+      "erosion_control": "生育初期から旺盛に葉を広げ、土壌表面を覆うことで雨滴による侵食を防ぐ。",
+      "nutrient_cycling_role": "深層の養分を吸収し、地表近くに還元するダイナミック・アキュムレーターとしての可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "二年草であり、越冬して開花させれば、ハナアブやミツバチなどの多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "大きな葉がテントウムシやクモなどの天敵の隠れ家となる。",
+      "soil_microorganism_interaction": "根圏で多様な微生物群集と共生していると推定される。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が作るチャネルにより、水の土壌への浸透が促進される。",
+      "moisture_retention": "地上部のマルチ効果と土壌有機物増加により、土壌の保水性を高める。",
+      "runoff_reduction": "葉による被覆と浸透改善により、地表流出を減少させる。",
+      "groundwater_recharge": "浸透改善を通じて地下水涵養に貢献する可能性がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "深い主根系により、土壌深層への炭素貯留ポテンシャルが高い。",
+      "soil_carbon_enhancement": "残渣分解と根のターンオーバーを通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明（定量的データなし）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "タマネギ（害虫忌避）",
+        "マメ科植物（窒素供給）",
+        "ミント類（害虫忌避）"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "報告は少ない。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "年間を通じて収穫できるため、食料供給の安定化に貢献する。",
+      "stress_tolerance": "比較的広い環境適応性を持ち、システムの安定性を高める。",
+      "recovery_capacity": "「カットアンドカムアゲイン」収穫が可能で、部分的ダメージからの回復力が高い。",
+      "adaptability": "遺伝的多様性が高く、将来の環境変化への適応ポテンシャルを持つ。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現代の食トレンドや市場での位置づけは明確である。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン・ミネラルが豊富で、栄養価の高い植物性食品として価値が高い。",
+      "food_security_contribution": "栽培が容易で収穫期間が長いため、家庭菜園や地域の小規模農業において食料安全保障に貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットやCSA（地域支援型農業）で人気の品目。",
+      "alternative_protein_potential": "低い。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ベビーリーフ市場",
+        "カラフルな品種の需要拡大",
+        "スムージーやジュースの原料"
+      ],
+      "value_added_products": [
+        "冷凍カット野菜",
+        "野菜パウダー",
+        "ピクルス"
+      ],
+      "niche_market_value": "オーガニック市場やエアルーム（伝統）品種市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としての絶滅リスクは皆無だが、地域固有の在来品種の消失リスクは存在する。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生近縁種（Sea Beet）の生息地である沿岸域は、開発や海面上昇の脅威に晒されている。",
+    "climate_change_vulnerability": "栽培適地の変化により、特定の地域品種が存続の危機に瀕する可能性がある。",
+    "cultural_erosion_risk": "高い。伝統的な食文化が失われることで、それに結びついた在来品種の栽培が放棄されるリスク。",
+    "conservation_actions_needed": [
+      "在来品種の種子バンク（ジーンバンク）での保存",
+      "参加型育種による地域コミュニティでの保全活動支援",
+      "野生近縁種の生息域内保全"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸諸国",
+      "バルカン半島"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数のアクセッションが保存されている。",
+    "in_situ_conservation_efforts": "一部の地域でNPOや農家グループによる保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "全体的な評価は、収集された情報に基づき総合的に判断。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海沿岸（在来品種と食文化）",
+      "野生近縁種が生息する沿岸域（耐塩性・耐乾性の遺伝子探索）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、CO2）に対する品種レベルでの生理学的応答",
+      "リジェネラティブ農業システムにおける炭素隔離能の定量的評価",
+      "アフリカ、南米、アジアにおける地域的な利用実態"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "広く知られた商業品種および伝統品種の情報を記載。"
+      },
+      "variety_name": "Fordhook Giant",
+      "local_name": "Fordhook Giant",
+      "origin_region": "アメリカ合衆国",
+      "distinctive_characteristics": "濃緑色で縮れた大きな葉と、幅広の白い茎。強健で生産性が高い。",
+      "cultural_importance": "20世紀を代表する商業品種であり、家庭菜園の標準品種として世界的に普及。",
+      "climate_adaptation": "幅広い気候に適応するが、特に温帯気候で優れた性能を発揮する。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "広く知られた商業品種および伝統品種の情報を記載。"
+      },
+      "variety_name": "Bright Lights / Rainbow Chard",
+      "local_name": "Rainbow Chard",
+      "origin_region": "多国籍（育種会社による）",
+      "distinctive_characteristics": "茎の色が赤、ピンク、オレンジ、黄色、白と多彩。観賞価値も高い。",
+      "cultural_importance": "現代の食文化において「インスタ映え」する野菜として人気。健康志向の消費者にアピールする。",
+      "climate_adaptation": "標準的なフダンソウに準じるが、やや耐暑性に劣る品種も含まれる。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "広く知られた商業品種および伝統品種の情報を記載。"
+      },
+      "variety_name": "Bietola di Chioggia",
+      "local_name": "Bietola di Chioggia",
+      "origin_region": "イタリア・ヴェネト州",
+      "distinctive_characteristics": "明るい緑色の滑らかな葉と、純白で細めの茎。風味が繊細で柔らかい。",
+      "cultural_importance": "イタリアの地域料理に根差した在来品種（ランドレース）。地域の食文化遺産の一部。",
+      "climate_adaptation": "地域の気候に特化して適応している。",
+      "conservation_status": "脆弱（Vulnerable）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Gardens 'Plants of the World Online'",
+      "USDA National Nutrient Database",
+      "FAOSTAT",
+      "Relevant ethnobotanical and agroecological research papers"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの生理学的・遺伝的応答",
+      "非欧米地域での伝統的利用法と遺伝資源"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に偏っており、その他の地域に関する情報は限定的。",
+    "missing_information": [
+      "フダンソウ単体での世界生産統計",
+      "品種ごとの詳細な栄養成分変動データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

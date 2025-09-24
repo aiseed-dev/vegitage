@@ -1,0 +1,673 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information compiled from major botanical databases (Kew, GBIF), ethnobotanical studies in East Asia, and academic literature on coastal ecology. Wild relative information is straightforward as the genus is monotypic."
+    },
+    "primary_name": "Coastal Glehnia",
+    "scientific_name": "Glehnia littoralis",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "根"
+    ],
+    "origin_region": "東アジアおよび北米西部の温帯海岸",
+    "wild_relatives": [
+      "Glehnia littoralis subsp. leiocarpa"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names sourced from multilingual botanical dictionaries, ethnobotanical records, and national pharmacopoeias."
+    },
+    "international": {
+      "en": [
+        "Coastal glehnia",
+        "Beach silvertop",
+        "American silvertop"
+      ],
+      "scientific_common": "Glehnia"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "浜防風",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ja-Latn",
+            "name": "Hama-bōfū",
+            "script": "Latin"
+          },
+          {
+            "lang": "ko",
+            "name": "갯방풍",
+            "script": "Hangul"
+          },
+          {
+            "lang": "ko-Latn",
+            "name": "Gaet-bang-pung",
+            "script": "Latin"
+          },
+          {
+            "lang": "zh",
+            "name": "珊瑚菜",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "zh-Latn",
+            "name": "Shān hú cài",
+            "script": "Latin"
+          },
+          {
+            "lang": "zh-medicinal",
+            "name": "北沙参",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "zh-Latn-medicinal",
+            "name": "Běi shā shēn",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Гле́ния прибре́жная",
+            "script": "Cyrillic"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Beach silvertop",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "不明",
+        "name": "不明",
+        "cultural_significance": "北米の先住民コミュニティによる利用があった可能性は高いが、詳細な記録は限定的。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification follows the APG IV system, based on international taxonomic databases."
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Glehnia",
+      "la": "Glehnia"
+    },
+    "species": {
+      "en": "Coastal glehnia",
+      "la": "G. littoralis"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "Glehnia littoralis subsp. leiocarpa"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "East Asian cultural value is well-documented. North American indigenous use is poorly documented in accessible literature, representing a significant knowledge gap."
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "日本",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "季節の食材"
+        ],
+        "traditional_uses": "春の訪れを告げる山菜（浜の幸）として珍重される。若葉と茎はおひたし、酢の物、天ぷらに。高級日本料理（懐石）の刺身のつまとしても利用。根は漢方薬として風邪薬などに配合される。",
+        "seasonal_significance": "春の風物詩であり、季節感を表現する上で重要な食材。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "中国",
+        "importance_level": 4,
+        "cultural_roles": [
+          "薬用"
+        ],
+        "traditional_uses": "根を「北沙参」と呼び、伝統中国医学（TCM）で重要な生薬として利用。肺を潤し、咳を止め、胃の陰を養う効能があるとされる。食用としての利用は限定的。",
+        "seasonal_significance": "薬用としての根の収穫時期が重要。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "韓国",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "若葉をナムル（和え物）として食用にする。民間療法で風邪や神経痛に利用されることがある。",
+        "seasonal_significance": "春の季節野菜の一つ。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "北米",
+        "importance_level": 1,
+        "cultural_roles": [
+          "生態系構成種"
+        ],
+        "traditional_uses": "先住民による食用・薬用の記録は限定的。主に野生の海岸植物として認識されている。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "不明"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "浜防風のおひたし",
+          "浜防風の酢味噌和え",
+          "浜防風の天ぷら",
+          "刺身のつま"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "揚げる",
+          "生食",
+          "酢でしめる"
+        ],
+        "cultural_context": "繊細な香りとほろ苦さを楽しむ、春季限定の高級食材。季節の移ろいを食で表現する日本文化において象徴的な役割を担う。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本では江戸時代の文献に食用・薬用としての記述が見られる。中国ではより古くから「北沙参」として薬利用の歴史がある。",
+      "trade_routes": "薬材「北沙参」として東アジア地域内で交易されていた可能性があるが、主要な交易品ではない。",
+      "cultural_exchange": "不明",
+      "domestication_history": "明確な栽培化の歴史は浅い。主に野生採集に依存してきたが、近年、日本の一部地域で砂地を利用した栽培が行われている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "困難",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "冷涼な沿岸気候。日当たりと水はけの良い砂質土壌を好む。潮風や塩分への耐性がある。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "不適"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "秋（播種）",
+        "harvest_season": "春（播種後2-3年目から）",
+        "growing_period_days": 730
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "発芽率の低さ",
+        "生育の遅さ",
+        "砂地土壌の管理",
+        "連作障害"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "小規模な商業栽培と、大半が野生採集。栽培は特定の沿岸地域に限られる。"
+        },
+        {
+          "country": "中国",
+          "production_share": null,
+          "characteristics": "主に薬用（北沙参）としての栽培。山東省、河北省などが産地。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分のデータは存在するが、微量栄養素や機能性成分に関する包括的な研究は少ない。薬効に関する伝統知識は豊富だが、現代科学による検証は進行中。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "β-カロテン",
+          "amount": "不明",
+          "daily_value_percent": null
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "不明",
+          "daily_value_percent": null
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "クマリン類 (プソラレン, インペラトリン等)",
+        "concentration": "根に高濃度",
+        "health_effect": "抗炎症、鎮咳、鎮痛、血行促進"
+      },
+      {
+        "compound": "精油成分",
+        "concentration": "全草",
+        "health_effect": "芳香によるリラックス効果、健胃作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "中国",
+        "medical_system": "伝統中国医学 (TCM)",
+        "uses": [
+          "滋陰清肺 (肺を潤し熱を冷ます)",
+          "益胃生津 (胃を助け体液を生む)",
+          "乾咳・喀血の治療"
+        ],
+        "preparation": "根を乾燥させたもの（北沙参）を煎じて服用する。"
+      },
+      {
+        "region": "日本",
+        "medical_system": "漢方・民間療法",
+        "uses": [
+          "風邪の初期症状（発熱、頭痛）の緩和",
+          "解熱",
+          "鎮痛"
+        ],
+        "preparation": "乾燥させた根を他の生薬と配合して煎じる。生の葉を食用にすることでも同様の効果を期待する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗炎症作用",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "神経保護作用",
+        "皮膚疾患への応用"
+      ],
+      "safety_considerations": "クマリン類は光毒性を持つ可能性があるため、過剰摂取や外用には注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "日本料理での利用法は広く知られているが、他の文化圏での料理利用は限定的か、情報が少ない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "茹でる",
+          "揚げる",
+          "生食",
+          "酢漬け",
+          "味噌漬け"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "白身魚（刺身）",
+          "酢",
+          "味噌",
+          "醤油"
+        ]
+      },
+      {
+        "region": "韓国",
+        "methods": [
+          "茹でる",
+          "和える"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "ごま油",
+          "醤油",
+          "ニンニク"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "東アジア"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "薬効成分が凝縮されるが、食用の風味は失われる。根に適用。"
+      },
+      {
+        "method": "酢漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数週間",
+        "quality_changes": "特有の香りを保ちつつ、保存性が向上する。茎葉に適用。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やかな芳香、セリ科特有の風味、わずかな苦味と甘み",
+      "aroma_compounds": [
+        "ピネン",
+        "リモネン"
+      ],
+      "texture_characteristics": "シャキシャキとした食感（生・軽く茹でた場合）"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な耐性データはほぼ存在しない。評価は、自生環境の特性（砂丘）からの定性的な推測に基づく。海面上昇による生息地喪失のリスクが非常に高い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-15°C以下（休眠期）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明。砂地適応のため、ある程度高いと推測される。",
+      "flood_tolerance": "低。根腐れしやすい。",
+      "optimal_rainfall": "600-1200mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "高。深く張る直根と砂に埋もれても再生する能力により、強風や飛砂に強い。",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高。海岸の強い紫外線環境に適応している。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明。温暖化による南方系病害虫への脆弱性が懸念される。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジア、北米西部の温帯海岸線",
+        "2050_projection": "海面上昇と海岸浸食により、現在の生息地が大幅に縮小・消失する可能性が高い。",
+        "2100_projection": "現在の生息地の大部分が失われ、より高緯度または内陸への人為的な移植が必要になる可能性がある。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "medium",
+      "source_comment": "Glehnia属が1属1種であるため、自然交雑による新たな適応形質獲得の可能性は極めて低い。評価は分類学的事実に基づく。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "アジア系統と北米系統間での交雑は可能と推測される。"
+      ],
+      "interspecific_compatibility": [
+        "なし（Glehnia属は1種のみ）"
+      ],
+      "intergeneric_possibility": [
+        "極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培化の歴史が浅いため、明確な在来品種は少ない。地域個体群間の遺伝的分化が存在する。",
+      "wild_gene_pool": "野生集団が遺伝的多様性の主要なリソース。アジアと北米の集団は遺伝的に大きく異なる。",
+      "adaptive_genetic_variation": "各地域の海岸環境（砂質、塩分、気温）に適応した遺伝的変異が存在する可能性が高い。",
+      "inbreeding_depression_risk": "高。生息地の分断化により、各個体群が孤立し、近交弱勢のリスクが増大している。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北太平洋両岸",
+        "environmental_pressure": "地理的隔離と異なる気候・生態系",
+        "adaptive_response": "アジア系統と北米系統への分化",
+        "time_scale": "数万年単位",
+        "mechanism": "地理的隔離と自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "可能性は低い",
+      "improved_nutritional_content": "可能性は低い",
+      "novel_characteristics": "可能性は低い",
+      "hybrid_vigor_potential": "アジア・北米系統間の交配による雑種強勢の可能性は未知数。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間・属間の交雑障壁は非常に高い。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "塩分濃度、飛砂、乾燥、紫外線",
+        "adaptive_traits": "多肉質の葉、深い直根、丈夫な茎、埋砂からの再生能力",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 2
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "農業文脈での研究は少ないが、生態学的な役割（砂丘安定化）から多くの特性が推測可能。これはリジェネラティブな機能そのものである。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "非常に長く深い直根（タップルート）。砂を固着させる。",
+      "organic_matter_contribution": "中程度。枯死した地上部と根が砂地に有機物を供給する。",
+      "soil_structure_improvement": "砂丘の安定化に大きく貢献する。",
+      "erosion_control": "極めて高い。海風による砂の飛散を防ぐため、「防風」の名がある。",
+      "nutrient_cycling_role": "不明"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "セリ科特有の散形花序は、ハナアブ、小型のハチ、甲虫など多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "海岸の他の植物や昆虫との共生関係を形成する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "砂地のため元々高いが、植生が安定することで保水性が向上。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "該当しない（砂地のため）",
+      "groundwater_recharge": "砂丘の安定化を通じて、後背地の淡水レンズ（地下水）を塩水浸入から保護する間接的効果がある。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "中程度。深い根系により、地下への炭素蓄積に貢献する。",
+      "soil_carbon_enhancement": "砂地における土壌炭素形成の初期段階を担う。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ハマヒルガオ、コウボウムギなど、他の海浜植物と混生し、砂丘生態系を形成する。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "自然生態系においては、砂丘の安定化を通じて極めて高い安定性をもたらす。",
+      "stress_tolerance": "飛砂、塩分、強風、乾燥といった物理的ストレスに非常に強い。",
+      "recovery_capacity": "砂に埋もれても不定芽を出して再生する高い回復力を持つ。",
+      "adaptability": "特定の海岸環境に高度に特殊化しているため、環境変化への適応性は低い。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主に日本市場におけるニッチな価値と、生態系サービスへの応用可能性に関する情報。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "特有の風味を持つ野菜として、食の多様性に貢献する。",
+      "food_security_contribution": "限定的。しかし、塩害を受けた土地での栽培可能性を秘めている。",
+      "local_food_system_integration": "地域の食文化と密接に結びついており、地産地消の象徴となりうる。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級レストラン向けのニッチ食材",
+        "機能性食品・サプリメント原料"
+      ],
+      "value_added_products": [
+        "ハーブティー",
+        "漬物",
+        "健康食品（エキス）",
+        "化粧品原料"
+      ],
+      "niche_market_value": "非常に高い。希少性と季節性から高価格で取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "日本の多くの都道府県でレッドリストに掲載されており、保全の必要性は広く認識されている。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "極めて高い。海岸開発、護岸工事、砂浜の浸食が直接的な脅威。",
+    "climate_change_vulnerability": "極めて高い。海面上昇による生息地の水没・消失。",
+    "cultural_erosion_risk": "中。食文化としての利用を知る世代の高齢化。",
+    "conservation_actions_needed": [
+      "自生地である砂丘の保全・再生",
+      "遺伝的多様性を考慮した種子バンクの構築 (ex-situ)",
+      "持続可能な利用のための栽培技術の開発"
+    ],
+    "priority_conservation_regions": [
+      "日本の自然海岸線全域",
+      "韓国、中国、ロシアの沿岸域",
+      "北米西海岸"
+    ],
+    "ex_situ_conservation_status": "一部の植物園や研究機関で種子保存が行われているが、包括的ではない。",
+    "in_situ_conservation_efforts": "日本では、国定公園など保護区内での保全活動や、市民団体による砂浜の再生・植栽活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査に基づく総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 2,
+    "biodiversity_conservation_importance": 9,
+    "recommended_study_regions": [
+      "日本",
+      "韓国",
+      "中国山東省",
+      "米国オレゴン州・ワシントン州"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温）に対する生理学的応答の定量的データ",
+      "アジア系統と北米系統の遺伝的・機能的比較",
+      "栽培技術の体系化"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "low",
+        "source_comment": "浜防風は明確な栽培品種が確立されておらず、主に地域個体群として認識される。以下の情報は品種ではなく、分類学的な亜種。"
+      },
+      "variety_name": "Glehnia littoralis subsp. leiocarpa",
+      "local_name": "不明",
+      "origin_region": "北米西海岸、アジア北東部",
+      "distinctive_characteristics": "アジアの基本種に比べ、果実が無毛（leiocarpa = smooth fruit）であるとされる。",
+      "cultural_importance": "不明",
+      "climate_adaptation": "基本種と同様に冷涼な海岸環境に適応。",
+      "conservation_status": "不明"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Plants of the World Online (Kew)",
+      "USDA GRIN Global",
+      "日本のレッドデータブック",
+      "民族植物学関連論文"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種・地域個体群レベルでの応答",
+      "北米先住民による利用実態"
+    ],
+    "regional_data_coverage": "東アジアの情報は比較的豊富だが、北米やロシア極東の情報は限定的。",
+    "missing_information": [
+      "詳細な栄養成分分析",
+      "収量データ",
+      "栽培マニュアル"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

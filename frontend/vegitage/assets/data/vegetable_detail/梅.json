@@ -1,0 +1,673 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical, agricultural, and cultural history databases. Data on wild relative distribution is well-established but genetic proximity studies are ongoing."
+    },
+    "primary_name": "Japanese Apricot",
+    "scientific_name": "Prunus mume",
+    "plant_type": "木本",
+    "edible_parts": [
+      "果実",
+      "花"
+    ],
+    "origin_region": "中国長江流域",
+    "wild_relatives": [
+      "Prunus armeniaca",
+      "Prunus salicina",
+      "Prunus persica"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are well-documented across East Asia where the plant holds significant cultural value."
+    },
+    "international": {
+      "en": [
+        "Japanese Apricot",
+        "Chinese Plum",
+        "Ume"
+      ],
+      "scientific_common": "Mume"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "zh",
+            "name": "梅",
+            "script": "Han"
+          },
+          {
+            "lang": "ja",
+            "name": "梅",
+            "script": "Kanji"
+          },
+          {
+            "lang": "ko",
+            "name": "매실",
+            "script": "Hangul"
+          },
+          {
+            "lang": "vi",
+            "name": "Mơ",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is stable and widely accepted in botanical science."
+    },
+    "family": {
+      "en": "Rose family",
+      "la": "Rosaceae"
+    },
+    "genus": {
+      "en": "Plum",
+      "la": "Prunus"
+    },
+    "species": {
+      "en": "Japanese Apricot",
+      "la": "Prunus mume"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Cultural significance in East Asia is extensively documented in literature, art, and historical records for over two millennia."
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "中国では歳寒三友（松・竹・梅）の一つとして忍耐と希望の象徴。日本、韓国、ベトナムでは春の訪れを告げる花として詩歌や絵画の題材。果実は梅干し、梅酒、梅シロップ、漢方薬として生活に深く根付いている。",
+        "seasonal_significance": "晩冬から早春にかけて咲く花は、新たなサイクルの始まりと希望を象徴する。初夏の果実の収穫と加工は重要な季節の行事。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "梅干し",
+          "梅酒",
+          "梅酢",
+          "梅肉エキス"
+        ],
+        "preparation_methods": [
+          "塩蔵",
+          "アルコール抽出",
+          "砂糖漬け",
+          "煮沸濃縮"
+        ],
+        "cultural_context": "梅干しは日本の伝統的な保存食であり、弁当やおにぎりの中心的存在。その強い酸味と塩分は殺菌作用と食欲増進効果があるとされる。"
+      },
+      {
+        "cuisine": "中華料理",
+        "role": "common",
+        "traditional_dishes": [
+          "酸梅湯",
+          "話梅",
+          "梅醤"
+        ],
+        "preparation_methods": [
+          "燻製乾燥",
+          "砂糖漬け",
+          "発酵"
+        ],
+        "cultural_context": "酸梅湯は夏の暑さを和らげる伝統的な飲み物。話梅は乾燥させた甘酸っぱい菓子。烏梅（燻製した梅）は漢方薬の重要な生薬。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "common",
+        "traditional_dishes": [
+          "매실청 (梅実清)",
+          "매실 장아찌 (梅実チャンアチ)"
+        ],
+        "preparation_methods": [
+          "砂糖漬け（シロップ抽出）",
+          "醤油漬け"
+        ],
+        "cultural_context": "매실청（梅シロップ）は家庭で一般的に作られ、料理の甘味料や夏の飲み物として広く利用される。消化を助ける健康飲料としても人気が高い。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国で3000年以上前から栽培・利用の記録がある。詩経にも記述が見られる。",
+      "trade_routes": "直接的な交易品ではなかったが、仏教や文化の伝播と共に、朝鮮半島を経由して日本へ、またベトナムへと広がった。",
+      "cultural_exchange": "梅を愛でる文化（観梅）は東アジア全域に広がり、各国の詩、絵画、庭園文化に大きな影響を与えた。",
+      "domestication_history": "中国の長江流域で野生種から選抜育種され、多様な品種が生まれた。日本へは奈良時代以前に薬用として伝来したとされる。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "開花に必要な低温期間（休眠打破）が得られないため、栽培は困難。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "温暖で冬に一定の低温がある地域。高品質な果実生産が可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "四季が明瞭で、冬に十分な低温があり、開花期に遅霜の少ない地域が最適。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の極端な低温（-20℃以下）や夏の乾燥に弱いため、栽培は限定的。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため、灌漑なしでの商業栽培は不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短く、夏の低温により果実が成熟しない。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（日本）",
+        "planting_season": "11月-3月（落葉期）",
+        "harvest_season": "6月-7月上旬",
+        "growing_period_days": "150"
+      }
+    ],
+    "productivity": {
+      "yield_range": "5,000-20,000 kg/ha",
+      "factors_affecting_yield": [
+        "開花期の天候（低温、霜、雨）",
+        "受粉昆虫の活動",
+        "隔年結果性",
+        "病害虫の発生",
+        "剪定"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "世界最大の生産国。生食用、加工用、観賞用など多様な品種が栽培されている。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "和歌山県を中心に高品質な加工用（特に梅干し用）品種の栽培が盛ん。"
+        },
+        {
+          "country": "韓国",
+          "production_share": "不明",
+          "characteristics": "梅シロップ（매실청）用の品種が主に栽培されている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "梅干しなど加工品の栄養価は豊富だが、生果実のデータは限定的。機能性成分に関する研究は多いが、伝統的知識の科学的検証は進行中。生食はしないため、加工後のデータが実用的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "33 (梅干し)",
+        "protein_g": "0.9 (梅干し)",
+        "carbs_g": "10.5 (梅干し)",
+        "fat_g": "0.2 (梅干し)",
+        "fiber_g": "3.5 (梅干し)"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "クエン酸",
+          "amount": "豊富",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "230mg/100g (梅干し)",
+          "daily_value_percent": "7"
+        },
+        {
+          "nutrient": "ナトリウム",
+          "amount": "7,100mg/100g (伝統的梅干し)",
+          "daily_value_percent": ">300"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "クエン酸、リンゴ酸などの有機酸",
+        "concentration": "生果実の4-5%",
+        "health_effect": "疲労回復、ミネラル吸収促進、食欲増進"
+      },
+      {
+        "compound": "ポリフェノール（リグナン、クロロゲン酸など）",
+        "concentration": "品種による",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "ムメフラール",
+        "concentration": "加熱加工で生成",
+        "health_effect": "血流改善効果が示唆される"
+      },
+      {
+        "compound": "アミグダリン（青酸配糖体）",
+        "concentration": "未熟な果実や種子に含有",
+        "health_effect": "毒性。塩蔵や加熱で分解されるため、伝統的加工法は安全性を確保している。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "慢性の咳",
+          "下痢",
+          "消化不良",
+          "回虫駆除"
+        ],
+        "preparation": "烏梅（未熟な果実を燻製乾燥させたもの）として生薬に配合。"
+      },
+      {
+        "region": "日本",
+        "medical_system": "民間療法",
+        "uses": [
+          "整腸作用",
+          "疲労回復",
+          "食中毒予防",
+          "風邪の初期症状緩和"
+        ],
+        "preparation": "梅干し、梅肉エキスとして利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "ピロリ菌増殖抑制作用",
+        "抗酸化作用",
+        "血糖値上昇抑制効果"
+      ],
+      "ongoing_research": [
+        "インフルエンザウイルス増殖抑制効果",
+        "抗がん作用",
+        "骨粗鬆症予防効果"
+      ],
+      "safety_considerations": "未熟な果実や種子の生食は青酸中毒のリスクがある。梅干しなどの加工品は塩分過多に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアにおける調理・加工法は多様で、地域ごとの特徴が明確に記録されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "塩蔵（梅干し）",
+          "酒漬け（梅酒）",
+          "砂糖漬け（梅シロップ、ジャム）",
+          "醤油漬け"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "米",
+          "魚（特にイワシ）",
+          "豚肉",
+          "焼酎"
+        ]
+      },
+      {
+        "region": "中国・台湾",
+        "methods": [
+          "乾燥・燻製（烏梅、話梅）",
+          "砂糖漬け",
+          "ソース・調味料化（梅醤）"
+        ],
+        "flavor_role": "香辛料/薬味",
+        "typical_combinations": [
+          "アヒル肉",
+          "氷砂糖",
+          "キンモクセイ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩蔵（梅干し）",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数年〜数十年（塩分濃度による）",
+        "quality_changes": "熟成により酸味と塩味のカドがとれ、まろやかになる。果肉が柔らかくなる。"
+      },
+      {
+        "method": "アルコール抽出（梅酒）",
+        "regions": [
+          "日本",
+          "韓国",
+          "中国"
+        ],
+        "shelf_life": "数年〜数十年",
+        "quality_changes": "熟成により琥珀色になり、香りが複雑化し、味が深まる。"
+      },
+      {
+        "method": "シロップ化（梅シロップ）",
+        "regions": [
+          "韓国",
+          "日本"
+        ],
+        "shelf_life": "約1年（要冷蔵）",
+        "quality_changes": "発酵が進むとアルコール化することがある。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強烈な酸味（クエン酸）、塩味（加工後）、独特のフルーティーな香り",
+      "aroma_compounds": [
+        "ベンズアルデヒド",
+        "リナロール",
+        "γ-デカラクトン"
+      ],
+      "texture_characteristics": "生は硬く、加工後は柔らかい（梅干し）またはカリカリ（若い果実の漬物）"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な耐性データは乏しい。休眠打破に必要な低温要求量（チリング要求）が温暖化の主要なリスクであることは広く認識されている。以下の評価はPrunus属の一般的特性と栽培農家の定性的報告に基づく推定。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-22°C（生育期）",
+      "extreme_heat_survival": "40°C以上で果実の日焼けや落果のリスク増大",
+      "cold_tolerance": "-15°C（休眠期）。開花期の霜には非常に弱い（-2℃で被害）。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "年間1000-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（枝が比較的折れやすい）",
+      "hail_damage_recovery": "低（果実に傷がつくと商品価値がなくなる）",
+      "rapid_temperature_change": "低（開花期の急な低温は壊滅的な被害をもたらす）"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやカイガラムシの発生時期や回数が増加する可能性。",
+      "disease_resistance_stability": "高温多湿は黒星病などの病害を助長する可能性がある。",
+      "beneficial_organism_relationships": "温暖化による受粉昆虫（ミツバチなど）との活動時期のミスマッチ（フェノロジーミスマッチ）が懸念される。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジアの温帯・亜熱帯地域",
+        "2050_projection": "栽培適地がより高緯度・高標高へ移動する可能性。既存産地の一部は低温要求量を満たせず不適になるリスク。",
+        "2100_projection": "適地の移動がさらに進行し、多くの伝統的産地で栽培が困難になる可能性。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Prunus属内の交雑親和性はよく知られており、人為的な育種は行われている。自然交雑に関する生態学的データは限定的だが、可能性は高い。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "数多くの栽培品種間での交雑は容易。"
+      ],
+      "interspecific_compatibility": [
+        "Prunus armeniaca (アンズ)",
+        "Prunus salicina (スモモ)"
+      ],
+      "intergeneric_possibility": [
+        "確認されていない"
+      ],
+      "successful_natural_hybrids": [
+        "特定の報告は少ないが、近縁種が混在する地域では発生している可能性が高い。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "原産地の中国には膨大な遺伝資源が存在。日本や韓国にも独自の在来品種が多数存在する。",
+      "wild_gene_pool": "中国の野生集団は、病害虫抵抗性や環境ストレス耐性の遺伝子供給源として非常に重要。",
+      "adaptive_genetic_variation": "各地域の気候風土に適応した多様な地方品種が存在する。",
+      "inbreeding_depression_risk": "自家不和合性の品種が多く、他家受粉が基本のためリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本（和歌山県）",
+        "environmental_pressure": "多雨、台風",
+        "adaptive_response": "耐病性や枝の強さなどが重視された品種選抜の歴史",
+        "time_scale": "数百年",
+        "mechanism": "人為選択と自然選択の組み合わせ"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "アンズとの交雑により耐乾性や耐暑性の向上が期待できる。",
+      "improved_nutritional_content": "他種との交雑により糖度や機能性成分の改良が可能。",
+      "novel_characteristics": "果実のサイズ、色、収穫時期の変更など。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種によっては存在するが、アンズやスモモとは比較的容易。",
+      "chromosome_compatibility": "多くのPrunus属近縁種と染色体数が同じ（2n=16）であり、交雑和合性が高い。",
+      "fertility_of_hybrids": "多くの場合、稔性は維持される。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "低温要求量、遅霜耐性、病害虫抵抗性",
+        "adaptive_traits": "開花時期の遅延、耐病性遺伝子",
+        "heritability": "中〜高",
+        "response_to_selection": "中"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "梅を対象としたリジェネラティブ農業の直接的な研究は少ないが、果樹としての一般的特性から高いポテンシャルが推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く広く張る根系が土壌を固持し、土壌構造を安定させる。",
+      "organic_matter_contribution": "落葉や剪定枝が土壌有機物を供給する。",
+      "soil_structure_improvement": "根の活動が土壌の団粒構造を促進し、水や空気の通り道を確保する。",
+      "erosion_control": "傾斜地での栽培が多く、樹冠が雨滴を和らげ、根系が土壌流出を防ぐ。",
+      "nutrient_cycling_role": "深層の養分を吸い上げ、落葉を通じて地表に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "早春に開花し、他の花蜜源が少ない時期にミツバチなどの花粉媒介者に重要な食料を提供する。",
+      "beneficial_insect_habitat": "樹皮や枝は多様な昆虫や微生物の生息地となる。",
+      "soil_microorganism_interaction": "根圏で菌根菌など多様な土壌微生物と共生関係を築く。",
+      "above_ground_biodiversity": "鳥類の営巣場所や餌場となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が作る隙間や土壌の団粒化により、雨水の地中への浸透を促進する。",
+      "moisture_retention": "樹冠による被覆と土壌有機物の増加が土壌水分蒸発を防ぐ。",
+      "runoff_reduction": "樹冠と下草が地表流出を抑制する。",
+      "groundwater_recharge": "浸透促進により地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "樹幹、枝、葉に炭素を固定する。",
+      "below_ground_carbon": "根系に大量の炭素を蓄積する。",
+      "soil_carbon_enhancement": "落葉や根の代謝回転を通じて土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明。樹齢や管理方法によるが、永年作物として高いポテンシャルを持つ。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科のカバークロップ（窒素固定、土壌被覆）",
+        "蜜源植物（受粉促進）"
+      ],
+      "natural_pest_control": "多様な植生は天敵昆虫の生息地となり、害虫の発生を抑制する。",
+      "nutrient_sharing": "菌根菌ネットワークを介した植物間での養分共有の可能性。",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生樹木として、一年生作物より生態系を安定させる。",
+      "stress_tolerance": "一度定着すると、ある程度の旱魃や栄養不足に耐える。",
+      "recovery_capacity": "適切な管理により、気象害からの回復力がある。",
+      "adaptability": "多様な品種が存在し、接ぎ木により台木の特性を活かすことができる。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "健康志向の高まりと共に、梅の機能性に関する科学的研究と商品開発が活発化している。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "クエン酸やポリフェノールが豊富な機能性食材として価値が高い。",
+      "food_security_contribution": "伝統的な保存技術（塩蔵）は、冷蔵設備なしで長期保存を可能にし、食料の安定供給に貢献する。",
+      "local_food_system_integration": "多くの地域で地産地消されており、加工品は地域経済の重要な柱となっている。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "健康志向の欧米市場での機能性飲料・食品としての展開",
+        "ユニークな酸味を持つ調味料として、世界のガストロノミー市場への浸透",
+        "クラフトリカー市場における高品質な梅酒の展開"
+      ],
+      "value_added_products": [
+        "梅干し",
+        "梅酒",
+        "梅シロップ",
+        "梅肉エキス",
+        "梅酢",
+        "菓子類"
+      ],
+      "niche_market_value": "非常に高い。特に高品質な熟成梅干しや長期熟成梅酒は高級品として取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な商業品種の保全は行われているが、地域固有の在来品種の消失リスクに関する体系的な調査は不十分。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "原産地の中国における野生種の生息地破壊が懸念される。",
+    "climate_change_vulnerability": "高。特に温暖化による休眠打破不足と開花期の異常気象が脅威。",
+    "cultural_erosion_risk": "低。東アジアでは文化的結びつきが強く、加工・利用技術の継承も活発。",
+    "conservation_actions_needed": [
+      "各地域の在来品種の体系的な収集、評価、保存",
+      "野生原種の生息域内および生息域外保全",
+      "気候変動に適応可能な品種の育種と遺伝資源の共有"
+    ],
+    "priority_conservation_regions": [
+      "中国の長江流域および南西部（遺伝的多様性の中心地）",
+      "日本の各地域の在来品種栽培地"
+    ],
+    "ex_situ_conservation_status": "各国の農業試験場やジーンバンクで主要な品種は保存されているが、網羅性は不明。",
+    "in_situ_conservation_efforts": "一部の地域で在来品種を守る農家や団体の活動があるが、限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合的な評価。"
+    },
+    "cultural_heritage_value": 10,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "中国雲南省・四川省",
+      "日本の紀伊半島"
+    ],
+    "knowledge_gaps": [
+      "気候変動に対する品種ごとの生理的応答の定量的データ",
+      "野生種の遺伝的多様性の網羅的評価",
+      "リジェネラティブな管理手法が土壌生態系に与える影響の長期的な研究"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "日本で最も有名な品種の一つ。"
+      },
+      "variety_name": "南高梅 (Nanko-ume)",
+      "local_name": "南高梅",
+      "origin_region": "日本（和歌山県）",
+      "distinctive_characteristics": "果実が非常に大きく、肉厚で柔らかい。種が小さく、梅干しや梅酒に最適。果皮が薄く、熟すと鮮やかな紅色を帯びる。",
+      "cultural_importance": "日本の最高級梅干しの代名詞。和歌山県の地域経済を支える重要なブランド。",
+      "climate_adaptation": "温暖な気候を好むが、近年の温暖化による開花時期の不安定化が課題。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "中国の代表的な品種の一つ。"
+      },
+      "variety_name": "磨盤梅 (Mopanmei)",
+      "local_name": "磨盘梅",
+      "origin_region": "中国（浙江省）",
+      "distinctive_characteristics": "果実が大きく、扁平な円盤状（石臼の形に似る）。酸味が強く、加工に適している。",
+      "cultural_importance": "伝統的な梅製品の原料として重要。",
+      "climate_adaptation": "不明",
+      "conservation_status": "栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Science Plants of the World Online",
+      "USDA GRIN Global",
+      "FAOSTAT",
+      "学術論文（民族植物学、農業生態学、食品科学）",
+      "各国の農業研究機関の報告書"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種レベルでの定量的応答データ",
+      "リジェネラティブ農業における炭素隔離能力の具体的数値",
+      "世界全体の正確な生産統計"
+    ],
+    "regional_data_coverage": "東アジアに集中しており、その他の地域に関する情報は限定的。",
+    "missing_information": [
+      "先住民による伝統的利用法",
+      "世界全体の年間生産量と貿易量の正確な統計"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

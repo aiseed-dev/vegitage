@@ -1,0 +1,649 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is synthesized from major botanical databases (Kew, Tropicos), ethnobotanical literature, and regional food culture studies. Wild relative information is based on current family-level phylogenetics."
+    },
+    "primary_name": "Ostrich Fern",
+    "scientific_name": "Matteuccia struthiopteris",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉"
+    ],
+    "origin_region": "北半球の温帯・冷温帯地域（北米、ヨーロッパ、アジア）",
+    "wild_relatives": [
+      "Onoclea sensibilis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are compiled from multilingual botanical and culinary sources. Indigenous names are from ethnobotanical records, primarily from North America."
+    },
+    "international": {
+      "en": [
+        "Ostrich Fern",
+        "Fiddlehead Fern",
+        "Shuttlecock Fern"
+      ],
+      "scientific_common": "Fiddlehead Greens"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "クサソテツ (Kusasotetsu), コゴミ (Kogomi)",
+            "script": "Kanji/Katakana"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "fr-CA",
+            "name": "Tête-de-violon, Crosse de fougère",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Straußenfarn",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Страусник обыкновенный",
+            "script": "Cyrillic"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Maliseet (Wolastoqiyik) - North America",
+        "name": "Mah-sos",
+        "cultural_significance": "A traditional spring food, harvested from riverbanks, signifying the renewal of life after winter."
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Classification based on the Pteridophyte Phylogeny Group I (PPG I) system."
+    },
+    "family": {
+      "en": "Onocleaceae",
+      "la": "Onocleaceae"
+    },
+    "genus": {
+      "en": "Matteuccia",
+      "la": "Matteuccia"
+    },
+    "species": {
+      "en": "Ostrich Fern",
+      "la": "struthiopteris"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "Cultural importance is well-documented for Japan and Eastern North America. Information for Europe and other parts of Asia is more scattered."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア (主に日本)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "春の山菜（さんさい）として非常に重要。若芽（こごみ）を茹でておひたし、和え物、天ぷら、炒め物にする。春の訪れを告げる象徴的な食材。",
+        "seasonal_significance": "早春の収穫期に集中",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米 (主にカナダ東部、米国北東部)",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "先住民（マリシート族、ミクマク族など）やアカディア文化において重要な伝統食。地域経済の柱であり、コミュニティのアイデンティティの一部。春の収穫は祭りや家族の行事と結びついている。",
+        "seasonal_significance": "春の風物詩であり、地域コミュニティの結束を促す",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ (主に北部・東部)",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜"
+        ],
+        "traditional_uses": "一部地域で伝統的に野生採集されるが、その利用は日本や北米ほど一般的ではない。主に foraging（野生採集）文化の中で食される珍味としての位置づけ。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理 (山菜料理)",
+        "role": "essential",
+        "traditional_dishes": [
+          "こごみのおひたし (blanched kogomi with soy sauce)",
+          "こごみの胡麻和え (kogomi with sesame dressing)",
+          "天ぷら (tempura)"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "揚げる",
+          "炒める"
+        ],
+        "cultural_context": "春の訪れを祝う季節料理の重要な一品。その独特の食感とほろ苦さが珍重される。"
+      },
+      {
+        "cuisine": "カナダ・アカディア料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Steamed fiddleheads with butter and vinegar",
+          "Fiddlehead soup",
+          "Fiddleheads with hollandaise sauce"
+        ],
+        "preparation_methods": [
+          "蒸す",
+          "茹でる"
+        ],
+        "cultural_context": "地域のアイデンティティを象徴する食材。春の食卓に欠かせない一品として、家庭料理から高級レストランまで幅広く利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "北半球の先住民によって数千年前から食料として利用されてきた考古学的証拠はないが、その分布域から見て古代から利用されていた可能性は非常に高い。",
+      "trade_routes": "歴史的な長距離交易品ではなく、主に地域内で消費されてきた。",
+      "cultural_exchange": "不明",
+      "domestication_history": "栽培化されていない。野生種を管理・採集する形で利用されている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "低温休眠期間が必須のため不適。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "低温休眠期間が不十分なため不適。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "湿潤で冷涼な気候。特に河畔林や湿気の多い林床。冬の凍結が必要。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "寒冷な冬と湿潤な春がある地域に最適。-30℃以下の低温にも耐える。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に非常に弱く不適。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "低標高の湿潤な谷間に適応可能。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯/冷帯",
+        "planting_season": "春または秋（株分け）",
+        "harvest_season": "早春（約2-4週間）",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "主に野生採集のため、収量は天候、採集圧、自生地の健康状態に依存する。"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "カナダ (特にニューブランズウィック州、ケベック州)",
+          "production_share": "不明",
+          "characteristics": "世界最大の商業的野生採集地。生鮮、冷凍、缶詰で流通。"
+        },
+        {
+          "country": "アメリカ合衆国 (特にメイン州)",
+          "production_share": "不明",
+          "characteristics": "商業的な野生採集が盛ん。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "商業的野生採集と一部での小規模栽培。主に国内の生鮮市場で流通。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養成分は分析されているが、地域や調理法による変動データは限定的。伝統的薬用利用は民族植物学の記録に基づくが、科学的検証は十分ではない。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "34",
+        "protein_g": "4.6",
+        "carbs_g": "5.5",
+        "fat_g": "0.4",
+        "fiber_g": "2.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA",
+          "amount": "3617 IU",
+          "daily_value_percent": "72"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "26.6 mg",
+          "daily_value_percent": "44"
+        },
+        {
+          "nutrient": "ナイアシン (B3)",
+          "amount": "5.0 mg",
+          "daily_value_percent": "25"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.5 mg",
+          "daily_value_percent": "26"
+        },
+        {
+          "nutrient": "銅",
+          "amount": "0.3 mg",
+          "daily_value_percent": "16"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フェノール類",
+        "concentration": "高い",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "オメガ3脂肪酸",
+        "concentration": "不明",
+        "health_effect": "抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "北米",
+        "medical_system": "先住民の伝統医学 (例：Maliseet, Penobscot)",
+        "uses": [
+          "鎮痛",
+          "婦人科系の不調改善"
+        ],
+        "preparation": "根茎の煎じ薬"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高い抗酸化活性"
+      ],
+      "ongoing_research": [
+        "抗炎症作用",
+        "抗菌作用",
+        "血糖降下作用"
+      ],
+      "safety_considerations": "生食または不適切な加熱は、胃腸炎を引き起こす可能性があるため絶対に避けるべきである。原因物質は特定されていないが、十分に（10-15分茹でるか、蒸す）加熱することで無害化される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "調理法は、主要な消費地域の料理本や文化記録から広く文書化されている。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "茹でる (おひたし、和え物)",
+          "揚げる (天ぷら)",
+          "炒める",
+          "煮る (煮物)"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "ごま",
+          "鰹節"
+        ]
+      },
+      {
+        "region": "北米",
+        "methods": [
+          "蒸す",
+          "茹でる",
+          "ソテーする"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "バター",
+          "酢",
+          "レモン",
+          "オランデーズソース"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "冷凍",
+        "regions": [
+          "北米",
+          "日本"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "適切にブランチング処理すれば、食感と風味は比較的よく保たれる。"
+      },
+      {
+        "method": "塩蔵・漬物",
+        "regions": [
+          "日本",
+          "ヨーロッパ"
+        ],
+        "shelf_life": "数ヶ月から1年",
+        "quality_changes": "食感が変化し、塩味が付与される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "アスパラガス、インゲン、ホウレンソウを合わせたような独特の風味。ほのかな苦味と土の香りを持つ。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "加熱すると、シャキシャキとした歯ごたえがありながらも、柔らかい。ぬめりが少しある。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な実験データはほぼ存在しない。評価は、本種の生態的ニッチ（冷涼・湿潤な河畔林）と気候変動予測モデルに基づく定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "10-20°C (生育期)",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-40°C以下（休眠期）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "中",
+      "optimal_rainfall": "1000mm以上"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中",
+      "hail_damage_recovery": "不明",
+      "rapid_temperature_change": "春の遅霜には脆弱"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明",
+      "disease_resistance_stability": "野生種として比較的高いが、温暖化による新規病害への脆弱性は不明。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "北半球の温帯・冷温帯の河畔林・湿潤な森林",
+        "2050_projection": "分布域がより高緯度・高標高へシフトする可能性が高い。南限地域では生息地が縮小・消滅するリスク。",
+        "2100_projection": "南限地域での大幅な縮小が予測される。北方へのシフトがさらに進む。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "シダ植物の交雑に関する研究は限定的。情報は分類学的関係と稀な自然交雑の報告に基づく推定。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "広域分布種であるため、地域エコタイプ間の交雑は可能と推定される。"
+      ],
+      "interspecific_compatibility": [
+        "不明"
+      ],
+      "intergeneric_possibility": [
+        "同科のOnoclea属との間に自然交雑種（×Onocleopsis）の報告例があり、属間交雑の可能性がある。"
+      ],
+      "successful_natural_hybrids": [
+        "×Onocleopsis hintonii (M. struthiopteris × O. sensibilis)"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "栽培化されていないため、ランドレースは存在しない。しかし、地理的に隔離された個体群間に高い遺伝的多様性が存在すると考えられる。",
+      "wild_gene_pool": "広範な野生遺伝子プールを持つ。",
+      "adaptive_genetic_variation": "高いと推定される。",
+      "inbreeding_depression_risk": "低い"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北半球全域",
+        "environmental_pressure": "異なる緯度と気候条件",
+        "adaptive_response": "春の芽出しタイミングや耐寒性の地域的変異",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域エコタイプの分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "不明",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "不明",
+      "hybrid_vigor_potential": "不明"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "シダ植物の生殖サイクルは複雑であり、人為的な交配は専門技術を要する。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "自然交雑種は不稔であることが多い。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "春の気温上昇タイミング、夏の最高気温、冬の最低気温、土壌水分量",
+        "adaptive_traits": "休眠打破のタイミング、耐暑性、耐乾性、耐寒性",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 5
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "直接的な農業研究は少ないが、本種の生態学的特性（多年生、根茎性、 riparian habitat）からリジェネラティブな機能が強く推定される。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範に広がる強健な地下茎（リゾーム）を持ち、土壌を固定する。",
+      "organic_matter_contribution": "毎年生え変わる大量の葉が分解され、土壌有機物を供給する。",
+      "soil_structure_improvement": "根茎ネットワークが土壌の団粒構造を安定させる。",
+      "erosion_control": "特に河川敷や斜面での土壌侵食防止効果が非常に高い。",
+      "nutrient_cycling_role": "深い土壌層から養分を吸収し、落葉を通じて表層に還元する。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花を持たないため、花粉媒介者への直接的な貢献はない。",
+      "beneficial_insect_habitat": "密な群落は、捕食性昆虫や他の無脊椎動物に重要な生息地と避難所を提供する。",
+      "soil_microorganism_interaction": "菌根菌と共生関係にある可能性が高い。",
+      "above_ground_biodiversity": "両生類や小型哺乳類の隠れ家となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "密な植生が地表流を遅らせ、土壌への水の浸透を促進する。",
+      "moisture_retention": "林床を覆うことで土壌の蒸発を防ぎ、湿度を保つ。",
+      "runoff_reduction": "高い",
+      "groundwater_recharge": "貢献する可能性が高い。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "多年生の広範な根茎系に大量の炭素を蓄積する。",
+      "soil_carbon_enhancement": "高い有機物供給により土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "アグロフォレストリーシステムにおいて、樹木の下層植生として適している。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を抑制するアレロパシー効果を持つ可能性がある。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、土壌を保護し生態系の安定に貢献する。",
+      "stress_tolerance": "特定の環境（冷涼湿潤）では非常に強健だが、その範囲外では脆弱。",
+      "recovery_capacity": "根茎からの再生能力が高く、物理的な攪乱からの回復が早い。",
+      "adaptability": "中"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場動向や食文化のトレンドに関する情報は広く入手可能。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラル、抗酸化物質が豊富な春の野菜として価値が高い。",
+      "food_security_contribution": "地域の食料安全保障に貢献する重要な野生食料資源。",
+      "local_food_system_integration": "地産地消やファーマーズマーケットのスター商品となりうる。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "高級食材としてのレストラン需要",
+        "健康志向消費者向けの「スーパーフード」としてのマーケティング",
+        "アグロツーリズム（収穫体験）"
+      ],
+      "value_added_products": [
+        "冷凍品",
+        "漬物",
+        "缶詰",
+        "パウダー"
+      ],
+      "niche_market_value": "非常に高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生物としての絶滅リスクは低いが、生息地の脅威と伝統的知識の喪失に関する懸念は存在する。"
+    },
+    "genetic_erosion_risk": "低",
+    "habitat_loss_threat": "河畔林の開発、湿地の埋め立て、水質汚染が主な脅威。",
+    "climate_change_vulnerability": "高い。温暖化と乾燥化が生息地を脅かす。",
+    "cultural_erosion_risk": "中。野生採集に関する伝統的知識の継承が途絶えるリスクがある。",
+    "conservation_actions_needed": [
+      "自生地である河畔林や湿地の保全",
+      "持続可能な収穫方法の普及と啓発",
+      "伝統的知識の記録と継承支援"
+    ],
+    "priority_conservation_regions": [
+      "現在の分布域の南限に位置する個体群",
+      "文化的利用が盛んな地域（日本、カナダ東部など）の自生地"
+    ],
+    "ex_situ_conservation_status": "多くの植物園で栽培されており、域外保全は比較的容易。",
+    "in_situ_conservation_efforts": "多くの自生地が国立公園や保護区内に含まれることで間接的に保護されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIの総合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "日本",
+      "カナダ東部",
+      "米国北東部",
+      "東ヨーロッパ"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温・乾燥）に対する生理学的応答の定量的データ",
+      "地域個体群間の遺伝的多様性の詳細な解析",
+      "伝統的な管理・収穫方法が生態系に与える影響"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "scarce",
+        "confidence_level": "high",
+        "source_comment": "本種は栽培品種が分化していない野生種であるため、品種情報は存在しない。代わりに野生型について記述する。"
+      },
+      "variety_name": "野生型 (Wild Type)",
+      "local_name": "該当なし",
+      "origin_region": "北半球の温帯・冷温帯地域",
+      "distinctive_characteristics": "観賞用の園芸品種は存在するが、食用品種は分化していない。地域によって形態や生態にわずかな変異（エコタイプ）が見られる可能性がある。",
+      "cultural_importance": "野生採集される植物として、その野生性が価値の源泉となっている。",
+      "climate_adaptation": "冷涼で湿潤な気候に強く適応している。",
+      "conservation_status": "未評価 (Not Evaluated) - 広域分布種であり、全体としての絶滅リスクは低い。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Ethnobotany of the Malecite Indians of New Brunswick",
+      "USDA PLANTS Database",
+      "Japanese ethnobotanical literature on 'Sansai'",
+      "Scientific papers on fern ecology and nutrition"
+    ],
+    "major_knowledge_gaps": [
+      "気候変動に対する品種・地域個体群レベルでの応答に関する定量的データ",
+      "リジェネラティブ農業システムへの導入効果に関する実証研究",
+      "交雑ポテンシャルと育種への応用可能性"
+    ],
+    "regional_data_coverage": "北米東部と日本に偏っており、ヨーロッパやアジアの他地域に関する情報は限定的。",
+    "missing_information": [
+      "栽培における収量データ",
+      "世界全体の正確な生産・消費量"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

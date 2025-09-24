@@ -1,0 +1,644 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(KEW, GBIF)および国際農業研究協議グループ(CGIAR)の情報を統合。野生近縁種の完全なリストは継続的な研究対象。"
+    },
+    "primary_name": "Yacon",
+    "scientific_name": "Smallanthus sonchifolius",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "根",
+      "葉",
+      "茎"
+    ],
+    "origin_region": "南米アンデス山脈中腹（ペルー、ボリビア、エクアドル）",
+    "wild_relatives": [
+      "Smallanthus connatus",
+      "Smallanthus ancanthocarpus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学データベース及び各国の農業研究機関の報告に基づく。"
+    },
+    "international": {
+      "en": [
+        "Yacon",
+        "Peruvian ground apple",
+        "Apple of the earth"
+      ],
+      "scientific_common": "Yacon"
+    },
+    "regional": [
+      {
+        "region": "南米",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "yacón",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ヤーコン",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "雪莲果",
+            "script": "Han"
+          },
+          {
+            "lang": "ko",
+            "name": "야콘",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "poire de terre",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "yacon",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "ケチュア族（アンデス）",
+        "name": "llakuma, yaku",
+        "cultural_significance": "「Yaku」はケチュア語で「水」を意味し、その多汁性を表している。伝統的に喉の渇きを癒すための「水の根」として重要視された。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Daisy family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Yacón genus",
+      "la": "Smallanthus"
+    },
+    "species": {
+      "en": "Yacón",
+      "la": "sonchifolius"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "アンデス地域に関する民族植物学的記録は豊富だが、他の地域での文化的価値は比較的新しく、主に健康食品としての文脈に限られる。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "南米（アンデス）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物",
+          "儀式用"
+        ],
+        "traditional_uses": "生食用の果物として、また喉の渇きを潤すために消費される。葉は糖尿病管理のための伝統的な茶として利用。収穫祭で供物として使われることもある。",
+        "seasonal_significance": "乾季の終わりの重要な水分補給源。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東アジア（特に日本、中国）",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "健康野菜として導入され、サラダ、炒め物、漬物として消費。伝統的な位置づけはまだ形成途上。",
+        "seasonal_significance": "秋の収穫物として認識され始めている。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "アンデス伝統料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Ensalada de Yacón (ヤーコンサラダ)"
+        ],
+        "preparation_methods": [
+          "生食",
+          "ジュース"
+        ],
+        "cultural_context": "市場で果物として売られ、子供のおやつや農作業中の水分補給として日常的に食される。"
+      },
+      {
+        "cuisine": "現代日本料理",
+        "role": "common",
+        "traditional_dishes": [
+          "ヤーコンのきんぴら",
+          "ヤーコンサラダ"
+        ],
+        "preparation_methods": [
+          "炒め物",
+          "サラダ",
+          "漬物"
+        ],
+        "cultural_context": "1980年代に導入された新しい野菜。健康志向の消費者に支持され、直売所などで人気。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "プレ・インカ時代から栽培されていた証拠がモチェ文化の陶器などに描かれている。",
+      "trade_routes": "アンデス山中の地域的な交易品目であったが、長距離交易の主要品目ではなかった。",
+      "cultural_exchange": "20世紀後半に国際的な研究機関（CIP）を通じて世界に紹介され、新たな食文化交流の象徴となった。",
+      "domestication_history": "アンデス山脈で数千年前に栽培化されたと考えられているが、正確な起源地や野生祖先種は完全には特定されていない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "低地の熱帯気候では塊根の形成が阻害される。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "高地や冬季のある亜熱帯地域で栽培可能。夏の極端な高温は避ける必要がある。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育期間が180日以上確保でき、夏の平均気温が18-25℃の温帯地域が最適。軽い霜は塊根の糖度を高める。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、夏の高温と冬の厳しい寒さには適さない。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため、灌漑なしでは栽培は困難。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "原産地であるアンデスのような、標高1000-3000mの日中の温暖差が大きい高地気候に適応している。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯（北半球）",
+        "planting_season": "4月-5月（終霜後）",
+        "harvest_season": "10月-11月（初霜後）",
+        "growing_period_days": "180-210"
+      },
+      {
+        "climate_zone": "アンデス高地",
+        "planting_season": "雨季の始まり",
+        "harvest_season": "乾季",
+        "growing_period_days": "200-240"
+      }
+    ],
+    "productivity": {
+      "yield_range": "30,000-50,000 kg/ha",
+      "factors_affecting_yield": [
+        "十分な生育期間",
+        "一貫した水分供給",
+        "土壌の肥沃度",
+        "日照時間"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ペルー",
+          "production_share": "不明",
+          "characteristics": "原産国であり、遺伝的多様性が最も豊か。国内消費とシロップ等の加工品輸出が中心。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "健康野菜として小規模ながら全国で栽培。直売所での販売が主流。"
+        },
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "近年生産が拡大しており、主に国内市場向けに供給。"
+        },
+        {
+          "country": "ニュージーランド",
+          "production_share": "不明",
+          "characteristics": "輸出市場向けに商業栽培が行われている。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要栄養素とFOSに関するデータは豊富だが、微量栄養素の品種・地域変異に関する研究は限定的。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "54",
+        "protein_g": "0.3",
+        "carbs_g": "12.5",
+        "fat_g": "0.3",
+        "fiber_g": "0.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "カリウム",
+          "amount": "295mg/100g",
+          "daily_value_percent": "6"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "フラクトオリゴ糖 (FOS)",
+        "concentration": "塊根乾燥重量の最大60-70%",
+        "health_effect": "プレバイオティクス効果（善玉菌の増殖促進）、血糖値上昇抑制、ミネラル吸収促進。"
+      },
+      {
+        "compound": "クロロゲン酸などのフェノール化合物",
+        "concentration": "葉に特に豊富",
+        "health_effect": "抗酸化作用、血糖値降下作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "南米（アンデス）",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "糖尿病管理",
+          "腎臓疾患",
+          "消化促進"
+        ],
+        "preparation": "葉を煎じてお茶として飲用。塊根を生食。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "プレバイオティクス効果による腸内環境改善",
+        "食後血糖値の上昇抑制"
+      ],
+      "ongoing_research": [
+        "体重管理への応用",
+        "抗炎症作用",
+        "肝保護作用"
+      ],
+      "safety_considerations": "過剰摂取はFOSにより腹部膨満感や下痢を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各国の料理レシピサイトや食文化研究から情報を収集。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "南米",
+        "methods": [
+          "生食",
+          "ジュース",
+          "シロップ化"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "柑橘類（ライム、オレンジ）"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒め物",
+          "サラダ",
+          "漬物",
+          "煮物"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "醤油",
+          "味噌",
+          "ごま油",
+          "豚肉"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "シロップ化",
+        "regions": [
+          "南米",
+          "北米",
+          "ヨーロッパ"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "加熱によりFOSが一部フルクトースに分解されるが、低GI甘味料としての特性は維持される。"
+      },
+      {
+        "method": "乾燥（チップス）",
+        "regions": [
+          "世界各地"
+        ],
+        "shelf_life": "6ヶ月以上",
+        "quality_changes": "水分が抜け、甘みと食感が凝縮される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "梨、リンゴ、スイカを合わせたような、ほのかな甘みとみずみずしさ。わずかに土の香り。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "シャキシャキとした歯ごたえ（クリスピー）、多汁性（ジューシー）。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する定性的な記述は多いが、制御環境下での定量的な実験データは非常に少ない。将来予測は広域モデルに基づく推定であり、品種レベルの精度はない。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30℃以上が続くと生育が阻害される。",
+      "cold_tolerance": "地上部は-2℃程度の霜で枯死するが、地下の塊根と種芋は土が凍結しなければ越冬可能。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "800-1500mm（生育期間中）"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が比較的もろく、強風で倒伏しやすい。",
+      "hail_damage_recovery": "葉が損傷しても、生育期間が残っていれば再生する可能性がある。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明（一般的なC3植物として、限定的な増収効果が期待されるが、実証データはない）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高（原産地が高地であるため、高い紫外線耐性を持つと推定される）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "原産地外では天敵が少なく比較的強健だが、栽培拡大に伴い新たな病害虫（ネコブセンチュウなど）への感受性が報告されている。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "アンデス中腹、世界の温帯地域",
+        "2050_projection": "温帯地域ではより高緯度・高標高地へ適地が移動する可能性。現在の適地では高温による収量減のリスク。",
+        "2100_projection": "適地の移動がさらに進行すると予測される。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 7
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "主に栄養繁殖で増殖されるため、自然交雑に関する研究は極めて限定的。遺伝的多様性の中心はアンデスの在来種コレクション。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "種内での交雑は可能だが、自家不和合性が強く、結実率は低い。"
+      ],
+      "interspecific_compatibility": [
+        "Smallanthus connatusなどの近縁野生種との交雑可能性が指摘されているが、成功例は少ない。"
+      ],
+      "intergeneric_possibility": [
+        "ヒマワリなどとの属間交雑は確認されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "報告なし"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アンデス地域には塊根の色（白、黄、オレンジ、紫）や形状が異なる多数の在来品種（クローン）が存在する。",
+      "wild_gene_pool": "近縁野生種が耐病性や環境ストレス耐性の遺伝子源として期待されているが、利用は進んでいない。",
+      "adaptive_genetic_variation": "不明",
+      "inbreeding_depression_risk": "栄養繁殖が中心のため、遺伝的多様性が低く、病害の蔓延リスクが高い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "世界各地の導入先（日本、ニュージーランド等）",
+        "environmental_pressure": "新たな気候、土壌、病害虫環境",
+        "adaptive_response": "既存のクローンの表現型可塑性による適応。",
+        "time_scale": "数十年",
+        "mechanism": "遺伝的適応ではなく、環境応答性の範囲内での生育。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐病性や耐乾性の向上が期待される。",
+      "improved_nutritional_content": "FOSやフェノール化合物の含有量が異なる系統の選抜や交配が可能。",
+      "novel_characteristics": "新たな塊根の色や形状、早生性などの特性導入の可能性がある。",
+      "hybrid_vigor_potential": "種子繁殖による交雑育種が進めば、雑種強勢の利用が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "自家不和合性、開花時期の不一致、低い結実率。",
+      "chromosome_compatibility": "不明",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "植物の特性からの定性的な推定が主。リジェネラティブ農業システムにおけるヤーコンの役割に関する定量的研究はほとんどない。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範囲に広がるひげ根と大きな塊根を持ち、土壌を団粒構造化する可能性がある。",
+      "organic_matter_contribution": "収穫後の地上部バイオマス（茎葉）が非常に多く、土壌への有機物還元源として優れる。",
+      "soil_structure_improvement": "塊根の形成が土壌の物理性を改善する可能性がある。",
+      "erosion_control": "生育期には大きな葉が地面を覆い、雨滴による土壌侵食を軽減する。",
+      "nutrient_cycling_role": "カリウム要求量が高いとされる。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "キク科の黄色い花は、ミツバチやハナアブなど多様な花粉媒介者を引き寄せる。",
+      "beneficial_insect_habitat": "大きな草冠はテントウムシなどの天敵昆虫の隠れ家となる可能性がある。",
+      "soil_microorganism_interaction": "FOSが豊富な根の滲出液が、特有の土壌微生物叢を形成する可能性がある。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "土壌被覆により表面流出を抑制し、水分の土壌浸透を促進する可能性がある。",
+      "moisture_retention": "マルチング効果により土壌水分の蒸発を防ぐ。",
+      "runoff_reduction": "不明",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い（1株あたり数kgに達する）",
+      "below_ground_carbon": "中程度（収穫で塊根が持ち出されるが、ひげ根と残渣は土壌に残る）",
+      "soil_carbon_enhancement": "高いバイオマス還元ポテンシャルから、土壌炭素の増強に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科植物（窒素供給）との混作が有益である可能性が考えられる。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "不明",
+      "stress_tolerance": "中程度",
+      "recovery_capacity": "中程度",
+      "adaptability": "中程度"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場調査レポート、健康食品業界のトレンド分析に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "プレバイオティクス源、低カロリー甘味料源として価値が高い。",
+      "food_security_contribution": "単位面積あたりの収量が高く、比較的低投入で栽培できるため、地域の食料安全保障に貢献する可能性がある。",
+      "local_food_system_integration": "直売所などでの販売に適しており、地域経済の活性化に貢献する。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品市場",
+        "健康志向の甘味料市場",
+        "グルテンフリー食品市場"
+      ],
+      "value_added_products": [
+        "ヤーコンシロップ",
+        "ヤーコン茶（葉）",
+        "乾燥ヤーコンチップス",
+        "ヤーコンパウダー",
+        "漬物"
+      ],
+      "niche_market_value": "「スーパーフード」「アンデスの秘宝」といったストーリー性により、高いニッチ市場価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "国際ポテトセンター(CIP)や関連研究機関の報告に基づくが、全ての在来種の状況が網羅されているわけではない。"
+    },
+    "genetic_erosion_risk": "高",
+    "habitat_loss_threat": "アンデス地域における土地利用の変化、商業的農業への転換。",
+    "climate_change_vulnerability": "高地の温暖化により、伝統的な栽培適地が脅かされる可能性がある。",
+    "cultural_erosion_risk": "中（一時衰退したが、近年の世界的な関心により再評価の動きもある）",
+    "conservation_actions_needed": [
+      "アンデス地域における在来種のインサイチュ（生息域内）保全活動の支援",
+      "国際的なジーンバンクでのエクスサイチュ（生息域外）保全の強化",
+      "在来種の特性評価と利用促進"
+    ],
+    "priority_conservation_regions": [
+      "ペルー北部および中部のアンデス山脈",
+      "ボリビアのユンガス地方"
+    ],
+    "ex_situ_conservation_status": "国際ポテトセンター(CIP)が世界最大級のヤーコン遺伝資源コレクションを保有している。",
+    "in_situ_conservation_efforts": "一部の地域コミュニティやNGOによる保全活動が行われているが、規模は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本AIによる総合評価。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "ペルー、ボリビアの多様性中心地",
+      "日本、ニュージーランドなどの導入成功地域"
+    ],
+    "knowledge_gaps": [
+      "気候変動要因（高温、乾燥、CO2）に対する品種レベルでの生理学的応答",
+      "リジェネラティブ農業システムにおける定量的貢献度の評価",
+      "在来種の遺伝的多様性と機能性成分の網羅的解析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "正式な品種登録ではなく、アンデス地域での形態に基づいた通称が多い。"
+      },
+      "variety_name": "Morado (Purple)",
+      "local_name": "Yacón Morado",
+      "origin_region": "アンデス地域",
+      "distinctive_characteristics": "皮および皮に近い部分が紫色。抗酸化物質（アントシアニン）が豊富である可能性が示唆される。",
+      "cultural_importance": "色の多様性を示す代表的な在来種。",
+      "climate_adaptation": "不明",
+      "conservation_status": "要監視"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "正式な品種登録ではなく、アンデス地域での形態に基づいた通称が多い。"
+      },
+      "variety_name": "Blanco (White)",
+      "local_name": "Yacón Blanco",
+      "origin_region": "アンデス地域",
+      "distinctive_characteristics": "最も一般的に見られるタイプで、果肉が白い。みずみずしさが特徴。",
+      "cultural_importance": "基準となる一般的なタイプ。",
+      "climate_adaptation": "不明",
+      "conservation_status": "低懸念"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "International Potato Center (CIP) publications",
+      "Journal of Ethnopharmacology",
+      "Food Chemistry",
+      "Agronomy Journal"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "自然交雑と遺伝的多様性の詳細な分子レベルでの解析"
+    ],
+    "regional_data_coverage": "南米アンデス地域に集中しており、他の栽培地域に関する学術的データは比較的少ない。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "品種ごとの詳細な栄養成分データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

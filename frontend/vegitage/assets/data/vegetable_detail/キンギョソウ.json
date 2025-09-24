@@ -1,0 +1,547 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "キンギョソウは観賞用植物として広範な情報が存在するが、伝統野菜・食用としての情報は極めて限定的。本データは主に観賞用植物としての特性に基づき、食利用については限定的な事例を反映している。"
+    },
+    "primary_name": "Snapdragon",
+    "scientific_name": "Antirrhinum majus",
+    "plant_type": "多年草（温帯では一年草として栽培されることが多い）",
+    "edible_parts": [
+      "花"
+    ],
+    "origin_region": "地中海地域（スペイン、モロッコ、ポルトガル、南フランス、イタリア）",
+    "wild_relatives": [
+      "Antirrhinum hispanicum",
+      "Antirrhinum latifolium",
+      "Antirrhinum siculum"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "観賞用植物としての名称は世界中で記録されている。食用としての伝統名は確認されていない。"
+    },
+    "international": {
+      "en": [
+        "Common Snapdragon",
+        "Garden Snapdragon"
+      ],
+      "scientific_common": "Antirrhinum"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "es",
+            "name": "Boca de dragón",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Gueule-de-loup",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Großes Löwenmaul",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Bocca di leone",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "キンギョソウ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "金魚草",
+            "script": "Han"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG体系に基づく最新の植物分類情報を反映。かつてはゴマノハグサ科(Scrophulariaceae)に分類されていた。"
+    },
+    "family": {
+      "en": "Plantain family",
+      "la": "Plantaginaceae"
+    },
+    "genus": {
+      "en": "Snapdragon",
+      "la": "Antirrhinum"
+    },
+    "species": {
+      "en": "Common Snapdragon",
+      "la": "majus"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "majus"
+      },
+      {
+        "rank": "subsp.",
+        "name": "litigiosum"
+      },
+      {
+        "rank": "subsp.",
+        "name": "tortuosum"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "文化的価値は観賞用・象徴的な側面に集中しており、食文化における重要性はほぼ皆無。以下の記述は、その前提に基づく評価である。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 1,
+        "cultural_roles": [
+          "観賞用",
+          "象徴的利用"
+        ],
+        "traditional_uses": "主に庭園植物、切り花として利用。民間伝承では隠された力や欺瞞の象徴とされることがある。伝統的な食文化での役割は確認できない。",
+        "seasonal_significance": "春から夏の庭を彩る花として季節的な象徴性を持つ。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 1,
+        "cultural_roles": [
+          "観賞用"
+        ],
+        "traditional_uses": "観賞用として広く栽培。日本では花の形が金魚に似ていることから名付けられた。伝統的な食文化での役割は確認できない。",
+        "seasonal_significance": "春の園芸植物として重要。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "現代西洋料理 (Modern Western Cuisine)",
+        "role": "rare",
+        "traditional_dishes": [],
+        "preparation_methods": [
+          "生食（飾り）"
+        ],
+        "cultural_context": "伝統料理ではなく、現代の高級料理や菓子において、彩りを添えるためのエディブルフラワー（食用花）として稀に利用される。歴史的・伝統的な食利用ではない。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代ローマ時代から庭園で栽培されていた記録があるが、観賞用としてであった。",
+      "trade_routes": "観賞用植物として世界中に伝播したが、食料品としての交易記録はない。",
+      "cultural_exchange": "園芸文化の交流において重要な役割を果たした。特に19世紀以降、品種改良が盛んに行われ世界に広まった。",
+      "domestication_history": "地中海地域の野生種から観賞用に選抜育種され、栽培化された。食料としての栽培化の歴史はない。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、病気が発生しやすいため不向き。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の温和な気候で栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最も栽培に適した気候帯。冷涼で日当たりの良い環境を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "一年草として栽培可能だが、夏の酷暑や冬の厳寒には弱い。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "原産地が地中海性気候であるため乾燥には比較的強いが、定期的な灌漑は必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎ、低温のため不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春または秋",
+        "harvest_season": "初夏から秋（切り花として）",
+        "growing_period_days": "90-120"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（食用としての収量データなし）",
+      "factors_affecting_yield": [
+        "日照時間",
+        "水はけの良い土壌",
+        "さび病などの病害",
+        "アブラムシなどの虫害"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（食用としての統計なし）",
+      "major_producers": [
+        {
+          "country": "オランダ",
+          "production_share": "不明",
+          "characteristics": "世界最大の切り花生産国の一つであり、キンギョソウも主要品目。"
+        },
+        {
+          "country": "アメリカ合衆国（カリフォルニア州）",
+          "production_share": "不明",
+          "characteristics": "切り花および苗物として大規模な生産が行われている。"
+        },
+        {
+          "country": "コロンビア",
+          "production_share": "不明",
+          "characteristics": "輸出向けの切り花生産が盛ん。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用としての利用が稀なため、栄養価に関する公的なデータベースは存在しない。情報は花の色素成分に関する学術研究に限られる。伝統医学での利用も限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アントシアニン",
+        "concentration": "花の品種による（特に赤、紫、ピンク系の花に豊富）",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "フラボノイド",
+        "concentration": "花弁に含有",
+        "health_effect": "抗酸化作用、抗炎症作用の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "民間療法 (Folk medicine)",
+        "uses": [
+          "皮膚の炎症を抑える湿布",
+          "痔の治療"
+        ],
+        "preparation": "葉や花をすり潰して湿布として外用する。内服の記録はほとんどない。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "花の色素成分（アントシアニン）の生合成経路に関する遺伝学的研究",
+        "植物の形態形成に関するモデル生物としての研究"
+      ],
+      "safety_considerations": "一般的に毒性はないとされるが、食用として大量に摂取することの安全性は確立されていない。観賞用に栽培されたものは農薬が付着している可能性があるため注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食文化における役割はほとんどなく、現代料理での装飾的な利用に限られる。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "グローバル",
+        "methods": [
+          "生食"
+        ],
+        "flavor_role": "飾り・彩り",
+        "typical_combinations": [
+          "サラダ",
+          "デザート",
+          "カクテル"
+        ]
+      }
+    ],
+    "processing_preservation": [],
+    "flavor_characteristics": {
+      "taste_profile": "かすかに苦味がある、またはほぼ無味。品種によりフローラルな香り。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "柔らかく、繊細。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食用作物としての気候変動適応性に関する研究はない。以下の評価は、観賞用植物としての栽培特性と原産地の気候からの定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "30°C以上が続くと生育が著しく衰える。",
+      "cold_tolerance": "-5°C程度までの軽い霜には耐えるが、凍結には弱い。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "不明"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が折れやすいため、強風には弱い。",
+      "hail_damage_recovery": "低い。",
+      "rapid_temperature_change": "不明"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "中程度",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシやハダニの発生が増加する可能性。",
+      "disease_resistance_stability": "高温多湿環境ではさび病やうどんこ病のリスクが増大する。",
+      "beneficial_organism_relationships": "マルハナバチなど特定の受粉昆虫との関係が重要。"
+    },
+    "future_suitability_zones": [],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "キンギョソウは遺伝学のモデル生物として長年研究されており、交雑和合性に関するデータは豊富である。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "全ての栽培品種間で容易に交雑可能。"
+      ],
+      "interspecific_compatibility": [
+        "Antirrhinum hispanicum",
+        "Antirrhinum latifoliumなど、近縁の野生種と交雑可能。"
+      ],
+      "intergeneric_possibility": [
+        "属間交雑の成功例は報告されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "原産地の地中海地域では、野生の亜種間で自然交雑帯が形成されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "食用品種としての在来種は存在しない。観賞用の多様性は極めて高い。",
+      "wild_gene_pool": "イベリア半島と周辺地域の野生集団が重要な遺伝子プールとなっている。",
+      "adaptive_genetic_variation": "野生集団には、乾燥や土壌条件に対する局所適応の遺伝的変異が存在する。",
+      "inbreeding_depression_risk": "自家不和合性のメカニズムを持つため、野生集団では近交弱勢は比較的起こりにくい。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐乾性や耐病性を向上させる可能性がある。",
+      "improved_nutritional_content": "食用でないため、栄養価改善を目的とした研究はない。",
+      "novel_characteristics": "花の色、形、大きさ、草姿など、観賞価値に関する新規特性の導入が主目的となる。",
+      "hybrid_vigor_potential": "高い。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "近縁種間では交雑障壁は低い。",
+      "chromosome_compatibility": "Antirrhinum属の多くの種は染色体数が共通しており（2n=16）、適合性は高い。",
+      "fertility_of_hybrids": "種間雑種でも高い稔性を示すことが多い。",
+      "backcrossing_success": "高い。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の構成要素としての研究は存在しない。以下の評価は、植物の一般的特性からの類推である。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅いひげ根。",
+      "organic_matter_contribution": "一年草として栽培される場合、有機物貢献度は限定的。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "限定的。",
+      "nutrient_cycling_role": "特筆すべき役割はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "マルハナバチなど特定の受粉昆虫にとって重要な蜜源・花粉源となる。この点は非常に貢献度が高い。",
+      "beneficial_insect_habitat": "アブラムシが発生しやすいため、テントウムシなどの天敵昆虫を誘引する可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "受粉昆虫の誘引を通じて貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "限定的。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "限定的。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い。",
+      "below_ground_carbon": "低い。",
+      "soil_carbon_enhancement": "限定的。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "受粉昆虫を必要とする野菜（トマト、ナスなど）の近くに植えると、受粉を助ける可能性がある。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "受粉昆虫の多様性を高めることで貢献する可能性がある。",
+      "stress_tolerance": "低い。",
+      "recovery_capacity": "低い。",
+      "adaptability": "中程度（遺伝的多様性による）。"
+    },
+    "regenerative_score": 4
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的価値は、遺伝学のモデル生物および園芸産業に集中している。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食用としての価値はほぼない。",
+      "food_security_contribution": "寄与しない。",
+      "local_food_system_integration": "エディブルフラワーとして、地域のレストラン等に供給されるニッチな事例は存在する可能性がある。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "エディブルフラワー市場（ただしニッチ）",
+        "ユニークな花色や草姿を持つ新品種の開発（園芸市場）"
+      ],
+      "value_added_products": [
+        "切り花",
+        "鉢物・苗物",
+        "ドライフラワー"
+      ],
+      "niche_market_value": "エディブルフラワーとしては高いが、市場規模は非常に小さい。園芸植物としての市場価値は非常に高い。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培品種の保全優先度は低いが、遺伝資源としての野生近縁種の保全が重要である。"
+    },
+    "genetic_erosion_risk": "中（野生種において）",
+    "habitat_loss_threat": "原産地である地中海沿岸地域における開発や気候変動が、野生集団の生息地を脅かしている。",
+    "climate_change_vulnerability": "野生種は生息地の乾燥化や異常気象により脆弱性が高まる可能性がある。",
+    "cultural_erosion_risk": "食用文化が存在しないため、このリスクはない。",
+    "conservation_actions_needed": [
+      "野生近縁種の生息域内保全（保護区設定）",
+      "野生遺伝資源のジーンバンクにおける域外保全",
+      "野生集団の遺伝的多様性のモニタリング"
+    ],
+    "priority_conservation_regions": [
+      "イベリア半島（スペイン、ポルトガル）",
+      "北アフリカ（モロッコ）"
+    ],
+    "ex_situ_conservation_status": "主要な植物園やジーンバンク（例：英国キュー王立植物園ミレニアム・シードバンク）で種子が保存されている。",
+    "in_situ_conservation_efforts": "一部の生息地が国立公園や自然保護区に含まれている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合評価。食用植物としての価値は極めて低いが、他の側面での重要性が高い。"
+    },
+    "cultural_heritage_value": 2,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "低（食料として） / 高（遺伝学モデルとして）",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "スペイン、ポルトガル（野生種の生態と遺伝的多様性研究）"
+    ],
+    "knowledge_gaps": [
+      "食用としての安全性に関する体系的な評価",
+      "微量に含まれる機能性成分の定量分析"
+    ],
+    "global_dictionary_compatibility": 3
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "これらはすべて観賞用の園芸品種群であり、食用を目的としたものではない。"
+      },
+      "variety_name": "Rocket Series",
+      "local_name": "ロケットシリーズ",
+      "origin_region": "アメリカ合衆国",
+      "distinctive_characteristics": "高性種で切り花に向く。花穂が長く、花色が豊富。",
+      "cultural_importance": "切り花市場での重要品種群。",
+      "climate_adaptation": "温帯気候に適応。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "観賞用の園芸品種群。"
+      },
+      "variety_name": "Madame Butterfly Series",
+      "local_name": "マダムバタフライシリーズ",
+      "origin_region": "グローバル育種",
+      "distinctive_characteristics": "八重咲き（アザレア咲き）で豪華な花姿。蝶が舞うように見える。",
+      "cultural_importance": "鉢物や花壇用の高級品種として人気。",
+      "climate_adaptation": "温帯気候に適応。",
+      "conservation_status": "広く栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "Flora of North America",
+      "Horticultural databases (e.g., RHS)",
+      "Scientific literature on plant genetics and pollination biology"
+    ],
+    "major_knowledge_gaps": [
+      "食用植物としてのあらゆるデータ（栄養価、栽培収量、伝統的利用法など）",
+      "リジェネラティブ農業システムへの定量的貢献度"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米の園芸情報は豊富だが、他の地域の食文化に関する情報は皆無。",
+    "missing_information": [
+      "栄養成分データ",
+      "伝統的な食用利用の民族植物学的記録"
+    ],
+    "update_priority": "低",
+    "quality_score": 7
+  }
+}

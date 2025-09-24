@@ -1,0 +1,707 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農業機関の情報を統合。栽培品種に関する情報は豊富だが、野生種の詳細な生態データは限定的。"
+    },
+    "primary_name": "Celery",
+    "scientific_name": "Apium graveolens",
+    "plant_type": "二年草",
+    "edible_parts": [
+      "茎",
+      "葉",
+      "種子",
+      "根"
+    ],
+    "origin_region": "地中海沿岸および中東",
+    "wild_relatives": [
+      "Apium graveolens var. graveolens"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各国の言語データベースおよび植物名辞典から収集。"
+    },
+    "international": {
+      "en": [
+        "Celery",
+        "Celeriac",
+        "Leaf Celery"
+      ],
+      "scientific_common": "Wild Celery"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Céleri",
+            "script": "Latn"
+          },
+          {
+            "lang": "de",
+            "name": "Sellerie",
+            "script": "Latn"
+          },
+          {
+            "lang": "it",
+            "name": "Sedano",
+            "script": "Latn"
+          },
+          {
+            "lang": "es",
+            "name": "Apio",
+            "script": "Latn"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "セロリ",
+            "script": "Jpan"
+          },
+          {
+            "lang": "zh",
+            "name": "芹菜",
+            "script": "Hans"
+          },
+          {
+            "lang": "ko",
+            "name": "셀러리",
+            "script": "Hang"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "अजमोदा (Ajamoda)",
+            "script": "Deva"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Celery",
+      "la": "Apium"
+    },
+    "species": {
+      "en": "Celery",
+      "la": "graveolens"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "dulce (Stalk Celery)"
+      },
+      {
+        "rank": "var.",
+        "name": "rapaceum (Celeriac)"
+      },
+      {
+        "rank": "var.",
+        "name": "secalinum (Leaf Celery)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史文献、民族植物学の記録、料理史研究に基づく。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ・北米",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "香味野菜",
+          "経済作物"
+        ],
+        "traditional_uses": "古代ギリシャ・ローマでは薬用や儀式用（勝利者への冠、墓の装飾）に利用。17世紀以降、イタリア・フランスで食用に改良され、香味野菜として西洋料理の基礎（ミルポワ、ソフリット等）を形成。",
+        "seasonal_significance": "温帯地域における夏から秋の収穫物。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "香味野菜"
+        ],
+        "traditional_uses": "主に炒め物や和え物、スープの具材として利用される。特に葉セロリ（芹菜）が中国料理で多用される。強い香りが特徴。",
+        "seasonal_significance": "特になし",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Mirepoix",
+          "Pot-au-feu",
+          "Céleri Rémoulade"
+        ],
+        "preparation_methods": [
+          "生食",
+          "煮込み",
+          "炒め"
+        ],
+        "cultural_context": "スープやソースの風味の基盤となる不可欠な香味野菜。"
+      },
+      {
+        "cuisine": "ケイジャン・クレオール料理（米国）",
+        "role": "essential",
+        "traditional_dishes": [
+          "Gumbo",
+          "Jambalaya"
+        ],
+        "preparation_methods": [
+          "炒め",
+          "煮込み"
+        ],
+        "cultural_context": "タマネギ、ピーマンと共に「聖なる三位一体（Holy Trinity）」を構成し、多くの料理の風味の基礎となる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト、ギリシャ、ローマで薬用、香料、儀式用に利用。ホメロスの叙事詩にも登場。",
+      "trade_routes": "中世以降、ヨーロッパ内で栽培法が伝播。大航海時代以降に新大陸へ伝わる。",
+      "cultural_exchange": "食用としての価値が確立される過程で、イタリアからフランス、そして全ヨーロッパへと料理法が伝播した。",
+      "domestication_history": "野生種は苦味が強い湿地植物であったが、16-17世紀のイタリアで苦味を減らし茎を太くする選抜育種が進んだ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "普通",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、病害が発生しやすい。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "涼しい乾季に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育適温15-21℃の冷涼な気候を好む。十分な水分と長い生育期間が必要。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の寒暖差が激しい場所では栽培が難しいが、冷涼な地域では可能。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い水分要求量のため、灌漑なしでは栽培不可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "夏～秋",
+        "growing_period_days": "120-180"
+      },
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "秋",
+        "harvest_season": "冬～春",
+        "growing_period_days": "120-160"
+      }
+    ],
+    "productivity": {
+      "yield_range": "30,000 - 70,000 kg/ha",
+      "factors_affecting_yield": [
+        "水分供給の安定性",
+        "土壌肥沃度",
+        "気温（高温による抽苔）",
+        "病害虫（特に菌類病）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "カリフォルニア州が主産地。大規模な商業生産。"
+        },
+        {
+          "country": "メキシコ",
+          "production_share": "不明",
+          "characteristics": "米国への主要輸出国。"
+        },
+        {
+          "country": "スペイン",
+          "production_share": "不明",
+          "characteristics": "ヨーロッパ市場への主要供給国。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による機能性成分の変動に関する研究は発展途上。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "16",
+        "protein_g": "0.7",
+        "carbs_g": "3.0",
+        "fat_g": "0.2",
+        "fiber_g": "1.6"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンK",
+          "amount": "29.3 µg",
+          "daily_value_percent": "24"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "36 µg",
+          "daily_value_percent": "9"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "260 mg",
+          "daily_value_percent": "6"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "アピゲニン",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用、抗炎症作用の可能性"
+      },
+      {
+        "compound": "ルテオリン",
+        "concentration": "可変",
+        "health_effect": "抗酸化作用、抗がん作用の可能性"
+      },
+      {
+        "compound": "フタリド類",
+        "concentration": "可変",
+        "health_effect": "特有の香りの元。血圧降下作用の可能性が示唆されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "利尿",
+          "関節炎・痛風の症状緩和",
+          "鎮静"
+        ],
+        "preparation": "種子の煎じ薬、生食、ジュース"
+      },
+      {
+        "region": "南アジア",
+        "medical_system": "アーユルヴェーダ",
+        "uses": [
+          "消化促進",
+          "鎮痙",
+          "神経系の強壮"
+        ],
+        "preparation": "種子（アジモーダとして）を粉末やオイルとして使用"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化物質の豊富な供給源"
+      ],
+      "ongoing_research": [
+        "血圧降下作用",
+        "抗炎症作用",
+        "抗がん作用"
+      ],
+      "safety_considerations": "セリ科アレルギーを持つ人は注意が必要。ソラレン類を含み、多量摂取で光線過敏症を引き起こす可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書や食文化研究から情報を集約。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "西洋",
+        "methods": [
+          "生食（サラダ、ディップ）",
+          "炒め（ミルポワ、ソフリット）",
+          "煮込み（スープ、シチュー）",
+          "ロースト"
+        ],
+        "flavor_role": "香味野菜（ベース）/主役",
+        "typical_combinations": [
+          "玉ねぎ",
+          "人参",
+          "鶏肉",
+          "トマト"
+        ]
+      },
+      {
+        "region": "東アジア",
+        "methods": [
+          "炒め物",
+          "和え物",
+          "スープ"
+        ],
+        "flavor_role": "副味/香味野菜",
+        "typical_combinations": [
+          "豚肉",
+          "イカ",
+          "豆腐"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥（種子）",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1年以上",
+        "quality_changes": "香りが凝縮される。セロリソルトの原料となる。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "食感が失われるため、加熱調理用途に限定される。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やか、わずかに青臭い、塩味と苦味のニュアンス、うま味",
+      "aroma_compounds": [
+        "フタリド類",
+        "テルペン類（リモネン、セリネン）"
+      ],
+      "texture_characteristics": "生の状態ではシャキシャキとした繊維質な食感。加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐性に関する定性的な記述は多いが、品種レベルでの定量的な実験データは非常に少ない。野生種の塩性湿地への適応は特筆すべきだが、栽培品種の耐性は低い。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-21°C",
+      "extreme_heat_survival": "30℃以上で生育不良、抽苔（とう立ち）のリスク増大。",
+      "cold_tolerance": "-5℃程度まで耐えるが、霜害を受けやすい。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。水分要求量が非常に高い。",
+      "flood_tolerance": "低。根腐れを起こしやすい。",
+      "optimal_rainfall": "年間1000mm以上の降雨もしくは十分な灌漑が必要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が折れやすく、風害に弱い。",
+      "hail_damage_recovery": "低い。",
+      "rapid_temperature_change": "抽苔や生育障害を引き起こしやすい。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "中程度",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやヨトウムシの発生期間が長期化するリスクがある。",
+      "disease_resistance_stability": "高温多湿環境で軟腐病や斑点病などの菌類病が増加する懸念がある。",
+      "beneficial_organism_relationships": "花は天敵昆虫を誘引するが、気候変動による生態系変化の影響は不明。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯の沿岸部や冷涼な内陸地域",
+        "2050_projection": "より高緯度・高標高地域へシフトする可能性が高い",
+        "2100_projection": "現在の主産地での夏作は困難になる可能性",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 3
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培品種間の交雑は容易。野生種との交雑も可能で、遺伝資源としての価値が高い。種間交雑に関する情報は限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "var. dulce (Stalk Celery)",
+        "var. rapaceum (Celeriac)",
+        "var. secalinum (Leaf Celery)"
+      ],
+      "interspecific_compatibility": [
+        "Apium prostratum（限定的な成功報告あり）"
+      ],
+      "intergeneric_possibility": [
+        "Petroselinum crispum (パセリ)との交雑報告があるが、成功率は極めて低く、実用化されていない。"
+      ],
+      "successful_natural_hybrids": [
+        "栽培品種と野生種(var. graveolens)間の自然交雑が自生地周辺で見られる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパやアジアに地域的な在来品種が存在するが、商業栽培では遺伝的多様性は限定的。",
+      "wild_gene_pool": "野生種(Apium graveolens var. graveolens)は塩害や病害への耐性遺伝子の重要な供給源である。",
+      "adaptive_genetic_variation": "野生種は塩性湿地という特異な環境に適応しており、高いストレス耐性遺伝子を持つ可能性がある。",
+      "inbreeding_depression_risk": "商業品種では中程度のリスクがある。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ヨーロッパ沿岸部",
+        "environmental_pressure": "土壌の塩分濃度",
+        "adaptive_response": "野生種は体内に塩分を蓄積し、浸透圧を調整する能力を持つ（耐塩性）。",
+        "time_scale": "数千年",
+        "mechanism": "浸透圧調整物質の生成、イオン輸送体の活性化など。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐塩性や耐病性の向上が期待される。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "香りや風味の異なる新品種の作出可能性。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "他属との間には強い交雑障壁が存在する。",
+      "chromosome_compatibility": "種内では問題ない。",
+      "fertility_of_hybrids": "種内交雑では稔性は高い。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "塩ストレス",
+        "adaptive_traits": "耐塩性",
+        "heritability": "中〜高",
+        "response_to_selection": "あり"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の構成要素としてのセロリに特化した研究は少ない。セリ科植物の一般的特性からの類推を含む。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅い繊維状の根系。土壌の深層改良効果は限定的。",
+      "organic_matter_contribution": "残渣は土壌有機物となるが、バイオマスは中程度。",
+      "soil_structure_improvement": "限定的",
+      "erosion_control": "被覆率が低いうちは効果が小さい。",
+      "nutrient_cycling_role": "カリウム要求量が高い。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花すると小さな白い花を多数つけ、ハナアブ、寄生蜂、ハナバチなど多様な小型の天敵・花粉媒介昆虫を誘引する。",
+      "beneficial_insect_habitat": "天敵昆虫の蜜源・花粉源となり、農生態系全体の害虫抑制に貢献する可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "中程度の貢献"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "高い水分要求量のため、土壌水分を消費する傾向が強い。",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "貢献しない"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い",
+      "soil_carbon_enhancement": "限定的",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "マメ科（インゲンなど）",
+        "ネギ類（リーキなど）",
+        "アブラナ科（キャベツなど）"
+      ],
+      "natural_pest_control": "その香りがキャベツシロチョウなどの害虫を遠ざける効果が報告されている。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "限定的"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "天敵昆虫の誘引により貢献する可能性がある。",
+      "stress_tolerance": "植物自体のストレス耐性は低い。",
+      "recovery_capacity": "低い",
+      "adaptability": "低い"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、健康関連メディア、食品科学の研究に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "低カロリーで水分補給に適し、ビタミン・ミネラルを含むため、植物性中心の食生活で重要な役割を果たす。",
+      "food_security_contribution": "主食作物ではないため限定的だが、食の多様性には貢献する。",
+      "local_food_system_integration": "家庭菜園や小規模農家でも栽培されており、地域食品システムに組み込みやすい。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ジュース、スムージー市場",
+        "健康志向スナック（乾燥セロリなど）",
+        "機能性食品原料（抽出物）"
+      ],
+      "value_added_products": [
+        "セロリジュース",
+        "セロリソルト",
+        "香味オイル",
+        "サプリメント"
+      ],
+      "niche_market_value": "オーガニック市場や、特定の健康トレンド（例：セロリジュース）において高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源保全に関する国際機関の報告書や、地域の保全活動に基づく。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生種の自生地である沿岸湿地は、開発や海面上昇の脅威に晒されている。",
+    "climate_change_vulnerability": "高い",
+    "cultural_erosion_risk": "低い。世界的に広く利用されているため。",
+    "conservation_actions_needed": [
+      "野生種の生息域内保全（In-situ）",
+      "多様な在来品種の収集と種子バンクでの域外保全（Ex-situ）",
+      "耐性遺伝子（特に耐塩性）の評価と育種への利用"
+    ],
+    "priority_conservation_regions": [
+      "地中海沿岸",
+      "大西洋ヨーロッパ沿岸"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには多数の栽培品種および野生種の系統が保存されている。",
+    "in_situ_conservation_efforts": "一部の沿岸保護区で実施されているが、セロリの野生種に特化した活動は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査全体の分析に基づく総合評価。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海沿岸（野生種の生態と遺伝的多様性）",
+      "東南アジア（葉セロリの利用と栽培法）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、乾燥）に対する品種レベルでの定量的応答データ",
+      "野生種の持つストレス耐性メカニズムの遺伝的解明",
+      "リジェネラティブ農業システムにおける具体的な貢献度の評価"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な種子会社のカタログおよび農業研究報告書に基づく。"
+      },
+      "variety_name": "Tall Utah 52-70R",
+      "local_name": "トールユタ",
+      "origin_region": "アメリカ合衆国",
+      "distinctive_characteristics": "濃緑色で肉厚、筋が少ない茎。生育旺盛で市場での主流品種。",
+      "cultural_importance": "北米の商業生産を代表する品種。",
+      "climate_adaptation": "比較的耐病性があるが、高温や乾燥には弱い。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "ヨーロッパの園芸書および農業研究報告書に基づく。"
+      },
+      "variety_name": "Monarch",
+      "local_name": "モナーク",
+      "origin_region": "ヨーロッパ",
+      "distinctive_characteristics": "肥大した球形の根（Celeriac）。ナッツのような風味としっかりした食感を持つ。",
+      "cultural_importance": "ヨーロッパ中部・東部でスープやロースト、サラダ（レムラード）に多用される。",
+      "climate_adaptation": "茎セロリよりやや耐寒性がある。",
+      "conservation_status": "広く栽培"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "medium",
+        "source_comment": "アジアの農業情報サイトおよび民族植物学の記録に基づく。"
+      },
+      "variety_name": "Chinese Pink Celery",
+      "local_name": "芹菜 (Qíncài)",
+      "origin_region": "中国",
+      "distinctive_characteristics": "細く中空の茎で、香りが非常に強い。葉を主に利用する。茎がピンク色を帯びる品種もある。",
+      "cultural_importance": "中国料理の炒め物やスープに不可欠な香味野菜。",
+      "climate_adaptation": "一般的な茎セロリよりも耐暑性がある傾向。",
+      "conservation_status": "地域的に栽培"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Royal Botanic Gardens (Plants of the World Online)",
+      "FAOSTAT",
+      "USDA FoodData Central",
+      "Ethnobotanical literature",
+      "IPCC reports"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生種の遺伝子資源の具体的な機能評価"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米に関する情報は豊富だが、他の地域、特に在来種のデータは限定的。",
+    "missing_information": [
+      "アフリカ、南米における伝統的利用法",
+      "気候変動による栽培適地の定量的予測"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

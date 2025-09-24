@@ -1,0 +1,569 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information is well-documented in botanical and agricultural databases due to its dual status as a specialty crop and an invasive weed. Data on its specific food use is concentrated in Japanese sources."
+    },
+    "primary_name": "Kochia",
+    "scientific_name": "Bassia scoparia",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "種子",
+      "葉"
+    ],
+    "origin_region": "ユーラシア大陸（東ヨーロッパから中央アジア）",
+    "wild_relatives": [
+      "Bassia hyssopifolia",
+      "Bassia dasyphylla"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are widely documented. The distinction between names for the plant itself and its edible seed product ('Tonburi') is important."
+    },
+    "international": {
+      "en": [
+        "Kochia",
+        "Summer Cypress",
+        "Burning Bush",
+        "Mexican Fireweed"
+      ],
+      "scientific_common": "Bassia"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ほうきぎ (Hokigi), とんぶり (Tonburi - seeds)",
+            "script": "漢字/ひらがな"
+          },
+          {
+            "lang": "zh",
+            "name": "地肤 (Dì fū)",
+            "script": "汉字"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "ru",
+            "name": "Прутняк веничный (Prutnyak venichnyy)",
+            "script": "Cyrillic"
+          },
+          {
+            "lang": "de",
+            "name": "Besenkraut",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is stable, though it was formerly placed in the genus Kochia and the family Chenopodiaceae."
+    },
+    "family": {
+      "en": "Amaranth family",
+      "la": "Amaranthaceae"
+    },
+    "genus": {
+      "en": "Bassia",
+      "la": "Bassia"
+    },
+    "species": {
+      "en": "Kochia",
+      "la": "scoparia"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "The cultural value is extremely polarized: highly valued in a specific Japanese region, but viewed negatively as an invasive weed in North America and elsewhere. This duality is its most significant cultural feature."
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（日本・秋田県）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "種子を加工した「とんぶり」は「畑のキャビア」と呼ばれ、その独特の食感が珍重される。郷土料理に不可欠な食材であり、地域のアイデンティティの一部となっている。",
+        "seasonal_significance": "秋の収穫と加工は地域の季節的な風物詩。",
+        "cultivation_decline_risk": "高"
+      },
+      {
+        "region": "北米",
+        "importance_level": 1,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "観賞用植物（Burning Bush）として導入されたが、現在は農業や牧草地における有害な侵略的雑草として認識され、管理対象となっている。経済的には負の価値を持つ。",
+        "seasonal_significance": "秋の紅葉が観賞価値を持つが、夏場の繁茂が問題視される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中央アジア",
+        "importance_level": 2,
+        "cultural_roles": [
+          "薬用",
+          "その他"
+        ],
+        "traditional_uses": "乾燥させた茎で箒を作る伝統的な利用がある（和名「ほうきぎ」の由来）。また、家畜の飼料としても利用される。",
+        "seasonal_significance": "不明",
+        "cultivation_decline_risk": "中"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（秋田郷土料理）",
+        "role": "essential",
+        "traditional_dishes": [
+          "とんぶりと長芋の和え物",
+          "納豆とんぶり"
+        ],
+        "preparation_methods": [
+          "加熱",
+          "乾燥",
+          "水漬",
+          "揉み"
+        ],
+        "cultural_context": "主に食感を楽しむための食材（テクスチャー・フード）。味はほとんどなく、プチプチとした独特の歯ざわりが特徴。他の食材と混ぜて使用されることが多い。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "ユーラシア大陸では古くから箒の材料として利用されてきた。中国では漢方薬（地膚子）としての利用史がある。",
+      "trade_routes": "不明",
+      "cultural_exchange": "20世紀初頭に観賞用植物として北米に導入され、その後、侵略的雑草として世界中に拡散した。",
+      "domestication_history": "食用（とんぶり）としての栽培化は、日本の秋田県で独自に行われたと考えられており、その歴史は比較的新しい（江戸時代以降）。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "乾燥した季節に生育可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最適。広範囲に自生・栽培されている。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "最適。寒暖差に強く、乾燥にも耐える。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "非常に高い適性を持つ。乾燥地や塩類土壌でも生育可能。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高地や極端な低温には不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "初秋",
+        "growing_period_days": "120-150"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "日照",
+        "土壌の排水性",
+        "雑草との競合"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": 100,
+          "characteristics": "食用（とんぶり）としての商業生産は秋田県にほぼ限定されている。生産量は限定的で、生産者の高齢化が課題。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "とんぶりの栄養価データは日本の食品成分データベースで利用可能。薬用成分に関する研究は存在するが、食品としての機能性研究は限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "89",
+        "protein_g": "6.3",
+        "carbs_g": "15.9",
+        "fat_g": "1.7",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "630 µg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "200 µg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "74 µg",
+          "daily_value_percent": "不明"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "サポニン",
+        "concentration": "可変",
+        "health_effect": "抗炎症、免疫調節作用の可能性。過剰摂取は消化器系への刺激となるため、加工過程で除去される。"
+      },
+      {
+        "compound": "オレアノール酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化、抗炎症作用が報告されている。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学 (TCM)",
+        "uses": [
+          "利尿",
+          "皮膚のかゆみ止め",
+          "目の充血緩和"
+        ],
+        "preparation": "成熟した果実を乾燥させたもの（地膚子）を煎じて内服、または外用する。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "血糖値上昇抑制効果",
+        "抗アレルギー作用"
+      ],
+      "safety_considerations": "種子に含まれるサポニンは、適切な加工（あく抜き）をしない場合、溶血性や消化器への刺激性を示す可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "料理利用は日本の「とんぶり」に特化しており、その情報は豊富。他の地域での料理利用は非常に稀。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本（秋田）",
+        "methods": [
+          "和える",
+          "混ぜる",
+          "トッピング"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "長芋",
+          "納豆",
+          "豆腐",
+          "マヨネーズ",
+          "酢の物"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "とんぶり加工",
+        "regions": [
+          "日本（秋田）"
+        ],
+        "shelf_life": "数日（生）、1年（瓶詰・冷凍）",
+        "quality_changes": "収穫した果実を煮て、何度も水にさらしながら手で揉んで外皮を取り除く。この工程でサポニンが除去され、独特の食感が生まれる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "ほぼ無味無臭。かすかに草のような青い香り。",
+      "aroma_compounds": [],
+      "texture_characteristics": "プチプチとしたキャビアのような独特の歯ごたえ。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "耐乾性・耐暑性に関する定性的情報は豊富だが、これは雑草としての特性研究に基づく。食用品種の気候変動応答に関する定量的データは乏しい。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "18-30°C",
+      "extreme_heat_survival": ">40°C",
+      "cold_tolerance": "霜に弱い（-2°C以下）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い（C4植物）",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "250-600mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（茎が折れやすい場合がある）",
+      "hail_damage_recovery": "高（成長が旺盛なため）",
+      "rapid_temperature_change": "高い適応性"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中（C4植物のためC3植物より限定的だが、生育は促進される）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "一般的に強健だが、一部のウイルス病（例：テンサイカーリートップウイルス）の媒介宿主となる。",
+      "disease_resistance_stability": "高い",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯、半乾燥地帯",
+        "2050_projection": "温帯域で北上、乾燥地帯で拡大",
+        "2100_projection": "さらに高緯度地域や乾燥が進行する地域へ拡大する可能性",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "北米の雑草個体群における除草剤抵抗性の急速な進化は、高い遺伝的多様性と適応能力を示唆している。種間交雑に関するデータは限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "種内の異なるバイオタイプ（例：食用、観賞用、雑草型）と容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "近縁のBassia属との交雑可能性は理論的に存在するが、自然界での報告は稀。"
+      ],
+      "intergeneric_possibility": [
+        "低い"
+      ],
+      "successful_natural_hybrids": [
+        "除草剤抵抗性バイオタイプは、遺伝子流動と自然選択の結果生じた。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "日本の食用在来種は遺伝的に均一化している可能性がある。",
+      "wild_gene_pool": "ユーラシア大陸の野生・雑草個体群は広範な遺伝子プールを保持している。",
+      "adaptive_genetic_variation": "非常に高い。除草剤への抵抗性獲得がその証拠。",
+      "inbreeding_depression_risk": "低い（風媒花であり、他家受精が主であるため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "北米、オーストラリア",
+        "environmental_pressure": "除草剤（グリホサート、ALS阻害剤）の反復使用",
+        "adaptive_response": "複数の除草剤に対する抵抗性の獲得",
+        "time_scale": "10-20年",
+        "mechanism": "標的酵素の変異、代謝分解、遺伝子重複など複数のメカニズムによる。"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐塩性や耐乾性をさらに向上させる可能性がある。",
+      "improved_nutritional_content": "可能性はあるが、研究されていない。",
+      "novel_characteristics": "雑草型の強健な性質を食用品種に導入できる可能性がある。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種内ではほとんどない。",
+      "chromosome_compatibility": "種内では問題ない。",
+      "fertility_of_hybrids": "高い",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "乾燥、塩類集積、除草剤",
+        "adaptive_traits": "深い根系、高い水利用効率、除草剤抵抗性",
+        "heritability": "高い",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での研究はほとんどない。評価は、植物の生態学的特性（耐乾性、深根性、雑草性）からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く発達する主根を持ち、硬盤層を破砕する可能性がある。",
+      "organic_matter_contribution": "高いバイオマス生産により、緑肥として土壌有機物を増やすポテンシャルがある。",
+      "soil_structure_improvement": "根による土壌の団粒化促進。",
+      "erosion_control": "地表被覆により風食・水食を抑制する。",
+      "nutrient_cycling_role": "深い土壌層から養分を吸い上げる可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "低い（風媒花）",
+      "beneficial_insect_habitat": "生息地や避難場所を提供する可能性があるが、単一栽培は多様性を低下させる。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "侵略性が高く、在来種の多様性を減少させるリスクがある。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が水みちを作り、浸透を促進する可能性がある。",
+      "moisture_retention": "土壌被覆により蒸発を抑制するが、植物自体の蒸散は多い。",
+      "runoff_reduction": "高い",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "高い",
+      "below_ground_carbon": "中（深い根系を持つため）",
+      "soil_carbon_enhancement": "緑肥として利用すれば可能性がある。",
+      "carbon_sequestration_rate": "速い（一年草として）"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "不明"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の生育を阻害するアレロパシー効果が報告されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "塩類土壌や劣化土壌の修復（フィトレメディエーション）に利用できる可能性がある。",
+      "stress_tolerance": "非常に高い",
+      "recovery_capacity": "高い",
+      "adaptability": "非常に高い"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食用としてのポテンシャルはニッチ市場に限られるが、バイオマスや土地再生作物としての応用可能性が議論されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "とんぶりはユニークな食感を提供し、植物性食品の多様性を高める。",
+      "food_security_contribution": "乾燥・塩類土壌などの限界地で栽培可能な作物としてのポテンシャルがある。",
+      "local_food_system_integration": "日本の秋田県における地域特産品としての成功事例。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "世界的な日本食ブームに伴う「とんぶり」の輸出",
+        "グルテンフリー食材、テクスチャー・フードとしての新しい市場開拓"
+      ],
+      "value_added_products": [
+        "瓶詰、冷凍とんぶり",
+        "ドレッシングやソースへの混合"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "保全対象が二極化している。種全体としては保全不要だが、日本の食文化とそれに紐づく在来種は高い保全優先度を持つ。"
+    },
+    "genetic_erosion_risk": "高（日本の食用品種に関して）",
+    "habitat_loss_threat": "低い（種全体として）",
+    "climate_change_vulnerability": "低い（種全体として）",
+    "cultural_erosion_risk": "高（とんぶり食文化と生産技術の継承）",
+    "conservation_actions_needed": [
+      "日本の食用品種の遺伝資源の収集と保存（ジーンバンク）",
+      "とんぶり生産技術と食文化の記録・継承支援",
+      "後継者育成プログラムの実施"
+    ],
+    "priority_conservation_regions": [
+      "日本・秋田県"
+    ],
+    "ex_situ_conservation_status": "不明（日本の食用品種について）",
+    "in_situ_conservation_efforts": "秋田県の生産者組合による生産維持活動"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "総合評価。この植物の持つ極端な二面性（地域限定の貴重な食材 vs 世界的な有害雑草）は、食文化と人間の相互作用を考える上で非常に興味深い事例である。"
+    },
+    "cultural_heritage_value": 7,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 6,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 4,
+    "recommended_study_regions": [
+      "日本・秋田県（食文化と栽培品種）",
+      "中央アジア（原産地での遺伝的多様性）",
+      "北米（侵略地での急速な適応進化）"
+    ],
+    "knowledge_gaps": [
+      "食用品種と雑草バイオタイプの遺伝的差異の解明",
+      "リジェネラティブ農業システムへの組み込みに関する実証的研究",
+      "サポニン以外の機能性成分に関する包括的な分析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "とんぶり用の品種は特定の系統が栽培されているが、公的な品種登録名は不明な場合が多い。"
+      },
+      "variety_name": "とんぶり用在来種",
+      "local_name": "とんぶり",
+      "origin_region": "日本・秋田県",
+      "distinctive_characteristics": "果実が大きく、加工に適している。雑草的な性質が比較的弱いように選抜されている可能性がある。",
+      "cultural_importance": "秋田県の郷土料理に不可欠で、地域の食文化を象徴する。",
+      "climate_adaptation": "日本の温帯気候に適応している。",
+      "conservation_status": "Vulnerable (絶滅危惧)"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "USDA PLANTS Database",
+      "CABI Invasive Species Compendium",
+      "日本の食品成分データベース",
+      "民族植物学的研究論文"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する食用品種の応答に関する研究",
+      "食用品種と雑草バイオタイプのゲノム比較"
+    ],
+    "regional_data_coverage": "東アジア（日本）と北米に偏在。原産地の中央アジアにおける情報は限定的。",
+    "missing_information": [
+      "世界全体での栽培統計",
+      "品種ごとの詳細な栄養価分析"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Information compiled from major botanical databases (Kew, GRIN), ethnobotanical studies, and invasive species literature. Its dual nature as a traditional food and a globally invasive species is well-documented."
+    },
+    "primary_name": "Japanese Knotweed",
+    "scientific_name": "Fallopia japonica",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "根"
+    ],
+    "origin_region": "東アジア（日本、中国、韓国、台湾）",
+    "wild_relatives": [
+      "Fallopia sachalinensis",
+      "Fallopia baldschuanica",
+      "Fallopia × bohemica"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Names are well-documented due to its global spread as both an ornamental and invasive plant. Indigenous names are recorded in ethnobotanical literature."
+    },
+    "international": {
+      "en": [
+        "Japanese Knotweed",
+        "Mexican Bamboo",
+        "Fleeceflower"
+      ],
+      "scientific_common": "Japanese Knotweed"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "イタドリ",
+            "script": "Katakana/Kanji"
+          },
+          {
+            "lang": "zh",
+            "name": "虎杖",
+            "script": "Hanzi"
+          },
+          {
+            "lang": "ko",
+            "name": "호장근",
+            "script": "Hangul"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Japanischer Staudenknöterich",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Renouée du Japon",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "アイヌ（日本）",
+        "name": "クッタラ (Kuttara)",
+        "cultural_significance": "春の山菜として、また痛み止めなどの民間薬として利用されてきた。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Taxonomic classification is well-established, although its placement in Reynoutria vs. Fallopia is debated by some botanists. Fallopia is currently widely accepted."
+    },
+    "family": {
+      "en": "Buckwheat family",
+      "la": "Polygonaceae"
+    },
+    "genus": {
+      "en": "Knotweed",
+      "la": "Fallopia"
+    },
+    "species": {
+      "en": "Japanese Knotweed",
+      "la": "japonica"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "var.",
+        "name": "Fallopia japonica var. compacta"
+      },
+      {
+        "rank": "nothospecies",
+        "name": "Fallopia × bohemica (F. japonica × F. sachalinensis)"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "The plant exhibits a profound cultural dichotomy: valued in its native East Asia, but vilified as invasive in Europe and North America. This dualism is a key aspect of its global value."
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "春の山菜として若芽を食用にする。根は漢方薬「虎杖根（こじょうこん）」として消炎、鎮痛、利尿などに用いられる。季節の訪れを告げる植物としての文化的意味合いを持つ。",
+        "seasonal_significance": "春の訪れを象徴する山菜（山菜）として重要。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "ヨーロッパ",
+        "importance_level": 1,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "19世紀に観賞用植物として導入されたが、現在は主に根絶対象の侵略的 외来種と見なされる。一部のフォレジャー（採集家）が食用に利用するが一般的ではない。経済的には駆除コストが問題となる。",
+        "seasonal_significance": "特になし。成長期に問題が顕在化する。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 1,
+        "cultural_roles": [
+          "経済作物"
+        ],
+        "traditional_uses": "ヨーロッパと同様、侵略的外来種として認識されている。駆除対象であり、不動産価値を下げる要因ともなる。一部で食用や薬用（特に代替医療）に関心が持たれている。",
+        "seasonal_significance": "特になし。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（特に山菜料理）",
+        "role": "common",
+        "traditional_dishes": [
+          "イタドリの炒め煮（きんぴら）",
+          "イタドリの漬物",
+          "イタドリの天ぷら"
+        ],
+        "preparation_methods": [
+          "皮を剥く",
+          "アク抜き（茹でる、水にさらす）",
+          "炒める",
+          "煮る",
+          "漬ける"
+        ],
+        "cultural_context": "春の味覚として、自然の恵みをいただく「山菜文化」の一環。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "中国では古くから漢方薬「虎杖」として利用され、神農本草経にも記載がある。日本では民間薬や食料として古くから利用されていた。",
+      "trade_routes": "19世紀半ば、フィリップ・フォン・シーボルトによって観賞用植物としてヨーロッパに紹介され、世界中に広まるきっかけとなった。",
+      "cultural_exchange": "東洋の薬用・食用植物が、西洋で観賞用植物となり、最終的に侵略的種となるという、植物と人間の関係性の複雑な事例となっている。",
+      "domestication_history": "栽培化はされておらず、主に野生のものを採集して利用する。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿には適さない。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "生育可能だが、温帯ほど旺盛ではない。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最も生育に適した気候帯。湿潤な土壌と十分な日照を好む。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "冬の低温にも耐えるが、極端な乾燥には弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に弱く、生育は困難。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高地にも適応する。日本の山岳地帯にも自生。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "（自生）",
+        "harvest_season": "春（4月～6月）",
+        "growing_period_days": "不明"
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（栽培作物ではないため）",
+      "factors_affecting_yield": [
+        "日照",
+        "土壌水分",
+        "土壌の肥沃度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "0（商業生産は行われていない）",
+      "major_producers": [
+        {
+          "country": "該当なし",
+          "production_share": 0,
+          "characteristics": "主に野生のものを採集（フォレージング）する。商業的な大規模生産は存在しない。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "主要な栄養素に関するデータは存在するが、機能性成分、特にレスベラトロールに関する研究が近年注目されている。伝統医学での利用は豊富に記録されている。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "21",
+        "protein_g": "1.5",
+        "carbs_g": "4.5",
+        "fat_g": "0.2",
+        "fiber_g": "2.5"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "30 mg",
+          "daily_value_percent": "33"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "2000 IU",
+          "daily_value_percent": "40"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "500 mg",
+          "daily_value_percent": "11"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "0.5 mg",
+          "daily_value_percent": "22"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "レスベラトロール (Resveratrol)",
+        "concentration": "根に高濃度で含有",
+        "health_effect": "抗酸化作用、抗炎症作用、心血管保護作用"
+      },
+      {
+        "compound": "エモジン (Emodin)",
+        "concentration": "根に含有",
+        "health_effect": "緩下作用、抗ウイルス作用、抗腫瘍作用の可能性"
+      },
+      {
+        "compound": "シュウ酸 (Oxalic acid)",
+        "concentration": "茎に含有",
+        "health_effect": "過剰摂取は結石の原因となるため、アク抜きが必要"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学 (TCM)",
+        "uses": [
+          "関節炎や痛みの緩和",
+          "黄疸の治療",
+          "月経不順の改善",
+          "火傷の治療"
+        ],
+        "preparation": "根を乾燥させ、煎じ薬（デコクション）として使用する（虎杖根）。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "レスベラトロール源としての価値",
+        "抗酸化作用"
+      ],
+      "ongoing_research": [
+        "ライム病の補助療法としての効果",
+        "抗がん作用",
+        "アルツハイマー病予防効果"
+      ],
+      "safety_considerations": "シュウ酸を含むため、生食や過剰摂取は避けるべき。妊娠中や授乳中の使用に関する安全性は確立されていない。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "東アジア、特に日本での伝統的調理法は確立されている。欧米での利用は限定的だが、ルバーブの代替としてパイやジャムに使う例が見られる。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "炒め物 (Kinpira)",
+          "煮物 (Nimono)",
+          "漬物 (Tsukemono)",
+          "天ぷら (Tempura)"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "醤油",
+          "みりん",
+          "ごま油",
+          "味噌"
+        ]
+      },
+      {
+        "region": "欧米（フォレージング）",
+        "methods": [
+          "ジャム",
+          "パイ",
+          "ソース",
+          "砂糖漬け"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "砂糖",
+          "生姜",
+          "レモン",
+          "イチゴ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け・醤油漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数ヶ月～1年",
+        "quality_changes": "酸味が増し、食感が柔らかくなる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い酸味、爽やか、わずかに青臭さ",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "シャキシャキとした食感（若芽）、加熱すると柔らかくなる"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "定性的な耐性は侵略的種としての生態から明らかだが、定量的な実験データは限定的。その高い繁殖力と環境適応能力は、気候変動下での生存に有利に働くと考えられる。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "不明",
+      "cold_tolerance": "-35°C以下（地下茎）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "1000-2000 mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地上部は倒れるが地下茎から再生するため極めて高い",
+      "hail_damage_recovery": "高い",
+      "rapid_temperature_change": "高い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "高いと推定される",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "原産地外では天敵がほとんどおらず、非常に高い抵抗性を持つ。温暖化で天敵の分布が変化する可能性はある。",
+      "disease_resistance_stability": "高い",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯全域",
+        "2050_projection": "現在の適地に加え、より高緯度・高地の地域へ拡大",
+        "2100_projection": "さらなる高緯度・高地への拡大が予測される",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "近縁種との交雑はよく知られており、特にF. x bohemicaはF. japonicaよりもさらに強力な侵略性を示す例として有名。これは自然な遺伝子流動と適応の重要な事例である。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "var. compacta"
+      ],
+      "interspecific_compatibility": [
+        "Fallopia sachalinensis"
+      ],
+      "intergeneric_possibility": [
+        "不明"
+      ],
+      "successful_natural_hybrids": [
+        "Fallopia × bohemica"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "該当なし（栽培種ではない）",
+      "wild_gene_pool": "原産地の日本では遺伝的多様性が高い。一方、欧米の侵略的個体群は、単一の雌株由来のクローンであることが多く、遺伝的多様性が極端に低い。",
+      "adaptive_genetic_variation": "原産地では多様な環境に適応した遺伝的変異が存在する。",
+      "inbreeding_depression_risk": "低い（主に栄養繁殖で増えるため）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ヨーロッパ",
+        "environmental_pressure": "新たな環境への定着",
+        "adaptive_response": "F. sachalinensisとの交雑による雑種(F. x bohemica)の形成。雑種は両親よりも幅広い環境に適応し、より旺盛に成長する。",
+        "time_scale": "19世紀後半以降",
+        "mechanism": "雑種強勢"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "交雑により、より広範な温度・土壌条件への耐性が向上する可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "より大きな葉、より高い成長率など。",
+      "hybrid_vigor_potential": "非常に高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "低い（近縁種との間で）",
+      "chromosome_compatibility": "F. japonica (2n=88)とF. sachalinensis (2n=44)は倍数性が異なるが、交雑可能。",
+      "fertility_of_hybrids": "F. x bohemicaは稔性があり、戻し交配も起こる。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "撹乱された土地、人間の活動",
+        "adaptive_traits": "急速な成長、栄養繁殖能力、アレロパシー",
+        "heritability": "不明",
+        "response_to_selection": "非常に速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業の文脈での研究はほぼない。評価は、その生態学的特性（侵略性、バイオマス生産、根系）からの推測に基づく。生物多様性への負の影響が非常に大きいため、利用には極度の注意が必要。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "広範で深い地下茎（リゾーム）を持ち、土壌の物理性を改善する可能性がある。",
+      "organic_matter_contribution": "地上部のバイオマスが大きく、大量の有機物を土壌に還元する。",
+      "soil_structure_improvement": "地下茎が硬盤層を破壊する可能性がある。",
+      "erosion_control": "河川敷などで土壌を安定させ、侵食を防ぐ効果がある。",
+      "nutrient_cycling_role": "土壌深層から養分を吸い上げるダイナミック・アキュムレーターとしての可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "夏から秋にかけて開花し、ミツバチなどの訪花昆虫にとって重要な蜜源となる。",
+      "beneficial_insect_habitat": "不明",
+      "soil_microorganism_interaction": "アレロパシー効果により、他の植物や微生物に負の影響を与える可能性がある。",
+      "above_ground_biodiversity": "侵略地では密な群落を形成し、在来植物を駆逐するため、生物多様性を著しく低下させる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根系が土壌をほぐすことで改善する可能性がある。",
+      "moisture_retention": "不明",
+      "runoff_reduction": "密な植生が地表流出を抑制する。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "非常に高い",
+      "below_ground_carbon": "広範な地下茎に大量の炭素を貯蔵する。",
+      "soil_carbon_enhancement": "高いバイオマス生産により土壌炭素を増やす可能性がある。",
+      "carbon_sequestration_rate": "高いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "他の植物の成長を阻害する化学物質を放出する可能性が示唆されている。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "単一優占群落を形成するため、生態系の安定性を著しく損なう。",
+      "stress_tolerance": "植物個体としては非常に高い。",
+      "recovery_capacity": "非常に高い。",
+      "adaptability": "非常に高い。"
+    },
+    "regenerative_score": 3
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食用としての市場はニッチだが、機能性成分（レスベラトロール）の抽出源としての商業的関心が高い。また、バイオマスエネルギー源や土壌汚染修復（ファイトレメディエーション）への応用も研究されている。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "春季の季節的な野菜として、またフォレージング文化の一環として価値を持つ。",
+      "food_security_contribution": "管理が不要で繁殖力が強いため、特定の条件下では緊急時の食料源となる可能性がある。",
+      "local_food_system_integration": "日本の「道の駅」などで山菜として販売される例がある。",
+      "alternative_protein_potential": "低い"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "機能性食品・サプリメント（レスベラトロール源）",
+        "ニッチな加工食品（ジャム、ピクルス）",
+        "バイオマスエネルギー原料",
+        "ファイトレメディエーション（重金属汚染土壌の浄化）"
+      ],
+      "value_added_products": [
+        "高純度レスベラトロール抽出物",
+        "イタドリ茶",
+        "化粧品原料"
+      ],
+      "niche_market_value": "食用としてはニッチだが、医薬品・サプリメント原料としては高い潜在価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "世界的には駆除対象であり、保全の対象ではない。しかし、原産地である東アジア、特に日本における遺伝的多様性は、将来の気候変動適応や有用物質探索のための貴重な遺伝資源であり、その生息環境を含めた保全が重要である。"
+    },
+    "genetic_erosion_risk": "中（原産地において）",
+    "habitat_loss_threat": "原産地での開発による自生地の破壊。",
+    "climate_change_vulnerability": "低い",
+    "cultural_erosion_risk": "高（伝統的な食文化や薬用知識の継承が途絶えるリスク）",
+    "conservation_actions_needed": [
+      "原産地における遺伝的多様性のインベントリ作成と評価",
+      "伝統的知識の記録と保全",
+      "遺伝資源としてのジーンバンクでの系統保存"
+    ],
+    "priority_conservation_regions": [
+      "日本",
+      "中国"
+    ],
+    "ex_situ_conservation_status": "一部の植物園やジーンバンクで保存されているが、網羅的ではない。",
+    "in_situ_conservation_efforts": "特定の保全活動は行われていないが、国立公園などの保護地域内に自生している。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "この植物は、文化、生態、経済の各側面で極めて多面的かつ二元的な評価を持つため、辞典に含める価値が非常に高い。気候変動への適応と侵略性の関係を学ぶための優れた教材となる。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 4,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "日本（原産地での生態と文化利用）",
+      "イギリス（侵略生態学と管理）",
+      "北米（代替医療での利用と生態系への影響）"
+    ],
+    "knowledge_gaps": [
+      "リジェネラティブ農業における管理された利用法の開発",
+      "気候変動シナリオ下での侵略性の定量的予測",
+      "有用成分の品種・地域間での含有量の違い"
+    ],
+    "global_dictionary_compatibility": 10
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な変種と交雑種は植物学的に明確に定義されている。"
+      },
+      "variety_name": "Fallopia japonica var. compacta",
+      "local_name": "ヒメイタドリ",
+      "origin_region": "日本",
+      "distinctive_characteristics": "草丈が低く（1m未満）、葉が厚く、しわが多い。庭園のグランドカバーとして利用されることがあるが、同様に侵略性を持つ。",
+      "cultural_importance": "園芸植物として利用される。",
+      "climate_adaptation": "基本種と同様に高い。",
+      "conservation_status": "懸念なし"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "主要な変種と交雑種は植物学的に明確に定義されている。"
+      },
+      "variety_name": "Fallopia × bohemica",
+      "local_name": "ボヘミアン・ノットウィード",
+      "origin_region": "ヨーロッパ（交雑起源）",
+      "distinctive_characteristics": "イタドリとオオイタドリの中間的な形質を持つ。葉の基部がよりハート形に近い。両親よりも成長が旺盛で、侵略性がさらに強いとされる。",
+      "cultural_importance": "侵略的外来種として重要。",
+      "climate_adaptation": "非常に高い。",
+      "conservation_status": "懸念なし"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "高",
+    "primary_sources": [
+      "Invasive Species Compendium (CABI)",
+      "Plants of the World Online (Kew Science)",
+      "ethnobotanical studies in Japan and China",
+      "phytochemical research on resveratrol"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業における生態系サービスとリスクの定量的評価",
+      "気候変動が原産地の遺伝的多様性に与える影響",
+      "伝統的利用におけるシュウ酸除去の科学的メカニズム"
+    ],
+    "regional_data_coverage": "東アジア、ヨーロッパ、北米のデータは豊富。他の地域は限定的。",
+    "missing_information": [
+      "アフリカ、南米、オセアニアでの分布と影響に関する詳細データ"
+    ],
+    "update_priority": "高",
+    "quality_score": 9
+  }
+}

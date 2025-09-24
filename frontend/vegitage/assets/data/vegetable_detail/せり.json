@@ -1,0 +1,689 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース（KEW, GBIF）および農学研究論文からの情報を統合。野生近縁種との詳細な遺伝的関係については情報が限定的。"
+    },
+    "primary_name": "Water Dropwort",
+    "scientific_name": "Oenanthe javanica",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "茎",
+      "葉"
+    ],
+    "origin_region": "東アジア、東南アジア、南アジア、オーストラリア北東部",
+    "wild_relatives": [
+      "Oenanthe linearis",
+      "Oenanthe stolonifera"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "各地域の植物誌、民族植物学の記録、料理文化に関する文献から収集。"
+    },
+    "international": {
+      "en": [
+        "Water Dropwort",
+        "Chinese Celery",
+        "Java Water Dropwort",
+        "Japanese Parsley"
+      ],
+      "scientific_common": "Oenanthe"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "セリ",
+            "script": "カタカナ/漢字"
+          },
+          {
+            "lang": "ko",
+            "name": "미나리",
+            "script": "ハングル"
+          },
+          {
+            "lang": "zh",
+            "name": "水芹",
+            "script": "漢字"
+          }
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "languages": [
+          {
+            "lang": "vi",
+            "name": "Rau cần nước",
+            "script": "ラテン文字"
+          },
+          {
+            "lang": "th",
+            "name": "ผักชีล้อม",
+            "script": "タイ文字"
+          },
+          {
+            "lang": "ms",
+            "name": "Selasih",
+            "script": "ラテン文字"
+          },
+          {
+            "lang": "tl",
+            "name": "Apio",
+            "script": "ラテン文字"
+          }
+        ]
+      },
+      {
+        "region": "南アジア",
+        "languages": [
+          {
+            "lang": "hi",
+            "name": "पानी धनिया",
+            "script": "デーヴァナーガリー文字"
+          },
+          {
+            "lang": "bn",
+            "name": "পানকচু",
+            "script": "ベンガル文字"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Carrot family",
+      "la": "Apiaceae"
+    },
+    "genus": {
+      "en": "Water dropworts",
+      "la": "Oenanthe"
+    },
+    "species": {
+      "en": "Java water dropwort",
+      "la": "O. javanica"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "Oenanthe javanica subsp. javanica"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "東アジアおよび東南アジアの食文化、伝統行事に関する文献を広範に調査。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用"
+        ],
+        "traditional_uses": "日本では春の七草の一つとして無病息災を願う粥に利用。韓国ではキムチ、スープ、鍋物に不可欠な香味野菜。中国では古くから食用・薬用として利用されてきた歴史がある。",
+        "seasonal_significance": "春の訪れを告げる象徴的な野菜として多くの文化で重要視される。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "東南アジア",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "ベトナムのフォーや鍋料理、タイのスープやサラダに爽やかな香味を加えるために広く使われる。伝統医学では解熱や解毒剤として利用される。",
+        "seasonal_significance": "雨季に豊富に収穫されることが多い。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "七草粥",
+          "せり鍋",
+          "おひたし"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "生食",
+          "鍋"
+        ],
+        "cultural_context": "新年や春の行事食に欠かせない、季節感と健康を象徴する食材。"
+      },
+      {
+        "cuisine": "韓国料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "ミナリサムギョプサル",
+          "メウンタン（辛い魚の鍋）",
+          "ミナリキムチ"
+        ],
+        "preparation_methods": [
+          "炒める",
+          "鍋",
+          "漬ける"
+        ],
+        "cultural_context": "肉や魚の臭みを消し、爽やかな風味を加える重要な香味野菜。特に鍋料理で多用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本の『万葉集』や中国の『詩経』にも記述が見られ、少なくとも1500年以上にわたり東アジアで利用されてきた。",
+      "trade_routes": "地域内での交易品として流通していた可能性が高いが、大規模な国際交易の対象ではなかった。",
+      "cultural_exchange": "仏教の伝播などと共に、食文化や薬草としての知識がアジア各地に広がったと考えられる。",
+      "domestication_history": "明確な栽培化の起源は不明だが、自生していたものを採取・利用する中で、徐々に水田脇などで栽培されるようになったと推定される。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高湿度で水が利用可能な場所。日陰を好む。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "年間を通じて栽培可能。水辺や湿地が最適。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "春から秋にかけて生育。冬は地上部が枯れるが、根は越冬する。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さと夏の乾燥が不適。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "水辺環境が必須であり、乾燥地での栽培は極めて困難。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温のため生育が困難。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3-4月）、秋（9-10月）",
+        "harvest_season": "春から初夏、秋から初冬",
+        "growing_period_days": 60
+      },
+      {
+        "climate_zone": "亜熱帯・熱帯",
+        "planting_season": "通年",
+        "harvest_season": "通年",
+        "growing_period_days": 45
+      }
+    ],
+    "productivity": {
+      "yield_range": "15,000 - 30,000 kg/ha",
+      "factors_affecting_yield": [
+        "水管理",
+        "日照条件（半日陰を好む）",
+        "土壌の有機物含有量",
+        "連作障害"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "中国",
+          "production_share": "不明",
+          "characteristics": "長江流域以南で広く栽培。国内消費が主。"
+        },
+        {
+          "country": "韓国",
+          "production_share": "不明",
+          "characteristics": "全国的に栽培され、料理に不可欠。施設栽培も盛ん。"
+        },
+        {
+          "country": "日本",
+          "production_share": "不明",
+          "characteristics": "宮城県、茨城県などが主産地。水田を利用した伝統的栽培が行われる。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "代表的な栄養価データは存在するが、品種や栽培条件による変動に関するデータは乏しい。伝統的薬用利用は民族植物学の記録に基づく。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "16",
+        "protein_g": "1.8",
+        "carbs_g": "3.1",
+        "fat_g": "0.2",
+        "fiber_g": "2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "β-カロテン",
+          "amount": "4900 µg",
+          "daily_value_percent": "不明"
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "200 µg",
+          "daily_value_percent": "167%"
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "92 µg",
+          "daily_value_percent": "23%"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "500 mg",
+          "daily_value_percent": "11%"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "クエルセチン",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      },
+      {
+        "compound": "ケンペロール",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗がん作用の可能性"
+      },
+      {
+        "compound": "ペルシカリン",
+        "concentration": "不明",
+        "health_effect": "肝保護作用の可能性"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アジア",
+        "medical_system": "中医学",
+        "uses": [
+          "解熱",
+          "解毒",
+          "利尿",
+          "高血圧の緩和"
+        ],
+        "preparation": "生食、搾り汁、煎じ薬"
+      },
+      {
+        "region": "東南アジア",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "発熱",
+          "黄疸",
+          "消化不良"
+        ],
+        "preparation": "葉や茎をすり潰して湿布、または煎じて飲用"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "肝保護作用",
+        "抗酸化活性",
+        "抗炎症効果",
+        "血糖値降下作用"
+      ],
+      "safety_considerations": "セリ科の植物には有毒なドクゼリ（Cicuta virosa）など類似種が多いため、野生のものを採取する際は専門知識が必須。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "アジア各国の料理書や食文化研究に基づき、広範な利用法をまとめた。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アジア",
+        "methods": [
+          "生食（和え物、サラダ）",
+          "茹でる（おひたし）",
+          "鍋物",
+          "炒め物",
+          "スープ"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "鶏肉",
+          "鴨肉",
+          "豚肉",
+          "魚介類",
+          "豆腐",
+          "味噌",
+          "醤油"
+        ]
+      },
+      {
+        "region": "東南アジア",
+        "methods": [
+          "生食（ハーブとして）",
+          "スープ",
+          "麺料理のトッピング",
+          "炒め物"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "牛肉（フォー）",
+          "魚介類",
+          "ココナッツミルク",
+          "ナンプラー",
+          "ライム"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け・キムチ",
+        "regions": [
+          "韓国"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "香りは保持されるが、シャキシャキした食感は失われる。"
+      },
+      {
+        "method": "乾燥",
+        "regions": [
+          "中国",
+          "東南アジア"
+        ],
+        "shelf_life": "数ヶ月",
+        "quality_changes": "香りが凝縮されるが、生の状態とは異なる風味になる。薬用利用が多い。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "爽やかで清涼感のある苦味と、特有の強い香り。セロリと三つ葉を合わせたような風味。",
+      "aroma_compounds": [
+        "ピネン",
+        "リモネン",
+        "カンフェン"
+      ],
+      "texture_characteristics": "生の茎はシャキシャキとして歯切れが良い。葉は柔らかい。加熱すると柔らかくなるが、香りは残る。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "せり特有の気候変動応答に関する定量的な実験データは非常に少ない。以下の評価は、半水生植物としての一般的な特性と栽培地域の気候予測に基づく定性的な推定である。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "15-25°C",
+      "extreme_heat_survival": "35°C以上が続くと生育不良。水温上昇が致命的。",
+      "cold_tolerance": "-5°C（根茎は越冬可能）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "高",
+      "optimal_rainfall": "湿地または灌漑環境が必要なため、降水量よりも安定した水源が重要。"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "中（茎が折れやすいが、根茎から再生可能）",
+      "hail_damage_recovery": "中",
+      "rapid_temperature_change": "中"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中（C3植物として恩恵を受ける可能性があるが、水質や温度など他の要因が制限的になる）",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、アブラムシやハダニの発生期間が長期化するリスク。湿潤環境を好む病害（軟腐病など）のリスク増大。",
+      "disease_resistance_stability": "不明",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "東アジア、東南アジアの温帯・亜熱帯湿潤地域",
+        "2050_projection": "高緯度地域（東北地方、北海道、シベリア南部）へ適地が拡大する一方、既存産地では水不足と高温障害のリスクが増加。",
+        "2100_projection": "適地の北上傾向がさらに顕著になる。東南アジアの一部では高温により栽培が困難になる可能性。",
+        "confidence_level": "low"
+      }
+    ],
+    "climate_adaptation_score": 5
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "Oenanthe属の種間交雑に関する遺伝学的研究は非常に限定的。以下の記述は、属の一般的な特性からの類推を含む。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "アジア各地に多数の在来種や地方品種が存在し、種内交雑は容易と推定される。"
+      ],
+      "interspecific_compatibility": [
+        "同属の近縁種（O. stoloniferaなど）との交雑可能性はあるが、実証データは乏しい。"
+      ],
+      "intergeneric_possibility": [
+        "非常に低いと推定される。"
+      ],
+      "successful_natural_hybrids": [
+        "報告例は不明。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "アジア各地の在来品種群に高い遺伝的多様性が存在すると考えられる。",
+      "wild_gene_pool": "東アジアからオーストラリアにかけて広範に分布する野生集団が重要な遺伝資源となる。",
+      "adaptive_genetic_variation": "各地の気候や環境に適応した多様な生態型が存在する。",
+      "inbreeding_depression_risk": "栄養繁殖が容易なため、単一クローンでの栽培が続くとリスクが高まる。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "アジア各地",
+        "environmental_pressure": "異なる日長、温度、水質",
+        "adaptive_response": "開花時期、草姿、香り成分の分化",
+        "time_scale": "数百年～数千年",
+        "mechanism": "地域環境への自然選択"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "野生種との交雑により、耐病性や特定の環境ストレス（塩類など）への耐性を導入できる可能性がある。",
+      "improved_nutritional_content": "特定の機能性成分を多く含む系統を選抜・交配する可能性がある。",
+      "novel_characteristics": "香りの強弱や茎の太さなど、多様な形質を組み合わせる可能性がある。",
+      "hybrid_vigor_potential": "異なる地域系統間の交雑により、生育旺盛な雑種強勢が期待できる。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "不明",
+      "chromosome_compatibility": "Oenanthe javanicaの染色体数は2n=22。近縁種との倍数性の違いが障壁になる可能性がある。",
+      "fertility_of_hybrids": "不明",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水位変動",
+        "adaptive_traits": "通気組織の発達、不定根の発生能力",
+        "heritability": "不明",
+        "response_to_selection": "不明"
+      }
+    ],
+    "hybridization_score": 6
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "せりをリジェネラティブ農業システムの一部として評価した直接的な研究はほぼ存在しない。以下の評価は、湿地性植物としての生態学的機能からの推定に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く広がるひげ根。水中の栄養分を効率的に吸収する。",
+      "organic_matter_contribution": "枯死した茎葉が水田や湿地の堆積物となり、有機物を供給する。",
+      "soil_structure_improvement": "水田土壌の表層を根が覆い、安定させる。",
+      "erosion_control": "水辺の土壌流出を抑制する効果がある。",
+      "nutrient_cycling_role": "水中の過剰な窒素やリンを吸収し、水質浄化に貢献する可能性がある（バイオレメディエーション）。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "小さな白い花は、ハナアブや小型のハチなどの多様な訪花昆虫を引き寄せる。",
+      "beneficial_insect_habitat": "水辺の植生は、トンボのヤゴやカエルなどの天敵の生息地となる。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係については不明。",
+      "above_ground_biodiversity": "水生昆虫や両生類のシェルターとして機能する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "水田のような湛水環境で育つため、直接的な浸透改善効果は限定的。",
+      "moisture_retention": "地表を覆うことで水の蒸発を抑制する可能性がある。",
+      "runoff_reduction": "水辺の植生として、栄養塩類を含んだ流出水を捕捉・浄化するフィルター機能を持つ。",
+      "groundwater_recharge": "水田栽培と組み合わせることで、間接的に地下水涵養に貢献する。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度",
+      "below_ground_carbon": "中程度。湿地土壌での有機物分解が遅いため、炭素蓄積に貢献する。",
+      "soil_carbon_enhancement": "水田や湿地生態系の一員として、土壌炭素の維持・増加に寄与する。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "稲（水田での混作）、レンコン、クワイなど他の水生・湿地性作物"
+      ],
+      "natural_pest_control": "多様な天敵を呼び寄せることで、稲の害虫を抑制する可能性がある。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "水田生態系の多様性を高め、安定性に寄与する可能性がある。",
+      "stress_tolerance": "洪水などの水ストレスには強いが、乾燥には極めて弱い。",
+      "recovery_capacity": "根茎からの再生能力が高い。",
+      "adaptability": "遺伝的多様性を活用すれば、様々な環境に適応する可能性がある。"
+    },
+    "regenerative_score": 7
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食品トレンド、市場分析、持続可能な農業に関する報告書を参考にした。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラルが豊富な香味野菜として、植物中心の食生活に貢献する。",
+      "food_security_contribution": "小規模農家でも容易に栽培でき、地域の食料自給に貢献する。水田の多面的利用を促進する。",
+      "local_food_system_integration": "伝統的な地域市場での流通が中心であり、地産地消に適している。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "アジア料理の世界的な人気に伴う需要増",
+        "健康志向の高まりによる機能性野菜としての注目",
+        "水耕栽培による都市型農業"
+      ],
+      "value_added_products": [
+        "乾燥ハーブ",
+        "香味オイル",
+        "健康飲料の原料",
+        "フリーズドライ製品"
+      ],
+      "niche_market_value": "エスニック食材店や高級レストランで高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNの評価はないが、生息地の減少に関する環境報告から類推。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "水田や湿地の開発、圃場整備、水質汚染による自生地の減少が最大の脅威。",
+    "climate_change_vulnerability": "水資源の変動（干ばつ）や水温上昇に対して脆弱。",
+    "cultural_erosion_risk": "高。伝統的な食文化や栽培技術が失われることで、多様な在来品種が消失するリスクがある。",
+    "conservation_actions_needed": [
+      "在来品種の系統収集と保存（ジーンバンク）",
+      "伝統的栽培地の保全",
+      "水辺環境の再生プロジェクト"
+    ],
+    "priority_conservation_regions": [
+      "日本の伝統的栽培地（宮城県名取市など）",
+      "遺伝的多様性が高いと推定される中国南部、東南アジアの山間部"
+    ],
+    "ex_situ_conservation_status": "各国のジーンバンクで種子や栄養繁殖体が保存されているが、網羅性は不明。",
+    "in_situ_conservation_efforts": "一部の地域で、環境保全型農業の一環として伝統的なせり田の保全活動が行われている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた全情報を総合的に評価した。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "韓国（多様な料理法と栽培システム）",
+      "ベトナム（熱帯適応と食文化）",
+      "中国雲南省（遺伝的多様性の中心地）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、乾燥、CO2）に対する品種レベルでの生理学的応答",
+      "野生近縁種との遺伝的関係と交雑育種の可能性",
+      "リジェネラティブ農業システムにおける定量的評価（水質浄化能力、炭素固定など）"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "品種レベルでの学術的情報は限定的。主に農業普及資料や地域の記録に基づく。"
+      },
+      "variety_name": "三関せり (Mizeki Seri)",
+      "local_name": "三関せり",
+      "origin_region": "日本、秋田県湯沢市",
+      "distinctive_characteristics": "長い根が特徴で、根も食用とする。シャキシャキとした食感と強い香りを持つ。清流で栽培される。",
+      "cultural_importance": "地域ブランド野菜として高い評価を得ており、「せり鍋」に不可欠な食材。",
+      "climate_adaptation": "冷涼な気候と清浄な水を好む。",
+      "conservation_status": "地域団体により栽培技術と共に保全されている。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2025-01-01",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "World Flora Online",
+      "KEW Plants of the World Online",
+      "FAOSTAT",
+      "民族植物学データベース",
+      "各国の農業研究報告"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "アジア各地の在来品種の遺伝的多様性の網羅的評価"
+    ],
+    "regional_data_coverage": "東アジアの情報は豊富だが、南アジアやオセアニアの情報は限定的。",
+    "missing_information": [
+      "世界全体の正確な生産統計",
+      "種間交雑に関する詳細な遺伝学的研究"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

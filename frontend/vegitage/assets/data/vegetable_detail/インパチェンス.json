@@ -1,0 +1,532 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Impatiens wallerianaは園芸植物として情報が豊富ですが、伝統野菜としての情報は非常に限定的です。本データは、園芸学、植物学、民族植物学の断片的な記録を統合したものです。特に食利用に関する定量的データは乏しいです。"
+    },
+    "primary_name": "Impatiens",
+    "scientific_name": "Impatiens walleriana",
+    "plant_type": "多年草（温帯では一年草として栽培）",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "種子",
+      "花"
+    ],
+    "origin_region": "東アフリカ（タンザニア、モザンビーク）",
+    "wild_relatives": [
+      "Impatiens hawkeri",
+      "Impatiens capensis"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸名としての国際的な名称は豊富ですが、食料としての現地名は限られています。東アフリカでの伝統名は文書化が不十分です。"
+    },
+    "international": {
+      "en": [
+        "Busy Lizzie",
+        "Patience Plant",
+        "Sultana"
+      ],
+      "scientific_common": "Waller's Impatiens"
+    },
+    "regional": [
+      {
+        "region": "東アフリカ",
+        "languages": [
+          {
+            "lang": "sw",
+            "name": "Balsamini (属名由来)",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "de",
+            "name": "Fleißiges Lieschen",
+            "script": "Latin"
+          },
+          {
+            "lang": "fr",
+            "name": "Impatiente",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "東アフリカの複数コミュニティ",
+        "name": "不明",
+        "cultural_significance": "食料としての利用が報告されているが、特定のコミュニティ名や伝統名は学術文献で特定困難。主に救荒作物または季節的な野菜として利用された可能性。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "植物分類学的情報は安定しており、主要な植物データベースで確認できます。"
+    },
+    "family": {
+      "en": "Balsam family",
+      "la": "Balsaminaceae"
+    },
+    "genus": {
+      "en": "Balsam / Impatiens",
+      "la": "Impatiens"
+    },
+    "species": {
+      "en": "Waller's Impatiens",
+      "la": "walleriana"
+    },
+    "subspecific_ranks": []
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸文化における価値は絶大ですが、食文化における価値は地域限定的かつ限定的です。この二重性を評価に反映させる必要があります。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "ヨーロッパ・北米",
+        "importance_level": 5,
+        "cultural_roles": [
+          "園芸植物"
+        ],
+        "traditional_uses": "日陰の庭やコンテナを彩る主要な花壇用植物としての利用。文化的価値は観賞用にほぼ限定される。",
+        "seasonal_significance": "春から初霜までの夏の庭の象徴。",
+        "cultivation_decline_risk": "中（ベト病の流行による）"
+      },
+      {
+        "region": "東アフリカ",
+        "importance_level": 2,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "若い葉や茎を茹でて野菜として利用。種子も食用にされることがある。主に自家消費用で、市場での流通は稀。救荒作物としての側面もあった可能性。",
+        "seasonal_significance": "雨季に利用可能な緑黄色野菜。",
+        "cultivation_decline_risk": "高（より生産性の高い作物への代替、食文化の変化）"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "東アフリカの伝統料理",
+        "role": "rare",
+        "traditional_dishes": [
+          "茹で野菜（Potherb）"
+        ],
+        "preparation_methods": [
+          "茹でる",
+          "蒸す"
+        ],
+        "cultural_context": "他の葉物野菜と同様に、主食（ウガリなど）の付け合わせとして消費される。シュウ酸カルシウムを含むため、加熱調理が必須。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "東アフリカでは古くから自生し、食料として利用されていた可能性があるが、考古学的証拠は乏しい。",
+      "trade_routes": "19世紀後半にイギリスの探検家によってヨーロッパに紹介され、観賞用植物として世界中に広まった。食料としての交易記録はない。",
+      "cultural_exchange": "ヴィクトリア朝時代のプラントハンティングの象徴の一つ。西洋の園芸文化を世界に広める役割を果たした。",
+      "domestication_history": "食料としての栽培化は行われていない。園芸品種としての育種は19世紀末から活発に行われている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "高湿度、半日陰、標高の高い冷涼な地域。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "夏期の半日陰と十分な水分供給が必要。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "霜の降りない季節に一年草として栽培。夏の半日陰を好む。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "夏の極端な暑さと冬の寒さに弱い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "高い湿度と水分を要求するため、乾燥地には全く適さない。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と強い日差しに弱い。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（終霜後）",
+        "harvest_season": "夏から秋（食用の場合は若葉を随時）",
+        "growing_period_days": 90
+      },
+      {
+        "climate_zone": "熱帯",
+        "planting_season": "通年（雨季が最適）",
+        "harvest_season": "通年",
+        "growing_period_days": 60
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明（食料としての収量データなし）",
+      "factors_affecting_yield": [
+        "水分供給",
+        "日照条件（半日陰が最適）",
+        "土壌肥沃度",
+        "ベト病（Plasmopara obducens）の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明（園芸市場では数億株単位だが、食料としての生産統計はない）",
+      "major_producers": [
+        {
+          "country": "世界各国",
+          "production_share": 0,
+          "characteristics": "食料としての商業生産は行われていない。園芸生産はオランダ、アメリカ、中国などが主要拠点。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食料としての利用が稀なため、栄養成分に関する信頼性の高い科学的データはほぼ存在しない。シュウ酸カルシウムの含有に関する注意喚起が主。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "シュウ酸カルシウム",
+        "concentration": "不明（変動あり）",
+        "health_effect": "過剰摂取は腎臓結石のリスクを高める可能性。生食は避けるべきとされる。"
+      },
+      {
+        "compound": "アントシアニン",
+        "concentration": "花弁に豊富",
+        "health_effect": "抗酸化作用。ただし花は主に観賞用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "東アフリカ",
+        "medical_system": "伝統療法",
+        "uses": [
+          "皮膚疾患（発疹、火傷）の湿布",
+          "利尿剤"
+        ],
+        "preparation": "葉や茎をすり潰して湿布として外用。煎じて内服。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "ベト病耐性品種の開発"
+      ],
+      "safety_considerations": "シュウ酸カルシウムを含むため、腎臓疾患を持つ人は摂取に注意が必要。加熱調理が推奨される。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "食文化に関する記録は民族植物学的な報告に限られ、レシピや調理法の詳細はほとんど知られていない。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東アフリカ",
+        "methods": [
+          "茹でる",
+          "炒める"
+        ],
+        "flavor_role": "副菜",
+        "typical_combinations": [
+          "ウガリ（トウモロコシの粉を練った主食）",
+          "他の野菜との煮込み"
+        ]
+      }
+    ],
+    "processing_preservation": [],
+    "flavor_characteristics": {
+      "taste_profile": "穏やか、やや青臭い、ホウレンソウに似るが粘り気は少ないとされる。",
+      "aroma_compounds": [
+        "不明"
+      ],
+      "texture_characteristics": "加熱すると柔らかくなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "気候変動適応性に関する研究は、食料としてではなく、園芸植物の栽培可能域の変化という文脈で議論されることが主。定量的データは乏しい。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "中",
+      "optimal_temperature_range": "18-24°C",
+      "extreme_heat_survival": "35°C以上では生育が著しく阻害される",
+      "cold_tolerance": "0°C以下では枯死"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "低い。多汁質の茎葉は水分蒸散が多く、継続的な水分供給を必要とする。",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "1000-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "茎が脆く、強風で折れやすい。",
+      "hail_damage_recovery": "葉や茎が傷つきやすいが、生育旺盛な時期であれば回復は可能。",
+      "rapid_temperature_change": "弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明。一般的にC3植物として一定の応答が期待されるが、水分や他の栄養素が律速段階になりやすい。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "中（日陰を好む性質から、強い紫外線には弱い可能性）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によるアブラムシやハダニの増加に対して脆弱。",
+      "disease_resistance_stability": "ベト病（Plasmopara obducens）に対して極めて脆弱。温暖・多湿な条件は病気の蔓延を助長し、気候変動下でリスクが増大する。",
+      "beneficial_organism_relationships": " pollinatorとの関係は良好だが、天敵による防除効果に関する知見は少ない。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "熱帯山地、温帯の夏",
+        "2050_projection": "温帯での栽培可能期間は延長する可能性があるが、熱波と干ばつリスクが増大。熱帯山地では生息域がより高地へ移動する可能性。",
+        "2100_projection": "多くの現栽培地で夏の高温と水不足が深刻化し、栽培が困難になる地域が増えると予測される。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 2
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "園芸分野で育種が非常に活発に行われており、交雑和合性に関するデータは豊富。ただし、自然環境下での交雑に関するデータは少ない。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の園芸品種間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Impatiens hawkeri（ニューギニア・インパチェンス）など、一部の近縁種と人為的な交配が可能で、種間雑種が作出されている。"
+      ],
+      "intergeneric_possibility": [
+        "報告なし"
+      ],
+      "successful_natural_hybrids": [
+        "自生地での種間自然交雑の報告は限定的。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "食料としての在来品種は存在しない。園芸品種の多様性は高いが、特定の形質に偏っている。",
+      "wild_gene_pool": "東アフリカの野生集団は、商業品種にはない遺伝的多様性、特に病害抵抗性遺伝子の宝庫であると考えられている。",
+      "adaptive_genetic_variation": "野生集団には存在するが、商業品種では大きく失われている。",
+      "inbreeding_depression_risk": "商業品種では自家受粉やクローン繁殖によりリスクが存在する。"
+    },
+    "natural_adaptation_examples": [],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "他のImpatiens種との交雑により、耐暑性や耐病性を向上させる育種が進められている。",
+      "improved_nutritional_content": "食料としての育種目標がないため、可能性は未知数。",
+      "novel_characteristics": "花の色、形、大きさ、草姿など、観賞価値に関する新規特性の導入が主目的。",
+      "hybrid_vigor_potential": "種間雑種において旺盛な生育を示す例がある。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種によっては花粉管の伸長阻害や胚珠の発育不全などの交雑障壁が存在する。",
+      "chromosome_compatibility": "種間で倍数性が異なる場合があり、交配の障害となる。",
+      "fertility_of_hybrids": "種間雑種はしばしば不稔となる。",
+      "backcrossing_success": "胚珠培養などの技術を用いて戻し交配が行われることがある。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "本種はリジェネラティブ農業の文脈で研究されたことがなく、評価は植物の一般的特性からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "浅く、繊維状の根系。土壌の深層改良効果は期待できない。",
+      "organic_matter_contribution": "地上部バイオマスは多いが、一年草として扱われるため、土壌への有機物還元は限定的。",
+      "soil_structure_improvement": "限定的。",
+      "erosion_control": "密に植えれば地表面を覆い、雨滴による侵食をある程度防ぐ。",
+      "nutrient_cycling_role": "特筆すべき能力はない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花は蝶やハチなど多様な訪花昆虫を引き寄せる。これは大きな貢献。",
+      "beneficial_insect_habitat": "アブラムシなどが発生しやすく、天敵昆虫の餌場となる可能性はある。",
+      "soil_microorganism_interaction": "不明。",
+      "above_ground_biodiversity": "花粉媒介者の誘引を通じて貢献する。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的。",
+      "moisture_retention": "地表面を覆うことで土壌からの水分蒸発を抑制する効果がある。",
+      "runoff_reduction": "限定的。",
+      "groundwater_recharge": "影響は軽微。"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "中程度。",
+      "below_ground_carbon": "低い。",
+      "soil_carbon_enhancement": "期待できない。",
+      "carbon_sequestration_rate": "低い。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "シェードガーデンにおいて、他の耐陰性植物との混植に利用される。"
+      ],
+      "natural_pest_control": "不明。",
+      "nutrient_sharing": "不明。",
+      "allelopathic_interactions": "報告なし。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "病害虫に弱く、単一作物としての安定性は低い。",
+      "stress_tolerance": "低い。",
+      "recovery_capacity": "低い。",
+      "adaptability": "低い。"
+    },
+    "regenerative_score": 3
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "現代的価値は園芸産業に集中しており、食料としての応用はほぼ皆無。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "食料としての価値は未評価であり、現状では貢献していない。",
+      "food_security_contribution": "救荒作物としての歴史的可能性はあるが、現代の食料安全保障への貢献はゼロに近い。",
+      "local_food_system_integration": "自家菜園での栽培は可能だが、一般的な野菜ではない。",
+      "alternative_protein_potential": "ない。"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "ベト病耐性を持つ新品種の開発による園芸市場の回復・拡大。"
+      ],
+      "value_added_products": [
+        "園芸用の苗、種子"
+      ],
+      "niche_market_value": "食料としてのニッチ市場は存在しない。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "園芸品種は安泰だが、野生原種は生息地の破壊により脅威にさらされている。このギャップが重要。"
+    },
+    "genetic_erosion_risk": "高（野生集団において）",
+    "habitat_loss_threat": "東アフリカの山地森林伐採が最大の脅威。",
+    "climate_change_vulnerability": "高い。生息域の気温上昇と乾燥化により、野生集団が危機に瀕する可能性がある。",
+    "cultural_erosion_risk": "高（食利用の伝統知識が失われつつある）",
+    "conservation_actions_needed": [
+      "野生集団の生息域内保全（保護区設定）",
+      "野生遺伝資源の収集と域外保全（種子バンク）",
+      "食利用に関する民族植物学的記録の作成"
+    ],
+    "priority_conservation_regions": [
+      "タンザニアのウサンバラ山脈",
+      "モザンビークの山地森林"
+    ],
+    "ex_situ_conservation_status": "主要な植物園や種子バンクで園芸品種は多数保存されているが、野生集団の遺伝的多様性をカバーできているかは不明。",
+    "in_situ_conservation_efforts": "一部の国立公園や森林保護区内で保護されているが、特定の種を対象とした活動は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本評価は、園芸植物としての世界的普及度と、伝統野菜としての希少性の両側面を統合して行っています。"
+    },
+    "cultural_heritage_value": 3,
+    "climate_adaptation_priority": "低優先",
+    "research_urgency": "中（野生遺伝資源の保全と、ベト病耐性研究に関して）",
+    "cross_cultural_exchange_potential": 7,
+    "global_food_security_relevance": 1,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "東アフリカ（タンザニア、モザンビーク）"
+    ],
+    "knowledge_gaps": [
+      "食料としての栄養価と安全性",
+      "伝統的な調理法と利用法",
+      "野生集団の遺伝的多様性の詳細な評価"
+    ],
+    "global_dictionary_compatibility": 5
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "記載されているのはすべて園芸品種であり、食用品種は存在しません。"
+      },
+      "variety_name": "Beacon Series",
+      "local_name": "ビーコンシリーズ",
+      "origin_region": "国際的な育種会社",
+      "distinctive_characteristics": "ベト病（Impatiens downy mildew）に対して高い抵抗性を持つ画期的な園芸品種シリーズ。",
+      "cultural_importance": "ベト病の蔓延で衰退したインパチェンス市場を復活させた。",
+      "climate_adaptation": "基本的な気候適応性は原種に準じるが、病害抵抗性により栽培安定性が向上。",
+      "conservation_status": "商業的に広く流通"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "記載されているのはすべて園芸品種であり、食用品種は存在しません。"
+      },
+      "variety_name": "Super Elfin Series",
+      "local_name": "スーパーエルフィンシリーズ",
+      "origin_region": "国際的な育種会社",
+      "distinctive_characteristics": "コンパクトな草姿と豊富な花色が特徴の、古典的な矮性園芸品種シリーズ。ベト病には弱い。",
+      "cultural_importance": "20世紀後半のインパチェンスの世界的普及を牽引した代表的品種群。",
+      "climate_adaptation": "原種に準じる。",
+      "conservation_status": "商業的に広く流通"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew - Plants of the World Online",
+      "PROSEA (Plant Resources of South-East Asia) database",
+      "Horticultural breeding company publications",
+      "Fragmentary ethnobotanical survey reports on East African flora"
+    ],
+    "major_knowledge_gaps": [
+      "食料としての利用に関するあらゆる定量的データ（栄養価、収量、安全性）",
+      "気候変動に対する野生集団の応答モデル",
+      "伝統的薬用利用に関する薬理学的研究"
+    ],
+    "regional_data_coverage": "園芸利用に関してはグローバルだが、食利用に関しては東アフリカに極端に偏在し、かつ情報が断片的。",
+    "missing_information": [
+      "食用品種",
+      "栽培農家",
+      "市場流通データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 7
+  }
+}

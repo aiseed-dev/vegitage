@@ -1,0 +1,705 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース(KEW, GRIN)および農学、民族植物学の文献に基づき情報を統合。野生近縁種に関する情報は広範だが、全種の網羅は困難。"
+    },
+    "primary_name": "タイム",
+    "scientific_name": "Thymus vulgaris",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "花"
+    ],
+    "origin_region": "西地中海地域",
+    "wild_relatives": [
+      "Thymus serpyllum",
+      "Thymus zygis",
+      "Thymus pulegioides"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理書、植物辞典、言語データベースから情報を収集。先住民コミュニティ固有の名称は、広範な普及の歴史により特定が困難。"
+    },
+    "international": {
+      "en": [
+        "Thyme",
+        "Common Thyme",
+        "Garden Thyme"
+      ],
+      "scientific_common": "Thyme"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Thym",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Thymian",
+            "script": "Latin"
+          },
+          {
+            "lang": "it",
+            "name": "Timo",
+            "script": "Latin"
+          },
+          {
+            "lang": "es",
+            "name": "Tomillo",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "ar",
+            "name": "زعتر (Za'atar)",
+            "script": "Arabic"
+          },
+          {
+            "lang": "tr",
+            "name": "Kekik",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づき、主要な植物分類データベースから情報を取得。"
+    },
+    "family": {
+      "en": "Mint family",
+      "la": "Lamiaceae"
+    },
+    "genus": {
+      "en": "Thyme",
+      "la": "Thymus"
+    },
+    "species": {
+      "en": "Common Thyme",
+      "la": "vulgaris"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "chemotype",
+        "name": "Thymol type"
+      },
+      {
+        "rank": "chemotype",
+        "name": "Carvacrol type"
+      },
+      {
+        "rank": "chemotype",
+        "name": "Linalool type"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "歴史的文献、民族植物学研究、料理文化史に基づき評価。古代からの利用記録が豊富。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "地中海地域",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "儀式用",
+          "経済作物"
+        ],
+        "traditional_uses": "古代エジプトではミイラ作りの防腐剤として、古代ギリシャでは勇気の象徴、神殿での薫香として使用。ローマ帝国によりヨーロッパ全土に伝播し、料理と薬用の両面で文化に深く根付いた。",
+        "seasonal_significance": "夏に最も香りが強くなり、収穫の最盛期となる。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "中東",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "経済作物"
+        ],
+        "traditional_uses": "ハーブミックス「ザアタル」の主要な材料として、パンや料理に不可欠。伝統医学では去痰薬や消化促進薬として利用される。",
+        "seasonal_significance": "乾燥させたものが一年中利用される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "薬用"
+        ],
+        "traditional_uses": "ヨーロッパからの移民によってもたらされ、特にクレオール料理やケイジャン料理で重要な役割を果たす。家庭薬として咳止めシロップなどに利用される歴史がある。",
+        "seasonal_significance": "家庭菜園で栽培され、夏に収穫、乾燥保存される。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "フランス料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Bouquet garni",
+          "Coq au vin",
+          "Boeuf bourguignon"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "ロースト",
+          "スープの風味付け"
+        ],
+        "cultural_context": "フランス料理の基本となるハーブの一つ。特に煮込み料理の深みを出すために不可欠とされる。"
+      },
+      {
+        "cuisine": "中東料理",
+        "role": "staple",
+        "traditional_dishes": [
+          "Za'atar (spice mix)",
+          "Manakish (flatbread)"
+        ],
+        "preparation_methods": [
+          "乾燥・粉砕",
+          "パン生地への練り込み",
+          "オリーブオイルとの混合"
+        ],
+        "cultural_context": "ザアタルとしてゴマやスマックと混ぜられ、朝食や軽食に欠かせない文化的食品となっている。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト（紀元前3000年頃）から防腐、薬用、儀式用に利用された記録がある。",
+      "trade_routes": "ローマ帝国によってヨーロッパ全土に広められ、中世以降は修道院で栽培・研究された。シルクロードを通じた交易品ではなかったが、地中海世界の文化伝播を象徴する植物。",
+      "cultural_exchange": "ローマ文化の拡大とともに、その料理法や薬効知識が各地に伝播する媒体となった。",
+      "domestication_history": "地中海沿岸の野生種から選抜され、数千年かけて栽培化された。明確な起源地は特定されていないが、長い栽培史を持つ。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、根腐れを起こしやすい。水はけの良い高地など限定的な環境でのみ栽培可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌と十分な日照があれば良好に生育。冬の多湿に注意が必要。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "日当たりと水はけの良い場所が最適。多くの品種が耐寒性を持ち越冬可能。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "耐寒性のある品種が栽培可能。夏の暑さと乾燥には強い。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "原産地に近い気候で、非常に適している。乾燥に強く、灌漑は最小限で済む。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "高地に適応した近縁種(Thymus serpyllumなど)は存在するが、T. vulgarisの商業栽培には不向き。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春",
+        "harvest_season": "初夏から秋",
+        "growing_period_days": 120
+      }
+    ],
+    "productivity": {
+      "yield_range": "乾燥葉で 500 - 2000 kg/ha",
+      "factors_affecting_yield": [
+        "日照時間",
+        "土壌の水はけ",
+        "収穫時期と頻度",
+        "品種（精油含有量）"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "スペイン",
+          "production_share": "不明",
+          "characteristics": "主要な生産国および輸出国。精油生産も盛ん。"
+        },
+        {
+          "country": "モロッコ",
+          "production_share": "不明",
+          "characteristics": "野生および栽培品の主要な供給源。特に精油生産が重要。"
+        },
+        {
+          "country": "ポーランド",
+          "production_share": "不明",
+          "characteristics": "ヨーロッパ市場向けの主要な乾燥ハーブ生産国の一つ。"
+        },
+        {
+          "country": "トルコ",
+          "production_share": "不明",
+          "characteristics": "Kekikとして知られ、国内消費および輸出用に大規模に生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "乾燥タイムの基本的な栄養価はUSDA等のデータベースで入手可能。しかし、機能性成分の含有量は品種、栽培条件、収穫時期により大きく変動するため、データは代表値と解釈すべき。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "276",
+        "protein_g": "9.1",
+        "carbs_g": "63.9",
+        "fat_g": "7.4",
+        "fiber_g": "37.0"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "鉄",
+          "amount": "123.6 mg",
+          "daily_value_percent": "687"
+        },
+        {
+          "nutrient": "マンガン",
+          "amount": "7.9 mg",
+          "daily_value_percent": "342"
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "50 mg",
+          "daily_value_percent": "56"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "3800 IU",
+          "daily_value_percent": "127"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "チモール",
+        "concentration": "精油中に20-55%",
+        "health_effect": "強力な抗菌・抗真菌作用、防腐作用"
+      },
+      {
+        "compound": "カルバクロール",
+        "concentration": "精油中に5-20%",
+        "health_effect": "抗菌作用、抗酸化作用"
+      },
+      {
+        "compound": "ロスマリン酸",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用、抗炎症作用"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統ハーブ療法",
+        "uses": [
+          "咳、気管支炎の緩和",
+          "消化促進",
+          "軽度の切り傷の消毒"
+        ],
+        "preparation": "お茶、チンキ剤、湿布、うがい薬"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "上気道感染症に対する抗菌活性",
+        "抗酸化作用",
+        "抗炎症作用"
+      ],
+      "ongoing_research": [
+        "食品の天然保存料としての応用",
+        "耐性菌への効果",
+        "抗がん作用"
+      ],
+      "safety_considerations": "精油の高濃度での摂取や塗布は刺激が強く危険。妊娠中の大量摂取は避けるべきとされる。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理文化に関する文献が豊富に存在。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "地中海地域",
+        "methods": [
+          "ロースト",
+          "煮込み",
+          "グリル",
+          "マリネ"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "ラム肉",
+          "鶏肉",
+          "魚",
+          "トマト",
+          "オリーブオイル"
+        ]
+      },
+      {
+        "region": "北米（特に南部）",
+        "methods": [
+          "煮込み（ガンボなど）",
+          "シーズニングブレンド"
+        ],
+        "flavor_role": "香辛料",
+        "typical_combinations": [
+          "米",
+          "豆類",
+          "ソーセージ",
+          "オクラ"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "乾燥",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "1-3年",
+        "quality_changes": "香りは凝縮されるが、フレッシュなトップノートの一部は失われる。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "ヨーロッパ",
+          "北米"
+        ],
+        "shelf_life": "6-12ヶ月",
+        "quality_changes": "フレッシュな香りと色を比較的よく保持できる。"
+      },
+      {
+        "method": "オイル/ビネガー漬け",
+        "regions": [
+          "地中海地域"
+        ],
+        "shelf_life": "3-6ヶ月",
+        "quality_changes": "香りが液体に移り、風味豊かな調味料となる。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "温かく、スパイシーで、わずかに苦味とミントのような清涼感がある。土のような、干し草のような香り。",
+      "aroma_compounds": [
+        "チモール",
+        "カルバクロール",
+        "p-シメン",
+        "リナロール"
+      ],
+      "texture_characteristics": "生の葉は柔らかいが、乾燥すると硬く、砕けやすい。調理するとほとんど食感は残らない。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "耐乾性・耐暑性に関する定性的な知見は豊富だが、気候変動シナリオ下での栽培適応性に関する定量的な研究は限定的。予測は植物の生理的特性からの類推に基づく。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-30°C",
+      "extreme_heat_survival": "40°C以上でも生存可能",
+      "cold_tolerance": "-15°C（品種による）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高い（C3植物としては）。小さい葉とクチクラ層が水分の蒸散を防ぐ。",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "300-800mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "背が低く丈夫なため、風には比較的強い。",
+      "hail_damage_recovery": "木質化した茎から再萌芽する能力がある。",
+      "rapid_temperature_change": "比較的強い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "中程度。光合成促進の可能性があるが、精油成分への影響は不明。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高い。地中海の強い日差しに適応している。"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "高温・乾燥によりハダニの発生が増加する可能性。温暖化による新たな病害虫への耐性は不明。",
+      "disease_resistance_stability": "過湿条件での根腐れ病のリスクが増大する可能性。",
+      "beneficial_organism_relationships": "送粉者との関係は強固だが、気候変動による送粉者の減少が繁殖に影響する可能性がある。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "地中海性気候帯、温帯南部",
+        "2050_projection": "栽培適地がより高緯度、高標高へ移動する可能性。",
+        "2100_projection": "現在の主産地の一部で、極端な熱波や干ばつにより生産が不安定になるリスク。",
+        "confidence_level": "低"
+      }
+    ],
+    "climate_adaptation_score": 8
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Thymus属の種間交雑のしやすさはよく知られているが、自然環境下での適応進化に関する詳細な遺伝的データは限られている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "多数の栽培品種、ケモタイプ（化学型）が存在し、容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Thymus serpyllum (ワイルドタイム)",
+        "Thymus pulegioides (ラージタイム)"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い"
+      ],
+      "successful_natural_hybrids": [
+        "Thymus x citriodorus (レモンタイム)は T. pulegioides と T. vulgaris の交雑種とされる。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "地中海地域には多様な地域在来種やケモタイプが存在する。",
+      "wild_gene_pool": "多数の野生近縁種が存在し、遺伝子流動が自然に発生している。",
+      "adaptive_genetic_variation": "精油成分の多様性（ケモタイプ）は、草食動物や病原菌への防御機構として地域ごとに適応進化した結果と考えられている。",
+      "inbreeding_depression_risk": "自家不和合性の傾向があり、他家受粉が主であるためリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "南フランスの石灰岩地帯",
+        "environmental_pressure": "乾燥、強い日差し、貧栄養土壌",
+        "adaptive_response": "小型の葉、深い根系、特定の精油成分（チモール型、カルバクロール型）の発達",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域的エコタイプの分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐寒性の強い種との交雑により、より寒冷な地域への適応が可能になる。",
+      "improved_nutritional_content": "特定の機能性成分（抗酸化物質など）を多く含む種との交雑による含有量向上の可能性。",
+      "novel_characteristics": "新しい香り（例：レモンタイム）や花の色、匍匐性などの形態的特性の獲得。",
+      "hybrid_vigor_potential": "高い。種間雑種はしばしば強健な性質を示す。"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "種間の交雑障壁は比較的低い。",
+      "chromosome_compatibility": "同属内では染色体数の違いが交雑の障壁となることがあるが、多くの種で交雑可能。",
+      "fertility_of_hybrids": "多くの雑種は稔性を持つ。",
+      "backcrossing_success": "比較的容易とされる。"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "水ストレス",
+        "adaptive_traits": "葉のサイズ縮小、クチクラ層の発達",
+        "heritability": "中〜高",
+        "response_to_selection": "速い"
+      },
+      {
+        "selection_pressure": "草食動物による食害",
+        "adaptive_traits": "忌避効果のある精油成分（チモール等）の生産",
+        "heritability": "高",
+        "response_to_selection": "速い"
+      }
+    ],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "リジェネラティブ農業システムにおけるタイムの役割に関する直接的な科学的研究は少ない。評価は植物の一般的特性と農業生態学の原則からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "木質化した根が深くまで伸び、土壌構造を安定させる。",
+      "organic_matter_contribution": "落葉により土壌表面に有機物マルチを形成する。",
+      "soil_structure_improvement": "多年生植物として、不耕起栽培に適し、土壌団粒構造を維持する。",
+      "erosion_control": "地面を密に覆うため、風雨による土壌侵食を効果的に防ぐ。",
+      "nutrient_cycling_role": "貧栄養土壌でも生育可能で、土壌からの養分収奪が少ない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "花はミツバチ、マルハナバチ、チョウなど多様な送粉者を惹きつけ、重要な蜜源となる。",
+      "beneficial_insect_habitat": "テントウムシや寄生蜂などの天敵昆虫に隠れ家を提供する。",
+      "soil_microorganism_interaction": "根圏微生物との共生関係を持つ。精油成分が土壌微生物叢に与える影響は研究途上。",
+      "above_ground_biodiversity": "小規模な生態系の基盤となる。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "地表被覆により雨水の土壌への浸透を助ける。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を抑制する。",
+      "runoff_reduction": "雨水の流出を遅らせ、土壌侵食を防ぐ。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的だが、多年生のため炭素を地上部に蓄積する。",
+      "below_ground_carbon": "木質化した根系に炭素を長期間貯留する。",
+      "soil_carbon_enhancement": "根の働きと有機物供給により土壌炭素の増加に貢献する可能性がある。",
+      "carbon_sequestration_rate": "不明。一年生作物よりは高いと推定される。"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "キャベツ、ブロッコリー（コナガを忌避）",
+        "トマト（害虫を遠ざける）",
+        "イチゴ"
+      ],
+      "natural_pest_control": "精油成分が多くの害虫を忌避する効果を持つ。",
+      "nutrient_sharing": "菌根菌ネットワークを介した養分共有の可能性。",
+      "allelopathic_interactions": "他の植物の生育を抑制する可能性も指摘されているが、詳細は不明。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生作物として、農業生態系の多様性と安定性に貢献する。",
+      "stress_tolerance": "干ばつや貧栄養などの環境ストレスに強い。",
+      "recovery_capacity": "刈り込みや軽度の損傷からの回復力が高い。",
+      "adaptability": "多様な土壌や環境に適応する能力がある。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "市場トレンド、食品科学、薬学研究に関する情報が豊富に利用可能。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "風味付けとして、塩分や脂肪の多い調味料の使用を減らすのに役立つ。",
+      "food_security_contribution": "辺境地や乾燥地など、他の作物が育ちにくい土地でも生産可能であり、小規模農家の収入源となりうる。",
+      "local_food_system_integration": "家庭菜園や地域農業で容易に栽培でき、地産地消に適している。",
+      "alternative_protein_potential": "該当しない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "自然・オーガニック食品市場",
+        "機能性食品・サプリメント市場",
+        "エッセンシャルオイル・アロマテラピー市場"
+      ],
+      "value_added_products": [
+        "エッセンシャルオイル",
+        "ハーブティー",
+        "シーズニングブレンド",
+        "天然防腐剤、抗菌剤"
+      ],
+      "niche_market_value": "特定のケモタイプや原産地呼称を持つタイムは、高付加価値製品として取引される。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栽培種としてのT. vulgaris自体のリスクは低いが、野生近縁種や在来種の生息地の状況については地域的なデータに依存し、全体像の把握は不完全。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "地中海地域の都市開発、観光、農業拡大、気候変動による山火事の増加が野生種の生息地を脅かしている。",
+    "climate_change_vulnerability": "栽培種としての脆弱性は低いが、特定の生態的地位に特化した野生種は生息地の変化により絶滅の危機に瀕する可能性がある。",
+    "cultural_erosion_risk": "低。世界的に利用されているため、文化的知識が失われるリスクは低い。",
+    "conservation_actions_needed": [
+      "野生近縁種の生息地の保全",
+      "多様な在来種やケモタイプの遺伝資源の収集と保存（ジーンバンク）",
+      "伝統的知識の記録と活用"
+    ],
+    "priority_conservation_regions": [
+      "イベリア半島",
+      "南フランス",
+      "北アフリカ"
+    ],
+    "ex_situ_conservation_status": "主要な植物園や種子バンクで多数のアクセッションが保存されている。",
+    "in_situ_conservation_efforts": "一部の自生地が国立公園や保護区に指定されているが、Thymus属に特化した保全活動は限定的。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査で得られた多角的な情報に基づく総合評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 5,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "地中海沿岸（野生種の遺伝的多様性と気候変動影響の調査）",
+      "中東（ザアタル文化と地域品種の関連性調査）"
+    ],
+    "knowledge_gaps": [
+      "気候変動シナリオ下での品種・ケモタイプごとの生理的応答に関する定量的データ",
+      "炭素隔離能力や土壌改良効果に関する定量的データ",
+      "野生遺伝子プールが持つ未発見の有用形質"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種に関する情報は豊富。"
+      },
+      "variety_name": "German Winter Thyme (Thymus vulgaris 'German Winter')",
+      "local_name": "Deutscher Winterthymian",
+      "origin_region": "ドイツ（選抜）",
+      "distinctive_characteristics": "耐寒性が非常に強く、香りが良い。直立性で成長が旺盛。",
+      "cultural_importance": "寒冷地での栽培に適しており、ヨーロッパ北部や北米で広く利用されている。",
+      "climate_adaptation": "耐寒性に優れるが、耐暑性・耐乾性は標準的。",
+      "conservation_status": "広く栽培されており、リスクは低い。"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "園芸品種に関する情報は豊富。"
+      },
+      "variety_name": "Lemon Thyme (Thymus x citriodorus)",
+      "local_name": "Thym citron",
+      "origin_region": "ヨーロッパ（自然交雑/園芸選抜）",
+      "distinctive_characteristics": "レモンのような強い柑橘系の香りを持つ。葉に斑入りの品種もある。T. vulgarisとT. pulegioidesの交雑種とされる。",
+      "cultural_importance": "料理（特に魚や鶏肉）やハーブティー、ガーデニングで人気が高い。",
+      "climate_adaptation": "標準的なタイムに準じるが、やや耐寒性が劣る品種もある。",
+      "conservation_status": "広く栽培されており、リスクは低い。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Royal Botanic Gardens, Kew (Plants of the World Online)",
+      "U.S. Department of Agriculture (USDA) ARS GRIN Global",
+      "Journal of Ethnopharmacology",
+      "Agronomy Journal"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "野生近縁種の遺伝資源としての具体的なポテンシャル評価"
+    ],
+    "regional_data_coverage": "ヨーロッパと北米の情報は豊富だが、北アフリカや中東の地域品種に関する学術的データは比較的少ない。",
+    "missing_information": [
+      "世界全体の正確な生産統計量",
+      "各地域の在来種の網羅的なリストと評価"
+    ],
+    "update_priority": "中",
+    "quality_score": 9
+  }
+}

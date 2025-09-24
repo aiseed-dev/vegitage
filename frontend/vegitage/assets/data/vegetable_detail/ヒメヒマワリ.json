@@ -1,0 +1,496 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "high",
+      "source_comment": "植物学的基本情報は各種データベースで確立されているが、伝統的な『野菜』としての利用に関する情報は極めて乏しい。本データは主に生態学的、園芸的、遺伝資源としての価値に基づき作成されている。"
+    },
+    "primary_name": "Beach Sunflower",
+    "scientific_name": "Helianthus debilis",
+    "plant_type": "一年草/多年草",
+    "edible_parts": [
+      "種子"
+    ],
+    "origin_region": "北米南東部（特にフロリダ州の沿岸部）",
+    "wild_relatives": [
+      "Helianthus annuus",
+      "Helianthus petiolaris",
+      "Helianthus giganteus"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "英語名は一般的だが、他の言語での名称は主に園芸分野に限られる。先住民による伝統名は確認できなかった。"
+    },
+    "international": {
+      "en": [
+        "Beach Sunflower",
+        "Dune Sunflower",
+        "Cucumberleaf Sunflower"
+      ],
+      "scientific_common": "Helianthus debilis"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "ヒメヒマワリ",
+            "script": "Katakana/Hiragana"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Tournesol des dunes",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "分類学的情報は国際的な植物データベースに基づき、広く合意されている。"
+    },
+    "family": {
+      "en": "Aster family",
+      "la": "Asteraceae"
+    },
+    "genus": {
+      "en": "Sunflower",
+      "la": "Helianthus"
+    },
+    "species": {
+      "en": "Beach Sunflower",
+      "la": "Helianthus debilis"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "debilis"
+      },
+      {
+        "rank": "subspecies",
+        "name": "cucumerifolius"
+      },
+      {
+        "rank": "subspecies",
+        "name": "silvestris"
+      },
+      {
+        "rank": "subspecies",
+        "name": "tardiflorus"
+      },
+      {
+        "rank": "subspecies",
+        "name": "vestitus"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "伝統的な『野菜』としての文化的価値はほぼ皆無。文化的価値は、生態系保全（砂丘安定化）、園芸、および遺伝資源としての側面に限定される。以下の記述はこの文脈に基づく。"
+    },
+    "world_prevalence": "地域限定",
+    "cultural_importance_by_region": [
+      {
+        "region": "北米南東部",
+        "importance_level": 3,
+        "cultural_roles": [
+          "生態系保全植物",
+          "園芸植物"
+        ],
+        "traditional_uses": "伝統的な食利用の記録は確認できない。主に沿岸の砂丘を安定させるための重要な在来植物として認識されている。近年、干ばつや塩害に強い地被植物として造園での利用が増加。",
+        "seasonal_significance": "夏から秋にかけて開花し、地域の景観を彩る。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [],
+    "historical_significance": {
+      "antiquity": "不明。先住民による食利用や薬用利用の確固たる証拠は見つかっていない。",
+      "trade_routes": "該当なし",
+      "cultural_exchange": "近年、園芸植物として世界各地に導入されているが、文化交流における役割は限定的。",
+      "domestication_history": "食料としての栽培化の歴史はない。園芸品種の選抜は20世紀以降に行われた。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": true,
+        "optimal_conditions": "水はけの良い土壌であれば適応可能。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "原産地であり最適。日当たりと水はけの良い砂質土壌を好む。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "温暖な沿岸地域で栽培可能。霜には弱い。"
+      },
+      "continental": {
+        "suitable": false,
+        "optimal_conditions": "冬の厳しい寒さに耐えられない。"
+      },
+      "arid": {
+        "suitable": true,
+        "optimal_conditions": "高い耐乾性を持つが、極度の乾燥には灌漑が必要な場合がある。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "低温と短い生育期間のため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "亜熱帯",
+        "planting_season": "春または秋",
+        "harvest_season": "（食料ではないため）該当なし",
+        "growing_period_days": 90
+      }
+    ],
+    "productivity": {
+      "yield_range": "食料作物として栽培されないため、収量データは存在しない。",
+      "factors_affecting_yield": [
+        "日照量",
+        "土壌の水はけ"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明。主に園芸用の苗木や種子として生産されるが、世界的な統計はない。",
+      "major_producers": [
+        {
+          "country": "アメリカ合衆国",
+          "production_share": "不明",
+          "characteristics": "主にフロリダ州などで、園芸用・緑化用地被植物として生産。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "none",
+      "confidence_level": "low",
+      "source_comment": "Helianthus debilisの種子に特化した栄養分析データは存在しない。以下の記述は一般的なヒマワリの種子(H. annuus)からの類推であり、注意が必要。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "不明",
+        "protein_g": "不明",
+        "carbs_g": "不明",
+        "fat_g": "不明",
+        "fiber_g": "不明"
+      },
+      "key_micronutrients": []
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "（推定）トコフェロール (ビタミンE)",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      },
+      {
+        "compound": "（推定）フェノール化合物",
+        "concentration": "不明",
+        "health_effect": "抗酸化作用"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [],
+      "ongoing_research": [
+        "近縁種であるH. annuusへの耐塩性・耐病性遺伝子の導入源としての研究"
+      ],
+      "safety_considerations": "キク科アレルギーを持つ人は注意が必要な可能性がある。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "none",
+      "confidence_level": "low",
+      "source_comment": "伝統的および現代的な料理での利用は報告されていない。本セクションは、食用としての利用が存在しないことを示すために記載。"
+    },
+    "global_cooking_methods": [],
+    "processing_preservation": [],
+    "flavor_characteristics": {
+      "taste_profile": "不明",
+      "aroma_compounds": [],
+      "texture_characteristics": "不明"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "生態学的研究から耐暑性・耐乾性・耐塩性が高いことは知られているが、気候変動シナリオ下での定量的な応答データは限定的。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "高",
+      "optimal_temperature_range": "20-35°C",
+      "extreme_heat_survival": "40°C以上にも耐える",
+      "cold_tolerance": "軽度の霜には耐えるが、-5°C以下では枯死する。"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "高",
+      "water_use_efficiency": "高いと推定される（多肉質の葉を持つ）",
+      "flood_tolerance": "低（根腐れしやすい）",
+      "optimal_rainfall": "600-1500mm"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "高い。匍匐性の草姿が強風を受け流し、砂に埋もれても再生する能力がある。",
+      "hail_damage_recovery": "中程度",
+      "rapid_temperature_change": "中程度の適応性"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "不明",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "高いと推定される（沿岸の強い日差しに適応）"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "不明",
+      "disease_resistance_stability": "一般的なヒマワリの病害（さび病、うどんこ病など）に対して比較的高い抵抗性を持つとされる。",
+      "beneficial_organism_relationships": "多様なハナバチや蝶を引き寄せる。"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "北米南東部沿岸、オーストラリア、地中海沿岸など",
+        "2050_projection": "温帯沿岸地域へ適地が拡大する可能性があるが、海面上昇により原産地の生息域は縮小する危険性がある。",
+        "2100_projection": "適地の北上はさらに進むが、原産地の生息域への脅威は増大する。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 9
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Helianthus属は自然交雑が頻繁に起こることで知られており、H. debilisは栽培種ヒマワリの重要な遺伝資源として認識されている。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "H. debilis subsp. debilis",
+        "H. debilis subsp. cucumerifolius"
+      ],
+      "interspecific_compatibility": [
+        "Helianthus annuus (栽培ヒマワリ)",
+        "Helianthus petiolaris"
+      ],
+      "intergeneric_possibility": [
+        "非常に低い"
+      ],
+      "successful_natural_hybrids": [
+        "H. annuusとの自然交雑体が複数報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "食料作物ではないため、在来『品種』は存在しないが、野生集団内に高い遺伝的多様性を持つ。",
+      "wild_gene_pool": "栽培ヒマワリの改良に利用可能な耐塩性、耐病性、分枝性などの有用遺伝子を豊富に含む。",
+      "adaptive_genetic_variation": "沿岸の異なる環境（砂丘、内陸の砂地など）に適応した生態型が存在する。",
+      "inbreeding_depression_risk": "低い（自家不和合性が強い）"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "フロリダ沿岸砂丘",
+        "environmental_pressure": "塩害、強風、砂の移動、干ばつ",
+        "adaptive_response": "匍匐性の草姿、多肉質の葉、深い主根、砂に埋もれても発芽・再生する能力",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による適応進化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "栽培ヒマワリに耐塩性や耐乾性を付与する可能性がある。",
+      "improved_nutritional_content": "不明",
+      "novel_characteristics": "匍匐性、多分枝性、連続開花性、病害抵抗性などの形質を導入可能。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "開花時期のずれが障壁となることがあるが、人為的には容易に克服可能。",
+      "chromosome_compatibility": "H. annuus (2n=34) と同じ染色体数を持ち、交雑和合性が高い。",
+      "fertility_of_hybrids": "F1雑種は高い稔性を示すことが多い。",
+      "backcrossing_success": "栽培ヒマワリへの戻し交配は成功裏に行われている。"
+    },
+    "natural_selection_factors": [],
+    "hybridization_score": 9
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "従来の農業システムでの利用はないが、生態学的特性からリジェネラティブな土地管理への貢献ポテンシャルは高いと評価できる。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深い主根と広範囲に広がる細根を持ち、砂質土壌を安定させる。",
+      "organic_matter_contribution": "地上部のバイオマスが分解され、貧栄養土壌の有機物含量を増加させる可能性がある。",
+      "soil_structure_improvement": "根系が土壌粒子を結合し、団粒構造の形成を助ける。",
+      "erosion_control": "地被植物として地表を覆い、風食や水食を効果的に防ぐ。",
+      "nutrient_cycling_role": "深い根が下層の養分を吸い上げ、地表に還元する可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "多様なハナバチ、蝶、その他の訪花昆虫にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "天敵昆虫の生息地を提供する可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "地域の在来昆虫相を豊かにする。"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "根が土壌に隙間を作り、水の浸透を促進する。",
+      "moisture_retention": "地表を覆うことで土壌水分の蒸発を防ぐマルチング効果がある。",
+      "runoff_reduction": "地表流を遅らせ、土壌侵食を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "多年生草本として根系に炭素を蓄積するが、定量的なデータはない。",
+      "soil_carbon_enhancement": "土壌有機物の増加を通じて土壌炭素を増強する可能性がある。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "他の在来海浜植物との混植による生態系再生",
+        "農地の縁辺部に植えることで益虫を誘引するバンカープランツとしての利用"
+      ],
+      "natural_pest_control": "天敵昆虫の誘引による。",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "被覆作物やバンカープランツとして利用することで、農業生態系の安定性を高める可能性がある。",
+      "stress_tolerance": "高い",
+      "recovery_capacity": "高い",
+      "adaptability": "高い"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "食用としての応用はないが、他の分野での現代的価値は非常に高い。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "直接の貢献はない。",
+      "food_security_contribution": "栽培ヒマワリの育種を通じて、気候変動下での食料安全保障に間接的に貢献するポテンシャルを持つ。",
+      "local_food_system_integration": "該当なし",
+      "alternative_protein_potential": "該当なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "乾燥地・沿岸地域の緑化・造園資材",
+        "ヒマワリ育種プログラムのための遺伝資源"
+      ],
+      "value_added_products": [
+        "観賞用の園芸品種の種子・苗"
+      ],
+      "niche_market_value": "耐乾性・耐塩性のあるグランドカバープランツとして高いニッチ価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "種としては広域分布するが、原産地の沿岸生態系は開発や海面上昇の脅威に晒されており、地域個体群の保全が重要。"
+    },
+    "genetic_erosion_risk": "中（野生集団における）",
+    "habitat_loss_threat": "高い（沿岸開発、海面上昇）",
+    "climate_change_vulnerability": "中（生息域の移動を上回る速度で海面上昇が進む場合）",
+    "cultural_erosion_risk": "低（食文化との結びつきがないため）",
+    "conservation_actions_needed": [
+      "原産地の沿岸生態系の保全",
+      "遺伝的多様性を確保するための生息域内保全",
+      "遺伝資源として多様な系統を収集・保存する生息域外保全"
+    ],
+    "priority_conservation_regions": [
+      "米国フロリダ州およびメキシコ湾岸の自然海岸線"
+    ],
+    "ex_situ_conservation_status": "複数の植物園や種子バンク（USDA GRINなど）で収集・保存されている。",
+    "in_situ_conservation_efforts": "米国の国立海浜公園などの保護地域内で保全されている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "専門家としての総合的評価。食料としての価値は低いが、気候変動適応と遺伝資源としての価値は極めて高い。"
+    },
+    "cultural_heritage_value": 2,
+    "climate_adaptation_priority": "最優先",
+    "research_urgency": "緊急",
+    "cross_cultural_exchange_potential": 4,
+    "global_food_security_relevance": 7,
+    "biodiversity_conservation_importance": 8,
+    "recommended_study_regions": [
+      "北米南東部沿岸（遺伝的多様性の中心地）",
+      "世界の乾燥地・半乾燥地（適応栽培試験地）"
+    ],
+    "knowledge_gaps": [
+      "種子や葉の栄養成分および機能性成分に関する詳細なデータ",
+      "異なる気候変動シナリオ下での生理的応答に関する定量的研究",
+      "土壌微生物との相互作用"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "主に園芸市場で流通している品種。"
+      },
+      "variety_name": "'Italian White'",
+      "local_name": "不明",
+      "origin_region": "園芸選抜",
+      "distinctive_characteristics": "クリーム色がかった白色の花弁を持ち、中心部が暗色。コンパクトな草姿。",
+      "cultural_importance": "観賞用として人気がある。",
+      "climate_adaptation": "種としての特性（耐暑性、耐乾性）を保持している。",
+      "conservation_status": "栽培下で維持"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "野生の亜種であり、分類学的に認識されている。"
+      },
+      "variety_name": "subsp. cucumerifolius",
+      "local_name": "Cucumberleaf Sunflower",
+      "origin_region": "テキサス州、米国中南部",
+      "distinctive_characteristics": "葉がより三角形でキュウリの葉に似る。しばしばより内陸の砂地に自生する。",
+      "cultural_importance": "栽培ヒマワリの直接の祖先の一つと考えられている。",
+      "climate_adaptation": "より内陸の環境に適応している可能性がある。",
+      "conservation_status": "自生地で存続"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-20",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "USDA PLANTS Database",
+      "Kew Royal Botanic Gardens, Plants of the World Online",
+      "Flora of North America",
+      "Journal of Heredity (on Helianthus hybridization)",
+      "Ecological Restoration Journals"
+    ],
+    "major_knowledge_gaps": [
+      "伝統的な食料・薬用としての利用に関する民族植物学的記録",
+      "本種に特化した栄養成分の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果の定量的評価"
+    ],
+    "regional_data_coverage": "北米に偏っており、他の地域での情報は園芸利用に限られる。",
+    "missing_information": [
+      "先住民による利用の有無",
+      "食味に関する情報"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

@@ -1,0 +1,641 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "主要な植物学データベース、農学研究機関の報告、および文化的記録に基づき統合。野生近縁種との詳細な遺伝的関係は専門的研究に依存する。"
+    },
+    "primary_name": "Mizuna",
+    "scientific_name": "Brassica rapa subsp. nipposinica",
+    "plant_type": "一年草",
+    "edible_parts": [
+      "葉",
+      "茎"
+    ],
+    "origin_region": "日本",
+    "wild_relatives": [
+      "Brassica rapa (野生のアブラナ)"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "国際的な食品データベース、植物名リスト、および地域ごとの農産物市場の情報を基に編集。"
+    },
+    "international": {
+      "en": [
+        "Mizuna",
+        "Japanese mustard green",
+        "Spider mustard",
+        "Kyona"
+      ],
+      "scientific_common": "Mizuna"
+    },
+    "regional": [
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "水菜",
+            "script": "漢字・かな"
+          },
+          {
+            "lang": "ja",
+            "name": "京菜",
+            "script": "漢字・かな"
+          }
+        ]
+      },
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Mizuna",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Mizuna",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "北米",
+        "languages": [
+          {
+            "lang": "en",
+            "name": "Mizuna",
+            "script": "Latin"
+          }
+        ]
+      }
+    ],
+    "indigenous": []
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "Integrated Taxonomic Information System (ITIS) および GRIN-Global Taxonomy に基づく分類。"
+    },
+    "family": {
+      "en": "Mustard family",
+      "la": "Brassicaceae"
+    },
+    "genus": {
+      "en": "Cabbage",
+      "la": "Brassica"
+    },
+    "species": {
+      "en": "Field mustard",
+      "la": "Brassica rapa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subspecies",
+        "name": "nipposinica"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "日本の食文化史、京野菜に関する文献、および近年の欧米における食トレンド分析に基づく。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東アジア（日本）",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "京野菜の代表格。鍋物（ハリハリ鍋）、漬物、おひたし、和え物など、冬の食卓に欠かせない。シャキシャキとした食感が特徴。",
+        "seasonal_significance": "伝統的に冬野菜として扱われ、体の温まる鍋料理に多用される。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "北米・ヨーロッパ",
+        "importance_level": 3,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "伝統的な利用はない。1990年代以降、ベビーリーフやサラダミックスの材料として急速に普及。ピリッとした風味と繊細な見た目が好まれる。",
+        "seasonal_significance": "施設栽培により周年供給されるサラダ素材であり、季節感は薄い。",
+        "cultivation_decline_risk": "低"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "日本料理（特に京料理）",
+        "role": "essential",
+        "traditional_dishes": [
+          "ハリハリ鍋",
+          "水菜の漬物",
+          "水菜とお揚げの炊いたん"
+        ],
+        "preparation_methods": [
+          "煮る",
+          "漬ける",
+          "おひたし",
+          "生食"
+        ],
+        "cultural_context": "古都・京都の食文化を象徴する野菜の一つ。繊細な味わいと食感が重視される。"
+      },
+      {
+        "cuisine": "現代西洋料理",
+        "role": "common",
+        "traditional_dishes": [
+          "サラダミックス",
+          "サンドイッチの具材",
+          "パスタのトッピング"
+        ],
+        "preparation_methods": [
+          "生食",
+          "軽く炒める"
+        ],
+        "cultural_context": "ヘルシーで見た目もおしゃれな食材として、カフェやレストランで広く利用される。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "日本の江戸時代（17世紀頃）から栽培記録がある。",
+      "trade_routes": "歴史的な国際交易路での役割は無い。20世紀末に種子が欧米へ渡り、世界的に知られるようになった。",
+      "cultural_exchange": "日本食ブームに乗り、日本の食文化を海外に紹介する役割を果たした。",
+      "domestication_history": "京都周辺でカブの一種から分化し、固定化されたと考えられている。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に弱く、病害虫の発生が多いため不適。"
+      },
+      "subtropical": {
+        "suitable": true,
+        "optimal_conditions": "冬季の冷涼な期間に栽培可能。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "生育適温は15-20℃。冷涼な春と秋が最適。耐寒性が強く、軽い霜に当たると甘みが増す。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の高温期を避けた栽培が可能。冬の寒さには強い。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "乾燥に弱く、十分な灌漑が必要。"
+      },
+      "alpine": {
+        "suitable": false,
+        "optimal_conditions": "生育期間が短すぎるため不適。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "春（3-5月）、秋（9-11月）",
+        "harvest_season": "春まきは5-6月、秋まきは11-3月",
+        "growing_period_days": "30-60"
+      }
+    ],
+    "productivity": {
+      "yield_range": "20,000 - 40,000 kg/ha",
+      "factors_affecting_yield": [
+        "播種時期",
+        "栽植密度",
+        "施肥管理",
+        "病害虫の発生"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "日本",
+          "production_share": null,
+          "characteristics": "最大の生産国であり消費国。伝統品種から改良品種まで多様。施設栽培による周年供給が確立。"
+        },
+        {
+          "country": "アメリカ合衆国",
+          "production_share": null,
+          "characteristics": "主にカリフォルニア州やアリゾナ州でサラダ用として生産。ベビーリーフとしての需要が高い。"
+        },
+        {
+          "country": "オランダ",
+          "production_share": null,
+          "characteristics": "ヨーロッパにおける主要な生産拠点の一つ。高度な施設園芸で高品質な水菜を生産し、欧州各国へ輸出。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "栄養価は米国農務省(USDA)や日本の食品成分データベースに基づく。機能性成分に関する研究は存在するが、品種や栽培条件による変動が大きい。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "23",
+        "protein_g": "2.7",
+        "carbs_g": "4.7",
+        "fat_g": "0.2",
+        "fiber_g": "2.1"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンA (β-カロテン)",
+          "amount": "2100 µg",
+          "daily_value_percent": 233
+        },
+        {
+          "nutrient": "ビタミンC",
+          "amount": "55 mg",
+          "daily_value_percent": 92
+        },
+        {
+          "nutrient": "ビタミンK",
+          "amount": "275 µg",
+          "daily_value_percent": 344
+        },
+        {
+          "nutrient": "葉酸",
+          "amount": "190 µg",
+          "daily_value_percent": 48
+        },
+        {
+          "nutrient": "カルシウム",
+          "amount": "210 mg",
+          "daily_value_percent": 21
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "グルコシノレート",
+        "concentration": "変動あり",
+        "health_effect": "加水分解されてイソチオシアネートを生成。抗がん作用、抗菌作用が研究されている。"
+      },
+      {
+        "compound": "フラボノイド（ケンペロール、クェルセチン）",
+        "concentration": "変動あり",
+        "health_effect": "強力な抗酸化作用を持つ。"
+      }
+    ],
+    "traditional_medicinal_uses": [],
+    "modern_research": {
+      "proven_benefits": [
+        "抗酸化作用",
+        "ビタミン・ミネラルの豊富な供給源"
+      ],
+      "ongoing_research": [
+        "グルコシノレートの抗がん作用メカニズム",
+        "心血管疾患予防効果"
+      ],
+      "safety_considerations": "ビタミンKを多く含むため、血液凝固阻止薬（ワルファリンなど）を服用している場合は摂取に注意が必要。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各国の料理本、食文化研究、食品業界のレポートを基に作成。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "日本",
+        "methods": [
+          "鍋物",
+          "漬物",
+          "おひたし",
+          "和え物",
+          "炒め物"
+        ],
+        "flavor_role": "副味",
+        "typical_combinations": [
+          "鯨肉（ハリハリ鍋）",
+          "油揚げ",
+          "豚肉",
+          "魚介類"
+        ]
+      },
+      {
+        "region": "欧米",
+        "methods": [
+          "生食（サラダ）",
+          "ピザやパスタのトッピング",
+          "スムージー"
+        ],
+        "flavor_role": "薬味",
+        "typical_combinations": [
+          "他のベビーリーフ（レタス、ルッコラ）",
+          "柑橘類のドレッシング",
+          "チーズ",
+          "ナッツ類"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "塩漬け",
+        "regions": [
+          "日本"
+        ],
+        "shelf_life": "数週間から数ヶ月",
+        "quality_changes": "食感がしんなりし、旨味が増す。乳酸発酵が進むと酸味が出る。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "さっぱりとしており、アブラナ科特有のわずかな辛味と苦味を持つ。加熱すると甘みが出る。",
+      "aroma_compounds": [
+        "イソチオシアネート類"
+      ],
+      "texture_characteristics": "生の状態ではシャキシャキとした軽快な歯ざわり。加熱しても食感が残りやすい。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "水菜に特化した気候変動適応研究は限定的。アブラナ科野菜の一般的な応答と栽培特性からの定性的推定が主。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-20°C",
+      "extreme_heat_survival": "30℃以上で生育不良、早期抽苔のリスク増大",
+      "cold_tolerance": "-5°C"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "低",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "適度な土壌水分を好む (600-800mm/生育期間相当)"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "葉が細かく傷つきやすいため、強風や豪雨に弱い。",
+      "hail_damage_recovery": "低い",
+      "rapid_temperature_change": "比較的強い"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物として、光合成促進の可能性あり。ただし、栄養価が低下する可能性も指摘される。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化によりアブラムシ、コナガ、ヨトウムシなどの発生期間が長期化し、被害が増大するリスクがある。",
+      "disease_resistance_stability": "高温多湿環境では白さび病、根こぶ病などのリスクが高まる。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "温帯地域",
+        "2050_projection": "温帯地域の高緯度側、または標高の高い地域へ適地が移動する可能性。施設栽培の重要性が増す。",
+        "2100_projection": "露地栽培の適地はさらに北上・高地化する可能性が高い。",
+        "confidence_level": "medium"
+      }
+    ],
+    "climate_adaptation_score": 4
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Brassica rapa種の交雑親和性は広く知られている。特定の自然交雑事例に関する記録は少ないが、遺伝的ポテンシャルは高いと評価できる。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "カブ (B. rapa subsp. rapa)",
+        "コマツナ (B. rapa subsp. perviridis)",
+        "ハクサイ (B. rapa subsp. pekinensis)",
+        "チンゲンサイ (B. rapa subsp. chinensis)"
+      ],
+      "interspecific_compatibility": [
+        "セイヨウアブラナ (Brassica napus) とは交雑しにくい"
+      ],
+      "intergeneric_possibility": [
+        "非常に低い"
+      ],
+      "successful_natural_hybrids": [
+        "多くの地域で、畑のアブラナと野生のアブラナが交雑している事例が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "京野菜として多様な在来系統が存在する（例：壬生菜は水菜の自然交雑から生まれたとされる）。",
+      "wild_gene_pool": "日本に自生する野生アブラナ（B. rapa）との遺伝子流動の可能性がある。",
+      "adaptive_genetic_variation": "高い。多様な近縁亜種との交雑により、新たな環境への適応に必要な遺伝的変異を取り込むポテンシャルがある。",
+      "inbreeding_depression_risk": "低い"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "日本（京都）",
+        "environmental_pressure": "地域の土壌、気候、利用方法（漬物、鍋物）",
+        "adaptive_response": "特有の形状（細い葉、多数の分げつ）と食感の獲得",
+        "time_scale": "数百年",
+        "mechanism": "人為選択と地域環境への自然適応"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐暑性を持つ他のB. rapa亜種との交雑により、耐暑性を向上させる可能性がある。",
+      "improved_nutritional_content": "機能性成分を多く含む品種との交雑により、栄養価を高める可能性がある。",
+      "novel_characteristics": "葉の形状、色、風味などの新しい形質を獲得する可能性がある。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "B. rapa内では自家不和合性があるが、他家受精は容易。種間交雑には障壁がある。",
+      "chromosome_compatibility": "B. rapa (AA, 2n=20) 内では染色体適合性が高い。",
+      "fertility_of_hybrids": "種内雑種は高い稔性を示す。",
+      "backcrossing_success": "高い"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "温暖化による高温・乾燥",
+        "adaptive_traits": "耐暑性、耐乾性",
+        "heritability": "中程度",
+        "response_to_selection": "期待できる"
+      }
+    ],
+    "hybridization_score": 8
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "水菜に特化したリジェネラティブ農業の研究はほとんどない。アブラナ科作物の一般的特性と栽培様式からの類推。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "比較的浅いひげ根。土壌の緻密化を防ぐ効果は限定的。",
+      "organic_matter_contribution": "生育が早いため、緑肥としての利用や収穫残渣のすき込みによる有機物供給が可能。",
+      "soil_structure_improvement": "限定的",
+      "erosion_control": "生育初期の被覆度は低いが、繁茂すると地表を覆い、雨滴による侵食を軽減する。",
+      "nutrient_cycling_role": "アブラナ科は土壌深層から養分を吸い上げる能力が一部の種で知られるが、水菜では顕著ではない。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "開花期には多数の花をつけ、ミツバチやハナアブなどの花粉媒介者にとって重要な蜜源・花粉源となる。",
+      "beneficial_insect_habitat": "アブラムシの天敵であるテントウムシや寄生蜂の生息地となる可能性がある。",
+      "soil_microorganism_interaction": "不明",
+      "above_ground_biodiversity": "限定的"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "限定的",
+      "moisture_retention": "地表被覆による土壌水分の蒸発抑制効果がある。",
+      "runoff_reduction": "限定的",
+      "groundwater_recharge": "限定的"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "低い",
+      "below_ground_carbon": "低い。根が浅く、一年草のため永続的な炭素貯留は期待できない。",
+      "soil_carbon_enhancement": "残渣のすき込みにより、短期的には土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "低い"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "ニンジン（互いの害虫を遠ざける効果が期待される）",
+        "マメ科植物（マメ科が固定した窒素を利用）",
+        "ミントなどの芳香植物（害虫忌避効果）"
+      ],
+      "natural_pest_control": "限定的",
+      "nutrient_sharing": "限定的",
+      "allelopathic_interactions": "アブラナ科植物は他の植物の生育を阻害する物質を出すことがある（アレロパシー）。"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "単作では低いが、混作や輪作体系に組み込むことで生態系の多様性を高める。",
+      "stress_tolerance": "低い",
+      "recovery_capacity": "生育が早いため、被害からの回復（再播種）は容易。",
+      "adaptability": "中程度"
+    },
+    "regenerative_score": 5
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "現在の食品市場トレンド、栄養学、持続可能な食料システムに関する報告書に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "ビタミン、ミネラルが豊富で、低カロリー。植物中心の食生活において重要な役割を果たす。",
+      "food_security_contribution": "生育期間が短く、単位面積あたりの収量も高いため、都市近郊農業や家庭菜園に適しており、地域の食料供給に貢献できる。",
+      "local_food_system_integration": "地産地消に適した品目。",
+      "alternative_protein_potential": "ない"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "サラダミックス市場の成長",
+        "健康志向の消費者向け市場",
+        "日本食レストランの世界的な増加"
+      ],
+      "value_added_products": [
+        "カット済みサラダパック",
+        "スムージー用冷凍野菜",
+        "野菜パウダー",
+        "漬物製品"
+      ],
+      "niche_market_value": "ベビーリーフ市場やオーガニック市場で高い価値を持つ。"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "遺伝資源データベース、および伝統野菜の保全活動に関する報告に基づく。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "伝統的な栽培地の都市化や農業形態の変化による脅威がある。",
+    "climate_change_vulnerability": "高い（耐暑性の低さから）",
+    "cultural_erosion_risk": "中。伝統的な調理法や食文化が、簡便なサラダ利用に置き換わることで失われるリスクがある。",
+    "conservation_actions_needed": [
+      "在来品種の種子バンクでの保存（ex situ）",
+      "伝統的な栽培地での栽培継続支援（in situ）",
+      "伝統食文化の記録と継承"
+    ],
+    "priority_conservation_regions": [
+      "日本（特に京都府）"
+    ],
+    "ex_situ_conservation_status": "日本のジーンバンクなどで主要な遺伝資源は保存されている。",
+    "in_situ_conservation_efforts": "京都市などが「京の伝統野菜」として認定し、生産者や料理人と連携して保全活動を行っている。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査の全項目を総合的に評価した結果。"
+    },
+    "cultural_heritage_value": 8,
+    "climate_adaptation_priority": "高優先",
+    "research_urgency": "高",
+    "cross_cultural_exchange_potential": 9,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "日本（京都）",
+      "北米（カリフォルニア）",
+      "ヨーロッパ（オランダ）"
+    ],
+    "knowledge_gaps": [
+      "気候変動（特に高温・CO2濃度上昇）に対する生理学的応答の定量的データ",
+      "品種ごとの機能性成分含有量の違い",
+      "リジェネラティブ農業体系における具体的な効果と相互作用"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "京野菜に関する専門文献および種苗会社のカタログ情報に基づく。"
+      },
+      "variety_name": "京水菜（きょうみずな）",
+      "local_name": "京水菜",
+      "origin_region": "日本・京都",
+      "distinctive_characteristics": "葉の切れ込みが深く、白く細い葉柄が特徴。シャキシャキとした食感が強い。伝統的な品種は株が非常に大きくなる。",
+      "cultural_importance": "京野菜の代表格であり、京都の食文化と深く結びついている。",
+      "climate_adaptation": "耐寒性は強いが耐暑性は低い。京都の冬の気候に適応している。",
+      "conservation_status": "保全対象（京の伝統野菜）"
+    },
+    {
+      "metadata": {
+        "data_availability": "comprehensive",
+        "confidence_level": "high",
+        "source_comment": "京野菜に関する専門文献および種苗会社のカタログ情報に基づく。"
+      },
+      "variety_name": "壬生菜（みぶな）",
+      "local_name": "壬生菜",
+      "origin_region": "日本・京都",
+      "distinctive_characteristics": "水菜の近縁種で、自然交雑によって生まれたとされる。葉に切れ込みがなく、へら状。水菜よりもピリッとした辛味が強い。",
+      "cultural_importance": "水菜と同様に京野菜として重要。特に漬物によく利用される。",
+      "climate_adaptation": "水菜と同様に冷涼な気候を好む。",
+      "conservation_status": "保全対象（京の伝統野菜）"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "GRIN-Global Taxonomy",
+      "USDA FoodData Central",
+      "日本の農林水産省の統計・報告書",
+      "学術論文データベース (Google Scholar, PubMed)"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界全体の正確な生産統計"
+    ],
+    "regional_data_coverage": "日本に関するデータは豊富だが、他の生産国の詳細データは限定的。",
+    "missing_information": [
+      "伝統医学での利用事例",
+      "野生近縁種との遺伝子流動の実態"
+    ],
+    "update_priority": "高",
+    "quality_score": 8
+  }
+}

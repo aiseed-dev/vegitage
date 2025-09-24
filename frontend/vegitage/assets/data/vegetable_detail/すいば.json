@@ -1,0 +1,688 @@
+{
+  "basic_info": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "基本情報は、主要な植物学データベース（Kew's POWO, USDA PLANTS）および農学文献から統合。野生近縁種に関する情報は広範に存在するが、交雑親和性の詳細は限定的。"
+    },
+    "primary_name": "Common Sorrel",
+    "scientific_name": "Rumex acetosa",
+    "plant_type": "多年草",
+    "edible_parts": [
+      "葉",
+      "茎",
+      "花"
+    ],
+    "origin_region": "ユーラシア大陸の温帯域",
+    "wild_relatives": [
+      "Rumex acetosella",
+      "Rumex scutatus",
+      "Rumex arifolius"
+    ]
+  },
+  "global_names": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界各地の植物名データベースおよび民族植物学の記録に基づく。先住民コミュニティ固有の名称は、広範な分布のため特定が困難。"
+    },
+    "international": {
+      "en": [
+        "Common Sorrel",
+        "Garden Sorrel",
+        "Sorrel"
+      ],
+      "scientific_common": "Sorrel"
+    },
+    "regional": [
+      {
+        "region": "ヨーロッパ",
+        "languages": [
+          {
+            "lang": "fr",
+            "name": "Oseille commune",
+            "script": "Latin"
+          },
+          {
+            "lang": "de",
+            "name": "Wiesen-Sauerampfer",
+            "script": "Latin"
+          },
+          {
+            "lang": "ru",
+            "name": "Щавель кислый",
+            "script": "Cyrillic"
+          },
+          {
+            "lang": "pl",
+            "name": "Szczaw zwyczajny",
+            "script": "Latin"
+          }
+        ]
+      },
+      {
+        "region": "東アジア",
+        "languages": [
+          {
+            "lang": "ja",
+            "name": "スイバ",
+            "script": "Katakana"
+          },
+          {
+            "lang": "zh",
+            "name": "酸模",
+            "script": "Han"
+          }
+        ]
+      },
+      {
+        "region": "中東",
+        "languages": [
+          {
+            "lang": "tr",
+            "name": "Kuzukulağı",
+            "script": "Latin"
+          },
+          {
+            "lang": "fa",
+            "name": "ترشک",
+            "script": "Arabic"
+          }
+        ]
+      }
+    ],
+    "indigenous": [
+      {
+        "community": "Sámi",
+        "name": "Juopmu",
+        "cultural_significance": "伝統的にビタミンC源として利用され、特に春先の重要な食料。乳製品と混ぜて保存食にされることもあった。"
+      }
+    ]
+  },
+  "classification": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "APG IV分類体系に基づく。"
+    },
+    "family": {
+      "en": "Buckwheat family",
+      "la": "Polygonaceae"
+    },
+    "genus": {
+      "en": "Dock / Sorrel",
+      "la": "Rumex"
+    },
+    "species": {
+      "en": "Common Sorrel",
+      "la": "acetosa"
+    },
+    "subspecific_ranks": [
+      {
+        "rank": "subsp.",
+        "name": "acetosa"
+      },
+      {
+        "rank": "subsp.",
+        "name": "ambiguus"
+      }
+    ]
+  },
+  "global_cultural_value": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "民族植物学、食文化史、地域研究の文献から情報を統合。"
+    },
+    "world_prevalence": "広域普及",
+    "cultural_importance_by_region": [
+      {
+        "region": "東ヨーロッパ・中央ヨーロッパ",
+        "importance_level": 5,
+        "cultural_roles": [
+          "副菜",
+          "薬用",
+          "季節の象徴"
+        ],
+        "traditional_uses": "春の訪れを告げる食材として、スープ（例：ポーランドのZupa szczawiowa、ロシアの緑のシチー）に不可欠。疲労回復やビタミン補給源として伝統的に重視される。",
+        "seasonal_significance": "春の最初の緑黄色野菜として非常に重要。",
+        "cultivation_decline_risk": "中"
+      },
+      {
+        "region": "西ヨーロッパ",
+        "importance_level": 4,
+        "cultural_roles": [
+          "副菜",
+          "経済作物"
+        ],
+        "traditional_uses": "特にフランス料理で魚料理のソース（Sauce Oseille）として有名。爽やかな酸味が料理のアクセントとして評価される。",
+        "seasonal_significance": "春から初夏の食材。",
+        "cultivation_decline_risk": "低"
+      },
+      {
+        "region": "東アジア",
+        "importance_level": 2,
+        "cultural_roles": [
+          "山菜",
+          "薬用"
+        ],
+        "traditional_uses": "日本では「スイバ」として知られ、主に山野で自生するものを採取して利用する山菜文化の一部。限定的ながら、おひたしや和え物に使われる。",
+        "seasonal_significance": "春の山菜。",
+        "cultivation_decline_risk": "高"
+      }
+    ],
+    "culinary_traditions": [
+      {
+        "cuisine": "東欧料理",
+        "role": "essential",
+        "traditional_dishes": [
+          "Sorrel soup (Green borscht / Schi)",
+          "Sorrel sauce"
+        ],
+        "preparation_methods": [
+          "煮込み",
+          "ピューレ"
+        ],
+        "cultural_context": "冬の終わりと春の到来を祝う象徴的な料理。家庭の庭や市場で広く利用される。"
+      },
+      {
+        "cuisine": "フランス料理",
+        "role": "common",
+        "traditional_dishes": [
+          "Saumon à l'oseille (Salmon with sorrel sauce)"
+        ],
+        "preparation_methods": [
+          "ソース",
+          "ソテー"
+        ],
+        "cultural_context": "高級料理から家庭料理まで、その酸味を活かしたソースとして魚や卵料理に用いられる。"
+      }
+    ],
+    "historical_significance": {
+      "antiquity": "古代エジプト、ギリシャ、ローマ時代から薬用および食用として知られていた。中世ヨーロッパでは一般的な野菜であった。",
+      "trade_routes": "主要な交易品ではなかったが、ユーラシア大陸を通じて人々の移動と共に広まった。",
+      "cultural_exchange": "ヨーロッパからの移民により北米や他の温帯地域に導入された。",
+      "domestication_history": "明確な栽培化の歴史は不明だが、野生種からの選抜が長期間にわたり各地で行われてきたと考えられる。栽培品種は主にヨーロッパで発展した。"
+    }
+  },
+  "cultivation_characteristics": {
+    "difficulty_level": "容易",
+    "climate_adaptability": {
+      "tropical": {
+        "suitable": false,
+        "optimal_conditions": "高温多湿に非常に弱く、生育しない。"
+      },
+      "subtropical": {
+        "suitable": false,
+        "optimal_conditions": "涼しい季節に限定すれば可能だが、商業栽培には不向き。"
+      },
+      "temperate": {
+        "suitable": true,
+        "optimal_conditions": "最適。冷涼で湿潤な気候を好む。春と秋に最もよく生育する。"
+      },
+      "continental": {
+        "suitable": true,
+        "optimal_conditions": "夏の暑さに弱いが、冬の寒さには強い。春と秋が主な栽培シーズン。"
+      },
+      "arid": {
+        "suitable": false,
+        "optimal_conditions": "十分な灌漑があれば生育可能だが、乾燥には弱い。"
+      },
+      "alpine": {
+        "suitable": true,
+        "optimal_conditions": "高地の冷涼な気候に適応している。生育期間は短くなる。"
+      }
+    },
+    "growing_seasons": [
+      {
+        "climate_zone": "温帯",
+        "planting_season": "早春または初秋",
+        "harvest_season": "春から晩秋",
+        "growing_period_days": 60
+      }
+    ],
+    "productivity": {
+      "yield_range": "不明",
+      "factors_affecting_yield": [
+        "土壌の肥沃度と水分",
+        "日照時間",
+        "気温（高温で抽苔し収量が落ちる）",
+        "収穫頻度"
+      ]
+    },
+    "global_production": {
+      "total_annual_production": "不明",
+      "major_producers": [
+        {
+          "country": "ポーランド",
+          "production_share": "不明",
+          "characteristics": "国内消費および加工品（瓶詰、冷凍）のための商業生産が盛ん。"
+        },
+        {
+          "country": "ロシア",
+          "production_share": "不明",
+          "characteristics": "ダーチャ（家庭菜園）での栽培が非常に一般的。市場流通も多い。"
+        },
+        {
+          "country": "フランス",
+          "production_share": "不明",
+          "characteristics": "主に国内の生鮮市場向けに生産されるニッチな作物。"
+        }
+      ]
+    }
+  },
+  "nutritional_functional": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "基本的な栄養価はUSDA等のデータベースで入手可能。機能性成分に関する研究は存在するが、品種や栽培条件による差異のデータは限定的。"
+    },
+    "nutritional_profile": {
+      "macronutrients": {
+        "calories_per_100g": "22",
+        "protein_g": "2.0",
+        "carbs_g": "3.2",
+        "fat_g": "0.7",
+        "fiber_g": "2.9"
+      },
+      "key_micronutrients": [
+        {
+          "nutrient": "ビタミンC",
+          "amount": "48 mg",
+          "daily_value_percent": "53"
+        },
+        {
+          "nutrient": "ビタミンA",
+          "amount": "4000 IU",
+          "daily_value_percent": "80"
+        },
+        {
+          "nutrient": "カリウム",
+          "amount": "390 mg",
+          "daily_value_percent": "8"
+        },
+        {
+          "nutrient": "マグネシウム",
+          "amount": "103 mg",
+          "daily_value_percent": "26"
+        }
+      ]
+    },
+    "bioactive_compounds": [
+      {
+        "compound": "シュウ酸 (Oxalic acid)",
+        "concentration": "高",
+        "health_effect": "特徴的な酸味の源。過剰摂取は腎臓結石のリスクを高める可能性がある。"
+      },
+      {
+        "compound": "フラボノイド（ケルセチン、ミリセチンなど）",
+        "concentration": "中",
+        "health_effect": "抗酸化作用、抗炎症作用。"
+      },
+      {
+        "compound": "アントラキノン類",
+        "concentration": "低（主に根）",
+        "health_effect": "緩下作用。"
+      }
+    ],
+    "traditional_medicinal_uses": [
+      {
+        "region": "ヨーロッパ",
+        "medical_system": "伝統民間療法",
+        "uses": [
+          "壊血病予防",
+          "利尿",
+          "解熱",
+          "皮膚疾患の湿布"
+        ],
+        "preparation": "生食、煎じ薬、湿布薬として利用。"
+      }
+    ],
+    "modern_research": {
+      "proven_benefits": [
+        "高い抗酸化活性"
+      ],
+      "ongoing_research": [
+        "抗がん作用",
+        "抗菌作用"
+      ],
+      "safety_considerations": "シュウ酸を多く含むため、腎臓疾患、痛風、関節リウマチの患者は大量摂取を避けるべき。"
+    }
+  },
+  "culinary_applications": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "世界中の料理本、食文化研究、民族植物学の記録に基づく。"
+    },
+    "global_cooking_methods": [
+      {
+        "region": "東ヨーロッパ",
+        "methods": [
+          "煮込み（スープ）",
+          "ピューレ"
+        ],
+        "flavor_role": "主味",
+        "typical_combinations": [
+          "ジャガイモ",
+          "卵",
+          "サワークリーム",
+          "ディル"
+        ]
+      },
+      {
+        "region": "西ヨーロッパ",
+        "methods": [
+          "ソース化",
+          "ソテー",
+          "生食（若い葉）"
+        ],
+        "flavor_role": "副味/薬味",
+        "typical_combinations": [
+          "魚（特にサーモン）",
+          "鶏肉",
+          "バター",
+          "クリーム"
+        ]
+      }
+    ],
+    "processing_preservation": [
+      {
+        "method": "瓶詰め・缶詰",
+        "regions": [
+          "東ヨーロッパ"
+        ],
+        "shelf_life": "1-2年",
+        "quality_changes": "色が暗緑色に変わり、酸味がマイルドになる。"
+      },
+      {
+        "method": "冷凍",
+        "regions": [
+          "全世界"
+        ],
+        "shelf_life": "約1年",
+        "quality_changes": "色と風味の保持が比較的良い。ピューレにして冷凍することが多い。"
+      }
+    ],
+    "flavor_characteristics": {
+      "taste_profile": "強い酸味、レモンのような爽やかさ、わずかな苦味と緑の香り",
+      "aroma_compounds": [
+        "シュウ酸",
+        "リンゴ酸",
+        "クエン酸"
+      ],
+      "texture_characteristics": "若葉は柔らかくほうれん草に似る。成長すると硬くなる。"
+    }
+  },
+  "climate_change_adaptation": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "定量的な耐性データは乏しい。栽培適性や植物の生理学的特性に基づいた定性的な評価が中心。"
+    },
+    "temperature_tolerance": {
+      "heat_stress_tolerance": "低",
+      "optimal_temperature_range": "15-22°C",
+      "extreme_heat_survival": "30°C以上で生育が著しく阻害され、抽苔（とう立ち）する。",
+      "cold_tolerance": "-20°C以下（根が生存）"
+    },
+    "water_stress_adaptation": {
+      "drought_tolerance": "中",
+      "water_use_efficiency": "不明",
+      "flood_tolerance": "低",
+      "optimal_rainfall": "600-1200mm/年"
+    },
+    "extreme_weather_resilience": {
+      "storm_resistance": "地面に低く生えるため、風害には比較的強い。",
+      "hail_damage_recovery": "葉が傷ついても、根が健全であれば再生能力は高い。",
+      "rapid_temperature_change": "多年草として季節変動には強いが、生育期の急激な高温には弱い。"
+    },
+    "atmospheric_change_response": {
+      "co2_fertilization_effect": "C3植物として、CO2濃度の上昇により光合成が促進される可能性はあるが、研究データは不明。",
+      "ozone_sensitivity": "不明",
+      "uv_radiation_tolerance": "不明"
+    },
+    "pest_disease_adaptation": {
+      "changing_pest_pressure": "温暖化により、ハムシ類やアブラムシの活動期間が長くなり、被害が増加する可能性がある。",
+      "disease_resistance_stability": "高温多湿環境では、うどんこ病などの真菌性疾患のリスクが高まる可能性がある。",
+      "beneficial_organism_relationships": "不明"
+    },
+    "future_suitability_zones": [
+      {
+        "current_zone": "北半球の温帯域全般",
+        "2050_projection": "現在の栽培域の南部では適性が低下し、より高緯度地域（北欧、カナダ、シベリア）で適性が向上する可能性。",
+        "2100_projection": "この傾向がさらに顕著になる。",
+        "confidence_level": "中"
+      }
+    ],
+    "climate_adaptation_score": 6
+  },
+  "natural_hybridization_potential": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "Rumex属の交雑のしやすさは植物学的に知られている。特定の種間交雑に関する詳細なデータは限定的。"
+    },
+    "crossbreeding_compatibility": {
+      "within_species_variants": [
+        "栽培品種と野生集団との間で容易に交雑する。"
+      ],
+      "interspecific_compatibility": [
+        "Rumex arifolius",
+        "Rumex thyrsiflorus"
+      ],
+      "intergeneric_possibility": [
+        "可能性は極めて低い。"
+      ],
+      "successful_natural_hybrids": [
+        "ヨーロッパの野生集団では、近縁種との自然交雑体が報告されている。"
+      ]
+    },
+    "genetic_diversity": {
+      "landrace_diversity": "ヨーロッパを中心に、地域に適応した多様な在来種が存在する。",
+      "wild_gene_pool": "栽培種は野生集団と遺伝的に近く、継続的な遺伝子流動がある。",
+      "adaptive_genetic_variation": "広範な地理的分布は、高い適応的遺伝変異を示唆する。",
+      "inbreeding_depression_risk": "雌雄異株で他家受精が主であるため、近交弱勢のリスクは低い。"
+    },
+    "natural_adaptation_examples": [
+      {
+        "region": "ユーラシア大陸全域",
+        "environmental_pressure": "緯度、標高、土壌条件の違い",
+        "adaptive_response": "開花時期、葉の形状、シュウ酸含有量の地域的変異",
+        "time_scale": "数千年",
+        "mechanism": "自然選択による地域的エコタイプの分化"
+      }
+    ],
+    "hybridization_outcomes": {
+      "enhanced_climate_tolerance": "耐乾性や耐暑性を持つ他のRumex種との交雑により、耐性向上の可能性がある。",
+      "improved_nutritional_content": "シュウ酸含量の低い系統との交雑による食味改善の可能性がある。",
+      "novel_characteristics": "葉の色や大きさ、生育習性など、多様な形質の導入が可能。",
+      "hybrid_vigor_potential": "高い"
+    },
+    "breeding_considerations": {
+      "crossing_barriers": "一部の種間では交雑不和合性が存在する可能性がある。",
+      "chromosome_compatibility": "染色体数が異なる種との交雑は困難な場合がある。",
+      "fertility_of_hybrids": "多くの種間雑種は稔性を持つとされる。",
+      "backcrossing_success": "不明"
+    },
+    "natural_selection_factors": [
+      {
+        "selection_pressure": "気候（温度、降水量）、草食動物による食害、土壌pH",
+        "adaptive_traits": "生育開始時期、シュウ酸濃度（防御物質）、根の深さ",
+        "heritability": "中〜高",
+        "response_to_selection": "比較的速い"
+      }
+    ],
+    "hybridization_score": 7
+  },
+  "regenerative_agriculture": {
+    "metadata": {
+      "data_availability": "scarce",
+      "confidence_level": "low",
+      "source_comment": "スイバを対象としたリジェネラティブ農業の研究はほとんどない。評価は植物の一般的特性（多年草、深根性）からの類推に基づく。"
+    },
+    "soil_health_benefits": {
+      "root_system_characteristics": "深く太い主根（タップルート）を持ち、土壌の硬盤を破砕する可能性がある。",
+      "organic_matter_contribution": "多年草であるため、毎年の枯死部分が土壌有機物を供給し続ける。",
+      "soil_structure_improvement": "根系が土壌団粒構造の形成を助ける。",
+      "erosion_control": "地表を恒久的に覆うため、風食・水食を抑制する。",
+      "nutrient_cycling_role": "深根性により、下層土からミネラルを吸い上げ、表層に還元する「ダイナミック・アキュムレーター」としての可能性がある。"
+    },
+    "biodiversity_enhancement": {
+      "pollinator_support": "風媒花であり、昆虫への蜜源としての価値は低い。",
+      "beneficial_insect_habitat": "ベニシジミなど特定の蝶の食草であり、これらの種の生息地を提供する。",
+      "soil_microorganism_interaction": "多年生の根系は、菌根菌など土壌微生物叢の安定した生息環境を提供する。",
+      "above_ground_biodiversity": "不明"
+    },
+    "water_cycle_benefits": {
+      "water_infiltration": "深根が水の通り道を作り、土壌への浸透を促進する。",
+      "moisture_retention": "土壌被覆により、地表からの水分蒸発を防ぐ。",
+      "runoff_reduction": "地表流を減少させる。",
+      "groundwater_recharge": "不明"
+    },
+    "carbon_sequestration": {
+      "above_ground_biomass": "限定的",
+      "below_ground_carbon": "多年草であり、大きく発達する根系に炭素を長期間貯留する可能性がある。",
+      "soil_carbon_enhancement": "根からの分泌物や枯死した根が土壌炭素を増加させる。",
+      "carbon_sequestration_rate": "不明"
+    },
+    "companion_planting_benefits": {
+      "beneficial_plant_associations": [
+        "伝統的なコンパニオンプランティングの知見では、イチゴやトマトの風味を良くすると言われることがあるが、科学的根拠は乏しい。"
+      ],
+      "natural_pest_control": "不明",
+      "nutrient_sharing": "不明",
+      "allelopathic_interactions": "不明"
+    },
+    "system_resilience": {
+      "agroecosystem_stability": "多年生の被覆作物として、生態系の安定に貢献する可能性がある。",
+      "stress_tolerance": "一度定着すれば、ある程度のストレス（寒さ、一時的な乾燥）に耐える。",
+      "recovery_capacity": "高い。",
+      "adaptability": "中程度。"
+    },
+    "regenerative_score": 8
+  },
+  "modern_applications": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "市場動向と食のトレンドに関する分析に基づく。"
+    },
+    "sustainable_food_systems": {
+      "plant_based_nutrition": "独特の酸味を持つ緑黄色野菜として、植物性食品の多様性を高める。",
+      "food_security_contribution": "多年草であり、栽培が容易なため、家庭菜園やパーマカルチャーにおいて、春先の貴重なビタミン源として貢献する。",
+      "local_food_system_integration": "ファーマーズマーケットやCSA（地域支援型農業）での販売に適した作物。",
+      "alternative_protein_potential": "なし"
+    },
+    "commercial_potential": {
+      "market_expansion_opportunities": [
+        "グルメ・ニッチ市場向けの高級野菜",
+        "健康志向の消費者向けの機能性食品"
+      ],
+      "value_added_products": [
+        "ソース、ペースト",
+        "スープの素（冷凍、瓶詰）",
+        "ハーブティー",
+        "健康補助食品"
+      ],
+      "niche_market_value": "高い"
+    }
+  },
+  "conservation_priority": {
+    "metadata": {
+      "data_availability": "partial",
+      "confidence_level": "medium",
+      "source_comment": "IUCNレッドリストや地域の保全状況評価に基づく。"
+    },
+    "genetic_erosion_risk": "中",
+    "habitat_loss_threat": "野生集団は、放牧地の減少や草原の管理放棄、都市開発により脅かされている。",
+    "climate_change_vulnerability": "中程度。特に分布域の南限に生息する集団は脆弱。",
+    "cultural_erosion_risk": "高。伝統的な利用知識（特に山菜文化）が若い世代に継承されず失われるリスク。",
+    "conservation_actions_needed": [
+      "地域固有の在来系統の収集と保存（ジーンバンク）",
+      "伝統的利用に関する民族植物学的知識の記録と継承",
+      "野生集団が生育する草原環境の保全"
+    ],
+    "priority_conservation_regions": [
+      "東ヨーロッパの伝統的農業景観",
+      "日本の里山地域"
+    ],
+    "ex_situ_conservation_status": "主要なジーンバンクには種子が保存されているが、在来品種の網羅性は不明。",
+    "in_situ_conservation_efforts": "限定的。主に国立公園や自然保護区内での生息地保全に留まる。"
+  },
+  "global_dictionary_evaluation": {
+    "metadata": {
+      "data_availability": "comprehensive",
+      "confidence_level": "high",
+      "source_comment": "本調査全体を通じた統合的評価。"
+    },
+    "cultural_heritage_value": 9,
+    "climate_adaptation_priority": "中優先",
+    "research_urgency": "中",
+    "cross_cultural_exchange_potential": 8,
+    "global_food_security_relevance": 6,
+    "biodiversity_conservation_importance": 7,
+    "recommended_study_regions": [
+      "東ヨーロッパ",
+      "コーカサス地方",
+      "中央アジア"
+    ],
+    "knowledge_gaps": [
+      "気候変動（高温、乾燥）に対する生理学的応答の定量的データ",
+      "リジェネラティブ農業システムにおける具体的な効果（炭素隔離、土壌改良）の測定",
+      "各地域の在来品種の遺伝的多様性と機能性成分の比較分析"
+    ],
+    "global_dictionary_compatibility": 9
+  },
+  "representative_varieties": [
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "medium",
+        "source_comment": "園芸品種カタログおよび農学文献に基づく。"
+      },
+      "variety_name": "Blonde de Lyon",
+      "local_name": "不明",
+      "origin_region": "フランス",
+      "distinctive_characteristics": "葉が広く、色が薄い。酸味が比較的マイルドで、生育が旺盛。生食にも向く。",
+      "cultural_importance": "ヨーロッパで最も広く栽培されている商業品種の一つ。",
+      "climate_adaptation": "標準的な温帯気候に適応。耐暑性は低い。",
+      "conservation_status": "栽培下で安定"
+    },
+    {
+      "metadata": {
+        "data_availability": "partial",
+        "confidence_level": "low",
+        "source_comment": "民族植物学の記録に基づく。"
+      },
+      "variety_name": "Wild-foraged type (Japanese 'Suiba')",
+      "local_name": "スイバ",
+      "origin_region": "日本",
+      "distinctive_characteristics": "栽培品種に比べて葉が細長く、色が濃い傾向がある。酸味が非常に強い。個体差が大きい。",
+      "cultural_importance": "伝統的な山菜（さんさい）文化において重要な位置を占める。",
+      "climate_adaptation": "日本の多様な気候（冷温帯から暖温帯）に広く適応している。",
+      "conservation_status": "広く分布するが、里山の減少により個体数は減少傾向。"
+    }
+  ],
+  "processing_metadata": {
+    "research_date": "2024-05-21",
+    "data_confidence_level": "中",
+    "primary_sources": [
+      "Kew Gardens - Plants of the World Online",
+      "USDA Natural Resources Conservation Service PLANTS Database",
+      "Ethnobotanical literature on European and Asian food cultures"
+    ],
+    "major_knowledge_gaps": [
+      "リジェネラティブ農業適性の定量的データ",
+      "気候変動に対する品種レベルでの応答",
+      "世界的な生産量と流通量の統計データ"
+    ],
+    "regional_data_coverage": "ヨーロッパに関する情報は豊富だが、アジアや中東に関する科学的データは比較的少ない。",
+    "missing_information": [
+      "商業生産における詳細な収量データ",
+      "大気環境変化（CO2, オゾン）への応答に関する実験データ"
+    ],
+    "update_priority": "中",
+    "quality_score": 8
+  }
+}

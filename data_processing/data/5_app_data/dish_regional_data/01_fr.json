@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "region": "地中海地域",
+    "specific_area": "南フランス料理",
+    "generated_at": "2025-09-01T01:15:21.168811Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "地中海地域",
+    "specific_area": "南フランス料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "パン",
+        "concept_name_local": "Pain (Fougasse, Pain de campagne)",
+        "local_language": "fr",
+        "concept_name_en": "Bread",
+        "brief_description": "南フランスの食生活の根幹をなす主食。特に、オリーブオイルやハーブを練り込んだフーガスは象徴的。食事の最初から最後まで常に食卓にあり、ソースを拭うなど道具としても使われる、文化の中心的存在。",
+        "historical_brief_": "古代ローマ時代からガリア・ナルボネンシス（現在のプロヴァンス）は穀倉地帯であり、パン作りは生活の基盤だった。中世の共同体のパン焼き窯の遺跡も各地に残っており、パンが地域社会の核であったことを示している。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.histoire-pour-tous.fr/histoire-de-france/3345-l-alimentation-des-francais-au-moyen-age.html",
+          "https://www.persee.fr/doc/piot_1148-6223_1993_num_73_1_1620"
+        ]
+      },
+      {
+        "concept_name_ja": "オリーブオイル",
+        "concept_name_local": "Huile d'olive",
+        "local_language": "fr",
+        "concept_name_en": "Olive Oil",
+        "brief_description": "南フランス料理の魂とも言える基本的な調味料。「プロヴァンスの黄金」と称され、炒め物、ドレッシング、保存食、パンにつけるなど、あらゆる調理に用いられる。その風味は地域のアイデンティティそのものである。",
+        "historical_brief_": "紀元前600年頃、古代ギリシャ人によってマッサリア（現マルセイユ）にもたらされた。ローマ時代には栽培が大規模に拡大し、オイルを貯蔵・輸送したアンフォラの破片が多数出土。オリーブ栽培は地域の景観と経済を数千年にわたり形成してきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.afidol.org/histoire-olivier/",
+          "https://archeologie.culture.gouv.fr/gaulois-romains-mediterranee/fr/villa-gallo-romaine-saint-michel-propriano"
+        ]
+      },
+      {
+        "concept_name_ja": "プロヴァンスのハーブ",
+        "concept_name_local": "Herbes de Provence",
+        "local_language": "fr",
+        "concept_name_en": "Herbs of Provence",
+        "brief_description": "ローズマリー、タイム、オレガノ、セイボリーなど、地域の乾燥した丘陵（ガリグ）に自生する香草の総称またはミックス。煮込み、グリル、オイルの香り付けに不可欠で、南仏料理の香りを定義づける要素。",
+        "historical_brief_": "これらのハーブは古代から薬用や調理用に利用されてきた。ローマ時代の文献にも記述が見られ、中世の修道院では栽培・研究が行われた。ハーブの利用は、地域の自然環境と密接に結びついた食文化の証である。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.provence7.com/portails/gastronomie/la-cuisine-provencale/les-herbes-de-provence/"
+        ]
+      },
+      {
+        "concept_name_ja": "アイオリ",
+        "concept_name_local": "Aïoli / Ailloli",
+        "local_language": "fr",
+        "concept_name_en": "Aioli",
+        "brief_description": "ニンニクとオリーブオイルを乳化させた強烈な風味のソース。単なるソースに留まらず、茹で野菜や魚介と共に食す「グラン・アイオリ」という祝祭的な料理そのものを指す。共同体や家族の絆を象徴する食文化。",
+        "historical_brief_": "ニンニクとオイルの組み合わせは古代ローマの「aleatum」に遡るとされ、地中海全域に同様のソースが存在する。プロヴァンスでは中世から庶民の栄養源であり、詩人フレデリック・ミストラルによってプロヴァンス文化の象徴に高められた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.geo.fr/histoire/quelle-est-lhistoire-de-laioli-specialite-provencale-emblematique-209279",
+          "https://www.france.fr/fr/provence/article/specialites-provencales-aioli"
+        ]
+      },
+      {
+        "concept_name_ja": "野菜の煮込み",
+        "concept_name_local": "Ratatouille / Tian / Daube de légumes",
+        "local_language": "fr",
+        "concept_name_en": "Vegetable Stew",
+        "brief_description": "ナス、ズッキーニ、トマト、パプリカなどの夏野菜をオリーブオイルで煮込んだ料理の総称。ラタトゥイユやティアン（野菜の重ね焼き）など多様な形があり、太陽の恵みを凝縮した、南仏の家庭料理の代表格。",
+        "historical_brief_": "トマトやナスなど新大陸由来の野菜が普及した18世紀以降に現代の形が成立。しかし、野菜を土鍋でじっくり煮込む調理法自体は古代から存在し、考古学的に発見される調理用土器がその連続性を示唆している。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.larousse.fr/encyclopedie/divers/ratatouille/140417",
+          "https://www.marmiton.org/cuisine-regionale/provence-alpes-cote-d-azur/le-tian-provencal-s-l-100234.aspx"
+        ]
+      },
+      {
+        "concept_name_ja": "野菜と豆のスープ",
+        "concept_name_local": "Soupe au pistou / Soupe de légumineuses",
+        "local_language": "fr",
+        "concept_name_en": "Vegetable and Bean Soup",
+        "brief_description": "季節の野菜、白いんげん豆やひよこ豆、小さなパスタなどを煮込んだ滋味深いスープ。食べる直前にピストゥ（バジル、ニンニク、オイルのソース）を加えるのが特徴。夏の終わりの風物詩であり、農家の知恵が詰まった一品。",
+        "historical_brief_": "豆類は古代から地中海地域の重要なタンパク源であり、野菜と煮込むスープは庶民の食生活を支えてきた。ピストゥの原型は古代ローマ時代から存在し、リグーリア地方（伊）から伝わった文化がニース周辺で独自の発展を遂げた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.nice.fr/fr/cuisine-nicoise/le-label-cuisine-nissarde/la-soupe-au-pistou",
+          "https://books.openedition.org/pup/6561?lang=fr"
+        ]
+      },
+      {
+        "concept_name_ja": "ひよこ豆の粉の焼き物",
+        "concept_name_local": "Socca / Panisse",
+        "local_language": "fr",
+        "concept_name_en": "Chickpea Flour Pancake/Fritter",
+        "brief_description": "ひよこ豆の粉を水とオリーブオイルで溶き、薄く焼いたクレープ状の「ソッカ」や、固めて揚げた「パニース」。ニースやマルセイユのストリートフードの定番であり、素朴で香ばしい味わいが長年愛されている。",
+        "historical_brief_": "ひよこ豆の栽培と利用は古代に遡る。この種の料理は、古代ギリシャやローマの質素なパンの系譜を引く。特にジェノヴァからの影響が強く、地中海を介した食文化の交流を物語る歴史的な料理である。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.lefigaro.fr/voyages/la-socca-bien-plus-qu-une-specialite-nicoise-un-marqueur-identitaire-20230222",
+          "https://www.marseilletourisme.fr/fr/blog/a-table-avec-les-specialites-culinaires-marseillaises/la-panisse/"
+        ]
+      },
+      {
+        "concept_name_ja": "詰め物野菜",
+        "concept_name_local": "Petits Farcis / Farcis provençaux",
+        "local_language": "fr",
+        "concept_name_en": "Stuffed Vegetables",
+        "brief_description": "ズッキーニ、トマト、ナス、玉ねぎなどの中をくり抜き、パン粉、ハーブ、香味野菜（伝統的には肉も）を詰めてオーブンで焼く料理。野菜を余すことなく使い切る、家庭に根付いた知恵の結晶。",
+        "historical_brief_": "野菜に詰め物をする調理法は、古代ローマのアピシウスの料理書にも見られる古い技法。現在の形は、様々な野菜が手に入るようになってから確立されたが、食材を無駄にしないという精神は時代を超えて受け継がれている。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://cuisine.journaldesfemmes.fr/decouvrir-la-gastronomie/2753335-les-petits-farcis-nicois-histoire-et-recette-de-ce-plat-colore/",
+          "https://www.departement06.fr/la-cuisine-nicoise/les-petits-farcis-3177.html"
+        ]
+      },
+      {
+        "concept_name_ja": "塩味のタルト/フラットブレッド",
+        "concept_name_local": "Tarte Salée / Pissaladière",
+        "local_language": "fr",
+        "concept_name_en": "Savory Tart / Flatbread",
+        "brief_description": "パン生地を薄く伸ばし、具材を乗せて焼く料理の総称。玉ねぎとアンチョビ、オリーブを乗せたピサラディエールが特に有名。ピザの原型とも言われ、軽食や前菜として広く親しまれている。",
+        "historical_brief_": "パン生地に具材を乗せて焼くスタイルは、古代エジプトやギリシャ、ローマに起源を持つ。ピサラディエールは、ローマ時代に伝わった魚醤（ガルム）の系譜を引く「ピサラ」が語源とされ、長い食文化の連続性を示している。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.academiedugout.fr/articles/la-pissaladiere-entre-nice-et-genes_3738",
+          "https://www.fondation-nicolas-hulot.org/magazine/pissaladiere-aux-oignons-doux/"
+        ]
+      },
+      {
+        "concept_name_ja": "魚介のスープ",
+        "concept_name_local": "Soupe de Poisson / Bouillabaisse",
+        "local_language": "fr",
+        "concept_name_en": "Fish Soup",
+        "brief_description": "マルセイユを象徴する料理。元々は漁師が売り物にならない雑多な岩礁魚を煮込んだ素朴な一品。魚の出汁が凝縮されたスープと、ルイユというソースを塗ったパンを浸して食べるのが特徴。もてなしの料理でもある。",
+        "historical_brief_": "魚を煮込むスープは、古代ギリシャの植民都市マッサリアの時代から存在したとされる。現在のブイヤベースの形は17世紀頃に確立。貧しい漁師の食事から、今や高級料理となったが、その根底には地元の海の幸を活かす精神が流れている。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "低",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.marseille-tourisme.com/decouvrez-marseille/gastronomie/la-bouillabaisse/",
+          "https://www.economie.gouv.fr/patrimoine/la-bouillabaisse"
+        ]
+      },
+      {
+        "concept_name_ja": "タプナード",
+        "concept_name_local": "Tapenade",
+        "local_language": "fr",
+        "concept_name_en": "Tapenade",
+        "brief_description": "黒オリーブ、ケッパー、アンチョビ、オリーブオイルをすり潰したペースト。パンや野菜につけて食べるアペリティフの定番。オリーブの豊かな風味と塩気が凝縮されており、プロヴァンスの味を最も手軽に楽しめる一品。",
+        "historical_brief_": "ケッパーを意味するプロヴァンス語「tapena」が語源。現代のレシピは19世紀末にマルセイユで考案されたとされるが、オリーブやケッパーをペースト状にする食文化は古代ローマ時代から存在しており、その伝統を受け継いでいる。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://www.larousse.fr/encyclopedie/divers/tapenade/146059",
+          "https://provence-alpes-cotedazur.com/decouvrir/gastronomie/recettes-provencales/tapenade/"
+        ]
+      }
+    ]
+  }
+}

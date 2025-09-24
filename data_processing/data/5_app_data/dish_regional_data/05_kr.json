@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "region": "東アジア",
+    "specific_area": "韓国料理",
+    "generated_at": "2025-09-01T02:00:07.230820Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "東アジア",
+    "specific_area": "韓国料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "パプ（ご飯）",
+        "concept_name_local": "밥",
+        "local_language": "ko",
+        "concept_name_en": "Bap (Cooked Rice)",
+        "brief_description": "韓国人の食卓の中心に位置する主食。単なる白米ではなく、雑穀を混ぜるのが伝統的。食事そのものを「パプ」と呼び、「ご飯食べましたか？」が挨拶になるほど、共同体と生命の象徴として文化に深く根付いている。",
+        "historical_brief_": "朝鮮半島での米の栽培は数千年の歴史を持つ。炭化米の出土がその証拠。時代や身分により雑穀の割合は変化したが、温かいご飯と汁物、おかずという食の基本形式は古代から一貫しており、食文化の基盤をなす。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0020353",
+          "https://www.hansik.or.kr/kr/board/list.do?boardId=79&menuId=216&sort",
+          "https://folkency.nfm.go.kr/kr/topic/detail/7386"
+        ]
+      },
+      {
+        "concept_name_ja": "キムチ",
+        "concept_name_local": "김치",
+        "local_language": "ko",
+        "concept_name_en": "Kimchi",
+        "brief_description": "野菜を塩漬けし、唐辛子、ニンニク、塩辛などで発酵させた韓国を代表する漬物。食卓に欠かせない基本のおかずであり、発酵を通じて保存性を高める知恵の結晶。地域や家庭ごとに数百種類ものレシピが存在する。",
+        "historical_brief_": "野菜の塩漬けの歴史は三国時代に遡る。唐辛子が伝来する以前は、塩や他の香辛料で漬けられていた。冬の間の野菜不足を補うための貯蔵食として発達し、「キムジャン文化」という共同労働の風習を生んだ。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.kimchi.or.kr/history/brief-history-of-kimchi/",
+          "http://encykorea.aks.ac.kr/Contents/Item/E0009355",
+          "https://ich.unesco.org/en/RL/kimjang-making-and-sharing-kimchi-in-the-republic-of-korea-00881"
+        ]
+      },
+      {
+        "concept_name_ja": "ジャン（醤）",
+        "concept_name_local": "장",
+        "local_language": "ko",
+        "concept_name_en": "Jang (Fermented Sauces)",
+        "brief_description": "テンジャン（味噌）、カンジャン（醤油）、コチュジャン（唐辛子味噌）などの発酵調味料の総称。韓国料理の味の根幹をなし、「醤の味が家の味を決める」と言われるほど重要。各家庭で受け継がれる醤作りは神聖な営みとされた。",
+        "historical_brief_": "豆の発酵食品の歴史は三国時代以前に遡り、遺跡からも豆を蒸した痕跡が見つかる。醤は穀物を主原料とする韓国の食文化において、不足しがちなタンパク質を補い、料理に深い旨味を与える基本の調味料として発展した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0048682",
+          "https://folkency.nfm.go.kr/kr/topic/detail/7027",
+          "https://www.hansik.or.kr/kr/board/list.do?boardId=106&menuId=243"
+        ]
+      },
+      {
+        "concept_name_ja": "ナムル",
+        "concept_name_local": "나물",
+        "local_language": "ko",
+        "concept_name_en": "Namul (Seasoned Vegetables)",
+        "brief_description": "野菜や山菜を茹でたり炒めたりして、ごま油、塩、醤油などで和えた料理。季節の恵みを活かす調理法で、韓国の食卓を彩る基本的なおかず。素材の味を活かす素朴な味付けが多く、ビビンバの主要な具材でもある。",
+        "historical_brief_": "古くから山野に自生する植物を食用としてきた歴史を持つ。仏教の影響で肉食が制限された時代に特に発達し、野菜中心の食文化の根幹を形成した。飢饉の際には救荒食としても重要な役割を果たしてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0010009",
+          "https://www.hansik.or.kr/kr/board/list.do?boardId=83&menuId=220",
+          "https://folkency.nfm.go.kr/kr/topic/detail/7504"
+        ]
+      },
+      {
+        "concept_name_ja": "クク（スープ）",
+        "concept_name_local": "국",
+        "local_language": "ko",
+        "concept_name_en": "Guk (Soup)",
+        "brief_description": "ご飯と共に提供される汁物。澄んだスープが多く、食事全体の水分を補い、喉を潤す役割を持つ。チゲよりも塩分が控えめで、主食であるご飯を美味しく食べるための重要な要素。具材により無数のバリエーションが存在する。",
+        "historical_brief_": "ご飯と汁物を基本とする韓国の食事形式（飯床）は、古代から続く伝統。儀礼食や宮廷料理の記録にも多様なククが登場する。醤（ジャン）をベースにした味付けが基本で、その地域の産物を活かして作られてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0006322",
+          "https://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000705001",
+          "https://www.hansik.or.kr/kr/board/list.do?boardId=85&menuId=222"
+        ]
+      },
+      {
+        "concept_name_ja": "チゲ（鍋）",
+        "concept_name_local": "찌개",
+        "local_language": "ko",
+        "concept_name_en": "Jjigae (Stew)",
+        "brief_description": "クク（スープ）よりも具沢山で味が濃く、煮込みながら食べる鍋料理。ご飯のおかず（パンチャン）としての性格が強い。食卓の中央に置かれ、一つの鍋を皆で囲んで食べる、共同体意識を象徴する料理でもある。",
+        "historical_brief_": "チゲという形態が明確になったのは朝鮮王朝時代以降とされるが、土鍋などの調理器具の発達と共に、庶民の間で日常的な調理法として定着した。テンジャンチゲやキムチチゲなど、醤やキムチを基盤とするものが多い。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0054817",
+          "https://folkency.nfm.go.kr/kr/topic/detail/7057",
+          "https://www.hansik.or.kr/kr/board/list.do?boardId=86&menuId=223"
+        ]
+      },
+      {
+        "concept_name_ja": "チュク（粥）",
+        "concept_name_local": "죽",
+        "local_language": "ko",
+        "concept_name_en": "Juk (Porridge)",
+        "brief_description": "米や他の穀物を水で長時間煮込んだ粥。病人食や離乳食として親しまれるほか、豆、カボチャ、アワビなど多様な食材を使った専門料理としても発達。体を温め、消化に良い健康食として広く認識されている。",
+        "historical_brief_": "穀物食の最も原始的な形態の一つで、その歴史は非常に古い。朝鮮時代の文献にも様々な種類の粥が記録されており、救荒食として民衆を支える一方、宮廷では繊細な味付けの別味（特別な料理）としても食された。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0053229",
+          "https://www.hansik.or.kr/kr/board/list.do?boardId=79&menuId=216",
+          "https://folkency.nfm.go.kr/kr/topic/detail/7141"
+        ]
+      },
+      {
+        "concept_name_ja": "トック（餅）",
+        "concept_name_local": "떡",
+        "local_language": "ko",
+        "concept_name_en": "Tteok (Rice Cake)",
+        "brief_description": "米や他の穀物の粉を蒸したり、搗いたり、焼いたりして作る餅。食事としても間食としても食べられる。誕生日や祝祭日、祭祀など、人生の節目や年中行事に欠かせない儀礼食として、深い文化的重要性を持つ。",
+        "historical_brief_": "青銅器時代の調理器具の遺跡から、穀物を蒸した痕跡が発見されており、餅の起源は非常に古い。三国時代の記録にも登場し、穀物を加工して特別な食べ物を作る文化が古くから存在したことを示している。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0016839",
+          "https://www.hansik.or.kr/kr/board/list.do?boardId=100&menuId=237",
+          "https://folkency.nfm.go.kr/kr/topic/detail/7440"
+        ]
+      },
+      {
+        "concept_name_ja": "サム（包み文化）",
+        "concept_name_local": "쌈",
+        "local_language": "ko",
+        "concept_name_en": "Ssam (Food Wraps)",
+        "brief_description": "サンチュ、エゴマの葉などの葉野菜で、ご飯や肉、サムジャン（包み味噌）などを包んで一口で食べる食文化の様式。野菜をふんだんに摂取できる健康的な食べ方であり、福を包んで食べるという縁起の良い意味合いも持つ。",
+        "historical_brief_": "高麗時代の文献にも野菜でご飯を包んで食べたという記述が見られる。元からの影響を退けたことを祝う風習として始まったとも言われ、自然の恵みをそのまま活かす、韓国の食文化の独創的な側面を示している。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0030219",
+          "https://folkency.nfm.go.kr/kr/topic/detail/7387",
+          "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=92257d03-3467-4638-8c4c-4712419a4e21"
+        ]
+      },
+      {
+        "concept_name_ja": "ビビンバ",
+        "concept_name_local": "비빔밥",
+        "local_language": "ko",
+        "concept_name_en": "Bibimbap (Mixed Rice)",
+        "brief_description": "ご飯の上に様々なナムル、肉、卵などを彩りよく盛り付け、コチュジャンやごま油を加えて混ぜて食べる料理。全ての具材を混ぜ合わせることで生まれる「調和の味」を特徴とし、韓国の食哲学を象徴する一品。",
+        "historical_brief_": "大晦日に残ったおかずをご飯に混ぜて食べた風習や、農作業の際に野外で手軽に食べた食事（野飯）が起源とされる。祭祀の供物を下げた後に皆で混ぜて食べた「飲福」の習慣にもその原型が見られる。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0025946",
+          "https://www.hansik.or.kr/kr/board/view.do?boardId=79&menuId=216&dataId=586",
+          "https://folkency.nfm.go.kr/kr/topic/detail/7144"
+        ]
+      },
+      {
+        "concept_name_ja": "ジョン（チヂミ）",
+        "concept_name_local": "전",
+        "local_language": "ko",
+        "concept_name_en": "Jeon (Pan-fried Pancakes)",
+        "brief_description": "食材を薄切りやみじん切りにし、小麦粉や卵の衣をつけて油で焼いた料理の総称。「チヂミ」とも呼ばれる。祝祭日や祭祀の供え物として欠かせないほか、雨の日の定番食としても親しまれている。",
+        "historical_brief_": "油が貴重だった時代には、特別な日のご馳走であった。宮廷料理や両班の宴会料理として発達し、その調理法が庶民に広がった。食材を油で調理する「煎」という調理法は古くから存在し、多様なジョンを生み出した。",
+        "historical_significance": "中",
+        "cultural_importance": "中",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0048212",
+          "https://www.hansik.or.kr/kr/board/list.do?boardId=91&menuId=228",
+          "https://folkency.nfm.go.kr/kr/topic/detail/7054"
+        ]
+      },
+      {
+        "concept_name_ja": "ククス（麺類）",
+        "concept_name_local": "국수",
+        "local_language": "ko",
+        "concept_name_en": "Guksu (Noodles)",
+        "brief_description": "小麦粉やそば粉などから作られる麺料理の総称。長い麺が長寿を象徴するため、結婚式や還暦祝いなどの祝宴で食べられる縁起の良い料理。冷たいスープで食べる冷麺から、温かいカルグクスまで、多様な形態を持つ。",
+        "historical_brief_": "麺食の文化は高麗時代に中国から伝わったとされる。小麦が貴重だったため、かつては特別な日の食べ物であった。朝鮮時代には様々な麺料理の記録が残り、地域ごとの特色ある麺文化が育まれてきた。",
+        "historical_significance": "中",
+        "cultural_importance": "中",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0006427",
+          "https://www.hansik.or.kr/kr/board/list.do?boardId=80&menuId=217",
+          "https://folkency.nfm.go.kr/kr/topic/detail/7521"
+        ]
+      },
+      {
+        "concept_name_ja": "チョンゴル（寄せ鍋）",
+        "concept_name_local": "전골",
+        "local_language": "ko",
+        "concept_name_en": "Jeongol (Hot Pot)",
+        "brief_description": "肉、海産物、野菜などを浅い鍋に入れ、出汁を注いで卓上で煮ながら食べる料理。日本の寄せ鍋やすき焼きに近い。様々な食材を一度に楽しめ、皆で鍋を囲むスタイルは、共同体での食事を重視する文化を反映している。",
+        "historical_brief_": "朝鮮時代の宮廷料理や両班の宴会料理として発達したとされる。チョンゴル専用の鍋（チョンゴルトゥル）が存在したことからも、格式ある料理であったことがうかがえる。時代と共に庶民にも広まり、多様な食材で楽しまれるようになった。",
+        "historical_significance": "中",
+        "cultural_importance": "中",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "http://encykorea.aks.ac.kr/Contents/Item/E0050478",
+          "https://www.hansik.or.kr/kr/board/list.do?boardId=87&menuId=224",
+          "https://www.doopedia.co.kr/doopedia/master/master.do?_method=view&MAS_IDX=101013000843343"
+        ]
+      },
+      {
+        "concept_name_ja": "サチャルムシク（寺刹料理）",
+        "concept_name_local": "사찰음식",
+        "local_language": "ko",
+        "concept_name_en": "Sachal-eumsik (Korean Temple Cuisine)",
+        "brief_description": "韓国の仏教寺院で食べられる精進料理。肉や魚介類、そして五辛菜（ニンニク、ネギなど）を使わないのが特徴。旬の野菜や山菜、海藻を使い、素材本来の味を活かすことで、心身の修行と調和を目指す食の哲学が込められている。",
+        "historical_brief_": "三国時代に仏教が伝来して以来、1700年以上にわたって受け継がれてきた食文化。肉食が禁じられていた高麗時代には特に発展した。自然との共生と生命尊重の思想に基づき、独自の調理法や保存食の技術が育まれた。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.koreantemplefood.com/kr/main.do",
+          "http://encykorea.aks.ac.kr/Contents/Item/E0025624",
+          "https://ich.unesco.org/en/RL/buddhism-lantern-lighting-festival-in-the-republic-of-korea-yeondeunghoe-00882"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "region": "地中海地域",
+    "specific_area": "クロアティア料理",
+    "generated_at": "2025-09-01T01:17:45.839948Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "地中海地域",
+    "specific_area": "クロアティア料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "パン",
+        "concept_name_local": "Kruh",
+        "local_language": "hr",
+        "concept_name_en": "Bread",
+        "brief_description": "クロアチアの食卓に不可欠な主食。特に各家庭で焼かれる「ドマーチ・クルッフ（domaći kruh）」は家族や共同体の象徴とされる。祝祭には特別なパンが焼かれ、地域ごとに多様な種類が存在する。",
+        "historical_brief": "古代イリュリア人やローマ時代から続く穀物栽培の歴史を背景に、食文化の中心であり続けた。貧しい時代には雑穀も混ぜられ、人々の生活を支えてきた存在であり、その歴史は考古学的な石臼の発見からも伺える。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.croatiaweek.com/the-varieties-of-croatian-bread/",
+          "https://hr.wikipedia.org/wiki/Kruh",
+          "https://croatia.hr/en-gb/food-and-drink/soparnik"
+        ]
+      },
+      {
+        "concept_name_ja": "ポレンタ",
+        "concept_name_local": "Palenta / Žganci",
+        "local_language": "hr",
+        "concept_name_en": "Polenta",
+        "brief_description": "トウモロコシの粉を練り上げた、シンプルで滋味深い主食。特にイストラ半島やダルマチア地方、内陸部のリカ地方などで伝統的に食されてきた。付け合わせとしても、それ自体が主菜としても食べられる。",
+        "historical_brief": "16世紀にトウモロコシが伝来して以降、小麦が手に入りにくい山間部や貧しい家庭の重要なカロリー源となった。歴史的に庶民の生活と深く結びついており、飢饉を乗り越えるための知恵の象徴でもある。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.tasteatlas.com/zganci",
+          "https://en.wikipedia.org/wiki/%C5%BDganci",
+          "https://www.coolinarika.com/recept/starinska-palenta-pura-zganci-777176b6-6301-11eb-a72e-0242ac12002d"
+        ]
+      },
+      {
+        "concept_name_ja": "オリーブオイル",
+        "concept_name_local": "Maslinovo ulje",
+        "local_language": "hr",
+        "concept_name_en": "Olive Oil",
+        "brief_description": "アドリア海沿岸部のクロアチア料理の魂ともいえる基本調味料。サラダ、グリル、煮込みなどあらゆる料理に使われ、その品質は地域の誇り。パンに浸して食べるだけでも一つの食文化を形成している。",
+        "historical_brief": "古代ギリシャ・ローマ時代にまで遡るオリーブ栽培の長い歴史を持つ。沿岸部の地形と気候に適したオリーブの木は、何世紀にもわたり人々の生活と景観を形作ってきた。古いオリーブ圧搾機の遺跡も各地で発見されている。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.total-croatia.com/a-short-history-of-olive-oil-production-in-croatia/",
+          "https://croatia.hr/en-gb/food-and-drink/olive-oil-routes",
+          "https://en.wikipedia.org/wiki/Agriculture_in_Croatia#Olive_and_wine_production"
+        ]
+      },
+      {
+        "concept_name_ja": "パプリカ（調味料）",
+        "concept_name_local": "Paprika",
+        "local_language": "hr",
+        "concept_name_en": "Paprika (as a spice)",
+        "brief_description": "クロアチア内陸部、特にスラヴォニア地方の料理に欠かせない、鮮やかな赤色と風味をもたらす調味料。甘口（slatka）と辛口（ljuta）があり、グーラッシュや魚の煮込み（fiš paprikaš）の色と味の決め手となる。",
+        "historical_brief": "オスマン帝国とオーストリア＝ハンガリー帝国双方の影響を受け、16世紀以降にクロアチア内陸部の食文化に深く浸透した。気候がパプリカ栽培に適していたため、地域の特産品として定着し、保存食にも活用された。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.tasteatlas.com/baranya-kulen",
+          "https://slavonija.hr/homepage-en/gastronomy-of-slavonia/the-story-of-paprika-and-other-spices-en/",
+          "https://en.wikipedia.org/wiki/Croatian_cuisine"
+        ]
+      },
+      {
+        "concept_name_ja": "ペカ",
+        "concept_name_local": "Peka",
+        "local_language": "hr",
+        "concept_name_en": "Peka / Under the bell cooking",
+        "brief_description": "炭火を乗せた鉄や陶器のドーム型の蓋「ペカ」を使い、食材をじっくりと蒸し焼きにする調理法。肉、魚介、野菜、パンなどあらゆる食材に適用でき、集いの場の中心となる共同体的な食文化でもある。",
+        "historical_brief": "その起源は古代にまで遡ると考えられ、バルカン半島一帯で見られる最も原始的な調理法の一つ。調理器具の形状は、古代の土器や調理場の遺跡から類推できるシンプルさで、何世紀にもわたりその基本形を変えていない。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.timeout.com/croatia/restaurants/croatian-food-10-things-to-try-in-dubrovnik",
+          "https://www.tasteatlas.com/peka",
+          "https://www.youtube.com/watch?v=1i5a3y-pCgY"
+        ]
+      },
+      {
+        "concept_name_ja": "ヴァリヴォ",
+        "concept_name_local": "Varivo",
+        "local_language": "hr",
+        "concept_name_en": "Vegetable Stew",
+        "brief_description": "季節の野菜や豆類、根菜などを煮込んだ家庭的なシチュー。「スプーンで食べる料理（jelo na žlicu）」の代表格で、使う具材に決まりはなく、冷蔵庫の残り物で作ることも多い、クロアチア版の「おふくろの味」。",
+        "historical_brief": "農耕社会において、畑で採れたものを無駄なく使い、一つの鍋で栄養を摂るための生活の知恵から生まれた料理。肉が貴重だった時代には、豆類を主体とした植物性のヴァリヴォが庶民の食生活を支えてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.chasingthedonkey.com/croatian-cooking-varivo-recipe-hearty-vegetable-stew/",
+          "https://www.coolinarika.com/tag/varivo",
+          "https://www.croatiaweek.com/croatian-recipes-varivo-od-mahuna-s-junetinom-green-bean-stew-with-beef/"
+        ]
+      },
+      {
+        "concept_name_ja": "マネシュトラ",
+        "concept_name_local": "Maneštra",
+        "local_language": "hr",
+        "concept_name_en": "Maneštra / Thick bean and vegetable soup",
+        "brief_description": "特にイストラ半島で親しまれる、豆と乾燥肉、季節の野菜をとろみがつくまで煮込んだ濃厚なスープ。イタリアのミネストローネにルーツを持つが、トウモロコシやジャガイモが加わるなど、独自の発展を遂げている。",
+        "historical_brief": "ヴェネツィア共和国の支配下にあった歴史を反映し、イタリアの食文化が土着化したもの。元々は農民の料理で、一つの鍋で栄養価の高い食事を作るための工夫だった。乾燥肉は風味付けで、基本は豆と野菜が主役。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.tasteatlas.com/manestra",
+          "https://istria.hr/en/gastronomy/authentic-dishes/istrian-manestra",
+          "https://en.wikipedia.org/wiki/Mane%C5%A1tra"
+        ]
+      },
+      {
+        "concept_name_ja": "ソパルニク",
+        "concept_name_local": "Soparnik",
+        "local_language": "hr",
+        "concept_name_en": "Soparnik / Savory chard pie",
+        "brief_description": "ダルマチア地方のポルイッツァ共和国に伝わる、スイスチャードと玉ねぎを薄い生地で挟んで焼いたセイボリーパイ。非常にシンプルながら滋味深く、EUの地理的表示保護（PGI）にも認定されている。",
+        "historical_brief": "その起源はオスマン帝国時代、あるいはそれ以前にまで遡るとされる。元々は斎戒（特にクリスマス・イヴ）の時期に食べる質素な料理であり、歴史的に貧しい人々の食事であった。完全に植物性の食材のみで作られる。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://croatia.hr/en-gb/food-and-drink/soparnik",
+          "https://www.tasteatlas.com/soparnik",
+          "https://en.wikipedia.org/wiki/Soparnik"
+        ]
+      },
+      {
+        "concept_name_ja": "サワーキャベツ",
+        "concept_name_local": "Kiselo zelje / Kiseli kupus",
+        "local_language": "hr",
+        "concept_name_en": "Sauerkraut",
+        "brief_description": "クロアチア内陸部における冬の重要な保存食であり、国民食サルマ（Sarma）の味の決め手となる食材。乳酸発酵による独特の酸味と旨味を持ち、煮込み料理や付け合わせとして広く利用される。",
+        "historical_brief": "中央ヨーロッパから伝わった食文化で、冬が長く厳しい内陸部において、ビタミンCを補給するための重要な食品だった。各家庭で大きな樽にキャベツを漬け込む光景は、地域の冬の風物詩であった。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.tasteatlas.com/kiseli-kupus",
+          "https://www.chasingthedonkey.com/croatian-sarma-recipe-stuffed-cabbage-rolls/",
+          "https://hr.wikipedia.org/wiki/Kiseli_kupus"
+        ]
+      },
+      {
+        "concept_name_ja": "アイヴァル",
+        "concept_name_local": "Ajvar",
+        "local_language": "hr",
+        "concept_name_en": "Ajvar",
+        "brief_description": "ローストしたパプリカとナスを主原料とする、ペースト状の調味料兼保存食。バルカン半島全域で愛されているが、クロアチアでも各家庭で手作りされる。パンに塗ったり、肉料理の付け合わせにしたりと用途は広い。",
+        "historical_brief": "20世紀初頭にセルビアで広まった比較的新しい食文化だが、秋に収穫した野菜を冬のために保存するという、この地域の伝統的な生活様式に根ざしている。家庭ごとのレシピがあり、母から娘へと受け継がれている。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.tasteatlas.com/ajvar",
+          "https://en.wikipedia.org/wiki/Ajvar",
+          "https://www.croatiaweek.com/how-to-make-ajvar/"
+        ]
+      },
+      {
+        "concept_name_ja": "茹でスイスチャード",
+        "concept_name_local": "Blitva na lešo",
+        "local_language": "hr",
+        "concept_name_en": "Boiled Chard",
+        "brief_description": "スイスチャード（ブリトゥヴァ）とジャガイモを茹で、オリーブオイル、ニンニク、塩で和えただけの極めてシンプルな料理。ダルマチア地方の食卓には欠かせない定番の付け合わせで、魚料理と共に出されることが多い。",
+        "historical_brief": "古代ローマの時代からこの地で栽培されてきたスイスチャードを使った、最も基本的で素朴な食べ方。食材の味を最大限に活かす地中海料理の哲学を体現しており、何世紀にもわたり庶民の健康を支えてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.croatia-expert.com/recipes/blitva-s-krumpirom/",
+          "https://www.tasteatlas.com/blitva-na-leso",
+          "https://www.chasingthedonkey.com/dalmatian-swiss-chard-recipe/"
+        ]
+      },
+      {
+        "concept_name_ja": "グリル",
+        "concept_name_local": "Gradele",
+        "local_language": "hr",
+        "concept_name_en": "Grilling",
+        "brief_description": "特にアドリア海沿岸部で一般的な、炭火で食材をシンプルに焼く調理法。新鮮な魚や野菜を焼き、オリーブオイル、ニンニク、パセリのソースをかけるのが定番。素材の良さを直接味わう食文化を象徴する。",
+        "historical_brief": "火を使い始めた人類の最も原始的な調理法の一つであり、地中海沿岸では古代から続く食文化。特に漁師たちが獲れたての魚を浜辺で焼いて食べたのが起源とされ、シンプルさの中に長い歴史が凝縮されている。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.tasteatlas.com/gradele",
+          "https://croatia.hr/en-gb/food-and-drink/grilled-fish",
+          "https://www.total-croatia-sailing.com/news/376-croatian-cuisine-gradele"
+        ]
+      },
+      {
+        "concept_name_ja": "手打ちパスタ",
+        "concept_name_local": "Domaća tjestenina",
+        "local_language": "hr",
+        "concept_name_en": "Homemade Pasta",
+        "brief_description": "特にイストラ半島や沿岸部で深く根付いている、家庭で作られるパスタの総称。フジ（Fuži）やプリュカンツィ（Pljukanci）など地域固有の形状があり、トリュフや地元のソースと絡めて食べられる。",
+        "historical_brief": "隣接するイタリア、特にヴェネツィア共和国との長い交流の歴史の中で、パスタ文化がクロアチアに定着した。しかし、単なる模倣ではなく、現地の食材や好みに合わせて独自の形状や食べ方が発展した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.tasteatlas.com/fuzi",
+          "https://www.tasteatlas.com/pljukanci",
+          "https://istria.hr/en/gastronomy/authentic-dishes/pasta"
+        ]
+      },
+      {
+        "concept_name_ja": "ブレデット",
+        "concept_name_local": "Brudet / Brodet",
+        "local_language": "hr",
+        "concept_name_en": "Fish Stew",
+        "brief_description": "アドリア海沿岸全域で見られる魚介の煮込み料理。様々な種類の魚介をトマトや玉ねぎ、ワインなどと共に煮込む。元々は売り物にならない雑魚を漁師が煮込んで食べたのが始まりで、地域や家庭ごとにレシピが異なる。",
+        "historical_brief": "地中海各地に見られる魚のシチューの系譜を汲む料理。貧しい漁師たちが、獲物の一部を無駄にせず栄養源とするための知恵から生まれた。ポレンタを添えるのが伝統的で、庶民の歴史を物語る一品。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "低",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.tasteatlas.com/brudet",
+          "https://en.wikipedia.org/wiki/Brodetto",
+          "https://croatia.hr/en-gb/food-and-drink/brodetto"
+        ]
+      },
+      {
+        "concept_name_ja": "ワインビネガー",
+        "concept_name_local": "Vinski ocat",
+        "local_language": "hr",
+        "concept_name_en": "Wine Vinegar",
+        "brief_description": "クロアチア料理、特にサラダのドレッシングに欠かせない酸味の源。オリーブオイルと共に味の基本を形成する。赤と白があり、各家庭でワインから自家製することも珍しくない、生活に密着した調味料。",
+        "historical_brief": "ワイン醸造の歴史と共に古くから存在する。ワインが酸化して酢になるのは自然なプロセスであり、古代から保存料や調味料として利用されてきた。クロアチアの長いワイン生産の歴史と不可分の存在である。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "低",
+        "research_priority": "中",
+        "sources": [
+          "https://www.croatian-wine.org/croatian-cuisine/",
+          "https://www.total-croatia.com/food-in-croatia/",
+          "https://www.vinarija.com/vina/ocat-od-crnog-vina-05-l"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "region": "東南アジア",
+    "specific_area": "ラオス料理",
+    "generated_at": "2025-09-01T01:41:08.965143Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "東南アジア",
+    "specific_area": "ラオス料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "カオニャオ（もち米）",
+        "concept_name_local": "ເຂົ້າໜຽວ",
+        "local_language": "lo",
+        "concept_name_en": "Khao Niao (Sticky Rice)",
+        "brief_description": "ラオスの人々の主食であり、魂とも言える蒸したもち米。手で一口大に丸め、おかずと共に食べるのが伝統的なスタイル。共同体や家族の絆を象徴する、食文化の絶対的な中心である。",
+        "historical_brief_": "東南アジア大陸部における稲作の歴史は数千年に及び、もち米の栽培は特にこの地域で発展した。調理に使われる蒸し器（フวด）の形状も特徴的で、古代からの食文化の継続性を示唆している。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sticky_rice",
+          "https://www.laofood.org/khao-niew-lao-sticky-rice",
+          "https://lo.wikipedia.org/wiki/ເຂົ້າໜຽວ"
+        ]
+      },
+      {
+        "concept_name_ja": "ジェオ（ディップソース）",
+        "concept_name_local": "ແຈ່ວ",
+        "local_language": "lo",
+        "concept_name_en": "Jeow (Dipping Sauce/Relish)",
+        "brief_description": "唐辛子、ニンニク、ハーブ、野菜などをすり鉢で潰して作るディップソースの総称。カオニャオや野菜、焼き物につけて食べる。食卓に多様な風味と辛味をもたらす、ラオス料理に不可欠な調味料的概念。",
+        "historical_brief_": "石臼や土器のすり鉢は先史時代から存在する調理器具であり、食材を叩き潰して混ぜ合わせる調理法は極めて古い。地域で採れる多様な植物を利用し、無数のバリエーションが生まれてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.paddingtonfoodie.com/2020/07/21/jeow-the-lao-dipping-sauce/",
+          "https://en.wikipedia.org/wiki/Jeow",
+          "https://www.196flavors.com/laos-jeow-mak-keua/"
+        ]
+      },
+      {
+        "concept_name_ja": "タム（叩き和えサラダ）",
+        "concept_name_local": "ຕຳ",
+        "local_language": "lo",
+        "concept_name_en": "Tam (Pounded Salad)",
+        "brief_description": "「叩く」を意味し、すり鉢で食材を叩きながら和える調理法、およびその料理群。青パパイヤの「タムマークフン」が最も有名だが、インゲンやキュウリなど様々な野菜で作られ、庶民の日常食として根付いている。",
+        "historical_brief_": "ジェオ同様、すり鉢（ครก）とすりこぎ（สาก）の使用は、この地域の食文化の基盤である。生の植物性食材を叩いて味を馴染ませるこの調理法は、古くから続く食の知恵と言える。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Green_papaya_salad",
+          "https://www.seriouseats.com/thai-style-green-papaya-salad-som-tam-recipe-5218290",
+          "https://lo.wikipedia.org/wiki/ຕຳໝາກຫຸ່ງ"
+        ]
+      },
+      {
+        "concept_name_ja": "ラープ（ハーブ和え）",
+        "concept_name_local": "ລາບ",
+        "local_language": "lo",
+        "concept_name_en": "Laap / Larb (Minced Meat/Tofu Salad)",
+        "brief_description": "肉や魚、キノコなどを細かく刻み、炒った米粉（カオクア）、唐辛子、ハーブ類と和えた国民食。祝いの席に欠かせない幸運を呼ぶ料理。加熱・非加熱の両方があり、植物性食材でもその本質を表現可能。",
+        "historical_brief_": "生の肉を香草と和える食文化は、東南アジアの山岳民族の間に古くから見られる。炒り米粉を加えることで香ばしさと食感を加える工夫は、ラオス独自の発展を示している。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Larb",
+          "https://www.saveur.com/story/recipes/larb-gai-laotian-chicken-salad/",
+          "https://www.eatingthaifood.com/laab-recipe-larb/"
+        ]
+      },
+      {
+        "concept_name_ja": "ケン（汁物・煮込み）",
+        "concept_name_local": "ແກງ",
+        "local_language": "lo",
+        "concept_name_en": "Kaeng (Soup/Stew)",
+        "brief_description": "日本の「煮物」や「汁物」に相当する広範な料理概念。ココナッツミルクを使わない、ハーブと野菜が中心の澄んだスープが多いのが特徴。タケノコやカボチャなど、季節の野菜を煮込んで作る家庭料理の基本。",
+        "historical_brief_": "土器の発明以来、「煮る」という調理法は人類の食文化の基本である。地域の気候で育つハーブや野菜を使い、発酵調味料（パデーク）で旨味を加えるスタイルは、現地の環境への適応から生まれた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.laos-guide-999.com/lao-food.html",
+          "https://www.thaifoodmaster.com/lao_recipes/soup_recipes/3273",
+          "https://en.wikipedia.org/wiki/Lao_cuisine"
+        ]
+      },
+      {
+        "concept_name_ja": "モック（葉蒸し）",
+        "concept_name_local": "ໝົກ",
+        "local_language": "lo",
+        "concept_name_en": "Mok (Steamed in Banana Leaves)",
+        "brief_description": "魚、キノコ、タケノコなどの食材にハーブやスパイスを混ぜ、バナナの葉で包んで蒸し焼きにする調理法。葉の香りが食材に移り、風味豊かに仕上がる。素材の旨味を凝縮させる、素朴で洗練された料理。",
+        "historical_brief_": "食材を葉で包んで加熱する調理法は、調理器具が未発達な時代から続く普遍的な技術である。熱帯雨林の豊かな植物資源を活用した、持続可能で合理的な食の知恵の結晶といえる。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.laocook.com/recipes/mok-pa-steamed-fish-in-banana-leaves/",
+          "https://www.pha-tad-ke.com/ethno-botany-mok-a-traditional-lao-dish/",
+          "https://www.anglingthailand.com/mok-pla-a-lao-isan-favourite/"
+        ]
+      },
+      {
+        "concept_name_ja": "ピン（炭火焼き）",
+        "concept_name_local": "ປີ້ງ",
+        "local_language": "lo",
+        "concept_name_en": "Ping (Grilled)",
+        "brief_description": "肉、魚、キノコ、野菜などを串に刺したり、そのまま炭火で焼くシンプルな調理法。ラオスの屋台や家庭で広く見られる。ジェオをつけ、カオニャオと共に食べるのが定番。素材の味を直接的に楽しむ。",
+        "historical_brief_": "火の利用と共に始まった「焼く」という調理法は、最も原始的で基本的な料理の一つ。開放的な空間で調理できるため、東南アジアの気候に適応し、庶民の食として定着してきた。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "中",
+        "story_potential": "低",
+        "research_priority": "中",
+        "sources": [
+          "https://www.templeofthai.com/recipes/ping_gai.php",
+          "https://en.wikipedia.org/wiki/Kai_yang",
+          "https://www.laos-guide-999.com/ping-gai.html"
+        ]
+      },
+      {
+        "concept_name_ja": "カオピアックセン（手打ち米麺）",
+        "concept_name_local": "ເຂົ້າປຽກເສັ້ນ",
+        "local_language": "lo",
+        "concept_name_en": "Khao Piak Sen (Lao Noodle Soup)",
+        "brief_description": "米粉とタピオカ粉で作る、もちもちとした食感の手作り生麺を使った温かいスープ料理。ラオスの「うどん」とも言える存在で、朝食や軽食として愛される国民的なコンフォートフード。",
+        "historical_brief_": "麺文化自体は中国由来とされるが、ラオスでは主食である米を原料とし、現地のハーブやスープの様式と融合して独自の発展を遂げた。家庭で麺から手作りする文化が今なお残っている。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Khao_piak_sen",
+          "https://www.hungryhuy.com/khao-piak-sen-recipe-lao-chicken-noodle-soup/",
+          "https://saengskitchen.com/khao-piak-sen/"
+        ]
+      },
+      {
+        "concept_name_ja": "パック・カップ（付け合わせ生野菜）",
+        "concept_name_local": "ຜັກກັບ",
+        "local_language": "lo",
+        "concept_name_en": "Phak Kap (Fresh Vegetable Platter)",
+        "brief_description": "ラープや煮込み料理など、主要な料理に必ず添えられる生のハーブや葉野菜の盛り合わせ。料理の合間に手でつまんで口直しにする。食事全体のバランスを取り、多様な食感と風味を加える食文化様式。",
+        "historical_brief_": "豊かな自然環境で自生・栽培される多様な植物を、調理せず生で食べるという習慣は、この地域の食文化の原点の一つ。新鮮な植物からビタミンやミネラルを摂取する、古くからの生活の知恵である。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.laofood.org/health-benefits-of-lao-cuisine",
+          "https://www.saveur.com/lao-food-guide-restaurants-dishes/",
+          "https://foodfromnorthernlaos.com/vegetables-herbs/"
+        ]
+      }
+    ]
+  }
+}

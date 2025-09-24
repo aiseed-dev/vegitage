@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "region": "南アジア",
+    "specific_area": "インド・アッサム料理",
+    "generated_at": "2025-09-01T01:32:42.671582Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "南アジア",
+    "specific_area": "インド・アッサム料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "ご飯",
+        "concept_name_local": "ভাত (Bhaat)",
+        "local_language": "as",
+        "concept_name_en": "Steamed Rice",
+        "brief_description": "アッサムの食文化の絶対的な中心をなす主食。様々な品種の米が栽培され、特に粘り気のある米や香り米が好まれる。食事はバート（ご飯）を中心に、様々なおかずと共に構成されるのが基本である。",
+        "historical_brief_": "ブラマプトラ川流域は古代からの稲作地帯であり、米は文化と経済の基盤であった。考古学的な米の痕跡や、米の多様な利用法（後述のJolpanやPitha）は、この地における米との深い歴史的関係を示唆している。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Assamese_cuisine",
+          "https://xobdo.org/dic/ভাত",
+          "https://www.axomiyarasoi.com/2020/07/joha-rice-kheer-recipe.html"
+        ]
+      },
+      {
+        "concept_name_ja": "カール",
+        "concept_name_local": "খাৰ (Khar)",
+        "local_language": "as",
+        "concept_name_en": "Alkaline Dish (Khar)",
+        "brief_description": "アッサム料理を象徴する独自の料理カテゴリー。完熟バナナの皮などを燃やした灰から作るアルカリ水を使用する。パパイヤ、ひょうたん等の野菜や豆、魚と共に調理され、独特の風味と食感を生み出す。",
+        "historical_brief_": "塩が貴重だった内陸部で、植物の灰からアルカリ（炭酸カリウム）を抽出し、調味料として利用した古代の知恵に由来すると考えられる。この調理法はアッサムの食文化のアイデンティティそのものであり、歴史的連続性が非常に高い。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://assamesecuisine.com/category/khar/",
+          "https://www.ndtv.com/food/khar-the-unique-assamese-dish-made-with-banana-peels-1738734",
+          "https://as.wikipedia.org/wiki/খাৰ"
+        ]
+      },
+      {
+        "concept_name_ja": "テンガ",
+        "concept_name_local": "টেঙা (Tenga)",
+        "local_language": "as",
+        "concept_name_en": "Sour Curry (Tenga)",
+        "brief_description": "「酸っぱい」を意味するアッサム料理のもう一つの柱。トマト、カジネム（アッサムレモン）、テケラ・テンガ（ガルシニア）などで酸味をつけた、さっぱりとしたスープ状の料理。主に魚と作られるが、野菜だけでも作られる。",
+        "historical_brief_": "高温多湿な気候の中で、食欲を増進させ、食材の保存性を高めるための知恵として生まれたと考えられる。アッサムで自生・栽培される多様な酸味植物の利用は、地域の植物相への深い理解と適応の歴史を物語る。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.assamtribune.com/our-culture/masor-tenga-the-signature-dish-of-assamese-cuisine-12297",
+          "https://as.wikipedia.org/wiki/মাছৰ_টেঙা",
+          "https://kitchenofassam.com/masor-tenga-assamese-sour-fish-curry/"
+        ]
+      },
+      {
+        "concept_name_ja": "ピティカ",
+        "concept_name_local": "পিটিকা (Pitika)",
+        "local_language": "as",
+        "concept_name_en": "Mash (Pitika)",
+        "brief_description": "焼くか茹でた野菜や魚を、生のマスタードオイル、玉ねぎ、唐辛子、塩などと混ぜて作るシンプルなマッシュ料理。ジャガイモ（アル・ピティカ）が最も有名だが、ナス、トマト、カボチャなど多種多様な食材が使われる。",
+        "historical_brief_": "火を使った調理の最も原始的な形態の一つである「焼く」という行為と直結しており、その歴史は非常に古いと推定される。調理器具が限られていた時代から続く、素材の味を活かす素朴で合理的な調理法である。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://thefoodsamaritan.com/aloo-pitika-assamese-style-spiced-mashed-potatoes/",
+          "https://as.wikipedia.org/wiki/আলু_পিটিকা",
+          "https://www.archanaskitchen.com/assamese-aloo-pitika-recipe-mashed-potatoes-with-mustard-oil"
+        ]
+      },
+      {
+        "concept_name_ja": "サーク・バジ",
+        "concept_name_local": "শাক ভাজি (Xaak Bhaji)",
+        "local_language": "as",
+        "concept_name_en": "Stir-fried Greens",
+        "brief_description": "アッサムの食卓に欠かせない葉物野菜の炒め物。特筆すべきは、デキア（ワラビに似たシダ）やマニムニ（ツボクサ）など、栽培される野菜だけでなく、100種類以上もの多種多様な野草（Xaat Xaak）が食用にされる点である。",
+        "historical_brief_": "地域の豊かな生物多様性を反映しており、採集文化の記憶を色濃く残している。特定の祭事（ボハグ・ビフ）で多種の野草を食べる習慣は、自然との共生や植物に関する伝統知識の継承という点で、文化人類学的に非常に重要である。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://scroll.in/magazine/875084/in-assams-bohag-bihu-celebrations-eating-101-greens-is-a-must-do-tradition",
+          "https://nenow.in/north-east-matters/culture/xaak-the-green-leafy-vegetables-of-assam.html",
+          "https://as.wikipedia.org/wiki/অসমীয়া_শাক-পাচলিৰ_তালিকা"
+        ]
+      },
+      {
+        "concept_name_ja": "ダル",
+        "concept_name_local": "দাইল (Dail)",
+        "local_language": "as",
+        "concept_name_en": "Lentil Soup (Dal)",
+        "brief_description": "インド全域で食べられる豆のスープだが、アッサムではマティ・マホ（黒レンズ豆）やモスル・ダイル（赤レンズ豆）が好まれる。ニンニク、ショウガ、マスタードシード等で風味付けされ、時にはKharを加えてアッサム独自のアレンジがされる。",
+        "historical_brief_": "豆類の栽培は南アジアにおいて数千年の歴史を持つ。アッサムにおけるダルの調理法は、インド亜大陸の食文化との交流と、Kharなどの地域独自の食文化との融合を示しており、食文化の変容と適応の好例である。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://assamesecuisine.com/category/dal/",
+          "https://www.betterbutter.in/recipe/13446/assamese-masoor-dal",
+          "https://xobdo.org/dic/দাইল"
+        ]
+      },
+      {
+        "concept_name_ja": "ジョルパン",
+        "concept_name_local": "জলপান (Jolpan)",
+        "local_language": "as",
+        "concept_name_en": "Traditional Breakfast/Snack (Jolpan)",
+        "brief_description": "朝食や軽食、もてなしの際に供される米製品の総称。水や湯で戻すだけのコマール・サウル、扁平米のシラ、パフライスのムリなど多様な形態がある。ヨーグルトやジャガリー（黒糖）をかけて食べることが多い。",
+        "historical_brief_": "米を様々に加工して保存性や利便性を高める技術は、稲作文化の成熟を示す。特に調理不要のコマール・サウルは、農作業や旅の携行食として重宝された歴史があり、庶民の生活の知恵から生まれた食文化様式である。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.outlookindia.com/outlooktraveller/explore/story/70364/a-guide-to-jolpan-the-traditional-assamese-breakfast",
+          "https://as.wikipedia.org/wiki/জলপান",
+          "https://food.ndtv.com/food-drinks/beyond-idli-and-dosa-jolpan-the-pride-of-assamese-breakfast-1785507"
+        ]
+      },
+      {
+        "concept_name_ja": "ピタ",
+        "concept_name_local": "পিঠা (Pitha)",
+        "local_language": "as",
+        "concept_name_en": "Rice Cake (Pitha)",
+        "brief_description": "米粉を主原料として作られる菓子や軽食の総称。蒸す、焼く、揚げるなど調理法は様々で、甘いものから塩気のあるものまで多岐にわたる。特に収穫祭であるビフ祭には欠かせない、ハレの日の食べ物である。",
+        "historical_brief_": "米の粉食文化は東アジアから東南アジアに広く見られるが、アッサムのピタはココナッツやジャガリーを多用する点に特徴がある。祭事との強い結びつきは、共同体の結束を確認し、豊作を祝う儀礼食としての長い歴史を示している。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Pitha",
+          "https://as.wikipedia.org/wiki/পিঠা",
+          "https://www.axomiyarasoi.com/p/pitha-recipes.html"
+        ]
+      },
+      {
+        "concept_name_ja": "ショリヨ・テル",
+        "concept_name_local": "সৰিয়হ তেল (Shoriyoh tel)",
+        "local_language": "as",
+        "concept_name_en": "Mustard Oil",
+        "brief_description": "アッサム料理の風味の根幹をなす最も重要な調理油。加熱調理だけでなく、ピティカやサラダに生で使われ、ツンとした独特の辛味と香りを料理に与える。単なる調理媒体ではなく、決定的な風味を持つ調味料である。",
+        "historical_brief_": "マスタード（アブラナ科）は南アジアで古くから栽培されてきた作物である。その種子から油を搾る技術は、この地域の食文化の基盤を形成した。特徴的な風味は、他の地域の料理との明確な差別化要因となっている。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.livehistoryindia.com/story/living-culture/mustard-oil-the-taste-of-the-east",
+          "https://xobdo.org/dic/সৰিয়হ",
+          "https://www.pratidintime.com/amp/story/health-tips/the-magic-of-mustard-oil"
+        ]
+      },
+      {
+        "concept_name_ja": "コリサ",
+        "concept_name_local": "খৰিচা (Khorisa)",
+        "local_language": "as",
+        "concept_name_en": "Fermented Bamboo Shoot",
+        "brief_description": "タケノコをすりおろしたり、刻んだりして発酵させた、アッサム及びインド北東部で広く使われる食材兼調味料。強烈な香りと酸味、うま味を持ち、豚肉や魚料理の風味付けや、漬物（アチャール）として用いられる。",
+        "historical_brief_": "竹が豊富に自生する自然環境への適応として生まれた保存食。発酵という技術は、食材の少ない時期を乗り越えるための人類の普遍的な知恵であり、コリサはアッサムにおけるその代表例。調理場遺跡から竹の利用痕跡が見つかる可能性もある。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.giskaa.com/blogs/indigenous-knowledge/khorisa-the-ethnic-flavour-of-assam",
+          "https://as.wikipedia.org/wiki/খৰিচা",
+          "https://www.sentinelassam.com/melange/khorisa-the-fermented-bamboo-shoots-of-assam/"
+        ]
+      },
+      {
+        "concept_name_ja": "ポイタ・バート",
+        "concept_name_local": "পঁইতা ভাত (Poita Bhaat)",
+        "local_language": "as",
+        "concept_name_en": "Fermented Rice",
+        "brief_description": "炊いたご飯（バート）の残りを水に浸して一晩置き、軽く発酵させたもの。主に夏場に、体を冷やすための朝食として食べられる。ピティカや塩、唐辛子などを添えて食す、素朴で滋味深い庶民の食事。",
+        "historical_brief_": "冷蔵技術がなかった時代に、残りご飯を無駄なく、かつ安全に食べるための生活の知恵。東インドからバングラデシュにかけて広く見られる食文化であり、モンスーン気候下の農耕社会における食の原風景の一つと言える。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Poita_bhat",
+          "https://www.getbengal.com/details/panta-bhat-to-poita-bhat-a-dish-that-unites-bengal-and-assam",
+          "https://as.wikipedia.org/wiki/পঁইতা_ভাত"
+        ]
+      },
+      {
+        "concept_name_ja": "アチャール",
+        "concept_name_local": "আচাৰ (Achar)",
+        "local_language": "as",
+        "concept_name_en": "Pickle (Achar)",
+        "brief_description": "野菜や果物を油やスパイス、酢で漬け込んだ保存食。マンゴーやレモンなどが一般的だが、アッサムでは特にブート・ジョロキア（世界有数の辛い唐辛子）やコリサ（発酵タケノコ）のアチャールが特徴的である。",
+        "historical_brief_": "季節の恵みを年間を通じて享受するための保存技術であり、その歴史は古い。使用されるスパイスや主材料は地域の農産物を色濃く反映する。ブート・ジョロキアの利用は、この地域が唐辛子の遺伝的多様性のホットスポットであることを示している。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://theculturetrip.com/asia/india/articles/a-brief-history-of-achaar-indias-favourite-pickle/",
+          "https://as.wikipedia.org/wiki/আচাৰ",
+          "https://www.utsavpedia.com/food-assamese-recipes/achar-assamese-pickle/"
+        ]
+      }
+    ]
+  }
+}

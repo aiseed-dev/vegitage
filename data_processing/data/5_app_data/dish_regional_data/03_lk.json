@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "region": "南アジア",
+    "specific_area": "スリランカ料理",
+    "generated_at": "2025-09-01T01:37:44.494688Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "南アジア",
+    "specific_area": "スリランカ料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "ご飯",
+        "concept_name_local": "බත් (Bath)",
+        "local_language": "si",
+        "concept_name_en": "Rice",
+        "brief_description": "スリランカの食文化の絶対的な基盤をなす主食。様々な種類の米があり、数多くのカレー（おかず）と共に食べられる。「ライス＆カリー」は国民食の代名詞。人々の食生活、農業、儀礼の中心に存在する。",
+        "historical_brief_": "古代から高度な灌漑技術に支えられ、米作が盛んに行われてきた。アヌラーダプラなどの古代都市遺跡は、その歴史的連続性を示す考古学的証拠。米は国の繁栄と自給自足の象徴であり続けてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://roar.media/sinhala/main/sri-lanka-life/the-history-of-rice-in-sri-lanka",
+          "http://www.agri.ruh.ac.lk/Departments/crop_science/traditional_rice.html",
+          "https://www.sundayobserver.lk/2021/04/18/spectrum/story-our-heritage-rice"
+        ]
+      },
+      {
+        "concept_name_ja": "ココナッツミルク",
+        "concept_name_local": "පොල් කිරි (Pol Kiri)",
+        "local_language": "si",
+        "concept_name_en": "Coconut Milk",
+        "brief_description": "スリランカ料理の風味とコクの源泉となる最も重要な調味料。ほとんどのカレーのベースとなり、米料理や菓子にも多用される。「生命の木」と呼ばれるココナッツから作られ、食生活に不可欠な存在。",
+        "historical_brief_": "スリランカの気候風土に適したココナッツは、古代から食料、油、建材など生活のあらゆる場面で利用されてきた。文献や考古学的にもココナッツの利用は古くから確認でき、食文化の基層を形成している。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.thecolombopost.net/en/special-articles/the-story-of-the-coconut-tree-in-sri-lanka/",
+          "https://www.researchgate.net/publication/338902598_A_Review_on_Coconut_Based_Food_Products",
+          "https://www.lankapradeepa.com/2021/05/the-history-of-coconut-in-sri-lanka.html"
+        ]
+      },
+      {
+        "concept_name_ja": "スリランカ・カリー",
+        "concept_name_local": "ව්‍යංජන (Vyañjana)",
+        "local_language": "si",
+        "concept_name_en": "Sri Lankan Curry",
+        "brief_description": "日本の「煮物」や「おかず」に相当する広範な料理概念。ココナッツミルクをベースに、多種多様なスパイスで野菜、豆、時には魚や肉を煮込む。主食の米を食べるための伴侶であり、食卓の多様性を象徴する。",
+        "historical_brief_": "香辛料貿易の拠点であった歴史を背景に、多様なスパイスを組み合わせる調理法が発展。インドや東南アジア、植民地時代の影響を受けつつも、ココナッツミルクと独自のスパイス使いで固有の様式を確立した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.196flavors.com/sri-lanka-sri-lankan-cuisine/",
+          "https://www.yamu.lk/blog/the-essential-guide-to-sri-lankan-curries",
+          "https://www.theflavorbender.com/sri-lankan-chicken-curry/"
+        ]
+      },
+      {
+        "concept_name_ja": "トゥナパハ（ミックススパイス）",
+        "concept_name_local": "තුනපහ (Thunapaha)",
+        "local_language": "si",
+        "concept_name_en": "Thunapaha (Sri Lankan Curry Powder)",
+        "brief_description": "スリランカ料理の味の核となるミックススパイス。主にコリアンダー、クミン、フェンネルから成る。焙煎した「バダプ・トゥナパハ」と生の「アム・トゥナパハ」があり、家庭や料理により使い分けられる。",
+        "historical_brief_": "古代から続く香辛料貿易の中心地であったスリランカの歴史そのものを体現する調味料。各家庭に独自の配合があり、母から子へと受け継がれる「家庭の味」。その調合は地域の食文化の多様性を物語る。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.sbs.com.au/food/article/2021/03/17/secret-sri-lankas-unroasted-and-roasted-curry-powders",
+          "https://www.peckishme.com/sri-lankan-curry-powder-recipe-thunapaha/",
+          "https://www.theflavorbender.com/sri-lankan-roasted-curry-powder/"
+        ]
+      },
+      {
+        "concept_name_ja": "ダールカリー（豆のカレー）",
+        "concept_name_local": "පරිප්පු (Parippu)",
+        "local_language": "si",
+        "concept_name_en": "Dhal Curry",
+        "brief_description": "赤レンズ豆をココナッツミルクとスパイスで煮込んだ、最もポピュラーなカレー。毎日の食卓に欠かせない、優しく滋味深い味わいの国民食。重要な植物性タンパク質源であり、人々の健康を支えている。",
+        "historical_brief_": "豆類は南アジアで古くから栽培されてきた主要な作物。スリランカにおいても、米と共に食生活の基盤をなし、特に仏教文化における菜食の伝統の中で、重要な位置を占めてきたと考えられる。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.theguardian.com/food/2019/aug/28/meera-sodha-recipe-vegan-sri-lankan-dhal",
+          "https://www.islandsmile.org/sri-lankan-dhal-curry-parippu/",
+          "https://www.hungrylankan.com/recipes/sri-lankan-dhal-curry/"
+        ]
+      },
+      {
+        "concept_name_ja": "サンボーラ（和え物）",
+        "concept_name_local": "සම්බෝල (Sambola)",
+        "local_language": "si",
+        "concept_name_en": "Sambol",
+        "brief_description": "日本の「和え物」や「ふりかけ」に相当する副菜の概念。削ったココナッツ、玉ねぎ、唐辛子などを混ぜ合わせた「ポル・サンボーラ」が代表的。食感と風味のアクセントとなり、食欲を増進させる。",
+        "historical_brief_": "新鮮な食材を刻んで混ぜ合わせるというシンプルな調理法は、調理器具が限られた時代から存在したと推測される。ココナッツや唐辛子など、その時代ごとに入手可能な食材を取り込み、多様に発展してきた。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.sbs.com.au/food/recipes/pol-sambol-fresh-coconut-relish",
+          "https://www.theflavorbender.com/pol-sambol-sri-lankan-coconut-relish/",
+          "https://www.seriouseats.com/pol-sambol-sri-lankan-coconut-relish-recipe-5218204"
+        ]
+      },
+      {
+        "concept_name_ja": "マッルン（葉野菜の炒め和え）",
+        "concept_name_local": "මැල්ලුම් (Mallung)",
+        "local_language": "si",
+        "concept_name_en": "Mallung",
+        "brief_description": "細かく刻んだ葉野菜を、ココナッツファインやスパイスと混ぜて軽く炒め煮にした料理。日本の「おひたし」にも似た、日常的な副菜。栄養価が高く、様々な葉物野菜が使われるため多様性に富む。",
+        "historical_brief_": "自生する多様な葉野菜を無駄なく利用する、古くからの生活の知恵が詰まった調理法。アーユルヴェーダの思想とも結びつき、健康維持のための食として庶民の間に根付いてきたと考えられる。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.srilankancooking.com/2012/10/gotukola-mallum-recipe.html",
+          "https://www.196flavors.com/sri-lanka-gotu-kola-mallung/",
+          "https://www.islandsmile.org/sri-lankan-kale-mallung/"
+        ]
+      },
+      {
+        "concept_name_ja": "ホッパー",
+        "concept_name_local": "ආප්ප (Appa)",
+        "local_language": "si",
+        "concept_name_en": "Hopper",
+        "brief_description": "米粉とココナッツミルクを発酵させた生地を、お椀型の専用フライパンで焼いた料理。縁はカリッと、中央はふんわりしている。朝食や軽食の定番で、卵を落としたエッグホッパーも人気。",
+        "historical_brief_": "南インドから伝わった食文化が、スリランカの風土（米とココナッツ）に適応し、独自の発展を遂げた代表例。発酵という生物学的プロセスを利用した調理法は、食文化の成熟を示す。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.bbc.com/travel/article/20170222-sri-lankas-bowl-shaped-pancake",
+          "https://www.theguardian.com/lifeandstyle/2015/oct/24/hopper-recipe-sri-lankan-pancake-yotam-ottolenghi",
+          "https://food.ndtv.com/food-drinks/appa-or-appam-the-art-of-making-the-perfect-hoppers-at-home-1721539"
+        ]
+      },
+      {
+        "concept_name_ja": "ストリング・ホッパー",
+        "concept_name_local": "ඉඳි ආප්ප (Indi Appa)",
+        "local_language": "si",
+        "concept_name_en": "String Hopper",
+        "brief_description": "米粉の生地を細い麺状に押し出し、丸くまとめて蒸した料理。日本の素麺にも似た繊細な食感を持つ。カレーやサンボーラと共に食べられる、もう一つの重要な主食。",
+        "historical_brief_": "米を粉にして加工するという調理技術の発展を示す料理。手動の押し出し器（モールド）は、各家庭に古くから伝わる調理器具であり、この料理が庶民の生活に深く根付いていることを物語る。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.sbs.com.au/food/recipes/stringhoppers-idi-appa",
+          "https://www.theflavorbender.com/sri-lankan-string-hoppers-idi-appa/",
+          "https://www.topslanka.com/sri-lankan-string-hoppers/"
+        ]
+      },
+      {
+        "concept_name_ja": "キリバット（ミルクご飯）",
+        "concept_name_local": "කිරිබත් (Kiribath)",
+        "local_language": "si",
+        "concept_name_en": "Milk Rice",
+        "brief_description": "ココナッツミルクで炊いたご飯を菱形に切り分けたもの。シンハラ人の正月や誕生日、人生の門出など、あらゆる祝い事や儀式に欠かせないハレの日の料理。繁栄と幸運の象徴とされる。",
+        "historical_brief_": "米とココナッツという、スリランカで最も神聖視される二つの食材を組み合わせた料理であり、その起源は非常に古いと考えられる。古代の年代記にも類似の料理の記述が見られ、農耕儀礼と深く結びついてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.yamu.lk/blog/a-kiribath-story",
+          "https://en.wikipedia.org/wiki/Kiribath",
+          "https://www.timeout.com/sri-lanka/restaurants/a-guide-to-avurudu-food-in-sri-lanka"
+        ]
+      },
+      {
+        "concept_name_ja": "ポロス・カリー（ジャックフルーツのカレー）",
+        "concept_name_local": "පොලොස් ඇඹුල (Polos Ambula)",
+        "local_language": "si",
+        "concept_name_en": "Young Jackfruit Curry",
+        "brief_description": "未熟なジャックフルーツ（ポロス）を使ったカレー。調理すると肉のような食感になり、「ベジタリアン・ミート」とも呼ばれる。スリランカを代表する植物性カレーの一つで、深くスパイシーな味わいが特徴。",
+        "historical_brief_": "ジャックフルーツは南アジア原産で、古くから食料として利用されてきた。食糧が不足する時期の代替主食（コス）としても重要であり、その利用法は多様。ポロスは果実を野菜として食べる食文化の好例。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.theguardian.com/food/2019/jun/19/jackfruit-recipes-from-sri-lanka-curry-and-a-stir-fry",
+          "https://www.sbs.com.au/food/recipes/young-jackfruit-curry-polos",
+          "https://www.colombofortcafe.com/polos-curry-sri-lankan-young-jackfruit-curry/"
+        ]
+      },
+      {
+        "concept_name_ja": "アッチャール（漬物）",
+        "concept_name_local": "අච්චාරු (Achcharu)",
+        "local_language": "si",
+        "concept_name_en": "Achcharu (Pickle)",
+        "brief_description": "野菜や果物をスパイス、酢、塩、砂糖などで漬け込んだスリランカ風のピクルス。日本の「漬物」と同様の概念。甘酸っぱくスパイシーな味わいで、食事の付け合わせやスナックとして親しまれる。",
+        "historical_brief_": "食材を長期保存するための伝統的な知恵。その語源はペルシャ語やマレー語に由来するとも言われ、海洋交易を通じて伝わった保存技術が、現地の食材とスパイス文化と融合して独自の発展を遂げた。",
+        "historical_significance": "中",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://www.yamu.lk/blog/how-to-make-achcharu",
+          "https://www.theflavorbender.com/malay-pickle-sri-lankan-achcharu/",
+          "https://en.wikipedia.org/wiki/Achcharu"
+        ]
+      },
+      {
+        "concept_name_ja": "キャンダ（お粥）",
+        "concept_name_local": "කැඳ (Kanda)",
+        "local_language": "si",
+        "concept_name_en": "Kanda (Porridge/Gruel)",
+        "brief_description": "米や他の穀物、ハーブ、葉野菜などを煮込んで作るお粥やスープの総称。日本の「雑炊」や「お粥」に相当する。栄養価が高く消化に良いため、朝食や病人食、また薬膳としても食される。",
+        "historical_brief_": "穀物を水で煮るという最も原始的な調理法の一つであり、その歴史は非常に古い。特に、アーユルヴェーダの伝統医学と結びついた「コラ・キャンダ」（薬草粥）は、健康維持のための食として古くから受け継がれている。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://www.dailyfoodrecipes.com/kola-kanda-recipe-herbal-porridge/",
+          "https://www.lankafood.com/recipes/main-dishes/kola-kenda-herbal-gruel.html",
+          "https://www.researchgate.net/publication/322490532_Review_on_Kola_Kanda_a_traditional_herbal_gruel_in_Sri_Lanka"
+        ]
+      },
+      {
+        "concept_name_ja": "ピットゥ",
+        "concept_name_local": "පිට්ටු (Pittu)",
+        "local_language": "si",
+        "concept_name_en": "Pittu",
+        "brief_description": "米粉や他の穀物粉と削ったココナッツを混ぜ合わせ、円筒形の型（伝統的には竹筒）に入れて蒸した料理。ほろほろとした食感が特徴で、カレーやココナッツミルク、ルヌミリス（唐辛子のペースト）と共に食べる主食。",
+        "historical_brief_": "米を蒸して食べる調理法の一つの到達点。南インドの食文化との交流の中で発展したと考えられ、特にタミル文化圏との共通性が見られる。家庭で手軽に作れる栄養価の高い食事として定着している。",
+        "historical_significance": "中",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://www.sbs.com.au/food/recipes/sri-lankan-pittu-coconut-and-rice-cakes",
+          "https://www.196flavors.com/sri-lanka-pittu/",
+          "https://en.wikipedia.org/wiki/Puttu"
+        ]
+      },
+      {
+        "concept_name_ja": "ロティ",
+        "concept_name_local": "රොටි (Roti)",
+        "local_language": "si",
+        "concept_name_en": "Roti",
+        "brief_description": "小麦粉や米粉、ココナッツなどを使って作る無発酵の平たいパンの総称。ココナッツを混ぜ込んだ「ポル・ロティ」や、薄く伸ばして焼く「ゴダンバ・ロティ」など多様な種類があり、主食や軽食として広く食べられる。",
+        "historical_brief_": "南アジア全域で見られるロティ文化が、スリランカでは豊富なココナッツを取り込むことで独自に発展した。特に「ゴダンバ・ロティ」はマレー系移民の影響も指摘され、多文化交流の歴史を反映している。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://www.sbs.com.au/food/recipes/coconut-roti-pol-roti",
+          "https://www.theflavorbender.com/sri-lankan-roti-godamba-roti/",
+          "https://www.hungrylankan.com/recipes/sri-lankan-pol-roti-coconut-flatbread/"
+        ]
+      }
+    ]
+  }
+}

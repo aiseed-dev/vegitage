@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "region": "東南アジア",
+    "specific_area": "フィリピン料理",
+    "generated_at": "2025-09-01T01:51:14.361915Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "東南アジア",
+    "specific_area": "フィリピン料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "ご飯",
+        "concept_name_local": "Kanin",
+        "local_language": "tl",
+        "concept_name_en": "Steamed Rice",
+        "brief_description": "フィリピンの食卓に欠かせない主食。あらゆるおかず（Ulam）と共に食される。食事そのものを「ご飯を食べること（Kain）」と表現するように、フィリピンの食文化の絶対的な中心であり、人々のアイデンティティの根幹をなしている。",
+        "historical_brief_": "紀元前3000年以上前からフィリピンで栽培されてきた稲作文化の産物。バナウエの棚田などの考古学的景観は、米が古くから社会・文化の中心であったことを物語る。米は生命力や富の象徴とされ、様々な儀礼で重要な役割を果たしてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.irri.org/",
+          "https://ich.unesco.org/en/RL/rice-terraces-of-the-philippine-cordilleras-00008"
+        ]
+      },
+      {
+        "concept_name_ja": "酢",
+        "concept_name_local": "Suka",
+        "local_language": "tl",
+        "concept_name_en": "Vinegar",
+        "brief_description": "ココナッツ、サトウキビ、ニパヤシなど、地域で採れる多様な植物から作られる醸造酢。フィリピン料理の味の基盤となる「酸味」を司る最も重要な調味料。煮込み、和え物、つけダレなど、その用途は極めて広い。",
+        "historical_brief_": "熱帯気候における食品保存の知恵として、スペイン統治以前から存在する土着の発酵文化の核。多様なヤシが生育する環境が、独自の酢文化を発展させた。アドボやキニラウといった代表的な調理法の成立に不可欠な存在である。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.slowfood.com/ark-of-taste-slow-food/sukang-tuba/",
+          "https://fnri.dost.gov.ph/"
+        ]
+      },
+      {
+        "concept_name_ja": "アドボ（酢醤油煮込み）",
+        "concept_name_local": "Adobo",
+        "local_language": "tl",
+        "concept_name_en": "Adobo (Vinegar and Soy Sauce Stew)",
+        "brief_description": "酢をベースに、醤油、ニンニク、胡椒、ローリエで食材を煮込む調理法。フィリピンの国民食と称され、家庭ごとにレシピが存在する。肉だけでなく、野菜や豆腐など、あらゆる食材をアドボにすることができ、その多様性は計り知れない。",
+        "historical_brief_": "スペイン人が「マリネする」を意味する「adobar」と名付けたが、酢を使った煮込み調理法自体は、冷蔵技術のない時代に食品を保存するための土着の知恵。醤油は中国からもたらされたが、見事にフィリピンの食文化に融合した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.nationalgeographic.com/culture/article/the-history-of-adobo-the-philippines-unofficial-national-dish",
+          "https://filipinofoodmovement.org/"
+        ]
+      },
+      {
+        "concept_name_ja": "シニガン（酸味スープ）",
+        "concept_name_local": "Sinigang",
+        "local_language": "tl",
+        "concept_name_en": "Sour Soup",
+        "brief_description": "タマリンドを主とした酸味のある食材で仕立てるスープ。フィリピン人の味覚の原点とも言えるソウルフード。タマリンドの他に、グアバ、トマト、カラマンシーなど、地域や季節によって様々な酸味源が用いられる懐の深さを持つ。",
+        "historical_brief_": "スペイン統治以前から存在するマレー系の食文化にルーツを持つとされる。特定のレシピではなく「酸っぱいスープ」という概念であり、熱帯の気候で食欲を増進させ、体を癒すための生活の知恵から生まれた料理。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.esquiremag.ph/long-reads/features/a-brief-history-of-sinigang-a2416-20201026",
+          "https://www.atlasobscura.com/foods/sinigang-philippines"
+        ]
+      },
+      {
+        "concept_name_ja": "キニラウ（酢締め）",
+        "concept_name_local": "Kinilaw",
+        "local_language": "tl",
+        "concept_name_en": "Raw Seafood Dressed in Vinegar",
+        "brief_description": "生の魚介などを酢で締める調理法。火を使わない、フィリピンで最も古い料理の一つとされる。酢の酸味がたんぱく質を変化させ、爽やかな風味を生み出す。タマネギ、ショウガ、唐辛子などの薬味と共に食されることが多い。",
+        "historical_brief_": "ブトゥアンの10世紀の考古学遺跡から、キニラウに使われたとされる魚の骨やタビヤ（柑橘類）の種が発見されており、その歴史は1000年以上前に遡る。太平洋の島々に広がる類似の食文化（セビーチェ等）の中でも独自の発展を遂げた。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.researchgate.net/publication/329574423_Kinilaw_A_look_at_its_historical_and_cultural_context",
+          "https://news.abs-cbn.com/ancx/food-drink/features/05/29/19/the-kinilaw-is-the-philippines-greatest-culinary-invention-says-this-food-historian"
+        ]
+      },
+      {
+        "concept_name_ja": "ギナタアン（ココナッツミルク煮）",
+        "concept_name_local": "Ginataan",
+        "local_language": "tl",
+        "concept_name_en": "Dishes Cooked in Coconut Milk",
+        "brief_description": "ココナッツミルク（Gata）で煮込む料理の総称。野菜や魚介を使った塩味のおかずから、もち米や果物を使った甘いデザートまで、極めて広い範囲をカバーする。まろやかで豊かな風味は、フィリピン料理のもう一つの顔である。",
+        "historical_brief_": "「生命の木」と呼ばれるココナッツを余すことなく利用する、東南アジア島嶼部に共通する食文化の現れ。先史時代から続くココナッツの利用法が、フィリピンの風土に合わせて多様な料理群へと発展した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "http://www.pca.da.gov.ph/",
+          "https://www.yummy.ph/lessons/cooking/the-beginners-guide-to-cooking-with-gata-a00261-20181204"
+        ]
+      },
+      {
+        "concept_name_ja": "お粥",
+        "concept_name_local": "Lugaw",
+        "local_language": "tl",
+        "concept_name_en": "Rice Porridge / Congee",
+        "brief_description": "米を多めの水で柔らかく煮込んだ料理の総称。フィリピン版の粥であり、シンプルな塩味から、鶏肉入りのアロス・カルド、内臓入りのゴトなど多様なバリエーションを持つ。朝食や軽食、病人食として広く親しまれている。",
+        "historical_brief_": "米を主食とするアジア全域に見られる調理法であり、中国の粥（コンジー）の影響も大きい。しかし、フィリピンではカラマンシーや揚げニンニク、パティス（魚醤）を添えるなど、独自の食文化として深く根付いている。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.foxyfolksy.com/lugaw-recipe-rice-porridge/",
+          "https://panlasangpinoy.com/arroz-caldo/"
+        ]
+      },
+      {
+        "concept_name_ja": "イニハウ（炭火焼き）",
+        "concept_name_local": "Inihaw",
+        "local_language": "tl",
+        "concept_name_en": "Grilled / Barbecued",
+        "brief_description": "食材を炭火で焼く、シンプルかつ普遍的な調理法。「ihaw-ihaw」と呼ばれる屋台も多く、祭りや家族の集まりに欠かせない。醤油やカラマンシー、酢などをベースにしたタレでマリネしてから焼くのが一般的。",
+        "historical_brief_": "火の利用と共に始まった最も原始的な調理法の一つ。フィリピンの考古学遺跡からも、動物の焼かれた骨などが見つかっている。時代や文化の影響を受けながらも、直火で調理する根源的な食の形を今に伝えている。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://panlasangpinoy.com/pork-barbecue-recipe/",
+          "https://www.kawalingpinoy.com/inihaw-na-talong/"
+        ]
+      },
+      {
+        "concept_name_ja": "ピナクベット（野菜のバゴオン煮込み）",
+        "concept_name_local": "Pinakbet / Pakbet",
+        "local_language": "tl",
+        "concept_name_en": "Mixed Vegetables Stewed in Shrimp Paste",
+        "brief_description": "カボチャ、ナス、オクラ、ゴーヤなどの野菜を発酵させたエビや魚のペースト（バゴオン）で煮込んだ料理。イロカノ地方発祥だが、今や全国で食べられる。野菜の旨味とバゴオンの塩気が一体となった、フィリピンを代表する野菜料理。",
+        "historical_brief_": "「縮んだ」を意味するイロカノ語「pinakebbet」が語源。野菜から水分を出させ、旨味を凝縮させる調理法。限られた食材を無駄なく美味しく食べるための、地域の生活の知恵から生まれた料理である。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "低",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.angsarap.net/2012/03/12/pinakbet/",
+          "https://en.wikipedia.org/wiki/Pinakbet"
+        ]
+      },
+      {
+        "concept_name_ja": "ギサ（炒め煮の基本）",
+        "concept_name_local": "Gisa / Ginisa",
+        "local_language": "tl",
+        "concept_name_en": "Sauté",
+        "brief_description": "ニンニク、タマネギ、時にはトマトを油で炒め、風味のベースを作る調理工程。多くのフィリピンの煮込み料理や炒め物の基本となる。この工程を経ることで、料理に深みと香りが与えられる。日本の「炒める」とは少し異なる概念。",
+        "historical_brief_": "スペイン料理の「ソフリート」に起源を持つ調理技術。フィリピンの食材と融合し、独自の発展を遂げた。この技法の導入により、フィリピン料理の幅が大きく広がり、現代に至る味の骨格を形成した。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://www.yummy.ph/lessons/cooking/what-is-ginisa-a00261-20190103",
+          "https://pepper.ph/the-history-of-pancit-in-the-philippines/"
+        ]
+      },
+      {
+        "concept_name_ja": "アチャラ（野菜の酢漬け）",
+        "concept_name_local": "Atchara",
+        "local_language": "tl",
+        "concept_name_en": "Pickled Green Papaya",
+        "brief_description": "未熟な青パパイヤを細切りにし、酢、砂糖、塩で漬け込んだピクルス。揚げ物や焼き物の付け合わせとして、口の中をさっぱりさせる役割を持つ。ニンジン、タマネギ、パプリカなどが彩りとして加えられることも多い。",
+        "historical_brief_": "南アジアの「アチャール」やインドネシアの「アチャール」が、交易を通じてフィリピンに伝わり、土着化した保存食。フィリピンでは豊富な青パパイヤを使い、甘みを強調した独自のスタイルが確立された。",
+        "historical_significance": "中",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Atchara",
+          "https://panlasangpinoy.com/acharang-papaya-recipe-pickled-green-papaya/"
+        ]
+      },
+      {
+        "concept_name_ja": "カカニン（米菓子）",
+        "concept_name_local": "Kakanin",
+        "local_language": "tl",
+        "concept_name_en": "Rice Cakes",
+        "brief_description": "もち米や米粉を主原料とする伝統的な菓子の総称。ココナッツミルクや砂糖を加えて作られる。祝祭や特別な機会に食され、共同体の絆を深める役割も持つ。プト、ビビンカ、クチンタなど、非常に多くの種類が存在する。",
+        "historical_brief_": "米作りと共に始まった、古くからの食文化。神々への供物や儀礼食として重要な意味を持っていた。米を蒸す、焼く、炊くといった多様な調理法と、地域の産物を組み合わせることで、豊かな米菓子の文化が花開いた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.thespruceeats.com/filipino-kakanin-rice-cakes-3030303",
+          "https://fnri.dost.gov.ph/index.php/publications/writers-pool-corner/57-food-and-nutrition/204-rice-in-our-culture"
+        ]
+      },
+      {
+        "concept_name_ja": "エンサラダ（和え物）",
+        "concept_name_local": "Ensalada",
+        "local_language": "tl",
+        "concept_name_en": "Salad / Relish",
+        "brief_description": "野菜や果物を、酢、塩、砂糖、時にはバゴオンなどで和えたシンプルな料理。フィリピン版のサラダや和え物。「Ensaladang Talong（焼きナスの和え物）」や「Ensaladang Mangga（青マンゴーの和え物）」などが代表的。",
+        "historical_brief_": "スペイン語の「サラダ」が語源だが、内容はフィリピン土着の調理法と融合している。火を使わないキニラウの概念が野菜に応用されたものとも解釈でき、生の食材を酸味で調和させるフィリピン人の味覚をよく表している。",
+        "historical_significance": "中",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "低",
+        "research_priority": "低",
+        "sources": [
+          "https://www.kawalingpinoy.com/ensaladang-talong/",
+          "https://www.yummy.ph/recipe/ensaladang-mangga-recipe"
+        ]
+      }
+    ]
+  }
+}

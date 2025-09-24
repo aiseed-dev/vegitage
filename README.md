@@ -1,4 +1,4 @@
-# Vegitage - 生きた伝統野菜辞典 🌱
+# Vegitage - 生きた伝統野菜&料理辞典 🌱
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Data License: CC BY-SA 4.0](https://img.shields.io/badge/Data%20License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -40,7 +40,7 @@
 このリポジトリは、「第3回 AI Agent Hackathon with Google Cloud」で開発したプロトタイプです。
 ハッカソン期間中に、以下の目標を達成しました。
 
-*   **AIデータパイプラインの構築:** 200種類以上の日本の伝統野菜の「ファーストビュー用データ」を、AIを用いて自動生成。
+*   **AIデータパイプラインの構築:** 300種類以上の野菜品目の「ファーストビュー用データ」を、AIを用いて自動生成。
 *   **Flutter Webアプリの開発:** 生成したデータを表示する、美しい辞典アプリを開発。
 *   **インフラ構築:** Google Compute Engine (GCE) 上に、Nginxを用いたWebサーバーを構築し、アプリをデプロイ。
 
@@ -64,7 +64,7 @@ https://aiseed.page
 この種を、共に水やりし、育ててくれる仲間を、心から募集しています。
 
 *   伝統野菜のデータや写真を提供してくださる農家の方、郷土料理研究家の方
-*   Flutterアプリの機能を一緒に開発してくれるエンジニアの方
+*   AIでの辞書の作成やFlutterアプリの機能を一緒に開発してくれるエンジニアの方
 *   美しいUI/UXを考えてくれるデザイナーの方
 
 少しでもこの活動に興味を持ってくださった方は、ぜひ **Issues** や **Discussions** を覗いてみてください。

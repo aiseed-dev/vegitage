@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "region": "東南アジア",
+    "specific_area": "タイ料理",
+    "generated_at": "2025-09-01T01:40:13.496127Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "東南アジア",
+    "specific_area": "タイ料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "ご飯",
+        "concept_name_local": "ข้าว",
+        "local_language": "th",
+        "concept_name_en": "Khao (Rice)",
+        "brief_description": "タイ人の心身と文化を支える主食。単に「米」を指すだけでなく、「食事」そのものの同義語でもある。タイ中南部で主流のうるち米（カオ・スワイ）は、多様な「おかず（カップ・カオ）」と共に食される。",
+        "historical_brief_": "タイにおける稲作の歴史は極めて古く、東北部のバンチェン遺跡などでは紀元前3500年頃の籾殻が発見されている。米は古代からこの地の文明と社会の基盤であり、王権や共同体の儀礼とも深く結びついてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.rice.go.th/粿ษตรกร/องค์ความรู้เรื่องข้าว",
+          "https://en.wikipedia.org/wiki/Thai_rice",
+          "https://www.bangkokpost.com/life/social-and-lifestyle/1339899/the-story-of-thai-rice"
+        ]
+      },
+      {
+        "concept_name_ja": "もち米",
+        "concept_name_local": "ข้าวเหนียว",
+        "local_language": "th",
+        "concept_name_en": "Khao Niao (Sticky Rice)",
+        "brief_description": "タイ北部・東北部（イサーン地方）の主食。手で一口大に丸め、ソムタムやラープ、焼き物などのおかずと共に食べる。デザートの材料としても重要で、人々の生活や文化と密接に結びついている。",
+        "historical_brief_": "もち米を主食とする文化は、メコン川流域のタイ族やラオ族の移動と定住の歴史と深く関連している。考古学的には、水田稲作以前の陸稲栽培に起源を持つ可能性も指摘されており、独自の文化圏を形成してきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.silpa-mag.com/culture/article_18451",
+          "https://adaymagazine.com/khao-niew/",
+          "https://www.seriouseats.com/thai-style-sticky-rice-khao-niao-recipe"
+        ]
+      },
+      {
+        "concept_name_ja": "ゲーン（タイ風煮込み／汁物）",
+        "concept_name_local": "แกง",
+        "local_language": "th",
+        "concept_name_en": "Kaeng (Thai Curry/Soup)",
+        "brief_description": "タイ料理の「煮込み・汁物」を指す広範な概念。ハーブやスパイスを搗き潰したペースト（クルーンゲーン）を基に、ココナッツミルクを使うものから澄んだものまで多岐にわたる。タイの食卓の中心的存在。",
+        "historical_brief_": "石臼でハーブを搗く調理法は古くから存在。アユタヤ朝時代には、インドやペルシャとの交易で得たスパイスとタイ固有のハーブが融合し発展した。ココナッツミルクの使用は比較的新しい様式とされる。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.silpa-mag.com/culture/article_39017",
+          "https://readthecloud.co/story-kaeng/",
+          "https://www.196flavors.com/thailand-gaeng-keow-wan-gai-green-curry-chicken/"
+        ]
+      },
+      {
+        "concept_name_ja": "トム（タイ風スープ）",
+        "concept_name_local": "ต้ม",
+        "local_language": "th",
+        "concept_name_en": "Tom (Thai Soup)",
+        "brief_description": "「煮る・茹でる」を意味するスープ料理の総称。ハーブの香りを直接的に楽しむ調理法で、トムヤムやトムカーが有名。酸味や辛味を特徴とし、体を温め食欲を増進させる。ゲーンより澄んだスープが多い。",
+        "historical_brief_": "食材を水で煮る調理法は最も原始的なものの一つ。タイでは豊富なハーブ（レモングラス、ガランガル等）と組み合わせることで独自のスープ文化が発展。アユタヤ時代の宮廷料理の記録にも見られる。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "http://www.thaifoodmaster.com/origin_of_thai_food_and_curry/historical_recipes/1700",
+          "https://krua.co/food-story/soup-chronicles",
+          "https://www.eatingthaifood.com/tom-yum-soup-recipe/"
+        ]
+      },
+      {
+        "concept_name_ja": "ヤム（タイ風和え物）",
+        "concept_name_local": "ยำ",
+        "local_language": "th",
+        "concept_name_en": "Yam (Thai Salad)",
+        "brief_description": "「混ぜる・和える」を意味するサラダの概念。ハーブ、野菜、春雨などを、ナンプラー、ライム、唐辛子で和える。辛味、酸味、塩味、甘味が複雑に絡み合う味覚の芸術であり、即興性と多様性が特徴。",
+        "historical_brief_": "アユタヤ時代の宮廷料理に起源を持つとされる。多様な食材を組み合わせるスタイルは、地域の産物や海外との交流で得た新しい食材を柔軟に取り込んできたタイの食文化の適応力を象徴している。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.silpa-mag.com/culture/article_13333",
+          "https://krua.co/food-story/yam-origin",
+          "https://www.templeofthai.com/recipes/thai_salad.php"
+        ]
+      },
+      {
+        "concept_name_ja": "タム（搗き混ぜ料理）",
+        "concept_name_local": "ตำ",
+        "local_language": "th",
+        "concept_name_en": "Tam (Pounded Salad)",
+        "brief_description": "「搗く」を意味し、臼（クロック）で食材を叩きながら和える調理法。代表的なソムタムは国民食。素材の細胞を壊し、風味と調味料を一体化させる。イサーン地方の食文化の核であり、力強い味わいが特徴。",
+        "historical_brief_": "臼で食材を搗く調理法自体は古いが、現在のソムタムの形は、新大陸由来の青パパイヤや唐辛子が普及した比較的新しい時代に成立した。ラオスなど周辺地域と深く共通する食文化の様式である。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.matichonacademy.com/content/article_20230",
+          "https://www.bangkokpost.com/life/social-and-lifestyle/1749554/the-worlds-best-food-is-som-tam",
+          "https://www.bbc.com/travel/article/20210816-the-surprising-history-of-som-tam"
+        ]
+      },
+      {
+        "concept_name_ja": "ナムプリック（ディップソース）",
+        "concept_name_local": "น้ำพริก",
+        "local_language": "th",
+        "concept_name_en": "Nam Phrik (Chili Dip)",
+        "brief_description": "唐辛子をベースにしたディップソースの総称。生野菜や茹で野菜、魚などにつけて食べる、タイの食卓に欠かせない「ご飯のお供」。地域や家庭ごとに無限のバリエーションが存在する、タイの食文化の縮図。",
+        "historical_brief_": "唐辛子が伝来した16世紀以降に発展したが、それ以前も酸味のある果物や発酵魚を搗き潰したディップがあったと推定される。庶民の栄養を支え、共同体の味を形成してきた重要な存在である。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.thaipbs.or.th/news/content/320144",
+          "http://www.thaifoodmaster.com/origin_of_thai_food_and_curry/historical_recipes/1715",
+          "https://www.seriouseats.com/an-introduction-to-nam-prik"
+        ]
+      },
+      {
+        "concept_name_ja": "パット（炒め物）",
+        "concept_name_local": "ผัด",
+        "local_language": "th",
+        "concept_name_en": "Phat (Stir-fry)",
+        "brief_description": "「炒める」を意味する調理法。中華鍋と強い火力で素早く調理する。パッタイやパッガパオは国民食的存在。タイの近代化と都市化の中で急速に発展し、手軽な一皿飯の文化を形成した。",
+        "historical_brief_": "炒め物は中国からの移民によってもたらされた調理法であり、タイでの普及は比較的歴史が浅い。しかし、タイの調味料やハーブと融合して独自の発展を遂げ、今やタイ料理の主要な柱の一つとなっている。",
+        "historical_significance": "低",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.silpa-mag.com/culture/article_10214",
+          "https://www.thespruceeats.com/thai-stir-fry-basics-3217277",
+          "https://www.thailand-guide.com/thaifood/pad.htm"
+        ]
+      },
+      {
+        "concept_name_ja": "クルーンゲーン（ハーブ・スパイスペースト）",
+        "concept_name_local": "เครื่องแกง",
+        "local_language": "th",
+        "concept_name_en": "Khrueang Kaeng (Curry Paste)",
+        "brief_description": "唐辛子、ハーブ、スパイスを石臼で搗き潰して作るペースト。タイ料理、特にゲーンの味の設計図であり、香りと味の核となる。家庭や地域ごとにレシピが異なる多様性を持ち、タイ料理の魂とも言える。",
+        "historical_brief_": "石臼（クロック）は考古学的な遺物としても出土しており、食材を搗き潰す調理法は古くから存在した。アユタヤ朝時代に海外との交易でスパイスがもたらされ、現在の複雑な香りの基礎が築かれた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.silpa-mag.com/culture/article_89632",
+          "https://readthecloud.co/various-thai-chilli-paste/",
+          "http://www.thaifoodmaster.com/ingredients/thai_curry_paste_recipes"
+        ]
+      },
+      {
+        "concept_name_ja": "タオチオ（発酵大豆ペースト）",
+        "concept_name_local": "เต้าเจี้ยว",
+        "local_language": "th",
+        "concept_name_en": "Taochiao (Fermented Soybean Paste)",
+        "brief_description": "大豆を発酵させて作るペースト状の調味料。日本の味噌に似るが、より塩味が強く大豆の粒が残る。炒め物や煮込み、特にココナッツミルクベースのディップ「ロン」に使われる植物性のうま味調味料。",
+        "historical_brief_": "中国由来の調味料であり、醤油（シーイウ）と共に中国系移民によってタイにもたらされた。魚醤（ナンプラー）が主流のタイにおいて、植物性のうま味源として独自の地位を築き、タイ料理の味の多様性に貢献した。",
+        "historical_significance": "低",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://krua.co/food-story/tao-jiao-lon",
+          "https://en.wikipedia.org/wiki/Yellow_soybean_paste",
+          "https://www.templeofthai.com/food/sauces/healthy-boy-soybean-paste-800.php"
+        ]
+      },
+      {
+        "concept_name_ja": "サンプラップ（タイの食事様式）",
+        "concept_name_local": "สำรับ",
+        "local_language": "th",
+        "concept_name_en": "Samrap (Thai Meal Set)",
+        "brief_description": "タイの伝統的な食事の構成様式。ご飯を中心に、ゲーン（汁物）、ヤム（和え物）、炒め物、ナムプリック（ディップ）などを複数並べ、皆で共有する。味、食感、調理法の調和を重視する食哲学を体現する。",
+        "historical_brief_": "宮廷文化に起源を持ち、王族や貴族が楽しんでいた豪華な食事様式が、時代と共に一般家庭にも簡略化されて広まった。共同体での食事を大切にするタイの社会文化を反映している重要な食文化概念。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "http://www.thaifoodmaster.com/origin_of_thai_food_and_curry/thai_food_history/1684",
+          "https://guide.michelin.com/th/en/article/dining-out/what-is-samrub",
+          "https://so-asean.com/2021/04/the-art-of-the-samrap-thai-set-meal/"
+        ]
+      },
+      {
+        "concept_name_ja": "ジェー（タイの精進料理）",
+        "concept_name_local": "เจ",
+        "local_language": "th",
+        "concept_name_en": "Je (Thai Vegan/Vegetarian Cuisine)",
+        "brief_description": "大乗仏教の教えに基づく菜食主義、またはその料理。肉魚介類に加え、ニンニクやニラ等の五葷を避ける。毎年旧暦9月に行われる「キンジェー（菜食週間）」はタイ全土で祝われる宗教的・文化的な食の様式。",
+        "historical_brief_": "19世紀にタイに移住した中国系の人々によってもたらされた習慣。特にプーケットの菜食祭が有名で、宗教的儀式と結びつきながらタイ社会に深く根付いた。近年は健康志向の高まりと共に再評価されている。",
+        "historical_significance": "低",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "http://www.culture.go.th/culture_th/ewt_news.php?nid=91&filename=index",
+          "https://www.bangkokpost.com/life/social-and-lifestyle/1761924/the-roots-of-je",
+          "https://en.wikipedia.org/wiki/Nine_Emperor_Gods_Festival"
+        ]
+      }
+    ]
+  }
+}

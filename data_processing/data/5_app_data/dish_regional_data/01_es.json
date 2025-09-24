@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "region": "地中海地域",
+    "specific_area": "スペイン料理",
+    "generated_at": "2025-09-01T01:14:11.001077Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "地中海地域",
+    "specific_area": "スペイン料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "パン",
+        "concept_name_local": "Pan",
+        "local_language": "es",
+        "concept_name_en": "Bread",
+        "brief_description": "古代ローマ時代から続くスペインの食卓の主役。食事の付け合わせから主食、スープの材料（ミガス、アホスープ等）まで用途は幅広い。各地方に特色あるパンが存在する、食文化の基盤である。",
+        "historical_brief": "イベリア半島での小麦栽培は先史時代に遡る。ローマ人によって製パン技術が広まり、キリスト教文化において象徴的な意味を持つ。硬くなったパンを無駄にしない知恵が多くの伝統料理を生んだ。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.mapa.gob.es/es/alimentacion/temas/calidad-agroalimentaria/pan_historia_tcm30-106512.pdf",
+          "https://historiagastronomia.com/el-pan-en-la-historia/",
+          "https://es.wikipedia.org/wiki/Historia_del_pan_en_Espa%C3%B1a"
+        ]
+      },
+      {
+        "concept_name_ja": "オリーブオイル",
+        "concept_name_local": "Aceite de Oliva",
+        "local_language": "es",
+        "concept_name_en": "Olive Oil",
+        "brief_description": "「液体の金」と称される、スペイン料理の魂。調理油、調味料、保存料としてあらゆる料理の基礎を成す。その風味と品質が料理の味を決定づけ、健康的な地中海食の象徴でもある。",
+        "historical_brief": "フェニキア人によりオリーブ栽培がもたらされ、ローマ帝国時代に大規模に生産・輸出された。数千年にわたりイベリア半島の景観、経済、食文化を形成してきた、歴史の証人ともいえる食材。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.aceitesdeolivadeespana.com/la-cultura-del-aceite/historia-del-aceite-de-oliva/",
+          "https://www.lavanguardia.com/comer/materia-prima/20181123/453106399039/aceite-oliva-historia-origen.html",
+          "https://es.wikipedia.org/wiki/Historia_del_aceite_de_oliva"
+        ]
+      },
+      {
+        "concept_name_ja": "ソフリート",
+        "concept_name_local": "Sofrito",
+        "local_language": "es",
+        "concept_name_en": "Sofrito",
+        "brief_description": "玉ねぎ、ニンニク、トマトなどをオリーブオイルでじっくり炒めた、多くのスペイン料理の風味の土台。煮込み、米料理、ソースの基本となる調理技法であり、料理に深みとコクを与える。",
+        "historical_brief": "中世カタルーニャの料理本に原型が見られる。新大陸からトマトが伝来した16世紀以降に現在の形に進化し、スペインおよびラテンアメリカ料理の味の根幹を定義づけた重要な料理概念。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://elcomidista.elpais.com/elcomidista/2019/10/24/articulo/1571926610_398785.html",
+          "https://www.barcelonaculinaryhub.com/blog/sofrito-que-es-receta",
+          "https://es.wikipedia.org/wiki/Sofrito"
+        ]
+      },
+      {
+        "concept_name_ja": "煮込み（ポタヘ／ギソ）",
+        "concept_name_local": "Potajes y Guisos",
+        "local_language": "es",
+        "concept_name_en": "Stews and Potages",
+        "brief_description": "レンズ豆、ひよこ豆、白インゲン豆などの豆類や野菜を主役に、じっくり煮込んだスペインの家庭料理の代表格。地方色豊かで、スプーンで食べる「Cuchara（クチャラ）料理」の核を成す。",
+        "historical_brief": "庶民の日常食として、また宗教的な食習慣（肉食を禁じる四旬節など）とも結びつき、古くから食べられてきた。地域で手に入る食材で作る、サステナブルな食文化の象徴である。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.spain.info/es/gastronomia/platos-cuchara-tradicionales-espana/",
+          "https://www.comedera.com/diferencia-entre-guiso-estofado-potaje/",
+          "https://es.wikipedia.org/wiki/Potaje"
+        ]
+      },
+      {
+        "concept_name_ja": "米料理",
+        "concept_name_local": "Arroces",
+        "local_language": "es",
+        "concept_name_en": "Rice Dishes",
+        "brief_description": "イスラム教徒によってもたらされた米は、特に東部沿岸で独自の食文化を形成。パエリアが象徴的だが、汁気の多いカルドソ、オーブン焼きのア・ラ・バンダなど、多様な調理法が存在する。",
+        "historical_brief": "8世紀以降にムーア人がイベリア半島に米の栽培を導入。バレンシア地方のアルブフェラ湖周辺が主要産地となり、庶民の重要な食材となった。水管理技術と共に半島に定着した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.valenciapaella.net/historia-del-arroz/",
+          "https://www.historiacocina.com/es/historia-del-arroz",
+          "https://es.wikipedia.org/wiki/Arroz_(gastronom%C3%ADa_de_Espa%C3%B1a)"
+        ]
+      },
+      {
+        "concept_name_ja": "冷製スープ",
+        "concept_name_local": "Sopas frías",
+        "local_language": "es",
+        "concept_name_en": "Cold Soups",
+        "brief_description": "ガスパチョやアホブランコに代表される、夏の暑さを乗り切るためのアンダルシア地方発祥の食文化。生の野菜、パン、オリーブオイルが主役の「飲むサラダ」であり、栄養価も高い。",
+        "historical_brief": "ローマ時代のパンと酢と水を混ぜた飲料に起源を持つ。ムーア文化の影響（アホブランコのアーモンド）を受け、新大陸からトマトが伝わったことでガスパチョが誕生。庶民の栄養補給源だった。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "http://www.academiadelgazpacho.com/historia.php",
+          "https://www.andalucia.org/es/gastronomia/recetas/gazpacho",
+          "https://es.wikipedia.org/wiki/Gazpacho"
+        ]
+      },
+      {
+        "concept_name_ja": "ピスト",
+        "concept_name_local": "Pisto",
+        "local_language": "es",
+        "concept_name_en": "Pisto",
+        "brief_description": "トマト、ピーマン、ズッキーニ、玉ねぎなどの夏野菜をオリーブオイルでじっくり煮込んだ料理。ラ・マンチャ地方が有名で、フランスのラタトゥイユにも似る、地中海野菜の旨味が凝縮した一皿。",
+        "historical_brief": "農民の料理として、畑で採れる野菜を使って作られてきた。新大陸からもたらされたトマトやピーマンが普及した後に定着した、比較的新しい歴史を持つが、広く愛される伝統料理。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.spain.info/es/recetas/pisto-manchego/",
+          "https://www.comedera.com/receta-de-pisto-manchego/",
+          "https://es.wikipedia.org/wiki/Pisto"
+        ]
+      },
+      {
+        "concept_name_ja": "ニンニクスープ",
+        "concept_name_local": "Sopa de Ajo",
+        "local_language": "es",
+        "concept_name_en": "Garlic Soup",
+        "brief_description": "硬くなったパン、ニンニク、オリーブオイル、パプリカで作る、カスティーリャ地方の伝統的で質素なスープ。食材を無駄にしない農民の知恵が詰まった、滋味深い一品である。",
+        "historical_brief": "中世から続く、羊飼いや農民の食事。質素ながら栄養があり、寒い日の朝食や聖週間の食事として食べられてきた。スペインの歴史的な貧しさと工夫を物語る料理。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.historiacocina.com/es/sopa-de-ajo",
+          "https://www.bonviveur.es/recetas/sopa-castellana-o-sopa-de-ajo",
+          "https://es.wikipedia.org/wiki/Sopa_de_ajo"
+        ]
+      },
+      {
+        "concept_name_ja": "アリオリ",
+        "concept_name_local": "Alioli / Allioli",
+        "local_language": "es",
+        "concept_name_en": "Alioli",
+        "brief_description": "ニンニクとオリーブオイルを乳鉢で根気よくすり混ぜて乳化させる、力強い風味のソース。特に地中海沿岸部で愛され、肉、魚、野菜、パンなど何にでも合わせられる万能ソースである。",
+        "historical_brief": "古代エジプトやローマ時代に存在したニンニクと油の混合物に起源を持つとされる。その名はカタルーニャ語の「all i oli」（ニンニクと油）に由来し、卵を使わないのが本来の形。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.historiacocina.com/es/alioli-o-allioli",
+          "https://www.lavanguardia.com/comer/recetas/20180209/44621021480/allioli-receta-tradicional-ajo-aceite.html",
+          "https://es.wikipedia.org/wiki/Alioli"
+        ]
+      },
+      {
+        "concept_name_ja": "焼き野菜",
+        "concept_name_local": "Verduras asadas / a la plancha",
+        "local_language": "es",
+        "concept_name_en": "Grilled/Roasted Vegetables",
+        "brief_description": "アーティチョーク、ピーマン、ネギ（カルソッツ）、アスパラガスなどの野菜を直火焼きや鉄板焼きでシンプルに調理する手法。素材の味を最大限に引き出し、オリーブオイルと塩で味わう。",
+        "historical_brief": "収穫した野菜を火で焼くという調理法は人類の最も原始的な食文化の一つ。スペインの豊かな野菜文化を象徴し、特にカタルーニャのカルソターダは共同体意識を育む食の祭典となっている。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.spain.info/es/gastronomia/calcotada-fiesta-gastronomica-cataluna/",
+          "https://www.directoalpaladar.com/recetas-de-verduras-y-hortalizas/escalivada-receta-tradicional-catalana",
+          "https://es.wikipedia.org/wiki/Escalivada"
+        ]
+      },
+      {
+        "concept_name_ja": "漬物",
+        "concept_name_local": "Encurtidos",
+        "local_language": "es",
+        "concept_name_en": "Pickles",
+        "brief_description": "オリーブ、ピーマン、コルニッション、玉ねぎなどを酢や塩水に漬けた保存食。タパスの定番であり、食事の口直しや風味付けに欠かせない、スペインの食卓の名脇役。",
+        "historical_brief": "食品保存の技術として古代から地中海世界で広く行われてきた。特にオリーブの塩漬けは、考古学的証拠も多く、スペインの食文化の基盤をなす最も古い加工食品の一つである。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://www.tribunadevalladolid.com/blogs/la-lenteja-pelegrina/posts/breve-historia-de-los-encurtidos",
+          "https://revistalvr.es/la-historia-de-los-encurtidos/",
+          "https://es.wikipedia.org/wiki/Encurtido"
+        ]
+      },
+      {
+        "concept_name_ja": "トルティージャ・デ・パタタス",
+        "concept_name_local": "Tortilla de Patatas",
+        "local_language": "es",
+        "concept_name_en": "Spanish Omelette",
+        "brief_description": "ジャガイモと卵を主材料とする、スペインの国民食。シンプルな材料ながら、焼き加減や玉ねぎの有無など、家庭やバルごとにこだわりがある、スペイン人のソウルフード。",
+        "historical_brief": "新大陸からジャガイモが伝来した後に誕生。19世紀初頭のナバラ地方で、貧しい人々のための栄養価の高い食事として考案されたという説が有力。その後、スペイン全土に広まった。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "低",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://www.lavanguardia.com/comer/al-dia/20190309/46884617544/dia-internacional-tortilla-patatas-origen-receta-donde-comer.html",
+          "https://academiadehistoria.es/la-tortilla-de-patatas-un-invento-del-siglo-xviii/",
+          "https://es.wikipedia.org/wiki/Tortilla_de_patatas"
+        ]
+      },
+      {
+        "concept_name_ja": "タパス",
+        "concept_name_local": "Tapas",
+        "local_language": "es",
+        "concept_name_en": "Tapas",
+        "brief_description": "小皿で提供される多様な料理と、それをバルで飲み物と共に楽しむ食文化。料理そのものではなく、スペインの社交的な食のスタイルを象徴する、コミュニケーションを重視した食の概念。",
+        "historical_brief": "起源には諸説あるが、アンダルシア地方でシェリー酒のグラスに虫が入らないようパンやハムで蓋（tapa）をしたのが始まりとされる。19世紀頃から習慣として広まり、スペインを代表する文化となった。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.spain.info/es/gastronomia/ir-de-tapas/",
+          "https://www.nationalgeographic.com.es/historia/origen-e-historia-de-las-tapas_15436",
+          "https://es.wikipedia.org/wiki/Tapa_(gastronom%C3%ADa)"
+        ]
+      }
+    ]
+  }
+}

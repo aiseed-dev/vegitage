@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "region": "東南アジア",
+    "specific_area": "ベトナム料理",
+    "generated_at": "2025-09-01T01:43:52.113500Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "東南アジア",
+    "specific_area": "ベトナム料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "ご飯",
+        "concept_name_local": "Cơm",
+        "local_language": "vi",
+        "concept_name_en": "Steamed Rice",
+        "brief_description": "ベトナムの食文化の絶対的な基盤。インディカ米を炊いたもので、あらゆるおかず（thức ăn）と共に食される。食事そのものを「ăn cơm（ご飯を食べる）」と表現するように、文化の中心に位置する存在。",
+        "historical_brief_": "数千年前のドンソン文化期から稲作が行われており、米はベトナムの歴史と不可分。考古学的には、調理された米の痕跡や貯蔵穴が発見されている。米の存在が共同体の形成と文化の発展を支えてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://vietnam.vnanet.vn/japanese/tin-tuc/ベトナムの食文化における米/300405.html",
+          "https://www.irri.org/where-we-work/countries/vietnam",
+          "http://www.fao.org/giews/countrybrief/country.jsp?code=VNM"
+        ]
+      },
+      {
+        "concept_name_ja": "粥",
+        "concept_name_local": "Cháo",
+        "local_language": "vi",
+        "concept_name_en": "Congee / Porridge",
+        "brief_description": "米を多量の水で煮込んだシンプルな料理。体調が悪い時の食事、朝食、軽食として広く親しまれる。具材は鶏肉や魚から、きのこ、豆類まで無限のバリエーションがあり、人々の生活に深く根差している。",
+        "historical_brief_": "米を最大限に活用するための古代からの知恵。少ない米で満腹感を得られるため、歴史的に食糧が乏しい時代を支えた。消化しやすく、病人や幼児向けの食事としても古くから重要な役割を果たしてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://www.vietnamonline.com/entry/vietnamese-congee-chao.html",
+          "https://vietnamdiscovery.com/culture-arts/vietnamese-rice-porridge/",
+          "https://guide.michelin.com/en/article/dining-out/a-brief-history-of-congee"
+        ]
+      },
+      {
+        "concept_name_ja": "米麺",
+        "concept_name_local": "Bún / Phở",
+        "local_language": "vi",
+        "concept_name_en": "Rice Noodles",
+        "brief_description": "米粉から作られる麺の総称。断面が丸い「ブン」と、平たい「フォー」が二大巨頭。スープ麺、和え麺、生春巻きの具など、用途は極めて多彩。ベトナム人の日常に欠かせない主食の一つである。",
+        "historical_brief_": "米の加工技術の発展と共に生まれた。農村部での共同体による製麺の伝統があり、各地域で独自の麺文化が育まれた。フォーの歴史は比較的新しい（20世紀初頭）が、米麺食の文化自体はさらに古い。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.lovingpho.com/pho-opinion-editorial/history-and-evolution-of-vietnamese-pho/",
+          "https://culinaryvietnam.com/bun-a-popular-type-of-vietnamese-rice-vermicelli/",
+          "https://en.nhandan.vn/travel/item/8440802-the-story-of-vietnamese-pho.html"
+        ]
+      },
+      {
+        "concept_name_ja": "煮込み/煮付け",
+        "concept_name_local": "Kho",
+        "local_language": "vi",
+        "concept_name_en": "Braising / Stewing",
+        "brief_description": "魚醤や砂糖、カラメルソースで食材を甘じょっぱく煮詰める調理法。特に土鍋（tộ）で調理する「kho tộ」は象徴的。ご飯が進む濃厚な味は、ベトナム家庭料理の神髄であり「おふくろの味」。",
+        "historical_brief_": "冷蔵技術が普及する前の、食材を長持ちさせるための保存食調理法として発展。塩分と糖分を高くすることで日持ちを良くした。庶民が手に入れやすい食材を美味しく食べるための、生活の知恵の結晶。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://vietworldkitchen.com/blog/2008/03/caramel-sauce.html",
+          "https://theravenouscouple.com/2009/10/vietnamese-braised-pork-and-egg-thit-kho.html",
+          "https://www.vifotec.vn/am-thuc-bon-phuong/mon-kho-trong-am-thuc-viet-nam.html"
+        ]
+      },
+      {
+        "concept_name_ja": "スープ",
+        "concept_name_local": "Canh",
+        "local_language": "vi",
+        "concept_name_en": "Soup",
+        "brief_description": "ベトナムの家庭の食卓に不可欠な、あっさりとしたスープ。ご飯、主菜と共に提供され、食事全体の水分とバランスを補う。主に野菜や香味野菜、豆腐などを使い、季節感を表現する料理でもある。",
+        "historical_brief_": "高温多湿な気候で失われがちな水分と塩分を補給するための、実用的な食文化として定着。旬の野菜を無駄なく使い切る知恵であり、東洋医学の思想に基づき、体の調子を整える役割も担ってきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://vietnam.travel/things-to-do/vietnamese-soups",
+          "https://danangcuisine.com/recipe/canh-chua-vietnamese-sour-soup/",
+          "https://vietspices.blogspot.com/2012/03/canh-traditional-vietnamese-soups.html"
+        ]
+      },
+      {
+        "concept_name_ja": "茹で物",
+        "concept_name_local": "Luộc",
+        "local_language": "vi",
+        "concept_name_en": "Boiled Dishes",
+        "brief_description": "食材をシンプルに茹でる、最も基本的な調理法。特に「rau luộc（茹で野菜）」は、様々なタレ（nước chấm）につけて食べる定番料理。素材本来の味を尊重するベトナム料理の哲学を体現する。",
+        "historical_brief_": "火の使用と共にある、最も原始的で普遍的な調理法。調理器具の制約が少ないため、古代から広く行われてきたと推測される。新鮮な食材が手に入るベトナムの風土が、このシンプルな調理法を発展させた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://www.vietnamesefood.com.vn/vietnamese-recipes/vietnamese-boiled-vegetables-recipe-rau-luoc.html",
+          "https://www.vntrip.vn/cam-nang/rau-luoc-cham-kho-quet-66915",
+          "https://helenrecipes.com/boiled-vegetables-with-fermented-bean-curd-dip/"
+        ]
+      },
+      {
+        "concept_name_ja": "漬物",
+        "concept_name_local": "Dưa Muối / Muối Chua",
+        "local_language": "vi",
+        "concept_name_en": "Pickles",
+        "brief_description": "野菜を塩や酢、砂糖で漬け込み、発酵または保存させる料理。高菜漬け（dưa cải chua）が代表的。食事の箸休めや、麺料理のトッピング、肉料理の付け合わせなど、食感と酸味のアクセントとして重要。",
+        "historical_brief_": "収穫した野菜を長期保存するための、世界共通の古代からの知恵。特に雨季と乾季がある気候で、収穫できない時期の貴重な野菜供給源として機能した。各家庭で受け継がれる「おふくろの味」の一つ。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://vietworldkitchen.com/blog/2009/01/pickled-mustard-greens-dua-cai-chua.html",
+          "https://www.spiceroots.com/pickled-mustard-greens-cai-chua/",
+          "http://repository.vnu.edu.vn/handle/VNU_123/94784"
+        ]
+      },
+      {
+        "concept_name_ja": "タレ/つけ汁",
+        "concept_name_local": "Nước Chấm",
+        "local_language": "vi",
+        "concept_name_en": "Dipping Sauce",
+        "brief_description": "ベトナム料理の魂とも言える調味料。魚醤（nước mắm）をベースに、ライム汁、砂糖、水、ニンニク、唐辛子を混ぜたものが基本。料理の味を完成させる最後の決め手であり、その配合は家庭や店ごとに異なる。",
+        "historical_brief_": "沿岸部で豊富な魚介から作られる魚醤の文化が基盤。新鮮なハーブや野菜を多用する食文化において、淡白な素材に旨味と複雑さを与えるため発展した。地域の産物（柑橘類など）を活かした多様なタレが生まれた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.vietnamonline.com/entry/nuoc-cham-the-soul-of-vietnamese-cuisine.html",
+          "https://www.seriouseats.com/vietnamese-dipping-sauce-nuoc-cham-recipe-28439",
+          "https://www.nytimes.com/2017/04/28/travel/fish-sauce-vietnam-phu-quoc.html"
+        ]
+      },
+      {
+        "concept_name_ja": "発酵大豆味噌/醤油",
+        "concept_name_local": "Tương",
+        "local_language": "vi",
+        "concept_name_en": "Fermented Bean Paste / Sauce",
+        "brief_description": "大豆やもち米などを発酵させて作るペースト状または液体状の調味料。特に北部で有名。魚醤とは異なる植物性の豊かな旨味を持ち、菜食（Chay）料理の味の根幹をなす。つけダレや煮込み料理に使われる。",
+        "historical_brief_": "仏教の普及と共に、肉食を避ける菜食文化の中で発展した重要なタンパク質・旨味源。中国の醤文化の影響を受けつつ、ベトナム独自の製法（例：トゥオン・バン）が確立された。その歴史は千年以上に及ぶとされる。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://vietnamnews.vn/society/221971/ban-soy-sauce-a-northern-speciality.html",
+          "https://tuongban.com.vn/lich-su-hinh-thanh/",
+          "https://www.amthuc365.vn/t21111/tuong-ban-–-hon-cot-am-thuc-xu-thanh.html"
+        ]
+      },
+      {
+        "concept_name_ja": "巻く料理",
+        "concept_name_local": "Cuốn",
+        "local_language": "vi",
+        "concept_name_en": "Rolls",
+        "brief_description": "ライスペーパーやレタスなどで、ハーブ、米麺、その他の具材を巻いて食べる食文化の様式。「Gỏi cuốn（生春巻き）」が代表。自分で巻く楽しみや、新鮮なハーブの香りを存分に味わうのが特徴。",
+        "historical_brief_": "豊富なハーブや野菜を効率よく、そして美味しく食べるために生まれた様式。手で直接食べる文化と、共同体で食卓を囲む文化が背景にある。宮廷料理から庶民の料理まで、様々な階層で発展した。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://vietnam.travel/things-to-do/wrap-roll-dishes",
+          "https://www.fuchs.de/en/the-world-of-spices/culinary-travel/vietnam/wrap-it-baby-the-vietnamese-art-of-rolling-and-wrapping",
+          "https://hanoivietnam.com/attractions/vietnamese-spring-rolls/"
+        ]
+      },
+      {
+        "concept_name_ja": "和え物/サラダ",
+        "concept_name_local": "Nộm / Gỏi",
+        "local_language": "vi",
+        "concept_name_en": "Salad",
+        "brief_description": "千切りにした野菜や果物、ハーブなどを、甘酸っぱいタレ（Nước chấmベース）で和えた料理。北部では「Nộm」、南部では「Gỏi」と呼ばれる。爽やかな味わいで、食事の始まりや箸休めに食される。",
+        "historical_brief_": "ベトナムの豊かな植物相を反映した料理。火を使わない、あるいは最小限の加熱で作れるため、暑い気候に適している。味の基本である「酸・甘・辛・塩」のバランス感覚を養う上で重要な役割を果たしてきた。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://vietworldkitchen.com/blog/2008/07/vietnamese-cabbage-and-chicken-salad-goi-bap-cai-ga.html",
+          "https://www.vietnamesefood.com.vn/vietnamese-recipes/vietnamese-lotus-root-salad-recipe-goi-ngo-sen.html",
+          "https://runawayrice.com/salad/green-papaya-salad-goi-du-du/"
+        ]
+      },
+      {
+        "concept_name_ja": "おこわ",
+        "concept_name_local": "Xôi",
+        "local_language": "vi",
+        "concept_name_en": "Sticky Rice",
+        "brief_description": "もち米を蒸した料理。豆やピーナッツ、ココナッツと混ぜた甘いものから、肉や野菜と共に出される塩味のものまで多岐にわたる。朝食や祭事、軽食として、ベトナム人の生活の様々な場面で登場する。",
+        "historical_brief_": "もち米は、うるち米と同様にベトナムで古くから栽培されてきた主要穀物。腹持ちが良く、携帯性にも優れるため、労働者の食事や旅の携帯食として重宝された。祭事や儀式での供物としても重要。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://vietnam.travel/things-to-do/xoi-vietnams-favourite-staple",
+          "https://www.atlasobscura.com/foods/xoi-vietnamese-sticky-rice",
+          "https://www.saigoneer.com/saigon-food-culture/14022-the-story-of-xoi-the-frugal-yet-fulfilling-dish-of-the-masses"
+        ]
+      },
+      {
+        "concept_name_ja": "鍋料理",
+        "concept_name_local": "Lẩu",
+        "local_language": "vi",
+        "concept_name_en": "Hot Pot",
+        "brief_description": "食卓の中央に置かれた鍋で、スープを煮立たせながら、肉、魚介、野菜、豆腐、麺などを各自で煮て食べる共食のスタイル。家族や友人との団欒の象徴であり、祝い事や集まりの席で好まれる。",
+        "historical_brief_": "東アジア全域に見られる鍋文化が、ベトナムの食材と味覚に合わせて土着化したもの。特に南部では、豊富なココナッツウォーターやタマリンドを使った酸味のあるスープ（Lẩu Thái, Lẩu Chua）が人気。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://vietnam.travel/things-to-do/vietnamese-hotpot-how-eat-it",
+          "https://www.wanderingcook.com/vietnamese-hot-pot-lau/",
+          "https://www.focusasiatravel.vn/news/a-guide-to-vietnamese-hot-pot-lau-110"
+        ]
+      },
+      {
+        "concept_name_ja": "菜食料理",
+        "concept_name_local": "Ăn Chay / Cơm Chay",
+        "local_language": "vi",
+        "concept_name_en": "Vegetarian Cuisine",
+        "brief_description": "仏教の影響が強い、ベトナムの精進料理体系。肉や魚介、五葷（ネギ、ニンニクなど）を避ける。豆腐、きのこ、野菜、グルテンミートなどを駆使し、通常料理を模した精巧な料理も多い。",
+        "historical_brief_": "仏教伝来と共にベトナムに根付いた食文化。特に李朝や陳朝時代に国教として栄えたことで宮廷から庶民まで広まった。殺生を禁じる教えに基づき、植物性食材のみで食の豊かさを追求する技術が磨かれた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://vietnam.vnanet.vn/japanese/tin-tuc/ベジタリアン料理の文化/294215.html",
+          "https://www.saveur.com/vietnamese-vegetarian-food-history-recipes/",
+          "https://theculturetrip.com/asia/vietnam/articles/a-guide-to-eating-vegetarian-in-vietnam/"
+        ]
+      },
+      {
+        "concept_name_ja": "米粉の蒸し・焼き菓子",
+        "concept_name_local": "Bánh",
+        "local_language": "vi",
+        "concept_name_en": "Rice Flour Cakes/Dumplings",
+        "brief_description": "米粉やタピオカ粉を主原料とする、非常に広範な料理群の総称。蒸す、焼く、揚げる、茹でるなど調理法は様々。Bánh xèo（ベトナム風お好み焼き）やBánh cuốn（蒸し春巻き）など、惣菜的なものから甘い菓子まで含む。",
+        "historical_brief_": "米の多様な加工利用法として、古代から発展してきた。特に、テト（旧正月）に作られるBánh chưng（ちまき）は、土地や天への感謝を示す神聖な食べ物として、国の起源神話と結びついている。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://vietnam.travel/things-to-do/vietnams-top-banh",
+          "https://vietnam.vnanet.vn/japanese/tin-tuc/「バインチュン」作りの職業/340051.html",
+          "https://saigoneer.com/saigon-food-culture/12613-a-guide-to-vietnam-s-bountiful-b%C3%A1nh"
+        ]
+      }
+    ]
+  }
+}

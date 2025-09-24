@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "region": "東南アジア",
+    "specific_area": "マレー料理",
+    "generated_at": "2025-09-01T01:45:11.948582Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "東南アジア",
+    "specific_area": "マレー料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "ご飯",
+        "concept_name_local": "Nasi",
+        "local_language": "ms",
+        "concept_name_en": "Rice",
+        "brief_description": "マレー料理の絶対的な主食。食事は「ナシ」と、それに合わせる「おかず（Lauk）」で構成される。ココナッツミルクで炊くナシレマッ、香草と炊くナシウラムなど、調理法も多様。米は文化の中心であり、豊穣の象徴でもある。",
+        "historical_brief_": "東南アジアの稲作の歴史は数千年に遡り、ブジャン渓谷などの遺跡からもその痕跡が見られる。米は古代王国の経済基盤であり、人々の生活と信仰に深く根ざしてきた。米にまつわる儀礼や神話も数多く伝承されている。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.researchgate.net/publication/329528657_The_History_of_Rice_Cultivation_in_Malaysia",
+          "https://ms.wikipedia.org/wiki/Nasi",
+          "https://roots.gov.sg/ich-landing/ich/nasi-lemak"
+        ]
+      },
+      {
+        "concept_name_ja": "サンバル",
+        "concept_name_local": "Sambal",
+        "local_language": "ms",
+        "concept_name_en": "Chili Paste / Relish",
+        "brief_description": "唐辛子を基本にブラチャン（エビペースト）、玉ねぎ、ニンニク等を石臼で潰して作る調味料兼料理。マレー料理の味の核であり、食卓に欠かせない。生、炒め、煮込みなど調理法も様々で、数百種あるとも言われる。",
+        "historical_brief_": "大航海時代に唐辛子が伝来し、既存の香辛料文化と融合して爆発的に普及した。石臼（lesung batu）の使用は古くから見られ、食材をすり潰すという調理技法がサンバル文化の発展の土台となったと考えられる。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://ms.wikipedia.org/wiki/Sambal",
+          "https://www.atlasobscura.com/foods/sambal-chili-paste",
+          "https://rasa.my/pelbagai-jenis-sambal-popular-di-malaysia/"
+        ]
+      },
+      {
+        "concept_name_ja": "グライ / マサック・レマッ（ココナッツミルク煮込み）",
+        "concept_name_local": "Gulai / Masak Lemak",
+        "local_language": "ms",
+        "concept_name_en": "Coconut Milk Stew",
+        "brief_description": "ココナッツミルクをベースに、ターメリック、ガランガル等のスパイスペースト（Rempah）を加えて煮込む、マレー料理の代表的な調理法。魚、肉、野菜などあらゆる食材に適用され、地域や家庭ごとに無数の味を持つ。",
+        "historical_brief_": "ココナッツの利用は東南アジアで古代から行われていた。インド洋交易を通じて伝わったカレー文化と、地域のスパイス、食材が融合し、独自の「煮込み」様式として確立された。土鍋（belanga）などの調理器具がその発展を支えた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://ms.wikipedia.org/wiki/Gulai",
+          "https://www.malaymail.com/news/eat-drink/2021/08/01/whats-the-difference-between-curry-gulai-and-masak-lemak/1994326",
+          "https://butterkicap.com/our-stories/masak-lemak-cili-api-a-beginners-guide/"
+        ]
+      },
+      {
+        "concept_name_ja": "ウラム（生野菜とハーブの盛り合わせ）",
+        "concept_name_local": "Ulam",
+        "local_language": "ms",
+        "concept_name_en": "Traditional Raw Vegetable Salad",
+        "brief_description": "野生や栽培の葉、ハーブ、野菜、蕾などを生または軽く茹で、サンバルを付けて食べる食文化。熱帯雨林の恵みを直接享受するスタイルで、マレー料理の原初的な姿を伝える。健康的な食事としても再評価されている。",
+        "historical_brief_": "調理器具をほとんど必要としないため、その起源は非常に古いと推定される。森林採集文化の記憶を留める食習慣であり、植物の薬効に関する伝統知識（Ethonobotany）と密接に結びついている。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.researchgate.net/publication/237449514_Ulam_A_Malaysian_Salad_with_a_High_Content_of_Antioxidants",
+          "https://ms.wikipedia.org/wiki/Ulam_(sayuran)",
+          "https://www.atlasobscura.com/foods/ulam-malaysian-herb-salad"
+        ]
+      },
+      {
+        "concept_name_ja": "ブラチャン（発酵エビペースト）",
+        "concept_name_local": "Belacan",
+        "local_language": "ms",
+        "concept_name_en": "Fermented Shrimp Paste",
+        "brief_description": "アミ（エビの一種）を塩漬けにし、発酵・乾燥させたペースト状の調味料。強烈な香りと凝縮された旨味を持ち、特にサンバル・ブラチャンはマレー料理の魂とも言える味の基盤。炒め物や煮込みにも広く使われる。",
+        "historical_brief_": "東南アジア沿岸部で古くから行われてきた水産物の発酵保存技術の系譜に連なる。魚醤（Budu）などと共に、内陸部への海産物の供給とタンパク質源の確保に重要な役割を果たしてきたと考えられる。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "低",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://ms.wikipedia.org/wiki/Belacan",
+          "http://journalarticle.ukm.my/6584/1/JD_Vol_15_2011_02_Lee_et_al.pdf",
+          "https://www.thestar.com.my/lifestyle/food/2021/06/12/how-belacan-is-made-in-malaysia"
+        ]
+      },
+      {
+        "concept_name_ja": "アッサム・プダス / アッサム・ルブス（酸っぱい煮込み）",
+        "concept_name_local": "Asam Pedas / Asam Rebus",
+        "local_language": "ms",
+        "concept_name_en": "Sour & Spicy Stew / Sour Stew",
+        "brief_description": "タマリンド（Asam）の酸味を効かせた煮込み料理の総称。アッサム・プダスは唐辛子の辛味も加わる。ココナッツミルクを使わない、すっきりとした味わいが特徴。主に魚が使われるが、野菜だけでも作られる。",
+        "historical_brief_": "熱帯気候下で食材の保存性を高め、さっぱりと食べるための知恵から生まれた調理法。タマリンドやガルシニア（Asam Gelugur）など、地域固有の酸味食材を利用した食文化であり、その歴史は香辛料交易以前に遡る可能性がある。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://ms.wikipedia.org/wiki/Asam_pedas",
+          "https://www.malaysianfood.net/recipes/recipe-asampedas.htm",
+          "https://www.thestar.com.my/lifestyle/food/2021/04/23/bonding-over-asam-pedas"
+        ]
+      },
+      {
+        "concept_name_ja": "ルンダン（乾いた煮込み）",
+        "concept_name_local": "Rendang",
+        "local_language": "ms",
+        "concept_name_en": "Dry Curry / Caramelized Stew",
+        "brief_description": "肉などの食材をココナッツミルクと多種のスパイスで、水分がなくなるまで長時間煮込む料理。調理法であると同時に、保存食としての側面も持つ。祝祭や儀礼の場で提供される、極めて文化的重要性の高い一品。",
+        "historical_brief_": "ミナンカバウ族の食文化に起源を持つが、マレー世界全域に広まっている。水牛を煮込んで保存性を高めるという、移動生活の知恵から生まれたとされる。スパイス交易路の中心地であった歴史を物語る、複雑なスパイス使いが特徴。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://ms.wikipedia.org/wiki/Rendang",
+          "https://www.bbc.com/travel/article/20200823-the-rendang-rule-the-worlds-most-delicious-dish",
+          "https://jkkn.gov.my/en/rendang-2"
+        ]
+      },
+      {
+        "concept_name_ja": "ケラブ（マレー風和え物）",
+        "concept_name_local": "Kerabu",
+        "local_language": "ms",
+        "concept_name_en": "Malay-style Salad / Relish",
+        "brief_description": "生野菜やハーブ、果物、時には軽く火を通した魚などを、サンバル、炒りココナッツ（Kerisik）、ライム汁などで和えた料理。ウラムより調理工程が多く、酸味、甘味、辛味、塩味が複雑に絡み合うのが特徴。",
+        "historical_brief_": "ウラムの発展形と見なすことができる。タイのヤム（和え物サラダ）など、東南アジア一帯に見られる和え物文化と共通の基盤を持つ。地域の産物を利用して即興的に作られることが多く、多様なバリエーションを生み出してきた。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://ms.wikipedia.org/wiki/Kerabu",
+          "https://rasa.my/resipi-kerabu-pucuk-paku-taugeh-paling-mudah-sedap/",
+          "https://www.thestar.com.my/lifestyle/food/2018/06/07/kerabu-malaysian-salad"
+        ]
+      },
+      {
+        "concept_name_ja": "バカール / パンガン（直火焼き）",
+        "concept_name_local": "Bakar / Panggang",
+        "local_language": "ms",
+        "concept_name_en": "Grilled / Roasted",
+        "brief_description": "食材を直火、主に炭火で焼く、シンプルかつ根源的な調理法。特にサンバルやターメリックでマリネした魚を焼く「イカン・バカール」は象徴的。バナナの葉で包んで蒸し焼きにすることも多く、香りを移す工夫が見られる。",
+        "historical_brief_": "火の使用と共に始まった最も古い調理法の一つ。マレー半島各地の貝塚からは焼かれた痕跡のある獣骨や貝殻が発見されており、考古学的にもその歴史は非常に古い。シンプルながら、マリネ液や付け合わせのサンバルで独自性を発揮する。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "低",
+        "research_priority": "低",
+        "sources": [
+          "https://ms.wikipedia.org/wiki/Ikan_bakar",
+          "https://www.sbs.com.au/food/article/2020/07/03/ikan-bakar-malaysian-barbecued-fish-wrapped-banana-leaves",
+          "https://www.malaymail.com/news/eat-drink/2020/09/20/three-places-in-the-klang-valley-for-delicious-ikan-bakar/1904838"
+        ]
+      },
+      {
+        "concept_name_ja": "クトゥパッ / ロントン（圧縮飯）",
+        "concept_name_local": "Ketupat / Lontong",
+        "local_language": "ms",
+        "concept_name_en": "Compressed Rice Cake",
+        "brief_description": "米をヤシの葉（クトゥパッ）やバナナの葉（ロントン）で包み、長時間茹でて固めたもの。携帯性に優れ、ルンダンやサテなどの濃厚な料理と共に食べられることが多い。特に祝祭（ハリラヤ）に欠かせない象徴的な食べ物。",
+        "historical_brief_": "米を葉で包んで調理・携帯するという習慣は、東南アジアの稲作文化圏で広く見られる。クトゥパッの編み込みには魔除けなどの意味合いも込められ、ヒンドゥー・仏教時代から続くアニミズム的な信仰の名残とも考えられる。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://ms.wikipedia.org/wiki/Ketupat",
+          "https://www.thejakartapost.com/longform/2018/06/14/the-philosophy-of-ketupat.html",
+          "https://roots.gov.sg/ich-landing/ich/ketupat"
+        ]
+      },
+      {
+        "concept_name_ja": "クエ（伝統菓子）",
+        "concept_name_local": "Kuih-Muih",
+        "local_language": "ms",
+        "concept_name_en": "Traditional Cakes / Sweets",
+        "brief_description": "米粉やタピオカ粉、ココナッツ、ヤシ砂糖（グラマラッカ）などを主原料とする伝統的な菓子の総称。蒸す、焼く、揚げるなど調理法は多彩。色鮮やかで見た目も美しく、日常のおやつから儀礼の供物まで幅広く用いられる。",
+        "historical_brief_": "地域の主要産物である米、ココナッツ、ヤシ砂糖を基盤として発展。中国やポルトガルなど、外来の製菓技術の影響を受けながら、非常に多様な種類が生み出された。多くのクエは植物性食材のみで作られており、その歴史は古い。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://ms.wikipedia.org/wiki/Kuih",
+          "https://www.thestar.com.my/lifestyle/food/2022/04/16/a-guide-to-some-of-the-most-popular-kuih-in-malaysia",
+          "https://migrationology.com/kuih-malaysia/"
+        ]
+      },
+      {
+        "concept_name_ja": "ブブール（お粥）",
+        "concept_name_local": "Bubur",
+        "local_language": "ms",
+        "concept_name_en": "Porridge / Congee",
+        "brief_description": "米を柔らかく煮込んだ料理の総称。塩味の食事系から、ココナッツミルクとヤシ砂糖で煮る甘いデザート系（Bubur Manis）まで幅広く存在する。病人食や離乳食、またラマダン月の軽食（Iftar）としても親しまれている。",
+        "historical_brief_": "米を水で煮るという最も基本的な調理法の一つであり、その起源は稲作の開始と共にあったと考えられる。少ない米で量を増やすことができるため、経済的な食事でもあった。古代の土器からも、煮炊きに使われた痕跡が見つかっている。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://ms.wikipedia.org/wiki/Bubur",
+          "https://www.malaysianchinesekitchen.com/bubur-cha-cha-beech-nut/",
+          "https://rasa.my/resipi-bubur-lambuk-kampung-baru-asli-paling-dicari-setiap-kali-ramadan/"
+        ]
+      }
+    ]
+  }
+}

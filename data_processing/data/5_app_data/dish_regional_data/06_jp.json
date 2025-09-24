@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "region": "日本",
+    "specific_area": "日本料理",
+    "generated_at": "2025-09-01T02:01:52.072425Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "日本",
+    "specific_area": "日本料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "ご飯",
+        "concept_name_local": "ご飯",
+        "local_language": "ja",
+        "concept_name_en": "Cooked Rice",
+        "brief_description": "日本の主食であり、食文化の中心。炊いた白米を指し、粘りと甘みが特徴。多くの料理の基礎となり、食事の形式（一汁三菜など）もご飯を中心に構成される。神聖なものとも考えられている。",
+        "historical_brief_": "弥生時代の稲作伝来以来、日本の社会と文化を形成してきた。米は長らく通貨や富の象徴でもあった。かまどや炊飯器など調理器具の進化とともに、その食し方も多様化してきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.maff.go.jp/j/pr/aff/2101/spe1_01.html",
+          "https://ja.wikipedia.org/wiki/%E7%B1%B3",
+          "https://www.komenet.jp/faq/171.html"
+        ]
+      },
+      {
+        "concept_name_ja": "味噌汁",
+        "concept_name_local": "味噌汁",
+        "local_language": "ja",
+        "concept_name_en": "Miso Soup",
+        "brief_description": "ご飯と共に日本の食卓の基本をなす汁物。「おふくろの味」と称されるほど、家庭料理の象徴的存在。味噌をだしで溶き、豆腐や野菜、海藻などの具材を入れて作る。地域や家庭による多様性も豊か。",
+        "historical_brief_": "味噌の歴史は古く、鎌倉時代には武士の食事として定着。「一汁一菜」という食習慣の確立と共に、庶民の間に広く普及した。江戸時代には日常食として完全に根付いた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%91%B3%E5%99%8C%E6%B1%81",
+          "https://www.marukome.co.jp/miso/misosoup/history/",
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_cms/misosiru/27_aomori.html"
+        ]
+      },
+      {
+        "concept_name_ja": "漬物",
+        "concept_name_local": "漬物",
+        "local_language": "ja",
+        "concept_name_en": "Japanese Pickles",
+        "brief_description": "野菜などを塩、糠、味噌、酢、醤油などで漬け込み、保存性を高めると同時に風味を変化させた食品の総称。食事の箸休めやご飯のお供として不可欠。発酵を伴うものも多く、日本の発酵文化を代表する。",
+        "historical_brief_": "食料の長期保存技術として、古代から存在。奈良時代の木簡にも塩漬け野菜の記録が見られる。時代と共に漬け床が多様化し、ぬか漬けなどが江戸時代に庶民に広まった。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%BC%AC%E7%89%A9",
+          "https://www.tsukemono-japan.org/history.html",
+          "https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2111/spe3_03.html"
+        ]
+      },
+      {
+        "concept_name_ja": "煮物",
+        "concept_name_local": "煮物",
+        "local_language": "ja",
+        "concept_name_en": "Simmered Dishes",
+        "brief_description": "日本料理における最も基本的な調理法の一つ。だしをベースに醤油、みりん、酒、砂糖などで作った煮汁で食材を煮込む料理の総称。素材の味を活かしつつ、味を染み込ませるのが特徴。家庭料理の定番。",
+        "historical_brief_": "縄文時代の土器の使用開始と共に「煮る」という調理法が生まれた。醤油や砂糖が普及した江戸時代以降、現在のような甘辛い味付けの煮物が確立し、日本の家庭料理の根幹を形成した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E7%85%AE%E7%89%A9",
+          "https://washoku-no-umami.jp/nimono-basics",
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_cms/nimono/27_aomori.html"
+        ]
+      },
+      {
+        "concept_name_ja": "和え物",
+        "concept_name_local": "和え物",
+        "local_language": "ja",
+        "concept_name_en": "Dressed Dishes",
+        "brief_description": "野菜などの食材を、味噌、醤油、酢、ごま、豆腐などの調味料や衣で和えた料理の総称。加熱や火を使わずに手軽に作れる一品として重宝される。旬の食材の風味を活かす調理法であり、季節感が豊か。",
+        "historical_brief_": "古代から存在する調理法で、素材に調味料を絡めるというシンプルな形式。室町時代の料理書にも記載が見られる。白和え、胡麻和えなど、精進料理の発展とともに調理技術が洗練された。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%92%8C%E3%81%88%E7%89%A9",
+          "https://washoku-no-umami.jp/aemono-basics",
+          "https://www.kikkoman.co.jp/homecook/search/theme/aemono/index.html"
+        ]
+      },
+      {
+        "concept_name_ja": "麺類 (蕎麦・うどん)",
+        "concept_name_local": "麺類 (蕎麦・うどん)",
+        "local_language": "ja",
+        "concept_name_en": "Noodles (Soba/Udon)",
+        "brief_description": "蕎麦粉や小麦粉から作られる日本の代表的な麺料理。蕎麦は独特の風味、うどんはもちもちした食感が特徴。手軽な日常食から、年越し蕎麦のような儀礼食まで、広く庶民に親しまれている。",
+        "historical_brief_": "麺の食文化は奈良時代に中国から伝来。うどんの原型は鎌倉時代、蕎麦切りは安土桃山時代に登場したとされる。江戸時代に屋台文化として花開き、庶民のファストフードとして定着した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E8%95%8E%E9%BA%A6",
+          "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A9%E3%82%93",
+          "https://www.maff.go.jp/j/pr/aff/2012/spe1_01.html"
+        ]
+      },
+      {
+        "concept_name_ja": "鍋物",
+        "concept_name_local": "鍋物",
+        "local_language": "ja",
+        "concept_name_en": "Hot Pot Dishes",
+        "brief_description": "食卓に鍋を置き、煮ながら食べる料理スタイルの総称。一つの鍋を複数人で囲むことで、コミュニケーションを育む冬の代表的な家庭料理。具材の多様性を受け入れる懐の深さが特徴。",
+        "historical_brief_": "囲炉裏を囲む食習慣が原型。江戸時代にすき焼きや湯豆腐などの原型が生まれる。明治以降、卓上コンロの普及と共に家庭料理として一般化した。多様な食材を一度に調理する合理的な形式。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%8D%8B%E6%96%99%E7%90%86",
+          "https://gurunavi.com/ja/g-interview/entry/g-mag/011155",
+          "https://www.ebarafoods.com/nabeculture/history/"
+        ]
+      },
+      {
+        "concept_name_ja": "精進料理",
+        "concept_name_local": "精進料理",
+        "local_language": "ja",
+        "concept_name_en": "Buddhist Cuisine",
+        "brief_description": "仏教の戒律に基づき、動物性の食材や五葷（ごくん）を避けて作られる植物性の料理体系。日本の菜食文化の源流であり、豆腐、湯葉、麩などの加工食品や、だし文化の発展に大きく貢献した。",
+        "historical_brief_": "鎌倉時代に禅宗と共に中国から伝わり、日本の食文化に深く根付いた。食材を無駄なく使い切る精神や、季節感を大切にする思想は、現代の日本料理の根底にも流れている。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E7%B2%BE%E9%80%B2%E6%96%99%E7%90%86",
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_cms/shojin/13_tokyo.html",
+          "https://shojinryori.jp/shojin-ryori_toha/"
+        ]
+      },
+      {
+        "concept_name_ja": "おにぎり",
+        "concept_name_local": "おにぎり",
+        "local_language": "ja",
+        "concept_name_en": "Rice Ball",
+        "brief_description": "炊いたご飯を握り固め、塩や梅干し、鮭などの具材を入れたり海苔を巻いたりした携帯食。日本のソウルフードの一つ。手軽さと多様性から、家庭でもコンビニでも広く親しまれている。",
+        "historical_brief_": "平安時代の文献に「頓食（とんじき）」として記述が見られるのが起源とされる。弥生時代の遺跡からは炭化した米の塊も発見されており、その歴史は極めて古い。戦国時代には武士の兵糧としても重宝された。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A",
+          "https://www.onigiri-japan.com/history",
+          "https://www.maff.go.jp/j/pr/aff/2006/spe1_03.html"
+        ]
+      },
+      {
+        "concept_name_ja": "餅",
+        "concept_name_local": "餅",
+        "local_language": "ja",
+        "concept_name_en": "Rice Cake",
+        "brief_description": "蒸したもち米を搗いて作る食品。強い粘りと弾力が特徴。正月や祭りなど、ハレの日の儀礼食として重要な役割を担う。焼く、煮る、揚げるなど多様な調理法で食される。",
+        "historical_brief_": "稲作の歴史と共に古くから存在し、神々への供物として神聖視されてきた。考古学的には縄文時代後期の遺跡から関連道具が出土している。平安時代の儀式にも登場し、日本の年中行事と深く結びついている。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%A4%85",
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_cms/mochi/25_shiga.html",
+          "http://www.zen-mochi.jp/mochi/history/"
+        ]
+      },
+      {
+        "concept_name_ja": "醤油",
+        "concept_name_local": "醤油",
+        "local_language": "ja",
+        "concept_name_en": "Soy Sauce",
+        "brief_description": "大豆、小麦、食塩を主原料とし、麹菌など微生物の働きで発酵・熟成させて作る液体調味料。日本の食文化に不可欠な味の基本であり、豊かな旨味と香りが特徴。用途に応じて様々な種類がある。",
+        "historical_brief_": "鎌倉時代に中国から伝わった醤（ひしお）が起源とされる。室町時代に現在の醤油に近いものが作られ始め、江戸時代に醸造技術が確立し、全国的に普及した。和食の味の根幹を形成した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%86%A4%E6%B2%B9",
+          "https://www.soysauce.or.jp/syokubunka/history/",
+          "https://www.kikkoman.co.jp/library/shouyu/"
+        ]
+      },
+      {
+        "concept_name_ja": "味噌",
+        "concept_name_local": "味噌",
+        "local_language": "ja",
+        "concept_name_en": "Fermented Soybean Paste",
+        "brief_description": "大豆に塩と麹を加えて発酵させたペースト状の調味料。味噌汁の主原料であるほか、煮物や和え物、漬け床など幅広く使われる。地域によって米味噌、麦味噌、豆味噌など種類が異なり、風味も多様。",
+        "historical_brief_": "原型は古代中国から伝わった醤（ひしお）。飛鳥・奈良時代には既に存在し、平安時代には貴族の給料として支給された。鎌倉時代以降、すり鉢の普及により味噌汁として食されるようになり、庶民の重要な栄養源となった。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%91%B3%E5%99%8C",
+          "https://www.miso.or.jp/misoonline/wp-content/uploads/2016/08/knowledge_history.pdf",
+          "https://www.marukome.co.jp/miso/history/"
+        ]
+      },
+      {
+        "concept_name_ja": "酢",
+        "concept_name_local": "酢",
+        "local_language": "ja",
+        "concept_name_en": "Vinegar",
+        "brief_description": "穀物や果実をアルコール発酵させた後、酢酸発酵させて作る酸味のある液体調味料。主に米から作られる米酢が日本では主流。寿司や酢の物に不可欠で、料理にさっぱりとした風味と保存性を与える。",
+        "historical_brief_": "4〜5世紀頃に中国から酒の醸造技術と共に伝来したとされる。奈良時代には既に専門の役所が置かれていた。江戸時代に寿司文化が花開いたことで需要が急増し、庶民の食生活に広く浸透した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%85%A2",
+          "https://www.mizkan.co.jp/sushilab/manabu/rekishi.html",
+          "https://www.tamanoi.co.jp/health/vinegar-history.html"
+        ]
+      },
+      {
+        "concept_name_ja": "豆腐",
+        "concept_name_local": "豆腐",
+        "local_language": "ja",
+        "concept_name_en": "Tofu / Soybean Curd",
+        "brief_description": "大豆の搾り汁（豆乳）を凝固剤（にがりなど）で固めた加工食品。淡白な味わいで様々な料理に馴染み、タンパク質が豊富なため「畑の肉」とも呼ばれる。日本の食卓に欠かせない基本的な食材。",
+        "historical_brief_": "奈良時代に遣唐使によって中国から伝来したとされる。当初は僧侶や貴族の食べ物だったが、室町時代に精進料理の普及と共に広まり、江戸時代には庶民の日常的な食材となった。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E8%B1%86%E8%85%90",
+          "http://www.tofu-as.com/tofu/history.html",
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_cms/tofu/13_tokyo.html"
+        ]
+      },
+      {
+        "concept_name_ja": "寿司",
+        "concept_name_local": "寿司",
+        "local_language": "ja",
+        "concept_name_en": "Sushi",
+        "brief_description": "酢飯と主に魚介類を組み合わせた日本の代表的な料理。元々は魚の保存法である「なれずし」から発展した。握り寿司、巻き寿司、ちらし寿司など多様な形態があり、今や世界中で愛されている。",
+        "historical_brief_": "起源は東南アジアの魚介の保存食。奈良時代に日本に伝わり、室町時代に発酵を早めた「生成（なまなり）」が登場。江戸時代に酢で味付けしたご飯と魚を合わせる屋台の早ずし（握り寿司）が生まれ、大衆化した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%AF%BF%E5%8F%B8",
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_cms/sushi/13_tokyo.html",
+          "http://www.sushiyasan.co.jp/sushino-rekisi.html"
+        ]
+      }
+    ]
+  }
+}

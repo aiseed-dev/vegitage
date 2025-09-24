@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "region": "東南アジア",
+    "specific_area": "パダン料理",
+    "generated_at": "2025-09-01T01:49:58.910442Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "東南アジア",
+    "specific_area": "パダン料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "ご飯",
+        "concept_name_local": "Nasi",
+        "local_language": "id",
+        "concept_name_en": "Rice",
+        "brief_description": "パダン料理の絶対的な中心。全てのおかず（ラウッ）は、この白米を美味しく食べるために存在すると言っても過言ではない。様々なおかずの汁やサンバルを混ぜ合わせながら食べるのが醍醐味であり、食文化の基盤である。",
+        "historical_brief_": "東南アジア島嶼部における稲作の歴史は古く、考古学的には数千年前に遡る。米は生命と豊穣の象徴であり、ミナンカバウの社会においても儀礼や日常生活に不可欠な存在として、その中心にあり続けてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://id.wikipedia.org/wiki/Nasi_Padang",
+          "https://www.kompas.com/food/read/2021/06/13/090900175/sejarah-nasi-padang-ada-sejak-zaman-kolonial",
+          "https://journal.ugm.ac.id/jurnal-humaniora/article/view/2485"
+        ]
+      },
+      {
+        "concept_name_ja": "ブンブ（スパイスペースト）",
+        "concept_name_local": "Bumbu",
+        "local_language": "id",
+        "concept_name_en": "Spice Paste",
+        "brief_description": "パダン料理の複雑で深い味わいの源泉。唐辛子、シャロット、ニンニク、ガランガル、ターメリック等を石臼ですり潰して作る。各料理の味を決定づける調味料であり、家庭や店ごとに秘伝の配合が存在する。",
+        "historical_brief_": "スマトラ島は古来よりスパイス交易の拠点であり、多様な香辛料が利用可能だった。インド、中東、中国からの影響を受けつつ、現地の食材と融合し、独自のブンブ文化が形成された。これは地域の歴史そのものを反映している。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.indonesia.travel/gb/en/trip-ideas/a-brief-history-of-the-world-famous-rendang",
+          "https://id.wikipedia.org/wiki/Bumbu",
+          "https://www.cnnindonesia.com/gaya-hidup/20210216142728-262-606994/jejak-rempah-dalam-semangkuk-soto-padang"
+        ]
+      },
+      {
+        "concept_name_ja": "サンバル",
+        "concept_name_local": "Sambal (min: Samba)",
+        "local_language": "id, min",
+        "concept_name_en": "Chili Paste",
+        "brief_description": "唐辛子を主原料とするペースト状の調味料であり、それ自体が一品料理にもなる。パダン料理のアイデンティティである辛さの要。特に青唐辛子で作る「サンバ・ラド・ムド（イジョ）」は象徴的な存在。",
+        "historical_brief_": "唐辛子は16世紀にアメリカ大陸から伝わったが、瞬く間にインドネシア諸島の食文化に浸透した。ミナンカバウの人々は、 preexistingの辛味文化と融合させ、独自の多様なサンバルを発展させたと考えられる。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://id.wikipedia.org/wiki/Sambal",
+          "https://www.kompas.com/food/read/2022/10/24/200400875/resep-sambal-ijo-padang-cocok-untuk-stok-lauk-makan-",
+          "https://rasaindonesia.id/samba-lado-warisan-kuliner-minangkabau/"
+        ]
+      },
+      {
+        "concept_name_ja": "グライ",
+        "concept_name_local": "Gulai",
+        "local_language": "id",
+        "concept_name_en": "Gulai (Coconut Milk Stew)",
+        "brief_description": "ココナッツミルクをベースにした煮込み料理の総称。「パダンのカレー」とも呼ばれるが、より жидкий でスパイスの使い方が独特。肉、魚、野菜などあらゆる食材がグライとなり、パダン料理の調理法の根幹をなす。",
+        "historical_brief_": "ココナッツミルクで煮込む調理法は東南アジアに広く見られる。グライはインドのカレー文化の影響を受けつつ、地域の豊富なスパイス（ターメリックリーフ、レモングラス等）を取り入れ、独自の料理へと発展した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://id.wikipedia.org/wiki/Gulai",
+          "https://indonesiaeats.com/gulai-nangka-padang-young-jackfruit-curry/",
+          "https://www.wonderfulminangkabau.com/gulai-paku/"
+        ]
+      },
+      {
+        "concept_name_ja": "ルンダン",
+        "concept_name_local": "Rendang (min: Randang)",
+        "local_language": "id, min",
+        "concept_name_en": "Rendang (Caramelized Dry Curry)",
+        "brief_description": "ココナッツミルクとスパイスで食材を長時間煮詰め、水分を飛ばした料理。深い旨味と複雑な風味が特徴で、ミナンカバウ文化の象徴。牛肉が有名だが、鶏肉、野菜、豆類など多様なルンダンが存在する。",
+        "historical_brief_": "元々は、ミナンカバウの男性が長期の出稼ぎ（Merantau）に出る際の保存食として作られた。調理過程は、忍耐、知恵、敬意といったミナンカバウの哲学を体現するとされ、儀礼食としても重要な役割を担ってきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://id.wikipedia.org/wiki/Rendang",
+          "https://rendang.org/filosofi-rendang-kuliner-minang-yang-mendunia/",
+          "https://kebudayaan.kemdikbud.go.id/bpnb-sumbar/randang-sebagai-warisan-budaya-dunia/"
+        ]
+      },
+      {
+        "concept_name_ja": "バラド",
+        "concept_name_local": "Balado",
+        "local_language": "id",
+        "concept_name_en": "Balado (Stir-fried with Chili Paste)",
+        "brief_description": "粗く刻んだ唐辛子とトマト、シャロットなどを炒めたサンバルで、揚げた食材を和える調理法。サンバルの一種だが、調理法としての側面が強い。ナスのバラド（テロン・バラド）は定番の植物性料理。",
+        "historical_brief_": "炒める調理法は中国の影響が考えられるが、唐辛子と地域の食材を組み合わせることでミナンカバウ独自のスタイルが確立された。食材の風味を活かしつつ、鮮烈な辛味と旨味を加える合理的な調理法である。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://id.wikipedia.org/wiki/Balado",
+          "https://www.kompas.com/food/read/2021/04/10/110400775/resep-terong-balado-menu-warteg-yang-mudah-dibuat",
+          "https://storymaps.arcgis.com/stories/f7a049445106461c8f1857908b8b37c0"
+        ]
+      },
+      {
+        "concept_name_ja": "キャッサバの葉の煮込み",
+        "concept_name_local": "Gulai Daun Ubi Tumbuk (min: Gulai Pucuak Ubi)",
+        "local_language": "id, min",
+        "concept_name_en": "Pounded Cassava Leaf Stew",
+        "brief_description": "キャッサバの若葉をすり潰し（または細かく刻み）、ココナッツミルクとスパイスで煮込んだ料理。独特のほろ苦さと食感が特徴。パダン料理店では定番の野菜料理であり、庶民の食卓を象徴する一品。",
+        "historical_brief_": "キャッサバは南米原産で、植民地時代に東南アジアに伝来した。根だけでなく葉も食用とするのは、限られた資源を最大限に活用する庶民の知恵。地域の食文化への適応と定着を示す好例である。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://min.wikipedia.org/wiki/Gulai_pucuak_ubi",
+          "https://cookpad.com/id/resep/15980064-gulai-daun-ubi-tumbuk-khas-padang",
+          "https://www.gramedia.com/literasi/makanan-khas-padang/"
+        ]
+      },
+      {
+        "concept_name_ja": "カトゥペッ / ロントン",
+        "concept_name_local": "Katupek / Lontong",
+        "local_language": "min, id",
+        "concept_name_en": "Rice Cake",
+        "brief_description": "米をヤシの葉などで編んだ容器に入れ、長時間茹でて固めたもの。通常の白米（Nasi）とは異なる食感と風味を持つ主食。特に祝祭やレバラン（断食明け大祭）の際に、グライなどの汁物と共に食べられる。",
+        "historical_brief_": "葉で食材を包んで調理する方法は、東南アジアのオーストロネシア語族に古くから伝わる食文化の様式である。カトゥペッは、単なる食品ではなく、共同体の結束や感謝を示す象徴的な意味合いを強く持つ。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://id.wikipedia.org/wiki/Ketupat",
+          "https://indonesia.go.id/kategori/kuliner/1816/ketupat-tak-sekadar-simbol-lebaran",
+          "https://www.goodnewsfromindonesia.id/2023/04/18/ketupat-lebaran-sejarah-dan-filosofinya-yang-sarat-akan-makna"
+        ]
+      },
+      {
+        "concept_name_ja": "茹で野菜",
+        "concept_name_local": "Sayur Rebus (min: Uok)",
+        "local_language": "id, min",
+        "concept_name_en": "Boiled Vegetables",
+        "brief_description": "キャッサバの葉やインゲン、その他の季節の野菜をシンプルに茹でたもの。サンバルを付けて食べるのが一般的で、濃厚なグライやルンダンの箸休めとして重要な役割を果たす。素材の味を直接楽しむ素朴な一品。",
+        "historical_brief_": "食材を「茹でる」という行為は、最も原始的で基本的な調理法の一つ。考古学的にも、土器の使用開始と共に広く行われたと推定される。このシンプルさが、時代を超えて受け継がれる普遍的な食の様式であることを示している。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "低",
+        "research_priority": "低",
+        "sources": [
+          "https://padangkita.com/kuliner-minang-lado-dan-lalapan-sayur-yang-menggugah-selera/",
+          "https://www.dapurkobe.co.id/rebus-sayur-sambal-terasi",
+          "https://www.merdeka.com/sumut/resep-lalapan-rebus-dan-sambal-terasi-yang-enak-dan-sederhana-kln.html"
+        ]
+      },
+      {
+        "concept_name_ja": "サンジャイ・チップス",
+        "concept_name_local": "Karupuak Sanjai",
+        "local_language": "min",
+        "concept_name_en": "Sanjai Chips (Cassava Crackers)",
+        "brief_description": "薄切りにしたキャッサバを揚げたチップスで、特にブキティンギ近郊のサンジャイ村が名産地。塩味のほか、甘辛いバラドソースを絡めた「カルプアッ・サンジャイ・バラド」が有名。食事の付け合わせやお土産として親しまれる。",
+        "historical_brief_": "キャッサバの栽培が定着して以降、保存食や商品作物として加工される中で生まれた。ミナンカバウの人々の商才と、地域の農産物を活かす創造性を示す産品であり、地域のアイデンティティと経済に貢献してきた。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "低",
+        "sources": [
+          "https://id.wikipedia.org/wiki/Karak_kaliang",
+          "https://www.goodnewsfromindonesia.id/2021/04/13/karupuak-sanjai-oleh-oleh-khas-sumbar-yang-terkenal-sejak-1970-an",
+          "https://dispar.sumbarprov.go.id/details/news/173"
+        ]
+      }
+    ]
+  }
+}

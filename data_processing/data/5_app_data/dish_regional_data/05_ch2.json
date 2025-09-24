@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "region": "東アジア",
+    "specific_area": "中国・江蘇料理",
+    "generated_at": "2025-09-01T01:53:46.328081Z",
+    "prompt_version": "1.0"
+  },
+  "data": {
+    "region": "東アジア",
+    "specific_area": "中国・江蘇料理",
+    "culinary_concepts": [
+      {
+        "concept_name_ja": "米飯",
+        "concept_name_local": "米饭",
+        "local_language": "zh",
+        "concept_name_en": "Steamed Rice",
+        "brief_description": "「魚米之郷」と称される長江デルタ地帯の食文化の根幹。粘り気が少なく、パラリと炊き上げるのが特徴。炒飯や粥など、多様な米料理の基礎となる、この地域で最も重要な主食である。",
+        "historical_brief_": "長江下流域は世界有数の稲作発祥地の一つ。約7000年前の河姆渡遺跡からは稲籾が発見されており、米食の歴史は極めて古い。歴代王朝を通じて経済の中心地であり、豊かな米文化が育まれた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://www.jst.go.jp/crds/column/new-techno/2022/10/20221011.html",
+          "https://zh.wikipedia.org/wiki/%E7%A8%BB",
+          "https://baike.baidu.com/item/%E7%B1%B3%E9%A5%AD/2367"
+        ]
+      },
+      {
+        "concept_name_ja": "粥",
+        "concept_name_local": "粥",
+        "local_language": "zh",
+        "concept_name_en": "Congee / Porridge",
+        "brief_description": "米や他の穀物を水で長時間煮込んだ料理。日常の朝食から体調が優れない時の食事、宴会の締めまで幅広く食される。野菜や漬物、豆類など様々な具材と共に食べられ、非常に懐が深い食文化様式。",
+        "historical_brief_": "中国における粥の歴史は数千年に及び、古代の文献にも記述が見られる。消化しやすく栄養があるため、古くから病人食や救荒食として重要視されてきた。江蘇の豊かな食材と結びつき、多様な粥文化が花開いた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://baike.baidu.com/item/%E7%B2%A5/27984",
+          "https://zh.wikipedia.org/wiki/%E7%B2%A5",
+          "https://www.xiachufang.com/category/40076/"
+        ]
+      },
+      {
+        "concept_name_ja": "麺",
+        "concept_name_local": "面",
+        "local_language": "zh",
+        "concept_name_en": "Noodles",
+        "brief_description": "北方の小麦文化の影響も受け、江蘇でも麺は広く親しまれている。特にスープ（汤）を重視する点が特徴で、醤油ベースの澄んだスープでシンプルに味わう「陽春麺」などが代表的。庶民の日常に深く根付いている。",
+        "historical_brief_": "麺の起源は中国にあり、4000年前の遺跡からも発見されている。江南地域では、運河を通じて北方の小麦文化が伝播し、米文化と融合して独自の麺文化が発展。特に都市部で庶民のファストフードとして定着した。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://baike.baidu.com/item/%E9%98%B3%E6%98%A5%E9%9D%A2/1531",
+          "https://zh.wikipedia.org/wiki/%E9%9D%A2%E9%A3%9F",
+          "https://www.163.com/dy/article/HH3N5F100552ES0M.html"
+        ]
+      },
+      {
+        "concept_name_ja": "煮込み・とろ火煮",
+        "concept_name_local": "炖/煨/焖",
+        "local_language": "zh",
+        "concept_name_en": "Stewing / Simmering / Braising",
+        "brief_description": "江蘇料理、特に淮揚料理の調理法の神髄。弱火で長時間加熱することで、食材本来の旨味を最大限に引き出し、スープに溶け込ませる。肉や魚だけでなく、豆腐や野菜もこの調理法で極上の味わいになる。",
+        "historical_brief_": "土器の発明以来、煮込みは最も原始的かつ基本的な調理法の一つ。江蘇料理では、この調理法が芸術の域まで高められた。豊かな食材を繊細な火加減で調理する技術は、宮廷料理人などを通じて洗練されてきた歴史を持つ。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "http://www.caichuyun.com/article/1188.html",
+          "https://baike.baidu.com/item/%E7%82%96/14352",
+          "https://zh.wikipedia.org/wiki/%E6%B7%AE%E6%89%AC%E8%8F%9C"
+        ]
+      },
+      {
+        "concept_name_ja": "蒸し料理",
+        "concept_name_local": "蒸菜",
+        "local_language": "zh",
+        "concept_name_en": "Steamed Dishes",
+        "brief_description": "食材の風味と栄養を損なわずに調理する、健康的で洗練された調理法。江蘇料理では、魚や野菜、点心など、幅広い食材に用いられる。油を使わず、素材の鮮度と本来の味を重視するこの地域の食哲学を体現している。",
+        "historical_brief_": "中国では新石器時代から「甑(こしき)」のような蒸し器が使われており、蒸すという調理法は極めて長い歴史を持つ。特に水運が発達した江南では、新鮮な川魚や野菜を最も美味しく食べる方法として重宝されてきた。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://baike.baidu.com/item/%E8%92%B8%E8%8F%9C/2689360",
+          "https://www.douguo.com/caipu/%E8%92%B8%E8%8F%9C",
+          "https://zh.wikipedia.org/wiki/%E8%92%B8"
+        ]
+      },
+      {
+        "concept_name_ja": "豆腐料理",
+        "concept_name_local": "豆制品菜",
+        "local_language": "zh",
+        "concept_name_en": "Tofu / Soy Product Dishes",
+        "brief_description": "大豆から作られる豆腐やその加工品は、江蘇料理で非常に重要な役割を担う。豆腐を髪の毛のように細く切って煮込む「煮干丝」に代表されるように、豆腐を主役にした精巧で滋味深い料理が数多く存在する。",
+        "historical_brief_": "豆腐は漢代に発明されたとされ、宋代には広く普及した。植物性タンパク質が豊富な豆腐は、仏教の精進料理（素菜）の発展と共に、調理技術が飛躍的に向上。特に江蘇地域では、その加工と調理法が洗練された。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://baike.baidu.com/item/%E5%A4%A7%E7%85%AE%E5%B9%B2%E4%B8%9D/27494",
+          "https://zh.wikipedia.org/wiki/%E8%B1%86%E5%88%B6%E5%93%81",
+          "https://www.sohu.com/a/488052101_120993958"
+        ]
+      },
+      {
+        "concept_name_ja": "精進料理",
+        "concept_name_local": "素菜",
+        "local_language": "zh",
+        "concept_name_en": "Vegetarian Cuisine",
+        "brief_description": "仏教の影響を受け、江蘇省の寺院を中心に発展した菜食料理。豆腐、湯葉、グルテン、きのこ、野菜などを使い、肉や魚の形や食感を模した「もどき料理」の技術が特徴。健康的で精緻な料理として知られる。",
+        "historical_brief_": "仏教が伝来した南北朝時代に起源を持つ。特に梁の武帝が断酒肉文を発して以降、菜食が奨励された。江蘇には古刹が多く、長年にわたり宮廷料理の技法も取り入れながら、独自の洗練された精進料理文化を育んできた。",
+        "historical_significance": "高",
+        "cultural_importance": "中",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%B4%A0%E8%8F%9C",
+          "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E7%B4%A0%E9%A3%9F",
+          "https://www.zaichina.net/chinese-food-culture/regional-cuisine/230121.html"
+        ]
+      },
+      {
+        "concept_name_ja": "淮揚点心",
+        "concept_name_local": "淮扬点心",
+        "local_language": "zh",
+        "concept_name_en": "Huaiyang Style Dim Sum",
+        "brief_description": "見た目の美しさと精巧な細工で知られる江蘇地方の点心。皮は薄く、餡は新鮮で、甘すぎず塩辛すぎない絶妙な味付けが特徴。包子（まんじゅう）や焼売、千層糕（蒸しカステラ）など種類が豊富で、多くが植物性。",
+        "historical_brief_": "揚州などの商業都市の繁栄と共に、茶館文化の中で発展した。裕福な商人や文人たちの需要に応え、料理人たちは技術を競い合い、点心を単なる軽食から芸術的な料理へと昇華させた。その歴史は明清時代に遡る。",
+        "historical_significance": "中",
+        "cultural_importance": "高",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://baike.baidu.com/item/%E6%B7%AE%E6%89%AC%E7%82%B9%E5%BF%83",
+          "https://www.sohu.com/a/653372276_121124373",
+          "https://www. gastronomic.io/gastronomic/huaiyang-dim-sum-tradition"
+        ]
+      },
+      {
+        "concept_name_ja": "和え物",
+        "concept_name_local": "凉拌菜",
+        "local_language": "zh",
+        "concept_name_en": "Cold Tossed Dishes / Salad",
+        "brief_description": "旬の野菜や豆腐、乾物などを、醤油、酢、ごま油、香味野菜などで和えた前菜。加熱を最小限に抑え、食材の食感と鮮度を活かす。シンプルながら奥深く、家庭の食卓に欠かせない一品。",
+        "historical_brief_": "生食に近いこの調理法は、食材の鮮度が保証される豊かな土地でこそ発展する。古代から薬食同源の思想のもと、季節の野菜を酢や塩で和えて食す習慣があった。調理器具が単純だった時代から続く、普遍的な食文化様式。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "低",
+        "research_priority": "低",
+        "sources": [
+          "https://baike.baidu.com/item/%E5%87%89%E6%8B%8C%E8%8F%9C/882142",
+          "https://www.xiachufang.com/category/10206/",
+          "https://zh.wikipedia.org/wiki/%E6%B6%BC%E6%8B%8C%E8%8F%9C"
+        ]
+      },
+      {
+        "concept_name_ja": "醬菜",
+        "concept_name_local": "酱菜",
+        "local_language": "zh",
+        "concept_name_en": "Pickled Vegetables / Preserves",
+        "brief_description": "野菜を醤油や味噌、醤（ジャン）などで漬け込んだ保存食。特に揚州の醬菜は有名で、朝食の粥の供として欠かせない存在。甘みのある独特の風味が特徴で、地域の発酵文化を象徴する食品である。",
+        "historical_brief_": "野菜の長期保存技術として、漬物は古代から中国全土で発展した。特に商業都市であった揚州では、各地の優れた技術が集まり、独自の甘口の醬菜文化が形成された。その歴史は清代には確立されていたとされる。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "中",
+        "sources": [
+          "https://baike.baidu.com/item/%E6%89%AC%E5%B7%9E%E9%85%B1%E8%8F%9C/1982283",
+          "https://zh.wikipedia.org/wiki/%E9%86%AC%E8%8F%9C",
+          "https://js.zjol.com.cn/yc/202206/t20220627_24357288.shtml"
+        ]
+      },
+      {
+        "concept_name_ja": "糟貨",
+        "concept_name_local": "糟货",
+        "local_language": "zh",
+        "concept_name_en": "Liquor-Soaked Foods",
+        "brief_description": "酒粕（酒糟）や黄酒に食材を漬け込み、独特の芳醇な風味を付ける調理法。枝豆（毛豆）やそら豆、豆腐干などが代表的な植物性食材。米から酒を造る文化が根付いた「魚米之郷」ならではの食文化。",
+        "historical_brief_": "稲作と酒造りの歴史と共に生まれた調理法。酒の副産物である酒粕を保存や風味付けに利用する知恵は古くから存在した。特に江南地方では、良質な黄酒が豊富なため、この文化が発展し、日常的な惣菜から高級品まで幅広く作られた。",
+        "historical_significance": "中",
+        "cultural_importance": "中",
+        "plant_based_rating": "中",
+        "story_potential": "高",
+        "research_priority": "中",
+        "sources": [
+          "https://baike.baidu.com/item/%E7%B3%9F%E8%B4%A7/2932970",
+          "https://www.sohu.com/a/473528254_121124485",
+          "https://zh.wikipedia.org/wiki/%E7%B3%9F"
+        ]
+      },
+      {
+        "concept_name_ja": "醤油",
+        "concept_name_local": "酱油",
+        "local_language": "zh",
+        "concept_name_en": "Soy Sauce",
+        "brief_description": "大豆を主原料とする発酵調味料で、中国料理、ひいては東アジア料理の味の根幹。江蘇料理では、塩味を加えるだけでなく、色付けや香り、深いコクを与えるために不可欠。繊細な味付けを支える基本中の基本。",
+        "historical_brief_": "醤油の原型である「醤（ジャン）」は、周代の文献にも見られるほど歴史が古い。大豆を原料とする醤油は漢代以降に発展し、宋代には製法が確立した。大豆栽培が盛んなこの地域は、醤油文化の発展においても重要な役割を担ってきた。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "中",
+        "research_priority": "高",
+        "sources": [
+          "https://baike.baidu.com/item/%E9%85%B1%E6%B2%B9/28966",
+          "https://zh.wikipedia.org/wiki/%E9%86%AC%E6%B2%B9",
+          "https://www.shokunin.com/jp/encyclopedia/shoyu.html"
+        ]
+      },
+      {
+        "concept_name_ja": "鎮江香酢",
+        "concept_name_local": "镇江香醋",
+        "local_language": "zh",
+        "concept_name_en": "Zhenjiang Vinegar",
+        "brief_description": "鎮江市特産のもち米を主原料とした黒酢。独特の香りとまろやかな酸味、深いコクが特徴で、中国四大名酢の一つ。点心のつけダレや和え物、煮込み料理の隠し味など、江蘇料理に欠かせない魂ともいえる調味料。",
+        "historical_brief_": "1400年以上の歴史を持つとされる。その製法は南北朝時代に起源を持ち、長い年月をかけて改良され、現在の地位を確立した。京杭大運河の要衝であった鎮江から、その名声は全国、そして世界へと広がっていった。",
+        "historical_significance": "高",
+        "cultural_importance": "高",
+        "plant_based_rating": "高",
+        "story_potential": "高",
+        "research_priority": "高",
+        "sources": [
+          "https://baike.baidu.com/item/%E9%95%87%E6%B1%9F%E9%A6%99%E9%86%8B/83726",
+          "https://zh.wikipedia.org/wiki/%E9%95%87%E6%B1%9F%E9%A6%99%E9%86%8B",
+          "https://www.jetro.go.jp/agriportal/ja/gi/chinamark/81.html"
+        ]
+      }
+    ]
+  }
+}

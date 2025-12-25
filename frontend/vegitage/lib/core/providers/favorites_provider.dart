@@ -1,38 +1,45 @@
 // lib/core/providers/favorites_provider.dart
-import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:riverpod_annotation/riverpod_annotation.dart';
+import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-part 'favorites_provider.g.dart';
-
-// お気に入り野菜のIDリスト（例: ["聖護院かぶ", "みょうが"]）を管理するNotifier
-@Riverpod(keepAlive: true)
-class Favorites extends _$Favorites { // ★★★ _$Favorites を継承 ★★★
+/// お気に入り野菜のIDリストを管理するChangeNotifier
+class FavoritesNotifier extends ChangeNotifier {
   static const _favoritesKey = 'favorite_vegetable_ids';
 
-  @override
-  Future<List<String>> build() async {
+  List<String> _favorites = [];
+  bool _isLoading = true;
+
+  List<String> get favorites => _favorites;
+  bool get isLoading => _isLoading;
+
+  FavoritesNotifier() {
+    _loadFavorites();
+  }
+
+  Future<void> _loadFavorites() async {
     final prefs = await SharedPreferences.getInstance();
-    return prefs.getStringList(_favoritesKey) ?? [];
+    _favorites = prefs.getStringList(_favoritesKey) ?? [];
+    _isLoading = false;
+    notifyListeners();
   }
 
   Future<void> toggleFavorite(String vegetableId) async {
     final prefs = await SharedPreferences.getInstance();
 
-    // 現在の状態を取得
-    // state.value が null の場合は空リストを使う
-    final currentFavorites = state.value?.toList() ?? [];
-
-    if (currentFavorites.contains(vegetableId)) {
-      currentFavorites.remove(vegetableId);
+    if (_favorites.contains(vegetableId)) {
+      _favorites.remove(vegetableId);
     } else {
-      currentFavorites.add(vegetableId);
+      _favorites.add(vegetableId);
     }
 
-    // 端末に保存
-    await prefs.setStringList(_favoritesKey, currentFavorites);
+    await prefs.setStringList(_favoritesKey, _favorites);
+    notifyListeners();
+  }
 
-    // 状態を更新
-    state = AsyncValue.data(currentFavorites);
+  bool isFavorite(String vegetableId) {
+    return _favorites.contains(vegetableId);
   }
 }
+
+/// グローバルなFavoritesNotifierインスタンス
+final favoritesNotifier = FavoritesNotifier();

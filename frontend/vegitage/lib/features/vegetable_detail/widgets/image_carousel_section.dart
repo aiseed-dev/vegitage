@@ -1,14 +1,11 @@
 // lib/features/vegetable_detail/widgets/image_carousel_section.dart
 
-import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:http/http.dart' as http;
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:vegitage/core/providers/providers.dart';
 import 'package:vegitage/core/models/vegetable_image.dart';
 
-class ImageCarouselSection extends ConsumerWidget {
+class ImageCarouselSection extends StatefulWidget {
   const ImageCarouselSection({
     super.key,
     required this.hasImages,
@@ -21,44 +18,80 @@ class ImageCarouselSection extends ConsumerWidget {
   final String imageCategory;
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
-    // hasImages フラグが false なら、何も表示せずに終了
-    if (!hasImages) {
+  State<ImageCarouselSection> createState() => _ImageCarouselSectionState();
+}
+
+class _ImageCarouselSectionState extends State<ImageCarouselSection> {
+  List<VegetableImage>? _imageInfoList;
+  bool _isLoading = true;
+  bool _hasError = false;
+
+  @override
+  void initState() {
+    super.initState();
+    _loadImageInfo();
+  }
+
+  Future<void> _loadImageInfo() async {
+    if (!widget.hasImages) {
+      setState(() {
+        _isLoading = false;
+      });
+      return;
+    }
+
+    try {
+      final imageInfoList = await imageService.getImageInfo(
+        widget.imageId,
+        widget.imageCategory,
+      );
+      if (mounted) {
+        setState(() {
+          _imageInfoList = imageInfoList;
+          _isLoading = false;
+        });
+      }
+    } catch (e) {
+      if (mounted) {
+        setState(() {
+          _hasError = true;
+          _isLoading = false;
+        });
+      }
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (!widget.hasImages) {
       return const SizedBox.shrink();
     }
 
-    // 画像情報を非同期で取得するためのProviderを監視
-    final imageInfoAsync = ref.watch(imageInfoProvider(
-        ImageInfoArgs(imageId: imageId, imageCategory: imageCategory)
-    ));
+    if (_isLoading) {
+      return const _LoadingPlaceholder();
+    }
 
-    // AsyncValue.when を使って、データの状態に応じてUIを構築
-    return imageInfoAsync.when(
-      data: (imageInfoList) {
-        // info.json が空、または存在しない場合は何も表示しない
-        if (imageInfoList.isEmpty) {
-          return const SizedBox.shrink();
-        }
+    if (_hasError) {
+      return const _ErrorPlaceholder();
+    }
 
-        // 画像が1枚だけの場合は、カルーセルではなく静的な画像として表示
-        if (imageInfoList.length == 1) {
-          final imageUrl = "https://aiseed.page/images/$imageCategory/$imageId/${imageInfoList.first.filename}";
-          return _SingleStaticImage(
-            imageUrl: imageUrl,
-            caption: imageInfoList.first.caption,
-          );
-        }
+    if (_imageInfoList == null || _imageInfoList!.isEmpty) {
+      return const SizedBox.shrink();
+    }
 
-        // 画像が2枚以上あれば、手動操作のカルーセルを表示
-        return _ManualCarousel(
-          imageId: imageId,
-          imageCategory: imageCategory,
-          imageInfoList: imageInfoList,
-        );
-      },
-      // ローディング中やエラー時は、シンプルなプレースホルダーを表示
-      loading: () => const _LoadingPlaceholder(),
-      error: (err, stack) => const _ErrorPlaceholder(),
+    if (_imageInfoList!.length == 1) {
+      final imageUrl =
+          "https://aiseed.page/images/${widget.imageCategory}/${widget.imageId}/${_imageInfoList!.first.filename}";
+      return _SingleStaticImage(
+        imageUrl: imageUrl,
+        caption: _imageInfoList!.first.caption,
+      );
+    }
+
+    return _ManualCarousel(
+      imageId: widget.imageId,
+      imageCategory: widget.imageCategory,
+      imageInfoList: _imageInfoList!,
     );
   }
 }
@@ -79,13 +112,12 @@ class _ManualCarousel extends StatefulWidget {
 }
 
 class _ManualCarouselState extends State<_ManualCarousel> {
-  // ★★★ PageViewを操作するためのコントローラー ★★★
   final PageController _pageController = PageController();
   int _currentImageIndex = 0;
 
   @override
   void dispose() {
-    _pageController.dispose(); // 不要になったら必ずdisposeする
+    _pageController.dispose();
     super.dispose();
   }
 
@@ -94,11 +126,11 @@ class _ManualCarouselState extends State<_ManualCarousel> {
     final imageUrls = widget.imageInfoList.map((info) {
       return Uri.parse('https://aiseed.page')
           .replace(pathSegments: [
-        'images',
-        widget.imageCategory,
-        widget.imageId,
-        info.filename
-      ])
+            'images',
+            widget.imageCategory,
+            widget.imageId,
+            info.filename
+          ])
           .toString();
     }).toList();
 
@@ -109,7 +141,6 @@ class _ManualCarouselState extends State<_ManualCarousel> {
           Stack(
             alignment: Alignment.center,
             children: [
-              // ★★★ CarouselSlider の代わりに PageView を使う ★★★
               SizedBox(
                 height: 250.0,
                 child: PageView.builder(
@@ -125,37 +156,38 @@ class _ManualCarouselState extends State<_ManualCarousel> {
                   },
                 ),
               ),
-              // 左右のナビゲーションボタン
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   IconButton(
-                    icon: const Icon(Icons.arrow_back_ios_new, color: Colors.white, size: 20),
+                    icon: const Icon(Icons.arrow_back_ios_new,
+                        color: Colors.white, size: 20),
                     onPressed: () {
                       _pageController.previousPage(
                         duration: const Duration(milliseconds: 300),
                         curve: Curves.easeInOut,
                       );
                     },
-                    style: IconButton.styleFrom(backgroundColor: Colors.black.withOpacity(0.4)),
+                    style: IconButton.styleFrom(
+                        backgroundColor: Colors.black.withOpacity(0.4)),
                   ),
                   IconButton(
-                    icon: const Icon(Icons.arrow_forward_ios, color: Colors.white, size: 20),
+                    icon: const Icon(Icons.arrow_forward_ios,
+                        color: Colors.white, size: 20),
                     onPressed: () {
                       _pageController.nextPage(
                         duration: const Duration(milliseconds: 300),
                         curve: Curves.easeInOut,
                       );
                     },
-                    style: IconButton.styleFrom(backgroundColor: Colors.black.withOpacity(0.4)),
+                    style: IconButton.styleFrom(
+                        backgroundColor: Colors.black.withOpacity(0.4)),
                   ),
                 ],
               ),
             ],
           ),
           const SizedBox(height: 8),
-
-          // キャプションとページインジケータ
           _buildCaptionAndIndicator(context),
         ],
       ),
@@ -176,8 +208,6 @@ class _ManualCarouselState extends State<_ManualCarousel> {
               textAlign: TextAlign.center,
             ),
           ),
-
-        // ページインジケータ（点々）
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: widget.imageInfoList.asMap().entries.map((entry) {
@@ -192,10 +222,13 @@ class _ManualCarouselState extends State<_ManualCarousel> {
               child: Container(
                 width: 8.0,
                 height: 8.0,
-                margin: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 4.0),
+                margin:
+                    const EdgeInsets.symmetric(vertical: 8.0, horizontal: 4.0),
                 decoration: BoxDecoration(
                   shape: BoxShape.circle,
-                  color: (Theme.of(context).brightness == Brightness.dark ? Colors.white : Colors.black)
+                  color: (Theme.of(context).brightness == Brightness.dark
+                          ? Colors.white
+                          : Colors.black)
                       .withOpacity(_currentImageIndex == entry.key ? 0.9 : 0.3),
                 ),
               ),
@@ -206,7 +239,7 @@ class _ManualCarouselState extends State<_ManualCarousel> {
     );
   }
 }
-/// 画像が1枚だけの場合に表示する静的なウィジェット
+
 class _SingleStaticImage extends StatelessWidget {
   const _SingleStaticImage({required this.imageUrl, this.caption});
 
@@ -223,23 +256,12 @@ class _SingleStaticImage extends StatelessWidget {
             borderRadius: BorderRadius.circular(12.0),
             child: _buildSingleImage(imageUrl),
           ),
-          /*
-          if (caption != null && caption!.isNotEmpty) ...[
-            const SizedBox(height: 8),
-            Text(
-              caption!,
-              style: Theme.of(context).textTheme.bodySmall,
-              textAlign: TextAlign.center,
-            ),
-          ]
-           */
         ],
       ),
     );
   }
 }
 
-/// ローディング中に表示するプレースホルダー
 class _LoadingPlaceholder extends StatelessWidget {
   const _LoadingPlaceholder();
 
@@ -249,7 +271,7 @@ class _LoadingPlaceholder extends StatelessWidget {
       height: 250,
       margin: const EdgeInsets.all(8.0),
       decoration: BoxDecoration(
-        color: Theme.of(context).colorScheme.surfaceVariant.withOpacity(0.5),
+        color: Theme.of(context).colorScheme.surfaceContainerHighest.withOpacity(0.5),
         borderRadius: BorderRadius.circular(12.0),
       ),
       child: const Center(child: CircularProgressIndicator()),
@@ -257,7 +279,6 @@ class _LoadingPlaceholder extends StatelessWidget {
   }
 }
 
-/// エラー時に表示するプレースホルダー
 class _ErrorPlaceholder extends StatelessWidget {
   const _ErrorPlaceholder();
 
@@ -271,13 +292,13 @@ class _ErrorPlaceholder extends StatelessWidget {
   }
 }
 
-/// 画像1枚を表示するための共通ウィジェット
 Widget _buildSingleImage(String imageUrl) {
   return CachedNetworkImage(
     imageUrl: imageUrl,
     fit: BoxFit.cover,
     width: double.infinity,
-    placeholder: (context, url) => const Center(child: CircularProgressIndicator()),
+    placeholder: (context, url) =>
+        const Center(child: CircularProgressIndicator()),
     errorWidget: (context, url, error) => const Center(
       child: Icon(Icons.error_outline, size: 48, color: Colors.grey),
     ),

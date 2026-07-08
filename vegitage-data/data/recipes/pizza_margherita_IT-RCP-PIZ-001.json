@@ -1,0 +1,183 @@
+{
+  "id": "IT-RCP-PIZ-001",
+  "names": {
+    "local": "Pizza Margherita",
+    "japanese": "ピッツァ・マルゲリータ",
+    "english": "Margherita Pizza"
+  },
+  "origin": {
+    "country": "イタリア",
+    "region": "カンパニア州ナポリ",
+    "history": "1889年、イタリア統一を果たしたサヴォイア王朝のヴィットーリオ・エマヌエーレ1世の王妃マルゲリータ・マリア・テレーザ・ジョヴァンナ・ディ・サヴォイアのナポリ訪問を歓迎して、ピッツァ職人ラファエレ・エスポージト（ピッツェリア・ブランディ）が献上。トマトの赤、モッツァレラチーズの白、バジルの緑でイタリア国旗の三色（トリコローレ）を表現した。王妃がこのピッツァを気に入ったことから「マルゲリータ」と名付けられた。",
+    "predecessor": "1750年頃に誕生した「マリナーラ」（トマトソース、ニンニク、オレガノ、オリーブオイル）がトマトを使った最初のピッツァ。さらに古くは1660年頃の「マストゥニコーラ」（ラード、バジリコ、チーズ）がナポリピッツァの先祖とされる。"
+  },
+  "category": "主食・ピッツァ",
+  "subcategory": "ナポリピッツァ（Pizza Napoletana）",
+  "ingredients": [
+    {
+      "name": "ピッツァ生地",
+      "components": [
+        {"item": "小麦粉", "amount": "1000g（13玉分）", "notes": "00番粉が理想、強力粉と薄力粉のブレンドも可"},
+        {"item": "水", "amount": "600g", "notes": "氷水使用"},
+        {"item": "塩", "amount": "30g"},
+        {"item": "生イースト", "amount": "1-3g", "notes": "ドライイーストも可"}
+      ],
+      "is_traditional_vegetable": false,
+      "notes": "生地にオイルを混ぜ込むことは厳禁。小麦粉、水、酵母、塩の4つのみ。長時間低温発酵で独特の風味と食感を生み出す"
+    },
+    {
+      "name": "トマトソース",
+      "amount": "適量",
+      "is_traditional_vegetable": true,
+      "vegetable_id": "IT-VEG-TOM-001",
+      "notes": "DOP認証サンマルツァーノトマトの缶詰を使用。生トマトより水分調整がしやすい"
+    },
+    {
+      "name": "モッツァレラチーズ",
+      "amount": "100g程度（5mm幅にカット）",
+      "is_traditional_vegetable": false,
+      "notes": "理想は水牛のモッツァレラ（Mozzarella di Bufala）。牛乳製のフィオル・ディ・ラッテも使用される"
+    },
+    {
+      "name": "フレッシュバジル",
+      "amount": "数枚",
+      "is_traditional_vegetable": false,
+      "notes": "焼き上げ後または焼成中に配置"
+    },
+    {
+      "name": "エキストラバージンオリーブオイル",
+      "amount": "適量",
+      "is_traditional_vegetable": false,
+      "notes": "高温でも安定した酸化しにくいものを選ぶ。生地の上にふりかける（混ぜ込まない）"
+    }
+  ],
+  "traditional_method": {
+    "dough_preparation": {
+      "steps": [
+        "ボウルに水と塩を入れて軽く混ぜる",
+        "小麦粉の1-2割を加えて混ぜる",
+        "残りの小麦粉とイーストを加え、粉っぽさがなくなるまで練る",
+        "打ち粉をした台に取り出し、折りたたむように練る",
+        "生地を丸めてボウルに入れ、室温で一次発酵（または低温長時間発酵）",
+        "約250gずつに分割し、丸めて二次発酵"
+      ],
+      "fermentation": "長時間発酵により独特の風味と食感が生まれる"
+    },
+    "shaping": {
+      "method": "手のひらで中央から外側に向かって押し広げる。縁（コルニチョーネ）は土手を作るように残す",
+      "size": "直径約25-30cm",
+      "notes": "麺棒は使用しない。手で伸ばすことで気泡を残し、ふっくらした縁を作る"
+    },
+    "topping": {
+      "order": [
+        "生地の中央にトマトソースを塗り広げる（縁は残す）",
+        "モッツァレラチーズを配置",
+        "オリーブオイルを回しかける",
+        "バジルを配置（焼成前または後）"
+      ]
+    },
+    "baking": {
+      "equipment": "薪窯が理想",
+      "temperature": "400℃以上（家庭用オーブンは最高温度で予熱後さらに20-30分空焼き）",
+      "duration": "60-90秒（薪窯）、家庭用オーブンでは8分程度",
+      "result": "外側はカリッと、内側はモチモチ（カリモチ食感）。縁はでこぼこして焦げ目がつく"
+    }
+  },
+  "variations": [
+    {
+      "name": "マルゲリータ D.O.C.",
+      "description": "スペシャルバージョン。水牛のモッツァレラとフレッシュトマトを使用"
+    },
+    {
+      "name": "マルゲリータ・エクストラ",
+      "description": "追加のトッピング（チェリートマト、追加バジルなど）を加えたバージョン"
+    }
+  ],
+  "cultural_context": {
+    "eating_style": "ナポリでは2つ折りや4つ折りにして立ち食いすることも多い。生地が柔らかく折りたためることが重要",
+    "certification": {
+      "avpn": {
+        "organization": "真のナポリピッツァ協会（Associazione Verace Pizza Napoletana）",
+        "established": "1984年、ナポリ",
+        "purpose": "古くから伝わるピッツァ職人の伝統技術を守り、世代交代による変化を防ぐ",
+        "requirements": [
+          "生地は小麦粉、水、酵母、塩の4つのみ（オイル混入厳禁）",
+          "トマトはサンマルツァーノ種の缶詰を使用",
+          "手で伸ばす（麺棒禁止）",
+          "薪窯で400℃以上、60-90秒で焼成"
+        ]
+      },
+      "eu_stg": {
+        "type": "STG（Specialità Tradizionale Garantita / 伝統的特産品保証）",
+        "regulation": "EU Regulation 2022/2313",
+        "description": "EUが「Pizza Napoletana」の名称と製法を地理的認証で保護。STGの表記なしに「Pizza Napoletana」の名称を使用することはできない。パッケージやレストラン・ピッツェリアのメニューに「Pizza Napoletana STG」と記載するには、指定された材料と製法を遵守する必要がある。",
+        "scope": "EU域内での名称保護と製法基準の義務化"
+      }
+    },
+    "symbolism": "トマトの赤、モッツァレラの白、バジルの緑はイタリア国旗を表現。庶民も王室も関わりなく愛される国民食",
+    "unesco": "2017年、ナポリのピッツァイオーロ（ピッツァ職人）の技術がユネスコ無形文化遺産に登録"
+  },
+  "related_vegetables": [
+    {
+      "id": "IT-VEG-TOM-001",
+      "name": "サンマルツァーノトマト",
+      "role": "トマトソースの主材料。真のナポリピッツァ協会が指定する唯一のトマト品種"
+    }
+  ],
+  "related_recipes": [
+    {
+      "id": "IT-RCP-PIZ-002",
+      "name": "ピッツァ・マリナーラ",
+      "relationship": "マルゲリータより先に誕生したシンプルなトマトピッツァ"
+    },
+    {
+      "id": "IT-RCP-PAS-001",
+      "name": "ナポリタンソース",
+      "relationship": "同じトマトソースをパスタにも使用"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://magazine.hitosara.com/article/1275/",
+      "type": "japanese_food_magazine",
+      "reliability": "high"
+    },
+    {
+      "url": "http://dituff.com/information.html",
+      "type": "pizzeria_info",
+      "reliability": "medium"
+    },
+    {
+      "url": "https://allabout.co.jp/gm/gc/4718/",
+      "type": "japanese_recipe_site",
+      "reliability": "medium"
+    },
+    {
+      "url": "https://tomiz.com/column/pizza-napoletana/",
+      "type": "japanese_baking_site",
+      "reliability": "high"
+    },
+    {
+      "url": "https://www.gmobile.biz/italy/column/italian-pizza/",
+      "type": "travel_guide",
+      "reliability": "medium"
+    }
+  ],
+  "metadata": {
+    "collected_at": "2026-01-29T06:03:00Z",
+    "agent_version": "1.0.0-prototype",
+    "research_method": "Claude Agent SDK WebSearch (manual prototype)",
+    "confidence_score": 0.90,
+    "completeness": {
+      "basic_info": 1.0,
+      "ingredients": 0.95,
+      "method": 0.90,
+      "cultural": 0.95
+    },
+    "cross_check_status": "verified",
+    "needs_review": [
+      "真のナポリピッツァ協会公式サイトからの規定の詳細確認",
+      "ユネスコ無形文化遺産登録の詳細情報"
+    ]
+  }
+}

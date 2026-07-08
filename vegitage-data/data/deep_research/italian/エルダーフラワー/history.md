@@ -1,0 +1,186 @@
+# イタリアのエルダーフラワー
+
+*Sambucus nigra L.* — レンプクソウ科の「花と果実の恵み」
+
+---
+
+## 序論：欧州の風景に根ざす「聖なる木」
+セイヨウニワトコ（学名：*Sambucus nigra* L.、イタリア語名：Sambuco）は、レンプクソウ科（旧分類ではスイカズラ科）に属する落葉低木であり、ヨーロッパ全土、北アフリカ、西アジア、そして北米に至る広範な地域に自生する植物である。イタリアにおいては、アルプス山脈の麓から地中海の島々に至るまで、平野部から標高約1,400メートルの山岳地帯にかけて広く分布し、その風景の一部を形成している。
+
+本報告書は、単なる植物学的記述に留まらず、イタリアの歴史、文化、そして農業経済におけるエルダーフラワー（ニワトコの花）およびエルダーベリー（果実）の多面的な役割を網羅的に分析するものである。古代ローマの大プリニウスによる博物学的記録から、中世の修道院医学、魔女伝説に彩られた民間伝承、そして現代のイタリア政府認定「伝統的農産物（PAT）」としての地位に至るまで、数千年にわたる人間との関わりを詳らかにする。
+
+### 植物学的特性と生態学的地位
+セイヨウニワトコは、高さ数メートルから時には10メートル近くに達する低木または小高木である。春の終わりから初夏（5月〜6月）にかけて、枝先にクリーム色の小さな花が密集した「散房花序（corymb）」を形成し、独特の甘くマスカットのような芳香を放つ。その後、晩夏から初秋にかけて、光沢のある黒紫色の液果（核果）を結ぶ。
+
+この植物の際立った特徴の一つは、その適応力の高さと成長の速さである。イタリアの農村風景において、ニワトコはしばしば廃屋の近くや畑の境界、河川敷などに自生しており、「人間活動の周辺」を好む傾向がある。これは後述する民間伝承において「家を守る木」としての地位を確立する生態学的背景ともなっている。
+
+特筆すべきは、同属種であるソクズ（*Sambucus ebulus*、イタリア語：Ebbio）との区別の重要性である。ソクズは草本であり、同様の黒い実をつけるが、毒性が強く利用には適さない。伝統的な知識体系（Folk Taxonomy）において、イタリアの農民たちはこれらの種を明確に区別し、*Sambucus nigra*のみを選択的に利用してきた歴史を持つ。
+
+| 部位 | 植物学的特徴 | 伝統的・産業的用途 | 毒性リスク |
+| :---- | :---- | :---- | :---- |
+| **花 (Fiori)** | 散房花序、クリーム色、強い芳香 | シロップ、リキュール、フリッテッレ（揚げ物）、パン、ハーブティー | 低（花粉アレルギー等は除く） |
+| **果実 (Bacche)** | 球形、黒紫色、多汁 | ジャム、ワイン、染料、インク | 中（未熟果はシアン配糖体を含むため加熱必須 6） |
+| **葉・樹皮 (Foglie/Corteccia)** | 対生、奇数羽状複葉 / 灰色で深い亀裂 | 外用薬（湿布）、防虫剤、染色 | 高（内服厳禁） |
+| **髄 (Midollo)** | 白く軽量、スポンジ状 | 顕微鏡標本の支持体、物理実験器具、時計製作の清掃具 | 非食用 |
+
+### 毒性と安全性の歴史的認識
+現代の植物化学的研究により、ニワトコの未熟な果実、葉、樹皮にはサンブニグリン（sambunigrin）などのシアン原性配糖体が含まれていることが明らかになっている。これは酵素によって加水分解されると猛毒のシアン化水素を発生させる。しかし、イタリアの伝統的な利用法においては、「果実は完熟したもののみを使用し、必ず加熱調理する」「葉や樹皮は外用に限定する」といった経験則が厳格に守られてきた。この知恵は、科学的分析が存在しなかった時代から、世代を超えた試行錯誤によって確立された安全管理プロトコルであると言える。
+
+## 古代ローマ時代におけるニワトコの受容と利用
+イタリアにおけるニワトコ利用の歴史的起源を探る上で、古代ローマ時代の文献は極めて重要な一次資料となる。特に、紀元1世紀に活動した博物学者ガイウス・プリニウス・セクンドゥス（大プリニウス、Gaius Plinius Secundus）の『博物誌（Naturalis Historia）』は、当時の植物利用の集大成であり、ニワトコに関する詳細な記述を残している。
+
+### 大プリニウス『博物誌』に見るニワトコの記述
+大プリニウスは、『博物誌』の複数の巻（特に第15巻、第24巻）においてニワトコ（Sambucus）に言及している。彼の記述からは、当時のローマ人がこの植物を単なる野生植物としてではなく、医療、美容、実用の多機能資源として認識していたことが読み取れる。
+
+####.1 薬用植物としての評価（第24巻）
+『博物誌』第24巻第35章において、プリニウスはニワトコに関する「15の治療法（Remedies）」を列挙しているとされる。
+
+* **浮腫（水腫）と利尿**: プリニウスは、ニワトコの根や樹皮、あるいは抽出液が体内の余分な水分を排出させる効果（利尿作用）を持つことを認識していた。これは現代のフィトテラピーにおいて認められている「カリウム塩やフラボノイドによる利尿作用」と一致する。  
+* **蛇の咬傷と解毒**: 興味深いことに、ニワトコの葉や根は、蛇に噛まれた際の治療薬としても記述されている。古代ローマ医学において、毒を「排出」させる機能を持つ植物は、しばしば動物の毒に対する解毒剤としても位置づけられた。  
+* **眼病と皮膚疾患**: 葉の湿布や抽出液は、目の炎症や「深刻な皮膚疾患」の緩和に用いられた。これはニワトコが持つ抗炎症作用や収れん作用に基づいていると考えられる。  
+* **カタルと呼吸器**: 粘液の排出を促す去痰作用についても触れられており、後の時代に風邪薬として定着する基礎が既に存在していた。
+
+####.2 美容と染色技術（第15巻・第24巻）
+プリニウスは第15巻において、果実の果汁（succus）の性質について詳述している。
+
+* **毛染めとしての利用**: 最も注目すべき記述の一つは、ニワトコの実（特に粘着性のある黒い果汁）が「毛染め（Hair Dye）」として利用されていたことである。ローマ社会において、白髪隠しやファッションとしての染髪は一般的であり、ニワトコは安価で入手しやすい黒色染料の供給源であった。この果汁は、加熱処理されることで定着性を高められていたとされる。  
+* **果汁の分類**: プリニウスは、果汁の色について「桑の実、サクランボ、コーネル（サンシュユ）、そして黒ブドウの果汁は血のような赤（sanguineus）である」と分類しているが、ニワトコの果汁もまた、その濃厚な色素から染色用途に適していると見なされた。
+
+####.3 楽器と日常生活
+* **サンブーカ（Sambuca）という名称**: 植物名の「Sambucus」は、ギリシャ語の「Sambuke（サンプイア）」という弦楽器、あるいは笛に由来するという説がある。実際、ローマ時代から、ニワトコの枝の柔らかい髄（ピス）をくり抜いて作られた中空の管は、笛やパイプとして利用されていた。プリニウスの時代、子供の玩具から羊飼いの笛に至るまで、この「中空の木」は音楽と密接に関わっていた。
+
+### ギリシャ医学の影響とローマ的受容
+プリニウスの記述の多くは、ヒポクラテスやディオスコリデスといったギリシャの医学的知見を継承しつつ、ローマ独自の「実学」として体系化されたものである。ヒポクラテスはニワトコを「薬箱（medicine chest）」と呼んだとされるが、ローマ人はそれをより具体的な生活技術（染料、道具、民間療法）へと落とし込んだ。例えば、かまど（Fire）の火を熾すための送風管としても、中空のニワトコの枝が使われていた記述があり、生活必需品としての性格が強かったことが窺える。
+
+## イタリアにおける魔術、民間伝承、宗教的象徴性
+ローマ帝国の崩壊後、中世から近世にかけてのイタリアにおいて、ニワトコはキリスト教以前の異教的信仰とキリスト教的価値観が混交した、複雑な象徴性を帯びるようになった。
+
+### 「魔女の木」とベネヴェントの伝説
+イタリア南部、カンパニア州のベネヴェント（Benevento）は、古来より魔女（Janara、ヤナーラ）伝説の中心地として知られている。
+
+* **ベネヴェントのクルミとニワトコ**: 伝説では、魔女たちはベネヴェントの巨大な「クルミの木（Noce di Benevento）」の下に集まりサバト（夜会）を開いたとされるが、ニワトコもまた魔女と深い関わりを持つ木とされた。  
+* **境界の植物**: ニワトコは、生と死、現実と異界の境界に立つ植物と考えられていた。シチリアや南イタリアの一部では、ニワトコの枝で作った杖や、特定の儀式で用いる道具が、魔術的な力を増幅させると信じられていた。  
+* **Janara（ヤナーラ）**: ヤナーラとは、ディアナ（Diana）女神信仰に由来するとされるナポリ・ベネヴェント地方の魔女である。彼女たちは風を操り、夜に空を飛ぶとされたが、その飛行軟膏や秘薬の材料として、ニワトコが言及されることがある。
+
+### 保護と浄化の逆説：悪を以て悪を制す
+一方で、ニワトコは「魔女を遠ざける」「家を守る」植物としても広く信仰された。これは「毒を持って毒を制す」あるいは「魔力を持つ植物こそが最強の魔除けになる」という逆説的な論理に基づいている。
+
+* **家屋の守護**: 北イタリアから南イタリアに至るまで、農家の庭先や窓辺にニワトコを植える習慣が存在した。これは、悪霊や病気が家に入り込むのを防ぐためである。特に4月の最終日（ヴァルプルギスの夜に関連）にニワトコの葉を家のドアや壁に飾ることで、悪意ある魔法から住人を守るとされた。  
+* **「開く」力**: 民族植物学的な観点から見ると、ニワトコは「開く（Opening）」力を持つ植物と定義される。発汗作用（皮膚を開く）、利尿作用（排出を開く）、去痰作用（気道を開く）といった生理学的作用が、呪術的な文脈において「体内の悪しきもの（病魔、呪い）を外部へ解放する」力として解釈されたのである。  
+* **収穫の儀礼**: デンマークやイギリスの伝承にある「ニワトコの母（Elder Mother）」への崇敬と同様に、イタリアの一部の地域でも、ニワトコを切る際には木に許しを乞う、あるいは祈りを捧げる必要があるとされた。無闇に切ることは不運を招くと恐れられたのである。
+
+### キリスト教的受容：聖なる木への転換
+キリスト教の普及に伴い、ニワトコの伝承の一部は聖書的な物語へと書き換えられた。
+
+* **裏切りの木**: 一説には、イスカリオテのユダが首を吊った木がニワトコであったとされ、またキリストの十字架がニワトコの木で作られたという伝説も存在する（ただし、これはヤマナラシなど他の木の場合もある）。これにより、ニワトコは「不吉な木」としての側面も併せ持つようになった。  
+* **聖人の加護**: しかし、シチリアのトローイナなどでは、エルダーフラワーの収穫や食品加工が守護聖人（サン・シルヴェストロ）の祝祭と結びついており、教会公認の「恵みの植物」として肯定的に受容されている。
+
+## イタリアの伝統的農産物（PAT）と地域ガストロノミー
+イタリア農林食料省（Masaf）は、25年以上地域で伝統的な製法が守られている食品を「伝統的農産物（PAT: Prodotti Agroalimentari Tradizionali）」として認定している。セイヨウニワトコは、複数の州においてこのPATリストに名を連ねる食品の主要原料となっている。
+
+### シチリア州：ヴァステッダ・ク・サンムク（Vastedda cu sammucu）
+シチリア島内陸部、エンナ県の山岳都市トローイナ（Troina）には、イタリア全土でも類を見ない、エルダーフラワーを主役とした伝統的なパン（フォカッチャ）が存在する。
+
+####.1 歴史と起源
+この食品の起源は中世後期に遡り、トローイナのサン・ミケーレ・アルカンジェロ修道院のバジリオ会修道士たちによって考案されたと伝えられている。当時、修道院は地域の農業技術と食文化の中心であり、春に野山を覆うエルダーフラワーの芳香を保存食であるパンに封じ込める知恵が生み出された。
+
+####.2 製法と特徴
+「ヴァステッダ」とはシチリア方言で平たいパンを指すが、トローイナのそれは非常にリッチな構成を持つ。
+
+* **生地**: 硬質小麦（Grano duro）の粉に、豊富な卵、ラード（Strutto）、牛乳を加えて練り上げた、ブリオッシュに近いリッチな生地を使用する。  
+* **具材（Ripieno）**: 生地の間には、スライスした「トゥマ（Tuma）」チーズ（塩漬け前のフレッシュな羊乳チーズ）と、地元のサラミ（Salame）が挟み込まれる。  
+* **エルダーフラワーの役割**: そして最も重要なのが、生地と具材に大量に混ぜ込まれるエルダーフラワー（Sammucu）である。花は房から外され、洗わずに（香りを保つため）生地に練り込まれ、さらに表面にも散らされる。  
+* **焼き上げ**: 伝統的な薪窯で焼き上げられる際、花が焦げて独特の香ばしさと甘い香りを放ち、チーズのコク、サラミの塩気と渾然一体となる。
+
+####.3 社会文化的背景：サン・シルヴェストロの祭り
+このパンは、トローイナの守護聖人である聖シルヴェストロ（San Silvestro）の祝祭（5月〜6月）に合わせて作られる季節限定の食品であった。パン職人たちは、生地をオーブンに入れる際、「*San Suvviestu beni e priestu*（聖シルヴェストロよ、良きものを、そして早く）」という祈りの言葉（呪文）を唱える伝統を持っていた。 現在、この製品はスローフード協会の「味の箱舟（Presidio Slow Food）」プロジェクトにも関与しており、地域のアイデンティティを象徴する食品として「Sagra della Vastedda cu sammucu（ヴァステッダ祭り）」が毎年開催されている。
+
+### ラツィオ州：サンブーカ・ヴェッキア・デッラ・チョチャリーア（Sambuca vecchia della Ciociaria）
+世界的に「サンブーカ（Sambuca）」と言えばアニス風味のリキュールを指すが、その名称と本来のレシピの起源を巡っては長い論争がある。ラツィオ州フロジノーネ県コレパルド（Collepardo）で作られる「サンブーカ・ヴェッキア」は、この論争に対する歴史的な回答の一つである。
+
+####.1 修道院医学とサランドレア家
+このリキュールの起源は、コレパルド近郊にある「トリズルティ修道院（Certosa di Trisulti）」の薬草園にある。エルニチ山脈（Monti Ernici）は「ケンタウロス・ケイローンの庭」と呼ばれるほど薬草が豊富な地域であり、カルトジオ会の修道士たちはここで複雑な薬草酒を製造していた。 地元のサランドレア（Sarandrea）家は、修道士たちの知識を受け継ぎ、19世紀からリキュール製造を開始した。
+
+####.2 成分と製法
+現代の一般的なサンブーカの多くがスターアニス（トウシキミ）の精油を主体とするのに対し、この伝統的なサンブーカは、**実際にエルダーフラワー（Sambucus nigraの花）の蒸留酒**をベースにしている点が決定的に異なる。
+
+* **原料**: エルダーフラワーの蒸留液、数種類のアニス（Pimpinella anisum等）、エルニチ山の湧き水、アルコール、砂糖。  
+* **特徴**: エルダーフラワー由来のフローラルな香りとアニスのスパイシーさが融合し、アルコール度数は42度と高いが、非常に滑らかである。  
+* **バチカン御用達**: その品質の高さから、1961年に教皇ヨハネ23世によってバチカン市国の供給業者としての認定を受けた歴史を持つ。
+
+####.3 「サンブーカ」の語源論争
+イタリア言語学および食文化史において、リキュール名「Sambuca」の由来には3つの主要な説がある。. **植物由来説（Sambuco）**: ルイジ・マンツィ（Luigi Manzi）が1851年にチヴィタヴェッキアで発売した際、エルダーベリーまたはエルダーフラワーを使用していたため名付けたとする説。サランドレア家の製品が実証するように、伝統的レシピには確実にニワトコが含まれていた。. **アラビア語由来説（Zammut）**: アラビア語でアニス系の飲料を指す「Zammut」がシチリア経由で伝わり、変化したとする説。. **地名・船名説**: 「Sambuco」という名の船で運ばれてきた、あるいはイスキア島の地名に由来するという説。
+
+トレッカーニ百科事典などは、植物のSambucoに由来する説（または楽器のSambucaとの混同）を支持する傾向にあるが、現在では「アニスを主とし、エルダーフラワーは（含まれる場合もあるが）副次的」という認識が一般的である。しかし、ラツィオ州のPAT認定品は「ニワトコが主役」であることを強調している。
+
+### リグーリア州：ヴィーノ・ディ・サンブーコ（Vino di sambuco）
+リグーリア州では、エルダーフラワーを用いた発酵飲料がPATに登録されている。
+
+* **別名**: 「貧者のスプマンテ（Spumante dei poveri）」や「妖精のガゾーザ（Gassosa di Fata Holda）」とも呼ばれる。  
+* **製法**: 新鮮なエルダーフラワー、レモンスライス、砂糖、少量の酢、水を大きな容器に入れ、太陽光の下で数日間自然発酵させる。その後瓶詰めし、微発泡性の低アルコール飲料として夏に消費する。  
+* **文化**: ワインが高価であった時代、農民たちが喉を潤すために野草を利用して作った「自給自足の知恵」の結晶である。
+
+### 北イタリア（アルプス地域）：フリッテッレとシロップ
+トレンティーノ＝アルト・アディジェ州やフリウリ＝ヴェネツィア・ジュリア州などの山岳地帯では、エルダーフラワーは春の到来を告げる食材として親しまれている。
+
+* **フリッテッレ（Frittelle）**: 花の房全体に衣（小麦粉、卵、牛乳、時にはビールやグラッパを加える）をつけ、油で揚げて粉砂糖を振った菓子。中世の料理書にも記述が見られるほど古くからの調理法である。  
+* **シロップ（Sciroppo）**: ドイツ語圏（Holunderblütensirup）の影響を受けた文化で、大量の花を砂糖水とレモンに漬け込んでシロップを作る。  
+* **カクテル「ウーゴ（Hugo）」**: 2005年頃に南チロルで考案されたとされる、プロセッコ、エルダーフラワーシロップ、ミント、ソーダを合わせたカクテル。今やイタリア全土、そして欧州中で人気のアペリティーボとなっているが、そのルーツはこの地域の伝統的なシロップ作りにある。
+
+## 現代イタリアにおける栽培、産業、およびEUの動向
+かつては野生採取（Foraging）が主流であったニワトコだが、近年のオーガニックブームや「スーパーフード」としての再評価を受け、組織的な栽培と産業化が進んでいる。
+
+### 栽培の現状と統計データ
+イタリア国家統計局（ISTAT）の詳細な作物別データにおいて、ニワトコ単独の統計は限定的だが、薬用植物（Piante officinali）全体の栽培面積は増加傾向にある。
+
+* **栽培地域**: 北イタリアの平野部から山麓部（ピエモンテ、ロンバルディア、ヴェネト）および、南部の特定地域（バジリカータなど）で栽培が盛んである。  
+* **FIPPOの活動**: 「イタリア薬用植物生産者連盟（FIPPO）」は、ニワトコを含むハーブ類の栽培技術の標準化や、種苗の供給を行っている。  
+* **バジリカータ州の事例**: バジリカータ州では、地域農業開発庁（ALSIA）の支援により、ニワトコ（花および実）のサプライチェーン構築プロジェクトが実施された。2010年代のデータでは、薬用植物の試験栽培においてニワトコが重点品目の一つとして扱われている。
+
+### 専門農家とマイクロエコノミー
+イタリア各地に、ニワトコに特化した、あるいは主力商品とする小規模農家（Azienda Agricola）が出現している。
+
+* **Azienda Agricola Sambuco (ウンブリア州)**: 独自のマセラシオン技術や堆肥化システムを用い、環境負荷の低い循環型農業でニワトコ製品（ジャム、シロップ等）を生産している。  
+* **Azienda Della Fara (ロンバルディア州)**: ベルガモ近郊で、花と実の両方を加工・販売している。  
+* **ピエモンテ州の協同組合**: クネオ県サンブーコ（地名自体がSambuco）周辺などでは、野生採取と栽培を組み合わせ、地元の果実加工会社やリキュールメーカーに原料を供給している。
+
+### EU市場と規制（THMPD）
+欧州連合（EU）レベルでは、エルダーフラワーは食品および医薬品の両面で重要な品目である。
+
+* **伝統生薬製剤指令（THMPD）**: 2004年の指令以降、エルダーフラワー（Sambuci flos）は欧州医薬品庁（EMA）のハーブ医薬品委員会（HMPC）によって、「風邪の初期症状の緩和」における伝統的医薬品としての使用が承認されている。これにより、イタリアを含むEU各国で、エルダーフラワーを含む製品が「医薬品」または「健康食品」として明確な法的根拠を持って流通している。  
+* **食品添加物**: エルダーベリーから抽出されるアントシアニン（E163）は、天然の着色料としてヨーグルトや飲料産業で莫大な需要があり、イタリアはその原料供給地の一つとしてのポテンシャルを持っている。
+
+## 植物化学的知見と現代医学への応用
+古代のプリニウスが「万能の薬箱」と呼んだニワトコは、現代科学によってそのメカニズムが解明されつつある。
+
+### 抗ウイルス作用と免疫調整
+現代の研究において最も注目されているのが、エルダーベリー抽出物の抗ウイルス作用である。研究により、エルダーベリーに含まれるフラボノイドが、インフルエンザウイルス（A型、B型）のヘマグルチニンタンパク質に結合し、ウイルスが宿主細胞に侵入するのを阻害する可能性が示されている。これは、イタリアの民間療法で「熱が出た時にエルダーフラワーティーを飲む」という習慣の科学的妥当性を裏付けるものである。
+
+### 「開く力」の生理学的解釈
+ベネヴェントの魔女伝説に関連して述べた「毛穴を開き、毒を出す」という呪術的概念は、生理学的には\*\*発汗作用（Diaphoretic）**および**利尿作用（Diuretic）\*\*として説明される。
+
+* **発汗**: 花に含まれる配糖体やフラボノイドが体温調節中枢に作用し、発汗を促すことで解熱を助ける。  
+* **利尿**: クエルセチンなどの成分が腎臓のろ過機能を刺激し、ナトリウムの排泄（ナトリウム利尿）を促進することで、血圧降下や浮腫の改善に寄与する。
+
+### 毒性管理の重要性
+前述の通り、未熟果や葉に含まれるシアン配糖体（サンブニグリン）のリスク管理は、現代の食品加工においても重要管理点（HCCP）となる。イタリアの伝統的なレシピ（ヴァステッダやジャム）が、必ず「加熱」や「完熟果の使用」を前提としていることは、食品安全の観点からも理に適っている。
+
+## 結論：過去と未来を繋ぐ「サンブーコ」
+イタリアにおけるセイヨウニワトコ（エルダーフラワー）は、単なる野生の灌木ではない。それは、古代ローマの博物学から中世の修道院、近世の魔女裁判、そして現代のスローフード運動に至るまで、イタリア半島の歴史の変遷を見つめ続けてきた「生き証人」である。
+
+本報告書の調査から明らかになったのは以下の点である。. **歴史的連続性**: プリニウスが記した「染毛剤」や「利尿剤」としての用途は、形を変えながら現代の美容・健康産業に受け継がれている。. **文化的深層**: ベネヴェントの魔女伝説やトローイナの聖人崇拝に見られるように、ニワトコはイタリア人の精神世界（恐れと敬い）に深く根ざしている。. **地域性（Terroir）**: シチリアの「ヴァステッダ」、ラツィオの「サンブーカ・ヴェッキア」、北部の「フリッテッレ」など、地域ごとの気候風土に合わせた多様な利用形態（PAT）が確立されている。. **産業的ポテンシャル**: 伝統的知識と現代科学（抗ウイルス作用など）の融合により、高付加価値作物としての経済的価値が再認識され、栽培化が進んでいる。
+
+欧州全体がサステナビリティと生物多様性の保全に向かう中、農薬をほとんど必要とせず、荒地でも育ち、花から実まで余すところなく利用できるニワトコは、イタリアの次世代農業において「過去からの贈り物」として、その重要性を増していくであろう。
+
+### ---
+
+**参照文献リスト（文中の引用IDに対応）**
+
+* **植物学・生態**:  
+* **古代史・プリニウス**:  
+* **民間伝承・魔術**:  
+* **伝統食品 (PAT)**:  
+* **産業・栽培**:  
+* **科学・医学**:
+
+#### 引用文献. Winter Support: Black Elderberry's History and Uses \- Marlene's Market & Deli, 2月, 2026にアクセス、 [https://www.marlenes.com/winter-support-black-elderberrys-history-and-uses](https://www.marlenes.com/winter-support-black-elderberrys-history-and-uses). Sambuco \- Coltivazioni forestali \- Agraria.org, 2月, 2026にアクセス、 [https://www.agraria.org/coltivazioniforestali/sambuco.htm](https://www.agraria.org/coltivazioniforestali/sambuco.htm). Sambuco \- 8milaCensus, 2月, 2026にアクセス、 [https://ottomilacensus.istat.it/comune/004/004204/](https://ottomilacensus.istat.it/comune/004/004204/). Tradizione, storia e folclore: la "Sagra della vastedda cu sammucu" a Troina \- Balarm, 2月, 2026にアクセス、 [https://www.balarm.it/eventi/fiere-e-mercati/tradizione-storia-e-folclore-la-sagra-della-vastedda-cu-sammucu-a-troina-43636](https://www.balarm.it/eventi/fiere-e-mercati/tradizione-storia-e-folclore-la-sagra-della-vastedda-cu-sammucu-a-troina-43636). Il Sambuco: leggende, folklore, ricette antiche e frittelle\! \- Una parola tira l'altra, 2月, 2026にアクセス、 [https://lisamolaro.wordpress.com/2020/05/12/il-sambuco-leggende-folkrore-ricette-antiche-e-frittelle/](https://lisamolaro.wordpress.com/2020/05/12/il-sambuco-leggende-folkrore-ricette-antiche-e-frittelle/). DIFFERENZA TRA SAMBUCO E EBBIO \- YouTube, 2月, 2026にアクセス、 [https://www.youtube.com/watch?v=1Z\_S9v6JGw4](https://www.youtube.com/watch?v=1Z_S9v6JGw4). Sciroppo di fiori di Sambuco | Blog Alto Adige, 2月, 2026にアクセス、 [https://www.alto-adige.com/blog/sciroppo-ai-fiori-di-sambuco](https://www.alto-adige.com/blog/sciroppo-ai-fiori-di-sambuco). Ricetta Vastedda cu' Sammucu \- Feste e Sagre in Sicilia, 2月, 2026にアクセス、 [https://www.siciliainfesta.com/ricette/vastedda\_cu\_sammucu.htm](https://www.siciliainfesta.com/ricette/vastedda_cu_sammucu.htm). Vino di sambuco PAT Liguria \- ViVi GREEN \-, 2月, 2026にアクセス、 [https://www.vivigreen.eu/blog/vino-di-sambuco-pat/](https://www.vivigreen.eu/blog/vino-di-sambuco-pat/). Focaccia al sambuco \- INTAVOLIAMO®, 2月, 2026にアクセス、 [https://www.intavoliamo.it/Info/prodotti-tipici-siciliani/focaccia-al-sambuco](https://www.intavoliamo.it/Info/prodotti-tipici-siciliani/focaccia-al-sambuco). The Enchanted Elder: Folklore, Medicine and Cultivation of Elderberry \- Vision Times, 2月, 2026にアクセス、 [https://www.visiontimes.com/2022/08/19/traditional-use-of-elderberry.html](https://www.visiontimes.com/2022/08/19/traditional-use-of-elderberry.html). The Project Gutenberg eBook of The Natural History of Pliny, Volume V., by Pliny the Elder., 2月, 2026にアクセス、 [https://www.gutenberg.org/files/60688/60688-h/60688-h.htm](https://www.gutenberg.org/files/60688/60688-h/60688-h.htm). Book XX \- PLINY THE ELDER, Natural History | Loeb Classical Library, 2月, 2026にアクセス、 [https://www.loebclassics.com/view/pliny\_elder-natural\_history/1938/pb\_LCL392.39.xml?readMode=recto](https://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.39.xml?readMode=recto). IL POTERE MAGICO DEL SAMBUCO \- Ecosalute, 2月, 2026にアクセス、 [https://ecosalute.it/blogs/notizie/il-sambuco-una-pianta-magica](https://ecosalute.it/blogs/notizie/il-sambuco-una-pianta-magica). PLINY THE ELDER, Natural History | Loeb Classical Library, 2月, 2026にアクセス、 [https://www.loebclassics.com/view/pliny\_elder-natural\_history/1938/pb\_LCL370.505.xml?readMode=recto](https://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL370.505.xml?readMode=recto). PLINY THE ELDER, Natural History | Loeb Classical Library, 2月, 2026にアクセス、 [https://www.loebclassics.com/view/pliny\_elder-natural\_history/1938/pb\_LCL370.363.xml?mainRsKey=yNDuY9](https://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL370.363.xml?mainRsKey=yNDuY9). LA LEGGENDA DELLE STREGHE DI BENEVENTO \- Benvenuti su esserealtrove\!, 2月, 2026にアクセス、 [https://www.esserealtrove.it/leggenda-streghe-benevento/](https://www.esserealtrove.it/leggenda-streghe-benevento/). Janara \- Wikipedia, 2月, 2026にアクセス、 [https://it.wikipedia.org/wiki/Janara](https://it.wikipedia.org/wiki/Janara). Il Sambuco, arbusto "magico": la porta del Re delle Fate \- YouTube, 2月, 2026にアクセス、 [https://www.youtube.com/watch?v=4aOx2phrkjY](https://www.youtube.com/watch?v=4aOx2phrkjY). A Troina è il tempo della “vastedda cu sammucu” \- ViviEnna.it, 2月, 2026にアクセス、 [https://www.vivienna.it/2013/06/18/a-troina-e-il-tempo-della-%E2%80%9Cvastedda-cu-sammucu%E2%80%9D/](https://www.vivienna.it/2013/06/18/a-troina-e-il-tempo-della-%E2%80%9Cvastedda-cu-sammucu%E2%80%9D/). Vastedda cu sammucu. Il gusto della tradizione \- EnnaVivi, 2月, 2026にアクセス、 [https://ennavivi.it/vastedda-cu-sammucu/](https://ennavivi.it/vastedda-cu-sammucu/). Vastedda cu Sammucu \- Product \- Sicily \- Enjoy Sicilia, 2月, 2026にアクセス、 [https://www.enjoysicilia.it/en/typical-products/vastedda-sammucu/](https://www.enjoysicilia.it/en/typical-products/vastedda-sammucu/). Gastronomia Siciliana | Vastedda cu Sammucu di Troina \- VivaSicilia, 2月, 2026にアクセス、 [https://www.vivasicilia.com/vastedda-con-sambuco-ricetta/](https://www.vivasicilia.com/vastedda-con-sambuco-ricetta/). 28° Sagra della vastedda cu sammucu, 2月, 2026にアクセス、 [https://sagreautentiche.it/sagre/sagra-della-vastedda-cu-sammucu-di-troina/](https://sagreautentiche.it/sagre/sagra-della-vastedda-cu-sammucu-di-troina/). Troina. La Vastedda cu sammucu diventa marchio collettivo \- ViviEnna.it, 2月, 2026にアクセス、 [https://www.vivienna.it/2012/11/30/troina-la-vastedda-cu-sammucu-diventa-marchio-collettivo/](https://www.vivienna.it/2012/11/30/troina-la-vastedda-cu-sammucu-diventa-marchio-collettivo/). SAMBUCA VECCHIA DELLA CIOCIARIA \- Arsial, 2月, 2026にアクセス、 [https://www.arsial.it/wp-content/uploads/2025/06/Sambuca\_vecchia\_della\_Ciociaria.pdf](https://www.arsial.it/wp-content/uploads/2025/06/Sambuca_vecchia_della_Ciociaria.pdf). Sambuca vecchia della Ciociaria PAT \- ViVi GREEN \-, 2月, 2026にアクセス、 [https://www.vivigreen.eu/blog/sambuca-vecchia-della-ciociaria-pat/](https://www.vivigreen.eu/blog/sambuca-vecchia-della-ciociaria-pat/). Come bere la Sambuca: origini, caratteristiche e cocktail \- Vinicum, 2月, 2026にアクセス、 [https://www.vinicum.com/blog/come-bere-la-sambuca-origini-caratteristiche](https://www.vinicum.com/blog/come-bere-la-sambuca-origini-caratteristiche). Sambuca \- Wikipedia, 2月, 2026にアクセス、 [https://en.wikipedia.org/wiki/Sambuca](https://en.wikipedia.org/wiki/Sambuca). Sambuca² \- Significato ed etimologia \- Vocabolario \- Treccani, 2月, 2026にアクセス、 [https://www.treccani.it/vocabolario/sambuca2/](https://www.treccani.it/vocabolario/sambuca2/). Sambuca \- Enciclopedia \- Treccani, 2月, 2026にアクセス、 [https://www.treccani.it/enciclopedia/sambuca\_(Enciclopedia-Italiana)/](https://www.treccani.it/enciclopedia/sambuca_\(Enciclopedia-Italiana\)/). PAT Bevande analcoliche, distillati e liquori della Regione LIGURIA \- ViVi GREEN, 2月, 2026にアクセス、 [https://www.vivigreen.eu/blog/pat-bevande-analcoliche-distillati-e-liquori-della-regione-liguria/](https://www.vivigreen.eu/blog/pat-bevande-analcoliche-distillati-e-liquori-della-regione-liguria/). E' primavera, Ulunda\! Lo spumante di Sambuco \- Casa del cibo, 2月, 2026にアクセス、 [https://www.casadelcibo.it/index.php/it/blog-di-stagione/36-maggio](https://www.casadelcibo.it/index.php/it/blog-di-stagione/36-maggio). Frittelle di fiori di sambuco it \- | www.umbriatourism.it, 2月, 2026にアクセス、 [https://www.umbriatourism.it/it/-/frittelle-di-fiori-di-sambuco](https://www.umbriatourism.it/it/-/frittelle-di-fiori-di-sambuco). Frittelle con i fiori di sambuco \- Vieni in Carnia, 2月, 2026にアクセス、 [https://www.vienincarnia.com/2025/05/19/frittelle-con-i-fiori-di-sambuco/](https://www.vienincarnia.com/2025/05/19/frittelle-con-i-fiori-di-sambuco/). Frittelle di Fiori di Sambuco \- Historical Italian Cooking, 2月, 2026にアクセス、 [https://historicalitaliancooking.home.blog/italiano/ricette/frittelle-di-fiori-di-sambuco/](https://historicalitaliancooking.home.blog/italiano/ricette/frittelle-di-fiori-di-sambuco/). Frittelle ai fiori di sambuco \- GialloZafferano Blog, 2月, 2026にアクセス、 [https://blog.giallozafferano.it/fantasiaincucina/frittelle-ai-fiori-di-sambuco/](https://blog.giallozafferano.it/fantasiaincucina/frittelle-ai-fiori-di-sambuco/). Frittelle di sambuco \- MissClaire, 2月, 2026にアクセス、 [https://www.missclaire.it/blog/frittelle-di-sambuco/](https://www.missclaire.it/blog/frittelle-di-sambuco/). Sciroppo di Fiori di Sambuco | Gustos, Alto Adige, 2月, 2026にアクセス、 [https://gustos.bz.it/bevande/succhi-di-frutta/sciroppo-ai-fiori-di-sambuco-500-ml.html](https://gustos.bz.it/bevande/succhi-di-frutta/sciroppo-ai-fiori-di-sambuco-500-ml.html). Osservatorio Economico del settore delle piante officinali \- regione ..., 2月, 2026にアクセス、 [https://agricoltura.regione.campania.it/officinali/pdf/rapporto\_osservatorio.pdf](https://agricoltura.regione.campania.it/officinali/pdf/rapporto_osservatorio.pdf). PIANO DI FORESTAZIONE URBANA ED EXTRAURBANA \- MASE, 2月, 2026にアクセス、 [https://www.mase.gov.it/portale/documents/d/guest/pnrr\_piano\_forestazione-pdf](https://www.mase.gov.it/portale/documents/d/guest/pnrr_piano_forestazione-pdf). Aziende produzione/vendita piantine e sementi \- F.I.P.P.O., 2月, 2026にアクセス、 [https://www.fippo.org/filiera/aziende-produzione-vendita-piantine-e-sementi/](https://www.fippo.org/filiera/aziende-produzione-vendita-piantine-e-sementi/). La filiera regionale erbe officinali 2000-2010 \- ERSA FVG, 2月, 2026にアクセス、 [http://www.ersa.fvg.it/export/sites/ersa/aziende/sperimentazione/Allegati\_Sperimentazione/DomenicoCerbinoAlsiaBasilicata.pdf](http://www.ersa.fvg.it/export/sites/ersa/aziende/sperimentazione/Allegati_Sperimentazione/DomenicoCerbinoAlsiaBasilicata.pdf). Sambuco « Produttori « AIAB UMBRIA \- Associazione Italiana per l'Agricoltura Biologica, 2月, 2026にアクセス、 [https://aiabumbria.com/it/produttori/sambuco-97.html](https://aiabumbria.com/it/produttori/sambuco-97.html). Sambuco (lavorazione bacche e fiori) \- Azienda Agricola Della Fara, 2月, 2026にアクセス、 [https://dellafara.com/sambuco-sambucus-nigra/](https://dellafara.com/sambuco-sambucus-nigra/). Aziende Agricole a Sambuco e dintorni \- Virgilio, 2月, 2026にアクセス、 [https://www.virgilio.it/italia/sambuco/cat/AZIENDE\_AGRICOLE.html](https://www.virgilio.it/italia/sambuco/cat/AZIENDE_AGRICOLE.html). Natural History, Volume IX: Books 33–35 by Pliny the Elder | Goodreads, 2月, 2026にアクセス、 [https://www.goodreads.com/book/show/550463.Natural\_History\_Volume\_IX](https://www.goodreads.com/book/show/550463.Natural_History_Volume_IX). Quando un bastone di sambuco ti liberava dal malocchio \- Corriere del Ticino, 2月, 2026にアクセス、 [https://www.cdt.ch/news/quando-un-bastone-di-sambuco-ti-liberava-dal-malocchio-141406](https://www.cdt.ch/news/quando-un-bastone-di-sambuco-ti-liberava-dal-malocchio-141406). Vastedda cu sammucu \- Wikipedia, 2月, 2026にアクセス、 [https://it.wikipedia.org/wiki/Vastedda\_cu\_sammucu](https://it.wikipedia.org/wiki/Vastedda_cu_sammucu)

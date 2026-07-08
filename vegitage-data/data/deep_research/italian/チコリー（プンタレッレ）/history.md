@@ -1,0 +1,137 @@
+# イタリアのチコリー（プンタレッレ）
+
+*Cichorium intybus L. var. foliosum* — キク科の「プンタレッレ」、ローマの冬の味覚
+
+---
+
+## 序論：地中海の苦味と生物多様性の象徴
+イタリアの食文化において、苦味（amaro）は単なる味覚の一部ではなく、季節の循環や土地のアイデンティティと深く結びついた文化的要素である。その中でも、学名 *Cichorium intybus L. var. foliosum* に分類される「チコリア・カタローニャ（Cicoria Catalogna）」、とりわけその花茎（tallo）を食用とする「プンタレッレ（Puntarelle）」は、ローマを中心とするラツィオ州およびプーリア州の農業史と美食史において特異な地位を占めている。
+
+本報告書は、古代エジプトやローマ時代に遡る植物学的起源から、17世紀以降の品種分化、19世紀ローマの民衆生活における位置づけ、そして現代における地理的表示保護（IGP）や伝統的特産品（PAT）としての評価に至るまで、プンタレッレの全貌を体系的に詳述するものである。特に、北米や日本など近年の普及地域を除外し、あくまでイタリア半島固有の歴史的文脈と農学的特性に焦点を絞り、この作物がどのようにして「貧者の薬草」から「美食の象徴」へと昇華したのかを分析する。
+
+## 第1章 植物学的分類と語源に見る古代の記憶
+### キク科キクニガナ属の体系と「カタローニャ」の位置づけ
+プンタレッレの母体となるチコリア・カタローニャは、キク科（Asteraceae）キクニガナ属（*Cichorium*）に属する多年生または二年生の草本植物である。この属はヨーロッパおよびアジアを原産とする6つの主要な種から構成されており、その中でも *Cichorium intybus*（チコリア・インティブス）は、極めて高い環境適応能力を持ち、栄養成長期および生殖成長期の双方において極端な気温変化に耐えうる強靭な性質を有している。
+
+イタリア国内において、*Cichorium intybus* は用途や形態によって多様な品種群に分化している。葉を食用とするラディッキオ（Radicchio）類、根をコーヒー代用品やイヌリン抽出源とする根チコリア（var. *sativum*）、そして葉と茎を食用とするカタローニャ群（var. *foliosum*）である。プンタレッレは、このカタローニャ群の中でも特に「アスパラガス・チコリア（Cicoria Asparago）」と呼ばれるサブグループに属し、花茎が肥大化してアスパラガスのような形状を呈することが植物学的な最大の特徴である。
+
+### ギリシア・ラテン語源に刻まれた形態的特徴
+「チコリア（Cicoria）」および種小名「インティブス（Intybus）」の語源は、古代地中海世界におけるこの植物の認識を雄弁に物語っている。
+
+* **Cichorium（キコリウム）:** 語源は古代ギリシア語の「キコラ（κίχορα / kíkhora）」または「キコリア（kichoria）」に由来し、畑や野原を意味する言葉と関連付けられることが多い。これは、本種が古くから自生していた野草であり、人々の生活圏のすぐ側に存在していたことを示唆している。  
+* **Intybus（インティブス）:** このラテン語名は二つの解釈がなされている。一つはギリシア語の「切る」という動詞に由来し、深く切れ込んだ葉の形状（欠刻）を表現しているという説。もう一つはラテン語の「tubus（管）」に由来し、花茎（茎）の中空構造を指しているという説である。プンタレッレの茎が中空であり、この構造ゆえに冷水にさらすと巻き上がる性質を持つことを考慮すれば、後者の説は農学的現実と極めて整合性が高い。
+
+### 古代エジプトからローマへ：薬草としての出発
+歴史的記録によれば、チコリアの利用は紀元前1550年頃の古代エジプトにまで遡ることができる。アメンホテプ1世の時代に記された医学書「エーベルス・パピルス」には、チコリアが肝臓疾患や消化不良に対する薬草として記載されており、すでに栽培作物としての地位を確立していたことがうかがえる。
+
+古代ギリシア・ローマ時代に入ると、植物学者や医師たちによる記述はより詳細となる。ローマの博物学者プリニウス（Gaius Plinius Secundus）は、その著書『博物誌（Naturalis Historia）』において、野生種（*erraticum intibum*）と栽培種を明確に区別した上で、「レタスよりも冬の寒さに強く、春分から播種が可能である」と記述している。また、医学者ガレノスもその利尿作用や肝機能への効能を高く評価しており、現代の栄養学が解明したイヌリンや苦味成分の健康効果は、経験則として古代から認識されていたのである。
+
+## 第2章 「カタローニャ」の謎とイタリアへの定着
+### 17世紀の品種改良と名称の由来
+古代から中世にかけて、チコリアは主に葉を利用する野菜、あるいは根を利用する薬用植物として扱われていたが、「カタローニャ」という特定の品種群が文献に登場し、現在の形態に近い作物が栽培され始めたのは17世紀以降と考えられている。
+
+「カタローニャ（Catalogna）」という名称の由来については、スペインの自治州であるカタルーニャ地方（Cataluña）に起源を持つとする説が有力である。当時の農業交流や領土的繋がりを通じて、イベリア半島からイタリア半島へと種子が持ち込まれた可能性が高い。しかし、イタリアに定着した後、現地の気候風土と農民による選抜育種を経て、元の品種とは異なる独自の進化を遂げたことは明白である。特に、イタリア中南部（ラツィオ、プーリア）においては、葉よりも内部の若芽（花茎）を肥大させる方向へ淘汰圧がかけられ、「プンタレッレ」という独特の青果物が誕生することとなった。
+
+### 地域による分化：葉用と茎用の分岐
+イタリア国内において、チコリア・カタローニャは大きく二つの系統に分化していった。. **葉利用型（Catalogna a foglia / da taglio）:** 主に葉を食用とするタイプ。葉は長く、緑色が濃く、苦味が強い。加熱調理（lessata e ripassata）に適しており、イタリア全土で見られるが、特に北部や中部での消費が多い。. **茎利用型（Catalogna a puntarelle / Cicoria Asparago）:** 株の中心に太い花茎（トウ）を多数形成するタイプ。これが「プンタレッレ」と呼ばれるものであり、ラツィオ州およびプーリア州が主要な生産地および消費地となっている。
+
+この分化は、各地域の食文化や気候条件に深く根差しており、次章以降で詳述するローマとプーリアの独自性を形成する基盤となった。
+
+## 第3章 ローマの冬と「チコリオーネ」の社会史
+### 19世紀ローマの民衆とジュゼッペ・ジョアッキーノ・ベッリの証言
+ローマにおいて、プンタレッレは単なる野菜以上の意味を持っている。それは冬の到来を告げる風物詩であり、日曜日の家族の食卓や祝祭的な昼食に欠かせない要素である。ローマ方言では、この巨大な株を形成する野菜を「チコリオーネ（Cicorione）」と呼び、一般的な野草のチコリアと区別して親しんできた。
+
+19世紀のローマの民衆生活を克明に記録した詩人、ジュゼッペ・ジョアッキーノ・ベッリ（Giuseppe Gioachino Belli）の作品は、当時のプンタレッレの消費形態を知る上で貴重な史料である。ベッリはプンタレッレを指して「**Insalata fatta dal tallo di cicoria presso all'insemenzire**（種ができる直前のチコリアの茎で作ったサラダ）」と表現している。
+
+この一節には、農学的・植物学的に極めて正確な観察が含まれている。
+
+* **Tallo（茎・トウ）:** 葉ではなく、花を咲かせるために伸びようとする茎を指す。  
+* **Presso all'insemenzire（種ができる直前）:** 植物が花を咲かせ種子をつける生殖成長に移行する直前、茎が最も水分を蓄え、柔らかく、苦味がマイルドになる瞬間を捉えて収穫すべきであるという、栽培技術の核心をついている。
+
+### 「スカッサトゥーラ」の儀式と調理の美学
+ローマにおけるプンタレッレの調理法は、独特の手順と道具を必要とする一種の儀式である。この作業は「スカッサトゥーラ（Scassatura）」とも呼ばれ、株から芽を外し、繊維に沿って細く裂く工程を指す。. **剥離:** 外側の硬い葉を取り除き、中心の密集した芽（プンタレッレ）を露出させる。外葉は捨てずに茹でて食べるのがローマ流の「始末の料理」である。. **細断:** 中空の芽を縦に細く裂く。伝統的には専用の格子状のワイヤーカッター（タグリア・プンタレッレ）やナイフが用いられる。. **浸水（Arricciatura）:** 裂いた芽を直ちに氷水に長時間（少なくとも1時間）浸す。この工程は物理学的・生理学的に不可欠である。浸透圧と吸水によって細胞が膨圧（turgor pressure）を高め、裂かれた繊維が外側に反り返ることで、特徴的な「カール（riccio）」形状が生まれ、食感が劇的に向上し、苦味成分の一部が水に溶け出して味がまろやかになる。
+
+この手間のかかる下処理を経て初めて、プンタレッレはローマ料理の傑作「プンタレッレ・アッラ・ロマーナ（Puntarelle alla Romana）」となる。
+
+### アダ・ボーニによるレシピの成文化
+家庭料理として口伝されてきたこの料理を、近代的なレシピとして成文化し、イタリア全土に知らしめたのは、20世紀初頭の料理研究家アダ・ボーニ（Ada Boni）の功績が大きい。彼女の著書『ローマの料理（La Cucina Romana）』（1930年）において、プンタレッレはローマを代表する冬のサラダとして紹介されている。
+
+ボーニが記録し、現在も踏襲されている古典的なソース（コンディメント）の構成は以下の通りである。
+
+* **アンチョビ（Acciughe）:** 塩蔵のカタクチイワシ。骨を取り除き、ペースト状にする。  
+* **ニンニク（Aglio）:** 叩いて潰し、香りを引き出す。  
+* **酢（Aceto）:** 高品質なワインビネガー。  
+* **オリーブオイル（Olio Extravergine）:** 潤滑油であり、風味のまとめ役。
+
+これらを乳化（emulsione）するまで激しく撹拌し、水気を切ったプンタレッレに和える。アンチョビの塩気と旨味、酢の酸味、ニンニクの辛味が、チコリア特有の苦味と融合し、完成された味覚体験を提供する。
+
+## 第4章 プーリア州における生物多様性と独自品種
+ローマと並び、プンタレッレの栽培と消費の歴史が深いのがプーリア州である。ここでは「チコリア・ディ・ガラティーナ」や「モルフェッタ」といった独自の品種が確立されており、地域ごとの生物多様性が極めて豊かである。
+
+### チコリア・ディ・ガラティーナ（Cicoria di Galatina）
+サレント半島に位置するガラティーナ（Galatina）周辺を発祥とするこの品種は、プーリアの伝統的特産品（PAT）に登録されている。
+
+* **形態:** 株は直立し、内部の芽（花茎）は非常に太く、肉厚で、「マンマルーナ（mammaluna）」という愛称で呼ばれることもある。  
+* **歴史:** 現地の農家が長年にわたり自家採種を行い、より大きく、より食感の良い個体を選抜し続けた結果、今日のような高品質な品種が固定された。  
+* **利用:** 生食だけでなく、スープやソテーなど幅広い料理に利用される。
+
+### チコリア・プンタレッレ・モルフェッテーゼ（Cicoria puntarelle molfettese）
+バーリ北方のモルフェッタ（Molfetta）、ビシェリエ、ビトントなどの沿岸地域で栽培される品種で、こちらもPATに登録されており、さらにIGP（地理的表示保護）の取得に向けた動きが進んでいる。
+
+* **形態:** ガラティーナ種に比べてやや野性味（rustica）があり、耐寒性に優れる。芽は長く伸びる傾向がある。  
+* **栽培環境:** アドリア海沿岸の塩分を含んだ土壌と気候が、独特の風味とミネラル感を与えているとされる。  
+* **経済的価値:** バーリ県だけで600ヘクタール、地域全体で1500ヘクタールの作付面積を持ち、地域経済を支える重要な作物となっている。
+
+### プーリアとローマの品種比較
+以下の表は、イタリアにおける主要なプンタレッレ品種の特性を比較したものである。
+
+| 特性 | チコリア・ディ・ガラティーナ (プーリア) | チコリア・モルフェッテーゼ (プーリア) | チコリア・ディ・ガエータ (ラツィオ) |
+| :---- | :---- | :---- | :---- |
+| **PAT登録** | あり | あり | あり |
+| **形態** | 芽が太く短い、コンパクト、肉厚 | 芽が長く、野性味がある、耐寒性強 | 芽が長く細い、繊細、優美 |
+| **食感・風味** | 非常にクリスピー、苦味と甘味のバランス | 繊維質がしっかりしている、風味豊か | 柔らかく繊細、苦味が控えめ |
+| **主な用途** | 生食、加熱調理 | 生食、加熱調理 | 主に生食（ローマ風サラダ） |
+| **栽培中心地** | サレント地方 (レッチェ県) | バーリ県北西部沿岸 | ガエータ周辺、ラツィオ南部 |
+
+特にラツィオ州の「チコリア・ディ・カタローニャ・フラスタリアータ・ディ・ガエータ（Cicoria di catalogna frastagliata di Gaeta）」は、ローマの市場で最も珍重される品種の一つであり、その形状の美しさと食感の良さから「プンタレッレの女王」とも称されうる存在である。
+
+## 第5章 農学的特性と栽培サイクル
+### 栽培暦と環境条件
+プンタレッレは冷涼な気候を好む作物であり、イタリアにおける栽培サイクルは秋から冬、早春にかけて行われる。
+
+* **播種:** 苗床への播種は5月から7月、直播きの場合は3月から9月にかけて行われる。夏期の播種は、秋から冬にかけての収穫を目指す作型において一般的である。  
+* **定植:** 本葉が出揃った後、8月から10月にかけて圃場への定植が行われる。株が大きく広がるため、条間60cm、株間35-40cm程度の広い植栽間隔（sesto d'impianto）が必要とされる。  
+* **収穫:** 早生種は9月頃から収穫可能だが、品質が最も高まるのは気温が下がる11月から翌年4月にかけてである。収穫は、外葉をかき取って継続的に収穫する方法と、株ごと掘り上げる方法があるが、プンタレッレとして市場に出荷する場合は、中心の芽が十分に発達した段階で株ごと収穫するのが一般的である。
+
+### 種子の保存と農家の役割
+プンタレッレの栽培において特筆すべき点は、多くの農家が自ら種子を採取・保存（autoproduzione）してきた歴史である。特にプーリア州においては、農家ごとの選抜によって地域特有の環境に適応したエコタイプ（ecotipi）が維持されてきた。これは遺伝的多様性の保全という観点からも極めて重要であり、近代的なF1品種が席巻する農業の中で、伝統野菜としてのアイデンティティを保つ防波堤となっている。種子の採取には、春にトウ立ちした株をそのまま残し、開花・結実させる二年生のサイクルを利用する。
+
+## 第6章 栄養学的・薬理学的考察
+### イヌリンの化学と機能
+プンタレッレを含むチコリア類の最大の特徴は、貯蔵炭水化物としてデンプンではなく「イヌリン（Inulin）」を高濃度で蓄積している点にある。イヌリンはフルクトース（果糖）が重合した多糖類であり、以下の一般式で表される。
+
+![][image1]  
+*(ここで G はグルコース、F はフルクトース、n は重合度を示す)*
+
+人間はイヌリンを分解する酵素を持たないため、摂取しても血糖値をほとんど上昇させない。このため、古くから糖尿病患者に適した食材として経験的に知られていたが、現代栄養学においては、大腸まで到達してビフィズス菌などの有益な腸内細菌の餌となる「プレバイオティクス」としての機能が注目されている。
+
+### 苦味成分と生理作用
+プンタレッレの苦味は、ラクチュシン（Lactucin）やラクチュコピクリン（Lactucopicrin）といったセスキテルペンラクトン類に由来する。これらの成分は、消化液の分泌を促進し、肝機能を活性化させる作用を持つ。また、利尿作用や緩下作用も古くから知られており、冬場の高カロリーな食事（肉料理や揚げ物）の付け合わせとしてプンタレッレが好まれるのは、味覚的な相性だけでなく、消化を助ける生理的な合理性に基づいていると言える。
+
+**栄養成分の概要（100gあたり）:**
+
+* **水分:** 90%以上  
+* **エネルギー:** 約10-23 kcal  
+* **主要ミネラル:** カリウム、カルシウム、リン、鉄  
+* **ビタミン:** ビタミンA（レチノール当量）、ビタミンC
+
+## 第7章 結論：未来へ継承される伝統
+イタリアにおけるプンタレッレの歴史は、野生の苦い草を、栽培技術と調理の知恵によって至高の食材へと変貌させた人類の創意工夫の歴史である。古代エジプトやローマの医食同源の思想に始まり、17世紀の「カタローニャ」種の導入、19世紀ローマの民衆文化との融合、そしてプーリアの農民による執念深い品種改良を経て、現在の姿が確立された。
+
+今日、プンタレッレは「PAT（伝統的特産品）」としての認定や、モルフェッタにおける「IGP（地理的表示保護）」取得の動きに見られるように、単なる野菜から文化遺産へとその価値を高めている。一方で、その栽培や「スカッサトゥーラ」という手間のかかる下処理は、現代の効率化社会においては課題ともなり得る。しかし、ローマの市場で今も変わらず行われている、氷水に浸された緑の宝石を量り売りする風景は、この作物がイタリア人の生活のリズムと味覚の記憶にいかに深く刻まれているかを証明している。
+
+プンタレッレは、過去から受け継がれた生物多様性の種子であり、未来の食卓においても、冬の厳しさを乗り越える生命力と喜びを伝え続ける存在であり続けるだろう。
+
+#### 引用文献. Cicòria \- Significato ed etimologia \- Vocabolario \- Treccani, 2月, 2026にアクセス、 [https://www.treccani.it/vocabolario/cicoria/](https://www.treccani.it/vocabolario/cicoria/). Puntarelle: benefici, ricette, storia e preparazione della cicoria più amata della cucina romana \- Enciclopedia, 2月, 2026にアクセス、 [https://enciclopediacucina.giallozafferano.it/puntarelle](https://enciclopediacucina.giallozafferano.it/puntarelle). Cicoria Catalogna \- Gruppo Brunelli, 2月, 2026にアクセス、 [https://www.gruppobrunelli.it/prodotto/cicoria-catalogna/](https://www.gruppobrunelli.it/prodotto/cicoria-catalogna/). Mangjâ e bevi : la cicoria – Il Pais | Gente della nostra terra, 2月, 2026にアクセス、 [https://www.ilpais.it/2019/03/24/mangja-e-bevi-la-cicoria/](https://www.ilpais.it/2019/03/24/mangja-e-bevi-la-cicoria/). Cichorium intybus: Traditional Uses, Phytochemistry, Pharmacology, and Toxicology \- PMC, 2月, 2026にアクセス、 [https://pmc.ncbi.nlm.nih.gov/articles/PMC3860133/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3860133/). Chicory \- Wikipedia, 2月, 2026にアクセス、 [https://en.wikipedia.org/wiki/Chicory](https://en.wikipedia.org/wiki/Chicory). Chicorium intybus, a salad ingredient ? No, first of all, it's a root \! \- Chicorée Leroux, 2月, 2026にアクセス、 [https://www.leroux.com/en/plante/chicorium-intybus-a-salad-ingredient-no-its-a-root/](https://www.leroux.com/en/plante/chicorium-intybus-a-salad-ingredient-no-its-a-root/). Puntarelle di Gaeta (Cichorium intybus) | cercatoridisemi, 2月, 2026にアクセス、 [https://www.cercatoridisemi.com/product-page/cicoria-frastagliata-di-gaeta-puntarelle-cichorium-intybus-1](https://www.cercatoridisemi.com/product-page/cicoria-frastagliata-di-gaeta-puntarelle-cichorium-intybus-1). Cicoria Catalogna a Puntarelle \- Cortobio, 2月, 2026にアクセス、 [https://www.cortobio.it/wikibio/cicoria-catalogna-a-puntarelle/](https://www.cortobio.it/wikibio/cicoria-catalogna-a-puntarelle/). Radicchio, Chicorium intybus convar. foliosum , WILD CHICORY/ Alternative Medicine, 2月, 2026にアクセス、 [https://www.stuartxchange.org/Radicchio](https://www.stuartxchange.org/Radicchio). Le puntarelle alla romana, 2月, 2026にアクセス、 [https://www.alaromana.it/puntarelle/](https://www.alaromana.it/puntarelle/). Catalogna: benefici, usi in cucina, varietà e storia della cicoria amara italiana \- Enciclopedia, 2月, 2026にアクセス、 [https://enciclopediacucina.giallozafferano.it/catalogna](https://enciclopediacucina.giallozafferano.it/catalogna). (PDF) Chicory and Endive \- ResearchGate, 2月, 2026にアクセス、 [https://www.researchgate.net/publication/225840591\_Chicory\_and\_Endive](https://www.researchgate.net/publication/225840591_Chicory_and_Endive). Catalogna e Puntarelle | cercatoridisemi, 2月, 2026にアクセス、 [https://www.cercatoridisemi.com/catalogna-e-puntarelle](https://www.cercatoridisemi.com/catalogna-e-puntarelle). Cucina Romana: le Puntarelle \- Roma Sparita, 2月, 2026にアクセス、 [https://www.romasparita.eu/storia-cultura/2519-cucina-romana-le-puntarelle](https://www.romasparita.eu/storia-cultura/2519-cucina-romana-le-puntarelle). A ROMA E NON SOLO, LE PUNTARELLE SONO LE PROTAGONISTE DELLA TAVOLA INVERNALE \- MangiareBuono, 2月, 2026にアクセス、 [https://www.mangiarebuono.it/a-roma-e-non-solo-le-puntarelle-sono-le-protagoniste-della-tavola-invernale/](https://www.mangiarebuono.it/a-roma-e-non-solo-le-puntarelle-sono-le-protagoniste-della-tavola-invernale/). Non si butta niente | Le puntarelle, da Roma alla conquista del mondo \- Linkiesta.it, 2月, 2026にアクセス、 [https://www.linkiesta.it/2024/02/puntarelle-cicoria-asparago-roma-lazio-puglia/](https://www.linkiesta.it/2024/02/puntarelle-cicoria-asparago-roma-lazio-puglia/). Imágenes de Cuchillo romano libres de derechos \- DepositPhotos, 2月, 2026にアクセス、 [https://depositphotos.com/es/photos/cuchillo-romano.html](https://depositphotos.com/es/photos/cuchillo-romano.html). La Cucina Romana book by Ada Boni \- ThriftBooks, 2月, 2026にアクセス、 [https://www.thriftbooks.com/w/la-cucina-romana\_ada-boni/7731017/](https://www.thriftbooks.com/w/la-cucina-romana_ada-boni/7731017/). Puntarelle alla romana \- EZ Rome, 2月, 2026にアクセス、 [https://www.ezrome.it/roma-da-conoscere/ricette-tipiche-romane-vini-lazio/589-puntarelle-alla-romana](https://www.ezrome.it/roma-da-conoscere/ricette-tipiche-romane-vini-lazio/589-puntarelle-alla-romana). In Cucina: Puntarelle alla Romana (Ricetta Italiana) \- Italy Segreta \- Cibo, 2月, 2026にアクセス、 [https://italysegreta.com/it/in-cucina-puntarelle-alla-romana/](https://italysegreta.com/it/in-cucina-puntarelle-alla-romana/). Le puntarelle – Enogastronomia –VisitLazio, 2月, 2026にアクセス、 [https://www.visitlazio.com/le-puntarelle/](https://www.visitlazio.com/le-puntarelle/). REGIONE PUGLIA, 2月, 2026にアクセス、 [https://www.regione.puglia.it/documents/42866/3533988/elenco+PAT+PUGLIA\_2025\_XXV\_rev.pdf/48a6fa8d-4d3f-ab66-40f4-5c8629bf88e6?version=1.0\&t=1742470938334\&download=true](https://www.regione.puglia.it/documents/42866/3533988/elenco+PAT+PUGLIA_2025_XXV_rev.pdf/48a6fa8d-4d3f-ab66-40f4-5c8629bf88e6?version=1.0&t=1742470938334&download=true). Cicoria di Galatina \- PAT Puglia, 2月, 2026にアクセス、 [https://www.patpuglia.it/it/12/Cicoria\_di\_Galatina/3\_94\_M](https://www.patpuglia.it/it/12/Cicoria_di_Galatina/3_94_M). Il Rotary di Molfetta promuove il territorio: la cicoria da valorizzare. Il successo dell'azienda Sempreverde, 2月, 2026にアクセス、 [https://www.quindici-molfetta.it/il-rotary-di-molfetta-promuove-il-territorio-la-cicoria-da-valorizzare-il-successo-dell-azienda-sempreverde\_36924.aspx](https://www.quindici-molfetta.it/il-rotary-di-molfetta-promuove-il-territorio-la-cicoria-da-valorizzare-il-successo-dell-azienda-sempreverde_36924.aspx). Subdivision of Chicories into types \- Smarties.bio, 2月, 2026にアクセス、 [https://www.smarties.bio/en-us/pages/subdivision-of-chicories-into-types](https://www.smarties.bio/en-us/pages/subdivision-of-chicories-into-types). Cicoria puntarelle molfettese \- PAT Puglia, 2月, 2026にアクセス、 [https://www.patpuglia.it/it/12/Cicoria\_puntarelle\_molfettese/4\_96\_M](https://www.patpuglia.it/it/12/Cicoria_puntarelle_molfettese/4_96_M). Bari, via libera per il marchio «cicoria puntarelle molfettese Igp» \- Gazzetta del Mezzogiorno, 2月, 2026にアクセス、 [https://www.lagazzettadelmezzogiorno.it/news/bari/1376677/bari-via-libera-per-ottenere-il-marchio-cicoria-puntarelle-molfettese-igp.html](https://www.lagazzettadelmezzogiorno.it/news/bari/1376677/bari-via-libera-per-ottenere-il-marchio-cicoria-puntarelle-molfettese-igp.html). REGIONE LAZIO \- Gazzetta Ufficiale, 2月, 2026にアクセス、 [https://www.gazzettaufficiale.it/do/atto/serie\_generale/caricaPdf?cdimg=22A0152800100010110007\&dgu=2022-03-21\&art.dataPubblicazioneGazzetta=2022-03-21\&art.codiceRedazionale=22A01528\&art.num=1\&art.tiposerie=SG](https://www.gazzettaufficiale.it/do/atto/serie_generale/caricaPdf?cdimg=22A0152800100010110007&dgu=2022-03-21&art.dataPubblicazioneGazzetta=2022-03-21&art.codiceRedazionale=22A01528&art.num=1&art.tiposerie=SG). Olive di Gaeta D.O.P | Madama Oliva, 2月, 2026にアクセス、 [https://www.madamaoliva.it/en/product/gaeta-d-o-p/](https://www.madamaoliva.it/en/product/gaeta-d-o-p/). Coltivare la catalogna, a fine maggio si semina | Valfrutta, La Natura di Prima Mano, 2月, 2026にアクセス、 [https://www.valfrutta.it/it/magazine/coltivare-catalogna](https://www.valfrutta.it/it/magazine/coltivare-catalogna). Puntarelle: varietà, come cucinarle e come coltivarle, 2月, 2026にアクセス、 [https://www.ortodacoltivare.it/ortaggi/puntarelle/](https://www.ortodacoltivare.it/ortaggi/puntarelle/). Coltivare la catalogna dalla semina alla raccolta \- Orto da coltivare, 2月, 2026にアクセス、 [https://www.ortodacoltivare.it/ortaggi/catalogna/](https://www.ortodacoltivare.it/ortaggi/catalogna/). Cicoria Catalogna Frastagliata (Cichorium intybus) | cercatoridisemi, 2月, 2026にアクセス、 [https://www.cercatoridisemi.com/product-page/cicoria-catalogna-frastagliata-cichorium-intybus](https://www.cercatoridisemi.com/product-page/cicoria-catalogna-frastagliata-cichorium-intybus)
+
+[image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAmUAAAA4CAYAAAC8AI8nAAACk0lEQVR4Xu3dP8hPURgH8EMkisHCwoBSFmRQMiCDRUKUspCEGJTVghTFINu7yCRKikGJMJCBTCbKRFGUkcRzOvf23vfkfV/T9bv5fOpb957n3u4Zn879lxIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjb2R55FfkZ+Rp5GPkQtNPW/37V4q85kuZ9sTAACGbGEab3B2RRZ0al8i55pa345ELqVy7W+R01VeN7WT7QkAAEO1KpXGZnldaMxJZZXsVl3oyflU5ne0LjT2RzbUgwAAQ7I48iHyqS5U7qd/txr1JJWmbGVdaKyLLK0HAQCGpL1lOZ2LkZn1YE/+NMfvkSXN9vZuAQBgaI6n0uy8rAsjpm7KFkVudvYBAAbtUSrNzqm6MELmpTLHH5EHqdzKzKtkkz1fBgAwKPnWX7sCNbeqjZIzqczxWLM/K3J3vAwAMGwbU2l23tWFVB6az98pa5u2Nie6B1Vy01QfP1X+1uNUjs9viLaudLYBAAYvv3E51VuXMyKfI19TWaHq27ZUGrLr1fjqah8AYNAeptL0LKsLjfWp1G/XhZ7kNz7z9Q/UhUpuGPOD/7mJ2xG5ETk44QgAgBE31e3Et6nU1taFnuSH+yebWyuv5r1I5ev+7bH5Y7fTnQcAMFJepdLA7KnGt6TyH8z8i6W+bY0cTuMN487IplTexKzNjuxO5eO275uxzUlTBgAM1KHInci1yJqJpUHITdi+ZvtN5FmnBgBAT/KKXys3aCsiVztjAAD04HJnO//LcywyvzMGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8b34DiPx+XEsUt0EAAAAASUVORK5CYII=>

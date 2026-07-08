@@ -1,0 +1,116 @@
+{
+  "id": "IT-RCP-PIZ-001",
+  "names": {
+    "local": "Pizza Margherita",
+    "japanese": "ピッツァ・マルゲリータ",
+    "english": "Pizza Margherita"
+  },
+  "origin": {
+    "country": "イタリア",
+    "region": "カンパーニャ州ナポリ",
+    "history": "1889年にナポリのピッツァイオーロ、ラファエレ・エスポジトがイタリア王妃マルゲリータ・ディ・サヴォイアのために作ったとされる。イタリア国旗の三色（赤・白・緑）を表現したピッツァで、近代ピッツァの原型とされる。"
+  },
+  "category": "ピッツァ",
+  "ingredients": [
+    {
+      "name": "ピッツァ生地",
+      "amount": "1枚分",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "トマトソース",
+      "amount": "適量",
+      "is_traditional_vegetable": true,
+      "vegetable_id": "IT-VEG-TOM-001"
+    },
+    {
+      "name": "モッツァレッラチーズ",
+      "amount": "100-150g",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "バジリコ",
+      "amount": "数枚",
+      "is_traditional_vegetable": true,
+      "vegetable_id": "IT-HRB-BAS-001"
+    },
+    {
+      "name": "オリーブオイル",
+      "amount": "少々",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "塩",
+      "amount": "少々",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    }
+  ],
+  "traditional_method": {
+    "steps": [
+      "ピッツァ生地を薄く伸ばし、円形に成形する",
+      "生地にトマトソースを薄く塗り広げる",
+      "モッツァレッラチーズを手でちぎって散らす",
+      "オリーブオイルをかけ、塩を振る",
+      "450-500℃の薪窯で90秒程度焼く",
+      "焼き上がったらバジリコの葉を散らして完成"
+    ]
+  },
+  "variations": [
+    {
+      "name": "マリナーラ",
+      "description": "チーズを使わず、トマトソース、ニンニク、オレガノ、オリーブオイルのシンプルなピッツァ"
+    },
+    {
+      "name": "マルゲリータ・エクストラ",
+      "description": "水牛のモッツァレッラチーズを使用した高級版"
+    },
+    {
+      "name": "マルゲリータ・ブファラ",
+      "description": "水牛乳から作られたモッツァレッラ・ディ・ブファラを使用"
+    }
+  ],
+  "cultural_context": {
+    "eating_style": "手で食べることが一般的。ナポリでは皿にのせてナイフとフォークで食べることもある。熱々のうちに食べるのが基本。",
+    "symbolism": "イタリア統一と王室への敬意を表す料理として誕生。赤（トマト）、白（モッツァレッラ）、緑（バジリコ）でイタリア国旗を表現し、イタリア料理の象徴的存在となった。"
+  },
+  "related_vegetables": [
+    {
+      "id": "IT-VEG-TOM-001",
+      "name": "サンマルツァーノトマト",
+      "role": "ソースの基本材料"
+    },
+    {
+      "id": "IT-HRB-BAS-001",
+      "name": "バジリコ",
+      "role": "風味付けと彩りの要素"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.pizzanapoletana.org",
+      "type": "ナポリピッツァ協会公式サイト",
+      "reliability": "high"
+    },
+    {
+      "url": "https://www.beniculturali.it",
+      "type": "イタリア文化財・文化活動・観光省",
+      "reliability": "high"
+    },
+    {
+      "url": "https://www.unesco.it",
+      "type": "ユネスコイタリア",
+      "reliability": "high"
+    }
+  ],
+  "metadata": {
+    "collected_at": "2026-01-30T12:10:13.012706+00:00",
+    "agent_version": "1.0.0",
+    "research_method": "Claude Agent SDK WebSearch",
+    "confidence_score": 0.95,
+    "needs_review": []
+  }
+}

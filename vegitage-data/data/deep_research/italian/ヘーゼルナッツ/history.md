@@ -1,0 +1,175 @@
+# イタリアのヘーゼルナッツ
+
+*Corylus avellana L.* — カバノキ科の「アヴェッラの実」
+
+---
+
+## 序論：地中海のテロワールとヘーゼルナッツの共進化
+イタリアにおけるヘーゼルナッツ（*Corylus avellana L.*）の栽培史は、単なる果樹園芸の記録を超え、地中海世界における人類と自然環境の相互作用を映し出す壮大な歴史叙事詩である。カバノキ科（Betulaceae）に属するこの落葉低木は、氷河期後のヨーロッパ大陸への再植民において先駆的な役割を果たした植物種の一つであり、特にイタリア半島においては、その多様な微気候と火山性土壌の恩恵を受け、独自の進化と文化的な定着を遂げてきた。
+
+現代のイタリアは、世界最大のヘーゼルナッツ生産国であるトルコに次ぐ第2位の地位を占めており、世界市場の約10%から15%のシェアを有している。しかし、イタリア産ヘーゼルナッツの真価は、その量的な規模にあるのではなく、数千年にわたる選抜淘汰の結果として確立された遺伝的多様性と、それを保護・育成するための厳格な地理的表示制度（DOP/IGP）によって裏打ちされた「質」の卓越性にある。ピエモンテのランゲ丘陵から、ラツィオのカルデラ湖周辺、カンパニアのイルノ渓谷、そしてシチリアのネブロディ山脈に至るまで、各地域は独自の品種（Cultivar）と栽培体系を保持しており、それらは地域の経済基盤であると同時に、文化的アイデンティティの核となっている。
+
+本報告書は、古代ローマ時代から現代のEU共通農業政策（PAC）下における産業構造に至るまで、イタリアにおけるヘーゼルナッツの歴史的展開を網羅的に分析するものである。特に、植物学的な起源、歴史的な文献に見られる象徴性、近世における加工技術の革新、そして現代の品質認証制度と化学的プロファイリングに焦点を当て、イタリア産ヘーゼルナッツがなぜ世界的な名声を獲得するに至ったのか、その多層的な要因を解明することを目的とする。
+
+## ---
+
+**第I部：古代および中世における象徴体系と初期栽培史**
+
+### 植物学的起源と語源学的考察
+ヘーゼルナッツの学名 *Corylus avellana* には、この植物とイタリア半島との不可分な関係が刻印されている。属名の *Corylus* は、果実を包む苞葉（involucre）の形状が兜に類似していることから、ギリシャ語の「korys（兜）」に由来するとされる説が有力である。一方、種小名の *avellana* は、カンパニア州のアヴェッリーノ近郊に位置する古代都市アヴェッラ（Abella/Avella）に由来する。
+
+古代ローマの博物学者プリニウス（Plinius il Vecchio, 23-79 AD）は、その著書『博物誌（Naturalis Historia）』の中で、この果実を「nux abellana（アヴェッラの実）」と記述しており、当時すでにこの地域が特筆すべき産地として認識されていたことを示している。アヴェッラという地名が植物の種名として定着した事実は、ローマ時代においてすでに野生採集の域を超えた、ある程度の管理された栽培体系、あるいは集約的な利用が存在していたことを強く示唆している。
+
+### 古代ローマとケルト文化における神聖性
+古代世界において、ヘーゼルナッツは単なる食料資源ではなく、形而上学的な力を持つ聖なる植物として扱われていた。ローマ文化圏では、ヘーゼルナッツの枝や葉は幸福と繁栄を祈願する際の贈答品として用いられ、結婚式などの祝祭儀礼において重要な役割を果たした。これは、堅い殻に守られた種子が生命の永続性や多産を象徴していたことに起因すると考えられる。ドイツ語圏においても同様に肥沃（fertility）のシンボルとされており、この象徴性は欧州全域に共通する基層文化であった。
+
+さらに、ケルト文化圏のドルイド僧にとって、ハシバミ（ヘーゼルナッツの木）は知恵とインスピレーションを司る神聖な樹木であった。聖書におけるモーセの杖、ギリシャ神話のヘルメス神が携えるカドゥケウス（二匹の蛇が巻き付いた杖）、そして水脈や鉱脈を探し当てるダウジング（Rabdomancy）の杖に至るまで、超自然的な力を行使するための道具としてヘーゼルナッツの木材が選好されてきた伝承は枚挙に暇がない。プリニウスは『博物誌』において、「我々は黄金や象牙で飾られた彫像以上に、聖なる森とその沈黙を崇拝する」と述べており、樹木信仰が根強いローマ人の精神性を伝えているが、ヘーゼルナッツもまた、そうした「聖なる森（Lucus）」を構成する重要な要素であったと推測される。
+
+### 中世修道院における農法保全と商業流通の萌芽
+ローマ帝国の崩壊後、組織的な農業技術の継承者となったのは修道院であった。ベネディクト会の戒律「祈り、かつ働け（Ora et Labora）」の下、修道士たちは写本による知識の保存だけでなく、修道院内の庭園や果樹園において実践的な農学を探求した。ヘーゼルナッツは保存性が高く、脂質とタンパク質に富むため、肉食が禁じられる四旬節などの断食期間における重要な栄養源として、修道院の敷地内で大切に維持されたと考えられる。
+
+中世後期の経済史的観点から見ると、ヘーゼルナッツは地域的な自給作物から、広域流通商品へと徐々にその性質を変えていった。特に南イタリアのナポリ王国周辺では、アラゴン家支配下において商業活動が活発化し、ナポリはプーリアやシチリアからの農産物の集散地として機能していた。当時の商業文書や関税（gabelle）の記録からは、穀物や織物と並んで、保存の効くドライフルーツやナッツ類が取引されていたことが読み取れる。ナポリの市場を経由して、南イタリアのヘーゼルナッツはイタリア半島北部、さらにはアルプスを越えて北ヨーロッパの市場へと輸出されていた可能性が高い。この時期、封建的な土地所有制度や教会の特権が生産を制約する一方で、商人階級による流通ネットワークの構築が、後の産地形成の基礎を築いたと言える。
+
+## ---
+
+**第II部：ルネサンスから近代産業への転換**
+
+### ルネサンス宮廷料理における地位の確立
+16世紀に入ると、ヘーゼルナッツは粗野な野生の木の実から、洗練された宮廷料理の食材へと昇華された。教皇ピウス5世の料理人を務めたバルトロメオ・スカッピ（Bartolomeo Scappi）が1570年に著した記念碑的料理書『オペラ（L'Opera）』には、当時の食文化の粋が記録されている。
+
+スカッピのレシピにおいて、ヘーゼルナッツを含むナッツ類は、単なる間食ではなく、複雑な調理工程を要する料理の構成要素として扱われている。例えば、肉料理の濃厚なソースにとろみとコクを与える増粘剤として、あるいは精巧な菓子のフィリング（詰め物）として、ローストしたヘーゼルナッツが活用された。当時の宴会メニューには、ビスケットやタルト、あるいは「乳の皮（capi di latte）」を用いたデザートにナッツが添えられていた記録が残っており、ヘーゼルナッツが視覚的・味覚的な豊かさを演出する高級食材としての地位を確立していたことがわかる。
+
+### ナポレオンとジャンドゥーヤ：産業化への触媒
+イタリア、特にピエモンテ州におけるヘーゼルナッツ栽培の歴史において、19世紀初頭は決定的な転換点となった。ナポレオン・ボナパルトによる大陸封鎖令（1806年）は、イギリスとその植民地からの物資輸入を厳しく制限したため、ヨーロッパ大陸ではカカオ豆が極度の不足と価格高騰に見舞われた。
+
+トリノのチョコレート職人（ショコラティエ）たちは、この危機的状況を打開するため、地元で豊富に入手可能であったヘーゼルナッツに着目した。彼らはヘーゼルナッツを焙煎し、微細なペースト状に挽いてカカオに混ぜ合わせることで、少ないカカオ量でも風味豊かな菓子を作り出すことに成功した。これが、今日世界的に知られる「ジャンドゥーヤ（Gianduja）」の誕生である。当初は代用品としての苦肉の策であったこの発明は、結果としてヘーゼルナッツの香ばしい油脂分がカカオの風味を相乗的に高めることを証明し、ピエモンテ産ヘーゼルナッツの需要を爆発的に増大させた。
+
+この需要の急増は、それまで自然林や混牧林の中に自生していたヘーゼルナッツを、経済的価値の高い換金作物として認識させ、組織的な果樹園（noccioleto）の造成を促進する強力なインセンティブとなった。野生種の利用から選抜育種による単一栽培（モノカルチャー）への移行は、この時期に本格化したと考えられ、現代のピエモンテの景観を決定づける歴史的契機となったのである。
+
+### 20世紀初頭のヴィテルボにおける産業的覚醒
+ピエモンテでの成功と並行して、ラツィオ州ヴィテルボ地域においても、20世紀初頭にはヘーゼルナッツの産業的ポテンシャルへの注目が集まっていた。第一次世界大戦直後の1919年、リンチェイ国立科学アカデミー内に設置された「食糧科学委員会」は、国内の野生植物資源の活用に関する調査を開始した。
+
+当時、イタリアの森林地帯には野生のハシバミが広く分布していたが、その正確な分布面積や生産量に関する統計データは皆無に等しかった。委員会は、食糧安全保障の観点からこれらの野生資源を体系的に管理・収穫し、油脂源やタンパク源として活用する可能性を模索した。この公的な調査と関心は、ヴィテルボ地域の農民や土地所有者に対し、ヘーゼルナッツを「森の恵み」から「農業生産物」へと転換させる意識改革を促した。1920年代から30年代にかけて、ヴィテルボの丘陵地帯では組織的な植栽が試みられ始め、現在のイタリア最大の生産地の一つとなる基盤が形成されたのである。
+
+## ---
+
+**第III部：地域特化型品質認証（DOP/IGP）とテロワールの法的保護**
+
+現代のイタリア産ヘーゼルナッツ産業を特徴づける最大の要素は、EUの品質認証制度に基づく厳格な生産管理とブランド化である。イタリアは、ピエモンテ、ラツィオ、カンパニアという三大産地に加え、シチリアにおいても独自の認証獲得に向けた動きを活発化させている。
+
+### ピエモンテ州：世界最高峰の評価とIGP規定
+**名称:** Nocciola Piemonte IGP / Nocciola del Piemonte IGP
+
+**主要品種:** Tonda Gentile Trilobata
+
+**生産地域:** クーネオ、アスティ、アレッサンドリア県のランゲ、ロエロ、モンフェッラート地域
+
+ピエモンテ産ヘーゼルナッツは、1993年にイタリア国内で最初に保護指定を受け、1996年にEUのIGP（地理的表示保護）認証を取得した（Reg. CE 1263/96）。この地域の主力品種である「トンダ・ジェンティーレ・トリロバータ（Tonda Gentile Trilobata）」は、その名の通り「丸く（Tonda）」「優しい（Gentile）」「三葉の（Trilobata）」形状を特徴とする。
+
+官能評価において、ピエモンテ産は他産地と比較して圧倒的な優位性を持つ。特に焙煎後の香りの強さと持続性、そして果肉の甘みにおいて最高評価を得ており、製菓業界、特に高級チョコレートやペーストの原料として国際的なベンチマークとなっている。生産規定書（Disciplinare）では、栽培地域の標高や土壌条件に加え、収穫後の保管方法や加工プロセスについても詳細な基準が設けられており、最終製品の品質の一貫性が保証されている。
+
+### ラツィオ州：ヴィテルボの火山が生んだDOP
+**名称:** Nocciola Romana DOP
+
+**主要品種:** Tonda Gentile Romana, Nocchione
+
+**生産地域:** ヴィテルボ県を中心とするチミーニ山地およびサバティーニ山地
+
+ラツィオ州の「ノッチョーラ・ロマーナ（Nocciola Romana）」は、2009年にDOP（特定原産地保護）として登録された。この地域の特徴は、チミーニ山とサバティーニ山という火山群に由来する肥沃な火山性土壌と凝灰岩（tufo）質の地質にある。この土壌条件は、ヘーゼルナッツの根系発達に理想的な環境を提供し、ミネラル分に富んだ果実を育む。
+
+ノッチョーラ・ロマーナの特徴は、果実の形状が球形（sub-sferoidale）であり、殻の厚みが中程度であること、そして何より種子内部の空洞が少なく、果肉が緻密でカリッとした食感（croccantezza）を持つことである。この「空洞がない」という特性は、焙煎時の熱伝導を均一にし、加工時の歩留まりを高めるため、ビスケットや焼き菓子への利用に極めて適している。
+
+2022年には生産規定の大幅な改定（Modifica non minore）が承認され、主要品種（Tonda Gentile Romana, Nocchione）の割合が従来の90%以上から80%以上へと緩和される一方で、受粉樹として地域の在来品種（Barrettona, Casamale, Rosaなど）の利用が最大20%まで認められるようになった。この改正は、単一品種栽培のリスクを低減し、地域の農業生物多様性を保全するための先進的な取り組みとして評価されている。
+
+### カンパニア州：歴史的産地ギッフォーニのIGP
+**名称:** Nocciola di Giffoni IGP
+
+**主要品種:** Tonda di Giffoni
+
+**生産地域:** サレルノ県ギッフォーニ・ヴァッレ・ピアナ周辺のイルノ渓谷およびピチェンティーニ山地
+
+カンパニア州は古代ローマのアヴェッラに遡る最も古い産地の一つであるが、現代において特に評価が高いのが「ノッチョーラ・ディ・ギッフォーニ（Nocciola di Giffoni）」である。この品種の最大の特徴は、その卓越した「剥皮性（pelabilità）」にある。焙煎した際に渋皮（perisperma）が果肉から容易に剥離するため、見た目が美しく、渋みのない純白のカーネル（仁）を得ることができる。
+
+生産規定では、剥皮率が85%以上であることが義務付けられており、さらに果実の形状が極めて球形に近いこと、果肉が白く一貫した質感を持つことが求められる。これらの特性は、工業的な大量生産ラインにおいても品質を維持しやすいため、製菓産業からの引き合いが非常に強い。歴史的にも18世紀の文献にその名が見られ、地域経済の中核を担ってきた伝統産品である。
+
+### シチリア州：ネブロディ山地の復興と新規IGPへの挑戦
+シチリア島におけるヘーゼルナッツ栽培は、メッシーナ県のネブロディ山地を中心に展開しており、栽培面積は約12,000ヘクタールに達する。しかし、シチリアの産地は長らく耕作放棄や過疎化の問題に直面してきた。
+
+近年、この状況を打破すべく、地域全体のブランド化を目指す「ノッチョーラ・ディ・シチリア（Nocciola di Sicilia）」のIGP登録プロジェクトが進行している。ネブロディ地方のヘーゼルナッツは、古代ローマ時代から続く「ファソン・ロメイン（Façon Romaine）」等の在来種が主体であり、急峻な斜面での栽培が多いため機械化が困難である反面、有機栽培や低投入農業との親和性が高い。
+
+現在、地元の生産者団体や研究機関が連携し、この品種の特異性（例えば、地滑りを防ぐ深根性や、特定の栄養成分）を科学的に証明し、差別化を図る取り組みが行われている。具体的には、スローフード協会と連携したニュートラシューティカル（機能性食品）としての延べ棒（バー）の開発など、伝統と革新を融合させたアプローチが採られている。
+
+## ---
+
+**第IV部：科学的アプローチによる品質特性の解明**
+
+現代のヘーゼルナッツ産業において、品質の定義は主観的な「美味しさ」から、科学的なデータに基づく「成分特性」へと進化している。
+
+### 脂質プロファイルと化学組成
+ヘーゼルナッツの果実は約60%が脂質で構成されており、その脂肪酸組成や微量成分は風味や保存性に決定的な影響を与える。2023年に発表された比較研究では、イタリアの主要品種（ピエモンテ、ローマ、ギッフォーニ）の脂質プロファイル（リピドミクス）が詳細に分析された。
+
+| 分析対象化合物 | ピエモンテ (Nocciola Piemonte) | ローマ (Nocciola Romana) | ギッフォーニ (Nocciola di Giffoni) | 科学的意義 |
+| :---- | :---- | :---- | :---- | :---- |
+| **l-PE (16:0)** | 検出 (+) | 検出 (+) | 検出 (+) | 細胞膜構成成分。品種間の微妙な差異が加工適性に影響。 |
+| ,10-DHSA** | 検出 (+) | 検出 (+) | 検出 (+) | 酸化安定性に関連する脂肪酸誘導体。 |
+| **DGMG (18:1)** | \- | \- | \- | 特定の糖脂質。品種識別マーカーとしての可能性。 |
+
+この研究は、各DOP/IGP品種が遺伝的に異なるだけでなく、栽培環境（テロワール）によって独自の代謝プロファイルを持っていることを示唆している。例えば、オレイン酸の含有率が高い品種は酸化安定性が高く、長期保存や加工後の品質維持（ランシッド化の遅延）に優れているとされる。
+
+### 官能評価パネルテストによる比較
+専門のテイスターによる官能評価（Sensory Analysis）の結果は、各品種の市場における適性を如実に表している。
+
+* **甘味とアロマ:** ピエモンテ産（Tonda Gentile Trilobata）は、生の状態および焙煎後の両方において、最も強い甘味と香りの複雑性を示した。特に「フルーツ感」や「キャラメル香」といったポジティブな属性が強く、苦味や渋味は極めて低い。  
+* **テクスチャー:** ローマ産は「硬さ（hardness）」と「クリスピーさ（crispiness）」のバランスが良く、クッキーや焼き菓子に混ぜ込んだ際に存在感を保つ特性がある。  
+* **総合評価:** ある研究における総合嗜好度スコアでは、ピエモンテ産が65点で首位、次いでギッフォーニ産が60点と続き、これらはトルコ産や他のイタリア品種（サン・ジョヴァンニ等）を大きく引き離している。
+
+## ---
+
+**第V部：現代の生産構造と経済ダイナミクス**
+
+### 「砂時計型」サプライチェーンとフェレロの影響力
+イタリアのヘーゼルナッツ産業構造は、しばしば「砂時計（Clessidra）」に例えられる。上部には数万軒に及ぶ小規模な生産農家が存在し、下部には最終製品を消費する数億人の消費者がいる。しかし、その中間にある「くびれ」の部分、すなわち加工・流通を担う業者はごく少数に集約されている。
+
+この構造の中心に位置するのが、世界的な製菓企業フェレロ（Ferrero）である。同社はイタリア国内のヘーゼルナッツ需要の大部分を牽引しており、その調達戦略はイタリアの農業地図を書き換えるほどの影響力を持っている。近年、フェレロは「Progetto Nocciola Italia（イタリア・ヘーゼルナッツ・プロジェクト）」を立ち上げ、従来の主要産地（ピエモンテ、ラツィオ、カンパニア）以外への栽培拡大を推進している。
+
+このプロジェクトでは、マルケ州やウンブリア州などの新たな地域に対し、2037年までの長期買取契約や、生産コストに連動した最低価格保証を提示している。これは、農家にとっては初期投資回収のリスクを低減できるメリットがあり、企業にとってはトルコ一国に依存する供給リスクを分散し、ブランド価値の高い「イタリア産100%」の原料を安定確保する狙いがある。
+
+### 生産統計と国際競争力
+ISMEA（農畜産食品市場サービス機構）およびFAOの統計データに基づくと、イタリアとトルコの生産構造には明確な差異が見られる。
+
+| 指標（2010年代平均） | イタリア | トルコ | 比較分析 |
+| :---- | :---- | :---- | :---- |
+| **年間成長率（生産量）** | \+4.3% | \+13.4% | トルコの急成長に対し、イタリアは緩やか。 |
+| **単位収量 (t/ha)** |.63 |.31 | イタリアは土地生産性が高く、集約的農業が進んでいる。 |
+| **栽培面積推移** | 横ばい/微増 | 大幅増 | イタリアは新規植栽地と放棄地の相殺傾向。 |
+
+イタリアの強みは、高い単位収量と品質にあるが、労働コストの高さや地形的制約による機械化の限界が課題となっている。特にシチリアなどの急傾斜地では、収穫の機械化が困難であり、これが耕作放棄の一因となっている。
+
+### EU共通農業政策（PAC 2023-2027）による支援
+2023年から開始された新しいPAC（共通農業政策）期間において、ヘーゼルナッツは重要な支援対象となっている。
+
+* **結合所得支援（Sostegno accoppiato al reddito）:** 特定の重要作物に対する直接支払い制度において、ヘーゼルナッツを含む「殻付き果実（Frutta a guscio）」セクターが対象となっている。例えばラツィオ州の計画では、DOP/IGP認証を持つ、あるいは生産者組織に属する農家に対し、ヘクタール当たり数百ユーロ（例：600ユーロ/ha）の追加支援が設定されている。  
+* **エコ・スキーム（Eco-schemi）:** 環境負荷を低減する農法（草生栽培、有機農業、統合的病害虫管理など）を採用する農家に対し、追加の補助金が支払われる。これは、土壌流出の防止や生物多様性の確保といった、ヘーゼルナッツ果樹園が持つ多面的機能を評価するものである。
+
+## ---
+
+**第VI部：持続可能性への課題と未来展望**
+
+### 気候変動とフェノロジー（生物季節）の不一致
+ヘーゼルナッツは気候変動に対して極めて敏感な作物である。その開花・受粉期は冬（12月〜2月）に当たるため、近年の気候変動による暖冬とその後の晩霜（遅霜）は、花芽の壊死や受粉不良を引き起こし、収穫量を劇的に減少させるリスクがある。また、夏の干ばつと高温は、果実の肥大を阻害し、「空洞果」の発生率を高める要因となる。灌漑設備の導入や、乾燥・高温に耐性のある品種の選抜が急務となっている。
+
+### 新興病害虫との闘い：クサギカメムシ
+現在、イタリアのヘーゼルナッツ農家を最も悩ませているのが、外来害虫である「クサギカメムシ（Halyomorpha halys）」および在来のカメムシ類（Cimiciato）による被害である。これらの害虫は果実が形成される初期段階で吸汁し、仁を変形させたり、苦味のある物質を残したりして、商品価値を著しく損なう（Cimiciato damage）。
+
+これに対し、化学農薬の散布だけでなく、天敵昆虫（サムライコマユバチなど）を利用した生物的防除（Biocontrol）の研究が進められている。シチリアでは、地域内に「バイオファクトリー（Biofabbrica）」を設置し、天敵昆虫を増殖させて農地に放つプロジェクトが検討されており、環境負荷の低い持続可能な防除体系の構築が目指されている。
+
+### 結論：伝統と革新の融合
+イタリアのヘーゼルナッツ産業は、古代からの伝統、多様なテロワール、そして現代の科学技術と政策支援が複雑に絡み合った高度なシステムである。ローマ時代の「アヴェッラの実」から始まった旅は、ピエモンテの洗練された菓子文化を経て、現代のグローバル市場におけるプレミアム・ブランドへと進化した。
+
+今後、気候変動や国際競争の激化といった課題に直面する中で、イタリアが選択すべき道は、DOP/IGP制度による品質の差別化をさらに推し進めると同時に、PACの支援を活用して環境耐性の高い持続可能な生産システムを構築することであろう。ネブロディ山地での新たなIGPへの挑戦や、ヴィテルボにおける生物多様性への配慮、そしてフェレロによる新産地形成の試みは、この数千年の歴史を持つ作物が、依然として進化の途上にあることを力強く証明している。
+
+---
+
+**免責事項:** 本報告書は提供された調査資料に基づき作成されたものであり、引用されたデータや事実は出典元 に準拠しています。農業政策や規制の詳細は最新のEU官報等で確認されることを推奨します。
+
+#### 引用文献. Nocciola italiana, un gioiello tra dolce e salato \- Eventi Culturali Magazine, 2月, 2026にアクセス、 [https://www.eventiculturalimagazine.com/arte-e-cultura/nocciola-italiana-un-gioiello-dolce-salato/](https://www.eventiculturalimagazine.com/arte-e-cultura/nocciola-italiana-un-gioiello-dolce-salato/). Scheda IPFI, Acta Plantarum Corylus\_avellana, 2月, 2026にアクセス、 [https://www.actaplantarum.org/flora/flora\_info.php?id=2303\&nnn=Corylus%20avellana](https://www.actaplantarum.org/flora/flora_info.php?id=2303&nnn=Corylus+avellana). la filiera corilicola in italia \- Ismea Mercati, 2月, 2026にアクセス、 [https://www.ismeamercati.it/flex/cm/pages/ServeAttachment.php/L/IT/D/7%252F5%252F0%252FD.961a686b1fe420d3cad9/P/BLOB%3AID%3D5527/E/pdf?mode=inline](https://www.ismeamercati.it/flex/cm/pages/ServeAttachment.php/L/IT/D/7%252F5%252F0%252FD.961a686b1fe420d3cad9/P/BLOB%3AID%3D5527/E/pdf?mode=inline). Progetto Nocciola Italia, Ferrero investe anche nelle Marche \- Myfruit.it, 2月, 2026にアクセス、 [https://www.myfruit.it/news/progetto-nocciola-italia-ferrero-investe-anche-nelle-marche-11725-2019-11-07](https://www.myfruit.it/news/progetto-nocciola-italia-ferrero-investe-anche-nelle-marche-11725-2019-11-07). ”Quam lucos et in iis silentia ipsa adoramus” Gaius Plinius Secundus ”adoriamo i boschi sacri e, in questi boschi, il silenzio”…. Plinio il vecchio \- Francesco Dal Pino, 2月, 2026にアクセス、 [https://francescodalpino.org/2019/07/28/quam-lucos-et-in-iis-silentia-ipsa-adoramus-gaius-plinius-secundus-adoriamo-i-boschi-sacri-e-in-questi-boschi-il-silenzio-plinio-il-vecchio/](https://francescodalpino.org/2019/07/28/quam-lucos-et-in-iis-silentia-ipsa-adoramus-gaius-plinius-secundus-adoriamo-i-boschi-sacri-e-in-questi-boschi-il-silenzio-plinio-il-vecchio/). Tag: Plinio il Vecchio \- vinoestoria \- WordPress.com, 2月, 2026にアクセス、 [https://vinoestoria.wordpress.com/tag/plinio-il-vecchio/](https://vinoestoria.wordpress.com/tag/plinio-il-vecchio/). Monaci, agricoltura e tecnologie alimentari nel Medioevo (Silvia Testa), 2月, 2026にアクセス、 [https://www.abbaziecistercensi.it/index.php/approfondimenti/96-monaci-agricoltura-e-tecnologie-alimentari-nel-medioevo-silvia-testa](https://www.abbaziecistercensi.it/index.php/approfondimenti/96-monaci-agricoltura-e-tecnologie-alimentari-nel-medioevo-silvia-testa). Introduzione \- Firenze University Press, 2月, 2026にアクセス、 [https://media.fupress.com/files/pdf/16/2521/5646](https://media.fupress.com/files/pdf/16/2521/5646). A Renaissance Recipe: Bartolomeo Scappi's Fruit-Filled Cinnamon Twists, 2月, 2026にアクセス、 [https://blog.crystalking.com/a-renaissance-recipe-bartolomeo-scappis-fruit-filled-cinnamon-twists](https://blog.crystalking.com/a-renaissance-recipe-bartolomeo-scappis-fruit-filled-cinnamon-twists). Pranzo rinascimentale di agosto di Bartolomeo Scappi parte 1/3\#ricettemedievali \#cucinamedievale \- YouTube, 2月, 2026にアクセス、 [https://www.youtube.com/shorts/GzS7Nk6B3b0](https://www.youtube.com/shorts/GzS7Nk6B3b0). Il gianduiotto di Napoleone \- Chirone \- Edizioni del Capricorno, 2月, 2026にアクセス、 [https://www.edizionidelcapricorno.it/chirone/storia/il-gianduiotto-di-napoleone/](https://www.edizionidelcapricorno.it/chirone/storia/il-gianduiotto-di-napoleone/). Nascita ed evoluzione della Corilicoltura nella Provincia di Viterbo (1923 – 2023\) \- Rivista di Agraria.org, 2月, 2026にアクセス、 [https://www.rivistadiagraria.org/articoli/anno-2025/nascita-ed-evoluzione-della-corilicoltura-nella-provincia-viterbo-1923-2023/?print=print](https://www.rivistadiagraria.org/articoli/anno-2025/nascita-ed-evoluzione-della-corilicoltura-nella-provincia-viterbo-1923-2023/?print=print). Disciplinare \- Consorzio Tutela Nocciola Piemonte I.G.P., 2月, 2026にアクセス、 [https://www.nocciolapiemonte.it/disciplinare/](https://www.nocciolapiemonte.it/disciplinare/). Prodotti tipici italiani: Nocciola del Piemonte IGP \- Agraria.org, 2月, 2026にアクセス、 [https://www.agraria.org/prodottitipici/nocciola-del-piemonte.htm](https://www.agraria.org/prodottitipici/nocciola-del-piemonte.htm). Nocciola Piemonte IGP \- INOQ, 2月, 2026にアクセス、 [https://inoq.it/certificazioni/certificazioni-dop-igp/prodotti-vegetali-freschi-e-trasformati/nocciola-piemonte-igp](https://inoq.it/certificazioni/certificazioni-dop-igp/prodotti-vegetali-freschi-e-trasformati/nocciola-piemonte-igp). ministero delle politiche agricole alimentari, forestali e del turismo \- Gazzetta Ufficiale, 2月, 2026にアクセス、 [https://www.gazzettaufficiale.it/atto/serie\_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2019-02-20\&atto.codiceRedazionale=19A01058\&elenco30giorni=false](https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2019-02-20&atto.codiceRedazionale=19A01058&elenco30giorni=false). NOCCIOLA PIEMONTE IGP: ECCO LE “PROVE” PER DIRE CHE E' LA PIU' BUONA DEL MONDO, 2月, 2026にアクセス、 [https://nocciolare.it/wp-content/uploads/2016/03/2-Ricerca-Centro-Studi-Assaggiatori-ok-1.pdf](https://nocciolare.it/wp-content/uploads/2016/03/2-Ricerca-Centro-Studi-Assaggiatori-ok-1.pdf). 12-8-2009 DISCIPLINARE DI PRODUZIONE DELLA DENOMINAZIONE DI ORIGINE PROTETTA “NOCCIOLA ROMANA” ART.1 DENOMINAZIONE La Denom \- Gazzetta Ufficiale, 2月, 2026にアクセス、 [https://www.gazzettaufficiale.it/do/atto/serie\_generale/caricaPdf?cdimg=09A0933100100010110001\&dgu=2009-08-12\&art.dataPubblicazioneGazzetta=2009-08-12\&art.codiceRedazionale=09A09331\&art.num=1\&art.tiposerie=SG](https://www.gazzettaufficiale.it/do/atto/serie_generale/caricaPdf?cdimg=09A0933100100010110001&dgu=2009-08-12&art.dataPubblicazioneGazzetta=2009-08-12&art.codiceRedazionale=09A09331&art.num=1&art.tiposerie=SG). Nocciola Romana Dop, approvate le variazioni al disciplinare \- Arsial, 2月, 2026にアクセス、 [https://www.arsial.it/2022/04/07/nocciola-romana-dop-approvate-le-variazioni-al-disciplinare/](https://www.arsial.it/2022/04/07/nocciola-romana-dop-approvate-le-variazioni-al-disciplinare/). C\_2021491IT.01001501.xml \- EUR-Lex, 2月, 2026にアクセス、 [https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:52021XC1207(02)](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:52021XC1207\(02\)). DISCIPLINARE DI PRODUZIONE DELLA INDICAZIONE GEOGRAFICA PROTETTA "NOCCIOLA DI GIFFONI" Art.l DENOMINAZIONE \- Masaf, 2月, 2026にアクセス、 [https://www.masaf.gov.it/flex/cm/pages/ServeAttachment.php/L/IT/D/3%252F9%252F5%252FD.338978a5e90041a5d28b/P/BLOB%3AID%3D3343/E/pdf?mode=download](https://www.masaf.gov.it/flex/cm/pages/ServeAttachment.php/L/IT/D/3%252F9%252F5%252FD.338978a5e90041a5d28b/P/BLOB%3AID%3D3343/E/pdf?mode=download). Pubblicazione di una domanda di registrazione ai sensi dell'articolo, paragrafo, lettera a), del regolamento (UE) \- EUR-Lex, 2月, 2026にアクセス、 [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2013:286:0007:0011:IT:PDF](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2013:286:0007:0011:IT:PDF). Frutta in guscio \- Ultime dal settore \- Nocciole: cresce la superficie investita e la produzione, 2月, 2026にアクセス、 [https://www.ismeamercati.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/6473](https://www.ismeamercati.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/6473). La storia della Sicilia racchiusa in una nocciola... \- Gli Scomunicati, 2月, 2026にアクセス、 [https://www.gliscomunicati.it/2020/07/29/la-storia-della-sicilia-racchiusa-in-una-nocciola/](https://www.gliscomunicati.it/2020/07/29/la-storia-della-sicilia-racchiusa-in-una-nocciola/). Nocciola di Sicilia, verso il riconoscimento Igp, 2月, 2026にアクセス、 [https://nocciolare.it/turismo-e-specialita/nocciola-di-sicilia-verso-il-riconoscimento-igp](https://nocciolare.it/turismo-e-specialita/nocciola-di-sicilia-verso-il-riconoscimento-igp). Avviata la procedura per la Nocciola di Sicilia Igp, 2月, 2026にアクセス、 [https://nocciolare.it/turismo-e-specialita/nocciola-di-sicilia-igp-procedura-riconoscimento](https://nocciolare.it/turismo-e-specialita/nocciola-di-sicilia-igp-procedura-riconoscimento). Raccuja – Riconoscimento IGP della nocciola di Sicilia. Significativa la partecipazione dei produttori | Gioiosatoday Notizie, 2月, 2026にアクセス、 [https://www.gioiosatoday.it/2025/03/03/raccuja-riconoscimento-igp-della-nocciola-di-sicilia-e-significativa-partecipazione-dei-produttori/](https://www.gioiosatoday.it/2025/03/03/raccuja-riconoscimento-igp-della-nocciola-di-sicilia-e-significativa-partecipazione-dei-produttori/). Corylus avellana “Nocciola Piemonte”: metabolomics focused on polar lipids and phenolic compounds in fresh and roasted hazelnuts \- NIH, 2月, 2026にアクセス、 [https://pmc.ncbi.nlm.nih.gov/articles/PMC10598857/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10598857/). LA FILIERA CORILICOLA IN ITALIA \- Unaproa, 2月, 2026にアクセス、 [http://www.unaproa.com/upload/filesoci/13553071563\_-\_SARDO\_-\_Filiera\_corilicola\_in\_Italia.pdf](http://www.unaproa.com/upload/filesoci/13553071563_-_SARDO_-_Filiera_corilicola_in_Italia.pdf). Sostegni accoppiati per le superfici \- Agricoltura Regione Emilia-Romagna, 2月, 2026にアクセス、 [https://agricoltura.regione.emilia-romagna.it/pac-2023-2027/pagamenti-diretti/sostegno-accoppiato-al-reddito/sostegni-accoppiati-per-le-superfici](https://agricoltura.regione.emilia-romagna.it/pac-2023-2027/pagamenti-diretti/sostegno-accoppiato-al-reddito/sostegni-accoppiati-per-le-superfici). Complemento per lo Sviluppo Rurale(CSR) del Piano Strategico Nazionale PAC 2023/2027 per la Regione Lazio, 2月, 2026にアクセス、 [https://www.regione.lazio.it/sites/default/files/documentazione/AGC-DD-G15575-22-11-2023-Avviso.pdf](https://www.regione.lazio.it/sites/default/files/documentazione/AGC-DD-G15575-22-11-2023-Avviso.pdf). La nuova Pac in sintesi. Tutte le novità da sapere, spiegate bene \- AgroNotizie, 2月, 2026にアクセス、 [https://agronotizie.imagelinenetwork.com/agricoltura-economia-politica/2023/03/27/la-nuova-pac-in-sintesi-tutte-le-novita-da-sapere-spiegate-bene/78251](https://agronotizie.imagelinenetwork.com/agricoltura-economia-politica/2023/03/27/la-nuova-pac-in-sintesi-tutte-le-novita-da-sapere-spiegate-bene/78251). PAC 2023-2027 | Confagricoltura Padova, 2月, 2026にアクセス、 [https://www.confagricolturapadova.it/wp-content/uploads/2023/02/slide-pac-2023-2027-Cavestro.pdf](https://www.confagricolturapadova.it/wp-content/uploads/2023/02/slide-pac-2023-2027-Cavestro.pdf). La Nocciola dei Nebrodi punta al riconoscimento Igp \- ilSicilia.it, 2月, 2026にアクセス、 [https://ilsicilia.it/la-nocciola-dei-nebrodi-punta-al-riconoscimento-igp/](https://ilsicilia.it/la-nocciola-dei-nebrodi-punta-al-riconoscimento-igp/)

@@ -1,0 +1,142 @@
+{
+  "id": "IT-RCP-PIZ-001",
+  "names": {
+    "local": "Pizza Margherita",
+    "japanese": "ピッツァ・マルゲリータ",
+    "english": "Pizza Margherita"
+  },
+  "origin": {
+    "country": "イタリア",
+    "region": "カンパニア州ナポリ",
+    "history": "18世紀から19世紀にかけてナポリで発展。1889年に職人ラファエレ・エスポジトがマルゲリータ王妃に献上し、イタリア国旗の色（赤・白・緑）を模したことから命名されたという逸話が有名。"
+  },
+  "category": "一品料理 / ストリートフード / 焼き物",
+  "ingredients": [
+    {
+      "name": "軟質小麦粉 (Tipo '00' または '0')",
+      "amount": "生地ベース",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "水 (pH6-7, 20-22℃)",
+      "amount": "適量",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "海塩",
+      "amount": "適量",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "酵母 (生ビール酵母または天然酵母)",
+      "amount": "適量",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "サン・マルツァーノ・トマト (DOP) または ピエンノロ・トマト (DOP)",
+      "amount": "適量 (ソース)",
+      "is_traditional_vegetable": true,
+      "vegetable_id": null
+    },
+    {
+      "name": "モッツァレラチーズ (STG または 水牛DOP)",
+      "amount": "適量",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "新鮮なバジル",
+      "amount": "数枚",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "エクストラ・ヴァージン・オリーブオイル",
+      "amount": "適量",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    }
+  ],
+  "traditional_method": {
+    "steps": [
+      "小麦粉、水、塩、酵母を混ぜ合わせ、低速で練り上げる。",
+      "第1次発酵の後、200g-280g程度のボール状に分割し、さらに第2次発酵を行う（合計8時間以上）。",
+      "麺棒を使わず、手だけで生地を内側から外側へ押し広げ、縁（コルニチョーネ）を作る。",
+      "トマトソースを螺旋状に塗り、モッツァレラ、バジル、オリーブオイルをトッピングする。",
+      "約485℃の薪窯（Forno a legna）に入れ、60秒〜90秒の短時間で焼き上げる。"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Pizza Margherita Extra",
+      "description": "カンパニア産水牛モッツァレラ (Mozzarella di Bufala Campana DOP) を使用した高級版。"
+    },
+    {
+      "name": "Pizza Marinara",
+      "description": "チーズを使用せず、トマト、ニンニク、オレガノ、オイルのみで作る伝統的なナポリピッツァ。"
+    },
+    {
+      "name": "Pizza a portafoglio",
+      "description": "ストリートフードとして、4つ折りに畳んで歩きながら食べるスタイル。"
+    }
+  ],
+  "cultural_context": {
+    "eating_style": "店舗ではナイフとフォークを使用するが、手で食べても良い。屋台では4つ折り（財布状）にして食べる。",
+    "symbolism": "トマトの赤、モッツァレラの白、バジルの緑がイタリア国旗を象徴する。ユネスコ無形文化遺産に「ナポリのピッツァ職人の技」が登録されている。"
+  },
+  "related_vegetables": [
+    {
+      "id": "IT-VEG-TOM-001",
+      "name": "Pomodoro San Marzano dell'Agro Sarnese-Nocerino DOP",
+      "role": "ソースの主原料（伝統的指定品種）"
+    },
+    {
+      "id": "IT-VEG-TOM-002",
+      "name": "Pomodorino del Piennolo del Vesuvio DOP",
+      "role": "ソースの主原料（伝統的指定品種）"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32010R0097",
+      "type": "EU法規 (Regolamento UE n. 97/2010)",
+      "reliability": "high"
+    },
+    {
+      "url": "https://www.pizzanapoletana.org/public/pdf/disciplinare%202008%20UK.pdf",
+      "type": "業界団体公式規定 (AVPN)",
+      "reliability": "high"
+    },
+    {
+      "url": "https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/3340",
+      "type": "政府機関公式サイト (イタリア農業食料森林政策省)",
+      "reliability": "high"
+    },
+    {
+      "url": "https://www.qualigeo.eu/prodotti/pizza-napoletana-stg/",
+      "type": "イタリア食品認証データベース",
+      "reliability": "high"
+    },
+    {
+      "url": "https://ich.unesco.org/en/RL/art-of-neapolitan-pizzaiuolo-00722",
+      "type": "国際機関 (UNESCO)",
+      "reliability": "high"
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/pizza/",
+      "type": "イタリア百科事典",
+      "reliability": "high"
+    }
+  ],
+  "metadata": {
+    "collected_at": "2026-01-30T11:32:43.030880+00:00",
+    "agent_version": "1.0.0",
+    "research_method": "Gemini API (gemini-3-pro-preview) + Google Search",
+    "confidence_score": 0.95,
+    "needs_review": []
+  }
+}

@@ -1,0 +1,192 @@
+# イタリア野菜図鑑 カテゴリ分類（植物分類学ベース）
+# build.py はこのファイルを読んで一覧ページを科（family）ごとにグループ化する。
+# crops に載せた順序ではなく、作物の短縮名（short_name）でカード内は並び替えられる。
+# ここに列挙されていない作物は「その他」セクションに自動で集められる。
+#
+# 分類は現代の APG IV 体系に準拠する。
+
+categories:
+  - key: brassicaceae
+    label: アブラナ科
+    description: Brassicaceae — カブやキャベツの仲間。冷涼な気候を好み、地中海から世界中の食卓に広がった野菜群。
+    crops:
+      - カブ
+      - チーマ・ディ・ラーパ
+      - カーボロネロ、ケール
+      - クレソン
+      - ルッコラ
+      - 結球キャベツ
+      - ラディッシュ
+      - コールラビ
+      - カリフラワー
+      - ブロッコリー
+
+  - key: asteraceae
+    label: キク科
+    description: Asteraceae — チコリーやレタスなどの仲間。ほろ苦さと食感の多様性が地中海食を支える。
+    crops:
+      - エンダイブ
+      - タンポポ
+      - チコリー
+      - チコリー緑及び白
+      - チコリー（プンタレッレ）
+      - チコリー（ラディッキオ）
+      - レタス
+      - サルシフィ
+      - カルドン
+      - アーティチョーク
+
+  - key: solanaceae
+    label: ナス科
+    description: Solanaceae — トマトやナスなど、新大陸からもたらされた夏野菜の主役たち。
+    crops:
+      - トマト
+      - ナス
+      - ピーマン
+      - ペペロンチーノ
+
+  - key: cucurbitaceae
+    label: ウリ科
+    description: Cucurbitaceae — カボチャ、キュウリ、ズッキーニ、メロンなどの蔓性作物。
+    crops:
+      - カボチャ
+      - キュウリ
+      - ズッキーニ
+      - メロン
+
+  - key: apiaceae
+    label: セリ科
+    description: Apiaceae — 人参やセロリ、フェンネルなどの芳香植物群。根・茎・葉・種それぞれが料理に使われる。
+    crops:
+      - 人参
+      - パースニップ
+      - セルリアック
+      - セロリ
+      - フェンネル
+      - イタリアンパセリ
+
+  - key: fabaceae
+    label: マメ科
+    description: Fabaceae — 豆類。地中海食における重要な蛋白源であり、輪作の主軸でもある。
+    crops:
+      - インゲン
+      - エンドウマメ
+      - サヤインゲン
+      - ソラマメ
+      - ヒヨコマメ
+      - ルピニ豆
+      - レンズ豆
+
+  - key: poaceae
+    label: イネ科
+    description: Poaceae — パン・パスタ・リゾットなどの主食を支える穀物。
+    crops:
+      - カッペリ
+      - トウモロコシ
+      - 大麦
+      - 小麦
+      - 米
+
+  - key: amaryllidaceae
+    label: ヒガンバナ科
+    description: Amaryllidaceae — ニンニクやネギの仲間。鱗茎を食べる香味野菜。
+    crops:
+      - ニンニク
+      - ポロとチポッロット
+
+  - key: amaranthaceae
+    label: ヒユ科
+    description: Amaranthaceae — ホウレンソウ、ビーツ、フダンソウなど。塩生地や痩せた土壌にも強い。
+    crops:
+      - アグレッティ
+      - フダンソウ
+      - ホウレンソウ
+      - ビーツ
+
+  - key: lamiaceae
+    label: シソ科
+    description: Lamiaceae — バジル、ローズマリー、セージなど。地中海料理を香りで定義するハーブ群。
+    crops:
+      - オレガノ・マジョラム
+      - セージ
+      - バジル
+      - ローズマリー
+
+  - key: asparagaceae
+    label: キジカクシ科
+    description: Asparagaceae — アスパラガスを含む。
+    crops:
+      - アスパラガス
+
+  - key: caryophyllaceae
+    label: ナデシコ科
+    description: Caryophyllaceae — ストリドーロなど野草由来の山菜。
+    crops:
+      - ストリドーロ
+
+  - key: boraginaceae
+    label: ムラサキ科
+    description: Boraginaceae — ボリジを含む。星型の青い花と若葉が食用。
+    crops:
+      - ボリジ
+
+  - key: polygonaceae
+    label: タデ科
+    description: Polygonaceae — そばを含む。穀物的に使われるがイネ科ではない擬穀類。
+    crops:
+      - そば
+
+  - key: rutaceae
+    label: ミカン科
+    description: Rutaceae — シチリアを代表する柑橘類の仲間。
+    crops:
+      - オレンジ
+      - レモン
+
+  - key: oleaceae
+    label: モクセイ科
+    description: Oleaceae — オリーブを含む。地中海農業の象徴。
+    crops:
+      - オリーブ
+
+  - key: vitaceae
+    label: ブドウ科
+    description: Vitaceae — ブドウを含む。ワインと食卓を結ぶ。
+    crops:
+      - ブドウ
+
+  - key: moraceae
+    label: クワ科
+    description: Moraceae — イチジクを含む。古代から地中海で栽培されてきた果樹。
+    crops:
+      - イチジク
+
+  - key: rosaceae
+    label: バラ科
+    description: Rosaceae — 西洋梨など、温帯果樹の代表科。
+    crops:
+      - 西洋梨
+
+  - key: fagaceae
+    label: ブナ科
+    description: Fagaceae — 栗を含む。山村の主食的なナッツとして利用されてきた。
+    crops:
+      - 栗
+
+  - key: betulaceae
+    label: カバノキ科
+    description: Betulaceae — ヘーゼルナッツを含む。ピエモンテの伝統的なナッツ。
+    crops:
+      - ヘーゼルナッツ
+
+  - key: adoxaceae
+    label: レンプクソウ科
+    description: Adoxaceae — エルダーフラワーを含む。花と実が飲料・薬用に使われる。
+    crops:
+      - エルダーフラワー
+
+  - key: lauraceae
+    label: クスノキ科
+    description: Lauraceae — 月桂樹（ローリエ）を含む。煮込み料理に欠かせない香木。
+    crops:
+      - 月桂樹

@@ -1,0 +1,138 @@
+# イタリアのホウレンソウ
+
+*Spinacia oleracea L.* — アラブの農業革命が伝えた葉物野菜
+
+---
+
+イタリアにおけるホウレンソウ（*Spinacia oleracea*）の歴史は、単なる一野菜の導入史に留まらず、地中海世界における東西文化の接触、農業技術の革新、そして食文化の洗練を象徴する壮大な物語である。南西アジアを起源とするこの植物は、中世のイスラム圏を通じた「農業革命」の一翼を担い、シチリアを起点としてイタリア全土、さらにはヨーロッパ全域へと広がった。本報告書では、イタリアを中心としたホウレンソウの歴史的背景、伝統的な品種特性、地域に根ざした栽培体系、そして現代における生物多様性保護の取り組みについて、多角的な視点から詳述する。
+
+## 地中海世界におけるホウレンソウの起源と初期の伝播
+ホウレンソウの学名である *Spinacia oleracea* L. は、ヒユ科（旧アカザ科）に属する一年生ないし二年生の植物である。その野生種は中央アジアから南西アジアにかけて自生しており、人類による栽培の歴史は2,000年以上前の古代ペルシア（現在のイラン周辺）にまで遡る。ペルシア語で「緑の指標」を意味する「ispanai」がその名の由来とされ、古代からその栄養価と汎用性が高く評価されていた。
+
+### アラブの農業革命とシチリアへの導入
+イタリアへのホウレンソウ導入の歴史において、最も重要な転換点は西暦9世紀のシチリア島にある。西暦827年、アグラブ朝（サラセン人）によるシチリア征服が始まると、イスラム圏の高度な灌漑技術や植物学の知識がイタリアにもたらされた。当時のアラブ人は、乾燥地帯での栽培に適した植物を収集・改良する「農業革命」を推進しており、ホウレンソウもその一環としてイタリア半島南部へと運ばれた。
+
+初期の記録として、10世紀の地中海地域におけるホウレンソウの存在を証明する重要な文献が3点存在する。第一に、著名な医学者アブー・バクル・ムハンマド・イブン・ザカリーヤー・アッ・ラージー（アル・ラーズィー）による医学著作である。彼はホウレンソウの薬理的効果に注目し、喉の痛みや熱の緩和に有効な治療食として紹介している。第二に、イブン・ワフシーヤによる農業書、そして第三にクスツス・アル・ルーミーによる論考である。これらの記録は、ホウレンソウが当初は食用のみならず、医学的価値を持つ貴重な「東洋のハーブ」として認識されていたことを示している。
+
+### 中世イタリアにおける普及と受容
+11世紀、ムスリムによる統治下にあったスペイン（アンダルス）を経由してヨーロッパ北部への道が開かれる一方で、イタリア国内ではシチリアから北上するルートで普及が進んだ。14世紀初頭、ミラノの知識人ボンヴェシン・デ・ラ・リーヴァ（Bonvesin de la Riva）は、当時のロンバルディア平原で生産されていた農産物のリストの中にホウレンソウを含めており、この時期にはすでに北イタリアの都市近郊農業においてホウレンソウが一定の地位を確立していたことがわかる。
+
+中世のイタリアにおいて、ホウレンソウはそれまで古代ローマ人が好んで食べていた「ブリトゥム（blitum）」などの野生ハーブを徐々に駆逐していった。ホウレンソウの「肉厚で満足感のある食感」と「冬でも収穫可能」という特性は、特にキリスト教の四旬節（肉食が禁じられる期間）における重要な代替食材として、修道院や貴族の食卓で重宝された。
+
+## ルネサンス期の神話と「ア・ラ・フィオレンティーナ」の再考
+イタリアのホウレンソウ史において、最も広く知られているが、同時に歴史的な疑義が呈されているのが、カトリーヌ・ド・メディシス（Caterina de' Medici）にまつわる伝説である。
+
+### カトリーヌ・ド・メディシスとホウレンソウの神話
+1533年、フィレンツェのメディチ家出身のカトリーヌがフランス王アンリ2世のもとへ輿入れした際、彼女は故郷の味を惜しみ、お抱えの料理人やホウレンソウの種をフランス宮廷に持ち込んだと言い伝えられている。この伝説によれば、フランス料理における「ア・ラ・フィオレンティーナ（フィレンツェ風）」という呼称は、ホウレンソウをこよなく愛した彼女に敬意を表して名付けられたとされる。
+
+しかし、現代の食物史家たちの多くはこの物語を「食の神話」として慎重に扱っている。フランス料理に対するイタリアの影響は、カトリーヌの結婚よりも遥かに以前から存在しており、ホウレンソウ自体もそれ以前にヨーロッパに普及していた。オーギュスト・エスコフィエ（Auguste Escoffier）が1903年に著した『料理の手引き（Le Guide Culinaire）』において、ホウレンソウを敷いた料理を「フィレンツェ風」と定義したことが、この呼称の定型化に大きく寄与したと考えられている。
+
+### フィレンツェ風（Alla Fiorentina）の真の定義
+神話の真偽はともかく、イタリアの食文化において「フィレンツェ風」という言葉がホウレンソウと結びついていることは事実である。伝統的なフィレンツェ風ホウレンソウ料理の構成要素を以下の表にまとめる。
+
+| 構成要素 | 特徴と役割 | 出典 |
+| :---- | :---- | :---- |
+| **ホウレンソウの土台** | バターでソテーされ、水気を切った状態の深緑色の葉。料理の色彩的・栄養的な基盤。 | |
+| **モルネーソース / ベシャメル** | ホワイトソースにチーズ（グリュイエールやパルメザン）を加えた濃厚なソース。 | |
+| **タンパク質成分** | 鶏肉（チキン・フィオレンティーナ）、魚（舌平目など）、あるいは卵。 | |
+| **グラタン仕立て** | 最後にチーズをかけてオーブンで焼き色をつける（サラマンダー焼）。 | |
+
+フィレンツェ風は、単にホウレンソウを添えるだけでなく、乳製品のコクとホウレンソウのわずかな苦味を調和させる高度な調理技法を指している。
+
+## 世紀における食卓の主役への飛躍
+ホウレンソウは中世から存在していたものの、イタリアの一般家庭において真に重要な日常食品となったのは19世紀に入ってからである。この時期、農業生産の効率化と栄養学の発展が相まって、ホウレンソウの需要が爆発的に高まった。
+
+### 栄養学の台頭と鉄分の神話
+19世紀後半、科学的な栄養分析が進む中で、ホウレンソウが極めて高い鉄分を含むという認識が広まった。現代の分析によれば、100gのホウレンソウには約2.9mgの鉄分が含まれており、これは野菜の中でもトップクラスである。しかし、同時にホウレンソウにはシュウ酸（![][image1]）も大量に含まれており、これが鉄分（![][image2]）の吸収を阻害するため、実際に体内に取り込まれるのはごく一部であることが後に判明した。
+
+それにも関わらず、19世紀のイタリアではホウレンソウは「健康の象徴」として、特に子供や病人の食事に積極的に取り入れられた。また、ビタミンC、カロテノイド、葉酸、ルテインが豊富であることも科学的に証明され、眼精疲労の緩和や動脈硬化の予防に効果がある「機能性野菜」としての地位を確立した。
+
+## イタリアの伝統的品種とその植物学的特性
+イタリアでは、長い栽培の歴史の中で各地の気候や土壌に適応した多くの在来種（エアルーム）が育まれてきた。特に、寒冷な冬季に耐えうる品種や、加工に適した肉厚な品種が選抜されてきた。
+
+### 代表的なイタリア伝統品種の詳細
+#### ギガンテ・ディンヴェルノ（Gigante d'Inverno）
+「冬の巨人」を意味するこの品種は、イタリアが誇る最も代表的な耐寒性品種である。
+
+* **特性:** 非常に大きく、幅広で先端が尖った剣状の葉が特徴。葉面は美しく縮れており（サボイタイプ）、深緑色の光沢がある。  
+* **栽培:** 収穫まで約55日。氷点下の気温でも生存可能であり、秋から冬にかけての栽培に最適とされる。  
+* **用途:** 加熱してもボリューム感が損なわれにくく、イタリアの家庭料理での使用頻度が極めて高い。
+
+#### メルロ・ネロ（Merlo Nero）
+「黒いクロウタドリ」を意味するこの品種は、その名の通り非常に濃い緑色の葉を持つ。
+
+* **特性:** 早生種（40〜45日で成熟）であり、コンパクトな草姿を持つ。葉は非常に柔らかく、縮みが強く、風味が繊細である。  
+* **栽培:** 冷涼な気候を好むが、高温には極めて弱く、春が深まるとすぐにトウ立ちする。  
+* **価値:** イタリア国外では「イタリアのグルメ種」として珍重される希少な品種である。
+
+#### リッチョ・ダスティー（Riccio d'Asti）
+ピエモンテ州アスティ地方に伝わる伝統品種で、極めて強い縮みを持つ。
+
+* **特性:** 葉が肉厚で、冬季の厳しい寒さに当たることで糖度が増す。地元では「冬の宝石」のように扱われる。  
+* **歴史:** アスティの肥沃な土壌で、厩肥をふんだんに使った伝統的な有機農法によって守られてきた。
+
+### 伝統品種の比較表
+| 品種名 | 成熟日数 | 耐寒性 | 葉の形態 | 推奨播種時期 |
+| :---- | :---- | :---- | :---- | :---- |
+| **Gigante d'Inverno** | 50-55日 | 極高 | 剣状・半縮み | 8月下旬〜12月 |
+| **Merlo Nero** | 40-45日 | 高 | 卵型・強縮み | 9月〜10月 / 2月〜3月 |
+| **Riccio d'Asti** | 55-60日 | 高 | 円形・極強縮み | 10月〜11月 |
+| **Viroflay (欧州広域)** | 50日 | 中 | 平滑・巨大葉 | 9月〜10月 |
+
+## 地域に根ざした栽培体系と伝統的農法
+イタリアのホウレンソウ栽培は、その長い歴史を通じて地域の微気候（マイクロクライメート）に最適化されてきた。
+
+### 気候条件と光周期の影響
+ホウレンソウは長日植物であり、日長が14時間を超えると生殖成長に移行し、花茎を伸ばして「トウ立ち（抽台）」する。イタリアの緯度においては、この性質を回避するために秋から冬にかけての栽培が基本となる。最適な生育温度は ![][image3] から ![][image4] の間であり、特にイタリアの伝統品種は ![][image5] 程度の霜にも耐える強靭さを持っている。
+
+### 伝統的な土壌管理：バウラーテ（Baulate）栽培
+トスカーナ州のヴァル・ディ・コルニア（Val di Cornia）など、特定の産地では「バウラーテ」と呼ばれる高畝栽培が伝統的に行われている。
+
+* **目的:** 秋から冬にかけての降雨による過湿を防ぎ、根腐れを防止すると同時に、地温を維持する効果がある。  
+* **肥料:** 伝統的には完熟した厩肥が用いられ、元肥として深く耕耘される。これにより、ホウレンソウ特有の濃い風味と肉厚な葉が形成される。  
+* **灌漑の課題:** 海岸に近い地域では地下水の塩分濃度上昇（塩害）が課題となるが、ホウレンソウは比較的耐塩性が高いため、これらの地域でも重要な換金作物として存続してきた。
+
+## 伝統的農産物（PAT）と保護制度
+イタリア政府は、地域の文化、歴史、伝統と深く結びついた農産物を「伝統的農産物（PAT: Prodotti Agroalimentari Tradizionali）」として認定し、その製法を保護している。
+
+### ヴァル・ディ・コルニアのホウレンソウ（Spinacio tipico della Val di Cornia）
+トスカーナ州リヴォルノ県で生産されるこのホウレンソウは、PATに認定されたイタリアで最も重要な地域ブランドの一つである。
+
+* **定義:** 50年以上の栽培歴史を持ち、特定の気候条件下で育てられたもの。主に「グラディエーター（Gladiator）」などの特定の品種群が用いられる。  
+* **特徴:** 加熱後の食感が非常にスポンジ状で柔らかく、香りが控えめで洗練されている。  
+* **規定:** 収穫は手作業で行われ、農場内ですぐに洗浄・選別される。機械収穫による損傷を避けることで、最高品質を維持している。
+
+### ホウレンソウを用いた加工PAT
+ホウレンソウそのものだけでなく、それを用いた伝統料理もPATに含まれる。
+
+* **ニューディ（Gnudi）:** トスカーナ州全域で愛される、ホウレンソウとリコッタチーズの詰め物だけを団子状にした料理。パスタの皮がないことから「裸の（Gnudi）」と呼ばれる。  
+* **マルファッティ（Malfatti）:** ロンバルディア州などで見られる同様の料理。形が不揃い（Malfatti）であることが伝統の証とされる。
+
+## 現代における生物多様性の保存：スローフードと「味の箱舟」
+現代の農業において、F1ハイブリッド品種の普及は収穫量の増大をもたらしたが、同時にイタリアの豊かな遺伝的多様性を脅かしている。これに対し、スローフード運動などの保存活動が重要な役割を果たしている。
+
+### 味の箱舟（Ark of Taste）に登録された野生・伝統種
+スローフード財団は、絶滅の危機にある伝統食材を「味の箱舟」に登録し、消費者にその価値を訴えている。
+
+* **スピアナチョ・デッレ・ドゥーネ（Spinacio delle dune）:** 砂丘に自生する野生のホウレンソウ近縁種。生食や天ぷら、さらには花の香りを活かしたベルモットの原料としても利用される。  
+* **グッド・キング・ヘンリー（Good King Henry / *Chenopodium bonus-henricus*）:** 南ヨーロッパ原産の多年草で、古くから「野生のホウレンソウ」として食されてきた。イタリアの山岳地帯では、これをホウレンソウの代用として使う伝統が今も残っている。
+
+### 在来種の種子保存と法的枠組み
+イタリアの「Rete Semi Rurali（田舎の種子ネットワーク）」などは、農家が自ら種子を採取し、交換する権利を保護するために活動している。EUの規定においても、商業的価値は低くとも文化的価値の高い「保存品種（Conservation varieties）」としての登録が可能となり、メルロ・ネロなどの伝統品種が法的に守られる基盤が整いつつある。
+
+## 結論：イタリアにおけるホウレンソウの文化的意義
+イタリアにおけるホウレンソウの歴史は、単なる植物の伝播ではなく、人間がどのようにして自然と対話し、異文化の産物を自らの「伝統」へと昇華させてきたかを示す鏡である。アラブ人によってもたらされた「東洋のハーブ」は、シチリアの土壌で目覚め、メディチ家の伝説を纏い、19世紀の科学の光を浴びて、イタリアの食卓に不可欠な「緑の主役」となった。
+
+ギガンテ・ディンヴェルノやメルロ・ネロといった品種を育てることは、数世紀にわたる農業の知恵を継承することに他ならない。それは単なる食料生産ではなく、地域のアイデンティティと生物多様性を守る行為である。現代のイタリアにおいて、ホウレンソウは過去と未来を繋ぐ「生きた遺産」として、今日もなお豊かな食文化を支え続けている。
+
+#### 引用文献. Spinacia oleracea \- Wikipedia, 2月, 2026にアクセス、 [https://it.wikipedia.org/wiki/Spinacia\_oleracea](https://it.wikipedia.org/wiki/Spinacia_oleracea). Spinach Seeds. Buy them online | Sgaravatti Shop, 2月, 2026にアクセス、 [https://sgaravatti.net/en/collections/spinacio](https://sgaravatti.net/en/collections/spinacio). Viroflay Spinach Seeds \- (Spinacia oleracea), 2月, 2026にアクセス、 [https://store.underwoodgardens.com/viroflay-spinach-seeds-spinacia-oleracea/v1578/](https://store.underwoodgardens.com/viroflay-spinach-seeds-spinacia-oleracea/v1578/). Insalata \- Gazzetta Italia, 2月, 2026にアクセス、 [https://www.gazzettaitalia.pl/insalata/](https://www.gazzettaitalia.pl/insalata/). Florentine (culinary term) \- Wikipedia, 2月, 2026にアクセス、 [https://en.wikipedia.org/wiki/Florentine\_(culinary\_term)](https://en.wikipedia.org/wiki/Florentine_\(culinary_term\)). WHERE AND WHAT TO EAT IN FLORENCE? TRADITIONS OF FLORENTINE CUISINE, 2月, 2026にアクセス、 [https://www.myfloraguide.com/en/2019/06/27/where-and-what-to-eat-in-florence-traditions-of-florentine-cuisine/](https://www.myfloraguide.com/en/2019/06/27/where-and-what-to-eat-in-florence-traditions-of-florentine-cuisine/). Spinaci \- Wikifood by Il Cucchiaio d'Argento, 2月, 2026にアクセス、 [https://wiki.cucchiaio.it/wiki/spinaci/](https://wiki.cucchiaio.it/wiki/spinaci/). Creamy Chicken Florentine Pasta | Love and Olive Oil, 2月, 2026にアクセス、 [https://www.loveandoliveoil.com/2023/04/creamy-chicken-florentine-pasta.html](https://www.loveandoliveoil.com/2023/04/creamy-chicken-florentine-pasta.html). Come era una cena tipica in Italia nel XIII secolo? : r ... \- Reddit, 2月, 2026にアクセス、 [https://www.reddit.com/r/AskFoodHistorians/comments/p60l8r/how\_was\_a\_typical\_dinner\_in\_italy\_in\_the\_13th/?tl=it](https://www.reddit.com/r/AskFoodHistorians/comments/p60l8r/how_was_a_typical_dinner_in_italy_in_the_13th/?tl=it). A Guide to Top Authentic & Traditional Foods in Florence, 2月, 2026にアクセス、 [https://www.visitflorence.com/eating-and-drinking-in-florence/traditional-florentine-foods.html](https://www.visitflorence.com/eating-and-drinking-in-florence/traditional-florentine-foods.html). Spinach Seeds, Gigante d' Inverno \- Baker Creek Heirloom Seeds, 2月, 2026にアクセス、 [https://www.rareseeds.com/spinach-gigante-d-inverno](https://www.rareseeds.com/spinach-gigante-d-inverno). Gigante Di Inverno Spinach (Heirloom Days) \- Pinetree Garden Seeds, 2月, 2026にアクセス、 [https://www.superseeds.com/products/gigante-di-inverno](https://www.superseeds.com/products/gigante-di-inverno). Gigante Inverno Spinach | John Scheepers Kitchen Garden Seeds, 2月, 2026にアクセス、 [https://www.kitchengardenseeds.com/spinach-gigante-inverno.html](https://www.kitchengardenseeds.com/spinach-gigante-inverno.html). Spinach Gigante d'Inverno (127-9) \- Seeds from Italy, 2月, 2026にアクセス、 [https://www.growitalian.com/products/spinach-gigante-dinverno-127-9](https://www.growitalian.com/products/spinach-gigante-dinverno-127-9). Baker Creek Catalog | PDF | Phaseolus Vulgaris | Beetroot \- Scribd, 2月, 2026にアクセス、 [https://www.scribd.com/document/51688178/2011-Baker-Creek-Catalog](https://www.scribd.com/document/51688178/2011-Baker-Creek-Catalog). Merlo Nero Spinach | Baker Creek Heirloom Seeds, 2月, 2026にアクセス、 [https://www.rareseeds.com/spinach-merlo-nero](https://www.rareseeds.com/spinach-merlo-nero). Spinach Merlo Nero (127-20) \- Seeds from Italy, 2月, 2026にアクセス、 [https://www.growitalian.com/products/spinach-merlo-nero-127-20](https://www.growitalian.com/products/spinach-merlo-nero-127-20). Spinach – Merlo Nero \- Urban Seedling, 2月, 2026にアクセス、 [https://www.urbanseedling.com/product/spinach-merlo-nero/](https://www.urbanseedling.com/product/spinach-merlo-nero/). Italian Spinach \- Podere di Melo, 2月, 2026にアクセス、 [https://poderedimelo.com/product/riccio-dasti-italian-spinach/](https://poderedimelo.com/product/riccio-dasti-italian-spinach/). Lo Spinacio \- DonnaD, 2月, 2026にアクセス、 [https://www.donnad.it/da-realizzare/giardinaggio/orto-e-giardino/lo-spinacio](https://www.donnad.it/da-realizzare/giardinaggio/orto-e-giardino/lo-spinacio). Société de la Flore Valdôtaine, 2月, 2026にアクセス、 [https://www.sfv.it/public/uploads/Revue/1973%2027\_web.pdf](https://www.sfv.it/public/uploads/Revue/1973%2027_web.pdf). Giallo Zafferano Dicembre PDF \- Scribd, 2月, 2026にアクセス、 [https://it.scribd.com/document/478155209/Giallo-Zafferano-Dicembre-2019-pdf](https://it.scribd.com/document/478155209/Giallo-Zafferano-Dicembre-2019-pdf). Ti porto nell'orto: tempo di spinaci, per una salute di ferro \- Slow Food \- Buono, Pulito e Giusto., 2月, 2026にアクセス、 [https://www.slowfood.it/ti-porto-nellorto-gli-spinaci-salute-ferro/](https://www.slowfood.it/ti-porto-nellorto-gli-spinaci-salute-ferro/). Spinacio tipico della Val di Cornia \- Regione Toscana, 2月, 2026にアクセス、 [https://www.regione.toscana.it/-/spinacio-tipico-della-val-di-cornia](https://www.regione.toscana.it/-/spinacio-tipico-della-val-di-cornia). Elenco dei Prodotti agroalimentari Tradizionali \- Pat Toscana \- Disciplinare.it, 2月, 2026にアクセス、 [https://www.disciplinare.it/elenco-dei-prodotti-agroalimentari-tradizionali-pat-toscana.html](https://www.disciplinare.it/elenco-dei-prodotti-agroalimentari-tradizionali-pat-toscana.html). Pomodoro costoluto fiorentino PAT Toscana \- ViVi GREEN \-, 2月, 2026にアクセス、 [https://www.vivigreen.eu/blog/pomodoro-costoluto-fiorentino-pat-toscana/](https://www.vivigreen.eu/blog/pomodoro-costoluto-fiorentino-pat-toscana/). A Culinary Journey Through Italy – Cookidoo® – the official Thermomix® recipe platform, 2月, 2026にアクセス、 [https://cookidoo.thermomix.com/foundation/en-US/pages/travel-to-italy](https://cookidoo.thermomix.com/foundation/en-US/pages/travel-to-italy). Endangered vegetable varieties from Franchi seeds \- Franchi Seeds ..., 2月, 2026にアクセス、 [https://seedsofitaly.com/blog/endangered-vegetable-varieties-from-franchi-seeds/](https://seedsofitaly.com/blog/endangered-vegetable-varieties-from-franchi-seeds/). UNIVERSITÀ DEGLI STUDI DI CATANIA \- iris@unict.it, 2月, 2026にアクセス、 [https://www.iris.unict.it/retrieve/700329de-5685-4ddf-ab21-3f6b13ba9e84/Tesi%20Dottorato%20Lucia%20Ragusa.pdf](https://www.iris.unict.it/retrieve/700329de-5685-4ddf-ab21-3f6b13ba9e84/Tesi%20Dottorato%20Lucia%20Ragusa.pdf). Spinacio delle dune \- Arca del Gusto \- Fondazione Slow Food, 2月, 2026にアクセス、 [https://www.fondazioneslowfood.com/it/arca-del-gusto-slow-food/spinaci-della-duna/](https://www.fondazioneslowfood.com/it/arca-del-gusto-slow-food/spinaci-della-duna/). Good King Henry \- Arca del Gusto \- Slow Food Foundation, 2月, 2026にアクセス、 [https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/good-king-henry/](https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/good-king-henry/). Le varietà agronomiche lombarde tradizionali a rischio di estinzione o di erosione genetica \- REliVE, 2月, 2026にアクセス、 [http://relive.unipv.it/wp-content/uploads/2020/06/LIBRO-COMPLETO.pdf](http://relive.unipv.it/wp-content/uploads/2020/06/LIBRO-COMPLETO.pdf). Tutela e valorizzazione dell'agrobiodiversità vegetale e animale in Toscana: analisi e indicazioni di policy, 2月, 2026にアクセス、 [http://germoplasma.arsia.toscana.it/Download/pubbAgrob2019.pdf](http://germoplasma.arsia.toscana.it/Download/pubbAgrob2019.pdf). rete semi rurali Liberiamo la diversità\!, 2月, 2026にアクセス、 [https://rsr.bio/wp-content/uploads/2021/03/Notiziario-00.pdf](https://rsr.bio/wp-content/uploads/2021/03/Notiziario-00.pdf). D.M. n.586235 del 9/11/2021- Modalità operative inerenti la presentazione delle domande di iscrizione delle varietà da conservazione e delle varietà ortive prive di valore intrinseco per la produzione commerciale ma sviluppate per la coltivazione in condizioni particolari al Registro nazionale delle varietà \- Masaf, 2月, 2026にアクセス、 [https://www.masaf.gov.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/17679](https://www.masaf.gov.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/17679)
+
+[image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAAAYCAYAAABDX1s+AAADB0lEQVR4Xu2XS+hNURTGP2+SJBESKY9IygAT5Z88iiKvQiKZIEIxUBRDySskIyVJeWdCBv+MPPIaKSluEoUQUUisr7VX/31X5+xz7u2YnV993XPWt/e++733AWpqairiguiP6Ifoieib6FHwPotmhOci+oieiV6KHotuB50P/pYoFqsdrou+QvN3iv6KJjelaIPRoivQwk6KeoU4f9mI3aKPUbyIvqI96CrzteicaHXw54v2QhtC/0Z4b4UJopuiA6LBUfyq6JNobhRriZXQSp32RgT9HT5YglvIH7EFUO+MNwroLroIHaBZzjO+QMtumfHQjCO94WhAK9IqLDuvYja9R3ijgJ/IL9M4Bk0z1RtFXEJx4eSpD5Qk1SFlGubpgXSZxn5omvXeSHEZmumINyrCKt9wcaNMwzzvoHmWeMNxB5pumTdSWIVme6MipqHrP1JqBabnKdjfGw6bfZO8kaKdCnUTvRHdhx6rqc68Bi1/jDegI0fvqIvfFT2ANvqU8wjz8BQsIq9t7EieeJnkZfLwTmHHLY9GLgXyUPQrPHt6Qu8tr7wR4DLlf8dTephoenjeBvU5ADGM8ThPwc2f6X57A3rPym1z2Q65Fz2/FS0Pz3ZCWQfF8N5Cb4M3hIFQjzMhZhP0MmicFe2L3gnzbXcxT0P0XTTKxQegaxln8h4JM7AZzR0yFnrpInOQn58XJnrsNM8iqHfIxTmyHdF7p2hd9E6Y76CLeZhmhQ8Kh6HXi7w6Y5DoueiFNwKrRGt9MILrPO84Ts0+zgx6Q70RwdtxVv6l0PhGbwhroIO81RvQQeX/JTuETIQm4DHWL8R6QzfED5YoA6blxjrExXn75I3WOoRX9Y7gcT/giJvHis8LnofrP+8Owbw8RQzOrMUhzg0/C/qksEMMfmydgH5T7HSeh7v/cR+sCB6T8azjLM1iOPQbhgO3S7Sw2W6Cg20fjxxEdki7H5KZcC0aNquqgsfuuOjdNvCqmImSM6QsPEptypuqIl5qJtvAq2AK/k+9a2pqampi/gEzPNQ21HtDYgAAAABJRU5ErkJggg==>
+
+[image2]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAYCAYAAACMcW/9AAABmklEQVR4Xu2Vu0rEQBSGjxcQEQvBWyUKopXitbAQVsHGCzZewMLGB7CwUAt9AVERLHwAsVkrSy1FxcJGsLAQwU5LxUYR/Q8zs3v2QLKZNS6L5IMP5vwTkpNJJiEqHv2wRoelRDPsg2VwDaZzpzNUwVEdFpNFuCzqbzgkakcLPNJhEAPwLKJRKYfDouZGp0XtaIWHOgyiB27CZzIn5DvcEO7YnC2ETvgCq/UEaCOPFXV8whsdWuqpsEb5FfgQdS1MCefhqcrywo3M6FDwqIM8dMMuOx6HU2LOUdCKcqO8WyWrYvwmxlG4EuNtOCZqh3ejE5T7aCvgFplHFcQCfIJ7cBY+wEs7t0LZ95p9J7PBNN6N8h3zCXnz7FJ2Y4XB8xeiHrGZD16NNpC5wK3IeLXCLvoKj1V2Bw9UFiu8gbipfZEN2iwInjsh89j5+3oN1yn8Vfk1vJJ84SaRNcIOUWvCbuLPcC+8D77Hx0JcjfLf7UuHcTBH5jvpGk3BdnlACOdwyY7528t/mHs4mTmihKiDvbBSTyQkJCT8c34A6QNY6i7CD4gAAAAASUVORK5CYII=>
+
+[image3]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAXCAYAAADz/ZRUAAABdElEQVR4Xu2UzysFURTHD+VHQsSCBWWnbFgikr+Alb2yVVLYyMKCnQVL2cjGhlCUt6BEthaUJQv5kZQVEt/jzJjbd2ae+xSr+dSnN/ecc++ZmTf3imT8DSWwHXZQvNUdzMN3OJ1iQ1BXDTfhcjBO4xZ+wDHYLzb/CG7Ba/galYpsiBUnqYXNsBHuwFrYBce/ZsaZEHuQRU6ANYnW/OYNTsI+8hQWBTUHwW/IIJyh2LPY4lUUd0lsXukGwAh8dMaHzrUyAGedsd5k+LbycSXUnKmAKxTrgWfBdTlccnLKlFjjS4ozo/JD8wVYzEHQCZ/gHifAtljzfU4QNWLrpOK+bl/OxZrrjf+aNrjOQQ9OxJqvcsKXMvgChzjhQa9Y8ztOELpNbziozIkt0MIJT3y+9l2xgyvGsdjkek54khObn++DuodNHFTCOy/lRAHUSbROtxPXv/LBGcfQpE5K2maFoKflhdhaunP0pNQzfdgtysjI+Bc+ASj0V9HTt4RTAAAAAElFTkSuQmCC>
+
+[image4]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAWCAYAAABdTLWOAAABsklEQVR4Xu2VvS+EQRDGRyQSVBrf5BQKVCKi0FxBQqFQ+A+UEqKU+AMkCoVSgkqlQoGORiWXCBKVxFciCo1CIcyTeZe52bnPRnJ5f8mTe/eZ2du5nXf3iFJqi0FWllWnvAH1/EsX61tpKD/s8sZ6tiazwdpkDduAYpxknQfWBKuTNck6YI0ksUxIBresEzXuIUn6VJ5lmSRHF9lEskiggdWixoGwEYU4JKdIGMfaSLxCX4RWfJDEH5U/xVpTYzBrxr0k816NrxklyenTplcQWglvzPjgmtVI8U52sC7UGDuJNmrCWphfjKjIHdapNpgvksR24+Mlx/sE7E6CJZJi2yi/9QFvjgfyMta0eLsL7tSz3clywJw9a1ZKM+uKtcWqVz6uh3M1BtUWuW/NSjkiabVlgfJ3EVRb5Jk1HVZIbouIdYrvtu7kM7S/kHaTvFLgVCN/xgYMOJwuONGaVvorMusIi2FRPLv/EA6LJPO2bcAQ/eg5khbjhGvdqxwPLPZkzTK4IZk7bQMJiEfY1ml52Bwo+uUlwEHMkcx9Z12yXqj4Jf9v9LNWE81T6Us+JSWlZvgBJSR7WrR9xBkAAAAASUVORK5CYII=>
+
+[image5]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAXCAYAAAB0zH1SAAABrElEQVR4Xu2VPyhFURzHf/6EEmUgFE+hjGIQGZ6yMjJZLAYDg4EkDEqUMpDJpDAZMIiNDAYDKQalbAaxKEp8f8693XO/3de7971ru5/69O75nnPu+b3TveeKJCS4VMBu2GhlpTBltWOhE/44nsEmX6/IADyAi5Qz32LuMQq7YCt8hLNOvusNzZ9xMQsOw2p4AW+s/im4AmvgiPPLlMM9+ArHqK8K3kvMhffBL1hrZe7Ou/Rb18oVtRWeE0SshT/AbcpO4KTV5sKvqV0npqgPyplYC9eb9cIiMcXqs8wcwQXnuge2eF1/HIu5zwbljG5IrIXri3kOV+Gd81tojSmB6/AJLlu5UgzfxNxnhvqYZjEva94UiFnwkPIwz6tLg3jjB6nv33ALH6I8SuGV4o3XIzASbXAupNPifwx0QT7e9CXTvIzyTMyLGb/PHcQS3OIwV3TBVEAWdsddwsz5hO0c5ooulg7IshXBvIiZo5/6TJxykA/64dGdSDttPeq0gGwnRBAdYubq17Peytfgu9WODf3cqzti/sSEvzsSm+Lt/jO8hZdijtyEhISEBD+/Y3xnSQo4RXEAAAAASUVORK5CYII=>

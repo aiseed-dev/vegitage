@@ -1,0 +1,128 @@
+{
+  "id": "IT-RCP-PIZ-001",
+  "names": {
+    "local": "Pizza Margherita",
+    "japanese": "ピッツァ・マルゲリータ",
+    "english": "Margherita Pizza"
+  },
+  "origin": {
+    "country": "イタリア",
+    "region": "ナポリ（カンパニア州）",
+    "history": "1889年にナポリのピザ職人ラファエーレ・エスポジトによって、イタリア王妃マルゲリータ・ディ・サヴォイアのために作られたとされる。イタリア国旗の3色（トマトの赤、モッツァレラの白、バジルの緑）を表現した愛国的な意味を持つピザとして誕生。"
+  },
+  "category": "ピザ",
+  "ingredients": [
+    {
+      "name": "小麦粉",
+      "amount": "500g",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "水",
+      "amount": "325ml",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "塩",
+      "amount": "10g",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "ドライイースト",
+      "amount": "3g",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "トマトソース",
+      "amount": "適量",
+      "is_traditional_vegetable": true,
+      "vegetable_id": "IT-VEG-TOM-001"
+    },
+    {
+      "name": "モッツァレラ・ディ・ブファラ",
+      "amount": "200g",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    },
+    {
+      "name": "バジル",
+      "amount": "適量",
+      "is_traditional_vegetable": true,
+      "vegetable_id": "IT-VEG-BAS-001"
+    },
+    {
+      "name": "エクストラバージンオリーブオイル",
+      "amount": "適量",
+      "is_traditional_vegetable": false,
+      "vegetable_id": null
+    }
+  ],
+  "traditional_method": {
+    "steps": [
+      "小麦粉、水、塩、イーストを混ぜて生地を作り、24時間発酵させる",
+      "生地を手で伸ばして薄い円形にする（麺棒は使わない）",
+      "トマトソースを薄く塗る",
+      "モッツァレラチーズを手でちぎって散らす",
+      "500度以上の薪窯で60-90秒焼く",
+      "焼き上がりにバジルの葉を散らし、オリーブオイルを垂らす"
+    ]
+  },
+  "variations": [
+    {
+      "name": "マルゲリータ・エクストラ",
+      "description": "より高級なトマトとモッツァレラを使用"
+    },
+    {
+      "name": "マルゲリータ・ブファラ",
+      "description": "水牛のモッツァレラを使用した正統派"
+    },
+    {
+      "name": "マルゲリータ・コン・パルミジャーノ",
+      "description": "パルミジャーノチーズを追加したバリエーション"
+    }
+  ],
+  "cultural_context": {
+    "eating_style": "ナポリでは個人サイズのピザを1人1枚食べるのが一般的。手で食べるかナイフとフォークで食べるかは個人の好み。",
+    "symbolism": "イタリア統一の象徴として、国旗の3色を表現。ナポリの伝統工芸とイタリアの食文化を代表する料理として文化的価値が高い。"
+  },
+  "related_vegetables": [
+    {
+      "id": "IT-VEG-TOM-001",
+      "name": "サンマルツァーノトマト",
+      "role": "ソースの主原料として使用"
+    },
+    {
+      "id": "IT-VEG-BAS-001",
+      "name": "バジル",
+      "role": "香り付けと彩りのハーブとして使用"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.pizzanapoletana.org/",
+      "type": "公式認証機関",
+      "reliability": "high"
+    },
+    {
+      "url": "https://www.italia.it/",
+      "type": "イタリア政府観光局",
+      "reliability": "high"
+    },
+    {
+      "url": "https://www.academiabarilla.com/",
+      "type": "食文化研究機関",
+      "reliability": "high"
+    }
+  ],
+  "metadata": {
+    "collected_at": "2026-01-30T13:12:46.510554+00:00",
+    "agent_version": "1.0.0",
+    "research_method": "Claude Agent SDK WebSearch",
+    "confidence_score": 0.9,
+    "needs_review": []
+  }
+}

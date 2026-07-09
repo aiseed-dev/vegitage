@@ -35,13 +35,17 @@ class AppTheme {
     final baseTheme = ThemeData(
       useMaterial3: true,
       colorScheme: colorScheme,
-      // 同梱のサブセット済み Noto Sans CJK JP を使用
+      // 同梱のサブセット済み BIZ UDPGothic を使用
       // (Web版が Google Fonts へフォールバック取得しないようにするため)
-      fontFamily: 'NotoSansCJKjp',
+      fontFamily: 'BIZUDPGothic',
     );
 
     // ベーステーマに対して、各コンポーネントの共通スタイルを適用
     return baseTheme.copyWith(
+      // BIZ UDPGothic に無い文字(ハングル等)は同梱の Noto サブセットで補う
+      textTheme: baseTheme.textTheme.apply(
+        fontFamilyFallback: ['NotoSansCJKjp'],
+      ),
       scaffoldBackgroundColor: colorScheme.surface,
 
       // AppBarのスタイル

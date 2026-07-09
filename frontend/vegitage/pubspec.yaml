@@ -94,23 +94,26 @@ flutter:
   # Web版で fonts.gstatic.com へのフォールバック取得を防ぐための同梱フォント。
   # 生成は tool/subset_fonts.py(野菜データ更新時に再実行)
   fonts:
+    - family: BIZUDPGothic
+      fonts:
+        - asset: assets/fonts/BIZUDPGothic-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/BIZUDPGothic-Bold.ttf
+          weight: 700
+    # BIZ UDPGothic に無い文字(ハングル・稀な漢字)用のフォールバック
     - family: NotoSansCJKjp
       fonts:
         - asset: assets/fonts/NotoSansCJKjp-Regular.otf
           weight: 400
-        - asset: assets/fonts/NotoSansCJKjp-Medium.otf
-          weight: 500
         - asset: assets/fonts/NotoSansCJKjp-Bold.otf
           weight: 700
     # Web エンジンは既定フォント "Roboto" を fonts.gstatic.com から取得しようと
     # するため、同名ファミリーとして同梱フォントを登録して外部取得を抑止する
     - family: Roboto
       fonts:
-        - asset: assets/fonts/NotoSansCJKjp-Regular.otf
+        - asset: assets/fonts/BIZUDPGothic-Regular.ttf
           weight: 400
-        - asset: assets/fonts/NotoSansCJKjp-Medium.otf
-          weight: 500
-        - asset: assets/fonts/NotoSansCJKjp-Bold.otf
+        - asset: assets/fonts/BIZUDPGothic-Bold.ttf
           weight: 700
 
   # An image asset can refer to one or more resolution-specific "variants", see

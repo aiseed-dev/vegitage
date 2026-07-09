@@ -1,9 +1,17 @@
-Noto Sans CJK JP (subset)
-Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
-Licensed under the SIL Open Font License, Version 1.1.
+同梱フォントのライセンス表記
+==============================
 
-このディレクトリの NotoSansCJKjp-*.otf は fonts-noto-cjk パッケージの
-Noto Sans CJK JP を tool/subset_fonts.py でサブセット化したもの。
+1. BIZ UDPGothic (BIZUDPGothic-*.ttf)
+   Copyright 2022 The BIZ UDGothic Project Authors
+   (https://github.com/googlefonts/morisawa-biz-ud-gothic)
+   原本: tool/fonts_src/ / SIL Open Font License 1.1
+
+2. Noto Sans CJK JP サブセット (NotoSansCJKjp-*.otf)
+   Copyright 2014-2021 Adobe (http://www.adobe.com/),
+   with Reserved Font Name 'Source'.
+   原本: Debian fonts-noto-cjk パッケージ / SIL Open Font License 1.1
+
+いずれも tool/subset_fonts.py でサブセット化したもの。以下 OFL 1.1 全文。
 
 
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007

@@ -41,13 +41,19 @@ vegitage(Flutter アプリ)の Web 版を Cloudflare Pages で公開する。
    `--dart-define` で CanvasKit を gstatic CDN でなく同梱版から読む。
    成果物は `flutter build web` の標準出力先 `build/web`(以下のパスは
    全てここからの相対)。リポジトリにはコミットしない。
-2. **フォント同梱**: `tool/subset_fonts.py` がシステムの Noto Sans CJK JP
-   (fonts-noto-cjk、OFL 1.1)から、データ + ソース中の全文字 + 基本レンジ
-   (計約3,800字、韓国語名のハングル含む)をサブセット化し
-   `assets/fonts/NotoSansCJKjp-{Regular,Medium,Bold}.otf`(各約1.4MB)を生成。
-   pubspec の fonts に登録し、テーマの fontFamily に指定。
-   ライセンス表記は `assets/fonts/OFL.txt`。
+2. **フォント同梱**(本文 BIZ UDPGothic、2026-07-09 変更):
+   `tool/subset_fonts.py` が、データ + ソース中の全文字 + 基本レンジ
+   (計約3,800字)を対象に二段構成でサブセットを生成する。
+   - 本文: BIZ UDPGothic Regular/Bold(原本 `tool/fonts_src/`、OFL 1.1)
+     → `assets/fonts/BIZUDPGothic-*.ttf`(各約900KB)
+   - フォールバック: BIZ に無い文字(ハングル・稀な漢字 863字)だけを
+     システムの Noto Sans CJK JP(fonts-noto-cjk)から抜き出し
+     → `assets/fonts/NotoSansCJKjp-*.otf`(各約60KB)
+   pubspec の fonts に登録し、テーマは fontFamily=BIZUDPGothic +
+   fontFamilyFallback=[NotoSansCJKjp]。ライセンス表記は `assets/fonts/OFL.txt`。
    **野菜データを更新したら再実行**(収録外の文字は gstatic フォールバックを誘発)。
+   なおデータ中の多言語名(アラビア文字・タイ文字等)は UI 未表示のため未収録。
+   表示するようになったら対応フォントの追加が必要(スクリプトが警告を出す)。
 3. **デプロイ**: `flutter build web` の成果物 `build/web` をそのまま
    cf-publish で Pages プロジェクト `vegitage` へ Direct Upload。
    ```bash

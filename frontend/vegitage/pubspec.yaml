@@ -87,8 +87,31 @@ flutter:
     - assets/data/vegetable_summary/
     - assets/data/vegetable_detail/
     - assets/images/
+    - assets/fonts/OFL.txt
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+
+  # Web版で fonts.gstatic.com へのフォールバック取得を防ぐための同梱フォント。
+  # 生成は tool/subset_fonts.py(野菜データ更新時に再実行)
+  fonts:
+    - family: NotoSansCJKjp
+      fonts:
+        - asset: assets/fonts/NotoSansCJKjp-Regular.otf
+          weight: 400
+        - asset: assets/fonts/NotoSansCJKjp-Medium.otf
+          weight: 500
+        - asset: assets/fonts/NotoSansCJKjp-Bold.otf
+          weight: 700
+    # Web エンジンは既定フォント "Roboto" を fonts.gstatic.com から取得しようと
+    # するため、同名ファミリーとして同梱フォントを登録して外部取得を抑止する
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/NotoSansCJKjp-Regular.otf
+          weight: 400
+        - asset: assets/fonts/NotoSansCJKjp-Medium.otf
+          weight: 500
+        - asset: assets/fonts/NotoSansCJKjp-Bold.otf
+          weight: 700
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

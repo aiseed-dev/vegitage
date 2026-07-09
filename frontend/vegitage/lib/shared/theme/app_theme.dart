@@ -35,7 +35,9 @@ class AppTheme {
     final baseTheme = ThemeData(
       useMaterial3: true,
       colorScheme: colorScheme,
-      // fontFamilyは指定せず、各OSのシステムフォントを使用
+      // 同梱のサブセット済み Noto Sans CJK JP を使用
+      // (Web版が Google Fonts へフォールバック取得しないようにするため)
+      fontFamily: 'NotoSansCJKjp',
     );
 
     // ベーステーマに対して、各コンポーネントの共通スタイルを適用

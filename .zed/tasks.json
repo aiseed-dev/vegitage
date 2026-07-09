@@ -10,14 +10,14 @@
   },
   {
     "label": "Pages デプロイ (dry-run)",
-    "command": "$HOME/dev/cf-publish/.venv/bin/cf-publish frontend/vegitage/build/web --project vegitage --dry-run"
+    "command": "cd frontend/vegitage && cf-publish build/web --project vegitage --dry-run"
   },
   {
     "label": "Pages デプロイ (本番)",
-    "command": "$HOME/dev/cf-publish/.venv/bin/cf-publish frontend/vegitage/build/web --project vegitage"
+    "command": "cd frontend/vegitage && cf-publish build/web --project vegitage"
   },
   {
     "label": "ローカル確認 (port 5051)",
-    "command": "python3 -m http.server 5051 --directory frontend/vegitage/build/web"
+    "command": "cd frontend/vegitage && python3 -m http.server 5051 --directory build/web"
   }
 ]

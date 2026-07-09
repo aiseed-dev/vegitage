@@ -34,12 +34,13 @@ vegitage(Flutter アプリ)の Web 版を Cloudflare Pages で公開する。
 
 ## 方針(実装済み)
 
-1. **ビルド**:
+1. **ビルド**(Flutter プロジェクト = `frontend/vegitage` で実行):
    ```bash
    flutter build web --release --dart-define=FLUTTER_WEB_CANVASKIT_URL=canvaskit/
    ```
    `--dart-define` で CanvasKit を gstatic CDN でなく同梱版から読む。
-   成果物は `frontend/vegitage/build/web`。リポジトリにはコミットしない。
+   成果物は `flutter build web` の標準出力先 `build/web`(以下のパスは
+   全てここからの相対)。リポジトリにはコミットしない。
 2. **フォント同梱**: `tool/subset_fonts.py` がシステムの Noto Sans CJK JP
    (fonts-noto-cjk、OFL 1.1)から、データ + ソース中の全文字 + 基本レンジ
    (計約3,800字、韓国語名のハングル含む)をサブセット化し
@@ -47,9 +48,10 @@ vegitage(Flutter アプリ)の Web 版を Cloudflare Pages で公開する。
    pubspec の fonts に登録し、テーマの fontFamily に指定。
    ライセンス表記は `assets/fonts/OFL.txt`。
    **野菜データを更新したら再実行**(収録外の文字は gstatic フォールバックを誘発)。
-3. **デプロイ**: cf-publish で Pages プロジェクト `vegitage` へ Direct Upload。
+3. **デプロイ**: `flutter build web` の成果物 `build/web` をそのまま
+   cf-publish で Pages プロジェクト `vegitage` へ Direct Upload。
    ```bash
-   ~/dev/cf-publish/.venv/bin/cf-publish frontend/vegitage/build/web --project vegitage
+   cf-publish build/web --project vegitage
    ```
    デプロイ実行はユーザー自身(外部接続の承認ルール)。
 4. **ドメイン切替**(ユーザー作業、ダッシュボード):

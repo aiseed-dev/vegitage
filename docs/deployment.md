@@ -1,4 +1,8 @@
-# Vegitage サーバー設定マニュアル (GCE / Ubuntu)
+# Vegitage サーバー設定マニュアル (GCE / Ubuntu) — 旧手順
+
+**現在は Cloudflare Pages への移行作業中。新規デプロイは
+[`web-publish.md`](web-publish.md) を参照。** このドキュメントは
+aiseed.page のドメイン切替が完了し GCE を停止するまでの参考として残す。
 
 このドキュメントは、VegitageアプリケーションをGoogle Compute Engine (GCE) 上のUbuntuサーバーにデプロイするための手順をまとめたものです。
 

@@ -26,3 +26,7 @@ private/
 
 # Logs
 *.log
+
+# ビルド出力(web/build.py が生成)
+vegitage-data/web/site/
+__pycache__/

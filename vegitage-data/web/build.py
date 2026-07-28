@@ -426,10 +426,10 @@ def _render_card(art: dict) -> str:
 def _render_groups(groups: dict[str, list[dict]]) -> str:
     """グループ名 → 記事リスト を、見出し付きのカードグリッドに描画する。"""
     out = []
-    # 「未分類」は最後に
-    keys = sorted(k for k in groups if k != "未分類")
-    if "未分類" in groups:
-        keys.append("未分類")
+    # 「果樹」「未分類」はこの順で最後に（科タブで果樹を末尾にまとめる）
+    last = ["果樹", "未分類"]
+    keys = sorted(k for k in groups if k not in last)
+    keys += [k for k in last if k in groups]
     for key in keys:
         arts = sorted(groups[key], key=lambda a: a["short_name"])
         cards = "\n".join(_render_card(a) for a in arts)

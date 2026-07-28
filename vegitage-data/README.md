@@ -255,7 +255,3 @@ Yasuhiro Niji ([@awoni](https://github.com/awoni))
 ---
 
 *伝統野菜は地域の食文化と農業遺産を体現する貴重な資源です。このプロジェクトを通じて、その知識を次世代に伝えていきます。* 🌱
-
-> **移転のお知らせ**: このプロジェクトは aiseed-dev/website から
-> seed-project へ移転しました。辞典への取込は
-> `backend/scripts/vegimport.py` で行います(コンテンツは CC BY 4.0)。

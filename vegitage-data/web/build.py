@@ -495,17 +495,35 @@ def build_index(articles: list[dict], out_dir: Path, cat: dict) -> None:
 
 # ── Root index (aiseed.page のトップ) ─────────────────
 def build_root_index():
-    """サイトルート。カテゴリが増えるまではイタリア図鑑へ案内する。"""
+    """サイトルート。2つのカタログ(野菜辞典・イタリア図鑑)への入口。"""
     (DIST_DIR / "index.html").write_text("""<!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<meta http-equiv="refresh" content="0; url=/italian/">
-<link rel="canonical" href="https://aiseed.page/italian/">
-<title>Vegitage — 伝統野菜辞典</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vegitage — 世界の伝統野菜辞典</title>
+<style>
+  body { font-family: serif; background: #faf9f6; color: #2c2c2c;
+    max-width: 720px; margin: 0 auto; padding: 3em 1.5em; line-height: 1.8; }
+  h1 { font-family: sans-serif; color: #4a7c59; }
+  .cards { display: grid; gap: 1em; margin-top: 2em; }
+  a.card { display: block; padding: 1.2em 1.5em; background: #fff;
+    border: 1px solid #e0ddd8; border-radius: 6px; text-decoration: none;
+    color: inherit; }
+  a.card:hover { border-color: #4a7c59; }
+  a.card b { font-family: sans-serif; color: #4a7c59; font-size: 1.1rem; }
+  a.card span { color: #5a5a5a; font-size: .9rem; }
+</style>
 </head>
 <body>
-<p><a href="/italian/">イタリア野菜図鑑へ</a></p>
+<h1>Vegitage</h1>
+<p>忘れられた伝統野菜の物語を、未来へ繋ぐためのオープンな辞典です。</p>
+<div class="cards">
+  <a class="card" href="/vegetables/"><b>世界の伝統野菜辞典 →</b><br>
+    <span>332種。栽培・栄養・食文化から気候変動への適応まで。</span></a>
+  <a class="card" href="/italian/"><b>イタリア野菜図鑑 →</b><br>
+    <span>69種。地中海の風土が育んだ伝統野菜と、その食文化の物語。</span></a>
+</div>
 </body>
 </html>""", encoding="utf-8")
 

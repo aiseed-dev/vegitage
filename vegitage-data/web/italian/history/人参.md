@@ -1,0 +1,274 @@
+# イタリアの人参
+
+*Daucus carota L.* — 地中海の多色根菜
+
+---
+
+## 色とりどりの根が語る、イタリア半島の物語
+
+イタリア半島における人参（*Daucus carota L.*）の栽培と消費は、単なる農業生産の枠を超え、数千年にわたる歴史、地域固有の土壌や気候への適応、そして食文化や社会的儀礼と深く結びついた多彩な物語です。一般的に普及しているオレンジ色の人参が主流となる以前の、中世からルネサンス期にかけての多様な色彩の歴史的証拠に焦点を当てると、イタリアが欧州における人参の遺伝的多様性の重要な保存庫であることが見えてきます。
+
+プーリア州の「ポリニャーノ人参」や「ティジャーノのペスタナカ」、シチリア州の「イスピカ新参」、アブルッツォ州の「フチーノ高原人参」など、地理的表示保護（IGP）やスローフード・プレシディオ、伝統的農産物（PAT）に指定されている主要な品種について、その栽培技術、歴史的背景、および社会的儀礼との関連性を紹介します。
+
+---
+
+## 序論：セリ科植物としての植物学的アイデンティティと欧州への伝播
+
+### 植物学的分類と野生種（*Daucus carota* subsp. *carota*）の生態
+
+イタリアの伝統野菜としての人参を理解するためには、まずその植物学的な起源に立ち返る必要があります。人参はセリ科（Apiaceae）に属する二年生草本であり、学名を *Daucus carota L.* といいます。この植物は、発芽した最初の年にロゼット状の葉を展開し、地下に肥大した直根（主根）を形成して栄養分を蓄えます。そして、冬の低温（春化処理）を経た翌年に、花茎を伸ばし、複散形花序と呼ばれる特徴的な白いレース状の花を咲かせ、種子（正しくは分果）を結ぶという生活環を持っています。
+
+イタリア全土、特に未耕作地や道端には、人参の野生種（*Daucus carota* subsp. *carota*）が広く自生しています。これらの野生種は、イタリア語で「Carota selvatica」と呼ばれ、その根は白く、細く、硬く、木質化しており、現代の食用人参とは似ても似つかない外見をしています。しかし、その葉が放つ特有の芳香は、栽培種と共通する遺伝的形質です。歴史的に、人類が最初に人参に関心を持ったのは、この根の可食部ではなく、芳香のある葉や種子に含まれる精油成分のためであったと考えられています。
+
+### 薬用から食用へ：古代・中世における利用形態の変遷
+
+人参の栽培化の歴史は、中央アジア（現在のアフガニスタン周辺）で10世紀から11世紀頃に始まったとされています。初期の栽培種は、アントシアニンを豊富に含む紫色や、カロテノイドを含まない黄色い根を持つものでした。これらの品種がシルクロードやアラブの交易路を経由して地中海世界、そしてイタリア半島へと伝播したのは、12世紀から14世紀にかけての中世盛期であると推測されます。
+
+中世イタリアにおいて、人参は食材というよりも「薬草（Simple）」としての地位を占めていました。当時の植物書や薬草書（Herbal）には、人参が消化不良、浮腫、あるいは女性の生理不順などに効果があると記されています。特筆すべきは、この時代の人参は甘味が少なく、時には苦味を伴うものであったという点です。調理法としても、現代のようにサラダやジュースにするのではなく、香辛料や酢、油を用いて調理し、その薬効を引き出すことが主眼に置かれていました。
+
+### 「汚れた白」から「紫」へ：初期栽培種の色彩に関する遺伝学的考察
+
+現代の消費者は人参といえば鮮やかなオレンジ色を想起しますが、遺伝学的および歴史的証拠は、オレンジ色が人参の歴史の中では極めて新しい存在であることを示しています。ウィスコンシン大学マディソン校のフィル・サイモン教授らが主導したゲノム解析研究（Nature Genetics誌掲載）によれば、人参の遺伝子は約32,000個存在し、その進化の過程で「黄色」や「紫」が先行して存在していたことが裏付けられています。
+
+イタリアの中世からルネサンス初期にかけての記述には、人参の色に関する興味深い表現が散見されます。しばしば「汚れた白（dirty white）」や「淡い黄色（pale yellow）」と形容されるその根は、野生種と栽培種の交雑、あるいはパースニップ（*Pastinaca sativa*）との混同を示唆しています。パースニップはイタリア語で「Pastinaca」と呼ばれ、外見が白人参に酷似していることから、歴史的文献においては両者が明確に区別されずに記述されることが多かったのです。この「白」や「黄」の遺伝的基盤の上に、突然変異や選抜によって鮮やかな「赤」や「紫」の品種が定着していきました。
+
+---
+
+## イタリア・ルネサンス期の自然史学における人参の記録
+
+### ピエトロ・アンドレア・マッティオーリ『講義（Discorsi）』における記述とパースニップとの混同
+
+16世紀、イタリアはルネサンスの絶頂期にあり、植物学や医学の分野でも古代ギリシア・ローマの知識の復興と、観察に基づく新たな知見の集積が進められていました。シエナ出身の医師であり植物学者であったピエトロ・アンドレア・マッティオーリ（Pietro Andrea Mattioli, 1501-1578）は、その記念碑的著作『ディオスコリデスの薬物誌に関する講義（Discorsi di M. Pietro Andrea Matthioli）』において、当時のイタリアに存在した人参について詳細な記述を残しています。
+
+1544年にイタリア語版が出版され、その後ラテン語版（1554年）など数多くの版を重ねたこの書物は、当時の植物学のベストセラーでした。マッティオーリは、古代のディオスコリデスの記述を検証しつつ、自身が観察した植物の形態を描写しました。彼の記述の中で特に注目すべきは、栽培種の人参（Daucus）と野生のパースニップ（Pastinaca）の分類に関する苦闘です。彼は図版を用いて、根が分岐した野生種と、肥大した栽培種の違いを示そうと試みました。特に「Carote e Pastinaca salvatica（人参と野生パースニップ）」と題された木版画（1568年版など）は、当時の人参が現代のように整った円錐形ではなく、しばしば分岐し、不規則な形状をしていたことを視覚的に伝えています。
+
+また、マッティオーリは人参の色について「rubra（赤/紫）」や「lutea（黄）」といったラテン語を用いて記述しており、これは16世紀中葉のイタリアにおいて、すでに紫人参や黄色人参が一般的に栽培・利用されていたことの確たる証拠です。彼の記述は、人参が単なる野生植物の採取から、明確に区別された栽培品種へと移行していた過渡期を捉えています。
+
+### ウリッセ・アルドロヴァンディの植物標本と図譜に見る形態的多様性
+
+ボローニャ大学の初代自然科学教授であり、「自然史の父」とも称されるウリッセ・アルドロヴァンディ（Ulisse Aldrovandi, 1522-1605）もまた、イタリアの人参の歴史を語る上で欠かせない人物です。彼は膨大な自然標本と図譜のコレクションを残しており、その中には当時の野菜や植物が克明に記録されています。
+
+アルドロヴァンディの植物誌（例えば『Historia Naturalis』の一部として編纂された資料や、未刊の草稿を含む）において、「Daucus」は重要な観察対象でした。彼の指示によって作成された木版画や水彩画には、根の色や葉の形状が異なる複数のタイプの人参が描かれています。特に興味深いのは、彼が植物の奇形や変異に強い関心を持っていたことです。彼のコレクションには、根が複雑に分岐したり、色が混じり合ったりした個体の図譜が含まれており、これは現代のF1品種のような均一性が求められる以前の、遺伝的に多様で不安定な人参の姿を今に伝えています。アルドロヴァンディの記録は、人参が単一の形態ではなく、環境や栽培条件によって大きく変化する可塑性を持った植物であることを、16世紀の時点で既に認識していたことを示しています。
+
+### メディチ家の静物画：バルトロメオ・ビンビとジョヴァンナ・ガルゾーニが描いた根菜
+
+17世紀から18世紀にかけて、トスカーナ大公国を支配したメディチ家は、珍奇な植物や動物の収集に情熱を注ぎ、それらを宮廷画家に描かせることで記録として残しました。この時期の静物画は、当時の農作物の品種を知る上で、植物学書以上に雄弁な資料となります。
+
+特にバルトロメオ・ビンビ（Bartolomeo Bimbi, 1648-1729）は、メディチ家のための「植物の肖像画家」として特異な地位を占めました。彼は、巨大なカボチャや異常な形をした柑橘類などとともに、当時のトスカーナで栽培されていた人参も描いています。ポッジョ・ア・カイアーノのヴィラ・メディチ（Villa Medicea di Poggio a Caiano）に収蔵されている彼の大作には、収穫されたばかりの野菜の山が描かれており、その中には紫色や黄色、そして不規則な形をした人参が含まれていることが確認できます。ビンビの作品は「Eccentrica Natura（風変わりな自然）」と題された展覧会でも取り上げられたように、当時の農業が標準化される以前の、驚くべき多様性を保持していたことを証明しています。
+
+また、細密画家ジョヴァンナ・ガルゾーニ（Giovanna Garzoni, 1600-1670）も、野菜や果物を極めて写実的に描きました。彼女の作品に見られる野菜は、市場で売られていた日常的なものでありながら、その質感や色の微細な変化が捉えられています。これらの絵画資料は、17世紀から18世紀のイタリアにおいて、人参が食卓の彩りとして、また静物画の主題として定着していたことを示していると同時に、依然としてオレンジ色一色には染まっていなかったことを示唆しています。
+
+---
+
+## 色彩の政治学：オレンジ色人参の台頭とイタリアの抵抗
+
+### 16-17世紀のオランダにおける選抜育種とオラニエ公への敬意
+
+人参の歴史における最大の謎の一つは、「なぜ今日の人参はオレンジ色なのか」という問いです。その答えは、16世紀から17世紀にかけてのオランダ（ネーデルラント）にあります。伝説によれば、オランダの農学者や愛国的な栽培家たちが、オランダ独立戦争の英雄であり、国家の象徴的存在であったオラニエ公ウィレム（William of Orange）とその家系「オラニエ（Orange）家」に敬意を表するために、オレンジ色の人参を作出したと言われています。
+
+植物学的には、オレンジ色の人参は、黄色品種と赤色品種の交配、あるいは黄色品種からの突然変異によって生じたと考えられています。このオレンジ色の新品種（ロング・オレンジやホーン種など）は、β-カロテンを豊富に含み、従来の紫品種のように煮込んだ際に色素が溶け出して料理を濁らせることがなく、また黄色品種よりも甘味が強いものでした。
+
+この「愛国的」かつ「実用的」なオレンジ人参は、17世紀以降、オランダの強力な貿易網を通じてヨーロッパ全土に急速に普及しました。イタリアもその例外ではなく、特に北部の都市部や富裕層の間で、この新奇な色の野菜が受け入れられていきました。しかし、イタリア全土が即座にオレンジ色に染まったわけではありません。地域ごとの伝統や好みの違いが、古い品種の生存を許したのです。
+
+### イタリア半島における「紫」と「黄」の生存戦略
+
+イタリアにおいて、オレンジ色人参の席巻に抵抗し、古代からの「紫」や「黄」の遺伝子が生き残った地域が存在します。その代表格が、南イタリアのプーリア州です。ここでは、農民たちが外部から購入した種子ではなく、自家採種（self-seed saving）によって世代を超えて種を守り続けてきました。
+
+なぜこれらの地域で古い品種が維持されたのでしょうか。その理由はいくつか考えられます。第一に、味覚の嗜好です。プーリアの伝統品種は、塩分を含む土壌で育つため、独特の塩味と強い風味を持っており、甘味の強いオレンジ品種とは異なる料理用途がありました。第二に、宗教的・文化的儀礼との結びつきです。後述するティジャーノの人参のように、特定の日（聖人の祝日）に特定の色の野菜を食べる習慣が、品種の保存を義務付けた側面があります。
+
+### 農業近代化と遺伝的浸食（Genetic Erosion）の危機
+
+20世紀に入ると、農業の工業化とグローバリゼーションが加速し、イタリアの人参栽培も大きな転換期を迎えました。市場流通に適した、形が揃い、輸送に強く、洗浄しやすいF1（一代雑種）のオレンジ人参が導入されると、在来品種は急速に姿を消していきました。これを「遺伝的浸食（Genetic Erosion）」と呼びます。
+
+バリ大学の研究者ピエトロ・サンタマリア教授らの調査によれば、プーリア州だけでも多くの伝統野菜が失われましたが、ポリニャーノ人参などは辛うじて絶滅を免れた例です。現在、イタリアにおける人参の物語は、圧倒的なシェアを誇る商業的なオレンジ人参と、絶滅の淵から蘇りつつある地域固有の多色人参との対比によって語られるべきものです。
+
+---
+
+## プーリア州ポリニャーノ・ア・マーレにおける多色人参の文化的生態学
+
+### サン・ヴィート地区のテロワール：砂質土壌と汽水灌漑
+
+プーリア州バリ県の海岸沿いの町、ポリニャーノ・ア・マーレ。特にそのサン・ヴィート（San Vito）地区は、イタリアで最もユニークな人参「Carota di Polignano（ポリニャーノ人参）」の故郷です。この人参はスローフード協会のプレシディオ（Presidio Slow Food）に認定されており、その最大の特徴は栽培環境にあります。
+
+栽培地はアドリア海に面した砂質の土壌であり、海からの距離が極めて近いです。この地域の地下水には海水が浸透しており、塩分濃度が高い「汽水（acqua salmastra）」となっています。通常、塩分は農業にとって害となりますが、ポリニャーノの人参はこの塩ストレスに適応し、浸透圧調整のために糖分や風味成分を濃縮させる生理学的メカニズムを獲得しています。これにより、独特の「サピディティ（塩味を伴う旨味）」と、爽やかな食感が生まれるのです。
+
+### 伝統的揚水システム「ル・ジェニュ（Lu Gegnu）」と農民の知恵
+
+ポリニャーノ人参の歴史的景観を象徴するのが、19世紀（1800年代）から続く灌漑システムです。かつて農民たちは、石積みの井戸から水を汲み上げるために、「ル・ジェニュ（lu gegnu）」と呼ばれる伝統的な装置を使用していました。
+
+この装置は、ロバやラバを目隠しして円を描くように歩かせ、その動力で歯車を回転させ、バケツ（あるいは容器）のついたベルトを動かして地下水を汲み上げる「ノリア（noria）」の一種です。汲み上げられた汽水は、石で作られた水路を通って畑へと導かれます。この井戸の水位は潮の満ち引きと連動しており、干潮時には水が得られないため、農民たちは自然のリズムに合わせて作業を行う必要がありました。現在では電動ポンプに置き換わっていますが、この過酷な労働と水管理の歴史が、ポリニャーノ人参の文化的価値を高めています。
+
+### 紫色品種におけるフェノール類と抗酸化作用の化学的分析
+
+ポリニャーノ人参のもう一つの特徴は、その色の多様性です。一つの畑から、鮮やかなオレンジ、淡い黄色、そして外皮が濃い紫色の人参が同時に収穫されます。これは、農家が種子を選別する際、色を統一することよりも、健康な母本を選ぶことを優先してきた結果、遺伝的な多様性が維持されたためです。
+
+科学的分析によると、特に紫色のポリニャーノ人参は、商業的なオレンジ人参と比較して顕著な栄養学的差異を示しています。
+
+* フェノール類総量: 商業品種の約3倍から4倍。
+* 糖分構成: グルコース、フルクトース、スクロースの総量は商業品種より約22%低く、甘味指数も16%低いです。
+* 抗酸化活性: フェノール類の高含有量に起因し、極めて高い抗酸化作用を持ちます。
+
+このデータは、ポリニャーノ人参が単なる「古い野菜」ではなく、現代的な視点において「スーパーフード」としての潜在能力を持っていることを示唆しています。特に紫色に含まれるアントシアニンは、抗炎症作用や老化防止効果が期待されています。
+
+### スローフード・プレシディオとしての保存活動と種子の自家採種
+
+ポリニャーノ人参は、その栽培の手間（手作業での収穫が必要）や収量の低さから、一時は絶滅の危機に瀕していました。しかし、スローフード協会によるプレシディオ認定が転機となり、その価値が再評価されました。
+
+現在、少数の生産者（「Mestagnaz」のマルタとモデスト、「La Viola di Polignano」のスタニスラオ・フルージスら）が、伝統的な農法を守り続けています。彼らは毎年、最も形が良く、色の美しい個体を選び、それを再び植えて花を咲かせ、種を採ります。この「種子の主権」を維持することが、地域固有の味と形質を次世代に繋ぐ唯一の方法です。また、傷つきやすく保存がきかないこの人参を有効活用するために、紫人参を使ったジャム（confettura）などの加工品も開発されています。特に「マイルド（mild）」製法と呼ばれる低温調理法を用いることで、紫色の色素と抗酸化成分を保持したまま製品化することに成功しています。
+
+---
+
+## サレント半島の儀礼的根菜：ティジャーノの「聖ヒュパティオスのペスタナカ」
+
+### 聖ヒュパティオス（Sant'Ippazio）信仰と豊穣のシンボリズム
+
+プーリア州の最南端、サレント半島のティジャーノ（Tiggiano）には、人参が宗教的崇拝の対象となっている稀有な事例が存在します。ここでは人参は「カロータ（Carota）」ではなく、古い呼び名である「ペスタナカ（Pestanaca）」または「Pestanaca di Sant'Ippazio（聖ヒュパティオスのパースニップ/人参）」と呼ばれます。
+
+この野菜は、町の守護聖人である聖ヒュパティオス（Sant'Ippazio）と深く結びついています。聖ヒュパティオスは、鼠径ヘルニアや男性の生殖器系の疾患を治癒する聖人として崇められており、転じて「男性の精力・生殖能力（virilità）」の守護者とみなされています。ティジャーノの人参は、長く先細りした形状をしており、その形態的類似性から、聖人の力能を象徴する供物としての役割を果たしてきました。これは、キリスト教以前の豊穣儀礼が、聖人崇拝の形で習合し、特定の野菜品種に投影されて残存した民俗学的にも貴重な例です。
+
+### 1月19日の「サグラ（Sagra）」：祭礼における人参の社会的機能
+
+毎年1月19日、ティジャーノでは聖ヒュパティオスの祝日と共に「Sagra della Pestanaca（ペスタナカ祭り）」が盛大に開催されます。この日は「サレントの農民の正月（Capodanno contadino）」とも呼ばれ、農業サイクルの始まりを告げる重要な日です。
+
+祭りのハイライトは、宗教的行列と共に行われる「旗（Starnaddhu）」の儀式です。高さ6メートルにも及ぶ巨大な旗竿を持って走る権利を巡って競売（オークション）が行われ、最も高い寄付金を提示した者がその栄誉を得ます。祭りの期間中、広場にはペスタナカの屋台が立ち並び、生で齧る人々や、酢漬け、リキュールなどの加工品を楽しむ人々で溢れかえります。この祭りは、単なる収穫祭ではなく、地域コミュニティの結束を確認し、聖人の加護による来シーズンの豊作と健康（特に男性の！）を祈願する場として機能しています。
+
+### 形態的特徴と貯蔵性の低さがもたらす地産地消の必然性
+
+植物学的に見ると、「聖ヒュパティオスのペスタナカ」は非常に特異な形質を持っています。外皮は鮮やかな赤紫色（vinaccia）ですが、ナイフを入れると芯の部分は黄色からオレンジ色をしています。
+
+| 特徴 | ペスタナカ・ディ・サン・ティッパツィオの詳細 |
+| :---- | :---- |
+| 形状 | 根は長く円錐形で不規則、先端が鋭く尖る。表面には細かい根（ひげ根）が多い。 |
+| 色彩 | 外皮は紫〜赤紫、内部（髄・師部）は黄色〜オレンジ。 |
+| 食感 | 非常に脆く（crispy）、ジューシーです。繊維質が少ないのが特徴です。 |
+| 保存性 | 極めて低い。収穫後2〜3日でしおれ、弾力を失う（avvizzimento）。 |
+
+この「保存性の低さ」こそが、この品種が広域市場に出回らず、ティジャーノ周辺でのみ栽培され続けてきた最大の要因です。長距離輸送に耐えられないため、地元の祭りの時期に合わせて収穫し、その場で消費するというサイクルが自然に成立しました。これは、グローバル流通に適応できなかった欠点が、逆に地域固有性を守る防壁となった好例です。
+
+---
+
+## 近代農業の勝利：シチリア島イスピカにおける「逆シーズン」栽培の確立
+
+### 1950年代のオランダ人企業家による適地探索と技術移転
+
+ポリニャーノやティジャーノが「伝統と歴史」の象徴であるならば、シチリア島のイスピカ（Ispica）は「革新と適応」の象徴です。イスピカにおける人参の大規模栽培の歴史は、1950年代に始まります。
+
+当時、ヨーロッパの人参市場をリードしていたオランダの種苗会社や農業起業家たちは、北ヨーロッパの冬期に新鮮な人参を供給できないという課題を抱えていました。彼らは、冬でも温暖で日照時間が長い南イタリアに目を向け、シチリア島南東部（ラグーザ県およびシラクーサ県）の沿岸地帯が、人参の越冬栽培に理想的な環境であることを発見しました。オランダ人たちは種子だけでなく、高度な栽培技術や市場のノウハウを持ち込み、地元の農家と協力して「逆シーズン（counter-seasonal）」の生産体制を築き上げました。これが「Carota Novella di Ispica（イスピカの新参）」の起源です。
+
+### イスピカIGP人参の生産規定と厳格な品質管理
+
+イスピカの人参は、その品質の高さと独自性が認められ、2011年にEUの地理的表示保護（IGP: Indicazione Geografica Protetta）を取得しました。
+
+IGPの生産規定（Disciplinare）では、品種、栽培地域、栽培方法が厳格に定められています。
+
+* 品種: Nantes型、Chantenay型、Kuroda型などの特定のF1品種（Exelso, Dordogne, Nancòなど）が指定されています。これらは形状が整っており、色が濃く、甘味が強いです。
+* ロゴ規定: IGPのロゴマークに使用される色（Pantone 348 Cの緑、Pantone 144 Cのオレンジ）までもが細かく規定されており、ブランド管理が徹底されています。
+
+### 地中海性気候を利用した早生栽培と欧州市場への輸出戦略
+
+イスピカ人参の最大の武器は「早生性（precocità）」と「新鮮さ（freschezza）」です。北ヨーロッパがまだ雪に覆われている早春（2月から4月頃）に収穫期を迎え、「新参（Novella）」として市場に出荷されます。
+
+この時期の人参は、越冬中に低温にさらされることで糖度が増し、また若いうちに収穫されるため、芯まで柔らかく（木質化していない）、皮ごと食べられるほどの繊細さを持ちます。シチリアの太陽と海風が育んだこの人参は、かつて技術を持ち込んだオランダやドイツ、イギリスなどへ逆に輸出され、イタリアの野菜輸出の主力商品の一つとなっています。イスピカの事例は、外来の技術と在来のテロワールが融合することで、新たな伝統と経済的成功が生まれたモデルケースと言えるでしょう。
+
+---
+
+## 干拓地の奇跡：アブルッツォ州フチーノ高原における産業的栽培
+
+### トルロニア家によるフチーノ湖干拓事業と農業景観の変容
+
+アブルッツォ州の内陸部に位置するフチーノ高原（Altopiano del Fucino）は、かつてイタリア半島で3番目に大きな湖、フチーノ湖でした。ローマ時代から何度も試みられ失敗に終わっていたこの湖の干拓を、19世紀後半（1878年完了）に遂に成し遂げたのが、銀行家のアレッサンドロ・トルロニア公爵です。
+
+湖底から現れた約14,000ヘクタールの土地は、数千年にわたって堆積した有機物に富む極めて肥沃な土壌でした。この「新しい土地」は、当初は穀物やジャガイモ、テンサイ（砂糖大根）の栽培に利用されていましたが、戦後の1950年代に入り、人参栽培が導入されたことで農業景観が一変しました。
+
+### 輪作体系における土壌線虫抑制効果と環境保全型農業
+
+フチーノ高原における人参栽培の拡大は、単なる換金作物の導入以上の意味を持っていました。当時、主要作物であったジャガイモやテンサイの連作障害、特にシストセンチュウ（線虫）による被害が深刻化していたのです。
+
+人参を輪作体系（Rotation）に組み込むことは、この問題を解決する画期的な手段となりました。人参の根からの分泌物は、特定の線虫の孵化を抑制したり、密度を低下させたりする効果があり、化学的な土壌燻蒸剤を使用せずに土壌の健全性を回復させることが可能となったのです。こうして人参は、フチーノ高原の農業生態系における「キーストーン（要石）」としての地位を確立しました。
+
+### 高冷地栽培がもたらす根の緻密化とIGP認定の経緯
+
+「Carota dell'Altopiano del Fucino IGP（フチーノ高原人参）」は、標高650〜680メートルという高冷地で栽培されます。この冷涼な気候は、根の成長を適度に抑制し、細胞組織を緻密にします。その結果、フチーノの人参は鮮やかな赤橙色（オレンジ色が濃い）を呈し、折ると「パキッ」と乾いた音がするほどのクリスピーな食感を持ちます。
+
+2007年のIGP認定以降、Vilmorin社やBejo社などの主要な種苗会社の品種（Maestro, Presto, Napoliなど）が導入され、品質の安定化が図られています。フチーノの人参は、栄養価が高く、加工適性にも優れているため、ジュースやベビーフードの原料としても重宝されています。
+
+---
+
+## イタリア北部の希少品種と「白い人参」の記憶
+
+### ピエモンテ州：サン・ロッコ・カスタニャレッタとキエーリの黄色人参
+
+南イタリアの大規模産地に隠れがちではありますが、北イタリアにも地域に根差した人参品種が存在します。ピエモンテ州クーネオ近郊のサン・ロッコ・カスタニャレッタ地区（San Rocco Castagnaretta）で栽培される人参は、PAT（伝統的農産物）に指定されています。ストゥーラ川とジェッソ川に挟まれた沖積土壌（alluvial soil）は砂質で水はけが良く、根菜類の栽培に最適です。ここで育つ人参は、甘味が強く、肉質が柔らかいことで知られ、地元の郷土料理に欠かせない食材となっています。
+
+また、トリノ近郊のキエーリ（Chieri）では、「Carota Gialla（黄色人参）」の栽培が行われています。この黄色品種は、中世の遺産を受け継ぐものであり、スープやリゾットのブロード（出汁）を取る際に、黄金色の美しい色味を加えるために使用されます。
+
+### アルプスを越えた絆：キュッティゲン人参と中世の食卓の再現
+
+厳密にはスイスのアールガウ州キュッティゲン（Küttigen）原産ですが、北イタリアの伝統野菜愛好家やスローフード運動の中で注目されているのが「Carota Bianca di Küttingen（キュッティゲンの白人参）」です。
+
+この白人参は、オレンジ色が普及する以前の、中世ヨーロッパで一般的だった人参の姿を最もよく留めている品種の一つとされています。円錐形ではなく、ずんぐりとした円筒形の根を持ち、味は甘味が少なく、セリ科特有の芳香が強いです。イタリアのシェフたちは、この「忘れられた味」を再評価し、肉料理の付け合わせや、歴史的なレシピの再現（例えば、甘くない人参を使った煮込み料理など）に利用しています。これは、国境を越えたアルプス文化圏における食の共通性を示す事例でもあります。
+
+---
+
+## 結論：生物多様性の「生きた博物館」としてのイタリア
+
+本調査により、イタリアにおける人参は、単一の野菜ではなく、歴史、地理、文化が織りなす極めて複雑で多様な存在であることが明らかになりました。
+
+* 歴史的連続性: マッティオーリやアルドロヴァンディらルネサンス期の自然科学者が記録した「汚れた白」「黄」「紫」の人参は、過去の遺物ではなく、ポリニャーノやティジャーノといった特定の地域（Niche）において、形を変えながらも生き続けています。
+* テロワールの反映: ポリニャーノの汽水、フチーノの干拓地、イスピカの温暖な冬といった、イタリア半島の多様な環境（テロワール）が、それぞれの地域に特化したエコタイプを生み出し、維持してきました。
+* 文化による保存: 聖ヒュパティオスの祭りやスローフードの活動に見られるように、信仰や食文化、そして地域コミュニティの誇りが、経済合理性だけでは淘汰されてしまうはずの「扱いにくい」伝統品種を守る防波堤となってきました。
+
+オレンジ色の人参が世界を席巻した現代において、イタリアに残る多色人参の遺伝資源は、将来の気候変動への適応や、新たな機能性食品の開発（高抗酸化野菜など）に向けた貴重な「宝庫」です。これらの品種を守り、次世代に継承することは、イタリア、ひいては欧州の農業遺産を守ることに他なりません。イタリアの畑で揺れる人参の葉の下には、中世から続く物語が、今も静かに根を張っているのです。
+
+---
+
+## 参考文献
+
+1. Quando l'uomo ha colorato le carote - Pikaia [https://pikaia.eu/quando-luomo-ha-colorato-le-carote/](https://pikaia.eu/quando-luomo-ha-colorato-le-carote/)
+2. Carota bianca Blanche de Küttingen - Piante [https://www.promessedefleurs.it/orto/semi-da-orto/semi-di-carota/carota-bianca-blanche-de-kuttingen.html](https://www.promessedefleurs.it/orto/semi-da-orto/semi-di-carota/carota-bianca-blanche-de-kuttingen.html)
+3. Carota - ORTI GENERALI [https://www.ortigenerali.it/le-piante-da-orto/carota/](https://www.ortigenerali.it/le-piante-da-orto/carota/)
+4. Etnobotanica - Corso di Laurea in Tecniche Erboristiche [https://www.tecnicherboristiche.unito.it/html/EventiTE/Lezione_Etnobotanica_novembre_2019_sito.pdf](https://www.tecnicherboristiche.unito.it/html/EventiTE/Lezione_Etnobotanica_novembre_2019_sito.pdf)
+5. Carote, i due Sigilli pugliesi - Campagna Amica [https://www.campagnamica.it/attualita/carota-due-sigilli-pugliesi/](https://www.campagnamica.it/attualita/carota-due-sigilli-pugliesi/)
+6. Carote di Polignano PAT sott'olio - Breakfast da Donaflor [https://breakfastdadonaflor.blogspot.com/2023/06/carote-di-polignano-pat-sottolio.html](https://breakfastdadonaflor.blogspot.com/2023/06/carote-di-polignano-pat-sottolio.html)
+7. Lo sapevi che: il colore originario della carota non era arancione? - FocusJunior.it [https://www.focusjunior.it/scienza/curiosita-scientifiche/colore-originario-della-carota-non-era-arancione/](https://www.focusjunior.it/scienza/curiosita-scientifiche/colore-originario-della-carota-non-era-arancione/)
+8. Adumbratio Lexici Anglico-Latini - Neo-Latin Lexicon [https://neolatinlexicon.org/adumbratio-old/](https://neolatinlexicon.org/adumbratio-old/)
+9. Carote e Pastinaca salvatica Discorsi Mattioli Matthioli 1568 Botanica Ristampa [https://www.abebooks.it/Carote-Pastinaca-salvatica-Discorsi-Mattioli-Matthioli/32080912135/bd](https://www.abebooks.it/Carote-Pastinaca-salvatica-Discorsi-Mattioli-Matthioli/32080912135/bd)
+10. Carote e Pastinaca salvatica Discorsi Mattioli Matthioli 1568 Botanica Ristampa | eBay [https://www.ebay.it/itm/317230888296](https://www.ebay.it/itm/317230888296)
+11. Pastinaca sativa, Carota vera, Daucus Tyburtinum folio Pyretri - Patrimonio culturale dell'Emilia-Romagna [https://bbcc.regione.emilia-romagna.it/pater/loadcard.do?id_card=204129](https://bbcc.regione.emilia-romagna.it/pater/loadcard.do?id_card=204129)
+12. Vlyssis Aldrovandi - Smithsonian Libraries [https://library.si.edu/donate/adopt-a-book/vlyssis-aldrovandi](https://library.si.edu/donate/adopt-a-book/vlyssis-aldrovandi)
+13. Ulisse Aldrovandi - Wikipedia [https://it.wikipedia.org/wiki/Ulisse_Aldrovandi](https://it.wikipedia.org/wiki/Ulisse_Aldrovandi)
+14. Oreste Mattirolo - L'opera botanica di Ulisse Aldrovandi [https://www.liberliber.eu/mediateca/libri/m/mattirolo/l_opera_botanica_di_ulisse_aldrovandi/pdf/mattirolo_l_opera_botanica_di_ulisse_aldrovandi.pdf](https://www.liberliber.eu/mediateca/libri/m/mattirolo/l_opera_botanica_di_ulisse_aldrovandi/pdf/mattirolo_l_opera_botanica_di_ulisse_aldrovandi.pdf)
+15. Bimbi Bartolomeo, Natura morta con cardo e piatto sbalzato - FONDAZIONE ZERI - Unibo [https://catalogo.fondazionezeri.unibo.it/entry/work/86801/Bimbi%20Bartolomeo%2C%20Natura%20morta%20con%20cardo%20e%20piatto%20sbalzato](https://catalogo.fondazionezeri.unibo.it/entry/work/86801/Bimbi%20Bartolomeo%2C%20Natura%20morta%20con%20cardo%20e%20piatto%20sbalzato)
+16. Eccentrica Natura. Frutti e ortaggi stravaganti e bizzarri nei dipinti di Bartolomeo Bimbi per la famiglia Medici | Palazzo Madama [https://www.palazzomadamatorino.it/it/evento/eccentrica-natura-frutti-e-ortaggi-stravaganti-e-bizzarri-nei-dipinti-di-bartolomeo-bimbi-per-la-famiglia-medici/](https://www.palazzomadamatorino.it/it/evento/eccentrica-natura-frutti-e-ortaggi-stravaganti-e-bizzarri-nei-dipinti-di-bartolomeo-bimbi-per-la-famiglia-medici/)
+17. BIMBI, Bartolomeo - Web Gallery of Art, searchable fine arts image database [https://www.wga.hu/html/b/bimbi/medici3.html](https://www.wga.hu/html/b/bimbi/medici3.html)
+18. natura morta con fiori, frutta e verdura dipinto 1680 - Catalogo Generale dei Beni Culturali [https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0100200861](https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0100200861)
+19. Le carote erano viola, gialle e bianche fino al 1600 - Reddit [https://www.reddit.com/r/pics/comments/8au450/carrots_were_purple_yellow_white_until_1600swhen/?tl=it](https://www.reddit.com/r/pics/comments/8au450/carrots_were_purple_yellow_white_until_1600swhen/?tl=it)
+20. Carote di Polignano - Presidi Slow Food [https://www.fondazioneslowfood.com/it/presidi-slow-food/carote-di-polignano/](https://www.fondazioneslowfood.com/it/presidi-slow-food/carote-di-polignano/)
+21. La 'Carota di Polignano': storia, raccolta e ricette dai Maestri della Terra [https://www.settimanabiodiversitapugliese.it/2025/it/12/La_%E2%80%98Carota_di_Polignano%E2%80%99:_storia_raccolta_e_ricette_dai_Maestri_della_Terra/0_323/](https://www.settimanabiodiversitapugliese.it/2025/it/12/La_%E2%80%98Carota_di_Polignano%E2%80%99:_storia_raccolta_e_ricette_dai_Maestri_della_Terra/0_323/)
+22. La carota di Polignano - ResearchGate [https://www.researchgate.net/publication/239938605_La_carota_di_Polignano](https://www.researchgate.net/publication/239938605_La_carota_di_Polignano)
+23. Storia della Carota di Tiggiano e di Sant'Ippazio (1 di 2) - BiodiverSO [https://biodiversitapuglia.it/storia-della-carota-viola-tiggiano-santippazio-1-2/](https://biodiversitapuglia.it/storia-della-carota-viola-tiggiano-santippazio-1-2/)
+24. Bari, la biodiversita e a rischio - La Gazzetta del Mezzogiorno [https://www.lagazzettadelmezzogiorno.it/news/bari/1534241/bari-la-biodiversita-e-a-rischio-frutta-e-verdure-antiche-varieta-perse-per-sempre.html](https://www.lagazzettadelmezzogiorno.it/news/bari/1534241/bari-la-biodiversita-e-a-rischio-frutta-e-verdure-antiche-varieta-perse-per-sempre.html)
+25. La carota di Polignano [https://biodiversitapuglia.it/wp-content/uploads/2014/05/La-carota-di-Polignano.pdf](https://biodiversitapuglia.it/wp-content/uploads/2014/05/La-carota-di-Polignano.pdf)
+26. Carota di Polignano - Regione Puglia [https://www.regione.puglia.it/documents/1662405/2055807/carota_polignano.pdf/5a94f312-1fe4-dcf2-0073-46ab509a9716?t=1637230274661](https://www.regione.puglia.it/documents/1662405/2055807/carota_polignano.pdf/5a94f312-1fe4-dcf2-0073-46ab509a9716?t=1637230274661)
+27. Tiggiano (Le): boom di presenze l'ultima giornata della sagra della "Pestanaca Sant'Ippazio" [https://biodiversitapuglia.it/sagra-della-pestanaca/](https://biodiversitapuglia.it/sagra-della-pestanaca/)
+28. Carota di Tiggiano - Regione Puglia [https://www.regione.puglia.it/documents/1662405/2055807/carota_tiggiano.pdf/27de7a53-8ee8-abdf-13cc-9aaac9fe2577?t=1637230704016](https://www.regione.puglia.it/documents/1662405/2055807/carota_tiggiano.pdf/27de7a53-8ee8-abdf-13cc-9aaac9fe2577?t=1637230704016)
+29. Carota giallo viola di Tiggiano - PAT Puglia [https://www.patpuglia.it/it/12/Carota_giallo-viola_di_Tiggiano/5_87_C](https://www.patpuglia.it/it/12/Carota_giallo-viola_di_Tiggiano/5_87_C)
+30. TIGGIANO Presentato programma feste patronali per Santu Pati 2026 - LecceOggi [https://www.lecceoggi.com/tiggiano-presentato-programma-feste-patronali-per-santu-pati-2026/](https://www.lecceoggi.com/tiggiano-presentato-programma-feste-patronali-per-santu-pati-2026/)
+31. "Santu Pati" A TIGGIANO - LecceCronaca.it [https://www.leccecronaca.it/index.php/2025/01/11/santu-pati-a-tiggiano-presentata-la-nuova-edizione-della-festa-popolare-il-programma-completo/](https://www.leccecronaca.it/index.php/2025/01/11/santu-pati-a-tiggiano-presentata-la-nuova-edizione-della-festa-popolare-il-programma-completo/)
+32. Il portale del Salento - Sant'Ippazio. Festa a Tiggiano - Salentonline.it [http://www.salentonline.it/eventi/dettagli.php?id_elemento=14963](http://www.salentonline.it/eventi/dettagli.php?id_elemento=14963)
+33. Gennaio: la pestanaca di S. Ippazio, una carota davvero singolare. - Grandesud.eu [http://www.grandesud.eu/flora-salentina-gennaio-a-pestanaca-di-s-ippazio-una-carota-davvero-singolare/](http://www.grandesud.eu/flora-salentina-gennaio-a-pestanaca-di-s-ippazio-una-carota-davvero-singolare/)
+34. SCHEDA CAROTA DI ISPICA - CoRiBIA [https://www.coribia.it/wp-content/uploads/2021/07/SCHEDA-CAROTA-DI-ISPICA.pdf](https://www.coribia.it/wp-content/uploads/2021/07/SCHEDA-CAROTA-DI-ISPICA.pdf)
+35. Carota Novella di Ispica: siciliano e meglio - Siciliafan [https://www.siciliafan.it/carota-novella-di-ispica/](https://www.siciliafan.it/carota-novella-di-ispica/)
+36. Carote antiche - Cercatori Di Semi [https://www.cercatoridisemi.com/carote-antiche](https://www.cercatoridisemi.com/carote-antiche)
+37. Prodotti tipici italiani: Carota Novella di Ispica IGP - Agraria.org [https://www.agraria.org/prodottitipici/carota-novella-di-ispica.htm](https://www.agraria.org/prodottitipici/carota-novella-di-ispica.htm)
+38. Carota novella di Ispica PGI - Visit Sicily [https://www.visitsicily.info/en/carota-novella-di-ispica-igp/](https://www.visitsicily.info/en/carota-novella-di-ispica-igp/)
+39. Carota novella di Ispica - Wikipedia [https://it.wikipedia.org/wiki/Carota_novella_di_Ispica](https://it.wikipedia.org/wiki/Carota_novella_di_Ispica)
+40. La carota dell'Altopiano del Fucino: l'IGP che racconta l'Abruzzo - FruitJournal [https://www.fruitjournal.com/2025/11/17/la-carota-dellaltopiano-del-fucino-simbolo-dellabruzzo/](https://www.fruitjournal.com/2025/11/17/la-carota-dellaltopiano-del-fucino-simbolo-dellabruzzo/)
+41. Sulle tracce del lago: storia del Fucino - Societa Geografica Italiana [https://societageografica.net/wp/2020/04/08/sulle-tracce-del-lago-storia-del-fucino-2/](https://societageografica.net/wp/2020/04/08/sulle-tracce-del-lago-storia-del-fucino-2/)
+42. Il prosciugamento del Lago Fucino: storia e impatto - Parchi Letterari [https://www.parchiletterari.com/parktime/articolo.php?ID=06753](https://www.parchiletterari.com/parktime/articolo.php?ID=06753)
+43. art. 1 - Gazzetta Ufficiale [https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.progressivo=0&art.idArticolo=1&art.versione=1&art.codiceRedazionale=07A02691&art.dataPubblicazioneGazzetta=2007-03-27&art.idGruppo=0&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=2](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.progressivo=0&art.idArticolo=1&art.versione=1&art.codiceRedazionale=07A02691&art.dataPubblicazioneGazzetta=2007-03-27&art.idGruppo=0&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=2)
+44. Carota dell'Altopiano del Fucino IGP - Sata s.r.l. [https://www.satasrl.it/wp-content/uploads/2021/03/Poster-Carota-IGP.pdf](https://www.satasrl.it/wp-content/uploads/2021/03/Poster-Carota-IGP.pdf)
+45. Disciplinare di produzione della "Carota dell'Altopiano del Fucino" IGP - Masaf [https://www.masaf.gov.it/flex/files/a/a/d/D.71e3cc7f4bcd52fd8bfa/carota_altopiano_fucino.pdf](https://www.masaf.gov.it/flex/files/a/a/d/D.71e3cc7f4bcd52fd8bfa/carota_altopiano_fucino.pdf)
+46. carota di san rocco castagnaretta - Piemonte Agri Qualita [https://www.piemonteagri.it/qualita/it/prodotti/ortofrutta-e-cereali/174-carota-di-san-rocco-castagnaretta](https://www.piemonteagri.it/qualita/it/prodotti/ortofrutta-e-cereali/174-carota-di-san-rocco-castagnaretta)
+47. Carota gialla - Visit Fai della Paganella [https://www.visitfaidellapaganella.it/2023/04/29/carota-gialla/](https://www.visitfaidellapaganella.it/2023/04/29/carota-gialla/)
+48. Carota bianca di Kuttigen | Agriturismo Poggio Diavolino [https://www.poggiodiavolino.it/2013/08/carota-bianca-kuttigen/](https://www.poggiodiavolino.it/2013/08/carota-bianca-kuttigen/)

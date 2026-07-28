@@ -1,0 +1,196 @@
+# イタリアのストリドーロ
+
+*Silene vulgaris* — ナデシコ科の春の野草、農村文化の味
+
+---
+
+## 序論：イタリアの生物多様性と食文化におけるストリドーロの地位
+イタリア半島の多様な生態系と、数千年にわたる農業の歴史は、他に類を見ない豊かな食文化遺産を形成してきた。その中でも、学名 *Silene vulgaris* (Moench) Garcke、一般にイタリア語で「ストリドーロ（Stridolo）」や「スクロピット（Sclopit）」と呼ばれる植物は、単なる野生の雑草としての枠を超え、イタリアの農村社会における生存の記憶、春の祝祭、そして現代のガストロノミー（美食学）をつなぐ重要な結節点となっている。
+
+本報告書は、イタリアおよび欧州連合（EU）の文脈に焦点を当て、この植物の植物学的特性、語源に秘められた民俗学的意味、古代から現代に至る歴史的変遷、そして地域ごとの多様な利用実態を網羅的に分析するものである。特に、飢饉を乗り越えるための「救荒植物」としての役割から、現代の「伝統農産物（PAT）」としての再評価に至るまでのプロセスを詳述し、ストリドーロがいかにしてイタリアの文化的アイデンティティの一部となったのかを解き明かす。
+
+## 植物学的記述と生態学的適応
+### 分類と形態学的特徴
+ナデシコ科（Caryophyllaceae）シレネ属に分類される *Silene vulgaris* は、多年生の草本植物であり、イタリア全土において極めて馴染み深い存在である。植物学的な視点から見た最大の特徴は、その花部構造にある。花弁は白色または薄いピンク色を帯び、深く切れ込んでいるが、最も顕著な形質は、風船状に大きく膨らんだ萼（がく、calyx）である。この萼は、網目状の脈が浮き出ており、内部に空気を孕んだ構造をしていることから、後述する多様な地方名の由来となっている。
+
+成長した個体は高さ60センチメートル程度に達し、直立する茎は基部で木質化することがある。葉は対生し、披針形（ひしんけい）で、表面は無毛かつ粉白を帯びた青緑色（glaucous）をしている。この粉白を帯びた葉の質感は、本種が乾燥や強い日差しに対して一定の耐性を持っていることを示唆する形態的特徴であり、地中海性気候への適応の結果であると考えられる。
+
+### 地理的分布と生息環境
+イタリア国内における分布は、シチリア島やサルデーニャ島を含む全州に及び、その垂直分布は海抜0メートルの沿岸部から、標高2,800メートルに達するアルプス山脈の高山帯にまで至る。この広範な適応能力は、ストリドーロが特定のニッチ（生態的地位）に依存せず、多様な環境下で生存可能であることを示している。
+
+特に本種が好むのは、窒素分を多く含む土壌（好窒素植物）であり、人間活動の影響を受けた場所、いわゆる「ルドラル（ruderal）植生」の構成種として頻繁に出現する。
+
+| 主な生息環境 | 生態学的意義 |
+| :---- | :---- |
+| **路傍・道端** | 人や家畜の移動に伴う種子散布の経路となる |
+| **耕作地の縁・畔** | 農業活動による土壌撹乱と肥料流出（窒素供給）の恩恵を受ける |
+| **休耕地・荒地** | 遷移初期のパイオニア植物として土壌被覆を担う |
+| **瓦礫地・石切場** | 貧弱な土壌構造にも耐えうる強靭な根系を持つ |
+| **牧草地** | 放牧圧に耐え、家畜による踏圧後の再生能力が高い |
+
+このように、ストリドーロは「人間の生活圏」に密接して自生する植物であり、この生態的特性こそが、古来より人々が日常的にこの植物を利用し、食文化に取り入れてきた主たる要因であると分析できる。山奥に入らなくとも、家の裏や畑の隅で容易に手に入る資源であったことが、その普及を後押ししたのである。
+
+## 語源学的・民俗学的分析：名前が語る文化的背景
+イタリアは「カンパニリスム（愛郷心）」が強く、地域ごとに独自の方言や文化が色濃く残る国である。ストリドーロの呼称もまた、地域ごとの言語的・文化的フィルターを通して極めて多様に変化しており、それぞれの名称が植物の特定の属性（音、形、味）を捉えている。
+
+### 「音」に由来する名称群
+最も広範に見られる名称のグループは、この植物が発する「音」に関連している。これは、植物と人間の相互作用が、視覚だけでなく聴覚や触覚を伴う遊びや作業を通じて行われていたことを示唆する。
+
+* **Stridolo / Strigoli（エミリア＝ロマーニャ州）**: この名称はラテン語の *stridulus*（軋む音、甲高い音）に由来する。新鮮な葉や茎を指で挟んで擦り合わせると、「キュッキュッ」という特有の摩擦音が生じる。また、葉を唇に当てて息を吹くと笛のような音が鳴ることから、子供たちの玩具としても親しまれてきた。この名称は、植物の利用が食用に留まらず、感覚的な遊びの対象であったことを物語っている。  
+* **Sclopit / S-ciopit（フリウリ＝ヴェネツィア・ジュリア州）**: フリウリ語におけるこの名称は、擬音語に由来する。子供たちは、袋状に膨らんだ花の萼の開口部を指で塞ぎ、もう一方の手の甲や額に勢いよく叩きつける遊びを行う。この際、萼が破裂して「パン！（Sclop\!）」という破裂音が生じる。この遊びはイタリア北東部で普遍的に見られ、世代を超えた共通の記憶として植物の認知度を高めている。  
+* **Schioppettina / Erba scioppettina（リグーリア州・他）**: 「小さな鉄砲（Schioppetto）」を意味し、これもまた萼を割る際の音に由来する。植物が「火薬のない鉄砲」として子供たちの想像力を刺激していたことがわかる。
+
+### 「形状」と「神話」に由来する名称群
+* **Bubbolini / Silene inflata（トスカーナ州・中部イタリア）**: 萼の膨らんだ形状を「泡（bubbolo）」や「鈴」に見立てた名称である。また、学名の *Silene* 自体が、ギリシャ神話に登場するバッカスの養父シレノス（Silenus）に由来するという説が有力である。シレノスは酩酊して腹が大きく膨らんだ姿で描かれることが多く、その太鼓腹を植物の萼に見立てたものである。  
+* **Cannatedda（シチリア州）**: シチリアの方言で、花の形を「小さな水差し（cannata）」に見立てた名称である。これは、古代の生活用具と植物の形態を結びつけたメタファーであり、農村生活の視点が反映されている。
+
+### その他の地域的呼称
+以下の表は、イタリア各地における主要な方言名とその分布、語源的背景を整理したものである。
+
+| 州・地域 | 方言名・通称 | 語源的・文化的背景 |
+| :---- | :---- | :---- |
+| **ヴェネト** | Carletti, Carleti, Barbabechi | "Carletti"は一般的な愛称。"Barbabechi"は「山羊のひげ」等の形状由来か |
+| **ロンバルディア** | Cornagitt, Erba issegheta | "Cornagitt"は「小さな角」を意味し、蕾の形状に由来する可能性がある |
+| **ピエモンテ** | Cojet, Eiclopet | "Cojet"は形状、"Eiclopet"は音（破裂音）に由来 |
+| **サルデーニャ** | Erba 'e sonagiolus | 「鈴の草」。乾燥した萼の中で種子が鳴る音、または形状を鈴に見立てたもの |
+| **リグーリア** | Battilingua | 「舌を打つ」。葉の食感や味に関連する可能性がある |
+
+これらの多様な名称は、イタリアという国が単一の言語文化圏ではなく、モザイク状の地域文化の集合体であることを植物学的な側面から証明している。
+
+## 歴史的変遷：古代の知恵から救荒植物、そして伝統への回帰
+ストリドーロとイタリアの人々との関わりは、文献記録以前の先史時代にまで遡ると考えられるが、記録に残る歴史においてもその存在は常に重要な位置を占めてきた。
+
+### 古代ローマと植物学の黎明期
+古代ローマ時代、植物は食料であると同時に薬であり、神秘的な力を持つ存在であった。ディオスコリデス（西暦1世紀）の『薬物誌（De Materia Medica）』には、数多くの植物が記載されているが、その中にはシレネ属の植物に相当する記述が見られる。後の研究者は、ディオスコリデスが「Polemonia」として記述した植物の一部が *Silene vulgaris* であったと同定している。
+
+ルネサンス期に入ると、イタリアでは植物学が飛躍的に発展する。16世紀のトスカーナで編纂された匿名の植物標本集（ハーバリウム）には、この植物が保存されており、当時の知識人が古代の文献と実際のフィールドワークを結びつけようとしていた努力の跡が見られる。
+
+### ピエトロ・アンドレア・マッティオーリとルネサンス医学
+16世紀のイタリアを代表する医師・植物学者ピエトロ・アンドレア・マッティオーリ（Pietro Andrea Mattioli, 1501-1578）の功績は特筆に値する。彼はシエナ出身であるが、1540年から1554年にかけて現在のフリウリ＝ヴェネツィア・ジュリア州ゴリツィアに滞在し、北東イタリアの植物相を詳細に研究した。
+
+マッティオーリは、ディオスコリデスの注釈書（Commentarii）において、地域の野生植物の薬効や食用価値について言及している。彼がゴリツィアやカルソ地方、ヴェネツィア周辺で調査した植物の中には、当然ながら当時の庶民が利用していたシレネ・ヴルガリスも含まれていたと考えられる。彼の記述は、植物が単なる民間の知恵から、体系的な「本草学」の対象へと昇華される過程を示しており、ストリドーロが当時の医療的・栄養的文脈でどのように捉えられていたかを知る手がかりとなる。
+
+### 救荒植物としての「フィトアリムルジア」
+ストリドーロの歴史を語る上で最も重要な概念が「フィトアリムルジア（Fitoalimurgia）」である。これは1767年、トスカーナの自然科学者ジョヴァンニ・タルジョーニ・トッツェッティ（Giovanni Targioni Tozzetti）が著書『Alimurgia』で提唱した概念であり、「飢饉（Alimurgia）」に対抗するための「植物（Phyto）」の利用法を意味する。
+
+18世紀から19世紀にかけてのイタリアは、度重なる戦争や天候不順による飢饉に見舞われた。小麦や栽培作物が不足した際、農村の人々は野山に入り、自生する植物を採集して飢えを凌いだ。この「フォラジング（Foraging）」は、現代のような趣味ではなく、生存のための切実な技術であった。
+
+ストリドーロは、以下の理由から救荒植物として極めて優秀であった。. **入手容易性**: 畑の縁や道端など、身近な場所に自生していた。. **早生性**: 冬が終わり、栽培作物の収穫がまだ始まらない早春（3月〜4月）に芽吹くため、端境期の食料として理想的であった。. **栄養価**: ビタミンやミネラルを含み、冬の間の栄養不足を補う役割を果たした。
+
+第一次世界大戦中、トリノ植物園長のオレステ・マッティローロ（Oreste Mattirolo）は、戦時下の食料不足を解決するために、この伝統的な知識を科学的に体系化し、野生植物の利用を推奨した。このように、ストリドーロはイタリアの苦難の歴史に常に寄り添い、人々を支えてきた「貧者の糧」であった。
+
+### ケルト文化の影響と北イタリアの伝統
+北イタリア、特にフリウリやヴェネト地方における薬草利用の伝統には、古代ケルト文化の影響が色濃く残っているという指摘がある。ケルト系の部族は紀元前800年から紀元後500年にかけて中欧・西欧を支配し、ドナウ川流域から北イタリアにかけて移住した。彼らの伝統医学は、後のローマや中世のハーバル・テキストに断片的に記録された。
+
+シレネ・ヴルガリスを含む野生植物の利用法、特に乳清（ホエイ）や灰を使用した製剤技術などは、地中海式の伝統（ディオスコリデス流）とは異なる、大陸的なケルトの薬草学の痕跡である可能性がある。フリウリ地方で「スクロピット」が特に珍重され、春の儀式的な料理（リゾット）に用いられる背景には、季節の巡りを重視した古代の自然崇拝やケルト的な自然観が根底にあるとも推測される。
+
+## 地域別ガストロノミーと伝統的利用法
+現代のイタリアにおいて、ストリドーロは「貧しい食事」から「洗練された郷土料理」へとその地位を変貌させた。各州には独自のレシピと利用法が存在し、それが地域のアイデンティティ形成に寄与している。
+
+### エミリア＝ロマーニャ州：ストリドーロ祭とパスタ文化
+エミリア＝ロマーニャ州、特にフォルリ＝チェゼーナ県周辺では、ストリドーロは春の味覚の王者として扱われる。この地域で特筆すべきは、ガレアータ（Galeata）で開催される「ストリドーロ祭（Sagra dello Stridolo）」である。
+
+#### ガレアータのストリドーロ祭
+毎年4月末、ガレアータの町はストリドーロ一色に染まる。この祭りは、地元の観光協会（Pro Loco）が主催し、地域の伝統食材を保護・継承することを目的としている。
+
+* **開催時期**: ストリドーロの若芽が最も柔らかく美味しい時期である4月下旬。  
+* **提供される料理**:  
+  * **Tagliatelle agli stridoli**: ストリドーロをソースに使うだけでなく、生地に練り込むこともある手打ちのタリアテッレ。  
+  * **Tortelli**: リコッタチーズと共にストリドーロを詰めた詰め物パスタ。  
+  * **Maccheroni**: 短いパスタを用いた家庭的な料理。  
+* **社会的意義**: この祭りは単なる集客イベントではなく、地域住民が自らの食文化を再確認し、次世代へ継承するための教育的な場としても機能している。また、周辺地域のチーズや肉製品（Salsiccia mattaなど）と組み合わせることで、地域経済全体の活性化を図っている。
+
+### フリウリ＝ヴェネツィア・ジュリア州：復活祭のリゾット
+フリウリ地方では、ストリドーロ（スクロピット）は春の到来を告げる象徴的な食材であり、特にイースター（Pasqua、復活祭）の時期に食される習慣がある。
+
+#### リゾット・アッロ・スクロピット（Risotto allo Sclopit）
+フリウリを代表するこの料理は、シンプルながら高度な調理技術と素材への敬意が込められている。
+
+* **材料と構成**:  
+  * **米**: カルナローリやヴィアローネ・ナノといった、デンプン質を多く含むリゾット用米。  
+  * **スクロピット**: 開花前の柔らかい新芽のみを使用する。  
+  * **モンタージオチーズ（Montasio）**: フリウリ特産の牛乳チーズ。熟成したもの（Stagionato）を仕上げに加えることで、ハーブの青い香りにコクを与える。  
+* **調理のポイント**:  
+  * スクロピットは長時間煮込むと風味と鮮やかな緑色が失われるため、一部は最初から炒めて香りを移し、残りは仕上げ直前に加えて食感と色を残す「二段階投入」や、ペースト状にして加える手法が取られることがある。  
+  * 完成したリゾットは、ハーブの甘み（エンドウ豆のような風味）と、わずかな苦味、そしてチーズの旨味が一体となり、春の野原そのものを味わうような体験を提供する。
+
+### ヴェネト州：市場に並ぶ「カルレッティ」
+ヴェネト州では、ストリドーロは「カルレッティ（Carletti）」と呼ばれ、春になるとリアルト市場（ヴェネツィア）やトレヴィーゾの市場の野菜売り場に並ぶほど一般的な食材である。ここでは、オムレツ（Frittata）の具材としての利用が最もポピュラーである。
+
+* **Frittata ai Carletti**: 卵のまろやかさが、カルレッティの持つ繊細な苦味を包み込む。家庭料理の定番であり、冷めても美味しいため、春のピクニック（Pasquetta）の弁当としても愛されている。
+
+### その他の地域の調理法
+* **ロンバルディア（ヴァルテッリーナ地方）**: ジャガイモ、玉ねぎと共に煮込んだスープ（Minestra）に使用される。寒冷な山岳地帯において、体を温め、ビタミンを補給するための重要な料理であった。  
+* **シチリア・南部イタリア**: 「Cannatedda」として知られ、ニンニクと共にオリーブオイルでソテーし、肉料理の付け合わせにするほか、トマトを使わない「白いパスタソース」として楽しまれる。
+
+## 栄養学的価値と薬用植物としての側面
+### 栄養成分と機能性
+ストリドーロは、現代の栄養学の観点からも優れた食材である。100gあたりのカロリーは低く、一方で微量栄養素を豊富に含んでいる。
+
+| 栄養素（推定値） | 特徴と健康効果 |
+| :---- | :---- |
+| **炭水化物** | 約4.5g。エネルギー源となるが低GIであると推測される |
+| **ビタミンC** | 抗酸化作用を持ち、冬場のビタミン不足を解消する |
+| **ミネラル塩** | カリウム等を多く含み、体内の水分バランス調整に寄与する |
+| **繊維質** | 消化を助け、腸内環境を整える。 |
+
+### サポニンの化学的特性と利用
+シレネ属の植物には「サポニン（Saponin）」が含まれている。サポニンは界面活性作用（泡立つ性質）を持ち、過剰摂取は溶血作用などの毒性を示す場合があるが、ストリドーロに含まれる量は通常食用量では問題とならないレベルである。むしろ、適度なサポニン摂取は去痰作用や抗炎症作用をもたらすとされる。
+
+* **歴史的な石鹸利用**: かつて貧しい農村では、ストリドーロの根を煮出し、その泡立つ液体を石鹸の代用品として衣服や髪の洗浄に用いていた。これは、植物の化学的特性を経験的に理解し、生活に応用していた「生存の知恵」の一例である。
+
+### 民間療法（Ethnomedicine）
+イタリアの伝統医学において、ストリドーロは以下のような用途で用いられてきた。
+
+* **眼科領域**: 抽出液を用いた洗眼薬として、眼炎（Ophthalmia）の治療に使用された。  
+* **皮膚科領域**: 葉をすり潰したものを湿布として、いぼや魚の目、あるいは毒蛇に噛まれた傷の治療に用いた。  
+* **利尿剤**: お茶として煎じ、体内の余分な水分を排出するために飲用された。
+
+## 栽培技術と農業的展望：採集から生産へ
+野生植物であったストリドーロは、近年、その需要の高まりと共に「栽培作物」としての地位を確立しつつある。これは、不安定な野生採集（Foraging）から、品質と供給量が安定した農業生産へのパラダイムシフトを意味する。
+
+### 栽培サイクルと技術
+イタリアの農業研究機関（CREA）等の研究によれば、ストリドーロの商業栽培には以下のポイントが重要とされる。
+
+* **播種と発芽**: 種子からの発芽、または株分けによって増殖する。伝統的には「下弦の月（luna calante）」の時期に種をまくと、地上部の過剰な成長が抑えられ、良質な葉が収穫できると信じられている。  
+* **成長フェーズ**:. **栄養成長期（Vegetative Phase）**: 発芽後40日間は急速に成長し、茎のバイオマスが増加する。相対成長率は高く、1日あたり200 mg/gに達することもある。. **収穫適期**: 花芽が形成される前の、茎が柔らかい時期に収穫を行う。花が咲くと茎が硬化し（木質化）、食味が落ちるため、商業的価値が著しく低下する。  
+* **土壌条件**: 中性から弱アルカリ性の土壌を好み、窒素肥料に対する反応が良い。過湿を嫌うため、排水性の良い圃場が適している。
+
+### 経済性とニッチ市場
+ストリドーロは、大規模なモノカルチャー（単一栽培）には適さないが、小規模農家やアグリツーリズム（農家民宿）にとっては、高付加価値なニッチ作物として魅力的である。
+
+* **高単価**: 野生種由来の希少性と、収穫の手間（手摘みが基本）から、市場では一般的な葉物野菜（ほうれん草など）よりも高値で取引される。  
+* **差別化**: レストランや高級スーパーマーケットに対し、「地域の伝統」「物語性」を付加価値として売り込むことができる。  
+* **加工品**: 生鮮品だけでなく、ペースト（Pesto）や瓶詰めとしての加工販売も行われており、販売期間の延長と収益性の向上が図られている。
+
+## 環境指標としての科学的意義
+現代の環境科学において、シレネ・ヴルガリスは「バイオインジケーター（生物指標）」としての新たな役割を担っている。
+
+### 重金属耐性と土壌浄化
+研究によれば、シレネ・ヴルガリスの一部のエコタイプ（生態型）は、亜鉛、銅、カドミウムなどの重金属で汚染された土壌においても生存できる耐性を持つことが確認されている。
+
+* **ファイトレメディエーション（Phytoremediation）**: この植物は、根圏に特定の微生物叢を形成し、重金属の毒性を緩和したり、根に金属を蓄積したりする能力がある。これにより、鉱山跡地や工場跡地などの土壌浄化に応用できる可能性が示唆されている。  
+* **環境モニタリング**:  
+  植物体内の重金属濃度を測定することで、その土地の汚染レベルを推定する指標生物として利用される。
+
+このように、ストリドーロは「食べる」対象としてだけでなく、「環境を守る・測る」ツールとしても、イタリアの科学界で注目されているのである。
+
+## 法的保護とPAT認定：伝統の制度化
+イタリア農林水産省は、地域の食文化を守るため「伝統農産物（PAT: Prodotti Agroalimentari Tradizionali）」という認定制度を運用している。ストリドーロは複数の州でこのリストに登録されており、国による「文化財」としての保護を受けている。
+
+### PAT認定の意義
+PATに認定されるためには、「少なくとも25年以上、地域で均一な方法により加工・保存・熟成が行われていること」が証明されなければならない。これは、単にその植物が存在することではなく、人間による「利用の歴史」が存在することを条件としている。
+
+### 各州における登録状況
+* **エミリア＝ロマーニャ州**: 第23回改訂リストにおいて、「Stridoli, Strigoli, Carletti...」等の名称で登録されている。これにより、ガレアータの祭りで提供される料理などが、公的に「エミリア＝ロマーニャの伝統」として認められたことになる。  
+* **フリウリ＝ヴェネツィア・ジュリア州**: 同州のリストには、ストリドーロそのものだけでなく、それを用いた加工品や関連する食文化が広義に含まれる形で保護の対象となっている。  
+* **ヴェネト州**: 「Silene rigonfia o gonfiata (Silene vulgaris) o "Carletti"」として登録されており、市場での販売名称として「Carletti」を使用する正当性が保証されている。
+
+この制度的枠組みは、グローバル化による食の均質化に対抗し、地域固有の生物多様性と文化的多様性を維持するための強力な防波堤となっている。
+
+## 結論
+イタリアにおけるストリドーロ（*Silene vulgaris*）の包括的な調査から浮かび上がるのは、この植物が単なる「食材」ではなく、イタリアの歴史、生態系、そして人々の精神性と深く結びついた「文化的シンボル」であるという事実である。. **歴史の証人**: 古代ローマの薬草学から、中世・近世の飢饉を救った救荒植物としての歴史、そして現代の美食への昇華は、イタリア社会の変遷そのものを映し出している。. **言語と遊びの記憶**: 「Stridolo」や「Sclopit」という名称は、植物の音や形を通じた子供たちの遊びや、人々の身体的な経験に根ざしており、世代を超えたコミュニケーションの媒体となっている。. **生態系との調和**: ルドラル植生として人間活動に寄り添い、バイオインジケーターとして環境の健全性を示すこの植物は、持続可能な農業や環境保全の観点からも重要な存在である。. **未来への資源**: PAT制度による保護や、栽培技術の確立、ニッチ市場での成功は、伝統作物が現代経済においても十分に価値を持ち得ることを証明している。
+
+ストリドーロは、イタリアの野山にある「小さな瓶（Silene）」の中に、過去の記憶と未来の可能性を詰め込んだ、稀有な植物遺産なのである。その葉が奏でる「キュッキュッ」という音は、これからもイタリアの食卓と文化の中で響き続けるであろう。
+
+#### 引用文献. Ecco gli strigoli (o silene vulgaris): la pianta coi fiori che "scoppiano". Ma in cucina è una delizia \- Informatore Vigevanese, 2月, 2026にアクセス、 [https://www.informatorevigevanese.it/magazine/2023/05/01/news/gli-strigoli-o-silene-vulgaris-la-pianta-coi-fiori-che-scoppiano-ma-in-cucina-e-una-delizia-556355/](https://www.informatorevigevanese.it/magazine/2023/05/01/news/gli-strigoli-o-silene-vulgaris-la-pianta-coi-fiori-che-scoppiano-ma-in-cucina-e-una-delizia-556355/). Silene vulgaris \- Wikipedia, 2月, 2026にアクセス、 [https://en.wikipedia.org/wiki/Silene\_vulgaris](https://en.wikipedia.org/wiki/Silene_vulgaris). Silene vulgaris (Moench) Garcke subsp. vulgaris \- Guida alla flora del Friuli Venezia Giulia, 2月, 2026にアクセス、 [https://dryades.units.it/FVG/index.php?procedure=taxon\_page\&id=825\&num=786](https://dryades.units.it/FVG/index.php?procedure=taxon_page&id=825&num=786). Scheda botanica Silene vulgaris \- Centro Studi e Documentazione Isola di Ustica, 2月, 2026にアクセス、 [https://www.centrostudiustica.it/images/PDF/pdf-copertine-rivista-lettera/Lettera-N.65/L65\_NATU\_Silene\_APatania-FBertani.pdf](https://www.centrostudiustica.it/images/PDF/pdf-copertine-rivista-lettera/Lettera-N.65/L65_NATU_Silene_APatania-FBertani.pdf). Piante spontanee: Silene vulgaris (Moench.) Garcke \- Rivista di Agraria.org, 2月, 2026にアクセス、 [https://www.rivistadiagraria.org/articoli/anno-2023/piante-spontanee-silene-vulgaris-moench-garcke/?print=print](https://www.rivistadiagraria.org/articoli/anno-2023/piante-spontanee-silene-vulgaris-moench-garcke/?print=print). Bladder Campion or Collejas (Silene vulgaris) Forager | Chef, 2月, 2026にアクセス、 [https://foragerchef.com/bladder-campion-silene-vulgaris/](https://foragerchef.com/bladder-campion-silene-vulgaris/). Silene vulgaris (Moench) Garcke subsp. vulgaris \- Portale alla flora del Parco Nazionale Dolomiti Bellunesi \- UniTS, 2月, 2026にアクセス、 [https://dryades.units.it/dolomitibellunesi/index.php?procedure=taxon\_page\&id=825\&num=786](https://dryades.units.it/dolomitibellunesi/index.php?procedure=taxon_page&id=825&num=786). Strìdulo \- Significato ed etimologia \- Vocabolario \- Treccani, 2月, 2026にアクセス、 [https://www.treccani.it/vocabolario/stridulo/](https://www.treccani.it/vocabolario/stridulo/). THE STRIGOLI OF ROMAGNA \- Sipo Italia Azienda, 2月, 2026にアクセス、 [https://www.sipo.it/en/%E2%99%A3-the-strigoli-of-romagna/](https://www.sipo.it/en/%E2%99%A3-the-strigoli-of-romagna/). GALEATA \- Sagre e Borghi, 2月, 2026にアクセス、 [https://www.sagreeborghi.it/scheda-turistica?s=eGt6Tg==](https://www.sagreeborghi.it/scheda-turistica?s=eGt6Tg%3D%3D). Torna la Sagra dello stridolo "Valorizziamo i prodotti locali" \- Il Resto del Carlino, 2月, 2026にアクセス、 [https://www.ilrestodelcarlino.it/forli/cronaca/torna-la-sagra-dello-stridolo-valorizziamo-i-prodotti-locali-4647f662](https://www.ilrestodelcarlino.it/forli/cronaca/torna-la-sagra-dello-stridolo-valorizziamo-i-prodotti-locali-4647f662). Primavera: tempo di Sclopit \- Assenso \- Analisi sensoriale, 2月, 2026にアクセス、 [https://www.assenso.it/primavera-tempo-di-sclopit/](https://www.assenso.it/primavera-tempo-di-sclopit/). Erbe di campo in cucina: risotto allo Sclopit \- ATOR FVG, 2月, 2026にアクセス、 [https://atorfvg.com/erbe-di-campo-in-cucina-il-risotto-allo-sclopit/](https://atorfvg.com/erbe-di-campo-in-cucina-il-risotto-allo-sclopit/). Menu BURVET \- Dettaglio Immagine \- Bollettino Ufficiale della Regione del Veneto, 2月, 2026にアクセス、 [https://bur.regione.veneto.it/BurvServices/pubblica/burvGalleryDettaglio.aspx?id=2527](https://bur.regione.veneto.it/BurvServices/pubblica/burvGalleryDettaglio.aspx?id=2527). (PDF) Origin and evolution of herbaria in the sixteenth century \- ResearchGate, 2月, 2026にアクセス、 [https://www.researchgate.net/publication/379014933\_Origin\_and\_evolution\_of\_herbaria\_in\_the\_sixteenth\_century](https://www.researchgate.net/publication/379014933_Origin_and_evolution_of_herbaria_in_the_sixteenth_century). Incontri di approfondimento a La cucina del mortaio e del pestello alimentazione e salute tra medioevo e età moderna – Pietro Andrea Mattioli e le 'spezie' nella Venezia Giulia del '500 \- Biblioteca Civica Attilio Hortis, 2月, 2026にアクセス、 [https://bibliotecacivicahortis.it/incontri-di-approfondimento-2016-a-la-cucina-del-mortaio-e-del-pestello-alimentazione-e-salute-tra-medioevo-e-eta-moderna-2/](https://bibliotecacivicahortis.it/incontri-di-approfondimento-2016-a-la-cucina-del-mortaio-e-del-pestello-alimentazione-e-salute-tra-medioevo-e-eta-moderna-2/). Le piante di Francesco Calzolari \- World Biodiversity Association, 2月, 2026にアクセス、 [https://biodiversityassociation.org/wp-content/uploads/2015/10/PDF\_calzolari.pdf](https://biodiversityassociation.org/wp-content/uploads/2015/10/PDF_calzolari.pdf). La “Cucina povera” dei poveri ovvero di una “Cioccolata economica” \- Georgofili.info, 2月, 2026にアクセス、 [https://www.georgofili.info/contenuti/la-cucina-povera-dei-poveri-ovvero-di-una-cioccolata-economica/8906](https://www.georgofili.info/contenuti/la-cucina-povera-dei-poveri-ovvero-di-una-cioccolata-economica/8906). Celtic Provenance in Traditional Herbal Medicine of Medieval Wales and Classical Antiquity, 2月, 2026にアクセス、 [https://pmc.ncbi.nlm.nih.gov/articles/PMC7058801/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7058801/). Celtic Provenance in Traditional Herbal Medicine of Medieval Wales and Classical Antiquity \- Frontiers, 2月, 2026にアクセス、 [https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2020.00105/full](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2020.00105/full). Galeata (FC) \- Sagra dello Stridolo – aprile \- FuoriPorta \- Sagre, folklore, eventi in Italia, 2月, 2026にアクセス、 [https://www.fuoriporta.org/eventi/galeata-fc-sagra-dello-stridolo-26-aprile/](https://www.fuoriporta.org/eventi/galeata-fc-sagra-dello-stridolo-26-aprile/). Le piante commestibili italiane \- Gli Strigoli \- Silene vulgaris subsp. tenoreana. \- YouTube, 2月, 2026にアクセス、 [https://www.youtube.com/watch?v=MoEV-bR\_650](https://www.youtube.com/watch?v=MoEV-bR_650). SAGRA DELLO STRIDOLO DI GALEATA \- Romagna.com, 2月, 2026にアクセス、 [https://www.romagna.com/sagra-dello-stridolo-di-galeata/](https://www.romagna.com/sagra-dello-stridolo-di-galeata/). Il risotto con sclopit è il nuovo piatto pasquale \- Slow Food \- Buono, Pulito e Giusto., 2月, 2026にアクセス、 [https://www.slowfood.it/63353-2/](https://www.slowfood.it/63353-2/). Aromatiche e non solo, coltivazione e ricette: Stridolo Silene vulgaris \- YouTube, 2月, 2026にアクセス、 [https://www.youtube.com/watch?v=EL3RfahjTSc](https://www.youtube.com/watch?v=EL3RfahjTSc). Risotto con sclopit (Silene vulgaris) \- YouTube, 2月, 2026にアクセス、 [https://www.youtube.com/watch?v=IVoFstRLrCU](https://www.youtube.com/watch?v=IVoFstRLrCU). Stridolo (Sculpit, Silene vulgaris) \- quail seeds, 2月, 2026にアクセス、 [https://www.quailseeds.com/store/p587/Stridolo\_%28Sculpit%2C\_Silene\_vulgaris%29.html](https://www.quailseeds.com/store/p587/Stridolo_%28Sculpit%2C_Silene_vulgaris%29.html). La Ricetta coi Susei \- Silene Vulgaris: erba spontanea commestibile \- YouTube, 2月, 2026にアクセス、 [https://www.youtube.com/watch?v=4wdtm49pSVw](https://www.youtube.com/watch?v=4wdtm49pSVw). Strigoli, stridoli (silene vulgaris) e dieta chetogenica | Questo è Cheto, 2月, 2026にアクセス、 [https://questoecheto.it/strigoli](https://questoecheto.it/strigoli). Silene vulgaris (Moench) Garcke \- IRIS, 2月, 2026にアクセス、 [https://www.iris.sssup.it/retrieve/dd9e0b31-bc63-709e-e053-3705fe0a83fd/296\_vqr\_Etnobotanica.pdf](https://www.iris.sssup.it/retrieve/dd9e0b31-bc63-709e-e053-3705fe0a83fd/296_vqr_Etnobotanica.pdf). Stridolo (Silene vulgaris): how to grow and eat this rare Italian veggie \- Tyrant Farms, 2月, 2026にアクセス、 [https://www.tyrantfarms.com/stridolo-silene-vulgaris-how-to-grow-and-eat-with-recipes/](https://www.tyrantfarms.com/stridolo-silene-vulgaris-how-to-grow-and-eat-with-recipes/). Silene vulgaris: le sue proprietà e gli usi in cucina \- Azienda Agricola Della Fara, 2月, 2026にアクセス、 [https://dellafara.com/silene-vulgaris-proprieta-usi-in-cucina/](https://dellafara.com/silene-vulgaris-proprieta-usi-in-cucina/). Crema di Silene vulgaris (Sclopit), 130g, 2月, 2026にアクセス、 [https://www.agricolafaleschini.com/erbe-selvatiche-da-raccolta-spontanea/70-crema-di-silene-vulgaris-sclopit-130g.html](https://www.agricolafaleschini.com/erbe-selvatiche-da-raccolta-spontanea/70-crema-di-silene-vulgaris-sclopit-130g.html). Effect of Silene vulgaris and Heavy Metal Pollution on Soil Microbial Diversity in Long-Term Contaminated Soil \- PubMed, 2月, 2026にアクセス、 [https://pubmed.ncbi.nlm.nih.gov/29367788/](https://pubmed.ncbi.nlm.nih.gov/29367788/). Evaluation of heavy metal-induced responses in Silene vulgaris ecotypes \- PubMed, 2月, 2026にアクセス、 [https://pubmed.ncbi.nlm.nih.gov/31044286/](https://pubmed.ncbi.nlm.nih.gov/31044286/). Elenco regionale dei Pat, superate le denominazioni \- Dop, Igp e produzioni di qualità, 2月, 2026にアクセス、 [https://agricoltura.regione.emilia-romagna.it/dop-igp/food-valley-news/news/2023/elenco-regionale-dei-pat-superate-le-400-denominazioni](https://agricoltura.regione.emilia-romagna.it/dop-igp/food-valley-news/news/2023/elenco-regionale-dei-pat-superate-le-400-denominazioni). GAZZETTA UFFICIALE, 2月, 2026にアクセス、 [https://www.ccpb.it/wp-content/uploads/2019/07/DM-07-02-2019-elenco-PAT.pdf](https://www.ccpb.it/wp-content/uploads/2019/07/DM-07-02-2019-elenco-PAT.pdf). Elenco dei Prodotti agroalimentari Tradizionali \- Pat Emilia Romagna \- Disciplinare.it, 2月, 2026にアクセス、 [https://www.disciplinare.it/elenco-dei-prodotti-agroalimentari-tradizionali-pat-emilia-romagna.html](https://www.disciplinare.it/elenco-dei-prodotti-agroalimentari-tradizionali-pat-emilia-romagna.html). PAT Regione FRIULI VENEZIA GIULIA \- ViVi GREEN \-, 2月, 2026にアクセス、 [https://www.vivigreen.eu/blog/pat-friuli-venezia-giulia/](https://www.vivigreen.eu/blog/pat-friuli-venezia-giulia/). Prodotti agroalimentari tradizionali \- InformaCibo, 2月, 2026にアクセス、 [https://www.informacibo.it/wp-content/uploads/2018/11/Allegato\_al\_decreto\_PAT\_2019\_prodotti\_agroalimentari\_tradizionali-FRIULI-.pdf](https://www.informacibo.it/wp-content/uploads/2018/11/Allegato_al_decreto_PAT_2019_prodotti_agroalimentari_tradizionali-FRIULI-.pdf). Riconosciuti nuovi Prodotti agroalimentari tradizionali del Veneto \- Portale PIAVe, 2月, 2026にアクセス、 [https://piave.veneto.it/web/eventi-news/news-dettaglio?p\_p\_id=COMMUNITY\_DETAIL\_WAR\_piavewebcontent\&p\_p\_lifecycle=1\&p\_p\_state=normal\&p\_p\_mode=view\&template=/regioneveneto/presentation/news-detail\&uuid=a86dcc20-ae30-410b-a5a7-c10ddc2d3006](https://piave.veneto.it/web/eventi-news/news-dettaglio?p_p_id=COMMUNITY_DETAIL_WAR_piavewebcontent&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&template=/regioneveneto/presentation/news-detail&uuid=a86dcc20-ae30-410b-a5a7-c10ddc2d3006)

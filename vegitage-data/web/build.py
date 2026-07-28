@@ -493,10 +493,28 @@ def build_index(articles: list[dict], out_dir: Path, cat: dict) -> None:
     )
 
 
+# ── Root index (aiseed.page のトップ) ─────────────────
+def build_root_index():
+    """サイトルート。カテゴリが増えるまではイタリア図鑑へ案内する。"""
+    (DIST_DIR / "index.html").write_text("""<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="refresh" content="0; url=/italian/">
+<link rel="canonical" href="https://aiseed.page/italian/">
+<title>Vegitage — 伝統野菜辞典</title>
+</head>
+<body>
+<p><a href="/italian/">イタリア野菜図鑑へ</a></p>
+</body>
+</html>""", encoding="utf-8")
+
+
 def main():
     if DIST_DIR.exists():
         shutil.rmtree(DIST_DIR)
     DIST_DIR.mkdir(parents=True)
+    build_root_index()
 
     total = 0
 

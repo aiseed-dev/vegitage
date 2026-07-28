@@ -1,0 +1,64 @@
+# イタリア図鑑(カタログA)の品目スキーマ
+# aiseed-builder のカタログエディタが、このファイルを読んでフォームを組み立てる。
+# パーサの正はサイト側に一つ、の原則によりスキーマもデータ側(ここ)に置く。
+#
+# フィールド type:
+#   text   … 1行テキスト(required で必須)
+#   tags   … チップ入力(複数値)。options + open:false で閉じた語彙を検証
+#   select … ドロップダウン(1値)。options: existing は既存データから収集
+#   image  … ファイル選択 + プレビュー
+#   id     … 読み取り専用表示(触らない)
+#
+# options: existing … 既存69品目から値を集めてサジェスト(開いた語彙)
+# open: false        … options 以外の値を保存時に拒否(閉じた語彙)
+
+label: イタリア野菜図鑑
+item_label: 品種
+url_base: /italian            # aiseed.page 配下
+build: web/build.py
+output: web/site/italian
+preview_path: /italian/
+
+fields:
+  - {key: id,           label: 品目ID,     type: id}
+  - {key: name_ja,      label: 和名,       type: text, required: true}
+  - {key: name_it,      label: 伊名,       type: text}
+  - {key: name_en,      label: 英名,       type: text}
+  - {key: aliases,      label: 別名,       type: tags}
+  - {key: family,       label: 科,         type: text}
+  - {key: family_latin, label: 科(学名),   type: text}
+  - {key: botanical,    label: 学名,       type: text}
+  - key: index_group
+    label: 目次グループ(科)
+    type: select
+    # 目次「科」タブの見出し。基本は科名だが「果樹」など横断カテゴリも許すため
+    # 開いた語彙(existing)。表記ゆれはファセットで見つけて直す。
+    options: existing
+  - key: type
+    label: 種類
+    type: tags
+    open: false
+    options: [葉菜類, 茎菜類, 根菜類, 果菜類, 花菜類, 豆類, 果実類, 堅果類, 穀類, 香草類]
+  - key: certification
+    label: 認証
+    type: tags
+    open: false
+    options: [DOP, IGP, PAT, "Slow Food"]
+  - {key: regions,      label: 主な産地,   type: tags, options: existing}
+  - key: season
+    label: 旬
+    type: tags
+    open: false
+    options: [春, 夏, 秋, 冬, 通年]
+  - {key: uses,         label: 用途,       type: tags, options: existing}
+  - {key: hero_image,   label: アイキャッチ画像, type: image}
+
+# 本文タブ。dir: null は概要ファイル自身(<作物>.md)。
+sections:
+  - {dir: null,        label: 概要}
+  - {dir: history,     label: 歴史}
+  - {dir: cultivation, label: 栽培}
+  - {dir: cuisine,     label: 料理}
+
+status:
+  draft_key: draft             # フロントマターに draft: true で下書き(サイト非公開)
